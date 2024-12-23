@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <style>
+        @import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+        * {
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.75em;
+            font-size: 16px;
+            background-color: #222;
+            color: #aaa;
+        }
+
+        .simple-container {
+            max-width: 675px;
+            margin: 0 auto;
+            padding-top: 70px;
+            padding-bottom: 20px;
+        }
+
+        .simple-print {
+            fill: white;
+            stroke: white;
+        }
+        .simple-print svg {
+            height: 100%;
+        }
+
+        .simple-close {
+            color: white;
+            border-color: white;
+        }
+
+        .simple-ext-info {
+            border-top: 1px solid #aaa;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        h1 {
+            font-size: 30px;
+            line-height: 34px;
+        }
+
+        h2 {
+            font-size: 20px;
+            line-height: 25px;
+        }
+
+        h3 {
+            font-size: 16px;
+            line-height: 27px;
+            padding-top: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #D8D8D8;
+            border-top: 1px solid #D8D8D8;
+        }
+
+        hr {
+            height: 1px;
+            background-color: #d8d8d8;
+            border: none;
+            width: 100%;
+            margin: 0px;
+        }
+
+        a[href] {
+            color: #1e8ad6;
+        }
+
+        a[href]:hover {
+            color: #3ba0e6;
+        }
+
+        img {
+            max-width: 100%;
+        }
+
+        li {
+            line-height: 1.5em;
+        }
+
+        aside,
+        [class *= "sidebar"],
+        [id *= "sidebar"] {
+            max-width: 90%;
+            margin: 0 auto;
+            border: 1px solid lightgrey;
+            padding: 5px 15px;
+        }
+
+        @media (min-width: 1921px) {
+            body {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="controls">
+        <a href="#" onclick="load_page('');">Home</a>
+        <button type="button" onclick="set_questions(get_question_choice());">Reset</button>
+        <button type="button" onclick="next_question();">Skip</button>
+    </div>
+
+    <div id="q-and-a">
+        <h1 id="question"></h1>
+        <div id="answer-container">
+            <input type="text" id="answer" onkeyup="check_answer();">
+        </div>
+    </div>
+    <div id="question-sets">
+        <a href="#rtk1" onclick="load_page('#rtk1');">RTK 1</a>
+        <a href="#rtk2" onclick="load_page('#rtk2');">RTK 2</a>
+    </div>
+    <script type="text/javascript" src="decks.js"></script>
+    <script type="text/javascript">
+        const default_answer = "XXXXX";
+        const default_question = ["完全"];
+        var current_answer_id = "answer";
+        var current_answer_value = default_answer;
+        var current_question_index = 0;
+        var max_question_index = 0;
+        var question_set = []
+        function get_question_choice() {
+            return window.location.hash;
+        }
+        function load_page(deck_name) {
+            if(deck_name in decks) {
+                show_q_and_a();
+                show_controls();
+                hide_links();
+                set_questions(deck_name);
+            } else {
+                hide_q_and_a();
+                hide_controls();
+                show_links();
+            }
+        }
+        function hide_q_and_a() {
+            let qanda = document.getElementById("q-and-a");
+            qanda.style.display="none";
+        }
+        function show_q_and_a(){
+            let qanda = document.getElementById("q-and-a");
+            qanda.style.display="block";
+
+        }
+        function hide_controls() {
+            let controls = document.getElementById("controls");
+            controls.style.display="none";
+        }
+        function show_controls(){
+            let controls = document.getElementById("controls");
+            controls.style.display="block";
+
+        }
+        function hide_links() {
+            let links = document.getElementById("question-sets");
+            links.style.display="none";
+        }
+        function show_links(){
+            let links = document.getElementById("question-sets");
+            links.style.display="block";
+
+        }
+        function answer_id() {
+            return "answer-" + Date.now().toString()
+        }
+        function set_questions(deck_name) {
+            let chosen_questions = decks[deck_name];
+            question_set = shuffle(chosen_questions);
+            max_question_index = chosen_questions.length - 1;
+            current_question_index = 0;
+            set_question_text(question_set[0]["question"]);
+            set_answer(question_set[0]["answer"]);
+        }
+        function set_question_text(question_info) {
+            let question = document.getElementById("question");
+            question.innerHTML = "<div>" + question_info.join("</div><div>") + "</div>";
+        }
+        function shuffle(array) {
+            array.sort(() => Math.random() - 0.5);
+            return array
+        }
+        function set_answer(answer_text) {
+            let answer_container = document.getElementById("answer-container");
+            let current_answer = document.getElementById(current_answer_id);
+            let new_answer_id = answer_id();
+            let new_answer = document.createElement("input");
+            new_answer.type="text";
+            new_answer.setAttribute("id", new_answer_id);
+            new_answer.setAttribute("onkeyup", "check_answer();");
+            answer_container.removeChild(current_answer);
+            answer_container.appendChild(new_answer);
+            current_answer_id = new_answer_id;
+            current_answer_value = answer_text;
+            new_answer.focus();
+
+        }
+        function check_answer() {
+            let answer = document.getElementById(current_answer_id);
+            if (current_answer_value === answer.value) {
+                next_question()
+            }
+        }
+        function next_question() {
+            current_question_index += 1;
+            if (current_question_index <= max_question_index) {
+                set_question_text(question_set[current_question_index]["question"]);
+                set_answer(question_set[current_question_index]["answer"]);
+            } else {
+                set_question_text(default_question);
+                set_answer(default_answer);
+            }
+        }
+        if(window.location.hash in decks) {
+            show_q_and_a();
+            show_controls();
+            hide_links();
+            set_questions(window.location.hash);
+        } else {
+            hide_q_and_a();
+            hide_controls();
+            show_links();
+        }
+
+    </script>
+</body>
+</html>
