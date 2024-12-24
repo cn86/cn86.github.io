@@ -234,6 +234,7 @@
             let current_answer = document.getElementById(current_answer_id);
             let new_answer_id = answer_id();
             let new_answer = document.createElement("input");
+            let fake_input = document.createElement("input");
             new_answer.type="text";
             new_answer.setAttribute("id", new_answer_id);
             new_answer.setAttribute("onkeyup", "check_answer();");
@@ -241,8 +242,18 @@
             answer_container.appendChild(new_answer);
             current_answer_id = new_answer_id;
             current_answer_value = answer_text;
-            new_answer.focus();
 
+            // Hack to get iOS to focus on new input.
+            fake_input.setAttribute('type', 'text');
+            fake_input.style.position = 'absolute';
+            fake_input.style.opacity = 0;
+            fake_input.style.height = 0;
+            document.body.prepend(fake_input);
+            fake_input.focus();
+            setTimeout(() => {
+                new_answer.focus()
+                fake_input.remove()
+            }, 100)
         }
         function check_answer() {
             let answer = document.getElementById(current_answer_id);
