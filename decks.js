@@ -4372,140 +4372,140 @@ var decks = {
         "bus",
         "バス"
       ],
-      "answer": "バス"
+      "answer": "ばす"
     },
     {
       "question": [
         "Cup",
         "カップ"
       ],
-      "answer": "カップ"
+      "answer": "かっぷ"
     },
     {
       "question": [
         "roll of film",
         "フィルム"
       ],
-      "answer": "フィルム"
+      "answer": "ふぃるむ"
     },
     {
       "question": [
         "pen",
         "ペン"
       ],
-      "answer": "ペン"
+      "answer": "ぺん"
     },
     {
       "question": [
         "Kilometer",
         "キロ"
       ],
-      "answer": "キロ"
+      "answer": "きろ"
     },
     {
       "question": [
         "record",
         "レコード"
       ],
-      "answer": "レコード"
+      "answer": "れこーど"
     },
     {
       "question": [
         "table",
         "テーブル"
       ],
-      "answer": "テーブル"
+      "answer": "てーぶる"
     },
     {
       "question": [
         "Class",
         "クラス"
       ],
-      "answer": "クラス"
+      "answer": "くらす"
     },
     {
       "question": [
         "Slippers",
         "スリッパ"
       ],
-      "answer": "スリッパ"
+      "answer": "すりっぱ"
     },
     {
       "question": [
         "metre",
         "メートル"
       ],
-      "answer": "メートル"
+      "answer": "めーとる"
     },
     {
       "question": [
         "sweater, jumper",
         "セーター"
       ],
-      "answer": "セーター"
+      "answer": "せーたー"
     },
     {
       "question": [
         "television",
         "テレビ"
       ],
-      "answer": "テレビ"
+      "answer": "てれび"
     },
     {
       "question": [
         "notebook,exercise book",
         "ノート"
       ],
-      "answer": "ノート"
+      "answer": "のーと"
     },
     {
       "question": [
         "radio cassette player",
         "ラジカセ"
       ],
-      "answer": "ラジカセ"
+      "answer": "らじかせ"
     },
     {
       "question": [
         "butter",
         "バター"
       ],
-      "answer": "バター"
+      "answer": "ばたー"
     },
     {
       "question": [
         "bread",
         "パン"
       ],
-      "answer": "パン"
+      "answer": "ぱん"
     },
     {
       "question": [
         "tie,necktie",
         "ネクタイ"
       ],
-      "answer": "ネクタイ"
+      "answer": "ねくたい"
     },
     {
       "question": [
         "Curry",
         "カレー"
       ],
-      "answer": "カレー"
+      "answer": "かれー"
     },
     {
       "question": [
         "Gram",
         "グラム"
       ],
-      "answer": "グラム"
+      "answer": "ぐらむ"
     },
     {
       "question": [
         "page",
         "ページ"
       ],
-      "answer": "ページ"
+      "answer": "ぺーじ"
     }
   ],
   "#n5_vocab_katakana_1": [
@@ -4514,140 +4514,140 @@ var decks = {
         "toilet",
         "トイレ"
       ],
-      "answer": "トイレ"
+      "answer": "といれ"
     },
     {
       "question": [
         "button",
         "ボタン"
       ],
-      "answer": "ボタン"
+      "answer": "ぼたん"
     },
     {
       "question": [
         "coat, tennis court",
         "コート"
       ],
-      "answer": "コート"
+      "answer": "こーと"
     },
     {
       "question": [
         "ball-point pen",
         "ボールペン"
       ],
-      "answer": "ボールペン"
+      "answer": "ぼーるぺん"
     },
     {
       "question": [
         "radio cassette player",
         "ラジオカセット"
       ],
-      "answer": "ラジオカセット"
+      "answer": "らじおかせっと"
     },
     {
       "question": [
         "party",
         "パーティー"
       ],
-      "answer": "パーティー"
+      "answer": "ぱーてぃー"
     },
     {
       "question": [
         "tape",
         "テープ"
       ],
-      "answer": "テープ"
+      "answer": "てーぷ"
     },
     {
       "question": [
         "hotel",
         "ホテル"
       ],
-      "answer": "ホテル"
+      "answer": "ほてる"
     },
     {
       "question": [
         "knife",
         "ナイフ"
       ],
-      "answer": "ナイフ"
+      "answer": "ないふ"
     },
     {
       "question": [
         "tape recorder",
         "テープレコーダー"
       ],
-      "answer": "テープレコーダー"
+      "answer": "てーぷれこーだー"
     },
     {
       "question": [
         "post",
         "ポスト"
       ],
-      "answer": "ポスト"
+      "answer": "ぽすと"
     },
     {
       "question": [
         "to copy",
         "コピーする"
       ],
-      "answer": "コピーする"
+      "answer": "こぴーする"
     },
     {
       "question": [
         "match",
         "マッチ"
       ],
-      "answer": "マッチ"
+      "answer": "まっち"
     },
     {
       "question": [
         "test",
         "テスト"
       ],
-      "answer": "テスト"
+      "answer": "てすと"
     },
     {
       "question": [
         "Western style door",
         "ドア"
       ],
-      "answer": "ドア"
+      "answer": "どあ"
     },
     {
       "question": [
         "Spoon",
         "スプーン"
       ],
-      "answer": "スプーン"
+      "answer": "すぷーん"
     },
     {
       "question": [
         "handkerchief",
         "ハンカチ"
       ],
-      "answer": "ハンカチ"
+      "answer": "はんかち"
     },
     {
       "question": [
         "Coffee",
         "コーヒー"
       ],
-      "answer": "コーヒー"
+      "answer": "こーひー"
     },
     {
       "question": [
         "Guitar",
         "ギター"
       ],
-      "answer": "ギター"
+      "answer": "ぎたー"
     },
     {
       "question": [
         "bed",
         "ベッド"
       ],
-      "answer": "ベッド"
+      "answer": "べっど"
     }
   ],
   "#n5_vocab_katakana_2": [
@@ -4656,140 +4656,140 @@ var decks = {
         "Zero",
         "ゼロ"
       ],
-      "answer": "ゼロ"
+      "answer": "ぜろ"
     },
     {
       "question": [
         "pocket",
         "ポケット"
       ],
-      "answer": "ポケット"
+      "answer": "ぽけっと"
     },
     {
       "question": [
         "swimming pool",
         "プール"
       ],
-      "answer": "プール"
+      "answer": "ぷーる"
     },
     {
       "question": [
         "a glass",
         "コップ"
       ],
-      "answer": "コップ"
+      "answer": "こっぷ"
     },
     {
       "question": [
         "radio",
         "ラジオ"
       ],
-      "answer": "ラジオ"
+      "answer": "らじお"
     },
     {
       "question": [
         "department store",
         "デパート"
       ],
-      "answer": "デパート"
+      "answer": "でぱーと"
     },
     {
       "question": [
         "camera",
         "カメラ"
       ],
-      "answer": "カメラ"
+      "answer": "かめら"
     },
     {
       "question": [
         "pet",
         "ペット"
       ],
-      "answer": "ペット"
+      "answer": "ぺっと"
     },
     {
       "question": [
         "restaurant",
         "レストラン"
       ],
-      "answer": "レストラン"
+      "answer": "れすとらん"
     },
     {
       "question": [
         "Kilometer",
         "キロメートル"
       ],
-      "answer": "キロメートル"
+      "answer": "きろめーとる"
     },
     {
       "question": [
         "business shirt",
         "ワイシャツ"
       ],
-      "answer": "ワイシャツ"
+      "answer": "わいしゃつ"
     },
     {
       "question": [
         "Kilogram",
         "キログラム"
       ],
-      "answer": "キログラム"
+      "answer": "きろぐらむ"
     },
     {
       "question": [
         "Trousers",
         "ズボン"
       ],
-      "answer": "ズボン"
+      "answer": "ずぼん"
     },
     {
       "question": [
         "Sport",
         "スポーツ"
       ],
-      "answer": "スポーツ"
+      "answer": "すぽーつ"
     },
     {
       "question": [
         "elevator",
         "エレベーター"
       ],
-      "answer": "エレベーター"
+      "answer": "えれべーたー"
     },
     {
       "question": [
         "Shirt",
         "シャツ"
       ],
-      "answer": "シャツ"
+      "answer": "しゃつ"
     },
     {
       "question": [
         "calendar",
         "カレンダー"
       ],
-      "answer": "カレンダー"
+      "answer": "かれんだー"
     },
     {
       "question": [
         "Heater",
         "ストーブ"
       ],
-      "answer": "ストーブ"
+      "answer": "すとーぶ"
     },
     {
       "question": [
         "Shower",
         "シャワー"
       ],
-      "answer": "シャワー"
+      "answer": "しゃわー"
     },
     {
       "question": [
         "news",
         "ニュース"
       ],
-      "answer": "ニュース"
+      "answer": "にゅーす"
     }
   ],
   "#n5_vocab_katakana_3": [
@@ -4798,35 +4798,35 @@ var decks = {
         "Kilogram",
         "キロ"
       ],
-      "answer": "キロ"
+      "answer": "きろ"
     },
     {
       "question": [
         "Skirt",
         "スカート"
       ],
-      "answer": "スカート"
+      "answer": "すかーと"
     },
     {
       "question": [
         "fork",
         "フォーク"
       ],
-      "answer": "フォーク"
+      "answer": "ふぉーく"
     },
     {
       "question": [
         "taxi",
         "タクシー"
       ],
-      "answer": "タクシー"
+      "answer": "たくしー"
     },
     {
       "question": [
         "apartment",
         "アパート"
       ],
-      "answer": "アパート"
+      "answer": "あぱーと"
     }
   ]
 };
