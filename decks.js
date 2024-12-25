@@ -1,268 +1,5 @@
 /*
-<li><a href="#00_counters_00" onclick="load_deck('#00_counters_00');">00_counters_00</a></li>
-<li><a href="#00_numbers_00" onclick="load_deck('#00_numbers_00');">00_numbers_00</a></li>
-<li><a href="#00_time_00" onclick="load_deck('#00_time_00');">00_time_00</a></li>
-<li><a href="#jbp_1_expressions" onclick="load_deck('#jbp_1_expressions');">jbp_1_expressions</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson1" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson1');">jbp_1_key_sentences_sentences_lesson1</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson10" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson10');">jbp_1_key_sentences_sentences_lesson10</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson11" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson11');">jbp_1_key_sentences_sentences_lesson11</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson12" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson12');">jbp_1_key_sentences_sentences_lesson12</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson13" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson13');">jbp_1_key_sentences_sentences_lesson13</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson14" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson14');">jbp_1_key_sentences_sentences_lesson14</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson15" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson15');">jbp_1_key_sentences_sentences_lesson15</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson16" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson16');">jbp_1_key_sentences_sentences_lesson16</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson17" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson17');">jbp_1_key_sentences_sentences_lesson17</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson18" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson18');">jbp_1_key_sentences_sentences_lesson18</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson19" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson19');">jbp_1_key_sentences_sentences_lesson19</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson2" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson2');">jbp_1_key_sentences_sentences_lesson2</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson20" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson20');">jbp_1_key_sentences_sentences_lesson20</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson21" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson21');">jbp_1_key_sentences_sentences_lesson21</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson22" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson22');">jbp_1_key_sentences_sentences_lesson22</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson23" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson23');">jbp_1_key_sentences_sentences_lesson23</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson24" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson24');">jbp_1_key_sentences_sentences_lesson24</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson3" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson3');">jbp_1_key_sentences_sentences_lesson3</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson4" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson4');">jbp_1_key_sentences_sentences_lesson4</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson5" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson5');">jbp_1_key_sentences_sentences_lesson5</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson6" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson6');">jbp_1_key_sentences_sentences_lesson6</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson7" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson7');">jbp_1_key_sentences_sentences_lesson7</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson8" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson8');">jbp_1_key_sentences_sentences_lesson8</a></li>
-<li><a href="#jbp_1_key_sentences_sentences_lesson9" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson9');">jbp_1_key_sentences_sentences_lesson9</a></li>
-<li><a href="#jbp_1_misc" onclick="load_deck('#jbp_1_misc');">jbp_1_misc</a></li>
-<li><a href="#jbp_1_unit10_lesson22" onclick="load_deck('#jbp_1_unit10_lesson22');">jbp_1_unit10_lesson22</a></li>
-<li><a href="#jbp_1_unit10_lesson23" onclick="load_deck('#jbp_1_unit10_lesson23');">jbp_1_unit10_lesson23</a></li>
-<li><a href="#jbp_1_unit10_misc" onclick="load_deck('#jbp_1_unit10_misc');">jbp_1_unit10_misc</a></li>
-<li><a href="#jbp_1_unit10_misc_lesson22" onclick="load_deck('#jbp_1_unit10_misc_lesson22');">jbp_1_unit10_misc_lesson22</a></li>
-<li><a href="#jbp_1_unit10_misc_lesson23" onclick="load_deck('#jbp_1_unit10_misc_lesson23');">jbp_1_unit10_misc_lesson23</a></li>
-<li><a href="#jbp_1_unit11_lesson24" onclick="load_deck('#jbp_1_unit11_lesson24');">jbp_1_unit11_lesson24</a></li>
-<li><a href="#jbp_1_unit11_lesson25" onclick="load_deck('#jbp_1_unit11_lesson25');">jbp_1_unit11_lesson25</a></li>
-<li><a href="#jbp_1_unit1_lesson1" onclick="load_deck('#jbp_1_unit1_lesson1');">jbp_1_unit1_lesson1</a></li>
-<li><a href="#jbp_1_unit1_lesson2" onclick="load_deck('#jbp_1_unit1_lesson2');">jbp_1_unit1_lesson2</a></li>
-<li><a href="#jbp_1_unit2_lesson3" onclick="load_deck('#jbp_1_unit2_lesson3');">jbp_1_unit2_lesson3</a></li>
-<li><a href="#jbp_1_unit2_lesson4" onclick="load_deck('#jbp_1_unit2_lesson4');">jbp_1_unit2_lesson4</a></li>
-<li><a href="#jbp_1_unit2_lesson5" onclick="load_deck('#jbp_1_unit2_lesson5');">jbp_1_unit2_lesson5</a></li>
-<li><a href="#jbp_1_unit2_misc" onclick="load_deck('#jbp_1_unit2_misc');">jbp_1_unit2_misc</a></li>
-<li><a href="#jbp_1_unit2_misc_lesson3" onclick="load_deck('#jbp_1_unit2_misc_lesson3');">jbp_1_unit2_misc_lesson3</a></li>
-<li><a href="#jbp_1_unit3_grammar" onclick="load_deck('#jbp_1_unit3_grammar');">jbp_1_unit3_grammar</a></li>
-<li><a href="#jbp_1_unit3_lesson6" onclick="load_deck('#jbp_1_unit3_lesson6');">jbp_1_unit3_lesson6</a></li>
-<li><a href="#jbp_1_unit3_lesson6_expressions" onclick="load_deck('#jbp_1_unit3_lesson6_expressions');">jbp_1_unit3_lesson6_expressions</a></li>
-<li><a href="#jbp_1_unit3_lesson7" onclick="load_deck('#jbp_1_unit3_lesson7');">jbp_1_unit3_lesson7</a></li>
-<li><a href="#jbp_1_unit3_misc" onclick="load_deck('#jbp_1_unit3_misc');">jbp_1_unit3_misc</a></li>
-<li><a href="#jbp_1_unit3_misc_lesson6" onclick="load_deck('#jbp_1_unit3_misc_lesson6');">jbp_1_unit3_misc_lesson6</a></li>
-<li><a href="#jbp_1_unit4_lesson8" onclick="load_deck('#jbp_1_unit4_lesson8');">jbp_1_unit4_lesson8</a></li>
-<li><a href="#jbp_1_unit4_lesson9" onclick="load_deck('#jbp_1_unit4_lesson9');">jbp_1_unit4_lesson9</a></li>
-<li><a href="#jbp_1_unit4_misc" onclick="load_deck('#jbp_1_unit4_misc');">jbp_1_unit4_misc</a></li>
-<li><a href="#jbp_1_unit5_lesson10" onclick="load_deck('#jbp_1_unit5_lesson10');">jbp_1_unit5_lesson10</a></li>
-<li><a href="#jbp_1_unit5_lesson11" onclick="load_deck('#jbp_1_unit5_lesson11');">jbp_1_unit5_lesson11</a></li>
-<li><a href="#jbp_1_unit6_lesson12" onclick="load_deck('#jbp_1_unit6_lesson12');">jbp_1_unit6_lesson12</a></li>
-<li><a href="#jbp_1_unit6_lesson13" onclick="load_deck('#jbp_1_unit6_lesson13');">jbp_1_unit6_lesson13</a></li>
-<li><a href="#jbp_1_unit6_lesson14" onclick="load_deck('#jbp_1_unit6_lesson14');">jbp_1_unit6_lesson14</a></li>
-<li><a href="#jbp_1_unit7_lesson15" onclick="load_deck('#jbp_1_unit7_lesson15');">jbp_1_unit7_lesson15</a></li>
-<li><a href="#jbp_1_unit7_lesson16" onclick="load_deck('#jbp_1_unit7_lesson16');">jbp_1_unit7_lesson16</a></li>
-<li><a href="#jbp_1_unit8_lesson17" onclick="load_deck('#jbp_1_unit8_lesson17');">jbp_1_unit8_lesson17</a></li>
-<li><a href="#jbp_1_unit8_lesson17_grammar" onclick="load_deck('#jbp_1_unit8_lesson17_grammar');">jbp_1_unit8_lesson17_grammar</a></li>
-<li><a href="#jbp_1_unit8_lesson18" onclick="load_deck('#jbp_1_unit8_lesson18');">jbp_1_unit8_lesson18</a></li>
-<li><a href="#jbp_1_unit8_lesson18_grammar" onclick="load_deck('#jbp_1_unit8_lesson18_grammar');">jbp_1_unit8_lesson18_grammar</a></li>
-<li><a href="#jbp_1_unit8_misc" onclick="load_deck('#jbp_1_unit8_misc');">jbp_1_unit8_misc</a></li>
-<li><a href="#jbp_1_unit9_lesson19" onclick="load_deck('#jbp_1_unit9_lesson19');">jbp_1_unit9_lesson19</a></li>
-<li><a href="#jbp_1_unit9_lesson20" onclick="load_deck('#jbp_1_unit9_lesson20');">jbp_1_unit9_lesson20</a></li>
-<li><a href="#jbp_1_unit9_lesson21" onclick="load_deck('#jbp_1_unit9_lesson21');">jbp_1_unit9_lesson21</a></li>
-<li><a href="#jbp_1_unit9_misc" onclick="load_deck('#jbp_1_unit9_misc');">jbp_1_unit9_misc</a></li>
-<li><a href="#jbp_1_unit9_misc_lesson19" onclick="load_deck('#jbp_1_unit9_misc_lesson19');">jbp_1_unit9_misc_lesson19</a></li>
-<li><a href="#kaishi15k_00" onclick="load_deck('#kaishi15k_00');">kaishi15k_00</a></li>
-<li><a href="#kaishi15k_01" onclick="load_deck('#kaishi15k_01');">kaishi15k_01</a></li>
-<li><a href="#kaishi15k_02" onclick="load_deck('#kaishi15k_02');">kaishi15k_02</a></li>
-<li><a href="#kaishi15k_03" onclick="load_deck('#kaishi15k_03');">kaishi15k_03</a></li>
-<li><a href="#kaishi15k_04" onclick="load_deck('#kaishi15k_04');">kaishi15k_04</a></li>
-<li><a href="#kaishi15k_05" onclick="load_deck('#kaishi15k_05');">kaishi15k_05</a></li>
-<li><a href="#kaishi15k_06" onclick="load_deck('#kaishi15k_06');">kaishi15k_06</a></li>
-<li><a href="#kaishi15k_07" onclick="load_deck('#kaishi15k_07');">kaishi15k_07</a></li>
-<li><a href="#kaishi15k_08" onclick="load_deck('#kaishi15k_08');">kaishi15k_08</a></li>
-<li><a href="#kaishi15k_09" onclick="load_deck('#kaishi15k_09');">kaishi15k_09</a></li>
-<li><a href="#kaishi15k_10" onclick="load_deck('#kaishi15k_10');">kaishi15k_10</a></li>
-<li><a href="#kaishi15k_11" onclick="load_deck('#kaishi15k_11');">kaishi15k_11</a></li>
-<li><a href="#kaishi15k_12" onclick="load_deck('#kaishi15k_12');">kaishi15k_12</a></li>
-<li><a href="#kaishi15k_13" onclick="load_deck('#kaishi15k_13');">kaishi15k_13</a></li>
-<li><a href="#kaishi15k_14" onclick="load_deck('#kaishi15k_14');">kaishi15k_14</a></li>
-<li><a href="#kaishi15k_15" onclick="load_deck('#kaishi15k_15');">kaishi15k_15</a></li>
-<li><a href="#kaishi15k_16" onclick="load_deck('#kaishi15k_16');">kaishi15k_16</a></li>
-<li><a href="#kaishi15k_17" onclick="load_deck('#kaishi15k_17');">kaishi15k_17</a></li>
-<li><a href="#kaishi15k_18" onclick="load_deck('#kaishi15k_18');">kaishi15k_18</a></li>
-<li><a href="#kaishi15k_19" onclick="load_deck('#kaishi15k_19');">kaishi15k_19</a></li>
-<li><a href="#kaishi15k_20" onclick="load_deck('#kaishi15k_20');">kaishi15k_20</a></li>
-<li><a href="#kaishi15k_21" onclick="load_deck('#kaishi15k_21');">kaishi15k_21</a></li>
-<li><a href="#kaishi15k_22" onclick="load_deck('#kaishi15k_22');">kaishi15k_22</a></li>
-<li><a href="#kaishi15k_23" onclick="load_deck('#kaishi15k_23');">kaishi15k_23</a></li>
-<li><a href="#kaishi15k_24" onclick="load_deck('#kaishi15k_24');">kaishi15k_24</a></li>
-<li><a href="#kaishi15k_25" onclick="load_deck('#kaishi15k_25');">kaishi15k_25</a></li>
-<li><a href="#kaishi15k_26" onclick="load_deck('#kaishi15k_26');">kaishi15k_26</a></li>
-<li><a href="#kaishi15k_27" onclick="load_deck('#kaishi15k_27');">kaishi15k_27</a></li>
-<li><a href="#kaishi15k_28" onclick="load_deck('#kaishi15k_28');">kaishi15k_28</a></li>
-<li><a href="#kaishi15k_29" onclick="load_deck('#kaishi15k_29');">kaishi15k_29</a></li>
-<li><a href="#kaishi15k_30" onclick="load_deck('#kaishi15k_30');">kaishi15k_30</a></li>
-<li><a href="#kaishi15k_31" onclick="load_deck('#kaishi15k_31');">kaishi15k_31</a></li>
-<li><a href="#kaishi15k_32" onclick="load_deck('#kaishi15k_32');">kaishi15k_32</a></li>
-<li><a href="#kaishi15k_33" onclick="load_deck('#kaishi15k_33');">kaishi15k_33</a></li>
-<li><a href="#kaishi15k_34" onclick="load_deck('#kaishi15k_34');">kaishi15k_34</a></li>
-<li><a href="#kaishi15k_35" onclick="load_deck('#kaishi15k_35');">kaishi15k_35</a></li>
-<li><a href="#kaishi15k_36" onclick="load_deck('#kaishi15k_36');">kaishi15k_36</a></li>
-<li><a href="#kaishi15k_37" onclick="load_deck('#kaishi15k_37');">kaishi15k_37</a></li>
-<li><a href="#kaishi15k_38" onclick="load_deck('#kaishi15k_38');">kaishi15k_38</a></li>
-<li><a href="#kaishi15k_39" onclick="load_deck('#kaishi15k_39');">kaishi15k_39</a></li>
-<li><a href="#kaishi15k_40" onclick="load_deck('#kaishi15k_40');">kaishi15k_40</a></li>
-<li><a href="#kaishi15k_41" onclick="load_deck('#kaishi15k_41');">kaishi15k_41</a></li>
-<li><a href="#kaishi15k_42" onclick="load_deck('#kaishi15k_42');">kaishi15k_42</a></li>
-<li><a href="#kaishi15k_43" onclick="load_deck('#kaishi15k_43');">kaishi15k_43</a></li>
-<li><a href="#kaishi15k_44" onclick="load_deck('#kaishi15k_44');">kaishi15k_44</a></li>
-<li><a href="#kaishi15k_45" onclick="load_deck('#kaishi15k_45');">kaishi15k_45</a></li>
-<li><a href="#kaishi15k_46" onclick="load_deck('#kaishi15k_46');">kaishi15k_46</a></li>
-<li><a href="#kaishi15k_47" onclick="load_deck('#kaishi15k_47');">kaishi15k_47</a></li>
-<li><a href="#kaishi15k_48" onclick="load_deck('#kaishi15k_48');">kaishi15k_48</a></li>
-<li><a href="#kaishi15k_49" onclick="load_deck('#kaishi15k_49');">kaishi15k_49</a></li>
-<li><a href="#kaishi15k_50" onclick="load_deck('#kaishi15k_50');">kaishi15k_50</a></li>
-<li><a href="#kaishi15k_51" onclick="load_deck('#kaishi15k_51');">kaishi15k_51</a></li>
-<li><a href="#kaishi15k_52" onclick="load_deck('#kaishi15k_52');">kaishi15k_52</a></li>
-<li><a href="#kaishi15k_53" onclick="load_deck('#kaishi15k_53');">kaishi15k_53</a></li>
-<li><a href="#kaishi15k_54" onclick="load_deck('#kaishi15k_54');">kaishi15k_54</a></li>
-<li><a href="#kaishi15k_55" onclick="load_deck('#kaishi15k_55');">kaishi15k_55</a></li>
-<li><a href="#kaishi15k_56" onclick="load_deck('#kaishi15k_56');">kaishi15k_56</a></li>
-<li><a href="#kaishi15k_57" onclick="load_deck('#kaishi15k_57');">kaishi15k_57</a></li>
-<li><a href="#kaishi15k_58" onclick="load_deck('#kaishi15k_58');">kaishi15k_58</a></li>
-<li><a href="#kaishi15k_59" onclick="load_deck('#kaishi15k_59');">kaishi15k_59</a></li>
-<li><a href="#kaishi15k_60" onclick="load_deck('#kaishi15k_60');">kaishi15k_60</a></li>
-<li><a href="#kaishi15k_61" onclick="load_deck('#kaishi15k_61');">kaishi15k_61</a></li>
-<li><a href="#kaishi15k_62" onclick="load_deck('#kaishi15k_62');">kaishi15k_62</a></li>
-<li><a href="#kaishi15k_63" onclick="load_deck('#kaishi15k_63');">kaishi15k_63</a></li>
-<li><a href="#kaishi15k_64" onclick="load_deck('#kaishi15k_64');">kaishi15k_64</a></li>
-<li><a href="#kaishi15k_65" onclick="load_deck('#kaishi15k_65');">kaishi15k_65</a></li>
-<li><a href="#kaishi15k_66" onclick="load_deck('#kaishi15k_66');">kaishi15k_66</a></li>
-<li><a href="#kaishi15k_67" onclick="load_deck('#kaishi15k_67');">kaishi15k_67</a></li>
-<li><a href="#kaishi15k_68" onclick="load_deck('#kaishi15k_68');">kaishi15k_68</a></li>
-<li><a href="#kaishi15k_69" onclick="load_deck('#kaishi15k_69');">kaishi15k_69</a></li>
-<li><a href="#kaishi15k_70" onclick="load_deck('#kaishi15k_70');">kaishi15k_70</a></li>
-<li><a href="#kaishi15k_71" onclick="load_deck('#kaishi15k_71');">kaishi15k_71</a></li>
-<li><a href="#kaishi15k_72" onclick="load_deck('#kaishi15k_72');">kaishi15k_72</a></li>
-<li><a href="#kaishi15k_73" onclick="load_deck('#kaishi15k_73');">kaishi15k_73</a></li>
-<li><a href="#kaishi15k_74" onclick="load_deck('#kaishi15k_74');">kaishi15k_74</a></li>
-<li><a href="#n5_vocab_00" onclick="load_deck('#n5_vocab_00');">n5_vocab_00</a></li>
-<li><a href="#n5_vocab_01" onclick="load_deck('#n5_vocab_01');">n5_vocab_01</a></li>
-<li><a href="#n5_vocab_02" onclick="load_deck('#n5_vocab_02');">n5_vocab_02</a></li>
-<li><a href="#n5_vocab_03" onclick="load_deck('#n5_vocab_03');">n5_vocab_03</a></li>
-<li><a href="#n5_vocab_04" onclick="load_deck('#n5_vocab_04');">n5_vocab_04</a></li>
-<li><a href="#n5_vocab_05" onclick="load_deck('#n5_vocab_05');">n5_vocab_05</a></li>
-<li><a href="#n5_vocab_06" onclick="load_deck('#n5_vocab_06');">n5_vocab_06</a></li>
-<li><a href="#n5_vocab_07" onclick="load_deck('#n5_vocab_07');">n5_vocab_07</a></li>
-<li><a href="#n5_vocab_08" onclick="load_deck('#n5_vocab_08');">n5_vocab_08</a></li>
-<li><a href="#n5_vocab_09" onclick="load_deck('#n5_vocab_09');">n5_vocab_09</a></li>
-<li><a href="#n5_vocab_10" onclick="load_deck('#n5_vocab_10');">n5_vocab_10</a></li>
-<li><a href="#n5_vocab_11" onclick="load_deck('#n5_vocab_11');">n5_vocab_11</a></li>
-<li><a href="#n5_vocab_12" onclick="load_deck('#n5_vocab_12');">n5_vocab_12</a></li>
-<li><a href="#n5_vocab_13" onclick="load_deck('#n5_vocab_13');">n5_vocab_13</a></li>
-<li><a href="#n5_vocab_14" onclick="load_deck('#n5_vocab_14');">n5_vocab_14</a></li>
-<li><a href="#n5_vocab_15" onclick="load_deck('#n5_vocab_15');">n5_vocab_15</a></li>
-<li><a href="#n5_vocab_16" onclick="load_deck('#n5_vocab_16');">n5_vocab_16</a></li>
-<li><a href="#n5_vocab_17" onclick="load_deck('#n5_vocab_17');">n5_vocab_17</a></li>
-<li><a href="#n5_vocab_18" onclick="load_deck('#n5_vocab_18');">n5_vocab_18</a></li>
-<li><a href="#n5_vocab_19" onclick="load_deck('#n5_vocab_19');">n5_vocab_19</a></li>
-<li><a href="#n5_vocab_20" onclick="load_deck('#n5_vocab_20');">n5_vocab_20</a></li>
-<li><a href="#n5_vocab_21" onclick="load_deck('#n5_vocab_21');">n5_vocab_21</a></li>
-<li><a href="#n5_vocab_22" onclick="load_deck('#n5_vocab_22');">n5_vocab_22</a></li>
-<li><a href="#n5_vocab_23" onclick="load_deck('#n5_vocab_23');">n5_vocab_23</a></li>
-<li><a href="#n5_vocab_24" onclick="load_deck('#n5_vocab_24');">n5_vocab_24</a></li>
-<li><a href="#n5_vocab_25" onclick="load_deck('#n5_vocab_25');">n5_vocab_25</a></li>
-<li><a href="#n5_vocab_26" onclick="load_deck('#n5_vocab_26');">n5_vocab_26</a></li>
-<li><a href="#n5_vocab_27" onclick="load_deck('#n5_vocab_27');">n5_vocab_27</a></li>
-<li><a href="#n5_vocab_28" onclick="load_deck('#n5_vocab_28');">n5_vocab_28</a></li>
-<li><a href="#n5_vocab_29" onclick="load_deck('#n5_vocab_29');">n5_vocab_29</a></li>
-<li><a href="#n5_vocab_30" onclick="load_deck('#n5_vocab_30');">n5_vocab_30</a></li>
-<li><a href="#n5_vocab_31" onclick="load_deck('#n5_vocab_31');">n5_vocab_31</a></li>
-<li><a href="#n5_vocab_32" onclick="load_deck('#n5_vocab_32');">n5_vocab_32</a></li>
-<li><a href="#n5_vocab_33" onclick="load_deck('#n5_vocab_33');">n5_vocab_33</a></li>
-<li><a href="#rtk630_hiragana_00" onclick="load_deck('#rtk630_hiragana_00');">rtk630_hiragana_00</a></li>
-<li><a href="#rtk630_hiragana_01" onclick="load_deck('#rtk630_hiragana_01');">rtk630_hiragana_01</a></li>
-<li><a href="#rtk630_hiragana_02" onclick="load_deck('#rtk630_hiragana_02');">rtk630_hiragana_02</a></li>
-<li><a href="#rtk630_hiragana_03" onclick="load_deck('#rtk630_hiragana_03');">rtk630_hiragana_03</a></li>
-<li><a href="#rtk630_hiragana_04" onclick="load_deck('#rtk630_hiragana_04');">rtk630_hiragana_04</a></li>
-<li><a href="#rtk630_hiragana_05" onclick="load_deck('#rtk630_hiragana_05');">rtk630_hiragana_05</a></li>
-<li><a href="#rtk630_hiragana_06" onclick="load_deck('#rtk630_hiragana_06');">rtk630_hiragana_06</a></li>
-<li><a href="#rtk630_hiragana_07" onclick="load_deck('#rtk630_hiragana_07');">rtk630_hiragana_07</a></li>
-<li><a href="#rtk630_hiragana_08" onclick="load_deck('#rtk630_hiragana_08');">rtk630_hiragana_08</a></li>
-<li><a href="#rtk630_hiragana_09" onclick="load_deck('#rtk630_hiragana_09');">rtk630_hiragana_09</a></li>
-<li><a href="#rtk630_hiragana_10" onclick="load_deck('#rtk630_hiragana_10');">rtk630_hiragana_10</a></li>
-<li><a href="#rtk630_hiragana_11" onclick="load_deck('#rtk630_hiragana_11');">rtk630_hiragana_11</a></li>
-<li><a href="#rtk630_hiragana_12" onclick="load_deck('#rtk630_hiragana_12');">rtk630_hiragana_12</a></li>
-<li><a href="#rtk630_hiragana_13" onclick="load_deck('#rtk630_hiragana_13');">rtk630_hiragana_13</a></li>
-<li><a href="#rtk630_hiragana_14" onclick="load_deck('#rtk630_hiragana_14');">rtk630_hiragana_14</a></li>
-<li><a href="#rtk630_hiragana_15" onclick="load_deck('#rtk630_hiragana_15');">rtk630_hiragana_15</a></li>
-<li><a href="#rtk630_hiragana_16" onclick="load_deck('#rtk630_hiragana_16');">rtk630_hiragana_16</a></li>
-<li><a href="#rtk630_hiragana_17" onclick="load_deck('#rtk630_hiragana_17');">rtk630_hiragana_17</a></li>
-<li><a href="#rtk630_hiragana_18" onclick="load_deck('#rtk630_hiragana_18');">rtk630_hiragana_18</a></li>
-<li><a href="#rtk630_hiragana_19" onclick="load_deck('#rtk630_hiragana_19');">rtk630_hiragana_19</a></li>
-<li><a href="#rtk630_hiragana_20" onclick="load_deck('#rtk630_hiragana_20');">rtk630_hiragana_20</a></li>
-<li><a href="#rtk630_hiragana_21" onclick="load_deck('#rtk630_hiragana_21');">rtk630_hiragana_21</a></li>
-<li><a href="#rtk630_hiragana_22" onclick="load_deck('#rtk630_hiragana_22');">rtk630_hiragana_22</a></li>
-<li><a href="#rtk630_hiragana_23" onclick="load_deck('#rtk630_hiragana_23');">rtk630_hiragana_23</a></li>
-<li><a href="#rtk630_koohii_00" onclick="load_deck('#rtk630_koohii_00');">rtk630_koohii_00</a></li>
-<li><a href="#rtk630_koohii_01" onclick="load_deck('#rtk630_koohii_01');">rtk630_koohii_01</a></li>
-<li><a href="#rtk630_koohii_02" onclick="load_deck('#rtk630_koohii_02');">rtk630_koohii_02</a></li>
-<li><a href="#rtk630_koohii_03" onclick="load_deck('#rtk630_koohii_03');">rtk630_koohii_03</a></li>
-<li><a href="#rtk630_koohii_04" onclick="load_deck('#rtk630_koohii_04');">rtk630_koohii_04</a></li>
-<li><a href="#rtk630_koohii_05" onclick="load_deck('#rtk630_koohii_05');">rtk630_koohii_05</a></li>
-<li><a href="#rtk630_koohii_06" onclick="load_deck('#rtk630_koohii_06');">rtk630_koohii_06</a></li>
-<li><a href="#rtk630_koohii_07" onclick="load_deck('#rtk630_koohii_07');">rtk630_koohii_07</a></li>
-<li><a href="#rtk630_koohii_08" onclick="load_deck('#rtk630_koohii_08');">rtk630_koohii_08</a></li>
-<li><a href="#rtk630_koohii_09" onclick="load_deck('#rtk630_koohii_09');">rtk630_koohii_09</a></li>
-<li><a href="#rtk630_koohii_10" onclick="load_deck('#rtk630_koohii_10');">rtk630_koohii_10</a></li>
-<li><a href="#rtk630_koohii_11" onclick="load_deck('#rtk630_koohii_11');">rtk630_koohii_11</a></li>
-<li><a href="#rtk630_koohii_12" onclick="load_deck('#rtk630_koohii_12');">rtk630_koohii_12</a></li>
-<li><a href="#rtk630_koohii_13" onclick="load_deck('#rtk630_koohii_13');">rtk630_koohii_13</a></li>
-<li><a href="#rtk630_koohii_14" onclick="load_deck('#rtk630_koohii_14');">rtk630_koohii_14</a></li>
-<li><a href="#rtk630_koohii_15" onclick="load_deck('#rtk630_koohii_15');">rtk630_koohii_15</a></li>
-<li><a href="#rtk630_koohii_16" onclick="load_deck('#rtk630_koohii_16');">rtk630_koohii_16</a></li>
-<li><a href="#rtk630_koohii_17" onclick="load_deck('#rtk630_koohii_17');">rtk630_koohii_17</a></li>
-<li><a href="#rtk630_koohii_18" onclick="load_deck('#rtk630_koohii_18');">rtk630_koohii_18</a></li>
-<li><a href="#rtk630_koohii_19" onclick="load_deck('#rtk630_koohii_19');">rtk630_koohii_19</a></li>
-<li><a href="#rtk630_koohii_20" onclick="load_deck('#rtk630_koohii_20');">rtk630_koohii_20</a></li>
-<li><a href="#rtk630_koohii_21" onclick="load_deck('#rtk630_koohii_21');">rtk630_koohii_21</a></li>
-<li><a href="#rtk630_koohii_22" onclick="load_deck('#rtk630_koohii_22');">rtk630_koohii_22</a></li>
-<li><a href="#rtk630_koohii_23" onclick="load_deck('#rtk630_koohii_23');">rtk630_koohii_23</a></li>
-<li><a href="#rtk630_koohii_24" onclick="load_deck('#rtk630_koohii_24');">rtk630_koohii_24</a></li>
-<li><a href="#rtk630_koohii_25" onclick="load_deck('#rtk630_koohii_25');">rtk630_koohii_25</a></li>
-<li><a href="#rtk630_koohii_26" onclick="load_deck('#rtk630_koohii_26');">rtk630_koohii_26</a></li>
-<li><a href="#rtk630_koohii_27" onclick="load_deck('#rtk630_koohii_27');">rtk630_koohii_27</a></li>
-<li><a href="#rtk630_koohii_28" onclick="load_deck('#rtk630_koohii_28');">rtk630_koohii_28</a></li>
-<li><a href="#rtk630_koohii_29" onclick="load_deck('#rtk630_koohii_29');">rtk630_koohii_29</a></li>
-<li><a href="#rtk630_koohii_30" onclick="load_deck('#rtk630_koohii_30');">rtk630_koohii_30</a></li>
-<li><a href="#usagi_phonetics_00" onclick="load_deck('#usagi_phonetics_00');">usagi_phonetics_00</a></li>
-<li><a href="#usagi_phonetics_01" onclick="load_deck('#usagi_phonetics_01');">usagi_phonetics_01</a></li>
-<li><a href="#usagi_phonetics_02" onclick="load_deck('#usagi_phonetics_02');">usagi_phonetics_02</a></li>
-<li><a href="#usagi_phonetics_03" onclick="load_deck('#usagi_phonetics_03');">usagi_phonetics_03</a></li>
-<li><a href="#usagi_phonetics_04" onclick="load_deck('#usagi_phonetics_04');">usagi_phonetics_04</a></li>
-<li><a href="#usagi_phonetics_05" onclick="load_deck('#usagi_phonetics_05');">usagi_phonetics_05</a></li>
-<li><a href="#usagi_phonetics_06" onclick="load_deck('#usagi_phonetics_06');">usagi_phonetics_06</a></li>
-<li><a href="#usagi_phonetics_07" onclick="load_deck('#usagi_phonetics_07');">usagi_phonetics_07</a></li>
-<li><a href="#usagi_phonetics_08" onclick="load_deck('#usagi_phonetics_08');">usagi_phonetics_08</a></li>
-<li><a href="#usagi_phonetics_09" onclick="load_deck('#usagi_phonetics_09');">usagi_phonetics_09</a></li>
-<li><a href="#usagi_phonetics_10" onclick="load_deck('#usagi_phonetics_10');">usagi_phonetics_10</a></li>
-<li><a href="#usagi_phonetics_11" onclick="load_deck('#usagi_phonetics_11');">usagi_phonetics_11</a></li>
-<li><a href="#usagi_phonetics_12" onclick="load_deck('#usagi_phonetics_12');">usagi_phonetics_12</a></li>
-<li><a href="#usagi_phonetics_13" onclick="load_deck('#usagi_phonetics_13');">usagi_phonetics_13</a></li>
-<li><a href="#usagi_phonetics_14" onclick="load_deck('#usagi_phonetics_14');">usagi_phonetics_14</a></li>
-<li><a href="#usagi_phonetics_15" onclick="load_deck('#usagi_phonetics_15');">usagi_phonetics_15</a></li>
-<li><a href="#usagi_phonetics_16" onclick="load_deck('#usagi_phonetics_16');">usagi_phonetics_16</a></li>
-<li><a href="#usagi_phonetics_17" onclick="load_deck('#usagi_phonetics_17');">usagi_phonetics_17</a></li>
-<li><a href="#usagi_phonetics_18" onclick="load_deck('#usagi_phonetics_18');">usagi_phonetics_18</a></li>
-<li><a href="#usagi_phonetics_19" onclick="load_deck('#usagi_phonetics_19');">usagi_phonetics_19</a></li>
-<li><a href="#usagi_phonetics_20" onclick="load_deck('#usagi_phonetics_20');">usagi_phonetics_20</a></li>
-<li><a href="#usagi_phonetics_21" onclick="load_deck('#usagi_phonetics_21');">usagi_phonetics_21</a></li>
-<li><a href="#usagi_phonetics_22" onclick="load_deck('#usagi_phonetics_22');">usagi_phonetics_22</a></li>
-<li><a href="#usagi_phonetics_23" onclick="load_deck('#usagi_phonetics_23');">usagi_phonetics_23</a></li>
-<li><a href="#usagi_phonetics_24" onclick="load_deck('#usagi_phonetics_24');">usagi_phonetics_24</a></li>
-<li><a href="#usagi_phonetics_25" onclick="load_deck('#usagi_phonetics_25');">usagi_phonetics_25</a></li>
-<li><a href="#usagi_phonetics_26" onclick="load_deck('#usagi_phonetics_26');">usagi_phonetics_26</a></li>
-<li><a href="#usagi_phonetics_27" onclick="load_deck('#usagi_phonetics_27');">usagi_phonetics_27</a></li>
-<li><a href="#usagi_phonetics_28" onclick="load_deck('#usagi_phonetics_28');">usagi_phonetics_28</a></li>
-<li><a href="#usagi_phonetics_29" onclick="load_deck('#usagi_phonetics_29');">usagi_phonetics_29</a></li>
-<li><a href="#usagi_phonetics_30" onclick="load_deck('#usagi_phonetics_30');">usagi_phonetics_30</a></li>
+<li><a href="#00_counters_00" onclick="load_deck('#00_counters_00');">00_counters_00</a></li><li><a href="#00_numbers_00" onclick="load_deck('#00_numbers_00');">00_numbers_00</a></li><li><a href="#00_time_00" onclick="load_deck('#00_time_00');">00_time_00</a></li><li><a href="#jbp_1_" onclick="load_deck('#jbp_1_');">jbp_1_</a></li><li><a href="#jbp_1_expressions" onclick="load_deck('#jbp_1_expressions');">jbp_1_expressions</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson1" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson1');">jbp_1_key_sentences_sentences_lesson1</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson10" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson10');">jbp_1_key_sentences_sentences_lesson10</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson11" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson11');">jbp_1_key_sentences_sentences_lesson11</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson12" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson12');">jbp_1_key_sentences_sentences_lesson12</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson13" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson13');">jbp_1_key_sentences_sentences_lesson13</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson14" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson14');">jbp_1_key_sentences_sentences_lesson14</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson15" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson15');">jbp_1_key_sentences_sentences_lesson15</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson16" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson16');">jbp_1_key_sentences_sentences_lesson16</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson17" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson17');">jbp_1_key_sentences_sentences_lesson17</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson18" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson18');">jbp_1_key_sentences_sentences_lesson18</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson19" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson19');">jbp_1_key_sentences_sentences_lesson19</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson2" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson2');">jbp_1_key_sentences_sentences_lesson2</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson20" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson20');">jbp_1_key_sentences_sentences_lesson20</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson21" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson21');">jbp_1_key_sentences_sentences_lesson21</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson22" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson22');">jbp_1_key_sentences_sentences_lesson22</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson23" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson23');">jbp_1_key_sentences_sentences_lesson23</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson24" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson24');">jbp_1_key_sentences_sentences_lesson24</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson3" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson3');">jbp_1_key_sentences_sentences_lesson3</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson4" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson4');">jbp_1_key_sentences_sentences_lesson4</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson5" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson5');">jbp_1_key_sentences_sentences_lesson5</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson6" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson6');">jbp_1_key_sentences_sentences_lesson6</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson7" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson7');">jbp_1_key_sentences_sentences_lesson7</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson8" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson8');">jbp_1_key_sentences_sentences_lesson8</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson9" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson9');">jbp_1_key_sentences_sentences_lesson9</a></li><li><a href="#jbp_1_misc" onclick="load_deck('#jbp_1_misc');">jbp_1_misc</a></li><li><a href="#jbp_1_unit10_lesson22" onclick="load_deck('#jbp_1_unit10_lesson22');">jbp_1_unit10_lesson22</a></li><li><a href="#jbp_1_unit10_lesson23" onclick="load_deck('#jbp_1_unit10_lesson23');">jbp_1_unit10_lesson23</a></li><li><a href="#jbp_1_unit10_misc" onclick="load_deck('#jbp_1_unit10_misc');">jbp_1_unit10_misc</a></li><li><a href="#jbp_1_unit10_misc_lesson22" onclick="load_deck('#jbp_1_unit10_misc_lesson22');">jbp_1_unit10_misc_lesson22</a></li><li><a href="#jbp_1_unit10_misc_lesson23" onclick="load_deck('#jbp_1_unit10_misc_lesson23');">jbp_1_unit10_misc_lesson23</a></li><li><a href="#jbp_1_unit11_lesson24" onclick="load_deck('#jbp_1_unit11_lesson24');">jbp_1_unit11_lesson24</a></li><li><a href="#jbp_1_unit11_lesson25" onclick="load_deck('#jbp_1_unit11_lesson25');">jbp_1_unit11_lesson25</a></li><li><a href="#jbp_1_unit1_lesson1" onclick="load_deck('#jbp_1_unit1_lesson1');">jbp_1_unit1_lesson1</a></li><li><a href="#jbp_1_unit1_lesson2" onclick="load_deck('#jbp_1_unit1_lesson2');">jbp_1_unit1_lesson2</a></li><li><a href="#jbp_1_unit2_lesson3" onclick="load_deck('#jbp_1_unit2_lesson3');">jbp_1_unit2_lesson3</a></li><li><a href="#jbp_1_unit2_lesson4" onclick="load_deck('#jbp_1_unit2_lesson4');">jbp_1_unit2_lesson4</a></li><li><a href="#jbp_1_unit2_lesson5" onclick="load_deck('#jbp_1_unit2_lesson5');">jbp_1_unit2_lesson5</a></li><li><a href="#jbp_1_unit2_misc" onclick="load_deck('#jbp_1_unit2_misc');">jbp_1_unit2_misc</a></li><li><a href="#jbp_1_unit2_misc_lesson3" onclick="load_deck('#jbp_1_unit2_misc_lesson3');">jbp_1_unit2_misc_lesson3</a></li><li><a href="#jbp_1_unit3_grammar" onclick="load_deck('#jbp_1_unit3_grammar');">jbp_1_unit3_grammar</a></li><li><a href="#jbp_1_unit3_lesson6" onclick="load_deck('#jbp_1_unit3_lesson6');">jbp_1_unit3_lesson6</a></li><li><a href="#jbp_1_unit3_lesson6_expressions" onclick="load_deck('#jbp_1_unit3_lesson6_expressions');">jbp_1_unit3_lesson6_expressions</a></li><li><a href="#jbp_1_unit3_lesson7" onclick="load_deck('#jbp_1_unit3_lesson7');">jbp_1_unit3_lesson7</a></li><li><a href="#jbp_1_unit3_misc" onclick="load_deck('#jbp_1_unit3_misc');">jbp_1_unit3_misc</a></li><li><a href="#jbp_1_unit3_misc_lesson6" onclick="load_deck('#jbp_1_unit3_misc_lesson6');">jbp_1_unit3_misc_lesson6</a></li><li><a href="#jbp_1_unit4_lesson8" onclick="load_deck('#jbp_1_unit4_lesson8');">jbp_1_unit4_lesson8</a></li><li><a href="#jbp_1_unit4_lesson9" onclick="load_deck('#jbp_1_unit4_lesson9');">jbp_1_unit4_lesson9</a></li><li><a href="#jbp_1_unit4_misc" onclick="load_deck('#jbp_1_unit4_misc');">jbp_1_unit4_misc</a></li><li><a href="#jbp_1_unit5_lesson10" onclick="load_deck('#jbp_1_unit5_lesson10');">jbp_1_unit5_lesson10</a></li><li><a href="#jbp_1_unit5_lesson11" onclick="load_deck('#jbp_1_unit5_lesson11');">jbp_1_unit5_lesson11</a></li><li><a href="#jbp_1_unit6_lesson12" onclick="load_deck('#jbp_1_unit6_lesson12');">jbp_1_unit6_lesson12</a></li><li><a href="#jbp_1_unit6_lesson13" onclick="load_deck('#jbp_1_unit6_lesson13');">jbp_1_unit6_lesson13</a></li><li><a href="#jbp_1_unit6_lesson14" onclick="load_deck('#jbp_1_unit6_lesson14');">jbp_1_unit6_lesson14</a></li><li><a href="#jbp_1_unit7_lesson15" onclick="load_deck('#jbp_1_unit7_lesson15');">jbp_1_unit7_lesson15</a></li><li><a href="#jbp_1_unit7_lesson16" onclick="load_deck('#jbp_1_unit7_lesson16');">jbp_1_unit7_lesson16</a></li><li><a href="#jbp_1_unit8_lesson17" onclick="load_deck('#jbp_1_unit8_lesson17');">jbp_1_unit8_lesson17</a></li><li><a href="#jbp_1_unit8_lesson17_grammar" onclick="load_deck('#jbp_1_unit8_lesson17_grammar');">jbp_1_unit8_lesson17_grammar</a></li><li><a href="#jbp_1_unit8_lesson18" onclick="load_deck('#jbp_1_unit8_lesson18');">jbp_1_unit8_lesson18</a></li><li><a href="#jbp_1_unit8_lesson18_grammar" onclick="load_deck('#jbp_1_unit8_lesson18_grammar');">jbp_1_unit8_lesson18_grammar</a></li><li><a href="#jbp_1_unit8_misc" onclick="load_deck('#jbp_1_unit8_misc');">jbp_1_unit8_misc</a></li><li><a href="#jbp_1_unit9_lesson19" onclick="load_deck('#jbp_1_unit9_lesson19');">jbp_1_unit9_lesson19</a></li><li><a href="#jbp_1_unit9_lesson20" onclick="load_deck('#jbp_1_unit9_lesson20');">jbp_1_unit9_lesson20</a></li><li><a href="#jbp_1_unit9_lesson21" onclick="load_deck('#jbp_1_unit9_lesson21');">jbp_1_unit9_lesson21</a></li><li><a href="#jbp_1_unit9_misc" onclick="load_deck('#jbp_1_unit9_misc');">jbp_1_unit9_misc</a></li><li><a href="#jbp_1_unit9_misc_lesson19" onclick="load_deck('#jbp_1_unit9_misc_lesson19');">jbp_1_unit9_misc_lesson19</a></li><li><a href="#kaishi15k_00" onclick="load_deck('#kaishi15k_00');">kaishi15k_00</a></li><li><a href="#kaishi15k_01" onclick="load_deck('#kaishi15k_01');">kaishi15k_01</a></li><li><a href="#kaishi15k_02" onclick="load_deck('#kaishi15k_02');">kaishi15k_02</a></li><li><a href="#kaishi15k_03" onclick="load_deck('#kaishi15k_03');">kaishi15k_03</a></li><li><a href="#kaishi15k_04" onclick="load_deck('#kaishi15k_04');">kaishi15k_04</a></li><li><a href="#kaishi15k_05" onclick="load_deck('#kaishi15k_05');">kaishi15k_05</a></li><li><a href="#kaishi15k_06" onclick="load_deck('#kaishi15k_06');">kaishi15k_06</a></li><li><a href="#kaishi15k_07" onclick="load_deck('#kaishi15k_07');">kaishi15k_07</a></li><li><a href="#kaishi15k_08" onclick="load_deck('#kaishi15k_08');">kaishi15k_08</a></li><li><a href="#kaishi15k_09" onclick="load_deck('#kaishi15k_09');">kaishi15k_09</a></li><li><a href="#kaishi15k_10" onclick="load_deck('#kaishi15k_10');">kaishi15k_10</a></li><li><a href="#kaishi15k_11" onclick="load_deck('#kaishi15k_11');">kaishi15k_11</a></li><li><a href="#kaishi15k_12" onclick="load_deck('#kaishi15k_12');">kaishi15k_12</a></li><li><a href="#kaishi15k_13" onclick="load_deck('#kaishi15k_13');">kaishi15k_13</a></li><li><a href="#kaishi15k_14" onclick="load_deck('#kaishi15k_14');">kaishi15k_14</a></li><li><a href="#kaishi15k_15" onclick="load_deck('#kaishi15k_15');">kaishi15k_15</a></li><li><a href="#kaishi15k_16" onclick="load_deck('#kaishi15k_16');">kaishi15k_16</a></li><li><a href="#kaishi15k_17" onclick="load_deck('#kaishi15k_17');">kaishi15k_17</a></li><li><a href="#kaishi15k_18" onclick="load_deck('#kaishi15k_18');">kaishi15k_18</a></li><li><a href="#kaishi15k_19" onclick="load_deck('#kaishi15k_19');">kaishi15k_19</a></li><li><a href="#kaishi15k_20" onclick="load_deck('#kaishi15k_20');">kaishi15k_20</a></li><li><a href="#kaishi15k_21" onclick="load_deck('#kaishi15k_21');">kaishi15k_21</a></li><li><a href="#kaishi15k_22" onclick="load_deck('#kaishi15k_22');">kaishi15k_22</a></li><li><a href="#kaishi15k_23" onclick="load_deck('#kaishi15k_23');">kaishi15k_23</a></li><li><a href="#kaishi15k_24" onclick="load_deck('#kaishi15k_24');">kaishi15k_24</a></li><li><a href="#kaishi15k_25" onclick="load_deck('#kaishi15k_25');">kaishi15k_25</a></li><li><a href="#kaishi15k_26" onclick="load_deck('#kaishi15k_26');">kaishi15k_26</a></li><li><a href="#kaishi15k_27" onclick="load_deck('#kaishi15k_27');">kaishi15k_27</a></li><li><a href="#kaishi15k_28" onclick="load_deck('#kaishi15k_28');">kaishi15k_28</a></li><li><a href="#kaishi15k_29" onclick="load_deck('#kaishi15k_29');">kaishi15k_29</a></li><li><a href="#n5_vocab_00" onclick="load_deck('#n5_vocab_00');">n5_vocab_00</a></li><li><a href="#n5_vocab_01" onclick="load_deck('#n5_vocab_01');">n5_vocab_01</a></li><li><a href="#n5_vocab_02" onclick="load_deck('#n5_vocab_02');">n5_vocab_02</a></li><li><a href="#n5_vocab_03" onclick="load_deck('#n5_vocab_03');">n5_vocab_03</a></li><li><a href="#n5_vocab_04" onclick="load_deck('#n5_vocab_04');">n5_vocab_04</a></li><li><a href="#n5_vocab_05" onclick="load_deck('#n5_vocab_05');">n5_vocab_05</a></li><li><a href="#n5_vocab_06" onclick="load_deck('#n5_vocab_06');">n5_vocab_06</a></li><li><a href="#n5_vocab_07" onclick="load_deck('#n5_vocab_07');">n5_vocab_07</a></li><li><a href="#n5_vocab_08" onclick="load_deck('#n5_vocab_08');">n5_vocab_08</a></li><li><a href="#n5_vocab_09" onclick="load_deck('#n5_vocab_09');">n5_vocab_09</a></li><li><a href="#n5_vocab_10" onclick="load_deck('#n5_vocab_10');">n5_vocab_10</a></li><li><a href="#n5_vocab_11" onclick="load_deck('#n5_vocab_11');">n5_vocab_11</a></li><li><a href="#n5_vocab_12" onclick="load_deck('#n5_vocab_12');">n5_vocab_12</a></li><li><a href="#n5_vocab_13" onclick="load_deck('#n5_vocab_13');">n5_vocab_13</a></li><li><a href="#rtk630_hiragana_00" onclick="load_deck('#rtk630_hiragana_00');">rtk630_hiragana_00</a></li><li><a href="#rtk630_hiragana_01" onclick="load_deck('#rtk630_hiragana_01');">rtk630_hiragana_01</a></li><li><a href="#rtk630_hiragana_02" onclick="load_deck('#rtk630_hiragana_02');">rtk630_hiragana_02</a></li><li><a href="#rtk630_hiragana_03" onclick="load_deck('#rtk630_hiragana_03');">rtk630_hiragana_03</a></li><li><a href="#rtk630_hiragana_04" onclick="load_deck('#rtk630_hiragana_04');">rtk630_hiragana_04</a></li><li><a href="#rtk630_hiragana_05" onclick="load_deck('#rtk630_hiragana_05');">rtk630_hiragana_05</a></li><li><a href="#rtk630_hiragana_06" onclick="load_deck('#rtk630_hiragana_06');">rtk630_hiragana_06</a></li><li><a href="#rtk630_hiragana_07" onclick="load_deck('#rtk630_hiragana_07');">rtk630_hiragana_07</a></li><li><a href="#rtk630_hiragana_08" onclick="load_deck('#rtk630_hiragana_08');">rtk630_hiragana_08</a></li><li><a href="#rtk630_hiragana_09" onclick="load_deck('#rtk630_hiragana_09');">rtk630_hiragana_09</a></li><li><a href="#rtk630_koohii_00" onclick="load_deck('#rtk630_koohii_00');">rtk630_koohii_00</a></li><li><a href="#rtk630_koohii_01" onclick="load_deck('#rtk630_koohii_01');">rtk630_koohii_01</a></li><li><a href="#rtk630_koohii_02" onclick="load_deck('#rtk630_koohii_02');">rtk630_koohii_02</a></li><li><a href="#rtk630_koohii_03" onclick="load_deck('#rtk630_koohii_03');">rtk630_koohii_03</a></li><li><a href="#rtk630_koohii_04" onclick="load_deck('#rtk630_koohii_04');">rtk630_koohii_04</a></li><li><a href="#rtk630_koohii_05" onclick="load_deck('#rtk630_koohii_05');">rtk630_koohii_05</a></li><li><a href="#rtk630_koohii_06" onclick="load_deck('#rtk630_koohii_06');">rtk630_koohii_06</a></li><li><a href="#rtk630_koohii_07" onclick="load_deck('#rtk630_koohii_07');">rtk630_koohii_07</a></li><li><a href="#rtk630_koohii_08" onclick="load_deck('#rtk630_koohii_08');">rtk630_koohii_08</a></li><li><a href="#rtk630_koohii_09" onclick="load_deck('#rtk630_koohii_09');">rtk630_koohii_09</a></li><li><a href="#rtk630_koohii_10" onclick="load_deck('#rtk630_koohii_10');">rtk630_koohii_10</a></li><li><a href="#rtk630_koohii_11" onclick="load_deck('#rtk630_koohii_11');">rtk630_koohii_11</a></li><li><a href="#rtk630_koohii_12" onclick="load_deck('#rtk630_koohii_12');">rtk630_koohii_12</a></li><li><a href="#rtk630_koohii_13" onclick="load_deck('#rtk630_koohii_13');">rtk630_koohii_13</a></li><li><a href="#rtk630_koohii_14" onclick="load_deck('#rtk630_koohii_14');">rtk630_koohii_14</a></li><li><a href="#rtk630_koohii_15" onclick="load_deck('#rtk630_koohii_15');">rtk630_koohii_15</a></li><li><a href="#rtk630_koohii_16" onclick="load_deck('#rtk630_koohii_16');">rtk630_koohii_16</a></li><li><a href="#rtk630_koohii_17" onclick="load_deck('#rtk630_koohii_17');">rtk630_koohii_17</a></li><li><a href="#rtk630_koohii_18" onclick="load_deck('#rtk630_koohii_18');">rtk630_koohii_18</a></li><li><a href="#rtk630_koohii_19" onclick="load_deck('#rtk630_koohii_19');">rtk630_koohii_19</a></li><li><a href="#rtk630_koohii_20" onclick="load_deck('#rtk630_koohii_20');">rtk630_koohii_20</a></li><li><a href="#rtk630_koohii_21" onclick="load_deck('#rtk630_koohii_21');">rtk630_koohii_21</a></li><li><a href="#rtk630_koohii_22" onclick="load_deck('#rtk630_koohii_22');">rtk630_koohii_22</a></li><li><a href="#rtk630_koohii_23" onclick="load_deck('#rtk630_koohii_23');">rtk630_koohii_23</a></li><li><a href="#rtk630_koohii_24" onclick="load_deck('#rtk630_koohii_24');">rtk630_koohii_24</a></li><li><a href="#rtk630_koohii_25" onclick="load_deck('#rtk630_koohii_25');">rtk630_koohii_25</a></li><li><a href="#rtk630_koohii_26" onclick="load_deck('#rtk630_koohii_26');">rtk630_koohii_26</a></li><li><a href="#rtk630_koohii_27" onclick="load_deck('#rtk630_koohii_27');">rtk630_koohii_27</a></li><li><a href="#rtk630_koohii_28" onclick="load_deck('#rtk630_koohii_28');">rtk630_koohii_28</a></li><li><a href="#rtk630_koohii_29" onclick="load_deck('#rtk630_koohii_29');">rtk630_koohii_29</a></li><li><a href="#rtk630_koohii_30" onclick="load_deck('#rtk630_koohii_30');">rtk630_koohii_30</a></li><li><a href="#usagi_phonetics_00" onclick="load_deck('#usagi_phonetics_00');">usagi_phonetics_00</a></li><li><a href="#usagi_phonetics_01" onclick="load_deck('#usagi_phonetics_01');">usagi_phonetics_01</a></li><li><a href="#usagi_phonetics_02" onclick="load_deck('#usagi_phonetics_02');">usagi_phonetics_02</a></li><li><a href="#usagi_phonetics_03" onclick="load_deck('#usagi_phonetics_03');">usagi_phonetics_03</a></li><li><a href="#usagi_phonetics_04" onclick="load_deck('#usagi_phonetics_04');">usagi_phonetics_04</a></li><li><a href="#usagi_phonetics_05" onclick="load_deck('#usagi_phonetics_05');">usagi_phonetics_05</a></li><li><a href="#usagi_phonetics_06" onclick="load_deck('#usagi_phonetics_06');">usagi_phonetics_06</a></li><li><a href="#usagi_phonetics_07" onclick="load_deck('#usagi_phonetics_07');">usagi_phonetics_07</a></li><li><a href="#usagi_phonetics_08" onclick="load_deck('#usagi_phonetics_08');">usagi_phonetics_08</a></li><li><a href="#usagi_phonetics_09" onclick="load_deck('#usagi_phonetics_09');">usagi_phonetics_09</a></li><li><a href="#usagi_phonetics_10" onclick="load_deck('#usagi_phonetics_10');">usagi_phonetics_10</a></li><li><a href="#usagi_phonetics_11" onclick="load_deck('#usagi_phonetics_11');">usagi_phonetics_11</a></li><li><a href="#usagi_phonetics_12" onclick="load_deck('#usagi_phonetics_12');">usagi_phonetics_12</a></li>
 */
 var decks = {
   "#n5_vocab_00": [
@@ -425,9 +162,7 @@ var decks = {
         "day after tomorrow"
       ],
       "answer": "あさって"
-    }
-  ],
-  "#n5_vocab_01": [
+    },
     {
       "question": [
         "誰",
@@ -587,9 +322,7 @@ var decks = {
         "composition, writing"
       ],
       "answer": "さくぶん"
-    }
-  ],
-  "#n5_vocab_02": [
+    },
     {
       "question": [
         "終る",
@@ -669,7 +402,9 @@ var decks = {
         "map"
       ],
       "answer": "ちず"
-    },
+    }
+  ],
+  "#n5_vocab_01": [
     {
       "question": [
         "学校",
@@ -749,9 +484,7 @@ var decks = {
         "next year"
       ],
       "answer": "らいねん"
-    }
-  ],
-  "#n5_vocab_03": [
+    },
     {
       "question": [
         "飛ぶ",
@@ -911,9 +644,7 @@ var decks = {
         "together"
       ],
       "answer": "いっしょ"
-    }
-  ],
-  "#n5_vocab_04": [
+    },
     {
       "question": [
         "じゃあ",
@@ -1075,7 +806,7 @@ var decks = {
       "answer": "しゅくだい"
     }
   ],
-  "#n5_vocab_05": [
+  "#n5_vocab_02": [
     {
       "question": [
         "漢字",
@@ -1235,9 +966,7 @@ var decks = {
         "village"
       ],
       "answer": "むら"
-    }
-  ],
-  "#n5_vocab_06": [
+    },
     {
       "question": [
         "午前",
@@ -1397,9 +1126,7 @@ var decks = {
         "name"
       ],
       "answer": "なまえ"
-    }
-  ],
-  "#n5_vocab_07": [
+    },
     {
       "question": [
         "まだ",
@@ -1479,7 +1206,9 @@ var decks = {
         "However"
       ],
       "answer": "しかし"
-    },
+    }
+  ],
+  "#n5_vocab_03": [
     {
       "question": [
         "メートル",
@@ -1559,9 +1288,7 @@ var decks = {
         "hot"
       ],
       "answer": "あつい"
-    }
-  ],
-  "#n5_vocab_08": [
+    },
     {
       "question": [
         "よい",
@@ -1721,9 +1448,7 @@ var decks = {
         "Sunday"
       ],
       "answer": "にちようび"
-    }
-  ],
-  "#n5_vocab_09": [
+    },
     {
       "question": [
         "女",
@@ -1885,7 +1610,7 @@ var decks = {
       "answer": "しょくどう"
     }
   ],
-  "#n5_vocab_10": [
+  "#n5_vocab_04": [
     {
       "question": [
         "もう",
@@ -2045,9 +1770,7 @@ var decks = {
         "please"
       ],
       "answer": "どうぞ"
-    }
-  ],
-  "#n5_vocab_11": [
+    },
     {
       "question": [
         "熱い",
@@ -2207,9 +1930,7 @@ var decks = {
         "song"
       ],
       "answer": "うた"
-    }
-  ],
-  "#n5_vocab_12": [
+    },
     {
       "question": [
         "あちら",
@@ -2289,7 +2010,9 @@ var decks = {
         "teacher, doctor"
       ],
       "answer": "せんせい"
-    },
+    }
+  ],
+  "#n5_vocab_05": [
     {
       "question": [
         "新聞",
@@ -2369,9 +2092,7 @@ var decks = {
         "yellow"
       ],
       "answer": "きいろい"
-    }
-  ],
-  "#n5_vocab_13": [
+    },
     {
       "question": [
         "お手洗い",
@@ -2531,9 +2252,7 @@ var decks = {
         "to turn,to bend"
       ],
       "answer": "まがる"
-    }
-  ],
-  "#n5_vocab_14": [
+    },
     {
       "question": [
         "花",
@@ -2695,7 +2414,7 @@ var decks = {
       "answer": "いま"
     }
   ],
-  "#n5_vocab_15": [
+  "#n5_vocab_06": [
     {
       "question": [
         "待つ",
@@ -2855,9 +2574,7 @@ var decks = {
         "(honorable) wife"
       ],
       "answer": "おくさん"
-    }
-  ],
-  "#n5_vocab_16": [
+    },
     {
       "question": [
         "黄色",
@@ -3017,9 +2734,7 @@ var decks = {
         "slowly"
       ],
       "answer": "ゆっくりと"
-    }
-  ],
-  "#n5_vocab_17": [
+    },
     {
       "question": [
         "妹",
@@ -3099,7 +2814,9 @@ var decks = {
         "Zero"
       ],
       "answer": "ぜろ"
-    },
+    }
+  ],
+  "#n5_vocab_07": [
     {
       "question": [
         "上手",
@@ -3179,9 +2896,7 @@ var decks = {
         "place"
       ],
       "answer": "ところ"
-    }
-  ],
-  "#n5_vocab_18": [
+    },
     {
       "question": [
         "銀行",
@@ -3341,9 +3056,7 @@ var decks = {
         "medicine"
       ],
       "answer": "くすり"
-    }
-  ],
-  "#n5_vocab_19": [
+    },
     {
       "question": [
         "コーヒー",
@@ -3505,7 +3218,7 @@ var decks = {
       "answer": "びょういん"
     }
   ],
-  "#n5_vocab_20": [
+  "#n5_vocab_08": [
     {
       "question": [
         "トイレ",
@@ -3665,9 +3378,7 @@ var decks = {
         "Three"
       ],
       "answer": "さん"
-    }
-  ],
-  "#n5_vocab_21": [
+    },
     {
       "question": [
         "もう一度",
@@ -3827,9 +3538,7 @@ var decks = {
         "to see, to watch"
       ],
       "answer": "みる"
-    }
-  ],
-  "#n5_vocab_22": [
+    },
     {
       "question": [
         "毎朝",
@@ -3909,7 +3618,9 @@ var decks = {
         "handkerchief"
       ],
       "answer": "はんかち"
-    },
+    }
+  ],
+  "#n5_vocab_09": [
     {
       "question": [
         "あれ",
@@ -3989,9 +3700,7 @@ var decks = {
         "health, vitality"
       ],
       "answer": "げんき"
-    }
-  ],
-  "#n5_vocab_23": [
+    },
     {
       "question": [
         "夜",
@@ -4151,9 +3860,7 @@ var decks = {
         "to go across"
       ],
       "answer": "わたる"
-    }
-  ],
-  "#n5_vocab_24": [
+    },
     {
       "question": [
         "涼しい",
@@ -4315,7 +4022,7 @@ var decks = {
       "answer": "やさい"
     }
   ],
-  "#n5_vocab_25": [
+  "#n5_vocab_10": [
     {
       "question": [
         "何",
@@ -4475,9 +4182,7 @@ var decks = {
         "to need"
       ],
       "answer": "いる"
-    }
-  ],
-  "#n5_vocab_26": [
+    },
     {
       "question": [
         "豚肉",
@@ -4637,9 +4342,7 @@ var decks = {
         "warm"
       ],
       "answer": "あたたかい"
-    }
-  ],
-  "#n5_vocab_27": [
+    },
     {
       "question": [
         "バター",
@@ -4719,7 +4422,9 @@ var decks = {
         "five"
       ],
       "answer": "いつつ"
-    },
+    }
+  ],
+  "#n5_vocab_11": [
     {
       "question": [
         "まずい",
@@ -4799,9 +4504,7 @@ var decks = {
         "nine days, ninth day"
       ],
       "answer": "ここのか"
-    }
-  ],
-  "#n5_vocab_28": [
+    },
     {
       "question": [
         "動物",
@@ -4961,9 +4664,7 @@ var decks = {
         "one"
       ],
       "answer": "いち"
-    }
-  ],
-  "#n5_vocab_29": [
+    },
     {
       "question": [
         "あの",
@@ -5125,7 +4826,7 @@ var decks = {
       "answer": "こうばん"
     }
   ],
-  "#n5_vocab_30": [
+  "#n5_vocab_12": [
     {
       "question": [
         "カレンダー",
@@ -5285,9 +4986,7 @@ var decks = {
         "Please"
       ],
       "answer": "ください"
-    }
-  ],
-  "#n5_vocab_31": [
+    },
     {
       "question": [
         "行く",
@@ -5447,9 +5146,7 @@ var decks = {
         "height, stature"
       ],
       "answer": "せ"
-    }
-  ],
-  "#n5_vocab_32": [
+    },
     {
       "question": [
         "勤める",
@@ -5529,7 +5226,9 @@ var decks = {
         "Pupil"
       ],
       "answer": "せいと"
-    },
+    }
+  ],
+  "#n5_vocab_13": [
     {
       "question": [
         "雪",
@@ -5609,9 +5308,7 @@ var decks = {
         "Economy"
       ],
       "answer": "せっけん"
-    }
-  ],
-  "#n5_vocab_33": [
+    },
     {
       "question": [
         "止まる",
@@ -5893,9 +5590,7 @@ var decks = {
         "have, exist (inanimate)"
       ],
       "answer": "ある"
-    }
-  ],
-  "#kaishi15k_01": [
+    },
     {
       "question": [
         "あまり",
@@ -6055,9 +5750,7 @@ var decks = {
         "over there"
       ],
       "answer": "あそこ"
-    }
-  ],
-  "#kaishi15k_02": [
+    },
     {
       "question": [
         "どこ",
@@ -6137,7 +5830,9 @@ var decks = {
         "no (polite)"
       ],
       "answer": "いいえ"
-    },
+    }
+  ],
+  "#kaishi15k_01": [
     {
       "question": [
         "日本",
@@ -6217,9 +5912,7 @@ var decks = {
         "in such manner, that way"
       ],
       "answer": "そう"
-    }
-  ],
-  "#kaishi15k_03": [
+    },
     {
       "question": [
         "どう",
@@ -6379,9 +6072,7 @@ var decks = {
         "yesterday"
       ],
       "answer": "きのう"
-    }
-  ],
-  "#kaishi15k_04": [
+    },
     {
       "question": [
         "町",
@@ -6543,7 +6234,7 @@ var decks = {
       "answer": "まえ"
     }
   ],
-  "#kaishi15k_05": [
+  "#kaishi15k_02": [
     {
       "question": [
         "入る",
@@ -6703,9 +6394,7 @@ var decks = {
         "today"
       ],
       "answer": "きょう"
-    }
-  ],
-  "#kaishi15k_06": [
+    },
     {
       "question": [
         "部屋",
@@ -6865,9 +6554,7 @@ var decks = {
         "thing, incident"
       ],
       "answer": "こと"
-    }
-  ],
-  "#kaishi15k_07": [
+    },
     {
       "question": [
         "同じ",
@@ -6947,7 +6634,9 @@ var decks = {
         "continue, keep up"
       ],
       "answer": "つづける"
-    },
+    }
+  ],
+  "#kaishi15k_03": [
     {
       "question": [
         "見せる",
@@ -7027,9 +6716,7 @@ var decks = {
         "stop (at some place)"
       ],
       "answer": "とめる"
-    }
-  ],
-  "#kaishi15k_08": [
+    },
     {
       "question": [
         "止める",
@@ -7189,9 +6876,7 @@ var decks = {
         "dream"
       ],
       "answer": "ゆめ"
-    }
-  ],
-  "#kaishi15k_09": [
+    },
     {
       "question": [
         "俺",
@@ -7353,7 +7038,7 @@ var decks = {
       "answer": "ひま"
     }
   ],
-  "#kaishi15k_10": [
+  "#kaishi15k_04": [
     {
       "question": [
         "時",
@@ -7513,9 +7198,7 @@ var decks = {
         "yet, more"
       ],
       "answer": "まだ"
-    }
-  ],
-  "#kaishi15k_11": [
+    },
     {
       "question": [
         "じゃ",
@@ -7675,9 +7358,7 @@ var decks = {
         "many, much"
       ],
       "answer": "おおく"
-    }
-  ],
-  "#kaishi15k_12": [
+    },
     {
       "question": [
         "くらい",
@@ -7757,7 +7438,9 @@ var decks = {
         "early"
       ],
       "answer": "はやい"
-    },
+    }
+  ],
+  "#kaishi15k_05": [
     {
       "question": [
         "早い",
@@ -7837,9 +7520,7 @@ var decks = {
         "person"
       ],
       "answer": "もの"
-    }
-  ],
-  "#kaishi15k_13": [
+    },
     {
       "question": [
         "後",
@@ -7999,9 +7680,7 @@ var decks = {
         "kill"
       ],
       "answer": "ころす"
-    }
-  ],
-  "#kaishi15k_14": [
+    },
     {
       "question": [
         "まさか",
@@ -8163,7 +7842,7 @@ var decks = {
       "answer": "それで"
     }
   ],
-  "#kaishi15k_15": [
+  "#kaishi15k_06": [
     {
       "question": [
         "生きる",
@@ -8323,9 +8002,7 @@ var decks = {
         "recollect, recall"
       ],
       "answer": "おもいだす"
-    }
-  ],
-  "#kaishi15k_16": [
+    },
     {
       "question": [
         "入れる",
@@ -8485,9 +8162,7 @@ var decks = {
         "be separated, be apart"
       ],
       "answer": "はなれる"
-    }
-  ],
-  "#kaishi15k_17": [
+    },
     {
       "question": [
         "気",
@@ -8567,7 +8242,9 @@ var decks = {
         "to decide"
       ],
       "answer": "きめる"
-    },
+    }
+  ],
+  "#kaishi15k_07": [
     {
       "question": [
         "女性",
@@ -8647,9 +8324,7 @@ var decks = {
         "magic"
       ],
       "answer": "まほう"
-    }
-  ],
-  "#kaishi15k_18": [
+    },
     {
       "question": [
         "探す",
@@ -8809,9 +8484,7 @@ var decks = {
         "once"
       ],
       "answer": "いちど"
-    }
-  ],
-  "#kaishi15k_19": [
+    },
     {
       "question": [
         "完全",
@@ -8973,7 +8646,7 @@ var decks = {
       "answer": "はずかしい"
     }
   ],
-  "#kaishi15k_20": [
+  "#kaishi15k_08": [
     {
       "question": [
         "場合",
@@ -9133,9 +8806,7 @@ var decks = {
         "open, unlock"
       ],
       "answer": "あける"
-    }
-  ],
-  "#kaishi15k_21": [
+    },
     {
       "question": [
         "黙る",
@@ -9295,9 +8966,7 @@ var decks = {
         "I'm not sure, Hmm..."
       ],
       "answer": "さあ"
-    }
-  ],
-  "#kaishi15k_22": [
+    },
     {
       "question": [
         "血",
@@ -9377,7 +9046,9 @@ var decks = {
         "what on earth, what the…"
       ],
       "answer": "いったい"
-    },
+    }
+  ],
+  "#kaishi15k_09": [
     {
       "question": [
         "とりあえず",
@@ -9457,9 +9128,7 @@ var decks = {
         "after all, finally"
       ],
       "answer": "けっきょく"
-    }
-  ],
-  "#kaishi15k_23": [
+    },
     {
       "question": [
         "空",
@@ -9619,9 +9288,7 @@ var decks = {
         "carry across, hand over"
       ],
       "answer": "わたす"
-    }
-  ],
-  "#kaishi15k_24": [
+    },
     {
       "question": [
         "喜ぶ",
@@ -9783,7 +9450,7 @@ var decks = {
       "answer": "とどく"
     }
   ],
-  "#kaishi15k_25": [
+  "#kaishi15k_10": [
     {
       "question": [
         "生む",
@@ -9943,9 +9610,7 @@ var decks = {
         "street"
       ],
       "answer": "とおり"
-    }
-  ],
-  "#kaishi15k_26": [
+    },
     {
       "question": [
         "想像",
@@ -10105,9 +9770,7 @@ var decks = {
         "method, way"
       ],
       "answer": "ほうほう"
-    }
-  ],
-  "#kaishi15k_27": [
+    },
     {
       "question": [
         "もう一度",
@@ -10187,7 +9850,9 @@ var decks = {
         "expectation, anticipation"
       ],
       "answer": "きたい"
-    },
+    }
+  ],
+  "#kaishi15k_11": [
     {
       "question": [
         "無事",
@@ -10267,9 +9932,7 @@ var decks = {
         "to be lost, to be used up"
       ],
       "answer": "なくなる"
-    }
-  ],
-  "#kaishi15k_28": [
+    },
     {
       "question": [
         "唇",
@@ -10429,9 +10092,7 @@ var decks = {
         "occur, happen"
       ],
       "answer": "おこる"
-    }
-  ],
-  "#kaishi15k_29": [
+    },
     {
       "question": [
         "逆",
@@ -10593,7 +10254,7 @@ var decks = {
       "answer": "ひっし"
     }
   ],
-  "#kaishi15k_30": [
+  "#kaishi15k_12": [
     {
       "question": [
         "珍しい",
@@ -10753,9 +10414,7 @@ var decks = {
         "answer, response"
       ],
       "answer": "こたえ"
-    }
-  ],
-  "#kaishi15k_31": [
+    },
     {
       "question": [
         "風",
@@ -10915,9 +10574,7 @@ var decks = {
         "lie"
       ],
       "answer": "うそ"
-    }
-  ],
-  "#kaishi15k_32": [
+    },
     {
       "question": [
         "望む",
@@ -10997,7 +10654,9 @@ var decks = {
         "honest, straightforward"
       ],
       "answer": "すなお"
-    },
+    }
+  ],
+  "#kaishi15k_13": [
     {
       "question": [
         "肉",
@@ -11077,9 +10736,7 @@ var decks = {
         "both hands"
       ],
       "answer": "りょうて"
-    }
-  ],
-  "#kaishi15k_33": [
+    },
     {
       "question": [
         "増える",
@@ -11239,9 +10896,7 @@ var decks = {
         "the past"
       ],
       "answer": "かこ"
-    }
-  ],
-  "#kaishi15k_34": [
+    },
     {
       "question": [
         "気配",
@@ -11403,7 +11058,7 @@ var decks = {
       "answer": "かね"
     }
   ],
-  "#kaishi15k_35": [
+  "#kaishi15k_14": [
     {
       "question": [
         "今夜",
@@ -11563,9 +11218,7 @@ var decks = {
         "free"
       ],
       "answer": "じゆう"
-    }
-  ],
-  "#kaishi15k_36": [
+    },
     {
       "question": [
         "全身",
@@ -11725,9 +11378,7 @@ var decks = {
         "take along, bring along"
       ],
       "answer": "つれる"
-    }
-  ],
-  "#kaishi15k_37": [
+    },
     {
       "question": [
         "低い",
@@ -11807,7 +11458,9 @@ var decks = {
         "wave, shake"
       ],
       "answer": "ふる"
-    },
+    }
+  ],
+  "#kaishi15k_15": [
     {
       "question": [
         "余計",
@@ -11887,9 +11540,7 @@ var decks = {
         "really, truly"
       ],
       "answer": "ほんとうに"
-    }
-  ],
-  "#kaishi15k_38": [
+    },
     {
       "question": [
         "噂",
@@ -12049,9 +11700,7 @@ var decks = {
         "point, mark"
       ],
       "answer": "てん"
-    }
-  ],
-  "#kaishi15k_39": [
+    },
     {
       "question": [
         "参加",
@@ -12213,7 +11862,7 @@ var decks = {
       "answer": "しめす"
     }
   ],
-  "#kaishi15k_40": [
+  "#kaishi15k_16": [
     {
       "question": [
         "成功",
@@ -12373,9 +12022,7 @@ var decks = {
         "prince"
       ],
       "answer": "おうじ"
-    }
-  ],
-  "#kaishi15k_41": [
+    },
     {
       "question": [
         "満足",
@@ -12535,9 +12182,7 @@ var decks = {
         "hallway"
       ],
       "answer": "ろうか"
-    }
-  ],
-  "#kaishi15k_42": [
+    },
     {
       "question": [
         "そいつ",
@@ -12617,7 +12262,9 @@ var decks = {
         "sad"
       ],
       "answer": "かなしい"
-    },
+    }
+  ],
+  "#kaishi15k_17": [
     {
       "question": [
         "隠れる",
@@ -12697,9 +12344,7 @@ var decks = {
         "all right"
       ],
       "answer": "よろしい"
-    }
-  ],
-  "#kaishi15k_43": [
+    },
     {
       "question": [
         "機会",
@@ -12859,9 +12504,7 @@ var decks = {
         "star, planet"
       ],
       "answer": "ほし"
-    }
-  ],
-  "#kaishi15k_44": [
+    },
     {
       "question": [
         "明らか",
@@ -13023,7 +12666,7 @@ var decks = {
       "answer": "かのう"
     }
   ],
-  "#kaishi15k_45": [
+  "#kaishi15k_18": [
     {
       "question": [
         "新た",
@@ -13183,9 +12826,7 @@ var decks = {
         "turn off"
       ],
       "answer": "けす"
-    }
-  ],
-  "#kaishi15k_46": [
+    },
     {
       "question": [
         "調子",
@@ -13345,9 +12986,7 @@ var decks = {
         "(one) part"
       ],
       "answer": "いちぶ"
-    }
-  ],
-  "#kaishi15k_47": [
+    },
     {
       "question": [
         "遠く",
@@ -13427,7 +13066,9 @@ var decks = {
         "advance, promote"
       ],
       "answer": "すすめる"
-    },
+    }
+  ],
+  "#kaishi15k_19": [
     {
       "question": [
         "真剣",
@@ -13507,9 +13148,7 @@ var decks = {
         "misunderstanding"
       ],
       "answer": "かんちがい"
-    }
-  ],
-  "#kaishi15k_48": [
+    },
     {
       "question": [
         "警戒",
@@ -13669,9 +13308,7 @@ var decks = {
         "vexing, frustrating"
       ],
       "answer": "くやしい"
-    }
-  ],
-  "#kaishi15k_49": [
+    },
     {
       "question": [
         "抜く",
@@ -13833,7 +13470,7 @@ var decks = {
       "answer": "けもの"
     }
   ],
-  "#kaishi15k_50": [
+  "#kaishi15k_20": [
     {
       "question": [
         "取れる",
@@ -13993,9 +13630,7 @@ var decks = {
         "be late"
       ],
       "answer": "おくれる"
-    }
-  ],
-  "#kaishi15k_51": [
+    },
     {
       "question": [
         "車",
@@ -14155,9 +13790,7 @@ var decks = {
         "turn, rotate"
       ],
       "answer": "まわす"
-    }
-  ],
-  "#kaishi15k_52": [
+    },
     {
       "question": [
         "なぜか",
@@ -14237,7 +13870,9 @@ var decks = {
         "kingdom, monarchy"
       ],
       "answer": "おうこく"
-    },
+    }
+  ],
+  "#kaishi15k_21": [
     {
       "question": [
         "抵抗",
@@ -14317,9 +13952,7 @@ var decks = {
         "at least, at any rate"
       ],
       "answer": "ともかく"
-    }
-  ],
-  "#kaishi15k_53": [
+    },
     {
       "question": [
         "減る",
@@ -14479,9 +14112,7 @@ var decks = {
         "go to and from, frequent a place"
       ],
       "answer": "かよう"
-    }
-  ],
-  "#kaishi15k_54": [
+    },
     {
       "question": [
         "殴る",
@@ -14643,7 +14274,7 @@ var decks = {
       "answer": "まちがい"
     }
   ],
-  "#kaishi15k_55": [
+  "#kaishi15k_22": [
     {
       "question": [
         "青い",
@@ -14803,9 +14434,7 @@ var decks = {
         "knowledge"
       ],
       "answer": "ちしき"
-    }
-  ],
-  "#kaishi15k_56": [
+    },
     {
       "question": [
         "切り",
@@ -14965,9 +14594,7 @@ var decks = {
         "soon, before long"
       ],
       "answer": "もうすぐ"
-    }
-  ],
-  "#kaishi15k_57": [
+    },
     {
       "question": [
         "中央",
@@ -15047,7 +14674,9 @@ var decks = {
         "poison, harm"
       ],
       "answer": "どく"
-    },
+    }
+  ],
+  "#kaishi15k_23": [
     {
       "question": [
         "馬",
@@ -15127,9 +14756,7 @@ var decks = {
         "side, vicinity"
       ],
       "answer": "そば"
-    }
-  ],
-  "#kaishi15k_58": [
+    },
     {
       "question": [
         "万",
@@ -15289,9 +14916,7 @@ var decks = {
         "gate, entrance"
       ],
       "answer": "もん"
-    }
-  ],
-  "#kaishi15k_59": [
+    },
     {
       "question": [
         "不可能",
@@ -15453,7 +15078,7 @@ var decks = {
       "answer": "よる"
     }
   ],
-  "#kaishi15k_60": [
+  "#kaishi15k_24": [
     {
       "question": [
         "飛ばす",
@@ -15613,9 +15238,7 @@ var decks = {
         "put in, concentrate on"
       ],
       "answer": "こめる"
-    }
-  ],
-  "#kaishi15k_61": [
+    },
     {
       "question": [
         "自覚",
@@ -15775,9 +15398,7 @@ var decks = {
         "strain, be stretched"
       ],
       "answer": "はる"
-    }
-  ],
-  "#kaishi15k_62": [
+    },
     {
       "question": [
         "告白",
@@ -15857,7 +15478,9 @@ var decks = {
         "solve"
       ],
       "answer": "とく"
-    },
+    }
+  ],
+  "#kaishi15k_25": [
     {
       "question": [
         "元々",
@@ -15937,9 +15560,7 @@ var decks = {
         "usage"
       ],
       "answer": "しよう"
-    }
-  ],
-  "#kaishi15k_63": [
+    },
     {
       "question": [
         "道具",
@@ -16099,9 +15720,7 @@ var decks = {
         "various, diverse"
       ],
       "answer": "さまざま"
-    }
-  ],
-  "#kaishi15k_64": [
+    },
     {
       "question": [
         "病院",
@@ -16263,7 +15882,7 @@ var decks = {
       "answer": "できごと"
     }
   ],
-  "#kaishi15k_65": [
+  "#kaishi15k_26": [
     {
       "question": [
         "部下",
@@ -16423,9 +16042,7 @@ var decks = {
         "ceiling"
       ],
       "answer": "てんじょう"
-    }
-  ],
-  "#kaishi15k_66": [
+    },
     {
       "question": [
         "兵士",
@@ -16585,9 +16202,7 @@ var decks = {
         "preserve, endure"
       ],
       "answer": "たもつ"
-    }
-  ],
-  "#kaishi15k_67": [
+    },
     {
       "question": [
         "歴史",
@@ -16667,7 +16282,9 @@ var decks = {
         "young, childish"
       ],
       "answer": "おさない"
-    },
+    }
+  ],
+  "#kaishi15k_27": [
     {
       "question": [
         "学ぶ",
@@ -16747,9 +16364,7 @@ var decks = {
         "step on, tread on"
       ],
       "answer": "ふむ"
-    }
-  ],
-  "#kaishi15k_68": [
+    },
     {
       "question": [
         "印象",
@@ -16909,9 +16524,7 @@ var decks = {
         "act violently, rage about"
       ],
       "answer": "あばれる"
-    }
-  ],
-  "#kaishi15k_69": [
+    },
     {
       "question": [
         "越える",
@@ -17073,7 +16686,7 @@ var decks = {
       "answer": "つづき"
     }
   ],
-  "#kaishi15k_70": [
+  "#kaishi15k_28": [
     {
       "question": [
         "祈る",
@@ -17233,9 +16846,7 @@ var decks = {
         "eternity"
       ],
       "answer": "えいえん"
-    }
-  ],
-  "#kaishi15k_71": [
+    },
     {
       "question": [
         "不意に",
@@ -17395,9 +17006,7 @@ var decks = {
         "swallow, grasp"
       ],
       "answer": "のみこむ"
-    }
-  ],
-  "#kaishi15k_72": [
+    },
     {
       "question": [
         "仮に",
@@ -17477,7 +17086,9 @@ var decks = {
         "take (a person) along"
       ],
       "answer": "つれていく"
-    },
+    }
+  ],
+  "#kaishi15k_29": [
     {
       "question": [
         "現状",
@@ -17557,9 +17168,7 @@ var decks = {
         "one's future, in the future"
       ],
       "answer": "しょうらい"
-    }
-  ],
-  "#kaishi15k_73": [
+    },
     {
       "question": [
         "記録",
@@ -17719,9 +17328,7 @@ var decks = {
         "organization, structure"
       ],
       "answer": "そしき"
-    }
-  ],
-  "#kaishi15k_74": [
+    },
     {
       "question": [
         "隙間",
@@ -18043,9 +17650,7 @@ var decks = {
         "self-"
       ],
       "answer": "じ"
-    }
-  ],
-  "#rtk630_hiragana_01": [
+    },
     {
       "question": [
         "白",
@@ -18205,9 +17810,7 @@ var decks = {
         "second"
       ],
       "answer": "おつ"
-    }
-  ],
-  "#rtk630_hiragana_02": [
+    },
     {
       "question": [
         "乱",
@@ -18287,7 +17890,9 @@ var decks = {
         "edge"
       ],
       "answer": "は"
-    },
+    }
+  ],
+  "#rtk630_hiragana_01": [
     {
       "question": [
         "切",
@@ -18367,9 +17972,7 @@ var decks = {
         "older brother/elder brother"
       ],
       "answer": "あに"
-    }
-  ],
-  "#rtk630_hiragana_03": [
+    },
     {
       "question": [
         "小",
@@ -18529,9 +18132,7 @@ var decks = {
         "dot/point/mark"
       ],
       "answer": "ちょぼ"
-    }
-  ],
-  "#rtk630_hiragana_04": [
+    },
     {
       "question": [
         "魚",
@@ -18693,7 +18294,7 @@ var decks = {
       "answer": "わか"
     }
   ],
-  "#rtk630_hiragana_05": [
+  "#rtk630_hiragana_02": [
     {
       "question": [
         "草",
@@ -18853,9 +18454,7 @@ var decks = {
         "kanji \"road\" or \"advance\" radical"
       ],
       "answer": "しんにょう"
-    }
-  ],
-  "#rtk630_hiragana_06": [
+    },
     {
       "question": [
         "道",
@@ -19015,9 +18614,7 @@ var decks = {
         "Satori/folklore monster that can read minds"
       ],
       "answer": "さとり"
-    }
-  ],
-  "#rtk630_hiragana_07": [
+    },
     {
       "question": [
         "書",
@@ -19097,7 +18694,9 @@ var decks = {
         "equation/formula/expression"
       ],
       "answer": "しき"
-    },
+    }
+  ],
+  "#rtk630_hiragana_03": [
     {
       "question": [
         "試",
@@ -19177,9 +18776,7 @@ var decks = {
         "distant"
       ],
       "answer": "とお"
-    }
-  ],
-  "#rtk630_hiragana_08": [
+    },
     {
       "question": [
         "初",
@@ -19339,9 +18936,7 @@ var decks = {
         "everyone/everybody/all"
       ],
       "answer": "みんな"
-    }
-  ],
-  "#rtk630_hiragana_09": [
+    },
     {
       "question": [
         "毎",
@@ -19503,7 +19098,7 @@ var decks = {
       "answer": "ば"
     }
   ],
-  "#rtk630_hiragana_10": [
+  "#rtk630_hiragana_04": [
     {
       "question": [
         "湯",
@@ -19663,9 +19258,7 @@ var decks = {
         "mind/heart/spirit"
       ],
       "answer": "こころ"
-    }
-  ],
-  "#rtk630_hiragana_11": [
+    },
     {
       "question": [
         "意",
@@ -19825,9 +19418,7 @@ var decks = {
         "friend/companion/comrade/pal"
       ],
       "answer": "とも"
-    }
-  ],
-  "#rtk630_hiragana_12": [
+    },
     {
       "question": [
         "殳",
@@ -19907,7 +19498,9 @@ var decks = {
         "love/affection/care"
       ],
       "answer": "あい"
-    },
+    }
+  ],
+  "#rtk630_hiragana_05": [
     {
       "question": [
         "台",
@@ -19987,9 +19580,7 @@ var decks = {
         "minute"
       ],
       "answer": "ふん"
-    }
-  ],
-  "#rtk630_hiragana_13": [
+    },
     {
       "question": [
         "皮",
@@ -20149,9 +19740,7 @@ var decks = {
         "... street/... quarter/... district"
       ],
       "answer": "がい"
-    }
-  ],
-  "#rtk630_hiragana_14": [
+    },
     {
       "question": [
         "和",
@@ -20313,7 +19902,7 @@ var decks = {
       "answer": "つき"
     }
   ],
-  "#rtk630_hiragana_15": [
+  "#rtk630_hiragana_06": [
     {
       "question": [
         "任",
@@ -20473,9 +20062,7 @@ var decks = {
         "(Shinto) shrine"
       ],
       "answer": "やしろ"
-    }
-  ],
-  "#rtk630_hiragana_16": [
+    },
     {
       "question": [
         "由",
@@ -20635,9 +20222,7 @@ var decks = {
         "time"
       ],
       "answer": "たび"
-    }
-  ],
-  "#rtk630_hiragana_17": [
+    },
     {
       "question": [
         "半",
@@ -20717,7 +20302,9 @@ var decks = {
         "body"
       ],
       "answer": "み"
-    },
+    }
+  ],
+  "#rtk630_hiragana_07": [
     {
       "question": [
         "老",
@@ -20797,9 +20384,7 @@ var decks = {
         "(the) positive"
       ],
       "answer": "よう"
-    }
-  ],
-  "#rtk630_hiragana_18": [
+    },
     {
       "question": [
         "穴",
@@ -20959,9 +20544,7 @@ var decks = {
         "legume"
       ],
       "answer": "まめ"
-    }
-  ],
-  "#rtk630_hiragana_19": [
+    },
     {
       "question": [
         "頭",
@@ -21123,7 +20706,7 @@ var decks = {
       "answer": "じょう"
     }
   ],
-  "#rtk630_hiragana_20": [
+  "#rtk630_hiragana_08": [
     {
       "question": [
         "表",
@@ -21283,9 +20866,7 @@ var decks = {
         "bundle/bunch/sheaf"
       ],
       "answer": "たば"
-    }
-  ],
-  "#rtk630_hiragana_21": [
+    },
     {
       "question": [
         "重",
@@ -21445,9 +21026,7 @@ var decks = {
         "average/medium/common/ordinary"
       ],
       "answer": "なみ"
-    }
-  ],
-  "#rtk630_hiragana_22": [
+    },
     {
       "question": [
         "業",
@@ -21527,7 +21106,9 @@ var decks = {
         "solution"
       ],
       "answer": "かい"
-    },
+    }
+  ],
+  "#rtk630_hiragana_09": [
     {
       "question": [
         "部",
@@ -21607,9 +21188,7 @@ var decks = {
         "height/stature"
       ],
       "answer": "たけ"
-    }
-  ],
-  "#rtk630_hiragana_23": [
+    },
     {
       "question": [
         "張",
@@ -21835,9 +21414,7 @@ var decks = {
         "copper"
       ],
       "answer": "どう"
-    }
-  ],
-  "#usagi_phonetics_01": [
+    },
     {
       "question": [
         "筒",
@@ -21997,9 +21574,7 @@ var decks = {
         "mile"
       ],
       "answer": "まいる"
-    }
-  ],
-  "#usagi_phonetics_02": [
+    },
     {
       "question": [
         "鯉",
@@ -22079,7 +21654,9 @@ var decks = {
         "fortress"
       ],
       "answer": "き"
-    },
+    }
+  ],
+  "#usagi_phonetics_01": [
     {
       "question": [
         "盛",
@@ -22159,9 +21736,7 @@ var decks = {
         "judge"
       ],
       "answer": "さい"
-    }
-  ],
-  "#usagi_phonetics_03": [
+    },
     {
       "question": [
         "載",
@@ -22321,9 +21896,7 @@ var decks = {
         "ball"
       ],
       "answer": "まり"
-    }
-  ],
-  "#usagi_phonetics_04": [
+    },
     {
       "question": [
         "毬",
@@ -22485,7 +22058,7 @@ var decks = {
       "answer": "かん"
     }
   ],
-  "#usagi_phonetics_05": [
+  "#usagi_phonetics_02": [
     {
       "question": [
         "館",
@@ -22645,9 +22218,7 @@ var decks = {
         "dripping/drop"
       ],
       "answer": "たらし"
-    }
-  ],
-  "#usagi_phonetics_06": [
+    },
     {
       "question": [
         "滴",
@@ -22807,9 +22378,7 @@ var decks = {
         "cape"
       ],
       "answer": "みさき"
-    }
-  ],
-  "#usagi_phonetics_07": [
+    },
     {
       "question": [
         "埼",
@@ -22889,7 +22458,9 @@ var decks = {
         "counter for games of mahjong"
       ],
       "answer": "ちゃん"
-    },
+    }
+  ],
+  "#usagi_phonetics_03": [
     {
       "question": [
         "装",
@@ -22969,9 +22540,7 @@ var decks = {
         "discarded tiles/discards"
       ],
       "answer": "ほー"
-    }
-  ],
-  "#usagi_phonetics_08": [
+    },
     {
       "question": [
         "荷",
@@ -23131,9 +22700,7 @@ var decks = {
         "administrative and civil code"
       ],
       "answer": "りょう"
-    }
-  ],
-  "#usagi_phonetics_09": [
+    },
     {
       "question": [
         "冷",
@@ -23295,7 +22862,7 @@ var decks = {
       "answer": "おおかみ"
     }
   ],
-  "#usagi_phonetics_10": [
+  "#usagi_phonetics_04": [
     {
       "question": [
         "郎",
@@ -23455,9 +23022,7 @@ var decks = {
         "pitch/tone/key"
       ],
       "answer": "ちょう"
-    }
-  ],
-  "#usagi_phonetics_11": [
+    },
     {
       "question": [
         "鯛",
@@ -23617,9 +23182,7 @@ var decks = {
         "city"
       ],
       "answer": "し"
-    }
-  ],
-  "#usagi_phonetics_12": [
+    },
     {
       "question": [
         "姉",
@@ -23699,7 +23262,9 @@ var decks = {
         "origin/source"
       ],
       "answer": "もと"
-    },
+    }
+  ],
+  "#usagi_phonetics_05": [
     {
       "question": [
         "基",
@@ -23779,9 +23344,7 @@ var decks = {
         "seal/stamp/monogram signature"
       ],
       "answer": "はん"
-    }
-  ],
-  "#usagi_phonetics_13": [
+    },
     {
       "question": [
         "伴",
@@ -23941,9 +23504,7 @@ var decks = {
         "twice/double"
       ],
       "answer": "ばい"
-    }
-  ],
-  "#usagi_phonetics_14": [
+    },
     {
       "question": [
         "億",
@@ -24105,7 +23666,7 @@ var decks = {
       "answer": "ぬ"
     }
   ],
-  "#usagi_phonetics_15": [
+  "#usagi_phonetics_06": [
     {
       "question": [
         "呉",
@@ -24265,9 +23826,7 @@ var decks = {
         "slope/incline/hill"
       ],
       "answer": "さか"
-    }
-  ],
-  "#usagi_phonetics_16": [
+    },
     {
       "question": [
         "板",
@@ -24427,9 +23986,7 @@ var decks = {
         "clear weather/fine weather"
       ],
       "answer": "はれ"
-    }
-  ],
-  "#usagi_phonetics_17": [
+    },
     {
       "question": [
         "静",
@@ -24509,7 +24066,9 @@ var decks = {
         "merit/success/meritorious deed"
       ],
       "answer": "こう"
-    },
+    }
+  ],
+  "#usagi_phonetics_07": [
     {
       "question": [
         "巧",
@@ -24589,9 +24148,7 @@ var decks = {
         "clause/paragraph/item"
       ],
       "answer": "こう"
-    }
-  ],
-  "#usagi_phonetics_18": [
+    },
     {
       "question": [
         "遍",
@@ -24751,9 +24308,7 @@ var decks = {
         "beat"
       ],
       "answer": "はく"
-    }
-  ],
-  "#usagi_phonetics_19": [
+    },
     {
       "question": [
         "泊",
@@ -24915,7 +24470,7 @@ var decks = {
       "answer": "か"
     }
   ],
-  "#usagi_phonetics_20": [
+  "#usagi_phonetics_08": [
     {
       "question": [
         "個",
@@ -25075,9 +24630,7 @@ var decks = {
         "stock/share"
       ],
       "answer": "かぶ"
-    }
-  ],
-  "#usagi_phonetics_21": [
+    },
     {
       "question": [
         "株",
@@ -25237,9 +24790,7 @@ var decks = {
         "fault/error/mistake"
       ],
       "answer": "ひ"
-    }
-  ],
-  "#usagi_phonetics_22": [
+    },
     {
       "question": [
         "悲",
@@ -25319,7 +24870,9 @@ var decks = {
         "occasional/infrequent/rare"
       ],
       "answer": "たま"
-    },
+    }
+  ],
+  "#usagi_phonetics_09": [
     {
       "question": [
         "偶",
@@ -25399,9 +24952,7 @@ var decks = {
         "last"
       ],
       "answer": "さく"
-    }
-  ],
-  "#usagi_phonetics_23": [
+    },
     {
       "question": [
         "酢",
@@ -25561,9 +25112,7 @@ var decks = {
         "disaster/calamity/misfortune/trouble/woes"
       ],
       "answer": "わざわい"
-    }
-  ],
-  "#usagi_phonetics_24": [
+    },
     {
       "question": [
         "禍",
@@ -25725,7 +25274,7 @@ var decks = {
       "answer": "ね"
     }
   ],
-  "#usagi_phonetics_25": [
+  "#usagi_phonetics_10": [
     {
       "question": [
         "根",
@@ -25885,9 +25434,7 @@ var decks = {
         "(tree) trunk/(arrow) shaft/(tool) handle/backbone/base"
       ],
       "answer": "みき"
-    }
-  ],
-  "#usagi_phonetics_26": [
+    },
     {
       "question": [
         "幹",
@@ -26047,9 +25594,7 @@ var decks = {
         "abdomen/belly/stomach"
       ],
       "answer": "はら"
-    }
-  ],
-  "#usagi_phonetics_27": [
+    },
     {
       "question": [
         "覆",
@@ -26129,7 +25674,9 @@ var decks = {
         "next"
       ],
       "answer": "となり"
-    },
+    }
+  ],
+  "#usagi_phonetics_11": [
     {
       "question": [
         "燐",
@@ -26209,9 +25756,7 @@ var decks = {
         "warehouse/storehouse/cellar/magazine/granary/godown/depository/treasury/elevator"
       ],
       "answer": "くら"
-    }
-  ],
-  "#usagi_phonetics_28": [
+    },
     {
       "question": [
         "蒼",
@@ -26371,9 +25916,7 @@ var decks = {
         "each"
       ],
       "answer": "おのおの"
-    }
-  ],
-  "#usagi_phonetics_29": [
+    },
     {
       "question": [
         "格",
@@ -26535,7 +26078,7 @@ var decks = {
       "answer": "し"
     }
   ],
-  "#usagi_phonetics_30": [
+  "#usagi_phonetics_12": [
     {
       "question": [
         "路",
@@ -33699,23 +33242,23 @@ var decks = {
     {
       "question": [
         "pleased to meet you",
-        "よろしく おねがいします"
+        "よろしくおねがいします"
       ],
-      "answer": "よろしく おねがいします"
+      "answer": "よろしくおねがいします"
     },
     {
       "question": [
         "department store",
-        "でぱーと"
+        "デパート"
       ],
       "answer": "でぱーと"
     },
     {
       "question": [
-        "Japan",
-        "にほん (日本)"
+        "Japan(日本)",
+        "にほん"
       ],
-      "answer": "にほん (日本)"
+      "answer": "にほん"
     },
     {
       "question": [
@@ -33727,35 +33270,35 @@ var decks = {
     {
       "question": [
         "Germany",
-        "どいつ"
+        "ドイツ"
       ],
       "answer": "どいつ"
     },
     {
       "question": [
         "UK",
-        "いぎりす"
+        "イギリス"
       ],
       "answer": "いぎりす"
     },
     {
       "question": [
         "USA",
-        "あめりか"
+        "アメリカ"
       ],
       "answer": "あめりか"
     },
     {
       "question": [
         "Australia",
-        "おーすとらりあ"
+        "オーストラリア"
       ],
       "answer": "おーすとらりあ"
     },
     {
       "question": [
         "Thailand",
-        "たい"
+        "タイ"
       ],
       "answer": "たい"
     },
@@ -33776,7 +33319,7 @@ var decks = {
     {
       "question": [
         "engineer",
-        "えんじにあ"
+        "エンジニア"
       ],
       "answer": "えんじにあ"
     },
@@ -33888,7 +33431,7 @@ var decks = {
     {
       "question": [
         "London",
-        "ろんどん"
+        "ロンドン"
       ],
       "answer": "ろんどん"
     },
@@ -33925,9 +33468,9 @@ var decks = {
     {
       "question": [
         "thank you",
-        "どうも ありがとうございます"
+        "どうもありがとうございます"
       ],
-      "answer": "どうも ありがとうございます"
+      "answer": "どうもありがとうございます"
     },
     {
       "question": [
@@ -34051,7 +33594,7 @@ var decks = {
     {
       "question": [
         "e-mail address",
-        "めーるあどれす"
+        "メールアドレス"
       ],
       "answer": "めーるあどれす"
     },
@@ -34121,9 +33664,9 @@ var decks = {
     {
       "question": [
         "to make a mistake",
-        "ちがいます (ちがう)"
+        "ちがいます"
       ],
-      "answer": "ちがいます (ちがう)"
+      "answer": "ちがいます"
     },
     {
       "question": [
@@ -34138,13 +33681,6 @@ var decks = {
         "すみません"
       ],
       "answer": "すみません"
-    },
-    {
-      "question": [
-        "one more time, please",
-        "もう いちど おねがいします"
-      ],
-      "answer": "もう いちど おねがいします"
     },
     {
       "question": [
@@ -34166,6 +33702,15 @@ var decks = {
         "こんにちは"
       ],
       "answer": "こんにちは"
+    }
+  ],
+  "#jbp_1_": [
+    {
+      "question": [
+        "one more time, please",
+        "もういちどおねがいします"
+      ],
+      "answer": "もういちどおねがいします"
     }
   ],
   "#jbp_1_unit2_lesson3": [
@@ -34193,9 +33738,9 @@ var decks = {
     {
       "question": [
         "woman",
-        "おんなの ひと"
+        "おんなのひと"
       ],
-      "answer": "おんなの ひと"
+      "answer": "おんなのひと"
     },
     {
       "question": [
@@ -34270,14 +33815,14 @@ var decks = {
     {
       "question": [
         "supermarket",
-        "すーぱー"
+        "スーパー"
       ],
       "answer": "すーぱー"
     },
     {
       "question": [
         "restaurant",
-        "れすとらん"
+        "レストラン"
       ],
       "answer": "れすとらん"
     },
@@ -34298,9 +33843,9 @@ var decks = {
     {
       "question": [
         "meeting",
-        "かいぎ (に+)"
+        "かいぎ"
       ],
-      "answer": "かいぎ (に+)"
+      "answer": "かいぎ"
     },
     {
       "question": [
@@ -34326,7 +33871,7 @@ var decks = {
     {
       "question": [
         "party",
-        "ぱーてぃー"
+        "パーティー"
       ],
       "answer": "ぱーてぃー"
     },
@@ -34382,7 +33927,7 @@ var decks = {
     {
       "question": [
         "front desk (of a hotel)",
-        "ふろんと"
+        "フロント"
       ],
       "answer": "ふろんと"
     },
@@ -34396,14 +33941,14 @@ var decks = {
     {
       "question": [
         "pool",
-        "ぷーる"
+        "プール"
       ],
       "answer": "ぷーる"
     },
     {
       "question": [
         "gym",
-        "じむ"
+        "ジム"
       ],
       "answer": "じむ"
     },
@@ -34496,65 +34041,65 @@ var decks = {
     {
       "question": [
         "television",
-        "てれび"
+        "テレビ"
       ],
       "answer": "てれび"
     },
     {
       "question": [
         "radio",
-        "らじお"
+        "ラジオ"
       ],
       "answer": "らじお"
     },
     {
       "question": [
         "(personal) computer",
-        "ぱんこん"
+        "パンコン"
       ],
       "answer": "ぱんこん"
     },
     {
       "question": [
         "digital camera",
-        "でじかめ"
+        "デジカメ"
       ],
       "answer": "でじかめ"
     },
     {
       "question": [
         "video camera",
-        "びでおかめら"
+        "ビデオカメラ"
       ],
       "answer": "びでおかめら"
     },
     {
       "question": [
         "video",
-        "びでお"
+        "ビデオ"
       ],
       "answer": "びでお"
     },
     {
       "question": [
         "camera",
-        "かめら"
+        "カメラ"
       ],
       "answer": "かめら"
     },
     {
       "question": [
         "CD player",
-        "CDぷれーやー"
+        "プレーヤー"
       ],
-      "answer": "CDぷれーやー"
+      "answer": "ぷれーやー"
     },
     {
       "question": [
         "CD",
-        "CD (しーでぃー?)"
+        "シーディー"
       ],
-      "answer": "CD (しーでぃー?)"
+      "answer": "しーでぃー"
     },
     {
       "question": [
@@ -34580,28 +34125,28 @@ var decks = {
     {
       "question": [
         "DVD",
-        "DVD (でぃーぶいでぃー)"
+        "DVD(ディーブイディー)"
       ],
-      "answer": "DVD (でぃーぶいでぃー)"
+      "answer": "DVD(でぃーぶいでぃー)"
     },
     {
       "question": [
         "mechanical pencil",
-        "しゃーぷぺんしる"
+        "シャープペンシル"
       ],
       "answer": "しゃーぷぺんしる"
     },
     {
       "question": [
         "ballpoint pen",
-        "ぼーるぺん"
+        "ボールペン"
       ],
       "answer": "ぼーるぺん"
     },
     {
       "question": [
         "France",
-        "ふらんす"
+        "フランス"
       ],
       "answer": "ふらんす"
     },
@@ -34622,23 +34167,23 @@ var decks = {
     {
       "question": [
         "(credit) card",
-        "かーど"
+        "カード"
       ],
       "answer": "かーど"
     },
     {
       "question": [
         "is ... al right?",
-        "ーでも いいですか"
+        "ーでもいいですか"
       ],
-      "answer": "ーでも いいですか"
+      "answer": "ーでもいいですか"
     },
     {
       "question": [
         "yes, it's fine",
-        "はい、けっこうです"
+        "はいけっこうです"
       ],
-      "answer": "はい、けっこうです"
+      "answer": "はいけっこうです"
     },
     {
       "question": [
@@ -34724,7 +34269,7 @@ var decks = {
     {
       "question": [
         "T-shirt",
-        "しゃつ"
+        "シャツ"
       ],
       "answer": "しゃつ"
     },
@@ -34780,7 +34325,7 @@ var decks = {
     {
       "question": [
         "beer",
-        "びーる"
+        "ビール"
       ],
       "answer": "びーる"
     },
@@ -34808,16 +34353,16 @@ var decks = {
     {
       "question": [
         "Switzerland",
-        "すいす"
+        "スイス"
       ],
       "answer": "すいす"
     },
     {
       "question": [
         "(counter for long objects)",
-        "-ほん"
+        "ほん"
       ],
-      "answer": "-ほん"
+      "answer": "ほん"
     },
     {
       "question": [
@@ -34829,7 +34374,7 @@ var decks = {
     {
       "question": [
         "Italy",
-        "いたりあ"
+        "イタリア"
       ],
       "answer": "いたりあ"
     },
@@ -34857,42 +34402,42 @@ var decks = {
     {
       "question": [
         "kilogram",
-        "きろ"
+        "キロ"
       ],
       "answer": "きろ"
     },
     {
       "question": [
         "wine",
-        "ういん"
+        "ウイン"
       ],
       "answer": "ういん"
     },
     {
       "question": [
         "coffee",
-        "こーひー"
+        "コーヒー"
       ],
       "answer": "こーひー"
     },
     {
       "question": [
         "cup",
-        "かっぷ"
+        "カップ"
       ],
       "answer": "かっぷ"
     },
     {
       "question": [
         "towel",
-        "たおる"
+        "タオル"
       ],
       "answer": "たおる"
     },
     {
       "question": [
         "cream puff",
-        "しゅーくりーむ"
+        "シュークリーム"
       ],
       "answer": "しゅーくりーむ"
     },
@@ -34969,9 +34514,9 @@ var decks = {
     {
       "question": [
         "eleven, twelve ... (counter for general objects)",
-        "じゅういち, じゅうに, ..."
+        "じゅういち,じゅうに,..."
       ],
-      "answer": "じゅういち, じゅうに, ..."
+      "answer": "じゅういち,じゅうに,..."
     }
   ],
   "#jbp_1_unit3_lesson6_expressions": [
@@ -35022,16 +34567,16 @@ var decks = {
     {
       "question": [
         "well then ...(when parting from relatives or friends/informal)",
-        "じゃ また"
+        "じゃまた"
       ],
-      "answer": "じゃ また"
+      "answer": "じゃまた"
     },
     {
       "question": [
         "(when leaving the office or a meeting before other people)",
-        "おさきに しつれいします"
+        "おさきにしつれいします"
       ],
-      "answer": "おさきに しつれいします"
+      "answer": "おさきにしつれいします"
     },
     {
       "question": [
@@ -35078,23 +34623,23 @@ var decks = {
     {
       "question": [
         "wait a moment, please",
-        "ちょっと まって ください"
+        "ちょっとまってください"
       ],
-      "answer": "ちょっと まって ください"
+      "answer": "ちょっとまってください"
     },
     {
       "question": [
         "please, go ahead",
-        "どうぞ おさきに"
+        "どうぞおさきに"
       ],
-      "answer": "どうぞ おさきに"
+      "answer": "どうぞおさきに"
     },
     {
       "question": [
         "take care, be careful",
-        "きを つけて"
+        "きをつけて"
       ],
-      "answer": "きを つけて"
+      "answer": "きをつけて"
     },
     {
       "question": [
@@ -35115,16 +34660,16 @@ var decks = {
     {
       "question": [
         "to eat",
-        "たべます (たべる)"
+        "たべます(たべる)"
       ],
-      "answer": "たべます (たべる)"
+      "answer": "たべます(たべる)"
     },
     {
       "question": [
         "to wake up/to get up",
-        "おきます (おきる)"
+        "おきます(おきる)"
       ],
-      "answer": "おきます (おきる)"
+      "answer": "おきます(おきる)"
     },
     {
       "question": [
@@ -35143,7 +34688,7 @@ var decks = {
     {
       "question": [
         "jeans",
-        "じいんず"
+        "ジインズ"
       ],
       "answer": "じいんず"
     },
@@ -35157,7 +34702,7 @@ var decks = {
     {
       "question": [
         "notebook",
-        "のーと"
+        "ノート"
       ],
       "answer": "のーと"
     },
@@ -35171,14 +34716,14 @@ var decks = {
     {
       "question": [
         "computer",
-        "こんぴゅーたー"
+        "コンピューター"
       ],
       "answer": "こんぴゅーたー"
     },
     {
       "question": [
         "business",
-        "びじねす"
+        "ビジネス"
       ],
       "answer": "びじねす"
     },
@@ -35229,9 +34774,9 @@ var decks = {
     {
       "question": [
         "to go",
-        "いきます (いく)"
+        "いきます(いく)"
       ],
-      "answer": "いきます (いく)"
+      "answer": "いきます(いく)"
     },
     {
       "question": [
@@ -35250,9 +34795,9 @@ var decks = {
     {
       "question": [
         "to come",
-        "きます (irregular verb くる)"
+        "きます(irregularverbくる)"
       ],
-      "answer": "きます (irregular verb くる)"
+      "answer": "きます(irregularverbくる)"
     },
     {
       "question": [
@@ -35306,9 +34851,9 @@ var decks = {
     {
       "question": [
         "to return, to go home",
-        "かえります (かえる)"
+        "かえります(かえる)"
       ],
-      "answer": "かえります (かえる)"
+      "answer": "かえります(かえる)"
     },
     {
       "question": [
@@ -35432,7 +34977,7 @@ var decks = {
     {
       "question": [
         "bus",
-        "ばす"
+        "バス"
       ],
       "answer": "ばす"
     },
@@ -35469,9 +35014,9 @@ var decks = {
     {
       "question": [
         "bring a person",
-        "つれてきます (つれてくる)"
+        "つれてきます(つれてくる)"
       ],
-      "answer": "つれてきます (つれてくる)"
+      "answer": "つれてきます(つれてくる)"
     },
     {
       "question": [
@@ -35483,16 +35028,16 @@ var decks = {
     {
       "question": [
         "enter",
-        "はいります (はいる) (-u verb)"
+        "はいります(はいる)(-uverb)"
       ],
-      "answer": "はいります (はいる) (-u verb)"
+      "answer": "はいります(はいる)(-uverb)"
     },
     {
       "question": [
         "leave",
-        "でかけます (でかける)"
+        "でかけます(でかける)"
       ],
-      "answer": "でかけます (でかける)"
+      "answer": "でかけます(でかける)"
     },
     {
       "question": [
@@ -35520,23 +35065,23 @@ var decks = {
     {
       "question": [
         "to give",
-        "あげます (あげる)"
+        "あげます(あげる)"
       ],
-      "answer": "あげます (あげる)"
+      "answer": "あげます(あげる)"
     },
     {
       "question": [
         "to receive",
-        "もらいます (もらう)"
+        "もらいます(もらう)"
       ],
-      "answer": "もらいます (もらう)"
+      "answer": "もらいます(もらう)"
     },
     {
       "question": [
         "someone gives something to me (verb)",
-        "くれます (くれる)"
+        "くれます(くれる)"
       ],
-      "answer": "くれます (くれる)"
+      "answer": "くれます(くれる)"
     },
     {
       "question": [
@@ -35555,9 +35100,9 @@ var decks = {
     {
       "question": [
         "favorite",
-        "すきな (ーな adj.)"
+        "すきな(ーなadj.)"
       ],
-      "answer": "すきな (ーな adj.)"
+      "answer": "すきな(ーなadj.)"
     },
     {
       "question": [
@@ -35569,14 +35114,14 @@ var decks = {
     {
       "question": [
         "carnation",
-        "かーねーしょん"
+        "カーネーション"
       ],
       "answer": "かーねーしょん"
     },
     {
       "question": [
         "tulip",
-        "ちゅーりっぷ"
+        "チューリップ"
       ],
       "answer": "ちゅーりっぷ"
     },
@@ -35590,14 +35135,14 @@ var decks = {
     {
       "question": [
         "earring",
-        "いやりんぐ"
+        "イヤリング"
       ],
       "answer": "いやりんぐ"
     },
     {
       "question": [
         "necklace",
-        "ねっくれす"
+        "ネックレス"
       ],
       "answer": "ねっくれす"
     },
@@ -35611,14 +35156,14 @@ var decks = {
     {
       "question": [
         "scarf",
-        "すかーふ"
+        "スカーフ"
       ],
       "answer": "すかーふ"
     },
     {
       "question": [
         "blouse",
-        "ぶらうす"
+        "ブラウス"
       ],
       "answer": "ぶらうす"
     },
@@ -35639,14 +35184,14 @@ var decks = {
     {
       "question": [
         "necktie",
-        "ねくたい"
+        "ネクタイ"
       ],
       "answer": "ねくたい"
     },
     {
       "question": [
         "coat",
-        "こーと"
+        "コート"
       ],
       "answer": "こーと"
     },
@@ -35667,44 +35212,44 @@ var decks = {
     {
       "question": [
         "Christmas",
-        "くりすます"
+        "クリスマス"
       ],
       "answer": "くりすます"
     },
     {
       "question": [
         "Valentine's Day",
-        "ばれんたいんでー"
+        "バレンタインデー"
       ],
       "answer": "ばれんたいんでー"
     },
     {
       "question": [
         "chocolate",
-        "ちょこれーと"
+        "チョコレート"
       ],
       "answer": "ちょこれーと"
     },
     {
       "question": [
         "present",
-        "ぷれぜんと"
+        "プレゼント"
       ],
       "answer": "ぷれぜんと"
     },
     {
       "question": [
         "Mother's Day",
-        "ははの ひ"
+        "ははのひ"
       ],
-      "answer": "ははの ひ"
+      "answer": "ははのひ"
     },
     {
       "question": [
         "Father's Day",
-        "ちちの ひ"
+        "ちちのひ"
       ],
-      "answer": "ちちの ひ"
+      "answer": "ちちのひ"
     },
     {
       "question": [
@@ -35737,16 +35282,16 @@ var decks = {
     {
       "question": [
         "suit, look good on",
-        "にあいます (にあう)"
+        "にあいます(にあう)"
       ],
-      "answer": "にあいます (にあう)"
+      "answer": "にあいます(にあう)"
     },
     {
       "question": [
         "it's time to be going, I'd better get going",
-        "そろそろ しつれいします"
+        "そろそろしつれいします"
       ],
-      "answer": "そろそろ しつれいします"
+      "answer": "そろそろしつれいします"
     },
     {
       "question": [
@@ -35767,51 +35312,51 @@ var decks = {
     {
       "question": [
         "to drink",
-        "のみます (のむ)"
+        "のみます(のむ)"
       ],
-      "answer": "のみます (のむ)"
+      "answer": "のみます(のむ)"
     },
     {
       "question": [
         "to read",
-        "よみます (よむ)"
+        "よみます(よむ)"
       ],
-      "answer": "よみます (よむ)"
+      "answer": "よみます(よむ)"
     },
     {
       "question": [
         "to write",
-        "かきます (かく)"
+        "かきます(かく)"
       ],
-      "answer": "かきます (かく)"
+      "answer": "かきます(かく)"
     },
     {
       "question": [
         "to speak",
-        "はなします (はなす)"
+        "はなします(はなす)"
       ],
-      "answer": "はなします (はなす)"
+      "answer": "はなします(はなす)"
     },
     {
       "question": [
         "to do",
-        "します (irregular verb する)"
+        "します(irregularverbする)"
       ],
-      "answer": "します (irregular verb する)"
+      "answer": "します(irregularverbする)"
     },
     {
       "question": [
         "to sleep/go to bed",
-        "ねます (ねる)"
+        "ねます(ねる)"
       ],
-      "answer": "ねます (ねる)"
+      "answer": "ねます(ねる)"
     },
     {
       "question": [
         "to study",
-        "べんきょうを します"
+        "べんきょうをします"
       ],
-      "answer": "べんきょうを します"
+      "answer": "べんきょうをします"
     },
     {
       "question": [
@@ -35869,9 +35414,9 @@ var decks = {
     {
       "question": [
         "to see/to watch/to look",
-        "みます (みる)"
+        "みます(みる)"
       ],
-      "answer": "みます (みる)"
+      "answer": "みます(みる)"
     },
     {
       "question": [
@@ -35890,51 +35435,51 @@ var decks = {
     {
       "question": [
         "soup",
-        "すーぷ"
+        "スープ"
       ],
       "answer": "すーぷ"
     },
     {
       "question": [
         "milk",
-        "みるく"
+        "ミルク"
       ],
       "answer": "みるく"
     },
     {
       "question": [
         "juice",
-        "じゅーす"
+        "ジュース"
       ],
       "answer": "じゅーす"
     },
     {
       "question": [
         "sandwich",
-        "さんどいっち"
+        "サンドイッチ"
       ],
       "answer": "さんどいっち"
     },
     {
       "question": [
         "play tenis",
-        "てにすを します"
+        "テニスをします"
       ],
-      "answer": "てにすを します"
+      "answer": "てにすをします"
     },
     {
       "question": [
         "to shop",
-        "かいものを します"
+        "かいものをします"
       ],
-      "answer": "かいものを します"
+      "answer": "かいものをします"
     },
     {
       "question": [
         "to work",
-        "しごとを します"
+        "しごとをします"
       ],
-      "answer": "しごとを します"
+      "answer": "しごとをします"
     },
     {
       "question": [
@@ -35967,9 +35512,9 @@ var decks = {
     {
       "question": [
         "to jog",
-        "じょきんぐを します"
+        "ジョキングをします"
       ],
-      "answer": "じょきんぐを します"
+      "answer": "じょきんぐをします"
     },
     {
       "question": [
@@ -35981,35 +35526,35 @@ var decks = {
     {
       "question": [
         "steak",
-        "すてーき"
+        "ステーキ"
       ],
       "answer": "すてーき"
     },
     {
       "question": [
         "bar",
-        "ばー"
+        "バー"
       ],
       "answer": "ばー"
     },
     {
       "question": [
         "gym, sports club",
-        "すぽーつくらぶ"
+        "スポーツクラブ"
       ],
       "answer": "すぽーつくらぶ"
     },
     {
       "question": [
         "sport(s)",
-        "すぽーつ"
+        "スポーツ"
       ],
       "answer": "すぽーつ"
     },
     {
       "question": [
         "club",
-        "くらぶ"
+        "クラブ"
       ],
       "answer": "くらぶ"
     },
@@ -36037,21 +35582,21 @@ var decks = {
     {
       "question": [
         "go for a walk",
-        "さんぽを します"
+        "さんぽをします"
       ],
-      "answer": "さんぽを します"
+      "answer": "さんぽをします"
     },
     {
       "question": [
         "play golf",
-        "ごるふを します"
+        "ゴルフをします"
       ],
-      "answer": "ごるふを します"
+      "answer": "ごるふをします"
     },
     {
       "question": [
         "tennis court",
-        "てにすこーと"
+        "テニスコート"
       ],
       "answer": "てにすこーと"
     },
@@ -36079,9 +35624,9 @@ var decks = {
     {
       "question": [
         "to understand",
-        "わかります (わかる) (が+)"
+        "わかります(わかる)(が+)"
       ],
-      "answer": "わかります (わかる) (が+)"
+      "answer": "わかります(わかる)(が+)"
     }
   ],
   "#jbp_1_unit3_misc_lesson6": [
@@ -36095,21 +35640,21 @@ var decks = {
     {
       "question": [
         "omelette",
-        "おむれつ"
+        "オムレツ"
       ],
       "answer": "おむれつ"
     },
     {
       "question": [
         "omelette with rice",
-        "おむらいす"
+        "オムライス"
       ],
       "answer": "おむらいす"
     },
     {
       "question": [
         "a salad",
-        "さらだ"
+        "サラダ"
       ],
       "answer": "さらだ"
     },
@@ -36123,14 +35668,14 @@ var decks = {
     {
       "question": [
         "tennis",
-        "てにす"
+        "テニス"
       ],
       "answer": "てにす"
     },
     {
       "question": [
         "hamburger",
-        "はんばーがー"
+        "ハンバーガー"
       ],
       "answer": "はんばーがー"
     },
@@ -36165,7 +35710,7 @@ var decks = {
     {
       "question": [
         "sports",
-        "すぽーつ"
+        "スポーツ"
       ],
       "answer": "すぽーつ"
     },
@@ -36195,9 +35740,9 @@ var decks = {
     {
       "question": [
         "come right this way",
-        "どうぞ こちらへ"
+        "どうぞこちらへ"
       ],
-      "answer": "どうぞ こちらへ"
+      "answer": "どうぞこちらへ"
     },
     {
       "question": [
@@ -36258,7 +35803,7 @@ var decks = {
     {
       "question": [
         "taxi",
-        "たくしー"
+        "タクシー"
       ],
       "answer": "たくしー"
     },
@@ -36349,7 +35894,7 @@ var decks = {
     {
       "question": [
         "hotel",
-        "ほてる"
+        "ホテル"
       ],
       "answer": "ほてる"
     },
@@ -36412,9 +35957,9 @@ var decks = {
     {
       "question": [
         "Okinawa",
-        "おきなわ (islands on the southwestern tip of Japan)"
+        "おきなわ(islandsonthesouthwesterntipofJapan)"
       ],
-      "answer": "おきなわ (islands on the southwestern tip of Japan)"
+      "answer": "おきなわ(islandsonthesouthwesterntipofJapan)"
     },
     {
       "question": [
@@ -36519,9 +36064,9 @@ var decks = {
     {
       "question": [
         "be, exist (inanimate objects)",
-        "あります (ある)"
+        "あります(ある)"
       ],
-      "answer": "あります (ある)"
+      "answer": "あります(ある)"
     },
     {
       "question": [
@@ -36554,14 +36099,14 @@ var decks = {
     {
       "question": [
         "what is a/an ...?",
-        "ーって なんですか"
+        "ーってなんですか"
       ],
-      "answer": "ーって なんですか"
+      "answer": "ーってなんですか"
     },
     {
       "question": [
         "spa",
-        "すぱ"
+        "スパ"
       ],
       "answer": "すぱ"
     },
@@ -36589,9 +36134,9 @@ var decks = {
     {
       "question": [
         "first basement floor",
-        "ちか いっかい"
+        "ちかいっかい"
       ],
-      "answer": "ちか いっかい"
+      "answer": "ちかいっかい"
     },
     {
       "question": [
@@ -36624,21 +36169,21 @@ var decks = {
     {
       "question": [
         "bed",
-        "べっど"
+        "ベッド"
       ],
       "answer": "べっど"
     },
     {
       "question": [
         "sofa",
-        "そふぁー"
+        "ソファー"
       ],
       "answer": "そふぁー"
     },
     {
       "question": [
         "table",
-        "てーぶる"
+        "テーブル"
       ],
       "answer": "てーぶる"
     },
@@ -36715,9 +36260,9 @@ var decks = {
     {
       "question": [
         "to be, to exist, to stay (only of animate objects)",
-        "います (いる) (-う verb)"
+        "います(いる)(-うverb)"
       ],
-      "answer": "います (いる) (-う verb)"
+      "answer": "います(いる)(-うverb)"
     },
     {
       "question": [
@@ -36729,16 +36274,16 @@ var decks = {
     {
       "question": [
         "nothing",
-        "なにも ... -ません (neg verb)"
+        "なにも...-ません(negverb)"
       ],
-      "answer": "なにも ... -ません (neg verb)"
+      "answer": "なにも...-ません(negverb)"
     },
     {
       "question": [
         "no one",
-        "だれも ... -ません(neg verb)"
+        "だれも...-ません(negverb)"
       ],
-      "answer": "だれも ... -ません(neg verb)"
+      "answer": "だれも...-ません(negverb)"
     },
     {
       "question": [
@@ -36750,9 +36295,9 @@ var decks = {
     {
       "question": [
         "man",
-        "おとこの ひと"
+        "おとこのひと"
       ],
-      "answer": "おとこの ひと"
+      "answer": "おとこのひと"
     },
     {
       "question": [
@@ -36764,14 +36309,14 @@ var decks = {
     {
       "question": [
         "pen",
-        "ぺん"
+        "ペン"
       ],
       "answer": "ぺん"
     },
     {
       "question": [
         "sweater",
-        "せーたー"
+        "セーター"
       ],
       "answer": "せーたー"
     },
@@ -36785,7 +36330,7 @@ var decks = {
     {
       "question": [
         "pocket",
-        "ぽけっと"
+        "ポケット"
       ],
       "answer": "ぽけっと"
     },
@@ -36822,23 +36367,23 @@ var decks = {
     {
       "question": [
         "to buy",
-        "かいます (かう)"
+        "かいます(かう)"
       ],
-      "answer": "かいます (かう)"
+      "answer": "かいます(かう)"
     },
     {
       "question": [
         "to meet",
-        "あいます (あう) (+に)"
+        "あいます(あう)(+に)"
       ],
-      "answer": "あいます (あう) (+に)"
+      "answer": "あいます(あう)(+に)"
     },
     {
       "question": [
         "to live in ...",
-        "... にすんでいます"
+        "...にすんでいます"
       ],
-      "answer": "... にすんでいます"
+      "answer": "...にすんでいます"
     },
     {
       "question": [
@@ -36873,21 +36418,21 @@ var decks = {
     {
       "question": [
         "convenience store",
-        "こんびに"
+        "コンビニ"
       ],
       "answer": "こんびに"
     },
     {
       "question": [
         "taxi stand",
-        "たくしーのりば"
+        "タクシーのりば"
       ],
       "answer": "たくしーのりば"
     },
     {
       "question": [
         "bus terminal",
-        "ばすのりば"
+        "バスのりば"
       ],
       "answer": "ばすのりば"
     },
@@ -36915,14 +36460,14 @@ var decks = {
     {
       "question": [
         "bakery",
-        "ぱんや"
+        "パンや"
       ],
       "answer": "ぱんや"
     },
     {
       "question": [
         "brood",
-        "ぱん"
+        "パン"
       ],
       "answer": "ぱん"
     },
@@ -36950,14 +36495,14 @@ var decks = {
     {
       "question": [
         "eraser",
-        "けしごむ"
+        "けしゴム"
       ],
       "answer": "けしごむ"
     },
     {
       "question": [
         "stapler",
-        "ほっちきす"
+        "ホッチキス"
       ],
       "answer": "ほっちきす"
     },
@@ -36971,14 +36516,14 @@ var decks = {
     {
       "question": [
         "scotch tape",
-        "せろてーぷ"
+        "セロテープ"
       ],
       "answer": "せろてーぷ"
     },
     {
       "question": [
         "file",
-        "ふぁいる"
+        "ファイル"
       ],
       "answer": "ふぁいる"
     },
@@ -36999,9 +36544,9 @@ var decks = {
     {
       "question": [
         "boy",
-        "おとこの こ"
+        "おとこのこ"
       ],
-      "answer": "おとこの こ"
+      "answer": "おとこのこ"
     },
     {
       "question": [
@@ -37013,9 +36558,9 @@ var decks = {
     {
       "question": [
         "girl",
-        "おんなの こ"
+        "おんなのこ"
       ],
-      "answer": "おんなの こ"
+      "answer": "おんなのこ"
     },
     {
       "question": [
@@ -37062,21 +36607,21 @@ var decks = {
     {
       "question": [
         "cart (for luggage)",
-        "かーと"
+        "カート"
       ],
       "answer": "かーと"
     },
     {
       "question": [
         "check-in counter",
-        "ちぇっくいんかうんたー"
+        "チェックインカウンター"
       ],
       "answer": "ちぇっくいんかうんたー"
     },
     {
       "question": [
         "bus stop",
-        "ばすてい"
+        "バスてい"
       ],
       "answer": "ばすてい"
     },
@@ -37104,9 +36649,9 @@ var decks = {
     {
       "question": [
         "three persons, ...",
-        "さんにん, ..."
+        "さんにん,..."
       ],
-      "answer": "さんにん, ..."
+      "answer": "さんにん,..."
     },
     {
       "question": [
@@ -37169,23 +36714,23 @@ var decks = {
     {
       "question": [
         "to listen/to ask",
-        "ききます (きく)"
+        "ききます(きく)"
       ],
-      "answer": "ききます (きく)"
+      "answer": "ききます(きく)"
     },
     {
       "question": [
         "to phone",
-        "でんわを します"
+        "でんわをします"
       ],
-      "answer": "でんわを します"
+      "answer": "でんわをします"
     },
     {
       "question": [
         "to send",
-        "おくります (おくる)"
+        "おくります(おくる)"
       ],
-      "answer": "おくります (おくる)"
+      "answer": "おくります(おくる)"
     },
     {
       "question": [
@@ -37253,9 +36798,9 @@ var decks = {
     {
       "question": [
         "not much (expr.)",
-        "あまり ... -ません (neg verb)"
+        "あまり...-ません(negverb)"
       ],
-      "answer": "あまり ... -ません (neg verb)"
+      "answer": "あまり...-ません(negverb)"
     },
     {
       "question": [
@@ -37267,14 +36812,14 @@ var decks = {
     {
       "question": [
         "e-mail",
-        "めーる"
+        "メール"
       ],
       "answer": "めーる"
     },
     {
       "question": [
         "lobby",
-        "ろびー"
+        "ロビー"
       ],
       "answer": "ろびー"
     },
@@ -37288,9 +36833,9 @@ var decks = {
     {
       "question": [
         "not at all (expr)",
-        "ぜんぜん ... -ません (neg verb)"
+        "ぜんぜん...-ません(negverb)"
       ],
-      "answer": "ぜんぜん ... -ません (neg verb)"
+      "answer": "ぜんぜん...-ません(negverb)"
     },
     {
       "question": [
@@ -37302,7 +36847,7 @@ var decks = {
     {
       "question": [
         "ice cream",
-        "あいすくりーむ"
+        "アイスクリーム"
       ],
       "answer": "あいすくりーむ"
     },
@@ -37316,7 +36861,7 @@ var decks = {
     {
       "question": [
         "machine",
-        "ましーん"
+        "マシーン"
       ],
       "answer": "ましーん"
     },
@@ -37360,9 +36905,9 @@ var decks = {
     {
       "question": [
         "how about...? / would you like some ...?",
-        "... いかがですか"
+        "...いかがですか"
       ],
-      "answer": "... いかがですか"
+      "answer": "...いかがですか"
     },
     {
       "question": [
@@ -37374,9 +36919,9 @@ var decks = {
     {
       "question": [
         "pretty",
-        "きれい (な)"
+        "きれい(な)"
       ],
-      "answer": "きれい (な)"
+      "answer": "きれい(な)"
     },
     {
       "question": [
@@ -37395,9 +36940,9 @@ var decks = {
     {
       "question": [
         "no thank you, I'm fine / I don't want more",
-        "いいえ、もう けっこうです"
+        "いいえ、もうけっこうです"
       ],
-      "answer": "いいえ、もう けっこうです"
+      "answer": "いいえ、もうけっこうです"
     },
     {
       "question": [
@@ -37409,9 +36954,9 @@ var decks = {
     {
       "question": [
         "please help yourself to...",
-        "(thing) を どうぞ"
+        "(thing)をどうぞ"
       ],
-      "answer": "(thing) を どうぞ"
+      "answer": "(thing)をどうぞ"
     },
     {
       "question": [
@@ -37514,9 +37059,9 @@ var decks = {
     {
       "question": [
         "good",
-        "いい (よく)"
+        "いい(よく)"
       ],
-      "answer": "いい (よく)"
+      "answer": "いい(よく)"
     },
     {
       "question": [
@@ -37577,28 +37122,28 @@ var decks = {
     {
       "question": [
         "to have a meal",
-        "しょくじを します"
+        "しょくじをします"
       ],
-      "answer": "しょくじを します"
+      "answer": "しょくじをします"
     },
     {
       "question": [
         "cake",
-        "けーき"
+        "ケーキ"
       ],
       "answer": "けーき"
     },
     {
       "question": [
         "curry",
-        "かれー"
+        "カレー"
       ],
       "answer": "かれー"
     },
     {
       "question": [
         "game",
-        "げーむ"
+        "ゲーム"
       ],
       "answer": "げーむ"
     },
@@ -37654,9 +37199,9 @@ var decks = {
     {
       "question": [
         "please wait a minute",
-        "ちょっと まってください"
+        "ちょっとまってください"
       ],
-      "answer": "ちょっと まってください"
+      "answer": "ちょっとまってください"
     },
     {
       "question": [
@@ -37668,9 +37213,9 @@ var decks = {
     {
       "question": [
         "welcome",
-        "よく いらっしゃいました"
+        "よくいらっしゃいました"
       ],
-      "answer": "よく いらっしゃいました"
+      "answer": "よくいらっしゃいました"
     },
     {
       "question": [
@@ -37733,21 +37278,21 @@ var decks = {
     {
       "question": [
         "concert",
-        "こんさーと"
+        "コンサート"
       ],
       "answer": "こんさーと"
     },
     {
       "question": [
         "clearance sale",
-        "ばーげんせーる"
+        "バーゲンセール"
       ],
       "answer": "ばーげんせーる"
     },
     {
       "question": [
         "show",
-        "しょー"
+        "ショー"
       ],
       "answer": "しょー"
     },
@@ -37775,9 +37320,9 @@ var decks = {
     {
       "question": [
         "please wait a minute (politer way of saying ちょっと まってください)",
-        "ちょっと おまちください"
+        "ちょっとおまちください"
       ],
-      "answer": "ちょっと おまちください"
+      "answer": "ちょっとおまちください"
     },
     {
       "question": [
@@ -37847,7 +37392,7 @@ var decks = {
     {
       "question": [
         "soccer",
-        "さっかー"
+        "サッカー"
       ],
       "answer": "さっかー"
     },
@@ -37861,7 +37406,7 @@ var decks = {
     {
       "question": [
         "platform",
-        "ほーむ"
+        "ホーム"
       ],
       "answer": "ほーむ"
     },
@@ -37903,16 +37448,16 @@ var decks = {
     {
       "question": [
         "'I'm sorry, but it wouldn't be convenient (for me)'",
-        "ざんねんですが、つごうが わるいです"
+        "ざんねんですが、つごうがわるいです"
       ],
-      "answer": "ざんねんですが、つごうが わるいです"
+      "answer": "ざんねんですが、つごうがわるいです"
     },
     {
       "question": [
         "talk",
-        "はなしを します"
+        "はなしをします"
       ],
-      "answer": "はなしを します"
+      "answer": "はなしをします"
     },
     {
       "question": [
@@ -37924,16 +37469,16 @@ var decks = {
     {
       "question": [
         "(concert) hall",
-        "ほーる"
+        "ホール"
       ],
       "answer": "ほーる"
     },
     {
       "question": [
         "to have a party",
-        "ぱーてぃーを します"
+        "パーティーをします"
       ],
-      "answer": "ぱーてぃーを します"
+      "answer": "ぱーてぃーをします"
     },
     {
       "question": [
@@ -37961,9 +37506,9 @@ var decks = {
     {
       "question": [
         "to carry (on one's shoulders)",
-        "かつぎます (かつぐ)"
+        "かつぎます(かつぐ)"
       ],
-      "answer": "かつぎます (かつぐ)"
+      "answer": "かつぎます(かつぐ)"
     },
     {
       "question": [
@@ -37989,9 +37534,9 @@ var decks = {
     {
       "question": [
         "to lend",
-        "かします (かす)"
+        "かします(かす)"
       ],
-      "answer": "かします (かす)"
+      "answer": "かします(かす)"
     },
     {
       "question": [
@@ -38003,37 +37548,37 @@ var decks = {
     {
       "question": [
         "to turn on",
-        "つけます (つける)"
+        "つけます(つける)"
       ],
-      "answer": "つけます (つける)"
+      "answer": "つけます(つける)"
     },
     {
       "question": [
         "to turn off",
-        "けします (けす)"
+        "けします(けす)"
       ],
-      "answer": "けします (けす)"
+      "answer": "けします(けす)"
     },
     {
       "question": [
         "to carry, hold",
-        "もちます (もつ)"
+        "もちます(もつ)"
       ],
-      "answer": "もちます (もつ)"
+      "answer": "もちます(もつ)"
     },
     {
       "question": [
         "to open",
-        "あけます (あける)"
+        "あけます(あける)"
       ],
-      "answer": "あけます (あける)"
+      "answer": "あけます(あける)"
     },
     {
       "question": [
         "to close, shut",
-        "しめます (しめる)"
+        "しめます(しめる)"
       ],
-      "answer": "しめます (しめる)"
+      "answer": "しめます(しめる)"
     },
     {
       "question": [
@@ -38045,9 +37590,9 @@ var decks = {
     {
       "question": [
         "take (a photograph)",
-        "しゃしんを とります (とる)"
+        "しゃしんをとります(とる)"
       ],
-      "answer": "しゃしんを とります (とる)"
+      "answer": "しゃしんをとります(とる)"
     },
     {
       "question": [
@@ -38080,7 +37625,7 @@ var decks = {
     {
       "question": [
         "door",
-        "どあ"
+        "ドア"
       ],
       "answer": "どあ"
     },
@@ -38094,7 +37639,7 @@ var decks = {
     {
       "question": [
         "air conditioner",
-        "えあこん"
+        "エアコン"
       ],
       "answer": "えあこん"
     },
@@ -38115,14 +37660,14 @@ var decks = {
     {
       "question": [
         "next time",
-        "また こんど"
+        "またこんど"
       ],
-      "answer": "また こんど"
+      "answer": "またこんど"
     },
     {
       "question": [
         "golf club",
-        "くらぶ"
+        "クラブ"
       ],
       "answer": "くらぶ"
     },
@@ -38136,14 +37681,14 @@ var decks = {
     {
       "question": [
         "to make a photocopy",
-        "こぴーを します"
+        "コピーをします"
       ],
-      "answer": "こぴーを します"
+      "answer": "こぴーをします"
     },
     {
       "question": [
         "tennis racket",
-        "らけっと"
+        "ラケット"
       ],
       "answer": "らけっと"
     },
@@ -38171,32 +37716,32 @@ var decks = {
     {
       "question": [
         "I feel out of sorts, I don't feel well",
-        "きぶんが わるいです"
+        "きぶんがわるいです"
       ],
-      "answer": "きぶんが わるいです"
+      "answer": "きぶんがわるいです"
     },
     {
       "question": [
         "bench",
-        "べんち"
+        "ベンチ"
       ],
       "answer": "べんち"
     },
     {
       "question": [
         "to rest, relax, take time off",
-        "やすみます (やすむ)"
+        "やすみます(やすむ)"
       ],
-      "answer": "やすみます (やすむ)"
+      "answer": "やすみます(やすむ)"
     }
   ],
   "#jbp_1_unit8_lesson17": [
     {
       "question": [
         "do you have a moment?",
-        "ちょっと よろしいですか"
+        "ちょっとよろしいですか"
       ],
-      "answer": "ちょっと よろしいですか"
+      "answer": "ちょっとよろしいですか"
     },
     {
       "question": [
@@ -38215,9 +37760,9 @@ var decks = {
     {
       "question": [
         "after (time)",
-        "の あとで"
+        "のあとで"
       ],
-      "answer": "の あとで"
+      "answer": "のあとで"
     },
     {
       "question": [
@@ -38236,7 +37781,7 @@ var decks = {
     {
       "question": [
         "report",
-        "れぽーと"
+        "レポート"
       ],
       "answer": "れぽーと"
     },
@@ -38250,9 +37795,9 @@ var decks = {
     {
       "question": [
         "to hold a meeting",
-        "かいぎを します"
+        "かいぎをします"
       ],
-      "answer": "かいぎを します"
+      "answer": "かいぎをします"
     },
     {
       "question": [
@@ -38401,7 +37946,7 @@ var decks = {
     {
       "question": [
         "catalog",
-        "かたろぐ"
+        "カタログ"
       ],
       "answer": "かたろぐ"
     },
@@ -38422,9 +37967,9 @@ var decks = {
     {
       "question": [
         "use",
-        "つかいます (つかう)"
+        "つかいます(つかう)"
       ],
-      "answer": "つかいます (つかう)"
+      "answer": "つかいます(つかう)"
     },
     {
       "question": [
@@ -38436,7 +37981,7 @@ var decks = {
     {
       "question": [
         "sample",
-        "さんぷる"
+        "サンプル"
       ],
       "answer": "さんぷる"
     },
@@ -38457,51 +38002,51 @@ var decks = {
     {
       "question": [
         "turn",
-        "まがります (まがる)"
+        "まがります(まがる)"
       ],
-      "answer": "まがります (まがる)"
+      "answer": "まがります(まがる)"
     },
     {
       "question": [
         "stop, park",
-        "とめます (とめる)"
+        "とめます(とめる)"
       ],
-      "answer": "とめます (とめる)"
+      "answer": "とめます(とめる)"
     },
     {
       "question": [
         "say",
-        "いいます (いう)"
+        "いいます(いう)"
       ],
-      "answer": "いいます (いう)"
+      "answer": "いいます(いう)"
     },
     {
       "question": [
         "teach, show, tell",
-        "おしえます (おしえる)"
+        "おしえます(おしえる)"
       ],
-      "answer": "おしえます (おしえる)"
+      "answer": "おしえます(おしえる)"
     },
     {
       "question": [
         "bring something",
-        "もってきます (もってくる)"
+        "もってきます(もってくる)"
       ],
-      "answer": "もってきます (もってくる)"
+      "answer": "もってきます(もってくる)"
     },
     {
       "question": [
         "deliver",
-        "とどけます (とどける)"
+        "とどけます(とどける)"
       ],
-      "answer": "とどけます (とどける)"
+      "answer": "とどけます(とどける)"
     },
     {
       "question": [
         "wait",
-        "まちます (まつ) (+を)"
+        "まちます(まつ)(+を)"
       ],
-      "answer": "まちます (まつ) (+を)"
+      "answer": "まちます(まつ)(+を)"
     },
     {
       "question": [
@@ -38555,7 +38100,7 @@ var decks = {
     {
       "question": [
         "fax",
-        "ふぁっくす"
+        "ファックス"
       ],
       "answer": "ふぁっくす"
     },
@@ -38590,14 +38135,14 @@ var decks = {
     {
       "question": [
         "pizza",
-        "ぴざ"
+        "ピザ"
       ],
       "answer": "ぴざ"
     },
     {
       "question": [
         "menu",
-        "めにゅー"
+        "メニュー"
       ],
       "answer": "めにゅー"
     },
@@ -38667,14 +38212,14 @@ var decks = {
     {
       "question": [
         "apartment (in a high-rise building), condominium",
-        "まんしょん"
+        "マンション"
       ],
       "answer": "まんしょん"
     },
     {
       "question": [
         "room service",
-        "るーむさーびす"
+        "ルームサービス"
       ],
       "answer": "るーむさーびす"
     },
@@ -38702,9 +38247,9 @@ var decks = {
     {
       "question": [
         "to take care of, to be in charge of",
-        "あずかります (あずかる)"
+        "あずかります(あずかる)"
       ],
-      "answer": "あずかります (あずかる)"
+      "answer": "あずかります(あずかる)"
     },
     {
       "question": [
@@ -38723,9 +38268,9 @@ var decks = {
     {
       "question": [
         "to show",
-        "みせます (みせる)"
+        "みせます(みせる)"
       ],
-      "answer": "みせます (みせる)"
+      "answer": "みせます(みせる)"
     }
   ],
   "#jbp_1_unit8_lesson18_grammar": [
@@ -38804,16 +38349,16 @@ var decks = {
     {
       "question": [
         "get on a train, bus, ...",
-        "のります (のりる)"
+        "のります(のりる)"
       ],
-      "answer": "のります (のりる)"
+      "answer": "のります(のりる)"
     },
     {
       "question": [
         "get of a train, bus, ...",
-        "おります (おりる)"
+        "おります(おりる)"
       ],
-      "answer": "おります (おりる)"
+      "answer": "おります(おりる)"
     },
     {
       "question": [
@@ -38825,30 +38370,30 @@ var decks = {
     {
       "question": [
         "switch between trains, busses, ...",
-        "のりかえます (のりかえる)"
+        "のりかえます(のりかえる)"
       ],
-      "answer": "のりかえます (のりかえる)"
+      "answer": "のりかえます(のりかえる)"
     },
     {
       "question": [
         "take (time, ...)",
-        "かかります (かかる)"
+        "かかります(かかる)"
       ],
-      "answer": "かかります (かかる)"
+      "answer": "かかります(かかる)"
     },
     {
       "question": [
         "need",
-        "いります (いる) (が +)"
+        "いります(いる)(が+)"
       ],
-      "answer": "いります (いる) (が +)"
+      "answer": "いります(いる)(が+)"
     },
     {
       "question": [
         "between ... and ...",
-        "... と ... の あいだに ..."
+        "...と...のあいだに..."
       ],
-      "answer": "... と ... の あいだに ..."
+      "answer": "...と...のあいだに..."
     },
     {
       "question": [
@@ -38897,9 +38442,9 @@ var decks = {
     {
       "question": [
         "to arrive",
-        "つきます (つく)(+に)"
+        "つきます(つく)(+に)"
       ],
-      "answer": "つきます (つく)(+に)"
+      "answer": "つきます(つく)(+に)"
     },
     {
       "question": [
@@ -38918,9 +38463,9 @@ var decks = {
     {
       "question": [
         "5 minutes (period of time)",
-        "ごふん (かん)"
+        "ごふん(かん)"
       ],
-      "answer": "ごふん (かん)"
+      "answer": "ごふん(かん)"
     },
     {
       "question": [
@@ -38932,9 +38477,9 @@ var decks = {
     {
       "question": [
         "15 minutes (period of time)",
-        "じゅうごふん (かん)"
+        "じゅうごふん(かん)"
       ],
-      "answer": "じゅうごふん (かん)"
+      "answer": "じゅうごふん(かん)"
     },
     {
       "question": [
@@ -38946,9 +38491,9 @@ var decks = {
     {
       "question": [
         "25 minutes (period of time)",
-        "にじゅうごふん (かん)"
+        "にじゅうごふん(かん)"
       ],
-      "answer": "にじゅうごふん (かん)"
+      "answer": "にじゅうごふん(かん)"
     },
     {
       "question": [
@@ -39142,9 +38687,9 @@ var decks = {
     {
       "question": [
         "3 years",
-        "さんねん (かん)"
+        "さんねん(かん)"
       ],
-      "answer": "さんねん (かん)"
+      "answer": "さんねん(かん)"
     },
     {
       "question": [
@@ -39170,9 +38715,9 @@ var decks = {
     {
       "question": [
         "to walk",
-        "あるきます (あるく)"
+        "あるきます(あるく)"
       ],
-      "answer": "あるきます (あるく)"
+      "answer": "あるきます(あるく)"
     },
     {
       "question": [
@@ -39184,42 +38729,42 @@ var decks = {
     {
       "question": [
         "New York",
-        "にゅーよーく"
+        "ニューヨーク"
       ],
       "answer": "にゅーよーく"
     },
     {
       "question": [
         "San Francisco",
-        "さんふらんしすこ"
+        "サンフランシスコ"
       ],
       "answer": "さんふらんしすこ"
     },
     {
       "question": [
         "Paris",
-        "ぱり"
+        "パリ"
       ],
       "answer": "ぱり"
     },
     {
       "question": [
         "musical",
-        "みゅーじかる"
+        "ミュージカル"
       ],
       "answer": "みゅーじかる"
     },
     {
       "question": [
         "fair",
-        "ふぇあ"
+        "フェア"
       ],
       "answer": "ふぇあ"
     },
     {
       "question": [
         "Honolulu",
-        "ほのるる"
+        "ホノルル"
       ],
       "answer": "ほのるる"
     },
@@ -39298,9 +38843,9 @@ var decks = {
     {
       "question": [
         "to be late for ...",
-        "おくれる (+に)"
+        "おくれる(+に)"
       ],
-      "answer": "おくれる (+に)"
+      "answer": "おくれる(+に)"
     }
   ],
   "#jbp_1_unit9_misc": [
@@ -39323,23 +38868,23 @@ var decks = {
     {
       "question": [
         "may I take (a photograph)?",
-        "とっても いいですか"
+        "とってもいいですか"
       ],
-      "answer": "とっても いいですか"
+      "answer": "とってもいいですか"
     },
     {
       "question": [
         "pamphlet, brochure",
-        "ぱんふれっと"
+        "パンフレット"
       ],
       "answer": "ぱんふれっと"
     },
     {
       "question": [
         "smoke (a cigarette)",
-        "たばこを すいます"
+        "たばこをすいます"
       ],
-      "answer": "たばこを すいます"
+      "answer": "たばこをすいます"
     },
     {
       "question": [
@@ -39358,21 +38903,21 @@ var decks = {
     {
       "question": [
         "recorded guide",
-        "いやほーんがいど"
+        "イヤホーンガイド"
       ],
       "answer": "いやほーんがいど"
     },
     {
       "question": [
         "earphones, headphones",
-        "いやほーん"
+        "イヤホーン"
       ],
       "answer": "いやほーん"
     },
     {
       "question": [
         "guide",
-        "がいど"
+        "ガイド"
       ],
       "answer": "がいど"
     },
@@ -39386,9 +38931,9 @@ var decks = {
     {
       "question": [
         "to smoke",
-        "すいます (すう)"
+        "すいます(すう)"
       ],
-      "answer": "すいます (すう)"
+      "answer": "すいます(すう)"
     },
     {
       "question": [
@@ -39407,9 +38952,9 @@ var decks = {
     {
       "question": [
         "to rest",
-        "やすみます (やすむ)"
+        "やすみます(やすむ)"
       ],
-      "answer": "やすみます (やすむ)"
+      "answer": "やすみます(やすむ)"
     },
     {
       "question": [
@@ -39428,23 +38973,23 @@ var decks = {
     {
       "question": [
         "(business) card",
-        "かーど"
+        "カード"
       ],
       "answer": "かーど"
     },
     {
       "question": [
         "romanized Japanese",
-        "ろーまじ"
+        "ローマじ"
       ],
       "answer": "ろーまじ"
     },
     {
       "question": [
         "to put",
-        "おきます (おく)"
+        "おきます(おく)"
       ],
-      "answer": "おきます (おく)"
+      "answer": "おきます(おく)"
     },
     {
       "question": [
@@ -39472,7 +39017,7 @@ var decks = {
     {
       "question": [
         "flash",
-        "ふらっしゅ"
+        "フラッシュ"
       ],
       "answer": "ふらっしゅ"
     },
@@ -39500,9 +39045,9 @@ var decks = {
     {
       "question": [
         "to stand up",
-        "たちます (たつ)"
+        "たちます(たつ)"
       ],
-      "answer": "たちます (たつ)"
+      "answer": "たちます(たつ)"
     },
     {
       "question": [
@@ -39556,9 +39101,9 @@ var decks = {
     {
       "question": [
         "to put in, add",
-        "いれます (いれる)"
+        "いれます(いれる)"
       ],
-      "answer": "いれます (いれる)"
+      "answer": "いれます(いれる)"
     },
     {
       "question": [
@@ -39605,21 +39150,21 @@ var decks = {
     {
       "question": [
         "ketchup",
-        "けちゃっぷ"
+        "ケチャップ"
       ],
       "answer": "けちゃっぷ"
     },
     {
       "question": [
         "mayonnaise",
-        "まよねーず"
+        "マヨネーズ"
       ],
       "answer": "まよねーず"
     },
     {
       "question": [
         "iced coffee",
-        "あいすこーひー"
+        "アイスコーヒー"
       ],
       "answer": "あいすこーひー"
     },
@@ -39633,16 +39178,16 @@ var decks = {
     {
       "question": [
         "'don't worry about it', 'don't let it bother you'",
-        "きに しないでください"
+        "きにしないでください"
       ],
-      "answer": "きに しないでください"
+      "answer": "きにしないでください"
     },
     {
       "question": [
         "to worry (about), be bothered (by)",
-        "きに します"
+        "きにします"
       ],
-      "answer": "きに します"
+      "answer": "きにします"
     },
     {
       "question": [
@@ -39691,21 +39236,21 @@ var decks = {
     {
       "question": [
         "to make",
-        "つくります (つくる)"
+        "つくります(つくる)"
       ],
-      "answer": "つくります (つくる)"
+      "answer": "つくります(つくる)"
     },
     {
       "question": [
         "elevator",
-        "えれべーたー"
+        "エレベーター"
       ],
       "answer": "えれべーたー"
     },
     {
       "question": [
         "escalator",
-        "えすかれーた"
+        "エスカレータ"
       ],
       "answer": "えすかれーた"
     },
@@ -39756,16 +39301,16 @@ var decks = {
     {
       "question": [
         "to sell (-masu)",
-        "うります (うる)"
+        "うります(うる)"
       ],
-      "answer": "うります (うる)"
+      "answer": "うります(うる)"
     },
     {
       "question": [
         "to live (-masu)",
-        "すみます (すむ)"
+        "すみます(すむ)"
       ],
-      "answer": "すみます (すむ)"
+      "answer": "すみます(すむ)"
     },
     {
       "question": [
@@ -39791,16 +39336,16 @@ var decks = {
     {
       "question": [
         "to be employed",
-        "つとめています (+に)"
+        "つとめています(+に)"
       ],
-      "answer": "つとめています (+に)"
+      "answer": "つとめています(+に)"
     },
     {
       "question": [
         "to be employed (-masu)",
-        "つとめます (つとめる) (+に)"
+        "つとめます(つとめる)(+に)"
       ],
-      "answer": "つとめます (つとめる) (+に)"
+      "answer": "つとめます(つとめる)(+に)"
     },
     {
       "question": [
@@ -39917,7 +39462,7 @@ var decks = {
     {
       "question": [
         "maple syrup",
-        "めーぷるしろっぷ"
+        "メープルシロップ"
       ],
       "answer": "めーぷるしろっぷ"
     },
@@ -39933,9 +39478,9 @@ var decks = {
     {
       "question": [
         "to know (-masu)",
-        "しります (しる)"
+        "しります(しる)"
       ],
-      "answer": "しります (しる)"
+      "answer": "しります(しる)"
     }
   ],
   "#jbp_1_unit10_misc_lesson22": [
@@ -39956,9 +39501,9 @@ var decks = {
     {
       "question": [
         "to sit down",
-        "すわります (すわる)"
+        "すわります(すわる)"
       ],
-      "answer": "すわります (すわる)"
+      "answer": "すわります(すわる)"
     },
     {
       "question": [
@@ -40117,9 +39662,9 @@ var decks = {
     {
       "question": [
         "to put on (clothes, above the waist)",
-        "きます (きる)"
+        "きます(きる)"
       ],
-      "answer": "きます (きる)"
+      "answer": "きます(きる)"
     },
     {
       "question": [
@@ -40138,42 +39683,42 @@ var decks = {
     {
       "question": [
         "to contain (e.g. a dish)",
-        "はいています (+に,+が)"
+        "はいています(+に,+が)"
       ],
-      "answer": "はいています (+に,+が)"
+      "answer": "はいています(+に,+が)"
     },
     {
       "question": [
         "to comprise (e.g. a set meal)",
-        "ついています (+に,+が)"
+        "ついています(+に,+が)"
       ],
-      "answer": "ついています (+に,+が)"
+      "answer": "ついています(+に,+が)"
     },
     {
       "question": [
         "cheese",
-        "ちーず"
+        "チーズ"
       ],
       "answer": "ちーず"
     },
     {
       "question": [
         "tomato",
-        "とまと"
+        "トマト"
       ],
       "answer": "とまと"
     },
     {
       "question": [
         "lettuce",
-        "れたす"
+        "レタス"
       ],
       "answer": "れたす"
     },
     {
       "question": [
         "pickles",
-        "ぴくるす"
+        "ピクルス"
       ],
       "answer": "ぴくるす"
     },
@@ -40222,7 +39767,7 @@ var decks = {
     {
       "question": [
         "set menu",
-        "せっと"
+        "セット"
       ],
       "answer": "せっと"
     },
@@ -40243,14 +39788,14 @@ var decks = {
     {
       "question": [
         "breakfast menu",
-        "もーにんぐせっと"
+        "モーニングセット"
       ],
       "answer": "もーにんぐせっと"
     },
     {
       "question": [
         "toast",
-        "とーすと"
+        "トースト"
       ],
       "answer": "とーすと"
     },
@@ -40280,23 +39825,23 @@ var decks = {
     {
       "question": [
         "to borrow",
-        "かります (かりる)"
+        "かります(かりる)"
       ],
-      "answer": "かります (かりる)"
+      "answer": "かります(かりる)"
     },
     {
       "question": [
         "to swim",
-        "およぎます (およぐ)"
+        "およぎます(およぐ)"
       ],
-      "answer": "およぎます (およぐ)"
+      "answer": "およぎます(およぐ)"
     },
     {
       "question": [
         "to yell",
-        "よびます (よぶ)"
+        "よびます(よぶ)"
       ],
-      "answer": "よびます (よぶ)"
+      "answer": "よびます(よぶ)"
     }
   ],
   "#jbp_1_unit11_lesson24": [
@@ -40324,7 +39869,7 @@ var decks = {
     {
       "question": [
         "skiing",
-        "すきー"
+        "スキー"
       ],
       "answer": "すきー"
     },
@@ -40338,7 +39883,7 @@ var decks = {
     {
       "question": [
         "swimming",
-        "すいえい"
+        "スイエイ"
       ],
       "answer": "すいえい"
     },
@@ -40359,14 +39904,14 @@ var decks = {
     {
       "question": [
         "whiskey",
-        "ういすきー"
+        "ウイスキー"
       ],
       "answer": "ういすきー"
     },
     {
       "question": [
         "dancing",
-        "だんす"
+        "ダンス"
       ],
       "answer": "だんす"
     },
@@ -40387,28 +39932,28 @@ var decks = {
     {
       "question": [
         "German language",
-        "どいつご"
+        "ドイツご"
       ],
       "answer": "どいつご"
     },
     {
       "question": [
         "Italian food",
-        "いたりありょうり"
+        "イタリアりょうり"
       ],
       "answer": "いたりありょうり"
     },
     {
       "question": [
         "jazz",
-        "じゃず"
+        "ジャズ"
       ],
       "answer": "じゃず"
     },
     {
       "question": [
         "piano",
-        "ぴあの"
+        "ピアノ"
       ],
       "answer": "ぴあの"
     },
@@ -40422,7 +39967,7 @@ var decks = {
     {
       "question": [
         "French food",
-        "ふらんすりょうり"
+        "フランスりょうり"
       ],
       "answer": "ふらんすりょうり"
     },
@@ -40473,7 +40018,7 @@ var decks = {
     {
       "question": [
         "cooking school",
-        "くっきんぐすくーる"
+        "クッキングスクール"
       ],
       "answer": "くっきんぐすくーる"
     },
@@ -40650,28 +40195,28 @@ var decks = {
     {
       "question": [
         "Smith-san is American．",
-        "すみすさんは　あめりかじんです。"
+        "スミスさんは　アメリカじんです。"
       ],
       "answer": "すみすさんは　あめりかじんです。"
     },
     {
       "question": [
         "Is Smith-san an American?",
-        "すみすさんは　あめりかじんですか。"
+        "スミスさんは　アメリカじんですか。"
       ],
       "answer": "すみすさんは　あめりかじんですか。"
     },
     {
       "question": [
         "This is Tanaka-san of the Nozomi Department Store.",
-        "こちらは　のぞみでぱーとの　たなかさんです。"
+        "こちらは　のぞみデパートの　たなかさんです。"
       ],
       "answer": "こちらは　のぞみでぱーとの　たなかさんです。"
     },
     {
       "question": [
         "[I am] Smith.",
-        "（わたしは）　すみすです。"
+        "（わたしは）　スミスです。"
       ],
       "answer": "（わたしは）　すみすです。"
     }
@@ -40694,14 +40239,14 @@ var decks = {
     {
       "question": [
         "Smith-san bought a new computer.",
-        "すみすさん　は　あたらしい　ぱそこん　を　かいました。"
+        "スミスさん　は　あたらしい　パソコン　を　かいました。"
       ],
       "answer": "すみすさん　は　あたらしい　ぱそこん　を　かいました。"
     },
     {
       "question": [
         "Smith-san went to a famous restaurant yesterday.",
-        "すみすさん　は　きのう　ゆうめい　な　れすとらん　に　いきました。"
+        "スミスさん　は　きのう　ゆうめい　な　レストラン　に　いきました。"
       ],
       "answer": "すみすさん　は　きのう　ゆうめい　な　れすとらん　に　いきました。"
     }
@@ -40724,7 +40269,7 @@ var decks = {
     {
       "question": [
         "Smith-san went to the department store, but he did not buy anything.",
-        "すみすさんは　でぱーとに　いきましたが、なにも　かいませんでした。"
+        "スミスさんは　デパートに　いきましたが、なにも　かいませんでした。"
       ],
       "answer": "すみすさんは　でぱーとに　いきましたが、なにも　かいませんでした。"
     }
@@ -40747,7 +40292,7 @@ var decks = {
     {
       "question": [
         "There are flowers on the table",
-        "てぶる　の　うえ　に　はな　は　あります。"
+        "テブル　の　うえ　に　はな　は　あります。"
       ],
       "answer": "てぶる　の　うえ　に　はな　は　あります。"
     },
@@ -40761,16 +40306,16 @@ var decks = {
     {
       "question": [
         "What is nearby the ryokan? A big lake, a waterfall and other things are there.",
-        "りょかん　の　ちかく　に　なに　が　あります？ おおきい　みずうみ　や　たき　が　あります。"
+        "りょかん　の　ちかく　に　なに　が　あります？おおきい　みずうみ　や　たき　が　あります。"
       ],
-      "answer": "りょかん　の　ちかく　に　なに　が　あります？ おおきい　みずうみ　や　たき　が　あります。"
+      "answer": "りょかん　の　ちかく　に　なに　が　あります？おおきい　みずうみ　や　たき　が　あります。"
     },
     {
       "question": [
         "What is at Hakone? A lake, hotspring, and other things are there.",
-        "はこね　に　なに　が　ありますか？ みずうみ　や　おんせん　が　あります。"
+        "はこね　に　なに　が　ありますか？みずうみ　や　おんせん　が　あります。"
       ],
-      "answer": "はこね　に　なに　が　ありますか？ みずうみ　や　おんせん　が　あります。"
+      "answer": "はこね　に　なに　が　ありますか？みずうみ　や　おんせん　が　あります。"
     },
     {
       "question": [
@@ -40798,21 +40343,21 @@ var decks = {
     {
       "question": [
         "The taxi stand is in front of the station.",
-        "たくしーのりば　は　えきのまえ　に　あります"
+        "タクシーのりば　は　えきのまえ　に　あります"
       ],
       "answer": "たくしーのりば　は　えきのまえ　に　あります"
     },
     {
       "question": [
         "Smith-san is on the second floor.",
-        "すみすさん　は　２かいに　います。"
+        "スミスさん　は　２かいに　います。"
       ],
       "answer": "すみすさん　は　２かいに　います。"
     },
     {
       "question": [
         "Smith-san's house is near the station.",
-        "すみすさんのうち　は　えき　から　ちかい　です。"
+        "スミスさんのうち　は　えき　から　ちかい　です。"
       ],
       "answer": "すみすさんのうち　は　えき　から　ちかい　です。"
     }
@@ -40821,21 +40366,21 @@ var decks = {
     {
       "question": [
         "Smith-san gave Nakamura-san some flowers.",
-        "すみすさんは　なかむらさんに　はなを　あげました。"
+        "スミスさんは　なかむらさんに　はなを　あげました。"
       ],
       "answer": "すみすさんは　なかむらさんに　はなを　あげました。"
     },
     {
       "question": [
         "Smith-san has a meeting tomorrow.",
-        "すみすさんは　あした　かいぎが　あります。"
+        "スミスさんは　あした　かいぎが　あります。"
       ],
       "answer": "すみすさんは　あした　かいぎが　あります。"
     },
     {
       "question": [
         "Nakamura-san received flowers from Smith-san.",
-        "なかむらさんは　すみすさんに　はなを　もらいました。"
+        "なかむらさんは　スミスさんに　はなを　もらいました。"
       ],
       "answer": "なかむらさんは　すみすさんに　はなを　もらいました。"
     }
@@ -40844,21 +40389,21 @@ var decks = {
     {
       "question": [
         "Chan-san likes wine.",
-        "ちゃんさんは　わいんが　すきです。"
+        "チャンさんは　ワインが　すきです。"
       ],
       "answer": "ちゃんさんは　わいんが　すきです。"
     },
     {
       "question": [
         "Chan-san is good at Japanese.",
-        "ちゃんさんは　にほんごが　じょうずです。"
+        "チャンさんは　にほんごが　じょうずです。"
       ],
       "answer": "ちゃんさんは　にほんごが　じょうずです。"
     },
     {
       "question": [
         "Smith-san likes watching soccer matches.",
-        "すみすさんは　さっかーを　みるのが　すきです。"
+        "スミスさんは　サッカーを　みるのが　すきです。"
       ],
       "answer": "すみすさんは　さっかーを　みるのが　すきです。"
     }
@@ -40904,14 +40449,14 @@ var decks = {
     {
       "question": [
         "Smith-san will send the material before the meeting.",
-        "すみすさんは　かいぎの　まえに　しりょうを　おくります。"
+        "スミスさんは　かいぎの　まえに　しりょうを　おくります。"
       ],
       "answer": "すみすさんは　かいぎの　まえに　しりょうを　おくります。"
     },
     {
       "question": [
         "Smith-san does stretching exercises every day before going to bed.",
-        "すみすさんは　まいにち　ねる　まえに　すとれっちを　します。"
+        "スミスさんは　まいにち　ねる　まえに　ストレッチを　します。"
       ],
       "answer": "すみすさんは　まいにち　ねる　まえに　すとれっちを　します。"
     }
@@ -40920,14 +40465,14 @@ var decks = {
     {
       "question": [
         "Emma-san will go to the Osaka branch office tomorrow and see Chan-san",
-        "えまさんは　あした　おおさかししゃに　いって、ちゃんさんに　あいます。"
+        "エマさんは　あした　おおさかししゃに　いって、チャンさんに　あいます。"
       ],
       "answer": "えまさんは　あした　おおさかししゃに　いって、ちゃんさんに　あいます。"
     },
     {
       "question": [
         "Smith-san wrote a report after the meeting",
-        "すみすさんは　かいぎの　あと、れぽーとを　かきました。"
+        "スミスさんは　かいぎの　あと、レポートを　かきました。"
       ],
       "answer": "すみすさんは　かいぎの　あと、れぽーとを　かきました。"
     }
@@ -40943,7 +40488,7 @@ var decks = {
     {
       "question": [
         "Emma-san sent Chan-san the material by e-mail.",
-        "えまさんは　ちゃんさんに　めーるで　しりょうを　おくりました。"
+        "エマさんは　チャンさんに　メールで　しりょうを　おくりました。"
       ],
       "answer": "えまさんは　ちゃんさんに　めーるで　しりょうを　おくりました。"
     },
@@ -40973,7 +40518,7 @@ var decks = {
     {
       "question": [
         "This is Smith-san's watch.",
-        "これは　すみすさんの　とけいです。"
+        "これは　スミスさんの　とけいです。"
       ],
       "answer": "これは　すみすさんの　とけいです。"
     }
@@ -40982,14 +40527,14 @@ var decks = {
     {
       "question": [
         "Smith-san will take the Shinkansen from Tokyo Station.",
-        "すみすさんは　とうきょうえきで　しんかんせんに　のります。"
+        "スミスさんは　とうきょうえきで　しんかんせんに　のります。"
       ],
       "answer": "すみすさんは　とうきょうえきで　しんかんせんに　のります。"
     },
     {
       "question": [
         "Smith-san will get off the Shinkansen at Hiroshima Station",
-        "すみすさんは　ひろしまえきで　しんかんせんを　おります。"
+        "スミスさんは　ひろしまえきで　しんかんせんを　おります。"
       ],
       "answer": "すみすさんは　ひろしまえきで　しんかんせんを　おります。"
     },
@@ -41003,7 +40548,7 @@ var decks = {
     {
       "question": [
         "Smith-san will be in Hiroshima for a week.",
-        "すみすさんは　ひろしまに　１じゅかん　います。"
+        "スミスさんは　ひろしまに　１じゅかん　います。"
       ],
       "answer": "すみすさんは　ひろしまに　１じゅかん　います。"
     }
@@ -41049,7 +40594,7 @@ var decks = {
     {
       "question": [
         "There is a convenience store in front of the station. There is another (convenience store) inside the station.",
-        "えきの　まえに　こんびにが　あります。　えきの　なかにも　（こんびにが）　あります。"
+        "えきの　まえに　コンビニが　あります。　えきの　なかにも　（コンビニが）　あります。"
       ],
       "answer": "えきの　まえに　こんびにが　あります。　えきの　なかにも　（こんびにが）　あります。"
     }
@@ -41058,28 +40603,28 @@ var decks = {
     {
       "question": [
         "Smith-san is eating his lunch now.",
-        "すみすさんは　いま　ひるごはんを　たべています"
+        "スミスさんは　いま　ひるごはんを　たべています"
       ],
       "answer": "すみすさんは　いま　ひるごはんを　たべています"
     },
     {
       "question": [
         "Smith-san is taking Japanese lessons.",
-        "すみすさんは　にほんごを　ならっています。"
+        "スミスさんは　にほんごを　ならっています。"
       ],
       "answer": "すみすさんは　にほんごを　ならっています。"
     },
     {
       "question": [
         "Have you already read the report?",
-        "もう　れぽーと＝を　よみましたか。"
+        "もう　レポート＝を　よみましたか。"
       ],
       "answer": "もう　れぽーと＝を　よみましたか。"
     },
     {
       "question": [
         "Green-san likes tempura, but he does not like sushi。",
-        "ぐりーんさんは　てんぷらは　すきですが、おすしは　すきじゃありません。"
+        "グリーンさんは　てんぷらは　すきですが、おすしは　すきじゃありません。"
       ],
       "answer": "ぐりーんさんは　てんぷらは　すきですが、おすしは　すきじゃありません。"
     }
@@ -41088,28 +40633,28 @@ var decks = {
     {
       "question": [
         "Smith-san lives in Tokyo.",
-        "すみすさんは　とうきょうに　すんでいます。"
+        "スミスさんは　とうきょうに　すんでいます。"
       ],
       "answer": "すみすさんは　とうきょうに　すんでいます。"
     },
     {
       "question": [
         "Smith-san understands Japanese.",
-        "すみすさんは　にほんごが　わかります。"
+        "スミスさんは　にほんごが　わかります。"
       ],
       "answer": "すみすさんは　にほんごが　わかります。"
     },
     {
       "question": [
         "Smith-san knows Chan-san.",
-        "すみすさんは　ちゃんさんを　しっています。"
+        "スミスさんは　ちゃんさんを　しっています。"
       ],
       "answer": "すみすさんは　ちゃんさんを　しっています。"
     },
     {
       "question": [
         "Smith-san's hobby is reading.",
-        "すみすさんの　しゅみは　ほんを　よむことです。"
+        "スミスさんの　しゅみは　ほんを　よむことです。"
       ],
       "answer": "すみすさんの　しゅみは　ほんを　よむことです。"
     }
@@ -41141,7 +40686,7 @@ var decks = {
     {
       "question": [
         "That is a smart phone. That one over there is a tablet.",
-        "これは　すまほです。あのは　たぶれっとです。"
+        "これは　スマホです。あのは　タブレットです。"
       ],
       "answer": "これは　すまほです。あのは　たぶれっとです。"
     },
@@ -41162,7 +40707,7 @@ var decks = {
     {
       "question": [
         "I would like curry and salad, please.",
-        "かれーと　さらだを　おねがいします。"
+        "カレーと　サラダを　おねがいします。"
       ],
       "answer": "かれーと　さらだを　おねがいします。"
     }
@@ -41171,35 +40716,35 @@ var decks = {
     {
       "question": [
         "The restaurant is on the 5th floor.",
-        "れすとらんは　５かいです。"
+        "レストランは　５かいです。"
       ],
       "answer": "れすとらんは　５かいです。"
     },
     {
       "question": [
         "This t-shirt is 2,000 yen.",
-        "この　Tしゃつは　2,000えんです。"
+        "この　Tシャツは　2,000えんです。"
       ],
       "answer": "この　Tしゃつは　2,000えんです。"
     },
     {
       "question": [
         "That blue t-shirt over there is 3,000 yen.",
-        "あの　あかい　Tしゃつは　3,０００えんです。"
+        "あの　あかい　Tシャツは　3,０００えんです。"
       ],
       "answer": "あの　あかい　Tしゃつは　3,０００えんです。"
     },
     {
       "question": [
         "This is a wine from France. / This is a French wine.",
-        "これは　ふらんすの　わいんです。"
+        "これは　フランスの　ワインです。"
       ],
       "answer": "これは　ふらんすの　わいんです。"
     },
     {
       "question": [
         "I would like two bottles of that wine, please.",
-        "この　わいん　２ほん　ください。"
+        "この　ワイン　２ほん　ください。"
       ],
       "answer": "この　わいん　２ほん　ください。"
     }
@@ -41208,28 +40753,28 @@ var decks = {
     {
       "question": [
         "Smith-san is going to the bank tomorrow.",
-        "すみすさんは　あした　ぎんこうに　いきます。"
+        "スミスさんは　あした　ぎんこうに　いきます。"
       ],
       "answer": "すみすさんは　あした　ぎんこうに　いきます。"
     },
     {
       "question": [
         "Smith-san went to Osaka last week.",
-        "すみすさんは　せんしゅう　おおさかに　いきました。"
+        "スミスさんは　せんしゅう　おおさかに　いきました。"
       ],
       "answer": "すみすさんは　せんしゅう　おおさかに　いきました。"
     },
     {
       "question": [
         "Smith-san went to a restaurant with a friend yesterday.",
-        "すみすさん　あした　ともだちと　れすとらんに　いきました。"
+        "スミスさん　あした　ともだちと　レストランに　いきました。"
       ],
       "answer": "すみすさん　あした　ともだちと　れすとらんに　いきました。"
     },
     {
       "question": [
         "Smith-san came from the United States last year.",
-        "すみすさんは　きょねん　あめりかに　きました。"
+        "スミスさんは　きょねん　アメリカに　きました。"
       ],
       "answer": "すみすさんは　きょねん　あめりかに　きました。"
     }
@@ -41238,14 +40783,14 @@ var decks = {
     {
       "question": [
         "Emma-san came to Japan in April.",
-        "えまさん　は　しがつ　に　にほん　に　きました。"
+        "エマさん　は　しがつ　に　にほん　に　きました。"
       ],
       "answer": "えまさん　は　しがつ　に　にほん　に　きました。"
     },
     {
       "question": [
         "Smith-san is going to Osaka by shinkansen.",
-        "すみすさん　は　しんかんせん　で　おおさか　に　いきます。"
+        "スミスさん　は　しんかんせん　で　おおさか　に　いきます。"
       ],
       "answer": "すみすさん　は　しんかんせん　で　おおさか　に　いきます。"
     },
@@ -41261,21 +40806,21 @@ var decks = {
     {
       "question": [
         "Smith-san will play tennis tomorrow.",
-        "すみすさんは　あした　てにすを　します。"
+        "スミスさんは　あした　テニスを　します。"
       ],
       "answer": "すみすさんは　あした　てにすを　します。"
     },
     {
       "question": [
         "Smith-san ate supper at a restaurant yesterday.",
-        "すみすさんは　きのう　れすとらんで　ばんごはんを　たべました。"
+        "スミスさんは　きのう　レストランで　ばんごはんを　たべました。"
       ],
       "answer": "すみすさんは　きのう　れすとらんで　ばんごはんを　たべました。"
     },
     {
       "question": [
         "Emma-san did not eat anything at the party.",
-        "えまさんは　ぱーてぃーで　なにも　たべませんでした。"
+        "エマさんは　パーティーで　なにも　たべませんでした。"
       ],
       "answer": "えまさんは　ぱーてぃーで　なにも　たべませんでした。"
     }
@@ -41284,21 +40829,21 @@ var decks = {
     {
       "question": [
         "Smith-san will meet Tanaka-san tomorrow.",
-        "すみすさん　は　あした　たなかさん　に　あいます。"
+        "スミスさん　は　あした　たなかさん　に　あいます。"
       ],
       "answer": "すみすさん　は　あした　たなかさん　に　あいます。"
     },
     {
       "question": [
         "Smith-san told Suzuki-san the location of the restraunt.",
-        "すみすさん　は　すずきさん　に　れすとらん　の　ばしょ　を　おしえました。"
+        "スミスさん　は　すずきさん　に　レストラン　の　ばしょ　を　おしえました。"
       ],
       "answer": "すみすさん　は　すずきさん　に　れすとらん　の　ばしょ　を　おしえました。"
     },
     {
       "question": [
         "Smith-san drinks coffee everyday.",
-        "すみすさん　は　まいにち　こーひー　を　のみます。"
+        "スミスさん　は　まいにち　コーヒー　を　のみます。"
       ],
       "answer": "すみすさん　は　まいにち　こーひー　を　のみます。"
     }
