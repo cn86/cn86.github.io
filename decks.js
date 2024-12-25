@@ -1,4 +1,7 @@
 /*
+<li><a href="#00_counters_00" onclick="load_deck('#00_counters_00');">00_counters_00</a></li>
+<li><a href="#00_numbers_00" onclick="load_deck('#00_numbers_00');">00_numbers_00</a></li>
+<li><a href="#00_time_00" onclick="load_deck('#00_time_00');">00_time_00</a></li>
 <li><a href="#jbp_1_expressions" onclick="load_deck('#jbp_1_expressions');">jbp_1_expressions</a></li>
 <li><a href="#jbp_1_key_sentences_sentences_lesson1" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson1');">jbp_1_key_sentences_sentences_lesson1</a></li>
 <li><a href="#jbp_1_key_sentences_sentences_lesson10" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson10');">jbp_1_key_sentences_sentences_lesson10</a></li>
@@ -5833,7 +5836,7 @@ var decks = {
         "何[なに]",
         "what"
       ],
-      "answer": "なに・なん"
+      "answer": "なに"
     },
     {
       "question": [
@@ -7397,7 +7400,7 @@ var decks = {
         "四[よん]",
         "four"
       ],
-      "answer": "よん・し"
+      "answer": "よん"
     },
     {
       "question": [
@@ -7421,7 +7424,7 @@ var decks = {
         "七[なな]",
         "seven"
       ],
-      "answer": "なな・しち"
+      "answer": "なな"
     },
     {
       "question": [
@@ -30902,6 +30905,2724 @@ var decks = {
         "魔"
       ],
       "answer": "あ"
+    }
+  ],
+  "#00_time_00": [
+    {
+      "question": [
+        "何箇月ですか",
+        "How many months?",
+        "なんかげつですか"
+      ],
+      "answer": "なんかげつですか"
+    },
+    {
+      "question": [
+        "一箇月",
+        "1 month",
+        "いっかげつ"
+      ],
+      "answer": "いっかげつ"
+    },
+    {
+      "question": [
+        "二箇月",
+        "2 months",
+        "にかげつ"
+      ],
+      "answer": "にかげつ"
+    },
+    {
+      "question": [
+        "三箇月",
+        "3 months",
+        "さんかげつ"
+      ],
+      "answer": "さんかげつ"
+    },
+    {
+      "question": [
+        "四箇月",
+        "4 months",
+        "よんかげつ"
+      ],
+      "answer": "よんかげつ"
+    },
+    {
+      "question": [
+        "五箇月",
+        "5 months",
+        "ごかげつ"
+      ],
+      "answer": "ごかげつ"
+    },
+    {
+      "question": [
+        "六箇月",
+        "6 months",
+        "ろっかげつ"
+      ],
+      "answer": "ろっかげつ"
+    },
+    {
+      "question": [
+        "七箇月",
+        "7 months",
+        "ななかげつ"
+      ],
+      "answer": "ななかげつ"
+    },
+    {
+      "question": [
+        "八箇月",
+        "8 months",
+        "はっかげつ"
+      ],
+      "answer": "はっかげつ"
+    },
+    {
+      "question": [
+        "九箇月",
+        "9 months",
+        "きゅうかげつ"
+      ],
+      "answer": "きゅうかげつ"
+    },
+    {
+      "question": [
+        "十箇月",
+        "10 months",
+        "じゅっかげつ"
+      ],
+      "answer": "じゅっかげつ"
+    },
+    {
+      "question": [
+        "十一箇月",
+        "11 months",
+        "じゅういっかげつ"
+      ],
+      "answer": "じゅういっかげつ"
+    },
+    {
+      "question": [
+        "十二箇月",
+        "12 months",
+        "じゅうにかげつ"
+      ],
+      "answer": "じゅうにかげつ"
+    },
+    {
+      "question": [
+        "何年ですか",
+        "How many years?",
+        "なんねんですか"
+      ],
+      "answer": "なんねんですか"
+    },
+    {
+      "question": [
+        "一年",
+        "1 year",
+        "いちねん"
+      ],
+      "answer": "いちねん"
+    },
+    {
+      "question": [
+        "二年",
+        "2 years",
+        "にねん"
+      ],
+      "answer": "にねん"
+    },
+    {
+      "question": [
+        "三年",
+        "3 years",
+        "さんねん"
+      ],
+      "answer": "さんねん"
+    },
+    {
+      "question": [
+        "四年",
+        "4 years",
+        "よねん"
+      ],
+      "answer": "よねん"
+    },
+    {
+      "question": [
+        "五年",
+        "5 years",
+        "ごねん"
+      ],
+      "answer": "ごねん"
+    },
+    {
+      "question": [
+        "六年",
+        "6 years",
+        "ろくねん"
+      ],
+      "answer": "ろくねん"
+    },
+    {
+      "question": [
+        "七年",
+        "7 years",
+        "ななねん"
+      ],
+      "answer": "ななねん"
+    },
+    {
+      "question": [
+        "八年",
+        "8 years",
+        "はちねん"
+      ],
+      "answer": "はちねん"
+    },
+    {
+      "question": [
+        "九年",
+        "9 years",
+        "きゅうねん"
+      ],
+      "answer": "きゅうねん"
+    },
+    {
+      "question": [
+        "十年",
+        "10 years",
+        "じゅうねん"
+      ],
+      "answer": "じゅうねん"
+    },
+    {
+      "question": [
+        "十一年",
+        "11 years",
+        "じゅういちねん"
+      ],
+      "answer": "じゅういちねん"
+    },
+    {
+      "question": [
+        "十四年",
+        "14 years",
+        "じゅうよねん"
+      ],
+      "answer": "じゅうよねん"
+    },
+    {
+      "question": [
+        "何週間ですか",
+        "How many weeks?",
+        "なんしゅうかんですか"
+      ],
+      "answer": "なんしゅうかんですか"
+    },
+    {
+      "question": [
+        "一週間",
+        "1 week",
+        "いっしゅうかん"
+      ],
+      "answer": "いっしゅうかん"
+    },
+    {
+      "question": [
+        "二週間",
+        "2 weeks",
+        "にしゅうかん"
+      ],
+      "answer": "にしゅうかん"
+    },
+    {
+      "question": [
+        "三週間",
+        "3 weeks",
+        "さんしゅうかん"
+      ],
+      "answer": "さんしゅうかん"
+    },
+    {
+      "question": [
+        "四週間",
+        "4 weeks",
+        "よんしゅうかん"
+      ],
+      "answer": "よんしゅうかん"
+    },
+    {
+      "question": [
+        "五週間",
+        "5 weeks",
+        "ごしゅうかん"
+      ],
+      "answer": "ごしゅうかん"
+    },
+    {
+      "question": [
+        "六週間",
+        "6 weeks",
+        "ろくしゅうかん"
+      ],
+      "answer": "ろくしゅうかん"
+    },
+    {
+      "question": [
+        "七週間",
+        "7 weeks",
+        "ななしゅうかん"
+      ],
+      "answer": "ななしゅうかん"
+    },
+    {
+      "question": [
+        "八週間",
+        "8 weeks",
+        "はっしゅうかん"
+      ],
+      "answer": "はっしゅうかん"
+    },
+    {
+      "question": [
+        "九週間",
+        "9 weeks",
+        "きゅうしゅうかん"
+      ],
+      "answer": "きゅうしゅうかん"
+    },
+    {
+      "question": [
+        "十週間",
+        "10 weeks",
+        "じゅっしゅうかん"
+      ],
+      "answer": "じゅっしゅうかん"
+    },
+    {
+      "question": [
+        "十一週間",
+        "11 weeks",
+        "じゅういっしゅうかん"
+      ],
+      "answer": "じゅういっしゅうかん"
+    },
+    {
+      "question": [
+        "百年",
+        "100 years",
+        "ひゃくねん"
+      ],
+      "answer": "ひゃくねん"
+    },
+    {
+      "question": [
+        "千年",
+        "1,000 years",
+        "せんねん"
+      ],
+      "answer": "せんねん"
+    },
+    {
+      "question": [
+        "一万年",
+        "10,000 years",
+        "いちまんねん"
+      ],
+      "answer": "いちまんねん"
+    },
+    {
+      "question": [
+        "何時間ですか",
+        "How many hours?",
+        "なんじかんですか"
+      ],
+      "answer": "なんじかんですか"
+    },
+    {
+      "question": [
+        "一時間",
+        "1 hour",
+        "いちじかん"
+      ],
+      "answer": "いちじかん"
+    },
+    {
+      "question": [
+        "二時間",
+        "2 hours",
+        "にじかん"
+      ],
+      "answer": "にじかん"
+    },
+    {
+      "question": [
+        "三時間",
+        "3 hours",
+        "さんじかん"
+      ],
+      "answer": "さんじかん"
+    },
+    {
+      "question": [
+        "四時間",
+        "4 hours",
+        "よじかん"
+      ],
+      "answer": "よじかん"
+    },
+    {
+      "question": [
+        "五時間",
+        "5 hours",
+        "ごじかん"
+      ],
+      "answer": "ごじかん"
+    },
+    {
+      "question": [
+        "六時間",
+        "6 hours",
+        "ろくじかん"
+      ],
+      "answer": "ろくじかん"
+    },
+    {
+      "question": [
+        "七時間",
+        "7 hours",
+        "しちじかん"
+      ],
+      "answer": "しちじかん"
+    },
+    {
+      "question": [
+        "八時間",
+        "8 hours",
+        "はちじかん"
+      ],
+      "answer": "はちじかん"
+    },
+    {
+      "question": [
+        "九時間",
+        "9 hours",
+        "くじかん"
+      ],
+      "answer": "くじかん"
+    },
+    {
+      "question": [
+        "十時間",
+        "10 hours",
+        "じゅうじかん"
+      ],
+      "answer": "じゅうじかん"
+    },
+    {
+      "question": [
+        "十一時間",
+        "11 hours",
+        "じゅういちじかん"
+      ],
+      "answer": "じゅういちじかん"
+    },
+    {
+      "question": [
+        "十二時間",
+        "12 hours",
+        "じゅうにじかん"
+      ],
+      "answer": "じゅうにじかん"
+    },
+    {
+      "question": [
+        "十四時間",
+        "14 hours",
+        "じゅうよじかん"
+      ],
+      "answer": "じゅうよじかん"
+    },
+    {
+      "question": [
+        "十七時間",
+        "17 hours",
+        "じゅうしちじかん"
+      ],
+      "answer": "じゅうしちじかん"
+    },
+    {
+      "question": [
+        "十九時間",
+        "19 hours",
+        "じゅうくじかん"
+      ],
+      "answer": "じゅうくじかん"
+    },
+    {
+      "question": [
+        "二十時間",
+        "20 hours",
+        "にじゅうじかん"
+      ],
+      "answer": "にじゅうじかん"
+    },
+    {
+      "question": [
+        "二十四時間",
+        "24 hours",
+        "にじゅうよじかん"
+      ],
+      "answer": "にじゅうよじかん"
+    },
+    {
+      "question": [
+        "百時間",
+        "100 hours",
+        "ひゃくじかん"
+      ],
+      "answer": "ひゃくじかん"
+    },
+    {
+      "question": [
+        "千時間",
+        "1,000 hours",
+        "せんじかん"
+      ],
+      "answer": "せんじかん"
+    },
+    {
+      "question": [
+        "一万時間",
+        "10,000 hours",
+        "いちまんじかん"
+      ],
+      "answer": "いちまんじかん"
+    },
+    {
+      "question": [
+        "一日",
+        "1 day (duration of time)",
+        "いちにち"
+      ],
+      "answer": "いちにち"
+    },
+    {
+      "question": [
+        "十八週間",
+        "18 weeks",
+        "じゅうはっしゅうかん"
+      ],
+      "answer": "じゅうはっしゅうかん"
+    },
+    {
+      "question": [
+        "一歳",
+        "1 year old",
+        "いっさい"
+      ],
+      "answer": "いっさい"
+    },
+    {
+      "question": [
+        "二歳",
+        "2 years old",
+        "にさい"
+      ],
+      "answer": "にさい"
+    },
+    {
+      "question": [
+        "三歳",
+        "3 years old",
+        "さんさい"
+      ],
+      "answer": "さんさい"
+    },
+    {
+      "question": [
+        "四歳",
+        "4 years old",
+        "よんさい"
+      ],
+      "answer": "よんさい"
+    },
+    {
+      "question": [
+        "五歳",
+        "5 years old",
+        "ごさい"
+      ],
+      "answer": "ごさい"
+    },
+    {
+      "question": [
+        "六歳",
+        "6 years old",
+        "ろくさい"
+      ],
+      "answer": "ろくさい"
+    },
+    {
+      "question": [
+        "七歳",
+        "7 years old",
+        "ななさい"
+      ],
+      "answer": "ななさい"
+    },
+    {
+      "question": [
+        "八歳",
+        "8 years old",
+        "はっさい"
+      ],
+      "answer": "はっさい"
+    },
+    {
+      "question": [
+        "九歳",
+        "9 years old",
+        "きゅうさい"
+      ],
+      "answer": "きゅうさい"
+    },
+    {
+      "question": [
+        "十歳",
+        "10 years old",
+        "じゅっさい"
+      ],
+      "answer": "じゅっさい"
+    },
+    {
+      "question": [
+        "十一歳",
+        "11 years old",
+        "じゅういっさい"
+      ],
+      "answer": "じゅういっさい"
+    },
+    {
+      "question": [
+        "十二歳",
+        "12 years old",
+        "じゅうにさい"
+      ],
+      "answer": "じゅうにさい"
+    },
+    {
+      "question": [
+        "十三歳",
+        "13 years old",
+        "じゅうさんさい"
+      ],
+      "answer": "じゅうさんさい"
+    },
+    {
+      "question": [
+        "十四歳",
+        "14 years old",
+        "じゅうよんさい"
+      ],
+      "answer": "じゅうよんさい"
+    },
+    {
+      "question": [
+        "十五歳",
+        "15 years old",
+        "じゅうごさい"
+      ],
+      "answer": "じゅうごさい"
+    },
+    {
+      "question": [
+        "十六歳",
+        "16 years old",
+        "じゅうろくさい"
+      ],
+      "answer": "じゅうろくさい"
+    },
+    {
+      "question": [
+        "十七歳",
+        "17 years old",
+        "じゅうななさい"
+      ],
+      "answer": "じゅうななさい"
+    },
+    {
+      "question": [
+        "十八歳",
+        "18 years old",
+        "じゅうはっさい"
+      ],
+      "answer": "じゅうはっさい"
+    },
+    {
+      "question": [
+        "十九歳",
+        "19 years old",
+        "じゅうきゅうさい"
+      ],
+      "answer": "じゅうきゅうさい"
+    },
+    {
+      "question": [
+        "二十歳",
+        "20 years old",
+        "はたち"
+      ],
+      "answer": "はたち"
+    },
+    {
+      "question": [
+        "二十一歳",
+        "21 years old",
+        "にじゅういっさい"
+      ],
+      "answer": "にじゅういっさい"
+    },
+    {
+      "question": [
+        "零時",
+        "0 o'clock",
+        "れいじ"
+      ],
+      "answer": "れいじ"
+    },
+    {
+      "question": [
+        "一時",
+        "1 o'clock",
+        "いちじ"
+      ],
+      "answer": "いちじ"
+    },
+    {
+      "question": [
+        "二時",
+        "2 o'clock",
+        "にじ"
+      ],
+      "answer": "にじ"
+    },
+    {
+      "question": [
+        "三時",
+        "3 o'clock",
+        "さんじ"
+      ],
+      "answer": "さんじ"
+    },
+    {
+      "question": [
+        "四時",
+        "4 o'clock",
+        "よじ"
+      ],
+      "answer": "よじ"
+    },
+    {
+      "question": [
+        "五時",
+        "5 o'clock",
+        "ごじ"
+      ],
+      "answer": "ごじ"
+    },
+    {
+      "question": [
+        "六時",
+        "6 o'clock",
+        "ろくじ"
+      ],
+      "answer": "ろくじ"
+    },
+    {
+      "question": [
+        "七時",
+        "7 o'clock",
+        "しちじ"
+      ],
+      "answer": "しちじ"
+    },
+    {
+      "question": [
+        "八時",
+        "8 o'clock",
+        "はちじ"
+      ],
+      "answer": "はちじ"
+    },
+    {
+      "question": [
+        "九時",
+        "9 o'clock",
+        "くじ"
+      ],
+      "answer": "くじ"
+    },
+    {
+      "question": [
+        "十時",
+        "10 o'clock",
+        "じゅうじ"
+      ],
+      "answer": "じゅうじ"
+    },
+    {
+      "question": [
+        "十一時",
+        "11 o'clock",
+        "じゅういちじ"
+      ],
+      "answer": "じゅういちじ"
+    },
+    {
+      "question": [
+        "十二時",
+        "12 o'clock",
+        "じゅうにじ"
+      ],
+      "answer": "じゅうにじ"
+    },
+    {
+      "question": [
+        "午後一時",
+        "1 PM",
+        "ごごいちじ"
+      ],
+      "answer": "ごごいちじ"
+    },
+    {
+      "question": [
+        "午前八時",
+        "8 AM",
+        "ごぜんはちじ"
+      ],
+      "answer": "ごぜんはちじ"
+    },
+    {
+      "question": [
+        "一分",
+        "1 minute",
+        "いっぷん"
+      ],
+      "answer": "いっぷん"
+    },
+    {
+      "question": [
+        "二分",
+        "2 minutes",
+        "にふん"
+      ],
+      "answer": "にふん"
+    },
+    {
+      "question": [
+        "三分",
+        "3 minutes",
+        "さんぷん"
+      ],
+      "answer": "さんぷん"
+    },
+    {
+      "question": [
+        "四分",
+        "4 minutes",
+        "よんぷん"
+      ],
+      "answer": "よんぷん"
+    },
+    {
+      "question": [
+        "五分",
+        "5 minutes",
+        "ごふん"
+      ],
+      "answer": "ごふん"
+    },
+    {
+      "question": [
+        "六分",
+        "6 minutes",
+        "ろっぷん"
+      ],
+      "answer": "ろっぷん"
+    },
+    {
+      "question": [
+        "七分",
+        "7 minutes",
+        "ななふん"
+      ],
+      "answer": "ななふん"
+    },
+    {
+      "question": [
+        "八分",
+        "8 minutes",
+        "はっぷん"
+      ],
+      "answer": "はっぷん"
+    },
+    {
+      "question": [
+        "九分",
+        "9 minutes",
+        "きゅうふん"
+      ],
+      "answer": "きゅうふん"
+    },
+    {
+      "question": [
+        "十分",
+        "10 minutes",
+        "じゅっぷん"
+      ],
+      "answer": "じゅっぷん"
+    },
+    {
+      "question": [
+        "十五分",
+        "15 minutes",
+        "じゅうごふん"
+      ],
+      "answer": "じゅうごふん"
+    },
+    {
+      "question": [
+        "二十分",
+        "20 minutes",
+        "にじゅっぷん"
+      ],
+      "answer": "にじゅっぷん"
+    },
+    {
+      "question": [
+        "三十分",
+        "30 minutes",
+        "さんじゅっぷん"
+      ],
+      "answer": "さんじゅっぷん"
+    },
+    {
+      "question": [
+        "四十五分",
+        "45 minutes",
+        "よんじゅうごふん"
+      ],
+      "answer": "よんじゅうごふん"
+    },
+    {
+      "question": [
+        "1:01 AM",
+        "午前一時一分",
+        "ごぜんいちじいっぷん"
+      ],
+      "answer": "ごぜんいちじいっぷん"
+    },
+    {
+      "question": [
+        "12:35 PM",
+        "午後十二時三十五分",
+        "ご ご じゅうにじさんじゅうごふん"
+      ],
+      "answer": "ご ご じゅうにじさんじゅうごふん"
+    },
+    {
+      "question": [
+        "6:30 AM",
+        "午前六時半",
+        "ごぜん  ろくじはん"
+      ],
+      "answer": "ごぜん  ろくじはん"
+    },
+    {
+      "question": [
+        "一日",
+        "1st day of the month, 1 day",
+        "ついたち"
+      ],
+      "answer": "ついたち"
+    },
+    {
+      "question": [
+        "二日",
+        "2nd day of the month, 2 days",
+        "ふつか"
+      ],
+      "answer": "ふつか"
+    },
+    {
+      "question": [
+        "三日",
+        "3rd day of the month, 3 days",
+        "みっか"
+      ],
+      "answer": "みっか"
+    },
+    {
+      "question": [
+        "四日",
+        "4th day of the month, 4 days",
+        "よっか"
+      ],
+      "answer": "よっか"
+    },
+    {
+      "question": [
+        "五日",
+        "5th day of the month, 5 days",
+        "いつか"
+      ],
+      "answer": "いつか"
+    },
+    {
+      "question": [
+        "六日",
+        "6th day of the month, 6 days",
+        "むいか"
+      ],
+      "answer": "むいか"
+    },
+    {
+      "question": [
+        "七日",
+        "7th day of the month, 7 days",
+        "なのか"
+      ],
+      "answer": "なのか"
+    },
+    {
+      "question": [
+        "八日",
+        "8th day of the month, 8 days",
+        "ようか"
+      ],
+      "answer": "ようか"
+    },
+    {
+      "question": [
+        "九日",
+        "9th day of the month, 9 days",
+        "ここのか"
+      ],
+      "answer": "ここのか"
+    },
+    {
+      "question": [
+        "十日",
+        "10th day of the month, 10 days",
+        "とおか"
+      ],
+      "answer": "とおか"
+    },
+    {
+      "question": [
+        "十一日",
+        "11th day of the month, 11 days",
+        "じゅういちにち"
+      ],
+      "answer": "じゅういちにち"
+    },
+    {
+      "question": [
+        "十二日",
+        "12th day of the month, 12 days",
+        "じゅうににち"
+      ],
+      "answer": "じゅうににち"
+    },
+    {
+      "question": [
+        "十三日",
+        "13th day of the month, 13 days",
+        "じゅうさんにち"
+      ],
+      "answer": "じゅうさんにち"
+    },
+    {
+      "question": [
+        "十四日",
+        "14th day of the month, 14 days",
+        "じゅうよっか"
+      ],
+      "answer": "じゅうよっか"
+    },
+    {
+      "question": [
+        "十五日",
+        "15th day of the month, 15 days",
+        "じゅうごにち"
+      ],
+      "answer": "じゅうごにち"
+    },
+    {
+      "question": [
+        "十六日",
+        "16th day of the month, 16 days",
+        "じゅうろくにち"
+      ],
+      "answer": "じゅうろくにち"
+    },
+    {
+      "question": [
+        "十七日",
+        "17th day of the month, 17 days",
+        "じゅうしちにち"
+      ],
+      "answer": "じゅうしちにち"
+    },
+    {
+      "question": [
+        "十八日",
+        "18th day of the month, 18 days",
+        "じゅうはちにち"
+      ],
+      "answer": "じゅうはちにち"
+    },
+    {
+      "question": [
+        "十九日",
+        "19th day of the month, 19 days",
+        "じゅうくにち"
+      ],
+      "answer": "じゅうくにち"
+    },
+    {
+      "question": [
+        "二十日",
+        "20th day of the month, 20 days",
+        "はつか"
+      ],
+      "answer": "はつか"
+    },
+    {
+      "question": [
+        "二十一日",
+        "21st day of the month, 21 days",
+        "にじゅういちにち"
+      ],
+      "answer": "にじゅういちにち"
+    },
+    {
+      "question": [
+        "二十四日",
+        "24th day of the month, 24 days",
+        "にじゅうよっか"
+      ],
+      "answer": "にじゅうよっか"
+    },
+    {
+      "question": [
+        "二十七日",
+        "27th day of the month, 27 days",
+        "にじゅうしちにち"
+      ],
+      "answer": "にじゅうしちにち"
+    },
+    {
+      "question": [
+        "二十八日",
+        "28th day of the month, 28 days",
+        "にじゅうはちにち"
+      ],
+      "answer": "にじゅうはちにち"
+    },
+    {
+      "question": [
+        "二十九日",
+        "29th day of the month, 29 days",
+        "にじゅうくにち"
+      ],
+      "answer": "にじゅうくにち"
+    },
+    {
+      "question": [
+        "三十日",
+        "30th day of the month, 30 days",
+        "さんじゅうにち"
+      ],
+      "answer": "さんじゅうにち"
+    },
+    {
+      "question": [
+        "三十一日",
+        "31st day of the month, 31 days",
+        "さんじゅういちにち"
+      ],
+      "answer": "さんじゅういちにち"
+    },
+    {
+      "question": [
+        "二千四年",
+        "2004",
+        "にせんよんねん"
+      ],
+      "answer": "にせんよんねん"
+    },
+    {
+      "question": [
+        "千九百九十八",
+        "1,998",
+        "せんきゅうひゃくきゅうじゅうはち"
+      ],
+      "answer": "せんきゅうひゃくきゅうじゅうはち"
+    },
+    {
+      "question": [
+        "二千五年",
+        "Year 2005",
+        "にせんごねん"
+      ],
+      "answer": "にせんごねん"
+    },
+    {
+      "question": [
+        "千九百九十四年",
+        "Year 1994",
+        "せんきゅうひゃくきゅうじゅうよんねん"
+      ],
+      "answer": "せんきゅうひゃくきゅうじゅうよんねん"
+    },
+    {
+      "question": [
+        "午後五時六分",
+        "5:06 PM",
+        "ごごごじろっぷん"
+      ],
+      "answer": "ごごごじろっぷん"
+    },
+    {
+      "question": [
+        "午前九時半",
+        "9:30 AM",
+        "ごぜんくじはん"
+      ],
+      "answer": "ごぜんくじはん"
+    },
+    {
+      "question": [
+        "午前四時二十分",
+        "4:20 AM",
+        "ごぜんよじにじゅっぷん"
+      ],
+      "answer": "ごぜんよじにじゅっぷん"
+    },
+    {
+      "question": [
+        "午前七時三十分",
+        "7:30 AM",
+        "ごぜんしちじさんじゅっぷん"
+      ],
+      "answer": "ごぜんしちじさんじゅっぷん"
+    },
+    {
+      "question": [
+        "一月",
+        "January",
+        "いちがつ"
+      ],
+      "answer": "いちがつ"
+    },
+    {
+      "question": [
+        "二月",
+        "February",
+        "にがつ"
+      ],
+      "answer": "にがつ"
+    },
+    {
+      "question": [
+        "三月",
+        "March",
+        "さんがつ"
+      ],
+      "answer": "さんがつ"
+    },
+    {
+      "question": [
+        "四月",
+        "April",
+        "しがつ"
+      ],
+      "answer": "しがつ"
+    },
+    {
+      "question": [
+        "五月",
+        "May",
+        "ごがつ"
+      ],
+      "answer": "ごがつ"
+    },
+    {
+      "question": [
+        "六月",
+        "June",
+        "ろくがつ"
+      ],
+      "answer": "ろくがつ"
+    },
+    {
+      "question": [
+        "七月",
+        "July",
+        "しちがつ"
+      ],
+      "answer": "しちがつ"
+    },
+    {
+      "question": [
+        "八月",
+        "August",
+        "はちがつ"
+      ],
+      "answer": "はちがつ"
+    },
+    {
+      "question": [
+        "九月",
+        "September",
+        "くがつ"
+      ],
+      "answer": "くがつ"
+    },
+    {
+      "question": [
+        "十月",
+        "October",
+        "じゅうがつ"
+      ],
+      "answer": "じゅうがつ"
+    },
+    {
+      "question": [
+        "十一月",
+        "November",
+        "じゅういちがつ"
+      ],
+      "answer": "じゅういちがつ"
+    },
+    {
+      "question": [
+        "十二月",
+        "December",
+        "じゅうにがつ"
+      ],
+      "answer": "じゅうにがつ"
+    }
+  ],
+  "#00_counters_00": [
+    {
+      "question": [
+        "一人",
+        "1 person",
+        "ひとり"
+      ],
+      "answer": "ひとり"
+    },
+    {
+      "question": [
+        "二人",
+        "2 persons",
+        "ふたり"
+      ],
+      "answer": "ふたり"
+    },
+    {
+      "question": [
+        "三人",
+        "3 persons",
+        "さんにん"
+      ],
+      "answer": "さんにん"
+    },
+    {
+      "question": [
+        "四人",
+        "4 persons",
+        "よにん"
+      ],
+      "answer": "よにん"
+    },
+    {
+      "question": [
+        "五人",
+        "5 persons",
+        "ごにん"
+      ],
+      "answer": "ごにん"
+    },
+    {
+      "question": [
+        "六人",
+        "6 persons",
+        "ろくにん"
+      ],
+      "answer": "ろくにん"
+    },
+    {
+      "question": [
+        "七人",
+        "7 persons",
+        "しちにん"
+      ],
+      "answer": "しちにん"
+    },
+    {
+      "question": [
+        "八人",
+        "8 persons",
+        "はちにん"
+      ],
+      "answer": "はちにん"
+    },
+    {
+      "question": [
+        "九人",
+        "9 persons",
+        "きゅうにん"
+      ],
+      "answer": "きゅうにん"
+    },
+    {
+      "question": [
+        "十人",
+        "10 persons",
+        "じゅうにん"
+      ],
+      "answer": "じゅうにん"
+    },
+    {
+      "question": [
+        "十一人",
+        "11 persons",
+        "じゅういちにん"
+      ],
+      "answer": "じゅういちにん"
+    },
+    {
+      "question": [
+        "十二人",
+        "12 persons",
+        "じゅうににん"
+      ],
+      "answer": "じゅうににん"
+    },
+    {
+      "question": [
+        "一つ",
+        "1 thing",
+        "ひとつ"
+      ],
+      "answer": "ひとつ"
+    },
+    {
+      "question": [
+        "二つ",
+        "2 things",
+        "ふたつ"
+      ],
+      "answer": "ふたつ"
+    },
+    {
+      "question": [
+        "三つ",
+        "3 things",
+        "みっつ"
+      ],
+      "answer": "みっつ"
+    },
+    {
+      "question": [
+        "四つ",
+        "4 things",
+        "よっつ"
+      ],
+      "answer": "よっつ"
+    },
+    {
+      "question": [
+        "五つ",
+        "5 things",
+        "いつつ"
+      ],
+      "answer": "いつつ"
+    },
+    {
+      "question": [
+        "六つ",
+        "6 things",
+        "むっつ"
+      ],
+      "answer": "むっつ"
+    },
+    {
+      "question": [
+        "七つ",
+        "7 things",
+        "ななつ"
+      ],
+      "answer": "ななつ"
+    },
+    {
+      "question": [
+        "八つ",
+        "8 things",
+        "やっつ"
+      ],
+      "answer": "やっつ"
+    },
+    {
+      "question": [
+        "九つ",
+        "9 things",
+        "ここのつ"
+      ],
+      "answer": "ここのつ"
+    },
+    {
+      "question": [
+        "十つ",
+        "10 things",
+        "とお"
+      ],
+      "answer": "とお"
+    },
+    {
+      "question": [
+        "十一個",
+        "11 things",
+        "じゅういっこ"
+      ],
+      "answer": "じゅういっこ"
+    },
+    {
+      "question": [
+        "十二個",
+        "12 things",
+        "じゅうにこ"
+      ],
+      "answer": "じゅうにこ"
+    },
+    {
+      "question": [
+        "十三個",
+        "13 things",
+        "じゅうさんこ"
+      ],
+      "answer": "じゅうさんこ"
+    },
+    {
+      "question": [
+        "十四個",
+        "14 things",
+        "じゅうよんこ"
+      ],
+      "answer": "じゅうよんこ"
+    },
+    {
+      "question": [
+        "十五個",
+        "15 things",
+        "じゅうごこ"
+      ],
+      "answer": "じゅうごこ"
+    },
+    {
+      "question": [
+        "十六個",
+        "16 things",
+        "じゅうろっこ"
+      ],
+      "answer": "じゅうろっこ"
+    },
+    {
+      "question": [
+        "十七個",
+        "17 things",
+        "じゅうななこ"
+      ],
+      "answer": "じゅうななこ"
+    },
+    {
+      "question": [
+        "十八個",
+        "18 things",
+        "じゅうはっこ"
+      ],
+      "answer": "じゅうはっこ"
+    },
+    {
+      "question": [
+        "十九個",
+        "19 things",
+        "じゅうきゅうこ"
+      ],
+      "answer": "じゅうきゅうこ"
+    },
+    {
+      "question": [
+        "二十個",
+        "20 things",
+        "にじゅうこ"
+      ],
+      "answer": "にじゅうこ"
+    },
+    {
+      "question": [
+        "百個",
+        "100 things",
+        "ひゃっこ"
+      ],
+      "answer": "ひゃっこ"
+    },
+    {
+      "question": [
+        "千個",
+        "1000 things",
+        "せんこ"
+      ],
+      "answer": "せんこ"
+    },
+    {
+      "question": [
+        "一個",
+        "1 tangible, 3D thing",
+        "いっこ"
+      ],
+      "answer": "いっこ"
+    },
+    {
+      "question": [
+        "二個",
+        "2 3D tangible things",
+        "にこ"
+      ],
+      "answer": "にこ"
+    },
+    {
+      "question": [
+        "三個",
+        "3 3D tangible things",
+        "さんこ"
+      ],
+      "answer": "さんこ"
+    },
+    {
+      "question": [
+        "四個",
+        "4 3D tangible things",
+        "よんこ"
+      ],
+      "answer": "よんこ"
+    },
+    {
+      "question": [
+        "五個",
+        "5 3D tangible things",
+        "ごこ"
+      ],
+      "answer": "ごこ"
+    },
+    {
+      "question": [
+        "六個",
+        "6 3D tangible things",
+        "ろっこ"
+      ],
+      "answer": "ろっこ"
+    },
+    {
+      "question": [
+        "七個",
+        "7 3D tangible things",
+        "ななこ(しちこ)"
+      ],
+      "answer": "ななこ(しちこ)"
+    },
+    {
+      "question": [
+        "八個",
+        "8 3D tangible things",
+        "はちこ (はっこ)"
+      ],
+      "answer": "はちこ (はっこ)"
+    },
+    {
+      "question": [
+        "九個",
+        "9 3D tangible things",
+        "きゅうこ"
+      ],
+      "answer": "きゅうこ"
+    },
+    {
+      "question": [
+        "十個",
+        "10 3D tangible things",
+        "じゅっこ (じっこ)"
+      ],
+      "answer": "じゅっこ (じっこ)"
+    },
+    {
+      "question": [
+        "十一個",
+        "11 3D tangible things",
+        "じゅういっこ"
+      ],
+      "answer": "じゅういっこ"
+    },
+    {
+      "question": [
+        "十二個",
+        "12 3D tangible things",
+        "じゅうにこ"
+      ],
+      "answer": "じゅうにこ"
+    },
+    {
+      "question": [
+        "百個",
+        "100 3D tangible things",
+        "ひゃっこ"
+      ],
+      "answer": "ひゃっこ"
+    },
+    {
+      "question": [
+        "千個",
+        "1000 3D tangible things",
+        "せんこ"
+      ],
+      "answer": "せんこ"
+    },
+    {
+      "question": [
+        "一本",
+        "1 long, cylindrical thing",
+        "いっぽん"
+      ],
+      "answer": "いっぽん"
+    },
+    {
+      "question": [
+        "二本",
+        "2 long, cylindrical things",
+        "にほん"
+      ],
+      "answer": "にほん"
+    },
+    {
+      "question": [
+        "三本",
+        "3 long, cylindrical things",
+        "さんぼん"
+      ],
+      "answer": "さんぼん"
+    },
+    {
+      "question": [
+        "四本",
+        "4 long, cylindrical things",
+        "よんほん"
+      ],
+      "answer": "よんほん"
+    },
+    {
+      "question": [
+        "五本",
+        "5 long/cyclindrical things",
+        "ごほん"
+      ],
+      "answer": "ごほん"
+    },
+    {
+      "question": [
+        "六本",
+        "6 long, cylindrical things",
+        "ろっぽん"
+      ],
+      "answer": "ろっぽん"
+    },
+    {
+      "question": [
+        "七本",
+        "7 long, cylindrical things",
+        "ななほん (しちほん)"
+      ],
+      "answer": "ななほん (しちほん)"
+    },
+    {
+      "question": [
+        "八本",
+        "8 long, cylindrical things",
+        "はっぽん (はちほん)"
+      ],
+      "answer": "はっぽん (はちほん)"
+    },
+    {
+      "question": [
+        "九本",
+        "9 long, cylindrical things",
+        "きゅうほん"
+      ],
+      "answer": "きゅうほん"
+    },
+    {
+      "question": [
+        "十本",
+        "10 long, cylindrical things",
+        "じゅっぽん"
+      ],
+      "answer": "じゅっぽん"
+    },
+    {
+      "question": [
+        "十一本",
+        "11 long, cylindrical things",
+        "じゅういっぽん"
+      ],
+      "answer": "じゅういっぽん"
+    },
+    {
+      "question": [
+        "十二本",
+        "12 long, cylindrical things",
+        "じゅうにほん"
+      ],
+      "answer": "じゅうにほん"
+    },
+    {
+      "question": [
+        "百本",
+        "100 long, cylindrical things",
+        "ひゃっぽん"
+      ],
+      "answer": "ひゃっぽん"
+    },
+    {
+      "question": [
+        "一枚",
+        "1 thin, flat thing",
+        "いちまい"
+      ],
+      "answer": "いちまい"
+    },
+    {
+      "question": [
+        "二枚",
+        "2 thin, flat things",
+        "にまい"
+      ],
+      "answer": "にまい"
+    },
+    {
+      "question": [
+        "三枚",
+        "3 thin, flat things",
+        "さんまい"
+      ],
+      "answer": "さんまい"
+    },
+    {
+      "question": [
+        "四枚",
+        "4 thin, flat things",
+        "よんまい"
+      ],
+      "answer": "よんまい"
+    },
+    {
+      "question": [
+        "五枚",
+        "5 thin, flat things",
+        "ごまい"
+      ],
+      "answer": "ごまい"
+    },
+    {
+      "question": [
+        "六枚",
+        "6 thin, flat things",
+        "ろくまい"
+      ],
+      "answer": "ろくまい"
+    },
+    {
+      "question": [
+        "七枚",
+        "7 thin, flat things",
+        "ななまい (しちまい)"
+      ],
+      "answer": "ななまい (しちまい)"
+    },
+    {
+      "question": [
+        "八枚",
+        "8 thin, flat things",
+        "はちまい"
+      ],
+      "answer": "はちまい"
+    },
+    {
+      "question": [
+        "九枚",
+        "9 thin, flat things",
+        "きゅうまい"
+      ],
+      "answer": "きゅうまい"
+    },
+    {
+      "question": [
+        "十枚",
+        "10 thin, flat things",
+        "じゅうまい"
+      ],
+      "answer": "じゅうまい"
+    },
+    {
+      "question": [
+        "十一枚",
+        "11 thin, flat things",
+        "じゅういちまい"
+      ],
+      "answer": "じゅういちまい"
+    },
+    {
+      "question": [
+        "十二枚",
+        "12 thin, flat things",
+        "じゅうにまい"
+      ],
+      "answer": "じゅうにまい"
+    },
+    {
+      "question": [
+        "百枚",
+        "100 thin, flat things",
+        "ひゃくまい"
+      ],
+      "answer": "ひゃくまい"
+    },
+    {
+      "question": [
+        "千枚",
+        "1,000 thin, flat things",
+        "せんまい"
+      ],
+      "answer": "せんまい"
+    },
+    {
+      "question": [
+        "一万枚",
+        "10,000 thin, flat things",
+        "いちまんまい"
+      ],
+      "answer": "いちまんまい"
+    },
+    {
+      "question": [
+        "千本",
+        "1,000 long, cylindrical things",
+        "せんぼん"
+      ],
+      "answer": "せんぼん"
+    },
+    {
+      "question": [
+        "一万本",
+        "10,000 long, cylindrical things",
+        "いちまんぼん"
+      ],
+      "answer": "いちまんぼん"
+    },
+    {
+      "question": [
+        "一万個",
+        "10,000 tangible things",
+        "いちまんこ"
+      ],
+      "answer": "いちまんこ"
+    },
+    {
+      "question": [
+        "いくつですか",
+        "How many things (general)?  Can also mean \"How old are you?\" more formally",
+        "いくつですか"
+      ],
+      "answer": "いくつですか"
+    },
+    {
+      "question": [
+        "何個ですか",
+        "How many small/gigantic 3D tangible (round) things?",
+        "何[なん] 個[こ]ですか"
+      ],
+      "answer": "何[なん] 個[こ]ですか"
+    },
+    {
+      "question": [
+        "何本ですか",
+        "How many long, cylindrical things?",
+        "何[なん] 本[ぼん]ですか"
+      ],
+      "answer": "何[なん] 本[ぼん]ですか"
+    },
+    {
+      "question": [
+        "何枚ですか",
+        "How many thin, flat things are there?",
+        "何[なん] 枚[まい]ですか"
+      ],
+      "answer": "何[なん] 枚[まい]ですか"
+    },
+    {
+      "question": [
+        "何歳ですか",
+        "How old are you?",
+        "何[なん] 歳[さい]ですか"
+      ],
+      "answer": "何[なん] 歳[さい]ですか"
+    },
+    {
+      "question": [
+        "何人ですか",
+        "How many people?",
+        "何[なん] 人[にん]ですか"
+      ],
+      "answer": "何[なん] 人[にん]ですか"
+    },
+    {
+      "question": [
+        "何匹ですか",
+        "How many small animals?",
+        "何[なん] 匹[びき]ですか"
+      ],
+      "answer": "何[なん] 匹[びき]ですか"
+    },
+    {
+      "question": [
+        "一匹",
+        "1 small animal",
+        "いっぴき"
+      ],
+      "answer": "いっぴき"
+    },
+    {
+      "question": [
+        "二匹",
+        "2 small animals",
+        "にひき"
+      ],
+      "answer": "にひき"
+    },
+    {
+      "question": [
+        "三匹",
+        "3 small animals",
+        "さんびき"
+      ],
+      "answer": "さんびき"
+    },
+    {
+      "question": [
+        "四匹",
+        "4 small animals",
+        "よんひき"
+      ],
+      "answer": "よんひき"
+    },
+    {
+      "question": [
+        "五匹",
+        "5 small animals",
+        "ごひき"
+      ],
+      "answer": "ごひき"
+    },
+    {
+      "question": [
+        "六匹",
+        "6 small animals",
+        "ろっぴき"
+      ],
+      "answer": "ろっぴき"
+    },
+    {
+      "question": [
+        "七匹",
+        "7 small animals",
+        "ななひき (しちひき)"
+      ],
+      "answer": "ななひき (しちひき)"
+    },
+    {
+      "question": [
+        "八匹",
+        "8 small animals",
+        "はっぴき (はちひき)"
+      ],
+      "answer": "はっぴき (はちひき)"
+    },
+    {
+      "question": [
+        "九匹",
+        "9 small animals",
+        "きゅうひき"
+      ],
+      "answer": "きゅうひき"
+    },
+    {
+      "question": [
+        "十匹",
+        "10 small animals",
+        "じゅっぴき (じっぴき)"
+      ],
+      "answer": "じゅっぴき (じっぴき)"
+    },
+    {
+      "question": [
+        "十一匹",
+        "11 small animals",
+        "じゅういっぴき"
+      ],
+      "answer": "じゅういっぴき"
+    },
+    {
+      "question": [
+        "十二匹",
+        "12 small animals",
+        "じゅうにひき"
+      ],
+      "answer": "じゅうにひき"
+    },
+    {
+      "question": [
+        "十三匹",
+        "13 small animals",
+        "じゅうさんびき"
+      ],
+      "answer": "じゅうさんびき"
+    },
+    {
+      "question": [
+        "百匹",
+        "100 small animals",
+        "ひゃっぴき"
+      ],
+      "answer": "ひゃっぴき"
+    },
+    {
+      "question": [
+        "千匹",
+        "1,000 small animals",
+        "せんびき"
+      ],
+      "answer": "せんびき"
+    },
+    {
+      "question": [
+        "一万匹",
+        "10,000 small animals",
+        "いちまんびき"
+      ],
+      "answer": "いちまんびき"
+    },
+    {
+      "question": [
+        "何冊ですか",
+        "How many books?",
+        "なんさつですか"
+      ],
+      "answer": "なんさつですか"
+    },
+    {
+      "question": [
+        "一冊",
+        "1 book",
+        "いっさつ"
+      ],
+      "answer": "いっさつ"
+    },
+    {
+      "question": [
+        "二冊",
+        "2 books",
+        "にさつ"
+      ],
+      "answer": "にさつ"
+    },
+    {
+      "question": [
+        "三冊",
+        "3 books",
+        "さんさつ"
+      ],
+      "answer": "さんさつ"
+    },
+    {
+      "question": [
+        "四冊",
+        "4 books",
+        "よんさつ"
+      ],
+      "answer": "よんさつ"
+    },
+    {
+      "question": [
+        "五冊",
+        "5 books",
+        "ごさつ"
+      ],
+      "answer": "ごさつ"
+    },
+    {
+      "question": [
+        "六冊",
+        "6 books",
+        "ろくさつ"
+      ],
+      "answer": "ろくさつ"
+    },
+    {
+      "question": [
+        "七冊",
+        "7 books",
+        "ななさつ"
+      ],
+      "answer": "ななさつ"
+    },
+    {
+      "question": [
+        "八冊",
+        "8 books",
+        "はちさつ"
+      ],
+      "answer": "はちさつ"
+    },
+    {
+      "question": [
+        "九冊",
+        "9 books",
+        "きゅうさつ"
+      ],
+      "answer": "きゅうさつ"
+    },
+    {
+      "question": [
+        "十冊",
+        "10 books",
+        "じゅっさつ"
+      ],
+      "answer": "じゅっさつ"
+    },
+    {
+      "question": [
+        "十一冊",
+        "11 books",
+        "じゅういっさつ"
+      ],
+      "answer": "じゅういっさつ"
+    },
+    {
+      "question": [
+        "百冊",
+        "100 books",
+        "ひゃくさつ"
+      ],
+      "answer": "ひゃくさつ"
+    },
+    {
+      "question": [
+        "千冊",
+        "1,000 books",
+        "せんさつ"
+      ],
+      "answer": "せんさつ"
+    },
+    {
+      "question": [
+        "一万冊",
+        "10,000 books",
+        "いちまんさつ"
+      ],
+      "answer": "いちまんさつ"
+    },
+    {
+      "question": [
+        "何回ですか",
+        "How many times?",
+        "なんかいですか"
+      ],
+      "answer": "なんかいですか"
+    },
+    {
+      "question": [
+        "一回",
+        "1 time",
+        "いっかい"
+      ],
+      "answer": "いっかい"
+    },
+    {
+      "question": [
+        "二回",
+        "2 times",
+        "にかい"
+      ],
+      "answer": "にかい"
+    },
+    {
+      "question": [
+        "三回",
+        "3 times",
+        "さんかい"
+      ],
+      "answer": "さんかい"
+    },
+    {
+      "question": [
+        "四回",
+        "4 times",
+        "よんかい"
+      ],
+      "answer": "よんかい"
+    },
+    {
+      "question": [
+        "五回",
+        "5 times",
+        "ごかい"
+      ],
+      "answer": "ごかい"
+    },
+    {
+      "question": [
+        "六回",
+        "6 times",
+        "ろっかい"
+      ],
+      "answer": "ろっかい"
+    },
+    {
+      "question": [
+        "七回",
+        "7 times",
+        "ななかい"
+      ],
+      "answer": "ななかい"
+    },
+    {
+      "question": [
+        "八回",
+        "8 times",
+        "はちかい"
+      ],
+      "answer": "はちかい"
+    },
+    {
+      "question": [
+        "九回",
+        "9 times",
+        "きゅうかい"
+      ],
+      "answer": "きゅうかい"
+    },
+    {
+      "question": [
+        "十回",
+        "10 times",
+        "じゅっかい"
+      ],
+      "answer": "じゅっかい"
+    },
+    {
+      "question": [
+        "十一回",
+        "11 times",
+        "じゅういっかい"
+      ],
+      "answer": "じゅういっかい"
+    },
+    {
+      "question": [
+        "十二回",
+        "12 times",
+        "じゅうにかい"
+      ],
+      "answer": "じゅうにかい"
+    },
+    {
+      "question": [
+        "百回",
+        "100 times",
+        "ひゃっかい"
+      ],
+      "answer": "ひゃっかい"
+    },
+    {
+      "question": [
+        "千回",
+        "1,000 times",
+        "せんかい"
+      ],
+      "answer": "せんかい"
+    },
+    {
+      "question": [
+        "一万回",
+        "10,000 times",
+        "いちまんかい"
+      ],
+      "answer": "いちまんかい"
+    }
+  ],
+  "#00_numbers_00": [
+    {
+      "question": [
+        "11,203",
+        "一万 千二百三",
+        "まんせんにひゃくさん"
+      ],
+      "answer": "まんせんにひゃくさん"
+    },
+    {
+      "question": [
+        "43,651",
+        "四万三千六百五十一",
+        "よんまんさん ぜんろっぴゃくごじゅういち"
+      ],
+      "answer": "よんまんさん ぜんろっぴゃくごじゅういち"
+    },
+    {
+      "question": [
+        "188,809",
+        "十八万八千八百九",
+        "じゅうはちまんはっせんはっぴゃくきゅう"
+      ],
+      "answer": "じゅうはちまんはっせんはっぴゃくきゅう"
+    },
+    {
+      "question": [
+        "3,000,500",
+        "三百万 五百",
+        "さんびゃくまんごひゃく"
+      ],
+      "answer": "さんびゃくまんごひゃく"
+    },
+    {
+      "question": [
+        "800,000,910",
+        "八億 九 百十",
+        "はちおくきゅうひゃくじゅう"
+      ],
+      "answer": "はちおくきゅうひゃくじゅう"
+    },
+    {
+      "question": [
+        "ゼロ",
+        "0",
+        "ぜろ"
+      ],
+      "answer": "ぜろ"
+    },
+    {
+      "question": [
+        "零",
+        "0",
+        "れい"
+      ],
+      "answer": "れい"
+    },
+    {
+      "question": [
+        "一",
+        "1",
+        "いち"
+      ],
+      "answer": "いち"
+    },
+    {
+      "question": [
+        "二",
+        "2",
+        "に"
+      ],
+      "answer": "に"
+    },
+    {
+      "question": [
+        "三",
+        "3",
+        "さん"
+      ],
+      "answer": "さん"
+    },
+    {
+      "question": [
+        "四",
+        "4",
+        "よん"
+      ],
+      "answer": "よん"
+    },
+    {
+      "question": [
+        "五",
+        "5",
+        "ご"
+      ],
+      "answer": "ご"
+    },
+    {
+      "question": [
+        "六",
+        "6",
+        "ろく"
+      ],
+      "answer": "ろく"
+    },
+    {
+      "question": [
+        "七",
+        "7",
+        "しち"
+      ],
+      "answer": "しち"
+    },
+    {
+      "question": [
+        "八",
+        "8",
+        "はち"
+      ],
+      "answer": "はち"
+    },
+    {
+      "question": [
+        "九",
+        "9",
+        "きゅう"
+      ],
+      "answer": "きゅう"
+    },
+    {
+      "question": [
+        "十",
+        "10",
+        "じゅう"
+      ],
+      "answer": "じゅう"
+    },
+    {
+      "question": [
+        "十一",
+        "11",
+        "じゅういち"
+      ],
+      "answer": "じゅういち"
+    },
+    {
+      "question": [
+        "十二",
+        "12",
+        "じゅうに"
+      ],
+      "answer": "じゅうに"
+    },
+    {
+      "question": [
+        "二十",
+        "20",
+        "にじゅう"
+      ],
+      "answer": "にじゅう"
+    },
+    {
+      "question": [
+        "二十一",
+        "21",
+        "にじゅういち"
+      ],
+      "answer": "にじゅういち"
+    },
+    {
+      "question": [
+        "四十",
+        "40",
+        "よんじゅう"
+      ],
+      "answer": "よんじゅう"
+    },
+    {
+      "question": [
+        "七十",
+        "70",
+        "ななじゅう"
+      ],
+      "answer": "ななじゅう"
+    },
+    {
+      "question": [
+        "百",
+        "100",
+        "ひゃく"
+      ],
+      "answer": "ひゃく"
+    },
+    {
+      "question": [
+        "二百",
+        "200",
+        "にひゃく"
+      ],
+      "answer": "にひゃく"
+    },
+    {
+      "question": [
+        "三百",
+        "300",
+        "さんびゃく"
+      ],
+      "answer": "さんびゃく"
+    },
+    {
+      "question": [
+        "四百",
+        "400",
+        "よんひゃく"
+      ],
+      "answer": "よんひゃく"
+    },
+    {
+      "question": [
+        "五百",
+        "500",
+        "ごひゃく"
+      ],
+      "answer": "ごひゃく"
+    },
+    {
+      "question": [
+        "六百",
+        "600",
+        "ろっぴゃく"
+      ],
+      "answer": "ろっぴゃく"
+    },
+    {
+      "question": [
+        "七百",
+        "700",
+        "ななひゃく"
+      ],
+      "answer": "ななひゃく"
+    },
+    {
+      "question": [
+        "八百",
+        "800",
+        "はっぴゃく"
+      ],
+      "answer": "はっぴゃく"
+    },
+    {
+      "question": [
+        "九百",
+        "900",
+        "きゅうひゃく"
+      ],
+      "answer": "きゅうひゃく"
+    },
+    {
+      "question": [
+        "千",
+        "1,000",
+        "せん"
+      ],
+      "answer": "せん"
+    },
+    {
+      "question": [
+        "一千",
+        "1,000",
+        "いっせん"
+      ],
+      "answer": "いっせん"
+    },
+    {
+      "question": [
+        "一万",
+        "10,000",
+        "いちまん"
+      ],
+      "answer": "いちまん"
+    },
+    {
+      "question": [
+        "十万",
+        "100,000",
+        "じゅうまん"
+      ],
+      "answer": "じゅうまん"
+    },
+    {
+      "question": [
+        "百万",
+        "1,000,000",
+        "ひゃくまん"
+      ],
+      "answer": "ひゃくまん"
+    },
+    {
+      "question": [
+        "千万",
+        "10,000,000",
+        "せんまん"
+      ],
+      "answer": "せんまん"
+    },
+    {
+      "question": [
+        "億",
+        "100,000,000",
+        "おく"
+      ],
+      "answer": "おく"
+    },
+    {
+      "question": [
+        "一億",
+        "100,000,000",
+        "いちおく"
+      ],
+      "answer": "いちおく"
+    },
+    {
+      "question": [
+        "十億",
+        "1 billion",
+        "じゅうおく"
+      ],
+      "answer": "じゅうおく"
+    },
+    {
+      "question": [
+        "兆",
+        "1 trillion",
+        "ちょう"
+      ],
+      "answer": "ちょう"
     }
   ],
   "#jbp_1_unit1_lesson1": [
