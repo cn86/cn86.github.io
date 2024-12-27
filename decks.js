@@ -1,5 +1,5 @@
 /*
-<li><a href="#00_counters_00" onclick="load_deck('#00_counters_00');">00_counters_00</a></li><li><a href="#00_numbers_00" onclick="load_deck('#00_numbers_00');">00_numbers_00</a></li><li><a href="#00_time_00" onclick="load_deck('#00_time_00');">00_time_00</a></li><li><a href="#01_kaishi15k_00" onclick="load_deck('#01_kaishi15k_00');">01_kaishi15k_00</a></li><li><a href="#01_kaishi15k_01" onclick="load_deck('#01_kaishi15k_01');">01_kaishi15k_01</a></li><li><a href="#01_kaishi15k_02" onclick="load_deck('#01_kaishi15k_02');">01_kaishi15k_02</a></li><li><a href="#01_kaishi15k_03" onclick="load_deck('#01_kaishi15k_03');">01_kaishi15k_03</a></li><li><a href="#01_kaishi15k_04" onclick="load_deck('#01_kaishi15k_04');">01_kaishi15k_04</a></li><li><a href="#01_kaishi15k_05" onclick="load_deck('#01_kaishi15k_05');">01_kaishi15k_05</a></li><li><a href="#01_kaishi15k_06" onclick="load_deck('#01_kaishi15k_06');">01_kaishi15k_06</a></li><li><a href="#01_kaishi15k_07" onclick="load_deck('#01_kaishi15k_07');">01_kaishi15k_07</a></li><li><a href="#01_kaishi15k_08" onclick="load_deck('#01_kaishi15k_08');">01_kaishi15k_08</a></li><li><a href="#01_kaishi15k_09" onclick="load_deck('#01_kaishi15k_09');">01_kaishi15k_09</a></li><li><a href="#01_kaishi15k_10" onclick="load_deck('#01_kaishi15k_10');">01_kaishi15k_10</a></li><li><a href="#01_kaishi15k_11" onclick="load_deck('#01_kaishi15k_11');">01_kaishi15k_11</a></li><li><a href="#01_kaishi15k_12" onclick="load_deck('#01_kaishi15k_12');">01_kaishi15k_12</a></li><li><a href="#01_kaishi15k_13" onclick="load_deck('#01_kaishi15k_13');">01_kaishi15k_13</a></li><li><a href="#01_kaishi15k_14" onclick="load_deck('#01_kaishi15k_14');">01_kaishi15k_14</a></li><li><a href="#01_kaishi15k_15" onclick="load_deck('#01_kaishi15k_15');">01_kaishi15k_15</a></li><li><a href="#01_kaishi15k_16" onclick="load_deck('#01_kaishi15k_16');">01_kaishi15k_16</a></li><li><a href="#01_kaishi15k_17" onclick="load_deck('#01_kaishi15k_17');">01_kaishi15k_17</a></li><li><a href="#01_kaishi15k_18" onclick="load_deck('#01_kaishi15k_18');">01_kaishi15k_18</a></li><li><a href="#01_kaishi15k_19" onclick="load_deck('#01_kaishi15k_19');">01_kaishi15k_19</a></li><li><a href="#01_kaishi15k_20" onclick="load_deck('#01_kaishi15k_20');">01_kaishi15k_20</a></li><li><a href="#01_kaishi15k_21" onclick="load_deck('#01_kaishi15k_21');">01_kaishi15k_21</a></li><li><a href="#01_kaishi15k_22" onclick="load_deck('#01_kaishi15k_22');">01_kaishi15k_22</a></li><li><a href="#01_kaishi15k_23" onclick="load_deck('#01_kaishi15k_23');">01_kaishi15k_23</a></li><li><a href="#01_kaishi15k_24" onclick="load_deck('#01_kaishi15k_24');">01_kaishi15k_24</a></li><li><a href="#01_kaishi15k_25" onclick="load_deck('#01_kaishi15k_25');">01_kaishi15k_25</a></li><li><a href="#01_kaishi15k_26" onclick="load_deck('#01_kaishi15k_26');">01_kaishi15k_26</a></li><li><a href="#01_kaishi15k_27" onclick="load_deck('#01_kaishi15k_27');">01_kaishi15k_27</a></li><li><a href="#01_kaishi15k_28" onclick="load_deck('#01_kaishi15k_28');">01_kaishi15k_28</a></li><li><a href="#01_kaishi15k_29" onclick="load_deck('#01_kaishi15k_29');">01_kaishi15k_29</a></li><li><a href="#jbp_1_" onclick="load_deck('#jbp_1_');">jbp_1_</a></li><li><a href="#jbp_1_expressions" onclick="load_deck('#jbp_1_expressions');">jbp_1_expressions</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson1" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson1');">jbp_1_key_sentences_sentences_lesson1</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson10" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson10');">jbp_1_key_sentences_sentences_lesson10</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson11" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson11');">jbp_1_key_sentences_sentences_lesson11</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson12" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson12');">jbp_1_key_sentences_sentences_lesson12</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson13" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson13');">jbp_1_key_sentences_sentences_lesson13</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson14" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson14');">jbp_1_key_sentences_sentences_lesson14</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson15" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson15');">jbp_1_key_sentences_sentences_lesson15</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson16" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson16');">jbp_1_key_sentences_sentences_lesson16</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson17" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson17');">jbp_1_key_sentences_sentences_lesson17</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson18" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson18');">jbp_1_key_sentences_sentences_lesson18</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson19" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson19');">jbp_1_key_sentences_sentences_lesson19</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson2" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson2');">jbp_1_key_sentences_sentences_lesson2</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson20" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson20');">jbp_1_key_sentences_sentences_lesson20</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson21" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson21');">jbp_1_key_sentences_sentences_lesson21</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson22" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson22');">jbp_1_key_sentences_sentences_lesson22</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson23" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson23');">jbp_1_key_sentences_sentences_lesson23</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson24" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson24');">jbp_1_key_sentences_sentences_lesson24</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson3" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson3');">jbp_1_key_sentences_sentences_lesson3</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson4" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson4');">jbp_1_key_sentences_sentences_lesson4</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson5" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson5');">jbp_1_key_sentences_sentences_lesson5</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson6" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson6');">jbp_1_key_sentences_sentences_lesson6</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson7" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson7');">jbp_1_key_sentences_sentences_lesson7</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson8" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson8');">jbp_1_key_sentences_sentences_lesson8</a></li><li><a href="#jbp_1_key_sentences_sentences_lesson9" onclick="load_deck('#jbp_1_key_sentences_sentences_lesson9');">jbp_1_key_sentences_sentences_lesson9</a></li><li><a href="#jbp_1_misc" onclick="load_deck('#jbp_1_misc');">jbp_1_misc</a></li><li><a href="#jbp_1_unit10_lesson22" onclick="load_deck('#jbp_1_unit10_lesson22');">jbp_1_unit10_lesson22</a></li><li><a href="#jbp_1_unit10_lesson23" onclick="load_deck('#jbp_1_unit10_lesson23');">jbp_1_unit10_lesson23</a></li><li><a href="#jbp_1_unit10_misc" onclick="load_deck('#jbp_1_unit10_misc');">jbp_1_unit10_misc</a></li><li><a href="#jbp_1_unit10_misc_lesson22" onclick="load_deck('#jbp_1_unit10_misc_lesson22');">jbp_1_unit10_misc_lesson22</a></li><li><a href="#jbp_1_unit10_misc_lesson23" onclick="load_deck('#jbp_1_unit10_misc_lesson23');">jbp_1_unit10_misc_lesson23</a></li><li><a href="#jbp_1_unit11_lesson24" onclick="load_deck('#jbp_1_unit11_lesson24');">jbp_1_unit11_lesson24</a></li><li><a href="#jbp_1_unit11_lesson25" onclick="load_deck('#jbp_1_unit11_lesson25');">jbp_1_unit11_lesson25</a></li><li><a href="#jbp_1_unit1_lesson1" onclick="load_deck('#jbp_1_unit1_lesson1');">jbp_1_unit1_lesson1</a></li><li><a href="#jbp_1_unit1_lesson2" onclick="load_deck('#jbp_1_unit1_lesson2');">jbp_1_unit1_lesson2</a></li><li><a href="#jbp_1_unit2_lesson3" onclick="load_deck('#jbp_1_unit2_lesson3');">jbp_1_unit2_lesson3</a></li><li><a href="#jbp_1_unit2_lesson4" onclick="load_deck('#jbp_1_unit2_lesson4');">jbp_1_unit2_lesson4</a></li><li><a href="#jbp_1_unit2_lesson5" onclick="load_deck('#jbp_1_unit2_lesson5');">jbp_1_unit2_lesson5</a></li><li><a href="#jbp_1_unit2_misc" onclick="load_deck('#jbp_1_unit2_misc');">jbp_1_unit2_misc</a></li><li><a href="#jbp_1_unit2_misc_lesson3" onclick="load_deck('#jbp_1_unit2_misc_lesson3');">jbp_1_unit2_misc_lesson3</a></li><li><a href="#jbp_1_unit3_grammar" onclick="load_deck('#jbp_1_unit3_grammar');">jbp_1_unit3_grammar</a></li><li><a href="#jbp_1_unit3_lesson6" onclick="load_deck('#jbp_1_unit3_lesson6');">jbp_1_unit3_lesson6</a></li><li><a href="#jbp_1_unit3_lesson6_expressions" onclick="load_deck('#jbp_1_unit3_lesson6_expressions');">jbp_1_unit3_lesson6_expressions</a></li><li><a href="#jbp_1_unit3_lesson7" onclick="load_deck('#jbp_1_unit3_lesson7');">jbp_1_unit3_lesson7</a></li><li><a href="#jbp_1_unit3_misc" onclick="load_deck('#jbp_1_unit3_misc');">jbp_1_unit3_misc</a></li><li><a href="#jbp_1_unit3_misc_lesson6" onclick="load_deck('#jbp_1_unit3_misc_lesson6');">jbp_1_unit3_misc_lesson6</a></li><li><a href="#jbp_1_unit4_lesson8" onclick="load_deck('#jbp_1_unit4_lesson8');">jbp_1_unit4_lesson8</a></li><li><a href="#jbp_1_unit4_lesson9" onclick="load_deck('#jbp_1_unit4_lesson9');">jbp_1_unit4_lesson9</a></li><li><a href="#jbp_1_unit4_misc" onclick="load_deck('#jbp_1_unit4_misc');">jbp_1_unit4_misc</a></li><li><a href="#jbp_1_unit5_lesson10" onclick="load_deck('#jbp_1_unit5_lesson10');">jbp_1_unit5_lesson10</a></li><li><a href="#jbp_1_unit5_lesson11" onclick="load_deck('#jbp_1_unit5_lesson11');">jbp_1_unit5_lesson11</a></li><li><a href="#jbp_1_unit6_lesson12" onclick="load_deck('#jbp_1_unit6_lesson12');">jbp_1_unit6_lesson12</a></li><li><a href="#jbp_1_unit6_lesson13" onclick="load_deck('#jbp_1_unit6_lesson13');">jbp_1_unit6_lesson13</a></li><li><a href="#jbp_1_unit6_lesson14" onclick="load_deck('#jbp_1_unit6_lesson14');">jbp_1_unit6_lesson14</a></li><li><a href="#jbp_1_unit7_lesson15" onclick="load_deck('#jbp_1_unit7_lesson15');">jbp_1_unit7_lesson15</a></li><li><a href="#jbp_1_unit7_lesson16" onclick="load_deck('#jbp_1_unit7_lesson16');">jbp_1_unit7_lesson16</a></li><li><a href="#jbp_1_unit8_lesson17" onclick="load_deck('#jbp_1_unit8_lesson17');">jbp_1_unit8_lesson17</a></li><li><a href="#jbp_1_unit8_lesson17_grammar" onclick="load_deck('#jbp_1_unit8_lesson17_grammar');">jbp_1_unit8_lesson17_grammar</a></li><li><a href="#jbp_1_unit8_lesson18" onclick="load_deck('#jbp_1_unit8_lesson18');">jbp_1_unit8_lesson18</a></li><li><a href="#jbp_1_unit8_lesson18_grammar" onclick="load_deck('#jbp_1_unit8_lesson18_grammar');">jbp_1_unit8_lesson18_grammar</a></li><li><a href="#jbp_1_unit8_misc" onclick="load_deck('#jbp_1_unit8_misc');">jbp_1_unit8_misc</a></li><li><a href="#jbp_1_unit9_lesson19" onclick="load_deck('#jbp_1_unit9_lesson19');">jbp_1_unit9_lesson19</a></li><li><a href="#jbp_1_unit9_lesson20" onclick="load_deck('#jbp_1_unit9_lesson20');">jbp_1_unit9_lesson20</a></li><li><a href="#jbp_1_unit9_lesson21" onclick="load_deck('#jbp_1_unit9_lesson21');">jbp_1_unit9_lesson21</a></li><li><a href="#jbp_1_unit9_misc" onclick="load_deck('#jbp_1_unit9_misc');">jbp_1_unit9_misc</a></li><li><a href="#jbp_1_unit9_misc_lesson19" onclick="load_deck('#jbp_1_unit9_misc_lesson19');">jbp_1_unit9_misc_lesson19</a></li><li><a href="#n5_vocab_00" onclick="load_deck('#n5_vocab_00');">n5_vocab_00</a></li><li><a href="#n5_vocab_01" onclick="load_deck('#n5_vocab_01');">n5_vocab_01</a></li><li><a href="#n5_vocab_02" onclick="load_deck('#n5_vocab_02');">n5_vocab_02</a></li><li><a href="#n5_vocab_03" onclick="load_deck('#n5_vocab_03');">n5_vocab_03</a></li><li><a href="#n5_vocab_04" onclick="load_deck('#n5_vocab_04');">n5_vocab_04</a></li><li><a href="#n5_vocab_05" onclick="load_deck('#n5_vocab_05');">n5_vocab_05</a></li><li><a href="#n5_vocab_06" onclick="load_deck('#n5_vocab_06');">n5_vocab_06</a></li><li><a href="#n5_vocab_07" onclick="load_deck('#n5_vocab_07');">n5_vocab_07</a></li><li><a href="#n5_vocab_08" onclick="load_deck('#n5_vocab_08');">n5_vocab_08</a></li><li><a href="#n5_vocab_09" onclick="load_deck('#n5_vocab_09');">n5_vocab_09</a></li><li><a href="#n5_vocab_10" onclick="load_deck('#n5_vocab_10');">n5_vocab_10</a></li><li><a href="#n5_vocab_11" onclick="load_deck('#n5_vocab_11');">n5_vocab_11</a></li><li><a href="#n5_vocab_12" onclick="load_deck('#n5_vocab_12');">n5_vocab_12</a></li><li><a href="#n5_vocab_13" onclick="load_deck('#n5_vocab_13');">n5_vocab_13</a></li><li><a href="#rtk630_hiragana_00" onclick="load_deck('#rtk630_hiragana_00');">rtk630_hiragana_00</a></li><li><a href="#rtk630_hiragana_01" onclick="load_deck('#rtk630_hiragana_01');">rtk630_hiragana_01</a></li><li><a href="#rtk630_hiragana_02" onclick="load_deck('#rtk630_hiragana_02');">rtk630_hiragana_02</a></li><li><a href="#rtk630_hiragana_03" onclick="load_deck('#rtk630_hiragana_03');">rtk630_hiragana_03</a></li><li><a href="#rtk630_hiragana_04" onclick="load_deck('#rtk630_hiragana_04');">rtk630_hiragana_04</a></li><li><a href="#rtk630_hiragana_05" onclick="load_deck('#rtk630_hiragana_05');">rtk630_hiragana_05</a></li><li><a href="#rtk630_hiragana_06" onclick="load_deck('#rtk630_hiragana_06');">rtk630_hiragana_06</a></li><li><a href="#rtk630_hiragana_07" onclick="load_deck('#rtk630_hiragana_07');">rtk630_hiragana_07</a></li><li><a href="#rtk630_hiragana_08" onclick="load_deck('#rtk630_hiragana_08');">rtk630_hiragana_08</a></li><li><a href="#rtk630_hiragana_09" onclick="load_deck('#rtk630_hiragana_09');">rtk630_hiragana_09</a></li><li><a href="#rtk630_koohii_00" onclick="load_deck('#rtk630_koohii_00');">rtk630_koohii_00</a></li><li><a href="#rtk630_koohii_01" onclick="load_deck('#rtk630_koohii_01');">rtk630_koohii_01</a></li><li><a href="#rtk630_koohii_02" onclick="load_deck('#rtk630_koohii_02');">rtk630_koohii_02</a></li><li><a href="#rtk630_koohii_03" onclick="load_deck('#rtk630_koohii_03');">rtk630_koohii_03</a></li><li><a href="#rtk630_koohii_04" onclick="load_deck('#rtk630_koohii_04');">rtk630_koohii_04</a></li><li><a href="#rtk630_koohii_05" onclick="load_deck('#rtk630_koohii_05');">rtk630_koohii_05</a></li><li><a href="#rtk630_koohii_06" onclick="load_deck('#rtk630_koohii_06');">rtk630_koohii_06</a></li><li><a href="#rtk630_koohii_07" onclick="load_deck('#rtk630_koohii_07');">rtk630_koohii_07</a></li><li><a href="#rtk630_koohii_08" onclick="load_deck('#rtk630_koohii_08');">rtk630_koohii_08</a></li><li><a href="#rtk630_koohii_09" onclick="load_deck('#rtk630_koohii_09');">rtk630_koohii_09</a></li><li><a href="#rtk630_koohii_10" onclick="load_deck('#rtk630_koohii_10');">rtk630_koohii_10</a></li><li><a href="#rtk630_koohii_11" onclick="load_deck('#rtk630_koohii_11');">rtk630_koohii_11</a></li><li><a href="#rtk630_koohii_12" onclick="load_deck('#rtk630_koohii_12');">rtk630_koohii_12</a></li><li><a href="#rtk630_koohii_13" onclick="load_deck('#rtk630_koohii_13');">rtk630_koohii_13</a></li><li><a href="#rtk630_koohii_14" onclick="load_deck('#rtk630_koohii_14');">rtk630_koohii_14</a></li><li><a href="#rtk630_koohii_15" onclick="load_deck('#rtk630_koohii_15');">rtk630_koohii_15</a></li><li><a href="#rtk630_koohii_16" onclick="load_deck('#rtk630_koohii_16');">rtk630_koohii_16</a></li><li><a href="#rtk630_koohii_17" onclick="load_deck('#rtk630_koohii_17');">rtk630_koohii_17</a></li><li><a href="#rtk630_koohii_18" onclick="load_deck('#rtk630_koohii_18');">rtk630_koohii_18</a></li><li><a href="#rtk630_koohii_19" onclick="load_deck('#rtk630_koohii_19');">rtk630_koohii_19</a></li><li><a href="#rtk630_koohii_20" onclick="load_deck('#rtk630_koohii_20');">rtk630_koohii_20</a></li><li><a href="#rtk630_koohii_21" onclick="load_deck('#rtk630_koohii_21');">rtk630_koohii_21</a></li><li><a href="#rtk630_koohii_22" onclick="load_deck('#rtk630_koohii_22');">rtk630_koohii_22</a></li><li><a href="#rtk630_koohii_23" onclick="load_deck('#rtk630_koohii_23');">rtk630_koohii_23</a></li><li><a href="#rtk630_koohii_24" onclick="load_deck('#rtk630_koohii_24');">rtk630_koohii_24</a></li><li><a href="#rtk630_koohii_25" onclick="load_deck('#rtk630_koohii_25');">rtk630_koohii_25</a></li><li><a href="#rtk630_koohii_26" onclick="load_deck('#rtk630_koohii_26');">rtk630_koohii_26</a></li><li><a href="#rtk630_koohii_27" onclick="load_deck('#rtk630_koohii_27');">rtk630_koohii_27</a></li><li><a href="#rtk630_koohii_28" onclick="load_deck('#rtk630_koohii_28');">rtk630_koohii_28</a></li><li><a href="#rtk630_koohii_29" onclick="load_deck('#rtk630_koohii_29');">rtk630_koohii_29</a></li><li><a href="#rtk630_koohii_30" onclick="load_deck('#rtk630_koohii_30');">rtk630_koohii_30</a></li><li><a href="#usagi_phonetics_00" onclick="load_deck('#usagi_phonetics_00');">usagi_phonetics_00</a></li><li><a href="#usagi_phonetics_01" onclick="load_deck('#usagi_phonetics_01');">usagi_phonetics_01</a></li><li><a href="#usagi_phonetics_02" onclick="load_deck('#usagi_phonetics_02');">usagi_phonetics_02</a></li><li><a href="#usagi_phonetics_03" onclick="load_deck('#usagi_phonetics_03');">usagi_phonetics_03</a></li><li><a href="#usagi_phonetics_04" onclick="load_deck('#usagi_phonetics_04');">usagi_phonetics_04</a></li><li><a href="#usagi_phonetics_05" onclick="load_deck('#usagi_phonetics_05');">usagi_phonetics_05</a></li><li><a href="#usagi_phonetics_06" onclick="load_deck('#usagi_phonetics_06');">usagi_phonetics_06</a></li><li><a href="#usagi_phonetics_07" onclick="load_deck('#usagi_phonetics_07');">usagi_phonetics_07</a></li><li><a href="#usagi_phonetics_08" onclick="load_deck('#usagi_phonetics_08');">usagi_phonetics_08</a></li><li><a href="#usagi_phonetics_09" onclick="load_deck('#usagi_phonetics_09');">usagi_phonetics_09</a></li><li><a href="#usagi_phonetics_10" onclick="load_deck('#usagi_phonetics_10');">usagi_phonetics_10</a></li><li><a href="#usagi_phonetics_11" onclick="load_deck('#usagi_phonetics_11');">usagi_phonetics_11</a></li><li><a href="#usagi_phonetics_12" onclick="load_deck('#usagi_phonetics_12');">usagi_phonetics_12</a></li>
+<li><a href="#00_counters_00" onclick="load_deck('#00_counters_00');">00_counters_00</a></li><li><a href="#00_numbers_00" onclick="load_deck('#00_numbers_00');">00_numbers_00</a></li><li><a href="#00_time_00" onclick="load_deck('#00_time_00');">00_time_00</a></li><li><a href="#01_kaishi15k_hiragana_00" onclick="load_deck('#01_kaishi15k_hiragana_00');">01_kaishi15k_hiragana_00</a></li><li><a href="#01_kaishi15k_hiragana_01" onclick="load_deck('#01_kaishi15k_hiragana_01');">01_kaishi15k_hiragana_01</a></li><li><a href="#01_kaishi15k_hiragana_02" onclick="load_deck('#01_kaishi15k_hiragana_02');">01_kaishi15k_hiragana_02</a></li><li><a href="#01_kaishi15k_hiragana_03" onclick="load_deck('#01_kaishi15k_hiragana_03');">01_kaishi15k_hiragana_03</a></li><li><a href="#01_kaishi15k_hiragana_04" onclick="load_deck('#01_kaishi15k_hiragana_04');">01_kaishi15k_hiragana_04</a></li><li><a href="#01_kaishi15k_hiragana_05" onclick="load_deck('#01_kaishi15k_hiragana_05');">01_kaishi15k_hiragana_05</a></li><li><a href="#01_kaishi15k_hiragana_06" onclick="load_deck('#01_kaishi15k_hiragana_06');">01_kaishi15k_hiragana_06</a></li><li><a href="#01_kaishi15k_hiragana_07" onclick="load_deck('#01_kaishi15k_hiragana_07');">01_kaishi15k_hiragana_07</a></li><li><a href="#01_kaishi15k_hiragana_08" onclick="load_deck('#01_kaishi15k_hiragana_08');">01_kaishi15k_hiragana_08</a></li><li><a href="#01_kaishi15k_hiragana_09" onclick="load_deck('#01_kaishi15k_hiragana_09');">01_kaishi15k_hiragana_09</a></li><li><a href="#01_kaishi15k_hiragana_10" onclick="load_deck('#01_kaishi15k_hiragana_10');">01_kaishi15k_hiragana_10</a></li><li><a href="#01_kaishi15k_hiragana_11" onclick="load_deck('#01_kaishi15k_hiragana_11');">01_kaishi15k_hiragana_11</a></li><li><a href="#01_kaishi15k_hiragana_12" onclick="load_deck('#01_kaishi15k_hiragana_12');">01_kaishi15k_hiragana_12</a></li><li><a href="#01_kaishi15k_hiragana_13" onclick="load_deck('#01_kaishi15k_hiragana_13');">01_kaishi15k_hiragana_13</a></li><li><a href="#01_kaishi15k_hiragana_14" onclick="load_deck('#01_kaishi15k_hiragana_14');">01_kaishi15k_hiragana_14</a></li><li><a href="#01_kaishi15k_hiragana_15" onclick="load_deck('#01_kaishi15k_hiragana_15');">01_kaishi15k_hiragana_15</a></li><li><a href="#01_kaishi15k_hiragana_16" onclick="load_deck('#01_kaishi15k_hiragana_16');">01_kaishi15k_hiragana_16</a></li><li><a href="#01_kaishi15k_hiragana_17" onclick="load_deck('#01_kaishi15k_hiragana_17');">01_kaishi15k_hiragana_17</a></li><li><a href="#01_kaishi15k_hiragana_18" onclick="load_deck('#01_kaishi15k_hiragana_18');">01_kaishi15k_hiragana_18</a></li><li><a href="#01_kaishi15k_hiragana_19" onclick="load_deck('#01_kaishi15k_hiragana_19');">01_kaishi15k_hiragana_19</a></li><li><a href="#01_kaishi15k_hiragana_20" onclick="load_deck('#01_kaishi15k_hiragana_20');">01_kaishi15k_hiragana_20</a></li><li><a href="#01_kaishi15k_hiragana_21" onclick="load_deck('#01_kaishi15k_hiragana_21');">01_kaishi15k_hiragana_21</a></li><li><a href="#01_kaishi15k_hiragana_22" onclick="load_deck('#01_kaishi15k_hiragana_22');">01_kaishi15k_hiragana_22</a></li><li><a href="#01_kaishi15k_hiragana_23" onclick="load_deck('#01_kaishi15k_hiragana_23');">01_kaishi15k_hiragana_23</a></li><li><a href="#01_kaishi15k_hiragana_24" onclick="load_deck('#01_kaishi15k_hiragana_24');">01_kaishi15k_hiragana_24</a></li><li><a href="#01_kaishi15k_hiragana_25" onclick="load_deck('#01_kaishi15k_hiragana_25');">01_kaishi15k_hiragana_25</a></li><li><a href="#01_kaishi15k_hiragana_26" onclick="load_deck('#01_kaishi15k_hiragana_26');">01_kaishi15k_hiragana_26</a></li><li><a href="#01_kaishi15k_hiragana_27" onclick="load_deck('#01_kaishi15k_hiragana_27');">01_kaishi15k_hiragana_27</a></li><li><a href="#01_kaishi15k_hiragana_28" onclick="load_deck('#01_kaishi15k_hiragana_28');">01_kaishi15k_hiragana_28</a></li><li><a href="#01_kaishi15k_hiragana_29" onclick="load_deck('#01_kaishi15k_hiragana_29');">01_kaishi15k_hiragana_29</a></li><li><a href="#01_kaishi15k_hiragana_30" onclick="load_deck('#01_kaishi15k_hiragana_30');">01_kaishi15k_hiragana_30</a></li><li><a href="#01_kaishi15k_hiragana_31" onclick="load_deck('#01_kaishi15k_hiragana_31');">01_kaishi15k_hiragana_31</a></li><li><a href="#01_kaishi15k_hiragana_32" onclick="load_deck('#01_kaishi15k_hiragana_32');">01_kaishi15k_hiragana_32</a></li><li><a href="#01_kaishi15k_hiragana_33" onclick="load_deck('#01_kaishi15k_hiragana_33');">01_kaishi15k_hiragana_33</a></li><li><a href="#01_kaishi15k_hiragana_34" onclick="load_deck('#01_kaishi15k_hiragana_34');">01_kaishi15k_hiragana_34</a></li><li><a href="#01_kaishi15k_hiragana_35" onclick="load_deck('#01_kaishi15k_hiragana_35');">01_kaishi15k_hiragana_35</a></li><li><a href="#01_kaishi15k_hiragana_36" onclick="load_deck('#01_kaishi15k_hiragana_36');">01_kaishi15k_hiragana_36</a></li><li><a href="#01_kaishi15k_hiragana_37" onclick="load_deck('#01_kaishi15k_hiragana_37');">01_kaishi15k_hiragana_37</a></li><li><a href="#01_kaishi15k_hiragana_38" onclick="load_deck('#01_kaishi15k_hiragana_38');">01_kaishi15k_hiragana_38</a></li><li><a href="#01_kaishi15k_hiragana_39" onclick="load_deck('#01_kaishi15k_hiragana_39');">01_kaishi15k_hiragana_39</a></li><li><a href="#01_kaishi15k_hiragana_40" onclick="load_deck('#01_kaishi15k_hiragana_40');">01_kaishi15k_hiragana_40</a></li><li><a href="#01_kaishi15k_hiragana_41" onclick="load_deck('#01_kaishi15k_hiragana_41');">01_kaishi15k_hiragana_41</a></li><li><a href="#01_kaishi15k_hiragana_42" onclick="load_deck('#01_kaishi15k_hiragana_42');">01_kaishi15k_hiragana_42</a></li><li><a href="#01_kaishi15k_hiragana_43" onclick="load_deck('#01_kaishi15k_hiragana_43');">01_kaishi15k_hiragana_43</a></li><li><a href="#01_kaishi15k_hiragana_44" onclick="load_deck('#01_kaishi15k_hiragana_44');">01_kaishi15k_hiragana_44</a></li><li><a href="#01_kaishi15k_hiragana_45" onclick="load_deck('#01_kaishi15k_hiragana_45');">01_kaishi15k_hiragana_45</a></li><li><a href="#01_kaishi15k_hiragana_46" onclick="load_deck('#01_kaishi15k_hiragana_46');">01_kaishi15k_hiragana_46</a></li><li><a href="#01_kaishi15k_hiragana_47" onclick="load_deck('#01_kaishi15k_hiragana_47');">01_kaishi15k_hiragana_47</a></li><li><a href="#01_kaishi15k_hiragana_48" onclick="load_deck('#01_kaishi15k_hiragana_48');">01_kaishi15k_hiragana_48</a></li><li><a href="#01_kaishi15k_hiragana_49" onclick="load_deck('#01_kaishi15k_hiragana_49');">01_kaishi15k_hiragana_49</a></li><li><a href="#01_kaishi15k_hiragana_50" onclick="load_deck('#01_kaishi15k_hiragana_50');">01_kaishi15k_hiragana_50</a></li><li><a href="#01_kaishi15k_hiragana_51" onclick="load_deck('#01_kaishi15k_hiragana_51');">01_kaishi15k_hiragana_51</a></li><li><a href="#01_kaishi15k_hiragana_52" onclick="load_deck('#01_kaishi15k_hiragana_52');">01_kaishi15k_hiragana_52</a></li><li><a href="#01_kaishi15k_hiragana_53" onclick="load_deck('#01_kaishi15k_hiragana_53');">01_kaishi15k_hiragana_53</a></li><li><a href="#01_kaishi15k_hiragana_54" onclick="load_deck('#01_kaishi15k_hiragana_54');">01_kaishi15k_hiragana_54</a></li><li><a href="#01_kaishi15k_hiragana_55" onclick="load_deck('#01_kaishi15k_hiragana_55');">01_kaishi15k_hiragana_55</a></li><li><a href="#01_kaishi15k_hiragana_56" onclick="load_deck('#01_kaishi15k_hiragana_56');">01_kaishi15k_hiragana_56</a></li><li><a href="#01_kaishi15k_hiragana_57" onclick="load_deck('#01_kaishi15k_hiragana_57');">01_kaishi15k_hiragana_57</a></li><li><a href="#01_kaishi15k_hiragana_58" onclick="load_deck('#01_kaishi15k_hiragana_58');">01_kaishi15k_hiragana_58</a></li><li><a href="#01_kaishi15k_hiragana_59" onclick="load_deck('#01_kaishi15k_hiragana_59');">01_kaishi15k_hiragana_59</a></li><li><a href="#01_kaishi15k_hiragana_60" onclick="load_deck('#01_kaishi15k_hiragana_60');">01_kaishi15k_hiragana_60</a></li><li><a href="#01_kaishi15k_hiragana_61" onclick="load_deck('#01_kaishi15k_hiragana_61');">01_kaishi15k_hiragana_61</a></li><li><a href="#01_kaishi15k_hiragana_62" onclick="load_deck('#01_kaishi15k_hiragana_62');">01_kaishi15k_hiragana_62</a></li><li><a href="#01_kaishi15k_hiragana_63" onclick="load_deck('#01_kaishi15k_hiragana_63');">01_kaishi15k_hiragana_63</a></li><li><a href="#01_kaishi15k_hiragana_64" onclick="load_deck('#01_kaishi15k_hiragana_64');">01_kaishi15k_hiragana_64</a></li><li><a href="#01_kaishi15k_hiragana_65" onclick="load_deck('#01_kaishi15k_hiragana_65');">01_kaishi15k_hiragana_65</a></li><li><a href="#01_kaishi15k_hiragana_66" onclick="load_deck('#01_kaishi15k_hiragana_66');">01_kaishi15k_hiragana_66</a></li><li><a href="#01_kaishi15k_hiragana_67" onclick="load_deck('#01_kaishi15k_hiragana_67');">01_kaishi15k_hiragana_67</a></li><li><a href="#01_kaishi15k_hiragana_68" onclick="load_deck('#01_kaishi15k_hiragana_68');">01_kaishi15k_hiragana_68</a></li><li><a href="#01_kaishi15k_hiragana_69" onclick="load_deck('#01_kaishi15k_hiragana_69');">01_kaishi15k_hiragana_69</a></li><li><a href="#01_kaishi15k_hiragana_70" onclick="load_deck('#01_kaishi15k_hiragana_70');">01_kaishi15k_hiragana_70</a></li><li><a href="#01_kaishi15k_hiragana_71" onclick="load_deck('#01_kaishi15k_hiragana_71');">01_kaishi15k_hiragana_71</a></li><li><a href="#01_kaishi15k_hiragana_72" onclick="load_deck('#01_kaishi15k_hiragana_72');">01_kaishi15k_hiragana_72</a></li><li><a href="#01_kaishi15k_hiragana_73" onclick="load_deck('#01_kaishi15k_hiragana_73');">01_kaishi15k_hiragana_73</a></li><li><a href="#01_kaishi15k_hiragana_74" onclick="load_deck('#01_kaishi15k_hiragana_74');">01_kaishi15k_hiragana_74</a></li><li><a href="#n5_vocab_00" onclick="load_deck('#n5_vocab_00');">n5_vocab_00</a></li><li><a href="#n5_vocab_01" onclick="load_deck('#n5_vocab_01');">n5_vocab_01</a></li><li><a href="#n5_vocab_02" onclick="load_deck('#n5_vocab_02');">n5_vocab_02</a></li><li><a href="#n5_vocab_03" onclick="load_deck('#n5_vocab_03');">n5_vocab_03</a></li><li><a href="#n5_vocab_04" onclick="load_deck('#n5_vocab_04');">n5_vocab_04</a></li><li><a href="#n5_vocab_05" onclick="load_deck('#n5_vocab_05');">n5_vocab_05</a></li><li><a href="#n5_vocab_06" onclick="load_deck('#n5_vocab_06');">n5_vocab_06</a></li><li><a href="#n5_vocab_07" onclick="load_deck('#n5_vocab_07');">n5_vocab_07</a></li><li><a href="#n5_vocab_08" onclick="load_deck('#n5_vocab_08');">n5_vocab_08</a></li><li><a href="#n5_vocab_09" onclick="load_deck('#n5_vocab_09');">n5_vocab_09</a></li><li><a href="#n5_vocab_10" onclick="load_deck('#n5_vocab_10');">n5_vocab_10</a></li><li><a href="#n5_vocab_11" onclick="load_deck('#n5_vocab_11');">n5_vocab_11</a></li><li><a href="#n5_vocab_12" onclick="load_deck('#n5_vocab_12');">n5_vocab_12</a></li><li><a href="#n5_vocab_13" onclick="load_deck('#n5_vocab_13');">n5_vocab_13</a></li><li><a href="#rtk630_hiragana_00" onclick="load_deck('#rtk630_hiragana_00');">rtk630_hiragana_00</a></li><li><a href="#rtk630_hiragana_01" onclick="load_deck('#rtk630_hiragana_01');">rtk630_hiragana_01</a></li><li><a href="#rtk630_hiragana_02" onclick="load_deck('#rtk630_hiragana_02');">rtk630_hiragana_02</a></li><li><a href="#rtk630_hiragana_03" onclick="load_deck('#rtk630_hiragana_03');">rtk630_hiragana_03</a></li><li><a href="#rtk630_hiragana_04" onclick="load_deck('#rtk630_hiragana_04');">rtk630_hiragana_04</a></li><li><a href="#rtk630_hiragana_05" onclick="load_deck('#rtk630_hiragana_05');">rtk630_hiragana_05</a></li><li><a href="#rtk630_hiragana_06" onclick="load_deck('#rtk630_hiragana_06');">rtk630_hiragana_06</a></li><li><a href="#rtk630_hiragana_07" onclick="load_deck('#rtk630_hiragana_07');">rtk630_hiragana_07</a></li><li><a href="#rtk630_hiragana_08" onclick="load_deck('#rtk630_hiragana_08');">rtk630_hiragana_08</a></li><li><a href="#rtk630_hiragana_09" onclick="load_deck('#rtk630_hiragana_09');">rtk630_hiragana_09</a></li><li><a href="#rtk630_koohii_00" onclick="load_deck('#rtk630_koohii_00');">rtk630_koohii_00</a></li><li><a href="#rtk630_koohii_01" onclick="load_deck('#rtk630_koohii_01');">rtk630_koohii_01</a></li><li><a href="#rtk630_koohii_02" onclick="load_deck('#rtk630_koohii_02');">rtk630_koohii_02</a></li><li><a href="#rtk630_koohii_03" onclick="load_deck('#rtk630_koohii_03');">rtk630_koohii_03</a></li><li><a href="#rtk630_koohii_04" onclick="load_deck('#rtk630_koohii_04');">rtk630_koohii_04</a></li><li><a href="#rtk630_koohii_05" onclick="load_deck('#rtk630_koohii_05');">rtk630_koohii_05</a></li><li><a href="#rtk630_koohii_06" onclick="load_deck('#rtk630_koohii_06');">rtk630_koohii_06</a></li><li><a href="#rtk630_koohii_07" onclick="load_deck('#rtk630_koohii_07');">rtk630_koohii_07</a></li><li><a href="#rtk630_koohii_08" onclick="load_deck('#rtk630_koohii_08');">rtk630_koohii_08</a></li><li><a href="#rtk630_koohii_09" onclick="load_deck('#rtk630_koohii_09');">rtk630_koohii_09</a></li><li><a href="#rtk630_koohii_10" onclick="load_deck('#rtk630_koohii_10');">rtk630_koohii_10</a></li><li><a href="#rtk630_koohii_11" onclick="load_deck('#rtk630_koohii_11');">rtk630_koohii_11</a></li><li><a href="#rtk630_koohii_12" onclick="load_deck('#rtk630_koohii_12');">rtk630_koohii_12</a></li><li><a href="#rtk630_koohii_13" onclick="load_deck('#rtk630_koohii_13');">rtk630_koohii_13</a></li><li><a href="#rtk630_koohii_14" onclick="load_deck('#rtk630_koohii_14');">rtk630_koohii_14</a></li><li><a href="#rtk630_koohii_15" onclick="load_deck('#rtk630_koohii_15');">rtk630_koohii_15</a></li><li><a href="#rtk630_koohii_16" onclick="load_deck('#rtk630_koohii_16');">rtk630_koohii_16</a></li><li><a href="#rtk630_koohii_17" onclick="load_deck('#rtk630_koohii_17');">rtk630_koohii_17</a></li><li><a href="#rtk630_koohii_18" onclick="load_deck('#rtk630_koohii_18');">rtk630_koohii_18</a></li><li><a href="#rtk630_koohii_19" onclick="load_deck('#rtk630_koohii_19');">rtk630_koohii_19</a></li><li><a href="#rtk630_koohii_20" onclick="load_deck('#rtk630_koohii_20');">rtk630_koohii_20</a></li><li><a href="#rtk630_koohii_21" onclick="load_deck('#rtk630_koohii_21');">rtk630_koohii_21</a></li><li><a href="#rtk630_koohii_22" onclick="load_deck('#rtk630_koohii_22');">rtk630_koohii_22</a></li><li><a href="#rtk630_koohii_23" onclick="load_deck('#rtk630_koohii_23');">rtk630_koohii_23</a></li><li><a href="#rtk630_koohii_24" onclick="load_deck('#rtk630_koohii_24');">rtk630_koohii_24</a></li><li><a href="#rtk630_koohii_25" onclick="load_deck('#rtk630_koohii_25');">rtk630_koohii_25</a></li><li><a href="#rtk630_koohii_26" onclick="load_deck('#rtk630_koohii_26');">rtk630_koohii_26</a></li><li><a href="#rtk630_koohii_27" onclick="load_deck('#rtk630_koohii_27');">rtk630_koohii_27</a></li><li><a href="#rtk630_koohii_28" onclick="load_deck('#rtk630_koohii_28');">rtk630_koohii_28</a></li><li><a href="#rtk630_koohii_29" onclick="load_deck('#rtk630_koohii_29');">rtk630_koohii_29</a></li><li><a href="#rtk630_koohii_30" onclick="load_deck('#rtk630_koohii_30');">rtk630_koohii_30</a></li><li><a href="#rtk630_koohii_31" onclick="load_deck('#rtk630_koohii_31');">rtk630_koohii_31</a></li><li><a href="#rtk630_koohii_32" onclick="load_deck('#rtk630_koohii_32');">rtk630_koohii_32</a></li><li><a href="#rtk630_koohii_33" onclick="load_deck('#rtk630_koohii_33');">rtk630_koohii_33</a></li><li><a href="#rtk630_koohii_34" onclick="load_deck('#rtk630_koohii_34');">rtk630_koohii_34</a></li><li><a href="#rtk630_koohii_35" onclick="load_deck('#rtk630_koohii_35');">rtk630_koohii_35</a></li><li><a href="#rtk630_koohii_36" onclick="load_deck('#rtk630_koohii_36');">rtk630_koohii_36</a></li><li><a href="#rtk630_koohii_37" onclick="load_deck('#rtk630_koohii_37');">rtk630_koohii_37</a></li><li><a href="#rtk630_koohii_38" onclick="load_deck('#rtk630_koohii_38');">rtk630_koohii_38</a></li><li><a href="#rtk630_koohii_39" onclick="load_deck('#rtk630_koohii_39');">rtk630_koohii_39</a></li><li><a href="#rtk630_koohii_40" onclick="load_deck('#rtk630_koohii_40');">rtk630_koohii_40</a></li><li><a href="#rtk630_koohii_41" onclick="load_deck('#rtk630_koohii_41');">rtk630_koohii_41</a></li><li><a href="#rtk630_koohii_42" onclick="load_deck('#rtk630_koohii_42');">rtk630_koohii_42</a></li><li><a href="#rtk630_koohii_43" onclick="load_deck('#rtk630_koohii_43');">rtk630_koohii_43</a></li><li><a href="#rtk630_koohii_44" onclick="load_deck('#rtk630_koohii_44');">rtk630_koohii_44</a></li><li><a href="#rtk630_koohii_45" onclick="load_deck('#rtk630_koohii_45');">rtk630_koohii_45</a></li><li><a href="#rtk630_koohii_46" onclick="load_deck('#rtk630_koohii_46');">rtk630_koohii_46</a></li><li><a href="#rtk630_koohii_47" onclick="load_deck('#rtk630_koohii_47');">rtk630_koohii_47</a></li><li><a href="#rtk630_koohii_48" onclick="load_deck('#rtk630_koohii_48');">rtk630_koohii_48</a></li><li><a href="#rtk630_koohii_49" onclick="load_deck('#rtk630_koohii_49');">rtk630_koohii_49</a></li><li><a href="#rtk630_koohii_50" onclick="load_deck('#rtk630_koohii_50');">rtk630_koohii_50</a></li><li><a href="#rtk630_koohii_51" onclick="load_deck('#rtk630_koohii_51');">rtk630_koohii_51</a></li><li><a href="#rtk630_koohii_52" onclick="load_deck('#rtk630_koohii_52');">rtk630_koohii_52</a></li><li><a href="#rtk630_koohii_53" onclick="load_deck('#rtk630_koohii_53');">rtk630_koohii_53</a></li><li><a href="#rtk630_koohii_54" onclick="load_deck('#rtk630_koohii_54');">rtk630_koohii_54</a></li><li><a href="#rtk630_koohii_55" onclick="load_deck('#rtk630_koohii_55');">rtk630_koohii_55</a></li><li><a href="#rtk630_koohii_56" onclick="load_deck('#rtk630_koohii_56');">rtk630_koohii_56</a></li><li><a href="#rtk630_koohii_57" onclick="load_deck('#rtk630_koohii_57');">rtk630_koohii_57</a></li><li><a href="#rtk630_koohii_58" onclick="load_deck('#rtk630_koohii_58');">rtk630_koohii_58</a></li><li><a href="#rtk630_koohii_59" onclick="load_deck('#rtk630_koohii_59');">rtk630_koohii_59</a></li><li><a href="#rtk630_koohii_60" onclick="load_deck('#rtk630_koohii_60');">rtk630_koohii_60</a></li>
 */
 var decks = {
   "#n5_vocab_00": [
@@ -5430,11 +5430,155 @@ var decks = {
       "answer": "おなか"
     }
   ],
-  "#01_kaishi15k_00": [
+  "#01_kaishi15k_hiragana_00": [
+    {
+      "question": [
+        "本日",
+        "ほんじつ",
+        "today"
+      ],
+      "answer": "ほんじつ"
+    },
+    {
+      "question": [
+        "先日",
+        "せんじつ",
+        "the other day, a few days ago"
+      ],
+      "answer": "せんじつ"
+    },
+    {
+      "question": [
+        "月曜日",
+        "げつようび",
+        "Monday"
+      ],
+      "answer": "げつようび"
+    },
+    {
+      "question": [
+        "火曜日",
+        "かようび",
+        "Tuesday"
+      ],
+      "answer": "かようび"
+    },
+    {
+      "question": [
+        "水曜日",
+        "すいようび",
+        "Wednesday"
+      ],
+      "answer": "すいようび"
+    },
+    {
+      "question": [
+        "木曜日",
+        "もくようび",
+        "Thursday"
+      ],
+      "answer": "もくようび"
+    },
+    {
+      "question": [
+        "金曜日",
+        "きんようび",
+        "Friday"
+      ],
+      "answer": "きんようび"
+    },
+    {
+      "question": [
+        "土曜日",
+        "どようび",
+        "Saturday"
+      ],
+      "answer": "どようび"
+    },
+    {
+      "question": [
+        "日曜日",
+        "にちようび",
+        "Sunday"
+      ],
+      "answer": "にちようび"
+    },
+    {
+      "question": [
+        "一つ",
+        "ひとつ",
+        "one (thing)"
+      ],
+      "answer": "ひとつ"
+    },
+    {
+      "question": [
+        "二つ",
+        "ふたつ",
+        "two (things)"
+      ],
+      "answer": "ふたつ"
+    },
+    {
+      "question": [
+        "三つ",
+        "みっつ",
+        "three (things)"
+      ],
+      "answer": "みっつ"
+    },
+    {
+      "question": [
+        "四つ",
+        "よっつ",
+        "four (things)"
+      ],
+      "answer": "よっつ"
+    },
+    {
+      "question": [
+        "五つ",
+        "いつつ",
+        "five (things)"
+      ],
+      "answer": "いつつ"
+    },
+    {
+      "question": [
+        "六つ",
+        "むっつ",
+        "six (things)"
+      ],
+      "answer": "むっつ"
+    },
+    {
+      "question": [
+        "七つ",
+        "ななつ",
+        "seven (things)"
+      ],
+      "answer": "ななつ"
+    },
+    {
+      "question": [
+        "八つ",
+        "やっつ",
+        "eight (things)"
+      ],
+      "answer": "やっつ"
+    },
+    {
+      "question": [
+        "九つ",
+        "ここのつ",
+        "nine (things)"
+      ],
+      "answer": "ここのつ"
+    },
     {
       "question": [
         "私",
-        "私[わたし]",
+        "わたし",
         "I (polite, general)"
       ],
       "answer": "わたし"
@@ -5446,7 +5590,9 @@ var decks = {
         "you (usually when one doesn't know the person)"
       ],
       "answer": "あなた"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_01": [
     {
       "question": [
         "さん",
@@ -5458,7 +5604,7 @@ var decks = {
     {
       "question": [
         "彼",
-        "彼[かれ]",
+        "かれ",
         "he, him"
       ],
       "answer": "かれ"
@@ -5466,7 +5612,7 @@ var decks = {
     {
       "question": [
         "好き",
-        "好[す]き",
+        "すき",
         "like, fond of"
       ],
       "answer": "すき"
@@ -5474,7 +5620,7 @@ var decks = {
     {
       "question": [
         "人",
-        "人[ひと]",
+        "ひと",
         "person"
       ],
       "answer": "ひと"
@@ -5490,7 +5636,7 @@ var decks = {
     {
       "question": [
         "人",
-        "人[じん]",
+        "じん",
         "person from (nationality)"
       ],
       "answer": "じん"
@@ -5498,7 +5644,7 @@ var decks = {
     {
       "question": [
         "日本語",
-        "日本[にほん] 語[ご]",
+        "にほんご",
         "Japanese language"
       ],
       "answer": "にほんご"
@@ -5506,7 +5652,7 @@ var decks = {
     {
       "question": [
         "勉強",
-        "勉[べん] 強[きょう]",
+        "べんきょう",
         "study"
       ],
       "answer": "べんきょう"
@@ -5514,7 +5660,7 @@ var decks = {
     {
       "question": [
         "本",
-        "本[ほん]",
+        "ほん",
         "book"
       ],
       "answer": "ほん"
@@ -5530,10 +5676,10 @@ var decks = {
     {
       "question": [
         "何",
-        "何[なに]",
+        "なに・なん",
         "what"
       ],
-      "answer": "なに"
+      "answer": "なに・なん"
     },
     {
       "question": [
@@ -5562,7 +5708,7 @@ var decks = {
     {
       "question": [
         "毎日",
-        "毎[まい] 日[にち]",
+        "まいにち",
         "every day"
       ],
       "answer": "まいにち"
@@ -5570,7 +5716,7 @@ var decks = {
     {
       "question": [
         "兄",
-        "兄[あに]",
+        "あに",
         "older brother"
       ],
       "answer": "あに"
@@ -5602,15 +5748,17 @@ var decks = {
     {
       "question": [
         "今",
-        "今[いま]",
+        "いま",
         "now"
       ],
       "answer": "いま"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_02": [
     {
       "question": [
         "時間",
-        "時[じ] 間[かん]",
+        "じかん",
         "time, hour"
       ],
       "answer": "じかん"
@@ -5618,7 +5766,7 @@ var decks = {
     {
       "question": [
         "無い",
-        "無[な]い",
+        "ない",
         "to not be"
       ],
       "answer": "ない"
@@ -5658,7 +5806,7 @@ var decks = {
     {
       "question": [
         "見る",
-        "見[み]る",
+        "みる",
         "see, look at"
       ],
       "answer": "みる"
@@ -5666,7 +5814,7 @@ var decks = {
     {
       "question": [
         "全然",
-        "全[ぜん] 然[ぜん]",
+        "ぜんぜん",
         "(not) at all"
       ],
       "answer": "ぜんぜん"
@@ -5674,7 +5822,7 @@ var decks = {
     {
       "question": [
         "面白い",
-        "面[おも] 白[しろ]い",
+        "おもしろい",
         "interesting, amusing"
       ],
       "answer": "おもしろい"
@@ -5698,7 +5846,7 @@ var decks = {
     {
       "question": [
         "先生",
-        "先[せん] 生[せい]",
+        "せんせい",
         "teacher"
       ],
       "answer": "せんせい"
@@ -5714,7 +5862,7 @@ var decks = {
     {
       "question": [
         "名前",
-        "名[な] 前[まえ]",
+        "なまえ",
         "name"
       ],
       "answer": "なまえ"
@@ -5722,7 +5870,7 @@ var decks = {
     {
       "question": [
         "教える",
-        "教[おし]える",
+        "おしえる",
         "teach, tell"
       ],
       "answer": "おしえる"
@@ -5762,15 +5910,17 @@ var decks = {
     {
       "question": [
         "置く",
-        "置[お]く",
+        "おく",
         "put, place"
       ],
       "answer": "おく"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_03": [
     {
       "question": [
         "家",
-        "家[いえ]",
+        "いえ",
         "house, home"
       ],
       "answer": "いえ"
@@ -5778,7 +5928,7 @@ var decks = {
     {
       "question": [
         "帰る",
-        "帰[かえ]る",
+        "かえる",
         "return, go back"
       ],
       "answer": "かえる"
@@ -5786,7 +5936,7 @@ var decks = {
     {
       "question": [
         "話",
-        "話[はなし]",
+        "はなし",
         "talk, story"
       ],
       "answer": "はなし"
@@ -5794,7 +5944,7 @@ var decks = {
     {
       "question": [
         "知る",
-        "知[し]る",
+        "しる",
         "know"
       ],
       "answer": "しる"
@@ -5802,7 +5952,7 @@ var decks = {
     {
       "question": [
         "彼女",
-        "彼[かの] 女[じょ]",
+        "かのじょ",
         "she, her, girlfriend"
       ],
       "answer": "かのじょ"
@@ -5830,13 +5980,11 @@ var decks = {
         "no (polite)"
       ],
       "answer": "いいえ"
-    }
-  ],
-  "#01_kaishi15k_01": [
+    },
     {
       "question": [
         "日本",
-        "日本[にほん]",
+        "にほん",
         "Japan"
       ],
       "answer": "にほん"
@@ -5844,7 +5992,7 @@ var decks = {
     {
       "question": [
         "学校",
-        "学[がっ] 校[こう]",
+        "がっこう",
         "school"
       ],
       "answer": "がっこう"
@@ -5852,7 +6000,7 @@ var decks = {
     {
       "question": [
         "行く",
-        "行[い]く",
+        "いく",
         "go"
       ],
       "answer": "いく"
@@ -5860,7 +6008,7 @@ var decks = {
     {
       "question": [
         "明日",
-        "明日[あした]",
+        "あした",
         "tomorrow"
       ],
       "answer": "あした"
@@ -5868,7 +6016,7 @@ var decks = {
     {
       "question": [
         "来る",
-        "来[く]る",
+        "くる",
         "come"
       ],
       "answer": "くる"
@@ -5892,7 +6040,7 @@ var decks = {
     {
       "question": [
         "思う",
-        "思[おも]う",
+        "おもう",
         "think"
       ],
       "answer": "おもう"
@@ -5924,15 +6072,17 @@ var decks = {
     {
       "question": [
         "会う",
-        "会[あ]う",
+        "あう",
         "meet"
       ],
       "answer": "あう"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_04": [
     {
       "question": [
         "次",
-        "次[つぎ]",
+        "つぎ",
         "next, subsequent"
       ],
       "answer": "つぎ"
@@ -5940,7 +6090,7 @@ var decks = {
     {
       "question": [
         "方",
-        "方[ほう]",
+        "ほう",
         "direction, side"
       ],
       "answer": "ほう"
@@ -5948,7 +6098,7 @@ var decks = {
     {
       "question": [
         "方",
-        "方[かた]",
+        "かた",
         "person (polite form)"
       ],
       "answer": "かた"
@@ -5956,7 +6106,7 @@ var decks = {
     {
       "question": [
         "聞く",
-        "聞[き]く",
+        "きく",
         "hear"
       ],
       "answer": "きく"
@@ -5964,7 +6114,7 @@ var decks = {
     {
       "question": [
         "聞く",
-        "聞[き]く",
+        "きく",
         "ask"
       ],
       "answer": "きく"
@@ -5972,7 +6122,7 @@ var decks = {
     {
       "question": [
         "お願いします",
-        "お 願[ねが]いします",
+        "おねがいします",
         "please"
       ],
       "answer": "おねがいします"
@@ -5980,7 +6130,7 @@ var decks = {
     {
       "question": [
         "分かる",
-        "分[わ]かる",
+        "わかる",
         "understand"
       ],
       "answer": "わかる"
@@ -6004,7 +6154,7 @@ var decks = {
     {
       "question": [
         "考える",
-        "考[かんが]える",
+        "かんがえる",
         "think, consider"
       ],
       "answer": "かんがえる"
@@ -6020,7 +6170,7 @@ var decks = {
     {
       "question": [
         "話す",
-        "話[はな]す",
+        "はなす",
         "talk, speak"
       ],
       "answer": "はなす"
@@ -6044,7 +6194,7 @@ var decks = {
     {
       "question": [
         "言う",
-        "言[い]う",
+        "いう",
         "say"
       ],
       "answer": "いう"
@@ -6052,7 +6202,7 @@ var decks = {
     {
       "question": [
         "友達",
-        "友[とも] 達[だち]",
+        "ともだち",
         "friend, companion"
       ],
       "answer": "ともだち"
@@ -6060,7 +6210,7 @@ var decks = {
     {
       "question": [
         "待つ",
-        "待[ま]つ",
+        "まつ",
         "wait"
       ],
       "answer": "まつ"
@@ -6068,7 +6218,7 @@ var decks = {
     {
       "question": [
         "昨日",
-        "昨日[きのう]",
+        "きのう",
         "yesterday"
       ],
       "answer": "きのう"
@@ -6076,7 +6226,7 @@ var decks = {
     {
       "question": [
         "町",
-        "町[まち]",
+        "まち",
         "town, city"
       ],
       "answer": "まち"
@@ -6084,15 +6234,17 @@ var decks = {
     {
       "question": [
         "高い",
-        "高[たか]い",
+        "たかい",
         "expensive"
       ],
       "answer": "たかい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_05": [
     {
       "question": [
         "高い",
-        "高[たか]い",
+        "たかい",
         "high, tall"
       ],
       "answer": "たかい"
@@ -6100,7 +6252,7 @@ var decks = {
     {
       "question": [
         "一番",
-        "一[いち] 番[ばん]",
+        "いちばん",
         "(the) most"
       ],
       "answer": "いちばん"
@@ -6132,7 +6284,7 @@ var decks = {
     {
       "question": [
         "父",
-        "父[ちち]",
+        "ちち",
         "(speaker's) father"
       ],
       "answer": "ちち"
@@ -6140,7 +6292,7 @@ var decks = {
     {
       "question": [
         "大好き",
-        "大[だい] 好[す]き",
+        "だいすき",
         "love"
       ],
       "answer": "だいすき"
@@ -6148,7 +6300,7 @@ var decks = {
     {
       "question": [
         "母",
-        "母[はは]",
+        "はは",
         "(speaker's) mother"
       ],
       "answer": "はは"
@@ -6180,7 +6332,7 @@ var decks = {
     {
       "question": [
         "物",
-        "物[もの]",
+        "もの",
         "thing, object"
       ],
       "answer": "もの"
@@ -6188,7 +6340,7 @@ var decks = {
     {
       "question": [
         "君",
-        "君[きみ]",
+        "きみ",
         "you (to someone of equal or lower status)"
       ],
       "answer": "きみ"
@@ -6196,7 +6348,7 @@ var decks = {
     {
       "question": [
         "中",
-        "中[なか]",
+        "なか",
         "inside, middle"
       ],
       "answer": "なか"
@@ -6204,7 +6356,7 @@ var decks = {
     {
       "question": [
         "出来る",
-        "出[で] 来[き]る",
+        "できる",
         "can do, be good at"
       ],
       "answer": "できる"
@@ -6212,7 +6364,7 @@ var decks = {
     {
       "question": [
         "本当",
-        "本[ほん] 当[とう]",
+        "ほんとう",
         "truth, reality"
       ],
       "answer": "ほんとう"
@@ -6220,7 +6372,7 @@ var decks = {
     {
       "question": [
         "立つ",
-        "立[た]つ",
+        "たつ",
         "stand, rise"
       ],
       "answer": "たつ"
@@ -6228,17 +6380,15 @@ var decks = {
     {
       "question": [
         "前",
-        "前[まえ]",
+        "まえ",
         "front, before"
       ],
       "answer": "まえ"
-    }
-  ],
-  "#01_kaishi15k_02": [
+    },
     {
       "question": [
         "入る",
-        "入[はい]る",
+        "はいる",
         "enter"
       ],
       "answer": "はいる"
@@ -6246,15 +6396,17 @@ var decks = {
     {
       "question": [
         "家族",
-        "家[か] 族[ぞく]",
+        "かぞく",
         "family"
       ],
       "answer": "かぞく"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_06": [
     {
       "question": [
         "住む",
-        "住[す]む",
+        "すむ",
         "live, reside"
       ],
       "answer": "すむ"
@@ -6262,7 +6414,7 @@ var decks = {
     {
       "question": [
         "大きな",
-        "大[おお]きな",
+        "おおきな",
         "big, large"
       ],
       "answer": "おおきな"
@@ -6270,7 +6422,7 @@ var decks = {
     {
       "question": [
         "大きい",
-        "大[おお]きい",
+        "おおきい",
         "big, large"
       ],
       "answer": "おおきい"
@@ -6278,7 +6430,7 @@ var decks = {
     {
       "question": [
         "声",
-        "声[こえ]",
+        "こえ",
         "voice, sound"
       ],
       "answer": "こえ"
@@ -6286,7 +6438,7 @@ var decks = {
     {
       "question": [
         "目",
-        "目[め]",
+        "め",
         "eye"
       ],
       "answer": "め"
@@ -6294,7 +6446,7 @@ var decks = {
     {
       "question": [
         "手",
-        "手[て]",
+        "て",
         "hand"
       ],
       "answer": "て"
@@ -6302,7 +6454,7 @@ var decks = {
     {
       "question": [
         "上げる",
-        "上[あ]げる",
+        "あげる",
         "raise, increase"
       ],
       "answer": "あげる"
@@ -6310,7 +6462,7 @@ var decks = {
     {
       "question": [
         "嫌い",
-        "嫌[きら]い",
+        "きらい",
         "dislike"
       ],
       "answer": "きらい"
@@ -6334,7 +6486,7 @@ var decks = {
     {
       "question": [
         "元気",
-        "元[げん] 気[き]",
+        "げんき",
         "energetic, healthy"
       ],
       "answer": "げんき"
@@ -6350,7 +6502,7 @@ var decks = {
     {
       "question": [
         "持つ",
-        "持[も]つ",
+        "もつ",
         "have, hold"
       ],
       "answer": "もつ"
@@ -6366,7 +6518,7 @@ var decks = {
     {
       "question": [
         "使う",
-        "使[つか]う",
+        "つかう",
         "use"
       ],
       "answer": "つかう"
@@ -6374,7 +6526,7 @@ var decks = {
     {
       "question": [
         "大丈夫",
-        "大[だい] 丈[じょう] 夫[ぶ]",
+        "だいじょうぶ",
         "alright, OK"
       ],
       "answer": "だいじょうぶ"
@@ -6382,7 +6534,7 @@ var decks = {
     {
       "question": [
         "始める",
-        "始[はじ]める",
+        "はじめる",
         "start"
       ],
       "answer": "はじめる"
@@ -6390,7 +6542,7 @@ var decks = {
     {
       "question": [
         "今日",
-        "今日[きょう]",
+        "きょう",
         "today"
       ],
       "answer": "きょう"
@@ -6398,7 +6550,7 @@ var decks = {
     {
       "question": [
         "部屋",
-        "部屋[へや]",
+        "へや",
         "room"
       ],
       "answer": "へや"
@@ -6406,11 +6558,13 @@ var decks = {
     {
       "question": [
         "悪い",
-        "悪[わる]い",
+        "わるい",
         "bad"
       ],
       "answer": "わるい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_07": [
     {
       "question": [
         "まあ",
@@ -6422,7 +6576,7 @@ var decks = {
     {
       "question": [
         "食べる",
-        "食[た]べる",
+        "たべる",
         "eat"
       ],
       "answer": "たべる"
@@ -6430,7 +6584,7 @@ var decks = {
     {
       "question": [
         "沢山",
-        "沢[たく] 山[さん]",
+        "たくさん",
         "a lot, plenty"
       ],
       "answer": "たくさん"
@@ -6438,7 +6592,7 @@ var decks = {
     {
       "question": [
         "場所",
-        "場[ば] 所[しょ]",
+        "ばしょ",
         "place, location"
       ],
       "answer": "ばしょ"
@@ -6446,7 +6600,7 @@ var decks = {
     {
       "question": [
         "呼ぶ",
-        "呼[よ]ぶ",
+        "よぶ",
         "call, name"
       ],
       "answer": "よぶ"
@@ -6454,7 +6608,7 @@ var decks = {
     {
       "question": [
         "動く",
-        "動[うご]く",
+        "うごく",
         "move"
       ],
       "answer": "うごく"
@@ -6462,7 +6616,7 @@ var decks = {
     {
       "question": [
         "気持ち",
-        "気[き] 持[も]ち",
+        "きもち",
         "feeling, sensation"
       ],
       "answer": "きもち"
@@ -6470,7 +6624,7 @@ var decks = {
     {
       "question": [
         "誰",
-        "誰[だれ]",
+        "だれ",
         "who"
       ],
       "answer": "だれ"
@@ -6478,7 +6632,7 @@ var decks = {
     {
       "question": [
         "子",
-        "子[こ]",
+        "こ",
         "child, kid"
       ],
       "answer": "こ"
@@ -6494,7 +6648,7 @@ var decks = {
     {
       "question": [
         "意味",
-        "意[い] 味[み]",
+        "いみ",
         "meaning, significance"
       ],
       "answer": "いみ"
@@ -6502,7 +6656,7 @@ var decks = {
     {
       "question": [
         "言葉",
-        "言[こと] 葉[ば]",
+        "ことば",
         "word, language"
       ],
       "answer": "ことば"
@@ -6510,7 +6664,7 @@ var decks = {
     {
       "question": [
         "心配",
-        "心[しん] 配[ぱい]",
+        "しんぱい",
         "worry"
       ],
       "answer": "しんぱい"
@@ -6518,7 +6672,7 @@ var decks = {
     {
       "question": [
         "様子",
-        "様[よう] 子[す]",
+        "ようす",
         "appearance, state"
       ],
       "answer": "ようす"
@@ -6526,7 +6680,7 @@ var decks = {
     {
       "question": [
         "信じる",
-        "信[しん]じる",
+        "しんじる",
         "believe, trust"
       ],
       "answer": "しんじる"
@@ -6534,7 +6688,7 @@ var decks = {
     {
       "question": [
         "自分",
-        "自[じ] 分[ぶん]",
+        "じぶん",
         "self, oneself"
       ],
       "answer": "じぶん"
@@ -6542,7 +6696,7 @@ var decks = {
     {
       "question": [
         "調べる",
-        "調[しら]べる",
+        "しらべる",
         "look up, search"
       ],
       "answer": "しらべる"
@@ -6550,7 +6704,7 @@ var decks = {
     {
       "question": [
         "事",
-        "事[こと]",
+        "こと",
         "thing, incident"
       ],
       "answer": "こと"
@@ -6558,7 +6712,7 @@ var decks = {
     {
       "question": [
         "同じ",
-        "同[おな]じ",
+        "おなじ",
         "same, identical"
       ],
       "answer": "おなじ"
@@ -6566,11 +6720,13 @@ var decks = {
     {
       "question": [
         "申し訳ない",
-        "申[もう]し 訳[わけ]ない",
+        "もうしわけない",
         "sorry, inexcusable"
       ],
       "answer": "もうしわけない"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_08": [
     {
       "question": [
         "もちろん",
@@ -6590,7 +6746,7 @@ var decks = {
     {
       "question": [
         "楽しい",
-        "楽[たの]しい",
+        "たのしい",
         "fun, enjoyable"
       ],
       "answer": "たのしい"
@@ -6598,7 +6754,7 @@ var decks = {
     {
       "question": [
         "失礼します",
-        "失[しつ] 礼[れい]します",
+        "しつれいします",
         "pardon me, excuse me (e.g. when leaving)"
       ],
       "answer": "しつれいします"
@@ -6606,7 +6762,7 @@ var decks = {
     {
       "question": [
         "手伝う",
-        "手[て] 伝[つだ]う",
+        "てつだう",
         "help"
       ],
       "answer": "てつだう"
@@ -6614,7 +6770,7 @@ var decks = {
     {
       "question": [
         "忙しい",
-        "忙[いそが]しい",
+        "いそがしい",
         "busy, occupied"
       ],
       "answer": "いそがしい"
@@ -6622,7 +6778,7 @@ var decks = {
     {
       "question": [
         "仕事",
-        "仕[し] 事[ごと]",
+        "しごと",
         "work, job"
       ],
       "answer": "しごと"
@@ -6630,17 +6786,15 @@ var decks = {
     {
       "question": [
         "続ける",
-        "続[つづ]ける",
+        "つづける",
         "continue, keep up"
       ],
       "answer": "つづける"
-    }
-  ],
-  "#01_kaishi15k_03": [
+    },
     {
       "question": [
         "見せる",
-        "見[み]せる",
+        "みせる",
         "show"
       ],
       "answer": "みせる"
@@ -6656,7 +6810,7 @@ var decks = {
     {
       "question": [
         "約束",
-        "約[やく] 束[そく]",
+        "やくそく",
         "promise, appointment"
       ],
       "answer": "やくそく"
@@ -6664,7 +6818,7 @@ var decks = {
     {
       "question": [
         "忘れる",
-        "忘[わす]れる",
+        "わすれる",
         "forget"
       ],
       "answer": "わすれる"
@@ -6672,7 +6826,7 @@ var decks = {
     {
       "question": [
         "守る",
-        "守[まも]る",
+        "まもる",
         "protect, observe"
       ],
       "answer": "まもる"
@@ -6680,7 +6834,7 @@ var decks = {
     {
       "question": [
         "変える",
-        "変[か]える",
+        "かえる",
         "change, alter"
       ],
       "answer": "かえる"
@@ -6696,7 +6850,7 @@ var decks = {
     {
       "question": [
         "今度",
-        "今[こん] 度[ど]",
+        "こんど",
         "next time"
       ],
       "answer": "こんど"
@@ -6712,7 +6866,7 @@ var decks = {
     {
       "question": [
         "止める",
-        "止[と]める",
+        "とめる",
         "stop (at some place)"
       ],
       "answer": "とめる"
@@ -6720,7 +6874,7 @@ var decks = {
     {
       "question": [
         "止める",
-        "止[や]める",
+        "やめる",
         "stop (doing something)"
       ],
       "answer": "やめる"
@@ -6728,15 +6882,17 @@ var decks = {
     {
       "question": [
         "頼む",
-        "頼[たの]む",
+        "たのむ",
         "ask, request"
       ],
       "answer": "たのむ"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_09": [
     {
       "question": [
         "許す",
-        "許[ゆる]す",
+        "ゆるす",
         "forgive, permit"
       ],
       "answer": "ゆるす"
@@ -6744,7 +6900,7 @@ var decks = {
     {
       "question": [
         "嬉しい",
-        "嬉[うれ]しい",
+        "うれしい",
         "happy, glad"
       ],
       "answer": "うれしい"
@@ -6752,7 +6908,7 @@ var decks = {
     {
       "question": [
         "頑張る",
-        "頑[がん] 張[ば]る",
+        "がんばる",
         "persevere, do one's best"
       ],
       "answer": "がんばる"
@@ -6776,7 +6932,7 @@ var decks = {
     {
       "question": [
         "国",
-        "国[くに]",
+        "くに",
         "country"
       ],
       "answer": "くに"
@@ -6784,7 +6940,7 @@ var decks = {
     {
       "question": [
         "優しい",
-        "優[やさ]しい",
+        "やさしい",
         "gentle, kind"
       ],
       "answer": "やさしい"
@@ -6792,7 +6948,7 @@ var decks = {
     {
       "question": [
         "嫌",
-        "嫌[いや]",
+        "いや",
         "disliking, unwilling (to do)"
       ],
       "answer": "いや"
@@ -6808,7 +6964,7 @@ var decks = {
     {
       "question": [
         "今回",
-        "今[こん] 回[かい]",
+        "こんかい",
         "this time"
       ],
       "answer": "こんかい"
@@ -6816,7 +6972,7 @@ var decks = {
     {
       "question": [
         "夜",
-        "夜[よる]",
+        "よる",
         "evening, night"
       ],
       "answer": "よる"
@@ -6824,7 +6980,7 @@ var decks = {
     {
       "question": [
         "買う",
-        "買[か]う",
+        "かう",
         "buy"
       ],
       "answer": "かう"
@@ -6832,7 +6988,7 @@ var decks = {
     {
       "question": [
         "今まで",
-        "今[いま]まで",
+        "いままで",
         "until now"
       ],
       "answer": "いままで"
@@ -6840,7 +6996,7 @@ var decks = {
     {
       "question": [
         "奴",
-        "奴[やつ]",
+        "やつ",
         "that guy, (s)he (usu. derogatory)"
       ],
       "answer": "やつ"
@@ -6864,7 +7020,7 @@ var decks = {
     {
       "question": [
         "理解",
-        "理[り] 解[かい]",
+        "りかい",
         "understanding, comprehension"
       ],
       "answer": "りかい"
@@ -6872,7 +7028,7 @@ var decks = {
     {
       "question": [
         "夢",
-        "夢[ゆめ]",
+        "ゆめ",
         "dream"
       ],
       "answer": "ゆめ"
@@ -6880,7 +7036,7 @@ var decks = {
     {
       "question": [
         "俺",
-        "俺[おれ]",
+        "おれ",
         "I (male)"
       ],
       "answer": "おれ"
@@ -6888,15 +7044,17 @@ var decks = {
     {
       "question": [
         "難しい",
-        "難[むずか]しい",
+        "むずかしい",
         "difficult"
       ],
       "answer": "むずかしい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_10": [
     {
       "question": [
         "今度",
-        "今[こん] 度[ど]",
+        "こんど",
         "this time"
       ],
       "answer": "こんど"
@@ -6912,7 +7070,7 @@ var decks = {
     {
       "question": [
         "男の子",
-        "男[おとこ]の 子[こ]",
+        "おとこのこ",
         "boy"
       ],
       "answer": "おとこのこ"
@@ -6920,7 +7078,7 @@ var decks = {
     {
       "question": [
         "女の子",
-        "女[おんな]の 子[こ]",
+        "おんなのこ",
         "girl"
       ],
       "answer": "おんなのこ"
@@ -6928,7 +7086,7 @@ var decks = {
     {
       "question": [
         "寝る",
-        "寝[ね]る",
+        "ねる",
         "sleep"
       ],
       "answer": "ねる"
@@ -6936,7 +7094,7 @@ var decks = {
     {
       "question": [
         "伝える",
-        "伝[つた]える",
+        "つたえる",
         "convey, transmit"
       ],
       "answer": "つたえる"
@@ -6944,7 +7102,7 @@ var decks = {
     {
       "question": [
         "小さい",
-        "小[ちい]さい",
+        "ちいさい",
         "small"
       ],
       "answer": "ちいさい"
@@ -6952,7 +7110,7 @@ var decks = {
     {
       "question": [
         "選ぶ",
-        "選[えら]ぶ",
+        "えらぶ",
         "choose, elect"
       ],
       "answer": "えらぶ"
@@ -6960,7 +7118,7 @@ var decks = {
     {
       "question": [
         "座る",
-        "座[すわ]る",
+        "すわる",
         "sit"
       ],
       "answer": "すわる"
@@ -6968,7 +7126,7 @@ var decks = {
     {
       "question": [
         "簡単",
-        "簡[かん] 単[たん]",
+        "かんたん",
         "simple, easy"
       ],
       "answer": "かんたん"
@@ -6976,7 +7134,7 @@ var decks = {
     {
       "question": [
         "お願い",
-        "お 願[ねが]い",
+        "おねがい",
         "favor"
       ],
       "answer": "おねがい"
@@ -6984,7 +7142,7 @@ var decks = {
     {
       "question": [
         "進む",
-        "進[すす]む",
+        "すすむ",
         "move forward"
       ],
       "answer": "すすむ"
@@ -6992,7 +7150,7 @@ var decks = {
     {
       "question": [
         "全く",
-        "全[まった]く",
+        "まったく",
         "entirely, truly"
       ],
       "answer": "まったく"
@@ -7008,7 +7166,7 @@ var decks = {
     {
       "question": [
         "僕",
-        "僕[ぼく]",
+        "ぼく",
         "I (male)"
       ],
       "answer": "ぼく"
@@ -7016,7 +7174,7 @@ var decks = {
     {
       "question": [
         "水",
-        "水[みず]",
+        "みず",
         "water"
       ],
       "answer": "みず"
@@ -7024,7 +7182,7 @@ var decks = {
     {
       "question": [
         "飲む",
-        "飲[の]む",
+        "のむ",
         "drink"
       ],
       "answer": "のむ"
@@ -7032,17 +7190,15 @@ var decks = {
     {
       "question": [
         "暇",
-        "暇[ひま]",
+        "ひま",
         "free, not busy"
       ],
       "answer": "ひま"
-    }
-  ],
-  "#01_kaishi15k_04": [
+    },
     {
       "question": [
         "時",
-        "時[とき]",
+        "とき",
         "time, occasion"
       ],
       "answer": "とき"
@@ -7050,15 +7206,17 @@ var decks = {
     {
       "question": [
         "時",
-        "時[じ]",
+        "じ",
         "hour, o'clock"
       ],
       "answer": "じ"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_11": [
     {
       "question": [
         "一",
-        "一[いち]",
+        "いち",
         "one"
       ],
       "answer": "いち"
@@ -7066,7 +7224,7 @@ var decks = {
     {
       "question": [
         "二",
-        "二[に]",
+        "に",
         "two"
       ],
       "answer": "に"
@@ -7074,7 +7232,7 @@ var decks = {
     {
       "question": [
         "三",
-        "三[さん]",
+        "さん",
         "three"
       ],
       "answer": "さん"
@@ -7082,15 +7240,15 @@ var decks = {
     {
       "question": [
         "四",
-        "四[よん]",
+        "よん・し",
         "four"
       ],
-      "answer": "よん"
+      "answer": "よん・し"
     },
     {
       "question": [
         "五",
-        "五[ご]",
+        "ご",
         "five"
       ],
       "answer": "ご"
@@ -7098,7 +7256,7 @@ var decks = {
     {
       "question": [
         "六",
-        "六[ろく]",
+        "ろく",
         "six"
       ],
       "answer": "ろく"
@@ -7106,15 +7264,15 @@ var decks = {
     {
       "question": [
         "七",
-        "七[なな]",
+        "なな・しち",
         "seven"
       ],
-      "answer": "なな"
+      "answer": "なな・しち"
     },
     {
       "question": [
         "八",
-        "八[はち]",
+        "はち",
         "eight"
       ],
       "answer": "はち"
@@ -7122,7 +7280,7 @@ var decks = {
     {
       "question": [
         "九",
-        "九[きゅう]",
+        "きゅう",
         "nine"
       ],
       "answer": "きゅう"
@@ -7130,7 +7288,7 @@ var decks = {
     {
       "question": [
         "十",
-        "十[じゅう]",
+        "じゅう",
         "ten"
       ],
       "answer": "じゅう"
@@ -7162,7 +7320,7 @@ var decks = {
     {
       "question": [
         "顔",
-        "顔[かお]",
+        "かお",
         "face"
       ],
       "answer": "かお"
@@ -7170,7 +7328,7 @@ var decks = {
     {
       "question": [
         "今朝",
-        "今朝[けさ]",
+        "けさ",
         "this morning"
       ],
       "answer": "けさ"
@@ -7178,7 +7336,7 @@ var decks = {
     {
       "question": [
         "出る",
-        "出[で]る",
+        "でる",
         "go out, leave"
       ],
       "answer": "でる"
@@ -7214,11 +7372,13 @@ var decks = {
         "sake, purpose"
       ],
       "answer": "ため"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_12": [
     {
       "question": [
         "ご飯",
-        "ご 飯[はん]",
+        "ごはん",
         "cooked rice, meal"
       ],
       "answer": "ごはん"
@@ -7234,7 +7394,7 @@ var decks = {
     {
       "question": [
         "少し",
-        "少[すこ]し",
+        "すこし",
         "a bit, a little while"
       ],
       "answer": "すこし"
@@ -7242,7 +7402,7 @@ var decks = {
     {
       "question": [
         "見える",
-        "見[み]える",
+        "みえる",
         "be visible"
       ],
       "answer": "みえる"
@@ -7250,7 +7410,7 @@ var decks = {
     {
       "question": [
         "違う",
-        "違[ちが]う",
+        "ちがう",
         "differ, be wrong"
       ],
       "answer": "ちがう"
@@ -7258,7 +7418,7 @@ var decks = {
     {
       "question": [
         "男",
-        "男[おとこ]",
+        "おとこ",
         "man, male"
       ],
       "answer": "おとこ"
@@ -7282,7 +7442,7 @@ var decks = {
     {
       "question": [
         "人間",
-        "人[にん] 間[げん]",
+        "にんげん",
         "human being, people"
       ],
       "answer": "にんげん"
@@ -7290,7 +7450,7 @@ var decks = {
     {
       "question": [
         "作る",
-        "作[つく]る",
+        "つくる",
         "make, create"
       ],
       "answer": "つくる"
@@ -7298,7 +7458,7 @@ var decks = {
     {
       "question": [
         "感じる",
-        "感[かん]じる",
+        "かんじる",
         "feel, sense"
       ],
       "answer": "かんじる"
@@ -7306,7 +7466,7 @@ var decks = {
     {
       "question": [
         "上",
-        "上[うえ]",
+        "うえ",
         "up, above"
       ],
       "answer": "うえ"
@@ -7314,7 +7474,7 @@ var decks = {
     {
       "question": [
         "強い",
-        "強[つよ]い",
+        "つよい",
         "strong"
       ],
       "answer": "つよい"
@@ -7322,7 +7482,7 @@ var decks = {
     {
       "question": [
         "出す",
-        "出[だ]す",
+        "だす",
         "take out"
       ],
       "answer": "だす"
@@ -7330,7 +7490,7 @@ var decks = {
     {
       "question": [
         "笑う",
-        "笑[わら]う",
+        "わらう",
         "laugh, smile"
       ],
       "answer": "わらう"
@@ -7338,7 +7498,7 @@ var decks = {
     {
       "question": [
         "毎月",
-        "毎[まい] 月[つき]",
+        "まいつき",
         "every month"
       ],
       "answer": "まいつき"
@@ -7346,7 +7506,7 @@ var decks = {
     {
       "question": [
         "毎年",
-        "毎[まい] 年[とし]",
+        "まいとし",
         "every year"
       ],
       "answer": "まいとし"
@@ -7354,7 +7514,7 @@ var decks = {
     {
       "question": [
         "多く",
-        "多[おお]く",
+        "おおく",
         "many, much"
       ],
       "answer": "おおく"
@@ -7370,15 +7530,17 @@ var decks = {
     {
       "question": [
         "姉",
-        "姉[あね]",
+        "あね",
         "older sister"
       ],
       "answer": "あね"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_13": [
     {
       "question": [
         "弟",
-        "弟[おとうと]",
+        "おとうと",
         "younger brother"
       ],
       "answer": "おとうと"
@@ -7386,7 +7548,7 @@ var decks = {
     {
       "question": [
         "妹",
-        "妹[いもうと]",
+        "いもうと",
         "younger sister"
       ],
       "answer": "いもうと"
@@ -7394,7 +7556,7 @@ var decks = {
     {
       "question": [
         "力",
-        "力[ちから]",
+        "ちから",
         "strength, power"
       ],
       "answer": "ちから"
@@ -7402,7 +7564,7 @@ var decks = {
     {
       "question": [
         "世界",
-        "世[せ] 界[かい]",
+        "せかい",
         "world"
       ],
       "answer": "せかい"
@@ -7410,7 +7572,7 @@ var decks = {
     {
       "question": [
         "相手",
-        "相[あい] 手[て]",
+        "あいて",
         "partner, opponent"
       ],
       "answer": "あいて"
@@ -7418,7 +7580,7 @@ var decks = {
     {
       "question": [
         "姿",
-        "姿[すがた]",
+        "すがた",
         "figure, appearance"
       ],
       "answer": "すがた"
@@ -7426,7 +7588,7 @@ var decks = {
     {
       "question": [
         "死ぬ",
-        "死[し]ぬ",
+        "しぬ",
         "die"
       ],
       "answer": "しぬ"
@@ -7434,17 +7596,15 @@ var decks = {
     {
       "question": [
         "早い",
-        "早[はや]い",
+        "はやい",
         "early"
       ],
       "answer": "はやい"
-    }
-  ],
-  "#01_kaishi15k_05": [
+    },
     {
       "question": [
         "早い",
-        "早[はや]い",
+        "はやい",
         "fast (in terms of time)"
       ],
       "answer": "はやい"
@@ -7452,7 +7612,7 @@ var decks = {
     {
       "question": [
         "頭",
-        "頭[あたま]",
+        "あたま",
         "head"
       ],
       "answer": "あたま"
@@ -7460,7 +7620,7 @@ var decks = {
     {
       "question": [
         "戻る",
-        "戻[もど]る",
+        "もどる",
         "return, go back"
       ],
       "answer": "もどる"
@@ -7500,7 +7660,7 @@ var decks = {
     {
       "question": [
         "必要",
-        "必[ひつ] 要[よう]",
+        "ひつよう",
         "necessary, needed"
       ],
       "answer": "ひつよう"
@@ -7508,7 +7668,7 @@ var decks = {
     {
       "question": [
         "終わる",
-        "終[お]わる",
+        "おわる",
         "finish, end"
       ],
       "answer": "おわる"
@@ -7516,7 +7676,7 @@ var decks = {
     {
       "question": [
         "者",
-        "者[もの]",
+        "もの",
         "person"
       ],
       "answer": "もの"
@@ -7524,7 +7684,7 @@ var decks = {
     {
       "question": [
         "後",
-        "後[あと]",
+        "あと",
         "after"
       ],
       "answer": "あと"
@@ -7536,11 +7696,13 @@ var decks = {
         "here, this way"
       ],
       "answer": "こちら"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_14": [
     {
       "question": [
         "向かう",
-        "向[む]かう",
+        "むかう",
         "face, head toward"
       ],
       "answer": "むかう"
@@ -7556,7 +7718,7 @@ var decks = {
     {
       "question": [
         "変わる",
-        "変[か]わる",
+        "かわる",
         "change"
       ],
       "answer": "かわる"
@@ -7564,7 +7726,7 @@ var decks = {
     {
       "question": [
         "凄い",
-        "凄[すご]い",
+        "すごい",
         "wonderful, great, a lot"
       ],
       "answer": "すごい"
@@ -7572,7 +7734,7 @@ var decks = {
     {
       "question": [
         "女",
-        "女[おんな]",
+        "おんな",
         "woman, girl"
       ],
       "answer": "おんな"
@@ -7588,7 +7750,7 @@ var decks = {
     {
       "question": [
         "音",
-        "音[おと]",
+        "おと",
         "sound"
       ],
       "answer": "おと"
@@ -7596,7 +7758,7 @@ var decks = {
     {
       "question": [
         "体",
-        "体[からだ]",
+        "からだ",
         "body"
       ],
       "answer": "からだ"
@@ -7604,7 +7766,7 @@ var decks = {
     {
       "question": [
         "掛ける",
-        "掛[か]ける",
+        "かける",
         "hang, put on"
       ],
       "answer": "かける"
@@ -7612,7 +7774,7 @@ var decks = {
     {
       "question": [
         "歩く",
-        "歩[ある]く",
+        "あるく",
         "walk, go on foot"
       ],
       "answer": "あるく"
@@ -7620,7 +7782,7 @@ var decks = {
     {
       "question": [
         "存在",
-        "存[そん] 在[ざい]",
+        "そんざい",
         "existence, being"
       ],
       "answer": "そんざい"
@@ -7628,7 +7790,7 @@ var decks = {
     {
       "question": [
         "過ぎる",
-        "過[す]ぎる",
+        "すぎる",
         "exceed, pass by"
       ],
       "answer": "すぎる"
@@ -7636,7 +7798,7 @@ var decks = {
     {
       "question": [
         "聞こえる",
-        "聞[き]こえる",
+        "きこえる",
         "can hear"
       ],
       "answer": "きこえる"
@@ -7644,7 +7806,7 @@ var decks = {
     {
       "question": [
         "受ける",
-        "受[う]ける",
+        "うける",
         "receive, accept"
       ],
       "answer": "うける"
@@ -7652,7 +7814,7 @@ var decks = {
     {
       "question": [
         "今年",
-        "今年[ことし]",
+        "ことし",
         "this year"
       ],
       "answer": "ことし"
@@ -7660,7 +7822,7 @@ var decks = {
     {
       "question": [
         "去年",
-        "去[きょ] 年[ねん]",
+        "きょねん",
         "last year (colloquial)"
       ],
       "answer": "きょねん"
@@ -7668,7 +7830,7 @@ var decks = {
     {
       "question": [
         "来年",
-        "来[らい] 年[ねん]",
+        "らいねん",
         "next year"
       ],
       "answer": "らいねん"
@@ -7676,7 +7838,7 @@ var decks = {
     {
       "question": [
         "殺す",
-        "殺[ころ]す",
+        "ころす",
         "kill"
       ],
       "answer": "ころす"
@@ -7692,15 +7854,17 @@ var decks = {
     {
       "question": [
         "絶対",
-        "絶[ぜっ] 対[たい]",
+        "ぜったい",
         "absolutely"
       ],
       "answer": "ぜったい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_15": [
     {
       "question": [
         "理由",
-        "理[り] 由[ゆう]",
+        "りゆう",
         "reason, cause"
       ],
       "answer": "りゆう"
@@ -7708,7 +7872,7 @@ var decks = {
     {
       "question": [
         "口",
-        "口[くち]",
+        "くち",
         "mouth"
       ],
       "answer": "くち"
@@ -7716,7 +7880,7 @@ var decks = {
     {
       "question": [
         "外",
-        "外[そと]",
+        "そと",
         "outside"
       ],
       "answer": "そと"
@@ -7724,7 +7888,7 @@ var decks = {
     {
       "question": [
         "逃げる",
-        "逃[に]げる",
+        "にげる",
         "escape, run away"
       ],
       "answer": "にげる"
@@ -7732,7 +7896,7 @@ var decks = {
     {
       "question": [
         "誰か",
-        "誰[だれ]か",
+        "だれか",
         "someone"
       ],
       "answer": "だれか"
@@ -7748,7 +7912,7 @@ var decks = {
     {
       "question": [
         "他",
-        "他[ほか]",
+        "ほか",
         "another, somewhere else"
       ],
       "answer": "ほか"
@@ -7756,7 +7920,7 @@ var decks = {
     {
       "question": [
         "他",
-        "他[た]",
+        "た",
         "other (esp. people and abstract matters)"
       ],
       "answer": "た"
@@ -7764,7 +7928,7 @@ var decks = {
     {
       "question": [
         "問題",
-        "問[もん] 題[だい]",
+        "もんだい",
         "problem, question"
       ],
       "answer": "もんだい"
@@ -7772,7 +7936,7 @@ var decks = {
     {
       "question": [
         "今後",
-        "今[こん] 後[ご]",
+        "こんご",
         "after this, in the future"
       ],
       "answer": "こんご"
@@ -7780,7 +7944,7 @@ var decks = {
     {
       "question": [
         "普通",
-        "普[ふ] 通[つう]",
+        "ふつう",
         "normal, regular, average"
       ],
       "answer": "ふつう"
@@ -7788,7 +7952,7 @@ var decks = {
     {
       "question": [
         "心",
-        "心[こころ]",
+        "こころ",
         "heart, mind"
       ],
       "answer": "こころ"
@@ -7796,7 +7960,7 @@ var decks = {
     {
       "question": [
         "春",
-        "春[はる]",
+        "はる",
         "spring"
       ],
       "answer": "はる"
@@ -7804,7 +7968,7 @@ var decks = {
     {
       "question": [
         "夏",
-        "夏[なつ]",
+        "なつ",
         "summer"
       ],
       "answer": "なつ"
@@ -7812,7 +7976,7 @@ var decks = {
     {
       "question": [
         "秋",
-        "秋[あき]",
+        "あき",
         "fall"
       ],
       "answer": "あき"
@@ -7820,7 +7984,7 @@ var decks = {
     {
       "question": [
         "冬",
-        "冬[ふゆ]",
+        "ふゆ",
         "winter"
       ],
       "answer": "ふゆ"
@@ -7828,7 +7992,7 @@ var decks = {
     {
       "question": [
         "以上",
-        "以[い] 上[じょう]",
+        "いじょう",
         "... or more, beyond"
       ],
       "answer": "いじょう"
@@ -7840,13 +8004,11 @@ var decks = {
         "then, so"
       ],
       "answer": "それで"
-    }
-  ],
-  "#01_kaishi15k_06": [
+    },
     {
       "question": [
         "生きる",
-        "生[い]きる",
+        "いきる",
         "live, exist"
       ],
       "answer": "いきる"
@@ -7854,15 +8016,17 @@ var decks = {
     {
       "question": [
         "最初",
-        "最[さい] 初[しょ]",
+        "さいしょ",
         "first, beginning"
       ],
       "answer": "さいしょ"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_16": [
     {
       "question": [
         "最後",
-        "最[さい] 後[ご]",
+        "さいご",
         "last, final"
       ],
       "answer": "さいご"
@@ -7870,7 +8034,7 @@ var decks = {
     {
       "question": [
         "日",
-        "日[ひ]",
+        "ひ",
         "day"
       ],
       "answer": "ひ"
@@ -7878,7 +8042,7 @@ var decks = {
     {
       "question": [
         "間",
-        "間[あいだ]",
+        "あいだ",
         "interval"
       ],
       "answer": "あいだ"
@@ -7886,7 +8050,7 @@ var decks = {
     {
       "question": [
         "間",
-        "間[ま]",
+        "ま",
         "interval, duration of time"
       ],
       "answer": "ま"
@@ -7902,7 +8066,7 @@ var decks = {
     {
       "question": [
         "左",
-        "左[ひだり]",
+        "ひだり",
         "left"
       ],
       "answer": "ひだり"
@@ -7910,7 +8074,7 @@ var decks = {
     {
       "question": [
         "右",
-        "右[みぎ]",
+        "みぎ",
         "right"
       ],
       "answer": "みぎ"
@@ -7918,7 +8082,7 @@ var decks = {
     {
       "question": [
         "感じ",
-        "感[かん]じ",
+        "かんじ",
         "feeling, impression"
       ],
       "answer": "かんじ"
@@ -7926,7 +8090,7 @@ var decks = {
     {
       "question": [
         "胸",
-        "胸[むね]",
+        "むね",
         "chest"
       ],
       "answer": "むね"
@@ -7934,7 +8098,7 @@ var decks = {
     {
       "question": [
         "表情",
-        "表[ひょう] 情[じょう]",
+        "ひょうじょう",
         "expression, look"
       ],
       "answer": "ひょうじょう"
@@ -7942,7 +8106,7 @@ var decks = {
     {
       "question": [
         "多い",
-        "多[おお]い",
+        "おおい",
         "a lot"
       ],
       "answer": "おおい"
@@ -7950,7 +8114,7 @@ var decks = {
     {
       "question": [
         "初めて",
-        "初[はじ]めて",
+        "はじめて",
         "for the first time"
       ],
       "answer": "はじめて"
@@ -7958,7 +8122,7 @@ var decks = {
     {
       "question": [
         "無理",
-        "無[む] 理[り]",
+        "むり",
         "unreasonable, impossible"
       ],
       "answer": "むり"
@@ -7966,7 +8130,7 @@ var decks = {
     {
       "question": [
         "欲しい",
-        "欲[ほ]しい",
+        "ほしい",
         "wanting, wishing for"
       ],
       "answer": "ほしい"
@@ -7982,7 +8146,7 @@ var decks = {
     {
       "question": [
         "覚える",
-        "覚[おぼ]える",
+        "おぼえる",
         "memorize"
       ],
       "answer": "おぼえる"
@@ -7990,7 +8154,7 @@ var decks = {
     {
       "question": [
         "別に",
-        "別[べつ]に",
+        "べつに",
         "(not) particularly"
       ],
       "answer": "べつに"
@@ -7998,7 +8162,7 @@ var decks = {
     {
       "question": [
         "思い出す",
-        "思[おも]い 出[だ]す",
+        "おもいだす",
         "recollect, recall"
       ],
       "answer": "おもいだす"
@@ -8006,7 +8170,7 @@ var decks = {
     {
       "question": [
         "入れる",
-        "入[い]れる",
+        "いれる",
         "put in"
       ],
       "answer": "いれる"
@@ -8014,15 +8178,17 @@ var decks = {
     {
       "question": [
         "開く",
-        "開[あ]く",
+        "あく",
         "open"
       ],
       "answer": "あく"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_17": [
     {
       "question": [
         "開く",
-        "開[ひら]く",
+        "ひらく",
         "open"
       ],
       "answer": "ひらく"
@@ -8030,7 +8196,7 @@ var decks = {
     {
       "question": [
         "残る",
-        "残[のこ]る",
+        "のこる",
         "remain, be left over"
       ],
       "answer": "のこる"
@@ -8038,7 +8204,7 @@ var decks = {
     {
       "question": [
         "答える",
-        "答[こた]える",
+        "こたえる",
         "answer"
       ],
       "answer": "こたえる"
@@ -8046,7 +8212,7 @@ var decks = {
     {
       "question": [
         "怖い",
-        "怖[こわ]い",
+        "こわい",
         "fearful, be afraid"
       ],
       "answer": "こわい"
@@ -8054,7 +8220,7 @@ var decks = {
     {
       "question": [
         "年",
-        "年[ねん]",
+        "ねん",
         "counter for years"
       ],
       "answer": "ねん"
@@ -8062,7 +8228,7 @@ var decks = {
     {
       "question": [
         "年",
-        "年[とし]",
+        "とし",
         "year"
       ],
       "answer": "とし"
@@ -8070,7 +8236,7 @@ var decks = {
     {
       "question": [
         "取る",
-        "取[と]る",
+        "とる",
         "take, get"
       ],
       "answer": "とる"
@@ -8078,7 +8244,7 @@ var decks = {
     {
       "question": [
         "全て",
-        "全[すべ]て",
+        "すべて",
         "all, entirely"
       ],
       "answer": "すべて"
@@ -8086,7 +8252,7 @@ var decks = {
     {
       "question": [
         "助ける",
-        "助[たす]ける",
+        "たすける",
         "help, save"
       ],
       "answer": "たすける"
@@ -8094,7 +8260,7 @@ var decks = {
     {
       "question": [
         "状況",
-        "状[じょう] 況[きょう]",
+        "じょうきょう",
         "state of affairs, conditions"
       ],
       "answer": "じょうきょう"
@@ -8102,7 +8268,7 @@ var decks = {
     {
       "question": [
         "確認",
-        "確[かく] 認[にん]",
+        "かくにん",
         "confirmation"
       ],
       "answer": "かくにん"
@@ -8110,7 +8276,7 @@ var decks = {
     {
       "question": [
         "消える",
-        "消[き]える",
+        "きえる",
         "turn off, disappear"
       ],
       "answer": "きえる"
@@ -8118,7 +8284,7 @@ var decks = {
     {
       "question": [
         "長い",
-        "長[なが]い",
+        "ながい",
         "long"
       ],
       "answer": "ながい"
@@ -8126,7 +8292,7 @@ var decks = {
     {
       "question": [
         "驚く",
-        "驚[おどろ]く",
+        "おどろく",
         "be surprised, be astonished"
       ],
       "answer": "おどろく"
@@ -8134,7 +8300,7 @@ var decks = {
     {
       "question": [
         "腕",
-        "腕[うで]",
+        "うで",
         "arm"
       ],
       "answer": "うで"
@@ -8142,7 +8308,7 @@ var decks = {
     {
       "question": [
         "以外",
-        "以[い] 外[がい]",
+        "いがい",
         "except for"
       ],
       "answer": "いがい"
@@ -8150,7 +8316,7 @@ var decks = {
     {
       "question": [
         "困る",
-        "困[こま]る",
+        "こまる",
         "be at a loss, be in trouble"
       ],
       "answer": "こまる"
@@ -8158,7 +8324,7 @@ var decks = {
     {
       "question": [
         "離れる",
-        "離[はな]れる",
+        "はなれる",
         "be separated, be apart"
       ],
       "answer": "はなれる"
@@ -8166,7 +8332,7 @@ var decks = {
     {
       "question": [
         "気",
-        "気[き]",
+        "き",
         "spirit, temperament"
       ],
       "answer": "き"
@@ -8174,15 +8340,17 @@ var decks = {
     {
       "question": [
         "書く",
-        "書[か]く",
+        "かく",
         "write"
       ],
       "answer": "かく"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_18": [
     {
       "question": [
         "光",
-        "光[ひかり]",
+        "ひかり",
         "light, flash"
       ],
       "answer": "ひかり"
@@ -8190,7 +8358,7 @@ var decks = {
     {
       "question": [
         "走る",
-        "走[はし]る",
+        "はしる",
         "run"
       ],
       "answer": "はしる"
@@ -8198,7 +8366,7 @@ var decks = {
     {
       "question": [
         "戦う",
-        "戦[たたか]う",
+        "たたかう",
         "wage war, fight"
       ],
       "answer": "たたかう"
@@ -8206,7 +8374,7 @@ var decks = {
     {
       "question": [
         "余り",
-        "余[あま]り",
+        "あまり",
         "remainder, leftover"
       ],
       "answer": "あまり"
@@ -8214,7 +8382,7 @@ var decks = {
     {
       "question": [
         "全部",
-        "全[ぜん] 部[ぶ]",
+        "ぜんぶ",
         "all, everything"
       ],
       "answer": "ぜんぶ"
@@ -8222,7 +8390,7 @@ var decks = {
     {
       "question": [
         "瞬間",
-        "瞬[しゅん] 間[かん]",
+        "しゅんかん",
         "instant, moment"
       ],
       "answer": "しゅんかん"
@@ -8230,7 +8398,7 @@ var decks = {
     {
       "question": [
         "説明",
-        "説[せつ] 明[めい]",
+        "せつめい",
         "explanation"
       ],
       "answer": "せつめい"
@@ -8238,17 +8406,15 @@ var decks = {
     {
       "question": [
         "決める",
-        "決[き]める",
+        "きめる",
         "to decide"
       ],
       "answer": "きめる"
-    }
-  ],
-  "#01_kaishi15k_07": [
+    },
     {
       "question": [
         "女性",
-        "女[じょ] 性[せい]",
+        "じょせい",
         "woman, female"
       ],
       "answer": "じょせい"
@@ -8256,7 +8422,7 @@ var decks = {
     {
       "question": [
         "頂く",
-        "頂[いただ]く",
+        "いただく",
         "receive, take (humble form)"
       ],
       "answer": "いただく"
@@ -8264,7 +8430,7 @@ var decks = {
     {
       "question": [
         "敵",
-        "敵[てき]",
+        "てき",
         "enemy"
       ],
       "answer": "てき"
@@ -8272,7 +8438,7 @@ var decks = {
     {
       "question": [
         "起きる",
-        "起[お]きる",
+        "おきる",
         "occur"
       ],
       "answer": "おきる"
@@ -8280,7 +8446,7 @@ var decks = {
     {
       "question": [
         "起きる",
-        "起[お]きる",
+        "おきる",
         "get up, get out of bed"
       ],
       "answer": "おきる"
@@ -8288,7 +8454,7 @@ var decks = {
     {
       "question": [
         "落ちる",
-        "落[お]ちる",
+        "おちる",
         "fall"
       ],
       "answer": "おちる"
@@ -8296,7 +8462,7 @@ var decks = {
     {
       "question": [
         "足",
-        "足[あし]",
+        "あし",
         "leg, foot"
       ],
       "answer": "あし"
@@ -8312,7 +8478,7 @@ var decks = {
     {
       "question": [
         "先に",
-        "先[さき]に",
+        "さきに",
         "before, ahead"
       ],
       "answer": "さきに"
@@ -8320,7 +8486,7 @@ var decks = {
     {
       "question": [
         "魔法",
-        "魔[ま] 法[ほう]",
+        "まほう",
         "magic"
       ],
       "answer": "まほう"
@@ -8328,7 +8494,7 @@ var decks = {
     {
       "question": [
         "探す",
-        "探[さが]す",
+        "さがす",
         "look for, search"
       ],
       "answer": "さがす"
@@ -8336,15 +8502,17 @@ var decks = {
     {
       "question": [
         "子供",
-        "子[こ] 供[ども]",
+        "こども",
         "child, kid"
       ],
       "answer": "こども"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_19": [
     {
       "question": [
         "怒る",
-        "怒[おこ]る",
+        "おこる",
         "get angry, scold"
       ],
       "answer": "おこる"
@@ -8352,7 +8520,7 @@ var decks = {
     {
       "question": [
         "笑顔",
-        "笑[え] 顔[がお]",
+        "えがお",
         "smile"
       ],
       "answer": "えがお"
@@ -8360,7 +8528,7 @@ var decks = {
     {
       "question": [
         "先輩",
-        "先[せん] 輩[ぱい]",
+        "せんぱい",
         "senior (at work, school, etc.)"
       ],
       "answer": "せんぱい"
@@ -8368,7 +8536,7 @@ var decks = {
     {
       "question": [
         "続く",
-        "続[つづ]く",
+        "つづく",
         "continue, keep up"
       ],
       "answer": "つづく"
@@ -8384,7 +8552,7 @@ var decks = {
     {
       "question": [
         "変",
-        "変[へん]",
+        "へん",
         "strange, funny"
       ],
       "answer": "へん"
@@ -8392,7 +8560,7 @@ var decks = {
     {
       "question": [
         "読む",
-        "読[よ]む",
+        "よむ",
         "read"
       ],
       "answer": "よむ"
@@ -8400,7 +8568,7 @@ var decks = {
     {
       "question": [
         "当然",
-        "当[とう] 然[ぜん]",
+        "とうぜん",
         "natural, as a matter of course"
       ],
       "answer": "とうぜん"
@@ -8408,7 +8576,7 @@ var decks = {
     {
       "question": [
         "情報",
-        "情[じょう] 報[ほう]",
+        "じょうほう",
         "information"
       ],
       "answer": "じょうほう"
@@ -8416,7 +8584,7 @@ var decks = {
     {
       "question": [
         "見つける",
-        "見[み]つける",
+        "みつける",
         "find"
       ],
       "answer": "みつける"
@@ -8424,7 +8592,7 @@ var decks = {
     {
       "question": [
         "少女",
-        "少[しょう] 女[じょ]",
+        "しょうじょ",
         "girl"
       ],
       "answer": "しょうじょ"
@@ -8432,7 +8600,7 @@ var decks = {
     {
       "question": [
         "大変",
-        "大[たい] 変[へん]",
+        "たいへん",
         "terrible, serious, grave"
       ],
       "answer": "たいへん"
@@ -8448,7 +8616,7 @@ var decks = {
     {
       "question": [
         "下",
-        "下[した]",
+        "した",
         "under, below"
       ],
       "answer": "した"
@@ -8456,7 +8624,7 @@ var decks = {
     {
       "question": [
         "下",
-        "下[もと]",
+        "もと",
         "under (the supervision of)"
       ],
       "answer": "もと"
@@ -8472,7 +8640,7 @@ var decks = {
     {
       "question": [
         "掛かる",
-        "掛[か]かる",
+        "かかる",
         "hang, be hung"
       ],
       "answer": "かかる"
@@ -8480,7 +8648,7 @@ var decks = {
     {
       "question": [
         "一度",
-        "一[いち] 度[ど]",
+        "いちど",
         "once"
       ],
       "answer": "いちど"
@@ -8488,7 +8656,7 @@ var decks = {
     {
       "question": [
         "完全",
-        "完[かん] 全[ぜん]",
+        "かんぜん",
         "perfect, complete"
       ],
       "answer": "かんぜん"
@@ -8496,15 +8664,17 @@ var decks = {
     {
       "question": [
         "後ろ",
-        "後[うし]ろ",
+        "うしろ",
         "back, behind"
       ],
       "answer": "うしろ"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_20": [
     {
       "question": [
         "泣く",
-        "泣[な]く",
+        "なく",
         "cry"
       ],
       "answer": "なく"
@@ -8512,7 +8682,7 @@ var decks = {
     {
       "question": [
         "状態",
-        "状[じょう] 態[たい]",
+        "じょうたい",
         "state, condition"
       ],
       "answer": "じょうたい"
@@ -8520,7 +8690,7 @@ var decks = {
     {
       "question": [
         "関係",
-        "関[かん] 係[けい]",
+        "かんけい",
         "relation(ship)"
       ],
       "answer": "かんけい"
@@ -8528,7 +8698,7 @@ var decks = {
     {
       "question": [
         "向ける",
-        "向[む]ける",
+        "むける",
         "turn toward, point at"
       ],
       "answer": "むける"
@@ -8536,7 +8706,7 @@ var decks = {
     {
       "question": [
         "奥",
-        "奥[おく]",
+        "おく",
         "inner part, back (of...)"
       ],
       "answer": "おく"
@@ -8544,7 +8714,7 @@ var decks = {
     {
       "question": [
         "軽い",
-        "軽[かる]い",
+        "かるい",
         "light"
       ],
       "answer": "かるい"
@@ -8552,7 +8722,7 @@ var decks = {
     {
       "question": [
         "返す",
-        "返[かえ]す",
+        "かえす",
         "return, repay"
       ],
       "answer": "かえす"
@@ -8560,7 +8730,7 @@ var decks = {
     {
       "question": [
         "現れる",
-        "現[あらわ]れる",
+        "あらわれる",
         "appear, emerge"
       ],
       "answer": "あらわれる"
@@ -8568,7 +8738,7 @@ var decks = {
     {
       "question": [
         "痛い",
-        "痛[いた]い",
+        "いたい",
         "hurt, ouch"
       ],
       "answer": "いたい"
@@ -8584,7 +8754,7 @@ var decks = {
     {
       "question": [
         "点ける",
-        "点[つ]ける",
+        "つける",
         "switch on"
       ],
       "answer": "つける"
@@ -8592,7 +8762,7 @@ var decks = {
     {
       "question": [
         "付ける",
-        "付[つ]ける",
+        "つける",
         "attach, set, add"
       ],
       "answer": "つける"
@@ -8600,7 +8770,7 @@ var decks = {
     {
       "question": [
         "一瞬",
-        "一[いっ] 瞬[しゅん]",
+        "いっしゅん",
         "instant, for a moment"
       ],
       "answer": "いっしゅん"
@@ -8608,7 +8778,7 @@ var decks = {
     {
       "question": [
         "隠す",
-        "隠[かく]す",
+        "かくす",
         "hide"
       ],
       "answer": "かくす"
@@ -8616,7 +8786,7 @@ var decks = {
     {
       "question": [
         "準備",
-        "準[じゅん] 備[び]",
+        "じゅんび",
         "preparation, arrangements"
       ],
       "answer": "じゅんび"
@@ -8632,7 +8802,7 @@ var decks = {
     {
       "question": [
         "落ち着く",
-        "落[お]ち 着[つ]く",
+        "おちつく",
         "calm down, settle in"
       ],
       "answer": "おちつく"
@@ -8640,17 +8810,15 @@ var decks = {
     {
       "question": [
         "恥ずかしい",
-        "恥[は]ずかしい",
+        "はずかしい",
         "embarrassing, shy"
       ],
       "answer": "はずかしい"
-    }
-  ],
-  "#01_kaishi15k_08": [
+    },
     {
       "question": [
         "場合",
-        "場[ば] 合[あい]",
+        "ばあい",
         "situation, case"
       ],
       "answer": "ばあい"
@@ -8662,7 +8830,9 @@ var decks = {
         "tightly, firmly"
       ],
       "answer": "しっかり"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_21": [
     {
       "question": [
         "しっかり",
@@ -8674,7 +8844,7 @@ var decks = {
     {
       "question": [
         "髪",
-        "髪[かみ]",
+        "かみ",
         "hair(style)"
       ],
       "answer": "かみ"
@@ -8682,7 +8852,7 @@ var decks = {
     {
       "question": [
         "元",
-        "元[もと]",
+        "もと",
         "former, ex-"
       ],
       "answer": "もと"
@@ -8690,7 +8860,7 @@ var decks = {
     {
       "question": [
         "得る",
-        "得[え]る",
+        "える",
         "obtain, gain"
       ],
       "answer": "える"
@@ -8706,7 +8876,7 @@ var decks = {
     {
       "question": [
         "来月",
-        "来[らい] 月[げつ]",
+        "らいげつ",
         "next month"
       ],
       "answer": "らいげつ"
@@ -8714,7 +8884,7 @@ var decks = {
     {
       "question": [
         "昔",
-        "昔[むかし]",
+        "むかし",
         "a long time ago, the old days"
       ],
       "answer": "むかし"
@@ -8722,7 +8892,7 @@ var decks = {
     {
       "question": [
         "近い",
-        "近[ちか]い",
+        "ちかい",
         "near"
       ],
       "answer": "ちかい"
@@ -8730,7 +8900,7 @@ var decks = {
     {
       "question": [
         "動き",
-        "動[うご]き",
+        "うごき",
         "movement, motion"
       ],
       "answer": "うごき"
@@ -8738,7 +8908,7 @@ var decks = {
     {
       "question": [
         "見つめる",
-        "見[み]つめる",
+        "みつめる",
         "stare"
       ],
       "answer": "みつめる"
@@ -8746,7 +8916,7 @@ var decks = {
     {
       "question": [
         "幸せ",
-        "幸[しあわ]せ",
+        "しあわせ",
         "happiness, good fortune"
       ],
       "answer": "しあわせ"
@@ -8754,7 +8924,7 @@ var decks = {
     {
       "question": [
         "記憶",
-        "記[き] 憶[おく]",
+        "きおく",
         "memory"
       ],
       "answer": "きおく"
@@ -8762,7 +8932,7 @@ var decks = {
     {
       "question": [
         "反応",
-        "反[はん] 応[のう]",
+        "はんのう",
         "reaction, response"
       ],
       "answer": "はんのう"
@@ -8770,7 +8940,7 @@ var decks = {
     {
       "question": [
         "私たち",
-        "私[わたし]たち",
+        "わたしたち",
         "we"
       ],
       "answer": "わたしたち"
@@ -8786,7 +8956,7 @@ var decks = {
     {
       "question": [
         "勝手",
-        "勝[かっ] 手[て]",
+        "かって",
         "selfish, self-centered"
       ],
       "answer": "かって"
@@ -8794,7 +8964,7 @@ var decks = {
     {
       "question": [
         "攻撃",
-        "攻[こう] 撃[げき]",
+        "こうげき",
         "attack, assault, criticism"
       ],
       "answer": "こうげき"
@@ -8802,7 +8972,7 @@ var decks = {
     {
       "question": [
         "開ける",
-        "開[あ]ける",
+        "あける",
         "open, unlock"
       ],
       "answer": "あける"
@@ -8810,7 +8980,7 @@ var decks = {
     {
       "question": [
         "黙る",
-        "黙[だま]る",
+        "だまる",
         "become silent, shut one's mouth"
       ],
       "answer": "だまる"
@@ -8818,15 +8988,17 @@ var decks = {
     {
       "question": [
         "最近",
-        "最[さい] 近[きん]",
+        "さいきん",
         "recently"
       ],
       "answer": "さいきん"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_22": [
     {
       "question": [
         "全員",
-        "全[ぜん] 員[いん]",
+        "ぜんいん",
         "all members, (the) entire staff"
       ],
       "answer": "ぜんいん"
@@ -8842,7 +9014,7 @@ var decks = {
     {
       "question": [
         "深い",
-        "深[ふか]い",
+        "ふかい",
         "deep, profound"
       ],
       "answer": "ふかい"
@@ -8850,7 +9022,7 @@ var decks = {
     {
       "question": [
         "別",
-        "別[べつ]",
+        "べつ",
         "another, different"
       ],
       "answer": "べつ"
@@ -8858,7 +9030,7 @@ var decks = {
     {
       "question": [
         "決まる",
-        "決[き]まる",
+        "きまる",
         "be decided"
       ],
       "answer": "きまる"
@@ -8874,7 +9046,7 @@ var decks = {
     {
       "question": [
         "行う",
-        "行[おこな]う",
+        "おこなう",
         "perform, do"
       ],
       "answer": "おこなう"
@@ -8882,7 +9054,7 @@ var decks = {
     {
       "question": [
         "上がる",
-        "上[あ]がる",
+        "あがる",
         "go up, rise"
       ],
       "answer": "あがる"
@@ -8890,7 +9062,7 @@ var decks = {
     {
       "question": [
         "隣",
-        "隣[となり]",
+        "となり",
         "next to, adjacent"
       ],
       "answer": "となり"
@@ -8898,7 +9070,7 @@ var decks = {
     {
       "question": [
         "扉",
-        "扉[とびら]",
+        "とびら",
         "door"
       ],
       "answer": "とびら"
@@ -8906,7 +9078,7 @@ var decks = {
     {
       "question": [
         "指",
-        "指[ゆび]",
+        "ゆび",
         "finger, toe"
       ],
       "answer": "ゆび"
@@ -8914,7 +9086,7 @@ var decks = {
     {
       "question": [
         "結果",
-        "結[けっ] 果[か]",
+        "けっか",
         "result, outcome"
       ],
       "answer": "けっか"
@@ -8922,7 +9094,7 @@ var decks = {
     {
       "question": [
         "与える",
-        "与[あた]える",
+        "あたえる",
         "give"
       ],
       "answer": "あたえる"
@@ -8930,7 +9102,7 @@ var decks = {
     {
       "question": [
         "道",
-        "道[みち]",
+        "みち",
         "road"
       ],
       "answer": "みち"
@@ -8938,7 +9110,7 @@ var decks = {
     {
       "question": [
         "乗る",
-        "乗[の]る",
+        "のる",
         "ride, take"
       ],
       "answer": "のる"
@@ -8946,7 +9118,7 @@ var decks = {
     {
       "question": [
         "特に",
-        "特[とく]に",
+        "とくに",
         "specially, particularly"
       ],
       "answer": "とくに"
@@ -8954,7 +9126,7 @@ var decks = {
     {
       "question": [
         "形",
-        "形[かたち]",
+        "かたち",
         "shape"
       ],
       "answer": "かたち"
@@ -8970,7 +9142,7 @@ var decks = {
     {
       "question": [
         "血",
-        "血[ち]",
+        "ち",
         "blood"
       ],
       "answer": "ち"
@@ -8978,15 +9150,17 @@ var decks = {
     {
       "question": [
         "更に",
-        "更[さら]に",
+        "さらに",
         "furthermore, even more"
       ],
       "answer": "さらに"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_23": [
     {
       "question": [
         "用意",
-        "用[よう] 意[い]",
+        "ようい",
         "prepare, ready oneself"
       ],
       "answer": "ようい"
@@ -8994,7 +9168,7 @@ var decks = {
     {
       "question": [
         "負ける",
-        "負[ま]ける",
+        "まける",
         "lose"
       ],
       "answer": "まける"
@@ -9002,7 +9176,7 @@ var decks = {
     {
       "question": [
         "神",
-        "神[かみ]",
+        "かみ",
         "god, spirit"
       ],
       "answer": "かみ"
@@ -9010,7 +9184,7 @@ var decks = {
     {
       "question": [
         "実は",
-        "実[じつ]は",
+        "じつは",
         "actually, the truth is"
       ],
       "answer": "じつは"
@@ -9018,7 +9192,7 @@ var decks = {
     {
       "question": [
         "服",
-        "服[ふく]",
+        "ふく",
         "clothes"
       ],
       "answer": "ふく"
@@ -9026,7 +9200,7 @@ var decks = {
     {
       "question": [
         "不思議",
-        "不[ふ] 思[し] 議[ぎ]",
+        "ふしぎ",
         "strange, wonderful"
       ],
       "answer": "ふしぎ"
@@ -9034,7 +9208,7 @@ var decks = {
     {
       "question": [
         "意識",
-        "意[い] 識[しき]",
+        "いしき",
         "consciousness, awareness"
       ],
       "answer": "いしき"
@@ -9042,13 +9216,11 @@ var decks = {
     {
       "question": [
         "一体",
-        "一[いっ] 体[たい]",
+        "いったい",
         "what on earth, what the…"
       ],
       "answer": "いったい"
-    }
-  ],
-  "#01_kaishi15k_09": [
+    },
     {
       "question": [
         "とりあえず",
@@ -9060,7 +9232,7 @@ var decks = {
     {
       "question": [
         "送る",
-        "送[おく]る",
+        "おくる",
         "send"
       ],
       "answer": "おくる"
@@ -9076,7 +9248,7 @@ var decks = {
     {
       "question": [
         "安心",
-        "安[あん] 心[しん]",
+        "あんしん",
         "peace of mind, relief"
       ],
       "answer": "あんしん"
@@ -9084,7 +9256,7 @@ var decks = {
     {
       "question": [
         "失う",
-        "失[うしな]う",
+        "うしなう",
         "lose, miss"
       ],
       "answer": "うしなう"
@@ -9092,7 +9264,7 @@ var decks = {
     {
       "question": [
         "行動",
-        "行[こう] 動[どう]",
+        "こうどう",
         "action, conduct"
       ],
       "answer": "こうどう"
@@ -9100,7 +9272,7 @@ var decks = {
     {
       "question": [
         "触れる",
-        "触[ふ]れる",
+        "ふれる",
         "touch, come in contact with"
       ],
       "answer": "ふれる"
@@ -9116,7 +9288,7 @@ var decks = {
     {
       "question": [
         "少ない",
-        "少[すく]ない",
+        "すくない",
         "few, little"
       ],
       "answer": "すくない"
@@ -9124,7 +9296,7 @@ var decks = {
     {
       "question": [
         "結局",
-        "結[けっ] 局[きょく]",
+        "けっきょく",
         "after all, finally"
       ],
       "answer": "けっきょく"
@@ -9132,7 +9304,7 @@ var decks = {
     {
       "question": [
         "空",
-        "空[そら]",
+        "そら",
         "sky, weather"
       ],
       "answer": "そら"
@@ -9140,15 +9312,17 @@ var decks = {
     {
       "question": [
         "済む",
-        "済[す]む",
+        "すむ",
         "be settled, complete"
       ],
       "answer": "すむ"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_24": [
     {
       "question": [
         "任せる",
-        "任[まか]せる",
+        "まかせる",
         "entrust to, leave it to"
       ],
       "answer": "まかせる"
@@ -9156,7 +9330,7 @@ var decks = {
     {
       "question": [
         "赤い",
-        "赤[あか]い",
+        "あかい",
         "red"
       ],
       "answer": "あかい"
@@ -9164,7 +9338,7 @@ var decks = {
     {
       "question": [
         "大事",
-        "大[だい] 事[じ]",
+        "だいじ",
         "important, precious"
       ],
       "answer": "だいじ"
@@ -9172,7 +9346,7 @@ var decks = {
     {
       "question": [
         "残す",
-        "残[のこ]す",
+        "のこす",
         "leave, reserve"
       ],
       "answer": "のこす"
@@ -9180,7 +9354,7 @@ var decks = {
     {
       "question": [
         "止まる",
-        "止[と]まる",
+        "とまる",
         "stop, come to a stop"
       ],
       "answer": "とまる"
@@ -9188,7 +9362,7 @@ var decks = {
     {
       "question": [
         "朝",
-        "朝[あさ]",
+        "あさ",
         "morning"
       ],
       "answer": "あさ"
@@ -9196,7 +9370,7 @@ var decks = {
     {
       "question": [
         "命",
-        "命[いのち]",
+        "いのち",
         "life"
       ],
       "answer": "いのち"
@@ -9204,7 +9378,7 @@ var decks = {
     {
       "question": [
         "不安",
-        "不[ふ] 安[あん]",
+        "ふあん",
         "uneasiness, anxiety"
       ],
       "answer": "ふあん"
@@ -9212,7 +9386,7 @@ var decks = {
     {
       "question": [
         "結構",
-        "結[けっ] 構[こう]",
+        "けっこう",
         "all right, no thank you"
       ],
       "answer": "けっこう"
@@ -9220,7 +9394,7 @@ var decks = {
     {
       "question": [
         "結構",
-        "結[けっ] 構[こう]",
+        "けっこう",
         "quite"
       ],
       "answer": "けっこう"
@@ -9228,7 +9402,7 @@ var decks = {
     {
       "question": [
         "新しい",
-        "新[あたら]しい",
+        "あたらしい",
         "new"
       ],
       "answer": "あたらしい"
@@ -9236,7 +9410,7 @@ var decks = {
     {
       "question": [
         "程度",
-        "程[てい] 度[ど]",
+        "ていど",
         "degree, extent"
       ],
       "answer": "ていど"
@@ -9244,7 +9418,7 @@ var decks = {
     {
       "question": [
         "壁",
-        "壁[かべ]",
+        "かべ",
         "wall, partition"
       ],
       "answer": "かべ"
@@ -9252,7 +9426,7 @@ var decks = {
     {
       "question": [
         "用",
-        "用[よう]",
+        "よう",
         "things to do, (as a suffix) to do..., made for..."
       ],
       "answer": "よう"
@@ -9260,7 +9434,7 @@ var decks = {
     {
       "question": [
         "背中",
-        "背[せ] 中[なか]",
+        "せなか",
         "back"
       ],
       "answer": "せなか"
@@ -9268,7 +9442,7 @@ var decks = {
     {
       "question": [
         "気付く",
-        "気[き] 付[づ]く",
+        "きづく",
         "realize, notice"
       ],
       "answer": "きづく"
@@ -9284,7 +9458,7 @@ var decks = {
     {
       "question": [
         "渡す",
-        "渡[わた]す",
+        "わたす",
         "carry across, hand over"
       ],
       "answer": "わたす"
@@ -9292,7 +9466,7 @@ var decks = {
     {
       "question": [
         "喜ぶ",
-        "喜[よろこ]ぶ",
+        "よろこぶ",
         "be happy, be delighted"
       ],
       "answer": "よろこぶ"
@@ -9300,15 +9474,17 @@ var decks = {
     {
       "question": [
         "可愛い",
-        "可愛[かわい]い",
+        "かわいい",
         "cute"
       ],
       "answer": "かわいい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_25": [
     {
       "question": [
         "始まる",
-        "始[はじ]まる",
+        "はじまる",
         "begin"
       ],
       "answer": "はじまる"
@@ -9316,7 +9492,7 @@ var decks = {
     {
       "question": [
         "色",
-        "色[いろ]",
+        "いろ",
         "color"
       ],
       "answer": "いろ"
@@ -9324,7 +9500,7 @@ var decks = {
     {
       "question": [
         "認める",
-        "認[みと]める",
+        "みとめる",
         "recognize, approve, accept"
       ],
       "answer": "みとめる"
@@ -9332,7 +9508,7 @@ var decks = {
     {
       "question": [
         "急",
-        "急[きゅう]",
+        "きゅう",
         "suddenly"
       ],
       "answer": "きゅう"
@@ -9340,7 +9516,7 @@ var decks = {
     {
       "question": [
         "向こう",
-        "向[む]こう",
+        "むこう",
         "the other side, the other party, opponent"
       ],
       "answer": "むこう"
@@ -9348,7 +9524,7 @@ var decks = {
     {
       "question": [
         "求める",
-        "求[もと]める",
+        "もとめる",
         "seek, wish for"
       ],
       "answer": "もとめる"
@@ -9356,7 +9532,7 @@ var decks = {
     {
       "question": [
         "肩",
-        "肩[かた]",
+        "かた",
         "shoulder"
       ],
       "answer": "かた"
@@ -9364,7 +9540,7 @@ var decks = {
     {
       "question": [
         "仲間",
-        "仲[なか] 間[ま]",
+        "なかま",
         "comrade, peer"
       ],
       "answer": "なかま"
@@ -9380,7 +9556,7 @@ var decks = {
     {
       "question": [
         "思わず",
-        "思[おも]わず",
+        "おもわず",
         "unintentionally, involuntarily"
       ],
       "answer": "おもわず"
@@ -9396,7 +9572,7 @@ var decks = {
     {
       "question": [
         "突然",
-        "突[とつ] 然[ぜん]",
+        "とつぜん",
         "abruptly, suddenly"
       ],
       "answer": "とつぜん"
@@ -9404,7 +9580,7 @@ var decks = {
     {
       "question": [
         "自身",
-        "自[じ] 身[しん]",
+        "じしん",
         "self"
       ],
       "answer": "じしん"
@@ -9412,7 +9588,7 @@ var decks = {
     {
       "question": [
         "再び",
-        "再[ふたた]び",
+        "ふたたび",
         "again, a second time"
       ],
       "answer": "ふたたび"
@@ -9420,7 +9596,7 @@ var decks = {
     {
       "question": [
         "静か",
-        "静[しず]か",
+        "しずか",
         "quiet"
       ],
       "answer": "しずか"
@@ -9428,7 +9604,7 @@ var decks = {
     {
       "question": [
         "飛ぶ",
-        "飛[と]ぶ",
+        "とぶ",
         "fly"
       ],
       "answer": "とぶ"
@@ -9436,7 +9612,7 @@ var decks = {
     {
       "question": [
         "白い",
-        "白[しろ]い",
+        "しろい",
         "white, blank"
       ],
       "answer": "しろい"
@@ -9444,17 +9620,15 @@ var decks = {
     {
       "question": [
         "届く",
-        "届[とど]く",
+        "とどく",
         "reach, be received"
       ],
       "answer": "とどく"
-    }
-  ],
-  "#01_kaishi15k_10": [
+    },
     {
       "question": [
         "生む",
-        "生[う]む",
+        "うむ",
         "have children"
       ],
       "answer": "うむ"
@@ -9462,15 +9636,17 @@ var decks = {
     {
       "question": [
         "倒す",
-        "倒[たお]す",
+        "たおす",
         "bring down, overthrow"
       ],
       "answer": "たおす"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_26": [
     {
       "question": [
         "似る",
-        "似[に]る",
+        "にる",
         "look similar to, resemble"
       ],
       "answer": "にる"
@@ -9478,7 +9654,7 @@ var decks = {
     {
       "question": [
         "空気",
-        "空[くう] 気[き]",
+        "くうき",
         "atmosphere, air"
       ],
       "answer": "くうき"
@@ -9486,7 +9662,7 @@ var decks = {
     {
       "question": [
         "腰",
-        "腰[こし]",
+        "こし",
         "hip, lower back"
       ],
       "answer": "こし"
@@ -9494,7 +9670,7 @@ var decks = {
     {
       "question": [
         "名",
-        "名[な]",
+        "な",
         "name, reputation"
       ],
       "answer": "な"
@@ -9502,7 +9678,7 @@ var decks = {
     {
       "question": [
         "危険",
-        "危[き] 険[けん]",
+        "きけん",
         "danger, dangerous"
       ],
       "answer": "きけん"
@@ -9510,7 +9686,7 @@ var decks = {
     {
       "question": [
         "付く",
-        "付[つ]く",
+        "つく",
         "attach itself to, be connected with, come in contact with"
       ],
       "answer": "つく"
@@ -9526,7 +9702,7 @@ var decks = {
     {
       "question": [
         "熱い",
-        "熱[あつ]い",
+        "あつい",
         "hot (things, touch)"
       ],
       "answer": "あつい"
@@ -9542,7 +9718,7 @@ var decks = {
     {
       "question": [
         "頂きます",
-        "頂[いただ]きます",
+        "いただきます",
         "let's eat!, thank you for the meal"
       ],
       "answer": "いただきます"
@@ -9550,7 +9726,7 @@ var decks = {
     {
       "question": [
         "慌てる",
-        "慌[あわ]てる",
+        "あわてる",
         "be flustered, hurry"
       ],
       "answer": "あわてる"
@@ -9558,7 +9734,7 @@ var decks = {
     {
       "question": [
         "周囲",
-        "周[しゅう] 囲[い]",
+        "しゅうい",
         "circumference, surroundings"
       ],
       "answer": "しゅうい"
@@ -9566,7 +9742,7 @@ var decks = {
     {
       "question": [
         "気分",
-        "気[き] 分[ぶん]",
+        "きぶん",
         "mood, feeling"
       ],
       "answer": "きぶん"
@@ -9574,7 +9750,7 @@ var decks = {
     {
       "question": [
         "事実",
-        "事[じ] 実[じつ]",
+        "じじつ",
         "fact, truth"
       ],
       "answer": "じじつ"
@@ -9590,7 +9766,7 @@ var decks = {
     {
       "question": [
         "本気",
-        "本[ほん] 気[き]",
+        "ほんき",
         "seriousness"
       ],
       "answer": "ほんき"
@@ -9598,7 +9774,7 @@ var decks = {
     {
       "question": [
         "頷く",
-        "頷[うなず]く",
+        "うなずく",
         "nod"
       ],
       "answer": "うなずく"
@@ -9606,7 +9782,7 @@ var decks = {
     {
       "question": [
         "通り",
-        "通[とお]り",
+        "とおり",
         "street"
       ],
       "answer": "とおり"
@@ -9614,7 +9790,7 @@ var decks = {
     {
       "question": [
         "想像",
-        "想[そう] 像[ぞう]",
+        "そうぞう",
         "imagination"
       ],
       "answer": "そうぞう"
@@ -9622,15 +9798,17 @@ var decks = {
     {
       "question": [
         "店",
-        "店[みせ]",
+        "みせ",
         "shop, store"
       ],
       "answer": "みせ"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_27": [
     {
       "question": [
         "何だか",
-        "何[なん]だか",
+        "なんだか",
         "somehow, for some reason"
       ],
       "answer": "なんだか"
@@ -9638,7 +9816,7 @@ var decks = {
     {
       "question": [
         "目的",
-        "目[もく] 的[てき]",
+        "もくてき",
         "purpose, aim, object"
       ],
       "answer": "もくてき"
@@ -9646,7 +9824,7 @@ var decks = {
     {
       "question": [
         "眠る",
-        "眠[ねむ]る",
+        "ねむる",
         "sleep"
       ],
       "answer": "ねむる"
@@ -9654,7 +9832,7 @@ var decks = {
     {
       "question": [
         "確か",
-        "確[たし]か",
+        "たしか",
         "certainly, surely, if I'm not mistaken..."
       ],
       "answer": "たしか"
@@ -9662,7 +9840,7 @@ var decks = {
     {
       "question": [
         "十分",
-        "十[じゅう] 分[ぶん]",
+        "じゅうぶん",
         "plenty"
       ],
       "answer": "じゅうぶん"
@@ -9670,7 +9848,7 @@ var decks = {
     {
       "question": [
         "料理",
-        "料[りょう] 理[り]",
+        "りょうり",
         "cooking, cuisine"
       ],
       "answer": "りょうり"
@@ -9678,7 +9856,7 @@ var decks = {
     {
       "question": [
         "頃",
-        "頃[ころ]",
+        "ころ",
         "approximate time"
       ],
       "answer": "ころ"
@@ -9694,7 +9872,7 @@ var decks = {
     {
       "question": [
         "正直",
-        "正[しょう] 直[じき]",
+        "しょうじき",
         "honest, upright"
       ],
       "answer": "しょうじき"
@@ -9702,7 +9880,7 @@ var decks = {
     {
       "question": [
         "身",
-        "身[み]",
+        "み",
         "body, one's own person"
       ],
       "answer": "み"
@@ -9718,7 +9896,7 @@ var decks = {
     {
       "question": [
         "美しい",
-        "美[うつく]しい",
+        "うつくしい",
         "beautiful"
       ],
       "answer": "うつくしい"
@@ -9726,7 +9904,7 @@ var decks = {
     {
       "question": [
         "甘い",
-        "甘[あま]い",
+        "あまい",
         "sweet"
       ],
       "answer": "あまい"
@@ -9742,7 +9920,7 @@ var decks = {
     {
       "question": [
         "首",
-        "首[くび]",
+        "くび",
         "neck"
       ],
       "answer": "くび"
@@ -9750,7 +9928,7 @@ var decks = {
     {
       "question": [
         "感情",
-        "感[かん] 情[じょう]",
+        "かんじょう",
         "feeling, emotion"
       ],
       "answer": "かんじょう"
@@ -9758,7 +9936,7 @@ var decks = {
     {
       "question": [
         "周り",
-        "周[まわ]り",
+        "まわり",
         "around, surroundings"
       ],
       "answer": "まわり"
@@ -9766,7 +9944,7 @@ var decks = {
     {
       "question": [
         "方法",
-        "方[ほう] 法[ほう]",
+        "ほうほう",
         "method, way"
       ],
       "answer": "ほうほう"
@@ -9774,7 +9952,7 @@ var decks = {
     {
       "question": [
         "もう一度",
-        "もう 一[いち] 度[ど]",
+        "もういちど",
         "once more"
       ],
       "answer": "もういちど"
@@ -9782,15 +9960,17 @@ var decks = {
     {
       "question": [
         "遅い",
-        "遅[おそ]い",
+        "おそい",
         "slow, late"
       ],
       "answer": "おそい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_28": [
     {
       "question": [
         "会話",
-        "会[かい] 話[わ]",
+        "かいわ",
         "conversation"
       ],
       "answer": "かいわ"
@@ -9798,7 +9978,7 @@ var decks = {
     {
       "question": [
         "合う",
-        "合[あ]う",
+        "あう",
         "fit"
       ],
       "answer": "あう"
@@ -9806,7 +9986,7 @@ var decks = {
     {
       "question": [
         "やって来る",
-        "やって 来[く]る",
+        "やってくる",
         "come around, come along"
       ],
       "answer": "やってくる"
@@ -9814,7 +9994,7 @@ var decks = {
     {
       "question": [
         "森",
-        "森[もり]",
+        "もり",
         "thick woods, forest"
       ],
       "answer": "もり"
@@ -9822,7 +10002,7 @@ var decks = {
     {
       "question": [
         "動かす",
-        "動[うご]かす",
+        "うごかす",
         "move, make a move"
       ],
       "answer": "うごかす"
@@ -9830,7 +10010,7 @@ var decks = {
     {
       "question": [
         "能力",
-        "能[のう] 力[りょく]",
+        "のうりょく",
         "ability, capacity"
       ],
       "answer": "のうりょく"
@@ -9838,7 +10018,7 @@ var decks = {
     {
       "question": [
         "震える",
-        "震[ふる]える",
+        "ふるえる",
         "tremble, shake"
       ],
       "answer": "ふるえる"
@@ -9846,17 +10026,15 @@ var decks = {
     {
       "question": [
         "期待",
-        "期[き] 待[たい]",
+        "きたい",
         "expectation, anticipation"
       ],
       "answer": "きたい"
-    }
-  ],
-  "#01_kaishi15k_11": [
+    },
     {
       "question": [
         "無事",
-        "無[ぶ] 事[じ]",
+        "ぶじ",
         "safely, peacefully"
       ],
       "answer": "ぶじ"
@@ -9864,7 +10042,7 @@ var decks = {
     {
       "question": [
         "起こす",
-        "起[お]こす",
+        "おこす",
         "bring about, cause"
       ],
       "answer": "おこす"
@@ -9872,7 +10050,7 @@ var decks = {
     {
       "question": [
         "起こす",
-        "起[お]こす",
+        "おこす",
         "wake up"
       ],
       "answer": "おこす"
@@ -9880,7 +10058,7 @@ var decks = {
     {
       "question": [
         "耳",
-        "耳[みみ]",
+        "みみ",
         "ear, hearing"
       ],
       "answer": "みみ"
@@ -9888,7 +10066,7 @@ var decks = {
     {
       "question": [
         "生まれる",
-        "生[う]まれる",
+        "うまれる",
         "be born"
       ],
       "answer": "うまれる"
@@ -9896,7 +10074,7 @@ var decks = {
     {
       "question": [
         "移動",
-        "移[い] 動[どう]",
+        "いどう",
         "movement, shift"
       ],
       "answer": "いどう"
@@ -9904,7 +10082,7 @@ var decks = {
     {
       "question": [
         "邪魔",
-        "邪[じゃ] 魔[ま]",
+        "じゃま",
         "obstacle, hindrance"
       ],
       "answer": "じゃま"
@@ -9912,7 +10090,7 @@ var decks = {
     {
       "question": [
         "遊ぶ",
-        "遊[あそ]ぶ",
+        "あそぶ",
         "play"
       ],
       "answer": "あそぶ"
@@ -9920,7 +10098,7 @@ var decks = {
     {
       "question": [
         "要る",
-        "要[い]る",
+        "いる",
         "need, require"
       ],
       "answer": "いる"
@@ -9928,7 +10106,7 @@ var decks = {
     {
       "question": [
         "無くなる",
-        "無[な]くなる",
+        "なくなる",
         "to be lost, to be used up"
       ],
       "answer": "なくなる"
@@ -9936,7 +10114,7 @@ var decks = {
     {
       "question": [
         "唇",
-        "唇[くちびる]",
+        "くちびる",
         "lip"
       ],
       "answer": "くちびる"
@@ -9944,15 +10122,17 @@ var decks = {
     {
       "question": [
         "着る",
-        "着[き]る",
+        "きる",
         "wear, put on"
       ],
       "answer": "きる"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_29": [
     {
       "question": [
         "色々",
-        "色[いろ] 々[いろ]",
+        "いろいろ",
         "in various ways"
       ],
       "answer": "いろいろ"
@@ -9968,7 +10148,7 @@ var decks = {
     {
       "question": [
         "立ち上がる",
-        "立[た]ち 上[あ]がる",
+        "たちあがる",
         "stand up"
       ],
       "answer": "たちあがる"
@@ -9976,7 +10156,7 @@ var decks = {
     {
       "question": [
         "思い",
-        "思[おも]い",
+        "おもい",
         "thought"
       ],
       "answer": "おもい"
@@ -9984,7 +10164,7 @@ var decks = {
     {
       "question": [
         "以前",
-        "以[い] 前[ぜん]",
+        "いぜん",
         "before, ago"
       ],
       "answer": "いぜん"
@@ -9992,7 +10172,7 @@ var decks = {
     {
       "question": [
         "もう少し",
-        "もう 少[すこ]し",
+        "もうすこし",
         "a little more, a bit more"
       ],
       "answer": "もうすこし"
@@ -10000,7 +10180,7 @@ var decks = {
     {
       "question": [
         "襲う",
-        "襲[おそ]う",
+        "おそう",
         "assault, attack"
       ],
       "answer": "おそう"
@@ -10008,7 +10188,7 @@ var decks = {
     {
       "question": [
         "見つかる",
-        "見[み]つかる",
+        "みつかる",
         "be found, be caught"
       ],
       "answer": "みつかる"
@@ -10016,7 +10196,7 @@ var decks = {
     {
       "question": [
         "急ぐ",
-        "急[いそ]ぐ",
+        "いそぐ",
         "hurry"
       ],
       "answer": "いそぐ"
@@ -10032,7 +10212,7 @@ var decks = {
     {
       "question": [
         "降りる",
-        "降[お]りる",
+        "おりる",
         "get off, go down"
       ],
       "answer": "おりる"
@@ -10040,7 +10220,7 @@ var decks = {
     {
       "question": [
         "下りる",
-        "下[お]りる",
+        "おりる",
         "go down, come down"
       ],
       "answer": "おりる"
@@ -10048,7 +10228,7 @@ var decks = {
     {
       "question": [
         "切る",
-        "切[き]る",
+        "きる",
         "cut"
       ],
       "answer": "きる"
@@ -10056,7 +10236,7 @@ var decks = {
     {
       "question": [
         "事件",
-        "事[じ] 件[けん]",
+        "じけん",
         "affair, case"
       ],
       "answer": "じけん"
@@ -10064,7 +10244,7 @@ var decks = {
     {
       "question": [
         "返事",
-        "返[へん] 事[じ]",
+        "へんじ",
         "reply"
       ],
       "answer": "へんじ"
@@ -10072,7 +10252,7 @@ var decks = {
     {
       "question": [
         "酷い",
-        "酷[ひど]い",
+        "ひどい",
         "terrible, cruel"
       ],
       "answer": "ひどい"
@@ -10080,7 +10260,7 @@ var decks = {
     {
       "question": [
         "重い",
-        "重[おも]い",
+        "おもい",
         "heavy"
       ],
       "answer": "おもい"
@@ -10088,7 +10268,7 @@ var decks = {
     {
       "question": [
         "起こる",
-        "起[お]こる",
+        "おこる",
         "occur, happen"
       ],
       "answer": "おこる"
@@ -10096,7 +10276,7 @@ var decks = {
     {
       "question": [
         "逆",
-        "逆[ぎゃく]",
+        "ぎゃく",
         "reverse, inverse"
       ],
       "answer": "ぎゃく"
@@ -10104,15 +10284,17 @@ var decks = {
     {
       "question": [
         "納得",
-        "納[なっ] 得[とく]",
+        "なっとく",
         "consent, accept"
       ],
       "answer": "なっとく"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_30": [
     {
       "question": [
         "楽しむ",
-        "楽[たの]しむ",
+        "たのしむ",
         "enjoy"
       ],
       "answer": "たのしむ"
@@ -10120,7 +10302,7 @@ var decks = {
     {
       "question": [
         "叫ぶ",
-        "叫[さけ]ぶ",
+        "さけぶ",
         "shout, yell, cry out"
       ],
       "answer": "さけぶ"
@@ -10128,7 +10310,7 @@ var decks = {
     {
       "question": [
         "集まる",
-        "集[あつ]まる",
+        "あつまる",
         "gather, be collected"
       ],
       "answer": "あつまる"
@@ -10136,7 +10318,7 @@ var decks = {
     {
       "question": [
         "構う",
-        "構[かま]う",
+        "かまう",
         "mind, care for"
       ],
       "answer": "かまう"
@@ -10144,7 +10326,7 @@ var decks = {
     {
       "question": [
         "王",
-        "王[おう]",
+        "おう",
         "king"
       ],
       "answer": "おう"
@@ -10152,7 +10334,7 @@ var decks = {
     {
       "question": [
         "途中",
-        "途[と] 中[ちゅう]",
+        "とちゅう",
         "on the way, half way"
       ],
       "answer": "とちゅう"
@@ -10160,7 +10342,7 @@ var decks = {
     {
       "question": [
         "慣れる",
-        "慣[な]れる",
+        "なれる",
         "grow accustomed to"
       ],
       "answer": "なれる"
@@ -10168,7 +10350,7 @@ var decks = {
     {
       "question": [
         "終わり",
-        "終[お]わり",
+        "おわり",
         "end"
       ],
       "answer": "おわり"
@@ -10176,7 +10358,7 @@ var decks = {
     {
       "question": [
         "一応",
-        "一[いち] 応[おう]",
+        "いちおう",
         "for the time being, more or less"
       ],
       "answer": "いちおう"
@@ -10184,7 +10366,7 @@ var decks = {
     {
       "question": [
         "引く",
-        "引[ひ]く",
+        "ひく",
         "draw, pull"
       ],
       "answer": "ひく"
@@ -10192,7 +10374,7 @@ var decks = {
     {
       "question": [
         "海",
-        "海[うみ]",
+        "うみ",
         "sea, ocean"
       ],
       "answer": "うみ"
@@ -10200,7 +10382,7 @@ var decks = {
     {
       "question": [
         "諦める",
-        "諦[あきら]める",
+        "あきらめる",
         "give up, abandon"
       ],
       "answer": "あきらめる"
@@ -10208,7 +10390,7 @@ var decks = {
     {
       "question": [
         "必ず",
-        "必[かなら]ず",
+        "かならず",
         "without exception, always, certainly"
       ],
       "answer": "かならず"
@@ -10216,7 +10398,7 @@ var decks = {
     {
       "question": [
         "狙う",
-        "狙[ねら]う",
+        "ねらう",
         "aim, be after"
       ],
       "answer": "ねらう"
@@ -10232,7 +10414,7 @@ var decks = {
     {
       "question": [
         "落とす",
-        "落[お]とす",
+        "おとす",
         "drop"
       ],
       "answer": "おとす"
@@ -10240,7 +10422,7 @@ var decks = {
     {
       "question": [
         "部分",
-        "部[ぶ] 分[ぶん]",
+        "ぶぶん",
         "part, section"
       ],
       "answer": "ぶぶん"
@@ -10248,17 +10430,15 @@ var decks = {
     {
       "question": [
         "必死",
-        "必[ひっ] 死[し]",
+        "ひっし",
         "frantic, desperate"
       ],
       "answer": "ひっし"
-    }
-  ],
-  "#01_kaishi15k_12": [
+    },
     {
       "question": [
         "珍しい",
-        "珍[めずら]しい",
+        "めずらしい",
         "rare, uncommon"
       ],
       "answer": "めずらしい"
@@ -10266,15 +10446,17 @@ var decks = {
     {
       "question": [
         "意外",
-        "意[い] 外[がい]",
+        "いがい",
         "unexpected, unforeseen"
       ],
       "answer": "いがい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_31": [
     {
       "question": [
         "報告",
-        "報[ほう] 告[こく]",
+        "ほうこく",
         "report"
       ],
       "answer": "ほうこく"
@@ -10282,7 +10464,7 @@ var decks = {
     {
       "question": [
         "握る",
-        "握[にぎ]る",
+        "にぎる",
         "grasp, grip"
       ],
       "answer": "にぎる"
@@ -10290,7 +10472,7 @@ var decks = {
     {
       "question": [
         "結婚",
-        "結[けっ] 婚[こん]",
+        "けっこん",
         "marriage"
       ],
       "answer": "けっこん"
@@ -10298,7 +10480,7 @@ var decks = {
     {
       "question": [
         "戦い",
-        "戦[たたか]い",
+        "たたかい",
         "war, battle"
       ],
       "answer": "たたかい"
@@ -10306,7 +10488,7 @@ var decks = {
     {
       "question": [
         "感謝",
-        "感[かん] 謝[しゃ]",
+        "かんしゃ",
         "appreciation, thanks"
       ],
       "answer": "かんしゃ"
@@ -10314,7 +10496,7 @@ var decks = {
     {
       "question": [
         "激しい",
-        "激[はげ]しい",
+        "はげしい",
         "intense, violent"
       ],
       "answer": "はげしい"
@@ -10322,7 +10504,7 @@ var decks = {
     {
       "question": [
         "倒れる",
-        "倒[たお]れる",
+        "たおれる",
         "collapse, fall down"
       ],
       "answer": "たおれる"
@@ -10330,7 +10512,7 @@ var decks = {
     {
       "question": [
         "既に",
-        "既[すで]に",
+        "すでに",
         "already, too late"
       ],
       "answer": "すでに"
@@ -10338,7 +10520,7 @@ var decks = {
     {
       "question": [
         "疲れる",
-        "疲[つか]れる",
+        "つかれる",
         "get tired"
       ],
       "answer": "つかれる"
@@ -10346,7 +10528,7 @@ var decks = {
     {
       "question": [
         "生活",
-        "生[せい] 活[かつ]",
+        "せいかつ",
         "life, lifestyle"
       ],
       "answer": "せいかつ"
@@ -10354,7 +10536,7 @@ var decks = {
     {
       "question": [
         "場",
-        "場[ば]",
+        "ば",
         "opportunity, occasion"
       ],
       "answer": "ば"
@@ -10362,7 +10544,7 @@ var decks = {
     {
       "question": [
         "愛する",
-        "愛[あい]する",
+        "あいする",
         "love, care for"
       ],
       "answer": "あいする"
@@ -10370,7 +10552,7 @@ var decks = {
     {
       "question": [
         "冷たい",
-        "冷[つめ]たい",
+        "つめたい",
         "cold"
       ],
       "answer": "つめたい"
@@ -10378,7 +10560,7 @@ var decks = {
     {
       "question": [
         "捨てる",
-        "捨[す]てる",
+        "すてる",
         "throw away"
       ],
       "answer": "すてる"
@@ -10386,7 +10568,7 @@ var decks = {
     {
       "question": [
         "過ごす",
-        "過[す]ごす",
+        "すごす",
         "spend (time), pass"
       ],
       "answer": "すごす"
@@ -10394,7 +10576,7 @@ var decks = {
     {
       "question": [
         "食事",
-        "食[しょく] 事[じ]",
+        "しょくじ",
         "meal, dinner"
       ],
       "answer": "しょくじ"
@@ -10402,7 +10584,7 @@ var decks = {
     {
       "question": [
         "働く",
-        "働[はたら]く",
+        "はたらく",
         "work"
       ],
       "answer": "はたらく"
@@ -10410,7 +10592,7 @@ var decks = {
     {
       "question": [
         "答え",
-        "答[こた]え",
+        "こたえ",
         "answer, response"
       ],
       "answer": "こたえ"
@@ -10418,7 +10600,7 @@ var decks = {
     {
       "question": [
         "風",
-        "風[かぜ]",
+        "かぜ",
         "wind"
       ],
       "answer": "かぜ"
@@ -10426,15 +10608,17 @@ var decks = {
     {
       "question": [
         "黒い",
-        "黒[くろ]い",
+        "くろい",
         "black, dark"
       ],
       "answer": "くろい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_32": [
     {
       "question": [
         "助かる",
-        "助[たす]かる",
+        "たすかる",
         "be saved, survive"
       ],
       "answer": "たすかる"
@@ -10442,7 +10626,7 @@ var decks = {
     {
       "question": [
         "受け取る",
-        "受[う]け 取[と]る",
+        "うけとる",
         "receive, take (someone's words or behavior)"
       ],
       "answer": "うけとる"
@@ -10450,7 +10634,7 @@ var decks = {
     {
       "question": [
         "足りる",
-        "足[た]りる",
+        "たりる",
         "be enough, be sufficient"
       ],
       "answer": "たりる"
@@ -10458,7 +10642,7 @@ var decks = {
     {
       "question": [
         "判断",
-        "判[はん] 断[だん]",
+        "はんだん",
         "judgment, decision"
       ],
       "answer": "はんだん"
@@ -10466,7 +10650,7 @@ var decks = {
     {
       "question": [
         "未来",
-        "未[み] 来[らい]",
+        "みらい",
         "future"
       ],
       "answer": "みらい"
@@ -10474,7 +10658,7 @@ var decks = {
     {
       "question": [
         "食う",
-        "食[く]う",
+        "くう",
         "eat, live on"
       ],
       "answer": "くう"
@@ -10482,7 +10666,7 @@ var decks = {
     {
       "question": [
         "分",
-        "分[ぶん]",
+        "ぶん",
         "amount, share"
       ],
       "answer": "ぶん"
@@ -10498,7 +10682,7 @@ var decks = {
     {
       "question": [
         "上手い",
-        "上手[うま]い",
+        "うまい",
         "skilled, good"
       ],
       "answer": "うまい"
@@ -10506,7 +10690,7 @@ var decks = {
     {
       "question": [
         "合わせる",
-        "合[あ]わせる",
+        "あわせる",
         "adjust, match"
       ],
       "answer": "あわせる"
@@ -10514,7 +10698,7 @@ var decks = {
     {
       "question": [
         "大切",
-        "大[たい] 切[せつ]",
+        "たいせつ",
         "important, valuable"
       ],
       "answer": "たいせつ"
@@ -10522,7 +10706,7 @@ var decks = {
     {
       "question": [
         "花",
-        "花[はな]",
+        "はな",
         "flower"
       ],
       "answer": "はな"
@@ -10530,7 +10714,7 @@ var decks = {
     {
       "question": [
         "謝る",
-        "謝[あやま]る",
+        "あやまる",
         "apologize"
       ],
       "answer": "あやまる"
@@ -10538,7 +10722,7 @@ var decks = {
     {
       "question": [
         "奪う",
-        "奪[うば]う",
+        "うばう",
         "snatch, take by force"
       ],
       "answer": "うばう"
@@ -10546,7 +10730,7 @@ var decks = {
     {
       "question": [
         "勢い",
-        "勢[いきお]い",
+        "いきおい",
         "vigor, momentum"
       ],
       "answer": "いきおい"
@@ -10554,7 +10738,7 @@ var decks = {
     {
       "question": [
         "涙",
-        "涙[なみだ]",
+        "なみだ",
         "tear"
       ],
       "answer": "なみだ"
@@ -10562,7 +10746,7 @@ var decks = {
     {
       "question": [
         "雰囲気",
-        "雰[ふん] 囲[い] 気[き]",
+        "ふんいき",
         "atmosphere, mood"
       ],
       "answer": "ふんいき"
@@ -10570,7 +10754,7 @@ var decks = {
     {
       "question": [
         "嘘",
-        "嘘[うそ]",
+        "うそ",
         "lie"
       ],
       "answer": "うそ"
@@ -10578,7 +10762,7 @@ var decks = {
     {
       "question": [
         "望む",
-        "望[のぞ]む",
+        "のぞむ",
         "desire, hope"
       ],
       "answer": "のぞむ"
@@ -10586,15 +10770,17 @@ var decks = {
     {
       "question": [
         "緊張",
-        "緊[きん] 張[ちょう]",
+        "きんちょう",
         "tension, strain, be nervous"
       ],
       "answer": "きんちょう"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_33": [
     {
       "question": [
         "一緒",
-        "一[いっ] 緒[しょ]",
+        "いっしょ",
         "together"
       ],
       "answer": "いっしょ"
@@ -10602,7 +10788,7 @@ var decks = {
     {
       "question": [
         "救う",
-        "救[すく]う",
+        "すくう",
         "save"
       ],
       "answer": "すくう"
@@ -10610,7 +10796,7 @@ var decks = {
     {
       "question": [
         "自ら",
-        "自[みずか]ら",
+        "みずから",
         "oneself"
       ],
       "answer": "みずから"
@@ -10618,7 +10804,7 @@ var decks = {
     {
       "question": [
         "地面",
-        "地[じ] 面[めん]",
+        "じめん",
         "surface, ground"
       ],
       "answer": "じめん"
@@ -10626,7 +10812,7 @@ var decks = {
     {
       "question": [
         "失敗",
-        "失[しっ] 敗[ぱい]",
+        "しっぱい",
         "failure, blunder"
       ],
       "answer": "しっぱい"
@@ -10634,7 +10820,7 @@ var decks = {
     {
       "question": [
         "避ける",
-        "避[さ]ける",
+        "さける",
         "avoid, evade"
       ],
       "answer": "さける"
@@ -10642,7 +10828,7 @@ var decks = {
     {
       "question": [
         "窓",
-        "窓[まど]",
+        "まど",
         "window"
       ],
       "answer": "まど"
@@ -10650,17 +10836,15 @@ var decks = {
     {
       "question": [
         "素直",
-        "素[す] 直[なお]",
+        "すなお",
         "honest, straightforward"
       ],
       "answer": "すなお"
-    }
-  ],
-  "#01_kaishi15k_13": [
+    },
     {
       "question": [
         "肉",
-        "肉[にく]",
+        "にく",
         "flesh, meat"
       ],
       "answer": "にく"
@@ -10668,7 +10852,7 @@ var decks = {
     {
       "question": [
         "冗談",
-        "冗[じょう] 談[だん]",
+        "じょうだん",
         "joke"
       ],
       "answer": "じょうだん"
@@ -10676,7 +10860,7 @@ var decks = {
     {
       "question": [
         "余裕",
-        "余[よ] 裕[ゆう]",
+        "よゆう",
         "room, leeway"
       ],
       "answer": "よゆう"
@@ -10684,7 +10868,7 @@ var decks = {
     {
       "question": [
         "連絡",
-        "連[れん] 絡[らく]",
+        "れんらく",
         "connection, communication"
       ],
       "answer": "れんらく"
@@ -10692,7 +10876,7 @@ var decks = {
     {
       "question": [
         "人生",
-        "人[じん] 生[せい]",
+        "じんせい",
         "(human) life"
       ],
       "answer": "じんせい"
@@ -10700,7 +10884,7 @@ var decks = {
     {
       "question": [
         "放つ",
-        "放[はな]つ",
+        "はなつ",
         "emit, set free, shoot (e.g. an arrow or bullet)"
       ],
       "answer": "はなつ"
@@ -10708,7 +10892,7 @@ var decks = {
     {
       "question": [
         "流れる",
-        "流[なが]れる",
+        "ながれる",
         "flow, pass"
       ],
       "answer": "ながれる"
@@ -10716,7 +10900,7 @@ var decks = {
     {
       "question": [
         "特別",
-        "特[とく] 別[べつ]",
+        "とくべつ",
         "special, extraordinary"
       ],
       "answer": "とくべつ"
@@ -10724,7 +10908,7 @@ var decks = {
     {
       "question": [
         "連中",
-        "連[れん] 中[ちゅう]",
+        "れんちゅう",
         "party, this bunch"
       ],
       "answer": "れんちゅう"
@@ -10732,7 +10916,7 @@ var decks = {
     {
       "question": [
         "両手",
-        "両[りょう] 手[て]",
+        "りょうて",
         "both hands"
       ],
       "answer": "りょうて"
@@ -10740,7 +10924,7 @@ var decks = {
     {
       "question": [
         "増える",
-        "増[ふ]える",
+        "ふえる",
         "increase, accrue"
       ],
       "answer": "ふえる"
@@ -10748,15 +10932,17 @@ var decks = {
     {
       "question": [
         "出会う",
-        "出[で] 会[あ]う",
+        "であう",
         "meet (by chance), come across"
       ],
       "answer": "であう"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_34": [
     {
       "question": [
         "少年",
-        "少[しょう] 年[ねん]",
+        "しょうねん",
         "boy"
       ],
       "answer": "しょうねん"
@@ -10764,7 +10950,7 @@ var decks = {
     {
       "question": [
         "繰り返す",
-        "繰[く]り 返[かえ]す",
+        "くりかえす",
         "repeat"
       ],
       "answer": "くりかえす"
@@ -10772,7 +10958,7 @@ var decks = {
     {
       "question": [
         "我慢",
-        "我[が] 慢[まん]",
+        "がまん",
         "patience, bearing with"
       ],
       "answer": "がまん"
@@ -10780,7 +10966,7 @@ var decks = {
     {
       "question": [
         "我々",
-        "我[われ] 々[われ]",
+        "われわれ",
         "we (formal)"
       ],
       "answer": "われわれ"
@@ -10788,7 +10974,7 @@ var decks = {
     {
       "question": [
         "感覚",
-        "感[かん] 覚[かく]",
+        "かんかく",
         "sensation"
       ],
       "answer": "かんかく"
@@ -10796,7 +10982,7 @@ var decks = {
     {
       "question": [
         "響く",
-        "響[ひび]く",
+        "ひびく",
         "reverberate"
       ],
       "answer": "ひびく"
@@ -10804,7 +10990,7 @@ var decks = {
     {
       "question": [
         "何とか",
-        "何[なん]とか",
+        "なんとか",
         "somehow, please"
       ],
       "answer": "なんとか"
@@ -10812,7 +10998,7 @@ var decks = {
     {
       "question": [
         "山",
-        "山[やま]",
+        "やま",
         "mountain"
       ],
       "answer": "やま"
@@ -10820,7 +11006,7 @@ var decks = {
     {
       "question": [
         "当たり前",
-        "当[あ]たり 前[まえ]",
+        "あたりまえ",
         "of course, obvious"
       ],
       "answer": "あたりまえ"
@@ -10828,7 +11014,7 @@ var decks = {
     {
       "question": [
         "予定",
-        "予[よ] 定[てい]",
+        "よてい",
         "schedule, plan"
       ],
       "answer": "よてい"
@@ -10836,7 +11022,7 @@ var decks = {
     {
       "question": [
         "残念",
-        "残[ざん] 念[ねん]",
+        "ざんねん",
         "regretful, disappointing"
       ],
       "answer": "ざんねん"
@@ -10844,7 +11030,7 @@ var decks = {
     {
       "question": [
         "追う",
-        "追[お]う",
+        "おう",
         "chase, pursue"
       ],
       "answer": "おう"
@@ -10852,7 +11038,7 @@ var decks = {
     {
       "question": [
         "綺麗",
-        "綺[き] 麗[れい]",
+        "きれい",
         "beautiful, clean"
       ],
       "answer": "きれい"
@@ -10868,7 +11054,7 @@ var decks = {
     {
       "question": [
         "若い",
-        "若[わか]い",
+        "わかい",
         "young"
       ],
       "answer": "わかい"
@@ -10884,7 +11070,7 @@ var decks = {
     {
       "question": [
         "考え",
-        "考[かんが]え",
+        "かんがえ",
         "thought, view"
       ],
       "answer": "かんがえ"
@@ -10892,7 +11078,7 @@ var decks = {
     {
       "question": [
         "過去",
-        "過[か] 去[こ]",
+        "かこ",
         "the past"
       ],
       "answer": "かこ"
@@ -10900,7 +11086,7 @@ var decks = {
     {
       "question": [
         "気配",
-        "気[け] 配[はい]",
+        "けはい",
         "indication, sign"
       ],
       "answer": "けはい"
@@ -10908,15 +11094,17 @@ var decks = {
     {
       "question": [
         "本人",
-        "本[ほん] 人[にん]",
+        "ほんにん",
         "the person in question"
       ],
       "answer": "ほんにん"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_35": [
     {
       "question": [
         "現実",
-        "現[げん] 実[じつ]",
+        "げんじつ",
         "reality, actuality"
       ],
       "answer": "げんじつ"
@@ -10924,7 +11112,7 @@ var decks = {
     {
       "question": [
         "決して",
-        "決[けっ]して",
+        "けっして",
         "never, by no means"
       ],
       "answer": "けっして"
@@ -10940,7 +11128,7 @@ var decks = {
     {
       "question": [
         "床",
-        "床[ゆか]",
+        "ゆか",
         "floor"
       ],
       "answer": "ゆか"
@@ -10948,7 +11136,7 @@ var decks = {
     {
       "question": [
         "横",
-        "横[よこ]",
+        "よこ",
         "side, width across"
       ],
       "answer": "よこ"
@@ -10956,7 +11144,7 @@ var decks = {
     {
       "question": [
         "休む",
-        "休[やす]む",
+        "やすむ",
         "rest, take time off"
       ],
       "answer": "やすむ"
@@ -10964,7 +11152,7 @@ var decks = {
     {
       "question": [
         "振り返る",
-        "振[ふ]り 返[かえ]る",
+        "ふりかえる",
         "turn one's head, look back on"
       ],
       "answer": "ふりかえる"
@@ -10980,7 +11168,7 @@ var decks = {
     {
       "question": [
         "質問",
-        "質[しつ] 問[もん]",
+        "しつもん",
         "question"
       ],
       "answer": "しつもん"
@@ -10988,7 +11176,7 @@ var decks = {
     {
       "question": [
         "興味",
-        "興[きょう] 味[み]",
+        "きょうみ",
         "interest"
       ],
       "answer": "きょうみ"
@@ -10996,7 +11184,7 @@ var decks = {
     {
       "question": [
         "距離",
-        "距[きょ] 離[り]",
+        "きょり",
         "distance, interval"
       ],
       "answer": "きょり"
@@ -11004,7 +11192,7 @@ var decks = {
     {
       "question": [
         "内容",
-        "内[ない] 容[よう]",
+        "ないよう",
         "contents"
       ],
       "answer": "ないよう"
@@ -11020,7 +11208,7 @@ var decks = {
     {
       "question": [
         "回る",
-        "回[まわ]る",
+        "まわる",
         "rotate, go around"
       ],
       "answer": "まわる"
@@ -11028,7 +11216,7 @@ var decks = {
     {
       "question": [
         "並ぶ",
-        "並[なら]ぶ",
+        "ならぶ",
         "line up"
       ],
       "answer": "ならぶ"
@@ -11036,7 +11224,7 @@ var decks = {
     {
       "question": [
         "終える",
-        "終[お]える",
+        "おえる",
         "end, finish"
       ],
       "answer": "おえる"
@@ -11044,7 +11232,7 @@ var decks = {
     {
       "question": [
         "態度",
-        "態[たい] 度[ど]",
+        "たいど",
         "attitude, manner"
       ],
       "answer": "たいど"
@@ -11052,17 +11240,15 @@ var decks = {
     {
       "question": [
         "金",
-        "金[かね]",
+        "かね",
         "money"
       ],
       "answer": "かね"
-    }
-  ],
-  "#01_kaishi15k_14": [
+    },
     {
       "question": [
         "今夜",
-        "今[こん] 夜[や]",
+        "こんや",
         "tonight, this evening"
       ],
       "answer": "こんや"
@@ -11070,11 +11256,13 @@ var decks = {
     {
       "question": [
         "昨夜",
-        "昨夜[ゆうべ]",
+        "ゆうべ",
         "last night, last evening"
       ],
       "answer": "ゆうべ"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_36": [
     {
       "question": [
         "さすが",
@@ -11086,7 +11274,7 @@ var decks = {
     {
       "question": [
         "自然",
-        "自[し] 然[ぜん]",
+        "しぜん",
         "nature"
       ],
       "answer": "しぜん"
@@ -11094,7 +11282,7 @@ var decks = {
     {
       "question": [
         "眺める",
-        "眺[なが]める",
+        "ながめる",
         "look out, gaze"
       ],
       "answer": "ながめる"
@@ -11102,7 +11290,7 @@ var decks = {
     {
       "question": [
         "向く",
-        "向[む]く",
+        "むく",
         "face, look"
       ],
       "answer": "むく"
@@ -11110,7 +11298,7 @@ var decks = {
     {
       "question": [
         "相変わらず",
-        "相[あい] 変[か]わらず",
+        "あいかわらず",
         "as usual, as before"
       ],
       "answer": "あいかわらず"
@@ -11118,7 +11306,7 @@ var decks = {
     {
       "question": [
         "普段",
-        "普[ふ] 段[だん]",
+        "ふだん",
         "usual, ordinary"
       ],
       "answer": "ふだん"
@@ -11134,7 +11322,7 @@ var decks = {
     {
       "question": [
         "運ぶ",
-        "運[はこ]ぶ",
+        "はこぶ",
         "carry"
       ],
       "answer": "はこぶ"
@@ -11150,7 +11338,7 @@ var decks = {
     {
       "question": [
         "弱い",
-        "弱[よわ]い",
+        "よわい",
         "weak"
       ],
       "answer": "よわい"
@@ -11166,7 +11354,7 @@ var decks = {
     {
       "question": [
         "離す",
-        "離[はな]す",
+        "はなす",
         "separate, detach"
       ],
       "answer": "はなす"
@@ -11174,7 +11362,7 @@ var decks = {
     {
       "question": [
         "貴族",
-        "貴[き] 族[ぞく]",
+        "きぞく",
         "noble"
       ],
       "answer": "きぞく"
@@ -11182,7 +11370,7 @@ var decks = {
     {
       "question": [
         "広がる",
-        "広[ひろ]がる",
+        "ひろがる",
         "spread out, extend"
       ],
       "answer": "ひろがる"
@@ -11190,7 +11378,7 @@ var decks = {
     {
       "question": [
         "頬",
-        "頬[ほお]",
+        "ほお",
         "cheek"
       ],
       "answer": "ほお"
@@ -11198,7 +11386,7 @@ var decks = {
     {
       "question": [
         "寂しい",
-        "寂[さび]しい",
+        "さびしい",
         "lonely, sad"
       ],
       "answer": "さびしい"
@@ -11206,7 +11394,7 @@ var decks = {
     {
       "question": [
         "正しい",
-        "正[ただ]しい",
+        "ただしい",
         "correct"
       ],
       "answer": "ただしい"
@@ -11214,7 +11402,7 @@ var decks = {
     {
       "question": [
         "自由",
-        "自[じ] 由[ゆう]",
+        "じゆう",
         "free"
       ],
       "answer": "じゆう"
@@ -11222,7 +11410,7 @@ var decks = {
     {
       "question": [
         "全身",
-        "全[ぜん] 身[しん]",
+        "ぜんしん",
         "the whole body"
       ],
       "answer": "ぜんしん"
@@ -11230,11 +11418,13 @@ var decks = {
     {
       "question": [
         "武器",
-        "武[ぶ] 器[き]",
+        "ぶき",
         "weapon, arms"
       ],
       "answer": "ぶき"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_37": [
     {
       "question": [
         "それぞれ",
@@ -11246,7 +11436,7 @@ var decks = {
     {
       "question": [
         "語る",
-        "語[かた]る",
+        "かたる",
         "tell, talk"
       ],
       "answer": "かたる"
@@ -11254,7 +11444,7 @@ var decks = {
     {
       "question": [
         "持ってくる",
-        "持[も]ってくる",
+        "もってくる",
         "bring"
       ],
       "answer": "もってくる"
@@ -11262,7 +11452,7 @@ var decks = {
     {
       "question": [
         "息子",
-        "息子[むすこ]",
+        "むすこ",
         "son"
       ],
       "answer": "むすこ"
@@ -11270,7 +11460,7 @@ var decks = {
     {
       "question": [
         "娘",
-        "娘[むすめ]",
+        "むすめ",
         "daughter"
       ],
       "answer": "むすめ"
@@ -11278,7 +11468,7 @@ var decks = {
     {
       "question": [
         "一気に",
-        "一[いっ] 気[き]に",
+        "いっきに",
         "in one go"
       ],
       "answer": "いっきに"
@@ -11294,7 +11484,7 @@ var decks = {
     {
       "question": [
         "伝わる",
-        "伝[つた]わる",
+        "つたわる",
         "be transmitted, be handed down"
       ],
       "answer": "つたわる"
@@ -11302,7 +11492,7 @@ var decks = {
     {
       "question": [
         "当たる",
-        "当[あ]たる",
+        "あたる",
         "hit, strike"
       ],
       "answer": "あたる"
@@ -11310,7 +11500,7 @@ var decks = {
     {
       "question": [
         "痛み",
-        "痛[いた]み",
+        "いたみ",
         "pain, ache"
       ],
       "answer": "いたみ"
@@ -11318,7 +11508,7 @@ var decks = {
     {
       "question": [
         "妙",
-        "妙[みょう]",
+        "みょう",
         "strange"
       ],
       "answer": "みょう"
@@ -11326,7 +11516,7 @@ var decks = {
     {
       "question": [
         "影",
-        "影[かげ]",
+        "かげ",
         "shadow, shade"
       ],
       "answer": "かげ"
@@ -11334,7 +11524,7 @@ var decks = {
     {
       "question": [
         "死",
-        "死[し]",
+        "し",
         "death"
       ],
       "answer": "し"
@@ -11342,7 +11532,7 @@ var decks = {
     {
       "question": [
         "多分",
-        "多[た] 分[ぶん]",
+        "たぶん",
         "probably, perhaps"
       ],
       "answer": "たぶん"
@@ -11350,7 +11540,7 @@ var decks = {
     {
       "question": [
         "協力",
-        "協[きょう] 力[りょく]",
+        "きょうりょく",
         "cooperation, collaboration"
       ],
       "answer": "きょうりょく"
@@ -11358,7 +11548,7 @@ var decks = {
     {
       "question": [
         "見上げる",
-        "見[み] 上[あ]げる",
+        "みあげる",
         "look up"
       ],
       "answer": "みあげる"
@@ -11366,7 +11556,7 @@ var decks = {
     {
       "question": [
         "覚悟",
-        "覚[かく] 悟[ご]",
+        "かくご",
         "readiness, resolution"
       ],
       "answer": "かくご"
@@ -11374,7 +11564,7 @@ var decks = {
     {
       "question": [
         "連れる",
-        "連[つ]れる",
+        "つれる",
         "take along, bring along"
       ],
       "answer": "つれる"
@@ -11382,7 +11572,7 @@ var decks = {
     {
       "question": [
         "低い",
-        "低[ひく]い",
+        "ひくい",
         "low, short (height)"
       ],
       "answer": "ひくい"
@@ -11390,15 +11580,17 @@ var decks = {
     {
       "question": [
         "木",
-        "木[き]",
+        "き",
         "tree"
       ],
       "answer": "き"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_38": [
     {
       "question": [
         "面倒",
-        "面[めん] 倒[どう]",
+        "めんどう",
         "annoying, troublesome"
       ],
       "answer": "めんどう"
@@ -11406,7 +11598,7 @@ var decks = {
     {
       "question": [
         "闇",
-        "闇[やみ]",
+        "やみ",
         "darkness"
       ],
       "answer": "やみ"
@@ -11414,7 +11606,7 @@ var decks = {
     {
       "question": [
         "広い",
-        "広[ひろ]い",
+        "ひろい",
         "wide, big"
       ],
       "answer": "ひろい"
@@ -11422,7 +11614,7 @@ var decks = {
     {
       "question": [
         "告げる",
-        "告[つ]げる",
+        "つげる",
         "tell, notify"
       ],
       "answer": "つげる"
@@ -11430,7 +11622,7 @@ var decks = {
     {
       "question": [
         "叩く",
-        "叩[たた]く",
+        "たたく",
         "tap, hit"
       ],
       "answer": "たたく"
@@ -11438,7 +11630,7 @@ var decks = {
     {
       "question": [
         "自信",
-        "自[じ] 信[しん]",
+        "じしん",
         "self-confidence"
       ],
       "answer": "じしん"
@@ -11446,7 +11638,7 @@ var decks = {
     {
       "question": [
         "集める",
-        "集[あつ]める",
+        "あつめる",
         "gather, collect"
       ],
       "answer": "あつめる"
@@ -11454,17 +11646,15 @@ var decks = {
     {
       "question": [
         "振る",
-        "振[ふ]る",
+        "ふる",
         "wave, shake"
       ],
       "answer": "ふる"
-    }
-  ],
-  "#01_kaishi15k_15": [
+    },
     {
       "question": [
         "余計",
-        "余[よ] 計[けい]",
+        "よけい",
         "excess, needless"
       ],
       "answer": "よけい"
@@ -11472,7 +11662,7 @@ var decks = {
     {
       "question": [
         "他に",
-        "他[ほか]に",
+        "ほかに",
         "else, in addition"
       ],
       "answer": "ほかに"
@@ -11480,7 +11670,7 @@ var decks = {
     {
       "question": [
         "誘う",
-        "誘[さそ]う",
+        "さそう",
         "invite, ask out"
       ],
       "answer": "さそう"
@@ -11488,7 +11678,7 @@ var decks = {
     {
       "question": [
         "付き合う",
-        "付[つ]き 合[あ]う",
+        "つきあう",
         "socialize with, seeing someone"
       ],
       "answer": "つきあう"
@@ -11496,7 +11686,7 @@ var decks = {
     {
       "question": [
         "村",
-        "村[むら]",
+        "むら",
         "village"
       ],
       "answer": "むら"
@@ -11504,7 +11694,7 @@ var decks = {
     {
       "question": [
         "人物",
-        "人[じん] 物[ぶつ]",
+        "じんぶつ",
         "character, person"
       ],
       "answer": "じんぶつ"
@@ -11512,7 +11702,7 @@ var decks = {
     {
       "question": [
         "数",
-        "数[かず]",
+        "かず",
         "number"
       ],
       "answer": "かず"
@@ -11520,7 +11710,7 @@ var decks = {
     {
       "question": [
         "危ない",
-        "危[あぶ]ない",
+        "あぶない",
         "dangerous, uncertain"
       ],
       "answer": "あぶない"
@@ -11528,7 +11718,7 @@ var decks = {
     {
       "question": [
         "事情",
-        "事[じ] 情[じょう]",
+        "じじょう",
         "circumstances, conditions"
       ],
       "answer": "じじょう"
@@ -11536,7 +11726,7 @@ var decks = {
     {
       "question": [
         "本当に",
-        "本[ほん] 当[とう]に",
+        "ほんとうに",
         "really, truly"
       ],
       "answer": "ほんとうに"
@@ -11544,7 +11734,7 @@ var decks = {
     {
       "question": [
         "噂",
-        "噂[うわさ]",
+        "うわさ",
         "gossip, rumor"
       ],
       "answer": "うわさ"
@@ -11552,11 +11742,13 @@ var decks = {
     {
       "question": [
         "断る",
-        "断[ことわ]る",
+        "ことわる",
         "refuse, turn down"
       ],
       "answer": "ことわる"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_39": [
     {
       "question": [
         "どうか",
@@ -11568,7 +11760,7 @@ var decks = {
     {
       "question": [
         "巨大",
-        "巨[きょ] 大[だい]",
+        "きょだい",
         "huge, gigantic"
       ],
       "answer": "きょだい"
@@ -11576,7 +11768,7 @@ var decks = {
     {
       "question": [
         "最高",
-        "最[さい] 高[こう]",
+        "さいこう",
         "best, supreme"
       ],
       "answer": "さいこう"
@@ -11584,7 +11776,7 @@ var decks = {
     {
       "question": [
         "お金",
-        "お 金[かね]",
+        "おかね",
         "money"
       ],
       "answer": "おかね"
@@ -11592,7 +11784,7 @@ var decks = {
     {
       "question": [
         "傷",
-        "傷[きず]",
+        "きず",
         "wound, cut"
       ],
       "answer": "きず"
@@ -11600,7 +11792,7 @@ var decks = {
     {
       "question": [
         "怒り",
-        "怒[いか]り",
+        "いかり",
         "anger, rage"
       ],
       "answer": "いかり"
@@ -11616,7 +11808,7 @@ var decks = {
     {
       "question": [
         "効果",
-        "効[こう] 果[か]",
+        "こうか",
         "effect, result"
       ],
       "answer": "こうか"
@@ -11624,7 +11816,7 @@ var decks = {
     {
       "question": [
         "取り出す",
-        "取[と]り 出[だ]す",
+        "とりだす",
         "take out, pull out"
       ],
       "answer": "とりだす"
@@ -11632,7 +11824,7 @@ var decks = {
     {
       "question": [
         "黒",
-        "黒[くろ]",
+        "くろ",
         "black"
       ],
       "answer": "くろ"
@@ -11640,7 +11832,7 @@ var decks = {
     {
       "question": [
         "愛",
-        "愛[あい]",
+        "あい",
         "love"
       ],
       "answer": "あい"
@@ -11648,7 +11840,7 @@ var decks = {
     {
       "question": [
         "直接",
-        "直[ちょく] 接[せつ]",
+        "ちょくせつ",
         "directly"
       ],
       "answer": "ちょくせつ"
@@ -11656,7 +11848,7 @@ var decks = {
     {
       "question": [
         "浮かぶ",
-        "浮[う]かぶ",
+        "うかぶ",
         "float"
       ],
       "answer": "うかぶ"
@@ -11664,7 +11856,7 @@ var decks = {
     {
       "question": [
         "抜ける",
-        "抜[ぬ]ける",
+        "ぬける",
         "fall out, leave"
       ],
       "answer": "ぬける"
@@ -11672,7 +11864,7 @@ var decks = {
     {
       "question": [
         "暗い",
-        "暗[くら]い",
+        "くらい",
         "dark"
       ],
       "answer": "くらい"
@@ -11680,7 +11872,7 @@ var decks = {
     {
       "question": [
         "息",
-        "息[いき]",
+        "いき",
         "breath"
       ],
       "answer": "いき"
@@ -11688,7 +11880,7 @@ var decks = {
     {
       "question": [
         "駄目",
-        "駄[だ] 目[め]",
+        "だめ",
         "no good"
       ],
       "answer": "だめ"
@@ -11696,7 +11888,7 @@ var decks = {
     {
       "question": [
         "点",
-        "点[てん]",
+        "てん",
         "point, mark"
       ],
       "answer": "てん"
@@ -11704,7 +11896,7 @@ var decks = {
     {
       "question": [
         "参加",
-        "参[さん] 加[か]",
+        "さんか",
         "participation"
       ],
       "answer": "さんか"
@@ -11716,11 +11908,13 @@ var decks = {
         "clearly"
       ],
       "answer": "はっきり"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_40": [
     {
       "question": [
         "描く",
-        "描[か]く",
+        "かく",
         "depict, describe, draw"
       ],
       "answer": "かく"
@@ -11728,7 +11922,7 @@ var decks = {
     {
       "question": [
         "描く",
-        "描[えが]く",
+        "えがく",
         "depict, describe, draw"
       ],
       "answer": "えがく"
@@ -11736,7 +11930,7 @@ var decks = {
     {
       "question": [
         "無視",
-        "無[む] 視[し]",
+        "むし",
         "ignoring, disregarding"
       ],
       "answer": "むし"
@@ -11744,7 +11938,7 @@ var decks = {
     {
       "question": [
         "生徒",
-        "生[せい] 徒[と]",
+        "せいと",
         "pupil, student"
       ],
       "answer": "せいと"
@@ -11752,7 +11946,7 @@ var decks = {
     {
       "question": [
         "詳しい",
-        "詳[くわ]しい",
+        "くわしい",
         "detailed"
       ],
       "answer": "くわしい"
@@ -11760,7 +11954,7 @@ var decks = {
     {
       "question": [
         "触る",
-        "触[さわ]る",
+        "さわる",
         "touch"
       ],
       "answer": "さわる"
@@ -11776,7 +11970,7 @@ var decks = {
     {
       "question": [
         "半分",
-        "半[はん] 分[ぶん]",
+        "はんぶん",
         "half"
       ],
       "answer": "はんぶん"
@@ -11784,7 +11978,7 @@ var decks = {
     {
       "question": [
         "耐える",
-        "耐[た]える",
+        "たえる",
         "withstand, endure"
       ],
       "answer": "たえる"
@@ -11792,7 +11986,7 @@ var decks = {
     {
       "question": [
         "立場",
-        "立[たち] 場[ば]",
+        "たちば",
         "standpoint, position"
       ],
       "answer": "たちば"
@@ -11800,7 +11994,7 @@ var decks = {
     {
       "question": [
         "石",
-        "石[いし]",
+        "いし",
         "stone, small rock"
       ],
       "answer": "いし"
@@ -11808,7 +12002,7 @@ var decks = {
     {
       "question": [
         "挨拶",
-        "挨[あい] 拶[さつ]",
+        "あいさつ",
         "greeting"
       ],
       "answer": "あいさつ"
@@ -11816,7 +12010,7 @@ var decks = {
     {
       "question": [
         "相談",
-        "相[そう] 談[だん]",
+        "そうだん",
         "consultation, advice"
       ],
       "answer": "そうだん"
@@ -11824,7 +12018,7 @@ var decks = {
     {
       "question": [
         "受け入れる",
-        "受[う]け 入[い]れる",
+        "うけいれる",
         "accept, accommodate"
       ],
       "answer": "うけいれる"
@@ -11832,7 +12026,7 @@ var decks = {
     {
       "question": [
         "練習",
-        "練[れん] 習[しゅう]",
+        "れんしゅう",
         "practice, training"
       ],
       "answer": "れんしゅう"
@@ -11840,7 +12034,7 @@ var decks = {
     {
       "question": [
         "無駄",
-        "無[む] 駄[だ]",
+        "むだ",
         "wasteful, useless"
       ],
       "answer": "むだ"
@@ -11848,7 +12042,7 @@ var decks = {
     {
       "question": [
         "抱える",
-        "抱[かか]える",
+        "かかえる",
         "hold in one's arms"
       ],
       "answer": "かかえる"
@@ -11856,17 +12050,15 @@ var decks = {
     {
       "question": [
         "示す",
-        "示[しめ]す",
+        "しめす",
         "show, indicate"
       ],
       "answer": "しめす"
-    }
-  ],
-  "#01_kaishi15k_16": [
+    },
     {
       "question": [
         "成功",
-        "成[せい] 功[こう]",
+        "せいこう",
         "success"
       ],
       "answer": "せいこう"
@@ -11874,15 +12066,17 @@ var decks = {
     {
       "question": [
         "抱く",
-        "抱[だ]く",
+        "だく",
         "hug, hold in one's arms"
       ],
       "answer": "だく"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_41": [
     {
       "question": [
         "味",
-        "味[あじ]",
+        "あじ",
         "taste, flavor"
       ],
       "answer": "あじ"
@@ -11890,7 +12084,7 @@ var decks = {
     {
       "question": [
         "男性",
-        "男[だん] 性[せい]",
+        "だんせい",
         "male, man"
       ],
       "answer": "だんせい"
@@ -11898,7 +12092,7 @@ var decks = {
     {
       "question": [
         "否定",
-        "否[ひ] 定[てい]",
+        "ひてい",
         "denial, negation"
       ],
       "answer": "ひてい"
@@ -11906,7 +12100,7 @@ var decks = {
     {
       "question": [
         "致す",
-        "致[いた]す",
+        "いたす",
         "do (humble form)"
       ],
       "answer": "いたす"
@@ -11914,7 +12108,7 @@ var decks = {
     {
       "question": [
         "現在",
-        "現[げん] 在[ざい]",
+        "げんざい",
         "present time, now"
       ],
       "answer": "げんざい"
@@ -11922,7 +12116,7 @@ var decks = {
     {
       "question": [
         "輝く",
-        "輝[かがや]く",
+        "かがやく",
         "glitter, shine"
       ],
       "answer": "かがやく"
@@ -11930,7 +12124,7 @@ var decks = {
     {
       "question": [
         "熱",
-        "熱[ねつ]",
+        "ねつ",
         "fever"
       ],
       "answer": "ねつ"
@@ -11938,7 +12132,7 @@ var decks = {
     {
       "question": [
         "始め",
-        "始[はじ]め",
+        "はじめ",
         "beginning, origin"
       ],
       "answer": "はじめ"
@@ -11946,7 +12140,7 @@ var decks = {
     {
       "question": [
         "厳しい",
-        "厳[きび]しい",
+        "きびしい",
         "strict"
       ],
       "answer": "きびしい"
@@ -11954,7 +12148,7 @@ var decks = {
     {
       "question": [
         "匂い",
-        "匂[にお]い",
+        "におい",
         "smell, odor"
       ],
       "answer": "におい"
@@ -11962,7 +12156,7 @@ var decks = {
     {
       "question": [
         "席",
-        "席[せき]",
+        "せき",
         "seat"
       ],
       "answer": "せき"
@@ -11970,7 +12164,7 @@ var decks = {
     {
       "question": [
         "売る",
-        "売[う]る",
+        "うる",
         "sell"
       ],
       "answer": "うる"
@@ -11978,7 +12172,7 @@ var decks = {
     {
       "question": [
         "暮らす",
-        "暮[く]らす",
+        "くらす",
         "live, make a living"
       ],
       "answer": "くらす"
@@ -11986,7 +12180,7 @@ var decks = {
     {
       "question": [
         "利用",
-        "利[り] 用[よう]",
+        "りよう",
         "usage, utilization"
       ],
       "answer": "りよう"
@@ -12002,7 +12196,7 @@ var decks = {
     {
       "question": [
         "経験",
-        "経[けい] 験[けん]",
+        "けいけん",
         "experience"
       ],
       "answer": "けいけん"
@@ -12010,7 +12204,7 @@ var decks = {
     {
       "question": [
         "変化",
-        "変[へん] 化[か]",
+        "へんか",
         "change, variation"
       ],
       "answer": "へんか"
@@ -12018,7 +12212,7 @@ var decks = {
     {
       "question": [
         "王子",
-        "王[おう] 子[じ]",
+        "おうじ",
         "prince"
       ],
       "answer": "おうじ"
@@ -12026,7 +12220,7 @@ var decks = {
     {
       "question": [
         "満足",
-        "満[まん] 足[ぞく]",
+        "まんぞく",
         "satisfaction"
       ],
       "answer": "まんぞく"
@@ -12038,11 +12232,13 @@ var decks = {
         "steadily"
       ],
       "answer": "どんどん"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_42": [
     {
       "question": [
         "命令",
-        "命[めい] 令[れい]",
+        "めいれい",
         "order, command"
       ],
       "answer": "めいれい"
@@ -12050,7 +12246,7 @@ var decks = {
     {
       "question": [
         "主",
-        "主[おも]",
+        "おも",
         "main, chief"
       ],
       "answer": "おも"
@@ -12058,7 +12254,7 @@ var decks = {
     {
       "question": [
         "美味しい",
-        "美味[おい]しい",
+        "おいしい",
         "tasty"
       ],
       "answer": "おいしい"
@@ -12066,7 +12262,7 @@ var decks = {
     {
       "question": [
         "手紙",
-        "手[て] 紙[がみ]",
+        "てがみ",
         "letter"
       ],
       "answer": "てがみ"
@@ -12074,7 +12270,7 @@ var decks = {
     {
       "question": [
         "掴む",
-        "掴[つか]む",
+        "つかむ",
         "grip, grab"
       ],
       "answer": "つかむ"
@@ -12082,7 +12278,7 @@ var decks = {
     {
       "question": [
         "他人",
-        "他[た] 人[にん]",
+        "たにん",
         "another person, stranger"
       ],
       "answer": "たにん"
@@ -12090,7 +12286,7 @@ var decks = {
     {
       "question": [
         "格好",
-        "格[かっ] 好[こう]",
+        "かっこう",
         "shape, appearance"
       ],
       "answer": "かっこう"
@@ -12098,7 +12294,7 @@ var decks = {
     {
       "question": [
         "光景",
-        "光[こう] 景[けい]",
+        "こうけい",
         "sight, spectacle"
       ],
       "answer": "こうけい"
@@ -12122,7 +12318,7 @@ var decks = {
     {
       "question": [
         "親",
-        "親[おや]",
+        "おや",
         "parent"
       ],
       "answer": "おや"
@@ -12130,7 +12326,7 @@ var decks = {
     {
       "question": [
         "時代",
-        "時[じ] 代[だい]",
+        "じだい",
         "period, age"
       ],
       "answer": "じだい"
@@ -12138,7 +12334,7 @@ var decks = {
     {
       "question": [
         "作戦",
-        "作[さく] 戦[せん]",
+        "さくせん",
         "tactic, strategy"
       ],
       "answer": "さくせん"
@@ -12154,7 +12350,7 @@ var decks = {
     {
       "question": [
         "苦しい",
-        "苦[くる]しい",
+        "くるしい",
         "painful, difficult"
       ],
       "answer": "くるしい"
@@ -12162,7 +12358,7 @@ var decks = {
     {
       "question": [
         "明るい",
-        "明[あか]るい",
+        "あかるい",
         "bright"
       ],
       "answer": "あかるい"
@@ -12170,7 +12366,7 @@ var decks = {
     {
       "question": [
         "原因",
-        "原[げん] 因[いん]",
+        "げんいん",
         "cause, origin"
       ],
       "answer": "げんいん"
@@ -12178,7 +12374,7 @@ var decks = {
     {
       "question": [
         "廊下",
-        "廊[ろう] 下[か]",
+        "ろうか",
         "hallway"
       ],
       "answer": "ろうか"
@@ -12194,15 +12390,17 @@ var decks = {
     {
       "question": [
         "先ほど",
-        "先[さき]ほど",
+        "さきほど",
         "some time ago"
       ],
       "answer": "さきほど"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_43": [
     {
       "question": [
         "大人",
-        "大人[おとな]",
+        "おとな",
         "adult"
       ],
       "answer": "おとな"
@@ -12210,7 +12408,7 @@ var decks = {
     {
       "question": [
         "人々",
-        "人[ひと] 々[びと]",
+        "ひとびと",
         "people"
       ],
       "answer": "ひとびと"
@@ -12218,7 +12416,7 @@ var decks = {
     {
       "question": [
         "撫でる",
-        "撫[な]でる",
+        "なでる",
         "pat, stroke"
       ],
       "answer": "なでる"
@@ -12226,7 +12424,7 @@ var decks = {
     {
       "question": [
         "立てる",
-        "立[た]てる",
+        "たてる",
         "put up, erect"
       ],
       "answer": "たてる"
@@ -12242,7 +12440,7 @@ var decks = {
     {
       "question": [
         "押す",
-        "押[お]す",
+        "おす",
         "push, press down"
       ],
       "answer": "おす"
@@ -12250,7 +12448,7 @@ var decks = {
     {
       "question": [
         "平気",
-        "平[へい] 気[き]",
+        "へいき",
         "calm, all right"
       ],
       "answer": "へいき"
@@ -12258,17 +12456,15 @@ var decks = {
     {
       "question": [
         "悲しい",
-        "悲[かな]しい",
+        "かなしい",
         "sad"
       ],
       "answer": "かなしい"
-    }
-  ],
-  "#01_kaishi15k_17": [
+    },
     {
       "question": [
         "隠れる",
-        "隠[かく]れる",
+        "かくれる",
         "hide, disappear"
       ],
       "answer": "かくれる"
@@ -12284,7 +12480,7 @@ var decks = {
     {
       "question": [
         "皆さん",
-        "皆[みな]さん",
+        "みなさん",
         "everyone"
       ],
       "answer": "みなさん"
@@ -12292,7 +12488,7 @@ var decks = {
     {
       "question": [
         "戻す",
-        "戻[もど]す",
+        "もどす",
         "return"
       ],
       "answer": "もどす"
@@ -12300,7 +12496,7 @@ var decks = {
     {
       "question": [
         "戦闘",
-        "戦[せん] 闘[とう]",
+        "せんとう",
         "battle, fight"
       ],
       "answer": "せんとう"
@@ -12308,7 +12504,7 @@ var decks = {
     {
       "question": [
         "火",
-        "火[ひ]",
+        "ひ",
         "fire"
       ],
       "answer": "ひ"
@@ -12316,7 +12512,7 @@ var decks = {
     {
       "question": [
         "炎",
-        "炎[ほのお]",
+        "ほのお",
         "flame, blaze"
       ],
       "answer": "ほのお"
@@ -12324,7 +12520,7 @@ var decks = {
     {
       "question": [
         "恐怖",
-        "恐[きょう] 怖[ふ]",
+        "きょうふ",
         "fear"
       ],
       "answer": "きょうふ"
@@ -12332,7 +12528,7 @@ var decks = {
     {
       "question": [
         "迷う",
-        "迷[まよ]う",
+        "まよう",
         "be perplexed, get lost"
       ],
       "answer": "まよう"
@@ -12348,7 +12544,7 @@ var decks = {
     {
       "question": [
         "機会",
-        "機[き] 会[かい]",
+        "きかい",
         "chance, opportunity, occasion"
       ],
       "answer": "きかい"
@@ -12356,15 +12552,17 @@ var decks = {
     {
       "question": [
         "恐ろしい",
-        "恐[おそ]ろしい",
+        "おそろしい",
         "terrible, frightening"
       ],
       "answer": "おそろしい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_44": [
     {
       "question": [
         "借りる",
-        "借[か]りる",
+        "かりる",
         "borrow"
       ],
       "answer": "かりる"
@@ -12372,7 +12570,7 @@ var decks = {
     {
       "question": [
         "外す",
-        "外[はず]す",
+        "はずす",
         "remove"
       ],
       "answer": "はずす"
@@ -12380,7 +12578,7 @@ var decks = {
     {
       "question": [
         "地",
-        "地[ち]",
+        "ち",
         "ground, place"
       ],
       "answer": "ち"
@@ -12388,7 +12586,7 @@ var decks = {
     {
       "question": [
         "速い",
-        "速[はや]い",
+        "はやい",
         "fast (in terms of speed)"
       ],
       "answer": "はやい"
@@ -12396,7 +12594,7 @@ var decks = {
     {
       "question": [
         "短い",
-        "短[みじか]い",
+        "みじかい",
         "short, brief"
       ],
       "answer": "みじかい"
@@ -12404,7 +12602,7 @@ var decks = {
     {
       "question": [
         "気に入る",
-        "気[き]に 入[い]る",
+        "きにいる",
         "like, be pleased with"
       ],
       "answer": "きにいる"
@@ -12412,7 +12610,7 @@ var decks = {
     {
       "question": [
         "改めて",
-        "改[あらた]めて",
+        "あらためて",
         "once again"
       ],
       "answer": "あらためて"
@@ -12428,7 +12626,7 @@ var decks = {
     {
       "question": [
         "当てる",
-        "当[あ]てる",
+        "あてる",
         "hit, guess"
       ],
       "answer": "あてる"
@@ -12436,7 +12634,7 @@ var decks = {
     {
       "question": [
         "包む",
-        "包[つつ]む",
+        "つつむ",
         "wrap, pack"
       ],
       "answer": "つつむ"
@@ -12444,7 +12642,7 @@ var decks = {
     {
       "question": [
         "位置",
-        "位[い] 置[ち]",
+        "いち",
         "position, place"
       ],
       "answer": "いち"
@@ -12452,7 +12650,7 @@ var decks = {
     {
       "question": [
         "打つ",
-        "打[う]つ",
+        "うつ",
         "hit, strike"
       ],
       "answer": "うつ"
@@ -12460,7 +12658,7 @@ var decks = {
     {
       "question": [
         "目指す",
-        "目[め] 指[ざ]す",
+        "めざす",
         "aim for"
       ],
       "answer": "めざす"
@@ -12468,7 +12666,7 @@ var decks = {
     {
       "question": [
         "秘密",
-        "秘[ひ] 密[みつ]",
+        "ひみつ",
         "secret, privacy"
       ],
       "answer": "ひみつ"
@@ -12476,7 +12674,7 @@ var decks = {
     {
       "question": [
         "屋敷",
-        "屋[や] 敷[しき]",
+        "やしき",
         "mansion"
       ],
       "answer": "やしき"
@@ -12484,7 +12682,7 @@ var decks = {
     {
       "question": [
         "限界",
-        "限[げん] 界[かい]",
+        "げんかい",
         "boundary, limit"
       ],
       "answer": "げんかい"
@@ -12492,7 +12690,7 @@ var decks = {
     {
       "question": [
         "勝負",
-        "勝[しょう] 負[ぶ]",
+        "しょうぶ",
         "match, contest"
       ],
       "answer": "しょうぶ"
@@ -12500,7 +12698,7 @@ var decks = {
     {
       "question": [
         "星",
-        "星[ほし]",
+        "ほし",
         "star, planet"
       ],
       "answer": "ほし"
@@ -12508,7 +12706,7 @@ var decks = {
     {
       "question": [
         "明らか",
-        "明[あき]らか",
+        "あきらか",
         "clear, obvious"
       ],
       "answer": "あきらか"
@@ -12516,15 +12714,17 @@ var decks = {
     {
       "question": [
         "悩む",
-        "悩[なや]む",
+        "なやむ",
         "be troubled, worry"
       ],
       "answer": "なやむ"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_45": [
     {
       "question": [
         "集中",
-        "集[しゅう] 中[ちゅう]",
+        "しゅうちゅう",
         "concentration, convergence"
       ],
       "answer": "しゅうちゅう"
@@ -12532,7 +12732,7 @@ var decks = {
     {
       "question": [
         "間違う",
-        "間[ま] 違[ちが]う",
+        "まちがう",
         "be mistaken, be incorrect"
       ],
       "answer": "まちがう"
@@ -12540,7 +12740,7 @@ var decks = {
     {
       "question": [
         "裏",
-        "裏[うら]",
+        "うら",
         "rear, reverse"
       ],
       "answer": "うら"
@@ -12548,7 +12748,7 @@ var decks = {
     {
       "question": [
         "薄い",
-        "薄[うす]い",
+        "うすい",
         "weak, pale"
       ],
       "answer": "うすい"
@@ -12556,7 +12756,7 @@ var decks = {
     {
       "question": [
         "願う",
-        "願[ねが]う",
+        "ねがう",
         "wish, ask a favor, pray"
       ],
       "answer": "ねがう"
@@ -12564,7 +12764,7 @@ var decks = {
     {
       "question": [
         "回復",
-        "回[かい] 復[ふく]",
+        "かいふく",
         "recovery"
       ],
       "answer": "かいふく"
@@ -12572,7 +12772,7 @@ var decks = {
     {
       "question": [
         "流す",
-        "流[なが]す",
+        "ながす",
         "let flow, set adrift"
       ],
       "answer": "ながす"
@@ -12588,7 +12788,7 @@ var decks = {
     {
       "question": [
         "本物",
-        "本[ほん] 物[もの]",
+        "ほんもの",
         "real thing, genuine article"
       ],
       "answer": "ほんもの"
@@ -12596,7 +12796,7 @@ var decks = {
     {
       "question": [
         "正に",
-        "正[まさ]に",
+        "まさに",
         "exactly, surely, truly"
       ],
       "answer": "まさに"
@@ -12604,7 +12804,7 @@ var decks = {
     {
       "question": [
         "取り戻す",
-        "取[と]り 戻[もど]す",
+        "とりもどす",
         "take back, recover"
       ],
       "answer": "とりもどす"
@@ -12612,7 +12812,7 @@ var decks = {
     {
       "question": [
         "何より",
-        "何[なに]より",
+        "なにより",
         "above all, most important"
       ],
       "answer": "なにより"
@@ -12620,7 +12820,7 @@ var decks = {
     {
       "question": [
         "身体",
-        "身[しん] 体[たい]",
+        "しんたい",
         "body"
       ],
       "answer": "しんたい"
@@ -12628,7 +12828,7 @@ var decks = {
     {
       "question": [
         "方向",
-        "方[ほう] 向[こう]",
+        "ほうこう",
         "direction, course"
       ],
       "answer": "ほうこう"
@@ -12636,7 +12836,7 @@ var decks = {
     {
       "question": [
         "通る",
-        "通[とお]る",
+        "とおる",
         "pass, take, go through"
       ],
       "answer": "とおる"
@@ -12644,7 +12844,7 @@ var decks = {
     {
       "question": [
         "空間",
-        "空[くう] 間[かん]",
+        "くうかん",
         "space, room"
       ],
       "answer": "くうかん"
@@ -12652,7 +12852,7 @@ var decks = {
     {
       "question": [
         "着く",
-        "着[つ]く",
+        "つく",
         "arrive"
       ],
       "answer": "つく"
@@ -12660,17 +12860,15 @@ var decks = {
     {
       "question": [
         "可能",
-        "可[か] 能[のう]",
+        "かのう",
         "possible, potential"
       ],
       "answer": "かのう"
-    }
-  ],
-  "#01_kaishi15k_18": [
+    },
     {
       "question": [
         "新た",
-        "新[あら]た",
+        "あらた",
         "new"
       ],
       "answer": "あらた"
@@ -12678,15 +12876,17 @@ var decks = {
     {
       "question": [
         "随分",
-        "随[ずい] 分[ぶん]",
+        "ずいぶん",
         "extremely, considerably"
       ],
       "answer": "ずいぶん"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_46": [
     {
       "question": [
         "尋ねる",
-        "尋[たず]ねる",
+        "たずねる",
         "inquire, search for"
       ],
       "answer": "たずねる"
@@ -12694,7 +12894,7 @@ var decks = {
     {
       "question": [
         "椅子",
-        "椅[い] 子[す]",
+        "いす",
         "chair"
       ],
       "answer": "いす"
@@ -12702,7 +12902,7 @@ var decks = {
     {
       "question": [
         "城",
-        "城[しろ]",
+        "しろ",
         "castle"
       ],
       "answer": "しろ"
@@ -12710,7 +12910,7 @@ var decks = {
     {
       "question": [
         "恐らく",
-        "恐[おそ]らく",
+        "おそらく",
         "probably (usually negative), I'm afraid ..."
       ],
       "answer": "おそらく"
@@ -12718,7 +12918,7 @@ var decks = {
     {
       "question": [
         "お茶",
-        "お 茶[ちゃ]",
+        "おちゃ",
         "tea (polite)"
       ],
       "answer": "おちゃ"
@@ -12726,7 +12926,7 @@ var decks = {
     {
       "question": [
         "雨",
-        "雨[あめ]",
+        "あめ",
         "rain"
       ],
       "answer": "あめ"
@@ -12750,7 +12950,7 @@ var decks = {
     {
       "question": [
         "教室",
-        "教[きょう] 室[しつ]",
+        "きょうしつ",
         "classroom"
       ],
       "answer": "きょうしつ"
@@ -12758,7 +12958,7 @@ var decks = {
     {
       "question": [
         "馬鹿",
-        "馬[ば] 鹿[か]",
+        "ばか",
         "fool, nonsense"
       ],
       "answer": "ばか"
@@ -12766,7 +12966,7 @@ var decks = {
     {
       "question": [
         "遠慮",
-        "遠[えん] 慮[りょ]",
+        "えんりょ",
         "reserve, refraining"
       ],
       "answer": "えんりょ"
@@ -12798,7 +12998,7 @@ var decks = {
     {
       "question": [
         "迎える",
-        "迎[むか]える",
+        "むかえる",
         "welcome, go out to meet, invite"
       ],
       "answer": "むかえる"
@@ -12806,7 +13006,7 @@ var decks = {
     {
       "question": [
         "少なくとも",
-        "少[すく]なくとも",
+        "すくなくとも",
         "at least"
       ],
       "answer": "すくなくとも"
@@ -12814,7 +13014,7 @@ var decks = {
     {
       "question": [
         "魂",
-        "魂[たましい]",
+        "たましい",
         "soul, spirit"
       ],
       "answer": "たましい"
@@ -12822,7 +13022,7 @@ var decks = {
     {
       "question": [
         "消す",
-        "消[け]す",
+        "けす",
         "turn off"
       ],
       "answer": "けす"
@@ -12830,7 +13030,7 @@ var decks = {
     {
       "question": [
         "調子",
-        "調[ちょう] 子[し]",
+        "ちょうし",
         "condition, state of health"
       ],
       "answer": "ちょうし"
@@ -12838,15 +13038,17 @@ var decks = {
     {
       "question": [
         "お互い",
-        "お 互[たが]い",
+        "おたがい",
         "each other"
       ],
       "answer": "おたがい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_47": [
     {
       "question": [
         "似合う",
-        "似[に] 合[あ]う",
+        "にあう",
         "suit, match well"
       ],
       "answer": "にあう"
@@ -12854,7 +13056,7 @@ var decks = {
     {
       "question": [
         "猫",
-        "猫[ねこ]",
+        "ねこ",
         "cat"
       ],
       "answer": "ねこ"
@@ -12862,7 +13064,7 @@ var decks = {
     {
       "question": [
         "犬",
-        "犬[いぬ]",
+        "いぬ",
         "dog"
       ],
       "answer": "いぬ"
@@ -12870,7 +13072,7 @@ var decks = {
     {
       "question": [
         "お礼",
-        "お 礼[れい]",
+        "おれい",
         "gratitude"
       ],
       "answer": "おれい"
@@ -12878,7 +13080,7 @@ var decks = {
     {
       "question": [
         "後悔",
-        "後[こう] 悔[かい]",
+        "こうかい",
         "regret"
       ],
       "answer": "こうかい"
@@ -12886,7 +13088,7 @@ var decks = {
     {
       "question": [
         "希望",
-        "希[き] 望[ぼう]",
+        "きぼう",
         "hope, wish"
       ],
       "answer": "きぼう"
@@ -12894,7 +13096,7 @@ var decks = {
     {
       "question": [
         "下がる",
-        "下[さ]がる",
+        "さがる",
         "come down, hang down, fall"
       ],
       "answer": "さがる"
@@ -12902,7 +13104,7 @@ var decks = {
     {
       "question": [
         "訪れる",
-        "訪[おとず]れる",
+        "おとずれる",
         "visit, call on"
       ],
       "answer": "おとずれる"
@@ -12910,7 +13112,7 @@ var decks = {
     {
       "question": [
         "褒める",
-        "褒[ほ]める",
+        "ほめる",
         "praise, commend"
       ],
       "answer": "ほめる"
@@ -12918,7 +13120,7 @@ var decks = {
     {
       "question": [
         "性格",
-        "性[せい] 格[かく]",
+        "せいかく",
         "character, personality"
       ],
       "answer": "せいかく"
@@ -12926,7 +13128,7 @@ var decks = {
     {
       "question": [
         "写真",
-        "写[しゃ] 真[しん]",
+        "しゃしん",
         "photograph"
       ],
       "answer": "しゃしん"
@@ -12934,7 +13136,7 @@ var decks = {
     {
       "question": [
         "薬",
-        "薬[くすり]",
+        "くすり",
         "drug, remedy"
       ],
       "answer": "くすり"
@@ -12942,7 +13144,7 @@ var decks = {
     {
       "question": [
         "友人",
-        "友[ゆう] 人[じん]",
+        "ゆうじん",
         "friend"
       ],
       "answer": "ゆうじん"
@@ -12958,7 +13160,7 @@ var decks = {
     {
       "question": [
         "確実",
-        "確[かく] 実[じつ]",
+        "かくじつ",
         "certain, secure"
       ],
       "answer": "かくじつ"
@@ -12974,7 +13176,7 @@ var decks = {
     {
       "question": [
         "去る",
-        "去[さ]る",
+        "さる",
         "go away, pass"
       ],
       "answer": "さる"
@@ -12982,7 +13184,7 @@ var decks = {
     {
       "question": [
         "一部",
-        "一[いち] 部[ぶ]",
+        "いちぶ",
         "(one) part"
       ],
       "answer": "いちぶ"
@@ -12990,7 +13192,7 @@ var decks = {
     {
       "question": [
         "遠く",
-        "遠[とお]く",
+        "とおく",
         "far (away)"
       ],
       "answer": "とおく"
@@ -12998,15 +13200,17 @@ var decks = {
     {
       "question": [
         "腹",
-        "腹[はら]",
+        "はら",
         "belly"
       ],
       "answer": "はら"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_48": [
     {
       "question": [
         "階段",
-        "階[かい] 段[だん]",
+        "かいだん",
         "stairs"
       ],
       "answer": "かいだん"
@@ -13014,7 +13218,7 @@ var decks = {
     {
       "question": [
         "適当",
-        "適[てき] 当[とう]",
+        "てきとう",
         "suitable, appropriate"
       ],
       "answer": "てきとう"
@@ -13022,7 +13226,7 @@ var decks = {
     {
       "question": [
         "舌",
-        "舌[した]",
+        "した",
         "tongue"
       ],
       "answer": "した"
@@ -13030,7 +13234,7 @@ var decks = {
     {
       "question": [
         "予想",
-        "予[よ] 想[そう]",
+        "よそう",
         "prospect, expectation"
       ],
       "answer": "よそう"
@@ -13038,7 +13242,7 @@ var decks = {
     {
       "question": [
         "興奮",
-        "興[こう] 奮[ふん]",
+        "こうふん",
         "excitement, agitation"
       ],
       "answer": "こうふん"
@@ -13046,7 +13250,7 @@ var decks = {
     {
       "question": [
         "関わる",
-        "関[かか]わる",
+        "かかわる",
         "involve, concern"
       ],
       "answer": "かかわる"
@@ -13054,7 +13258,7 @@ var decks = {
     {
       "question": [
         "白",
-        "白[しろ]",
+        "しろ",
         "white"
       ],
       "answer": "しろ"
@@ -13062,17 +13266,15 @@ var decks = {
     {
       "question": [
         "進める",
-        "進[すす]める",
+        "すすめる",
         "advance, promote"
       ],
       "answer": "すすめる"
-    }
-  ],
-  "#01_kaishi15k_19": [
+    },
     {
       "question": [
         "真剣",
-        "真[しん] 剣[けん]",
+        "しんけん",
         "serious, sincere"
       ],
       "answer": "しんけん"
@@ -13080,7 +13282,7 @@ var decks = {
     {
       "question": [
         "迫る",
-        "迫[せま]る",
+        "せまる",
         "press, close in on"
       ],
       "answer": "せまる"
@@ -13104,7 +13306,7 @@ var decks = {
     {
       "question": [
         "疑問",
-        "疑[ぎ] 問[もん]",
+        "ぎもん",
         "question, doubt"
       ],
       "answer": "ぎもん"
@@ -13112,7 +13314,7 @@ var decks = {
     {
       "question": [
         "指示",
-        "指[し] 示[じ]",
+        "しじ",
         "instruction, indication"
       ],
       "answer": "しじ"
@@ -13120,7 +13322,7 @@ var decks = {
     {
       "question": [
         "揺れる",
-        "揺[ゆ]れる",
+        "ゆれる",
         "shake, sway"
       ],
       "answer": "ゆれる"
@@ -13128,7 +13330,7 @@ var decks = {
     {
       "question": [
         "相当",
-        "相[そう] 当[とう]",
+        "そうとう",
         "correspondence, suitability"
       ],
       "answer": "そうとう"
@@ -13136,7 +13338,7 @@ var decks = {
     {
       "question": [
         "楽",
-        "楽[らく]",
+        "らく",
         "easy, comfortable"
       ],
       "answer": "らく"
@@ -13144,7 +13346,7 @@ var decks = {
     {
       "question": [
         "勘違い",
-        "勘[かん] 違[ちが]い",
+        "かんちがい",
         "misunderstanding"
       ],
       "answer": "かんちがい"
@@ -13152,7 +13354,7 @@ var decks = {
     {
       "question": [
         "警戒",
-        "警[けい] 戒[かい]",
+        "けいかい",
         "vigilance, precaution"
       ],
       "answer": "けいかい"
@@ -13160,15 +13362,17 @@ var decks = {
     {
       "question": [
         "確かめる",
-        "確[たし]かめる",
+        "たしかめる",
         "check, make sure of"
       ],
       "answer": "たしかめる"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_49": [
     {
       "question": [
         "月",
-        "月[つき]",
+        "つき",
         "moon"
       ],
       "answer": "つき"
@@ -13176,7 +13380,7 @@ var decks = {
     {
       "question": [
         "疑う",
-        "疑[うたが]う",
+        "うたがう",
         "doubt, be suspicious"
       ],
       "answer": "うたがう"
@@ -13184,7 +13388,7 @@ var decks = {
     {
       "question": [
         "電話",
-        "電[でん] 話[わ]",
+        "でんわ",
         "telephone"
       ],
       "answer": "でんわ"
@@ -13192,7 +13396,7 @@ var decks = {
     {
       "question": [
         "成長",
-        "成[せい] 長[ちょう]",
+        "せいちょう",
         "growth"
       ],
       "answer": "せいちょう"
@@ -13200,7 +13404,7 @@ var decks = {
     {
       "question": [
         "鋭い",
-        "鋭[するど]い",
+        "するどい",
         "acute, sharp"
       ],
       "answer": "するどい"
@@ -13208,7 +13412,7 @@ var decks = {
     {
       "question": [
         "証拠",
-        "証[しょう] 拠[こ]",
+        "しょうこ",
         "proof, evidence"
       ],
       "answer": "しょうこ"
@@ -13216,7 +13420,7 @@ var decks = {
     {
       "question": [
         "紹介",
-        "紹[しょう] 介[かい]",
+        "しょうかい",
         "introduction, referral"
       ],
       "answer": "しょうかい"
@@ -13224,7 +13428,7 @@ var decks = {
     {
       "question": [
         "実際",
-        "実[じっ] 際[さい]",
+        "じっさい",
         "reality, actuality"
       ],
       "answer": "じっさい"
@@ -13232,7 +13436,7 @@ var decks = {
     {
       "question": [
         "何でも",
-        "何[なん]でも",
+        "なんでも",
         "anything, whatever"
       ],
       "answer": "なんでも"
@@ -13240,7 +13444,7 @@ var decks = {
     {
       "question": [
         "作業",
-        "作[さ] 業[ぎょう]",
+        "さぎょう",
         "work, operation"
       ],
       "answer": "さぎょう"
@@ -13248,7 +13452,7 @@ var decks = {
     {
       "question": [
         "重要",
-        "重[じゅう] 要[よう]",
+        "じゅうよう",
         "important, essential"
       ],
       "answer": "じゅうよう"
@@ -13256,7 +13460,7 @@ var decks = {
     {
       "question": [
         "鍵",
-        "鍵[かぎ]",
+        "かぎ",
         "key"
       ],
       "answer": "かぎ"
@@ -13264,7 +13468,7 @@ var decks = {
     {
       "question": [
         "衝撃",
-        "衝[しょう] 撃[げき]",
+        "しょうげき",
         "impact, shock"
       ],
       "answer": "しょうげき"
@@ -13272,7 +13476,7 @@ var decks = {
     {
       "question": [
         "巻き込む",
-        "巻[ま]き 込[こ]む",
+        "まきこむ",
         "roll up, involve"
       ],
       "answer": "まきこむ"
@@ -13280,7 +13484,7 @@ var decks = {
     {
       "question": [
         "差し出す",
-        "差[さ]し 出[だ]す",
+        "さしだす",
         "submit"
       ],
       "answer": "さしだす"
@@ -13288,7 +13492,7 @@ var decks = {
     {
       "question": [
         "軍",
-        "軍[ぐん]",
+        "ぐん",
         "army, troops"
       ],
       "answer": "ぐん"
@@ -13304,7 +13508,7 @@ var decks = {
     {
       "question": [
         "悔しい",
-        "悔[くや]しい",
+        "くやしい",
         "vexing, frustrating"
       ],
       "answer": "くやしい"
@@ -13312,7 +13516,7 @@ var decks = {
     {
       "question": [
         "抜く",
-        "抜[ぬ]く",
+        "ぬく",
         "pull out"
       ],
       "answer": "ぬく"
@@ -13320,15 +13524,17 @@ var decks = {
     {
       "question": [
         "破壊",
-        "破[は] 壊[かい]",
+        "はかい",
         "breaking, destruction"
       ],
       "answer": "はかい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_50": [
     {
       "question": [
         "運命",
-        "運[うん] 命[めい]",
+        "うんめい",
         "fate, fortune"
       ],
       "answer": "うんめい"
@@ -13336,7 +13542,7 @@ var decks = {
     {
       "question": [
         "案内",
-        "案[あん] 内[ない]",
+        "あんない",
         "guide, show around"
       ],
       "answer": "あんない"
@@ -13344,7 +13550,7 @@ var decks = {
     {
       "question": [
         "努力",
-        "努[ど] 力[りょく]",
+        "どりょく",
         "endeavor, effort"
       ],
       "answer": "どりょく"
@@ -13360,7 +13566,7 @@ var decks = {
     {
       "question": [
         "一言",
-        "一[ひと] 言[こと]",
+        "ひとこと",
         "single word, a few words"
       ],
       "answer": "ひとこと"
@@ -13376,7 +13582,7 @@ var decks = {
     {
       "question": [
         "心臓",
-        "心[しん] 臓[ぞう]",
+        "しんぞう",
         "heart"
       ],
       "answer": "しんぞう"
@@ -13384,7 +13590,7 @@ var decks = {
     {
       "question": [
         "荷物",
-        "荷[に] 物[もつ]",
+        "にもつ",
         "baggage, load"
       ],
       "answer": "にもつ"
@@ -13392,7 +13598,7 @@ var decks = {
     {
       "question": [
         "伸びる",
-        "伸[の]びる",
+        "のびる",
         "stretch, grow"
       ],
       "answer": "のびる"
@@ -13400,7 +13606,7 @@ var decks = {
     {
       "question": [
         "両親",
-        "両[りょう] 親[しん]",
+        "りょうしん",
         "(both) parents"
       ],
       "answer": "りょうしん"
@@ -13408,7 +13614,7 @@ var decks = {
     {
       "question": [
         "量",
-        "量[りょう]",
+        "りょう",
         "amount, portion"
       ],
       "answer": "りょう"
@@ -13416,7 +13622,7 @@ var decks = {
     {
       "question": [
         "払う",
-        "払[はら]う",
+        "はらう",
         "pay"
       ],
       "answer": "はらう"
@@ -13424,7 +13630,7 @@ var decks = {
     {
       "question": [
         "二度と",
-        "二[に] 度[ど]と",
+        "にどと",
         "never again"
       ],
       "answer": "にどと"
@@ -13432,7 +13638,7 @@ var decks = {
     {
       "question": [
         "辺り",
-        "辺[あた]り",
+        "あたり",
         "vicinity, around"
       ],
       "answer": "あたり"
@@ -13440,7 +13646,7 @@ var decks = {
     {
       "question": [
         "開始",
-        "開[かい] 始[し]",
+        "かいし",
         "beginning"
       ],
       "answer": "かいし"
@@ -13448,7 +13654,7 @@ var decks = {
     {
       "question": [
         "解放",
-        "解[かい] 放[ほう]",
+        "かいほう",
         "release, setting free"
       ],
       "answer": "かいほう"
@@ -13456,7 +13662,7 @@ var decks = {
     {
       "question": [
         "仲良く",
-        "仲[なか] 良[よ]く",
+        "なかよく",
         "harmoniously, amicably"
       ],
       "answer": "なかよく"
@@ -13464,17 +13670,15 @@ var decks = {
     {
       "question": [
         "獣",
-        "獣[けもの]",
+        "けもの",
         "beast, brute"
       ],
       "answer": "けもの"
-    }
-  ],
-  "#01_kaishi15k_20": [
+    },
     {
       "question": [
         "取れる",
-        "取[と]れる",
+        "とれる",
         "come off, be removed"
       ],
       "answer": "とれる"
@@ -13482,15 +13686,17 @@ var decks = {
     {
       "question": [
         "建物",
-        "建[たて] 物[もの]",
+        "たてもの",
         "building, structure"
       ],
       "answer": "たてもの"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_51": [
     {
       "question": [
         "本来",
-        "本[ほん] 来[らい]",
+        "ほんらい",
         "originally, essentially"
       ],
       "answer": "ほんらい"
@@ -13498,7 +13704,7 @@ var decks = {
     {
       "question": [
         "扱う",
-        "扱[あつか]う",
+        "あつかう",
         "handle, deal with"
       ],
       "answer": "あつかう"
@@ -13506,7 +13712,7 @@ var decks = {
     {
       "question": [
         "真面目",
-        "真面目[まじめ]",
+        "まじめ",
         "serious, earnest"
       ],
       "answer": "まじめ"
@@ -13514,7 +13720,7 @@ var decks = {
     {
       "question": [
         "影響",
-        "影[えい] 響[きょう]",
+        "えいきょう",
         "influence, effect"
       ],
       "answer": "えいきょう"
@@ -13522,7 +13728,7 @@ var decks = {
     {
       "question": [
         "真っ赤",
-        "真[ま]っ 赤[か]",
+        "まっか",
         "deep red"
       ],
       "answer": "まっか"
@@ -13530,7 +13736,7 @@ var decks = {
     {
       "question": [
         "発見",
-        "発[はっ] 見[けん]",
+        "はっけん",
         "discovery, revelation"
       ],
       "answer": "はっけん"
@@ -13538,7 +13744,7 @@ var decks = {
     {
       "question": [
         "支える",
-        "支[ささ]える",
+        "ささえる",
         "support, maintain"
       ],
       "answer": "ささえる"
@@ -13546,7 +13752,7 @@ var decks = {
     {
       "question": [
         "第一",
-        "第[だい] 一[いち]",
+        "だいいち",
         "number one, first"
       ],
       "answer": "だいいち"
@@ -13554,7 +13760,7 @@ var decks = {
     {
       "question": [
         "お父さん",
-        "お 父[とう]さん",
+        "おとうさん",
         "father"
       ],
       "answer": "おとうさん"
@@ -13562,7 +13768,7 @@ var decks = {
     {
       "question": [
         "お母さん",
-        "お 母[かあ]さん",
+        "おかあさん",
         "mother"
       ],
       "answer": "おかあさん"
@@ -13570,7 +13776,7 @@ var decks = {
     {
       "question": [
         "お兄さん",
-        "お 兄[にい]さん",
+        "おにいさん",
         "older brother"
       ],
       "answer": "おにいさん"
@@ -13578,7 +13784,7 @@ var decks = {
     {
       "question": [
         "お姉さん",
-        "お 姉[ねえ]さん",
+        "おねえさん",
         "older sister"
       ],
       "answer": "おねえさん"
@@ -13610,7 +13816,7 @@ var decks = {
     {
       "question": [
         "机",
-        "机[つくえ]",
+        "つくえ",
         "desk, table"
       ],
       "answer": "つくえ"
@@ -13618,7 +13824,7 @@ var decks = {
     {
       "question": [
         "同士",
-        "同[どう] 士[し]",
+        "どうし",
         "of the same kind, each other, fellow"
       ],
       "answer": "どうし"
@@ -13626,7 +13832,7 @@ var decks = {
     {
       "question": [
         "遅れる",
-        "遅[おく]れる",
+        "おくれる",
         "be late"
       ],
       "answer": "おくれる"
@@ -13634,7 +13840,7 @@ var decks = {
     {
       "question": [
         "車",
-        "車[くるま]",
+        "くるま",
         "car, automobile"
       ],
       "answer": "くるま"
@@ -13642,15 +13848,17 @@ var decks = {
     {
       "question": [
         "飛び出す",
-        "飛[と]び 出[だ]す",
+        "とびだす",
         "fly out, dash out"
       ],
       "answer": "とびだす"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_52": [
     {
       "question": [
         "事態",
-        "事[じ] 態[たい]",
+        "じたい",
         "situation, state of affairs"
       ],
       "answer": "じたい"
@@ -13658,7 +13866,7 @@ var decks = {
     {
       "question": [
         "味方",
-        "味[み] 方[かた]",
+        "みかた",
         "friend, ally"
       ],
       "answer": "みかた"
@@ -13666,7 +13874,7 @@ var decks = {
     {
       "question": [
         "展開",
-        "展[てん] 開[かい]",
+        "てんかい",
         "unfolding, development"
       ],
       "answer": "てんかい"
@@ -13674,7 +13882,7 @@ var decks = {
     {
       "question": [
         "学園",
-        "学[がく] 園[えん]",
+        "がくえん",
         "educational institution, school"
       ],
       "answer": "がくえん"
@@ -13682,7 +13890,7 @@ var decks = {
     {
       "question": [
         "怪しい",
-        "怪[あや]しい",
+        "あやしい",
         "suspicious, dubious"
       ],
       "answer": "あやしい"
@@ -13690,7 +13898,7 @@ var decks = {
     {
       "question": [
         "型",
-        "型[かた]",
+        "かた",
         "type, model"
       ],
       "answer": "かた"
@@ -13698,7 +13906,7 @@ var decks = {
     {
       "question": [
         "流れ",
-        "流[なが]れ",
+        "ながれ",
         "flow, stream"
       ],
       "answer": "ながれ"
@@ -13706,7 +13914,7 @@ var decks = {
     {
       "question": [
         "残り",
-        "残[のこ]り",
+        "のこり",
         "rest, leftover"
       ],
       "answer": "のこり"
@@ -13714,7 +13922,7 @@ var decks = {
     {
       "question": [
         "偶然",
-        "偶[ぐう] 然[ぜん]",
+        "ぐうぜん",
         "chance, accident"
       ],
       "answer": "ぐうぜん"
@@ -13722,7 +13930,7 @@ var decks = {
     {
       "question": [
         "柔らかい",
-        "柔[やわ]らかい",
+        "やわらかい",
         "soft"
       ],
       "answer": "やわらかい"
@@ -13730,7 +13938,7 @@ var decks = {
     {
       "question": [
         "感触",
-        "感[かん] 触[しょく]",
+        "かんしょく",
         "feeling, touch"
       ],
       "answer": "かんしょく"
@@ -13738,7 +13946,7 @@ var decks = {
     {
       "question": [
         "女子",
-        "女[じょ] 子[し]",
+        "じょし",
         "woman, girl"
       ],
       "answer": "じょし"
@@ -13746,7 +13954,7 @@ var decks = {
     {
       "question": [
         "無し",
-        "無[な]し",
+        "なし",
         "naught, nothing"
       ],
       "answer": "なし"
@@ -13754,7 +13962,7 @@ var decks = {
     {
       "question": [
         "壊れる",
-        "壊[こわ]れる",
+        "こわれる",
         "break, fall apart"
       ],
       "answer": "こわれる"
@@ -13762,7 +13970,7 @@ var decks = {
     {
       "question": [
         "苦手",
-        "苦[にが] 手[て]",
+        "にがて",
         "hard to deal with, weak point"
       ],
       "answer": "にがて"
@@ -13770,7 +13978,7 @@ var decks = {
     {
       "question": [
         "試す",
-        "試[ため]す",
+        "ためす",
         "try, test"
       ],
       "answer": "ためす"
@@ -13778,7 +13986,7 @@ var decks = {
     {
       "question": [
         "立派",
-        "立[りっ] 派[ぱ]",
+        "りっぱ",
         "fine, excellent"
       ],
       "answer": "りっぱ"
@@ -13786,7 +13994,7 @@ var decks = {
     {
       "question": [
         "回す",
-        "回[まわ]す",
+        "まわす",
         "turn, rotate"
       ],
       "answer": "まわす"
@@ -13802,15 +14010,17 @@ var decks = {
     {
       "question": [
         "意見",
-        "意[い] 見[けん]",
+        "いけん",
         "opinion"
       ],
       "answer": "いけん"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_53": [
     {
       "question": [
         "大量",
-        "大[たい] 量[りょう]",
+        "たいりょう",
         "large quantity, great volume"
       ],
       "answer": "たいりょう"
@@ -13818,7 +14028,7 @@ var decks = {
     {
       "question": [
         "提案",
-        "提[てい] 案[あん]",
+        "ていあん",
         "proposal, proposition"
       ],
       "answer": "ていあん"
@@ -13826,7 +14036,7 @@ var decks = {
     {
       "question": [
         "責任",
-        "責[せき] 任[にん]",
+        "せきにん",
         "responsibility, liability"
       ],
       "answer": "せきにん"
@@ -13834,7 +14044,7 @@ var decks = {
     {
       "question": [
         "抑える",
-        "抑[おさ]える",
+        "おさえる",
         "hold back, restrain"
       ],
       "answer": "おさえる"
@@ -13842,7 +14052,7 @@ var decks = {
     {
       "question": [
         "全力",
-        "全[ぜん] 力[りょく]",
+        "ぜんりょく",
         "with all of one's strength, at full capacity"
       ],
       "answer": "ぜんりょく"
@@ -13850,7 +14060,7 @@ var decks = {
     {
       "question": [
         "伸ばす",
-        "伸[の]ばす",
+        "のばす",
         "stretch, straighten"
       ],
       "answer": "のばす"
@@ -13858,7 +14068,7 @@ var decks = {
     {
       "question": [
         "客",
-        "客[きゃく]",
+        "きゃく",
         "customer, guest"
       ],
       "answer": "きゃく"
@@ -13866,17 +14076,15 @@ var decks = {
     {
       "question": [
         "王国",
-        "王[おう] 国[こく]",
+        "おうこく",
         "kingdom, monarchy"
       ],
       "answer": "おうこく"
-    }
-  ],
-  "#01_kaishi15k_21": [
+    },
     {
       "question": [
         "抵抗",
-        "抵[てい] 抗[こう]",
+        "ていこう",
         "resistance, opposition"
       ],
       "answer": "ていこう"
@@ -13884,7 +14092,7 @@ var decks = {
     {
       "question": [
         "混乱",
-        "混[こん] 乱[らん]",
+        "こんらん",
         "disorder, chaos"
       ],
       "answer": "こんらん"
@@ -13892,7 +14100,7 @@ var decks = {
     {
       "question": [
         "条件",
-        "条[じょう] 件[けん]",
+        "じょうけん",
         "condition, item"
       ],
       "answer": "じょうけん"
@@ -13900,7 +14108,7 @@ var decks = {
     {
       "question": [
         "迷惑",
-        "迷[めい] 惑[わく]",
+        "めいわく",
         "trouble, annoyance"
       ],
       "answer": "めいわく"
@@ -13908,7 +14116,7 @@ var decks = {
     {
       "question": [
         "例",
-        "例[れい]",
+        "れい",
         "example"
       ],
       "answer": "れい"
@@ -13916,7 +14124,7 @@ var decks = {
     {
       "question": [
         "頼る",
-        "頼[たよ]る",
+        "たよる",
         "rely on, depend on"
       ],
       "answer": "たよる"
@@ -13924,7 +14132,7 @@ var decks = {
     {
       "question": [
         "完璧",
-        "完[かん] 璧[ぺき]",
+        "かんぺき",
         "flawless, perfect"
       ],
       "answer": "かんぺき"
@@ -13932,7 +14140,7 @@ var decks = {
     {
       "question": [
         "日々",
-        "日[ひ] 々[び]",
+        "ひび",
         "daily, every day"
       ],
       "answer": "ひび"
@@ -13940,7 +14148,7 @@ var decks = {
     {
       "question": [
         "行為",
-        "行[こう] 為[い]",
+        "こうい",
         "act, conduct"
       ],
       "answer": "こうい"
@@ -13956,7 +14164,7 @@ var decks = {
     {
       "question": [
         "減る",
-        "減[へ]る",
+        "へる",
         "decrease, diminish"
       ],
       "answer": "へる"
@@ -13964,15 +14172,17 @@ var decks = {
     {
       "question": [
         "嫌う",
-        "嫌[きら]う",
+        "きらう",
         "dislike, hate"
       ],
       "answer": "きらう"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_54": [
     {
       "question": [
         "知り合い",
-        "知[し]り 合[あ]い",
+        "しりあい",
         "acquaintance"
       ],
       "answer": "しりあい"
@@ -13980,7 +14190,7 @@ var decks = {
     {
       "question": [
         "思考",
-        "思[し] 考[こう]",
+        "しこう",
         "thinking, thought"
       ],
       "answer": "しこう"
@@ -13988,7 +14198,7 @@ var decks = {
     {
       "question": [
         "解決",
-        "解[かい] 決[けつ]",
+        "かいけつ",
         "solution, settlement"
       ],
       "answer": "かいけつ"
@@ -13996,7 +14206,7 @@ var decks = {
     {
       "question": [
         "冷静",
-        "冷[れい] 静[せい]",
+        "れいせい",
         "cool, calm"
       ],
       "answer": "れいせい"
@@ -14004,7 +14214,7 @@ var decks = {
     {
       "question": [
         "天",
-        "天[てん]",
+        "てん",
         "sky, Heaven"
       ],
       "answer": "てん"
@@ -14012,7 +14222,7 @@ var decks = {
     {
       "question": [
         "いつの間にか",
-        "いつの 間[ま]にか",
+        "いつのまにか",
         "before one knows, unnoticed"
       ],
       "answer": "いつのまにか"
@@ -14020,7 +14230,7 @@ var decks = {
     {
       "question": [
         "直す",
-        "直[なお]す",
+        "なおす",
         "repair, cure, alter"
       ],
       "answer": "なおす"
@@ -14028,7 +14238,7 @@ var decks = {
     {
       "question": [
         "常に",
-        "常[つね]に",
+        "つねに",
         "always, constantly"
       ],
       "answer": "つねに"
@@ -14036,7 +14246,7 @@ var decks = {
     {
       "question": [
         "犯人",
-        "犯[はん] 人[にん]",
+        "はんにん",
         "criminal, culprit"
       ],
       "answer": "はんにん"
@@ -14044,7 +14254,7 @@ var decks = {
     {
       "question": [
         "許可",
-        "許[きょ] 可[か]",
+        "きょか",
         "permission, approval"
       ],
       "answer": "きょか"
@@ -14052,7 +14262,7 @@ var decks = {
     {
       "question": [
         "閉じる",
-        "閉[と]じる",
+        "とじる",
         "close"
       ],
       "answer": "とじる"
@@ -14060,7 +14270,7 @@ var decks = {
     {
       "question": [
         "重ねる",
-        "重[かさ]ねる",
+        "かさねる",
         "put on top of something, pile up"
       ],
       "answer": "かさねる"
@@ -14068,7 +14278,7 @@ var decks = {
     {
       "question": [
         "細い",
-        "細[ほそ]い",
+        "ほそい",
         "thin, narrow, slender"
       ],
       "answer": "ほそい"
@@ -14076,7 +14286,7 @@ var decks = {
     {
       "question": [
         "久しぶり",
-        "久[ひさ]しぶり",
+        "ひさしぶり",
         "for the first time in a while"
       ],
       "answer": "ひさしぶり"
@@ -14084,7 +14294,7 @@ var decks = {
     {
       "question": [
         "目立つ",
-        "目[め] 立[だ]つ",
+        "めだつ",
         "stand out, be conspicuous"
       ],
       "answer": "めだつ"
@@ -14092,7 +14302,7 @@ var decks = {
     {
       "question": [
         "到着",
-        "到[とう] 着[ちゃく]",
+        "とうちゃく",
         "arrival"
       ],
       "answer": "とうちゃく"
@@ -14100,7 +14310,7 @@ var decks = {
     {
       "question": [
         "押さえる",
-        "押[お]さえる",
+        "おさえる",
         "hold down, hold steady"
       ],
       "answer": "おさえる"
@@ -14108,7 +14318,7 @@ var decks = {
     {
       "question": [
         "通う",
-        "通[かよ]う",
+        "かよう",
         "go to and from, frequent a place"
       ],
       "answer": "かよう"
@@ -14116,7 +14326,7 @@ var decks = {
     {
       "question": [
         "殴る",
-        "殴[なぐ]る",
+        "なぐる",
         "hit, strike"
       ],
       "answer": "なぐる"
@@ -14124,15 +14334,17 @@ var decks = {
     {
       "question": [
         "広げる",
-        "広[ひろ]げる",
+        "ひろげる",
         "spread, unfold"
       ],
       "answer": "ひろげる"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_55": [
     {
       "question": [
         "引っ張る",
-        "引[ひ]っ 張[ぱ]る",
+        "ひっぱる",
         "pull, drag"
       ],
       "answer": "ひっぱる"
@@ -14148,7 +14360,7 @@ var decks = {
     {
       "question": [
         "間に合う",
-        "間[ま]に 合[あ]う",
+        "まにあう",
         "be in time, answer the purpose, can do without"
       ],
       "answer": "まにあう"
@@ -14156,7 +14368,7 @@ var decks = {
     {
       "question": [
         "了解",
-        "了[りょう] 解[かい]",
+        "りょうかい",
         "consent, understanding, roger that"
       ],
       "answer": "りょうかい"
@@ -14164,7 +14376,7 @@ var decks = {
     {
       "question": [
         "番",
-        "番[ばん]",
+        "ばん",
         "one's turn"
       ],
       "answer": "ばん"
@@ -14172,7 +14384,7 @@ var decks = {
     {
       "question": [
         "戦争",
-        "戦[せん] 争[そう]",
+        "せんそう",
         "war, battle"
       ],
       "answer": "せんそう"
@@ -14180,7 +14392,7 @@ var decks = {
     {
       "question": [
         "寒い",
-        "寒[さむ]い",
+        "さむい",
         "cold"
       ],
       "answer": "さむい"
@@ -14188,7 +14400,7 @@ var decks = {
     {
       "question": [
         "見事",
-        "見[み] 事[ごと]",
+        "みごと",
         "splendid, admirable"
       ],
       "answer": "みごと"
@@ -14196,7 +14408,7 @@ var decks = {
     {
       "question": [
         "酒",
-        "酒[さけ]",
+        "さけ",
         "alcoholic drink, Japanese rice wine"
       ],
       "answer": "さけ"
@@ -14204,7 +14416,7 @@ var decks = {
     {
       "question": [
         "恋人",
-        "恋[こい] 人[びと]",
+        "こいびと",
         "lover, sweetheart"
       ],
       "answer": "こいびと"
@@ -14212,7 +14424,7 @@ var decks = {
     {
       "question": [
         "一切",
-        "一[いっ] 切[さい]",
+        "いっさい",
         "not at all, absolutely nothing"
       ],
       "answer": "いっさい"
@@ -14220,7 +14432,7 @@ var decks = {
     {
       "question": [
         "穴",
-        "穴[あな]",
+        "あな",
         "hole, cavity"
       ],
       "answer": "あな"
@@ -14228,7 +14440,7 @@ var decks = {
     {
       "question": [
         "依頼",
-        "依[い] 頼[らい]",
+        "いらい",
         "request, commission"
       ],
       "answer": "いらい"
@@ -14236,7 +14448,7 @@ var decks = {
     {
       "question": [
         "中身",
-        "中[なか] 身[み]",
+        "なかみ",
         "content, interior"
       ],
       "answer": "なかみ"
@@ -14244,7 +14456,7 @@ var decks = {
     {
       "question": [
         "多少",
-        "多[た] 少[しょう]",
+        "たしょう",
         "a little, somewhat"
       ],
       "answer": "たしょう"
@@ -14252,7 +14464,7 @@ var decks = {
     {
       "question": [
         "真実",
-        "真[しん] 実[じつ]",
+        "しんじつ",
         "truth, reality"
       ],
       "answer": "しんじつ"
@@ -14260,7 +14472,7 @@ var decks = {
     {
       "question": [
         "見た目",
-        "見[み]た 目[め]",
+        "みため",
         "outward appearance"
       ],
       "answer": "みため"
@@ -14268,17 +14480,15 @@ var decks = {
     {
       "question": [
         "間違い",
-        "間[ま] 違[ちが]い",
+        "まちがい",
         "mistake, error"
       ],
       "answer": "まちがい"
-    }
-  ],
-  "#01_kaishi15k_22": [
+    },
     {
       "question": [
         "青い",
-        "青[あお]い",
+        "あおい",
         "blue"
       ],
       "answer": "あおい"
@@ -14286,15 +14496,17 @@ var decks = {
     {
       "question": [
         "辛い",
-        "辛[から]い",
+        "からい",
         "spicy"
       ],
       "answer": "からい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_56": [
     {
       "question": [
         "辛い",
-        "辛[つら]い",
+        "つらい",
         "difficult, harsh"
       ],
       "answer": "つらい"
@@ -14302,7 +14514,7 @@ var decks = {
     {
       "question": [
         "対応",
-        "対[たい] 応[おう]",
+        "たいおう",
         "correspondence, equivalence, response"
       ],
       "answer": "たいおう"
@@ -14310,7 +14522,7 @@ var decks = {
     {
       "question": [
         "光る",
-        "光[ひか]る",
+        "ひかる",
         "shine, emit light"
       ],
       "answer": "ひかる"
@@ -14318,7 +14530,7 @@ var decks = {
     {
       "question": [
         "苦労",
-        "苦[く] 労[ろう]",
+        "くろう",
         "difficulty, hardship"
       ],
       "answer": "くろう"
@@ -14326,7 +14538,7 @@ var decks = {
     {
       "question": [
         "通じる",
-        "通[つう]じる",
+        "つうじる",
         "pass, communicate with"
       ],
       "answer": "つうじる"
@@ -14334,7 +14546,7 @@ var decks = {
     {
       "question": [
         "罪",
-        "罪[つみ]",
+        "つみ",
         "crime, sin"
       ],
       "answer": "つみ"
@@ -14342,7 +14554,7 @@ var decks = {
     {
       "question": [
         "授業",
-        "授[じゅ] 業[ぎょう]",
+        "じゅぎょう",
         "class, lesson"
       ],
       "answer": "じゅぎょう"
@@ -14350,7 +14562,7 @@ var decks = {
     {
       "question": [
         "最悪",
-        "最[さい] 悪[あく]",
+        "さいあく",
         "worst, terrible"
       ],
       "answer": "さいあく"
@@ -14358,7 +14570,7 @@ var decks = {
     {
       "question": [
         "差",
-        "差[さ]",
+        "さ",
         "difference"
       ],
       "answer": "さ"
@@ -14366,7 +14578,7 @@ var decks = {
     {
       "question": [
         "信用",
-        "信[しん] 用[よう]",
+        "しんよう",
         "trust, credit"
       ],
       "answer": "しんよう"
@@ -14374,7 +14586,7 @@ var decks = {
     {
       "question": [
         "壊す",
-        "壊[こわ]す",
+        "こわす",
         "break, destroy, smash"
       ],
       "answer": "こわす"
@@ -14382,7 +14594,7 @@ var decks = {
     {
       "question": [
         "式",
-        "式[しき]",
+        "しき",
         "ceremony"
       ],
       "answer": "しき"
@@ -14390,7 +14602,7 @@ var decks = {
     {
       "question": [
         "人形",
-        "人[にん] 形[ぎょう]",
+        "にんぎょう",
         "doll"
       ],
       "answer": "にんぎょう"
@@ -14398,7 +14610,7 @@ var decks = {
     {
       "question": [
         "結ぶ",
-        "結[むす]ぶ",
+        "むすぶ",
         "tie, join"
       ],
       "answer": "むすぶ"
@@ -14414,7 +14626,7 @@ var decks = {
     {
       "question": [
         "計画",
-        "計[けい] 画[かく]",
+        "けいかく",
         "plan, project"
       ],
       "answer": "けいかく"
@@ -14422,7 +14634,7 @@ var decks = {
     {
       "question": [
         "囲む",
-        "囲[かこ]む",
+        "かこむ",
         "enclose, encircle"
       ],
       "answer": "かこむ"
@@ -14430,7 +14642,7 @@ var decks = {
     {
       "question": [
         "知識",
-        "知[ち] 識[しき]",
+        "ちしき",
         "knowledge"
       ],
       "answer": "ちしき"
@@ -14438,7 +14650,7 @@ var decks = {
     {
       "question": [
         "切り",
-        "切[き]り",
+        "きり",
         "end, place to stop"
       ],
       "answer": "きり"
@@ -14446,15 +14658,17 @@ var decks = {
     {
       "question": [
         "注意",
-        "注[ちゅう] 意[い]",
+        "ちゅうい",
         "care, watch out"
       ],
       "answer": "ちゅうい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_57": [
     {
       "question": [
         "言い方",
-        "言[い]い 方[かた]",
+        "いいかた",
         "way of speaking, expression"
       ],
       "answer": "いいかた"
@@ -14462,7 +14676,7 @@ var decks = {
     {
       "question": [
         "経つ",
-        "経[た]つ",
+        "たつ",
         "pass, elapse"
       ],
       "answer": "たつ"
@@ -14470,7 +14684,7 @@ var decks = {
     {
       "question": [
         "背",
-        "背[せ]",
+        "せ",
         "height, stature"
       ],
       "answer": "せ"
@@ -14478,7 +14692,7 @@ var decks = {
     {
       "question": [
         "問う",
-        "問[と]う",
+        "とう",
         "ask, inquire"
       ],
       "answer": "とう"
@@ -14486,7 +14700,7 @@ var decks = {
     {
       "question": [
         "恋",
-        "恋[こい]",
+        "こい",
         "love, romance"
       ],
       "answer": "こい"
@@ -14502,7 +14716,7 @@ var decks = {
     {
       "question": [
         "中心",
-        "中[ちゅう] 心[しん]",
+        "ちゅうしん",
         "center, middle"
       ],
       "answer": "ちゅうしん"
@@ -14510,7 +14724,7 @@ var decks = {
     {
       "question": [
         "汗",
-        "汗[あせ]",
+        "あせ",
         "sweat"
       ],
       "answer": "あせ"
@@ -14518,7 +14732,7 @@ var decks = {
     {
       "question": [
         "異常",
-        "異[い] 常[じょう]",
+        "いじょう",
         "extraordinary, exceptional"
       ],
       "answer": "いじょう"
@@ -14526,7 +14740,7 @@ var decks = {
     {
       "question": [
         "非常",
-        "非[ひ] 常[じょう]",
+        "ひじょう",
         "emergency, calamity"
       ],
       "answer": "ひじょう"
@@ -14534,7 +14748,7 @@ var decks = {
     {
       "question": [
         "膝",
-        "膝[ひざ]",
+        "ひざ",
         "knee"
       ],
       "answer": "ひざ"
@@ -14550,7 +14764,7 @@ var decks = {
     {
       "question": [
         "役",
-        "役[やく]",
+        "やく",
         "role, part"
       ],
       "answer": "やく"
@@ -14558,7 +14772,7 @@ var decks = {
     {
       "question": [
         "焦る",
-        "焦[あせ]る",
+        "あせる",
         "feel pressured, feel hurried"
       ],
       "answer": "あせる"
@@ -14566,7 +14780,7 @@ var decks = {
     {
       "question": [
         "川",
-        "川[かわ]",
+        "かわ",
         "river, stream"
       ],
       "answer": "かわ"
@@ -14574,7 +14788,7 @@ var decks = {
     {
       "question": [
         "悪魔",
-        "悪[あく] 魔[ま]",
+        "あくま",
         "demon, devil"
       ],
       "answer": "あくま"
@@ -14582,7 +14796,7 @@ var decks = {
     {
       "question": [
         "唯一",
-        "唯[ゆい] 一[いつ]",
+        "ゆいいつ",
         "(the) only, unique"
       ],
       "answer": "ゆいいつ"
@@ -14598,7 +14812,7 @@ var decks = {
     {
       "question": [
         "中央",
-        "中[ちゅう] 央[おう]",
+        "ちゅうおう",
         "center"
       ],
       "answer": "ちゅうおう"
@@ -14606,15 +14820,17 @@ var decks = {
     {
       "question": [
         "突っ込む",
-        "突[つ]っ 込[こ]む",
+        "つっこむ",
         "thrust in, dash into"
       ],
       "answer": "つっこむ"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_58": [
     {
       "question": [
         "技術",
-        "技[ぎ] 術[じゅつ]",
+        "ぎじゅつ",
         "technology"
       ],
       "answer": "ぎじゅつ"
@@ -14622,7 +14838,7 @@ var decks = {
     {
       "question": [
         "素晴らしい",
-        "素[す] 晴[ば]らしい",
+        "すばらしい",
         "splendid, excellent"
       ],
       "answer": "すばらしい"
@@ -14630,7 +14846,7 @@ var decks = {
     {
       "question": [
         "単純",
-        "単[たん] 純[じゅん]",
+        "たんじゅん",
         "simple, uncomplicated"
       ],
       "answer": "たんじゅん"
@@ -14638,7 +14854,7 @@ var decks = {
     {
       "question": [
         "穏やか",
-        "穏[おだ]やか",
+        "おだやか",
         "calm, mild"
       ],
       "answer": "おだやか"
@@ -14646,7 +14862,7 @@ var decks = {
     {
       "question": [
         "撃つ",
-        "撃[う]つ",
+        "うつ",
         "fire, shoot"
       ],
       "answer": "うつ"
@@ -14654,7 +14870,7 @@ var decks = {
     {
       "question": [
         "拾う",
-        "拾[ひろ]う",
+        "ひろう",
         "pick up, find"
       ],
       "answer": "ひろう"
@@ -14662,7 +14878,7 @@ var decks = {
     {
       "question": [
         "完成",
-        "完[かん] 成[せい]",
+        "かんせい",
         "completion, finish"
       ],
       "answer": "かんせい"
@@ -14670,17 +14886,15 @@ var decks = {
     {
       "question": [
         "毒",
-        "毒[どく]",
+        "どく",
         "poison, harm"
       ],
       "answer": "どく"
-    }
-  ],
-  "#01_kaishi15k_23": [
+    },
     {
       "question": [
         "馬",
-        "馬[うま]",
+        "うま",
         "horse"
       ],
       "answer": "うま"
@@ -14688,7 +14902,7 @@ var decks = {
     {
       "question": [
         "覆う",
-        "覆[おお]う",
+        "おおう",
         "cover, hide"
       ],
       "answer": "おおう"
@@ -14696,7 +14910,7 @@ var decks = {
     {
       "question": [
         "趣味",
-        "趣[しゅ] 味[み]",
+        "しゅみ",
         "hobby"
       ],
       "answer": "しゅみ"
@@ -14712,7 +14926,7 @@ var decks = {
     {
       "question": [
         "何となく",
-        "何[なん]となく",
+        "なんとなく",
         "for some reason"
       ],
       "answer": "なんとなく"
@@ -14720,7 +14934,7 @@ var decks = {
     {
       "question": [
         "価値",
-        "価[か] 値[ち]",
+        "かち",
         "value, merit"
       ],
       "answer": "かち"
@@ -14728,7 +14942,7 @@ var decks = {
     {
       "question": [
         "見守る",
-        "見[み] 守[まも]る",
+        "みまもる",
         "watch, keep watch over"
       ],
       "answer": "みまもる"
@@ -14736,7 +14950,7 @@ var decks = {
     {
       "question": [
         "安全",
-        "安[あん] 全[ぜん]",
+        "あんぜん",
         "safety, security"
       ],
       "answer": "あんぜん"
@@ -14744,7 +14958,7 @@ var decks = {
     {
       "question": [
         "連れてくる",
-        "連[つ]れてくる",
+        "つれてくる",
         "bring over"
       ],
       "answer": "つれてくる"
@@ -14760,7 +14974,7 @@ var decks = {
     {
       "question": [
         "万",
-        "万[まん]",
+        "まん",
         "ten thousand"
       ],
       "answer": "まん"
@@ -14768,15 +14982,17 @@ var decks = {
     {
       "question": [
         "額",
-        "額[がく]",
+        "がく",
         "picture frame"
       ],
       "answer": "がく"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_59": [
     {
       "question": [
         "受け止める",
-        "受[う]け 止[と]める",
+        "うけとめる",
         "catch, receive"
       ],
       "answer": "うけとめる"
@@ -14784,7 +15000,7 @@ var decks = {
     {
       "question": [
         "素敵",
-        "素[す] 敵[てき]",
+        "すてき",
         "lovely, superb"
       ],
       "answer": "すてき"
@@ -14792,7 +15008,7 @@ var decks = {
     {
       "question": [
         "正体",
-        "正[しょう] 体[たい]",
+        "しょうたい",
         "true character, true form"
       ],
       "answer": "しょうたい"
@@ -14808,7 +15024,7 @@ var decks = {
     {
       "question": [
         "吸う",
-        "吸[す]う",
+        "すう",
         "smoke"
       ],
       "answer": "すう"
@@ -14816,7 +15032,7 @@ var decks = {
     {
       "question": [
         "鳴る",
-        "鳴[な]る",
+        "なる",
         "ring, beep"
       ],
       "answer": "なる"
@@ -14824,7 +15040,7 @@ var decks = {
     {
       "question": [
         "研究",
-        "研[けん] 究[きゅう]",
+        "けんきゅう",
         "research"
       ],
       "answer": "けんきゅう"
@@ -14840,7 +15056,7 @@ var decks = {
     {
       "question": [
         "別れる",
-        "別[わか]れる",
+        "わかれる",
         "separate, part from"
       ],
       "answer": "わかれる"
@@ -14856,7 +15072,7 @@ var decks = {
     {
       "question": [
         "着替える",
-        "着[き] 替[が]える",
+        "きがえる",
         "change clothes"
       ],
       "answer": "きがえる"
@@ -14864,7 +15080,7 @@ var decks = {
     {
       "question": [
         "箱",
-        "箱[はこ]",
+        "はこ",
         "box, case"
       ],
       "answer": "はこ"
@@ -14872,7 +15088,7 @@ var decks = {
     {
       "question": [
         "無言",
-        "無[む] 言[ごん]",
+        "むごん",
         "silence, muteness"
       ],
       "answer": "むごん"
@@ -14880,7 +15096,7 @@ var decks = {
     {
       "question": [
         "何で",
-        "何[なん]で",
+        "なんで",
         "why, what for"
       ],
       "answer": "なんで"
@@ -14888,7 +15104,7 @@ var decks = {
     {
       "question": [
         "裏切る",
-        "裏[うら] 切[ぎ]る",
+        "うらぎる",
         "betray"
       ],
       "answer": "うらぎる"
@@ -14896,7 +15112,7 @@ var decks = {
     {
       "question": [
         "焼く",
-        "焼[や]く",
+        "やく",
         "burn, bake"
       ],
       "answer": "やく"
@@ -14904,7 +15120,7 @@ var decks = {
     {
       "question": [
         "怪我",
-        "怪[け] 我[が]",
+        "けが",
         "injury"
       ],
       "answer": "けが"
@@ -14912,7 +15128,7 @@ var decks = {
     {
       "question": [
         "門",
-        "門[もん]",
+        "もん",
         "gate, entrance"
       ],
       "answer": "もん"
@@ -14920,7 +15136,7 @@ var decks = {
     {
       "question": [
         "不可能",
-        "不[ふ] 可[か] 能[のう]",
+        "ふかのう",
         "impossible"
       ],
       "answer": "ふかのう"
@@ -14928,15 +15144,17 @@ var decks = {
     {
       "question": [
         "妻",
-        "妻[つま]",
+        "つま",
         "wife"
       ],
       "answer": "つま"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_60": [
     {
       "question": [
         "時には",
-        "時[とき]には",
+        "ときには",
         "occasionally, at times"
       ],
       "answer": "ときには"
@@ -14944,7 +15162,7 @@ var decks = {
     {
       "question": [
         "発言",
-        "発[はつ] 言[げん]",
+        "はつげん",
         "speech"
       ],
       "answer": "はつげん"
@@ -14952,7 +15170,7 @@ var decks = {
     {
       "question": [
         "正確",
-        "正[せい] 確[かく]",
+        "せいかく",
         "accurate, precise"
       ],
       "answer": "せいかく"
@@ -14960,7 +15178,7 @@ var decks = {
     {
       "question": [
         "認識",
-        "認[にん] 識[しき]",
+        "にんしき",
         "recognition, acknowledgment"
       ],
       "answer": "にんしき"
@@ -14968,7 +15186,7 @@ var decks = {
     {
       "question": [
         "速度",
-        "速[そく] 度[ど]",
+        "そくど",
         "velocity, speed"
       ],
       "answer": "そくど"
@@ -14976,7 +15194,7 @@ var decks = {
     {
       "question": [
         "謎",
-        "謎[なぞ]",
+        "なぞ",
         "mystery, puzzle"
       ],
       "answer": "なぞ"
@@ -14984,7 +15202,7 @@ var decks = {
     {
       "question": [
         "文字",
-        "文[も] 字[じ]",
+        "もじ",
         "character, letter"
       ],
       "answer": "もじ"
@@ -14992,7 +15210,7 @@ var decks = {
     {
       "question": [
         "吐く",
-        "吐[は]く",
+        "はく",
         "spew, vomit, holler"
       ],
       "answer": "はく"
@@ -15000,7 +15218,7 @@ var decks = {
     {
       "question": [
         "鬼",
-        "鬼[おに]",
+        "おに",
         "demon, ogre"
       ],
       "answer": "おに"
@@ -15008,7 +15226,7 @@ var decks = {
     {
       "question": [
         "刺激",
-        "刺[し] 激[げき]",
+        "しげき",
         "stimulus, stimulation"
       ],
       "answer": "しげき"
@@ -15016,7 +15234,7 @@ var decks = {
     {
       "question": [
         "最も",
-        "最[もっと]も",
+        "もっとも",
         "the most"
       ],
       "answer": "もっとも"
@@ -15024,7 +15242,7 @@ var decks = {
     {
       "question": [
         "制服",
-        "制[せい] 服[ふく]",
+        "せいふく",
         "uniform"
       ],
       "answer": "せいふく"
@@ -15032,7 +15250,7 @@ var decks = {
     {
       "question": [
         "爆発",
-        "爆[ばく] 発[はつ]",
+        "ばくはつ",
         "blast, explosion"
       ],
       "answer": "ばくはつ"
@@ -15040,7 +15258,7 @@ var decks = {
     {
       "question": [
         "訓練",
-        "訓[くん] 練[れん]",
+        "くんれん",
         "training, drill"
       ],
       "answer": "くんれん"
@@ -15048,7 +15266,7 @@ var decks = {
     {
       "question": [
         "振り向く",
-        "振[ふ]り 向[む]く",
+        "ふりむく",
         "turn around, look back"
       ],
       "answer": "ふりむく"
@@ -15056,7 +15274,7 @@ var decks = {
     {
       "question": [
         "脱ぐ",
-        "脱[ぬ]ぐ",
+        "ぬぐ",
         "remove clothes, take off"
       ],
       "answer": "ぬぐ"
@@ -15064,7 +15282,7 @@ var decks = {
     {
       "question": [
         "信頼",
-        "信[しん] 頼[らい]",
+        "しんらい",
         "trust, faith"
       ],
       "answer": "しんらい"
@@ -15072,17 +15290,15 @@ var decks = {
     {
       "question": [
         "寄る",
-        "寄[よ]る",
+        "よる",
         "stop by, drop by"
       ],
       "answer": "よる"
-    }
-  ],
-  "#01_kaishi15k_24": [
+    },
     {
       "question": [
         "飛ばす",
-        "飛[と]ばす",
+        "とばす",
         "fly, shoot"
       ],
       "answer": "とばす"
@@ -15090,15 +15306,17 @@ var decks = {
     {
       "question": [
         "貸す",
-        "貸[か]す",
+        "かす",
         "lend, lease"
       ],
       "answer": "かす"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_61": [
     {
       "question": [
         "パン",
-        "パン",
+        "ぱん",
         "bread"
       ],
       "answer": "ぱん"
@@ -15114,7 +15332,7 @@ var decks = {
     {
       "question": [
         "赤",
-        "赤[あか]",
+        "あか",
         "red"
       ],
       "answer": "あか"
@@ -15122,7 +15340,7 @@ var decks = {
     {
       "question": [
         "大体",
-        "大[だい] 体[たい]",
+        "だいたい",
         "mostly"
       ],
       "answer": "だいたい"
@@ -15138,7 +15356,7 @@ var decks = {
     {
       "question": [
         "喉",
-        "喉[のど]",
+        "のど",
         "throat"
       ],
       "answer": "のど"
@@ -15146,7 +15364,7 @@ var decks = {
     {
       "question": [
         "少々",
-        "少[しょう] 々[しょう]",
+        "しょうしょう",
         "a little, a few"
       ],
       "answer": "しょうしょう"
@@ -15154,7 +15372,7 @@ var decks = {
     {
       "question": [
         "有名",
-        "有[ゆう] 名[めい]",
+        "ゆうめい",
         "famous"
       ],
       "answer": "ゆうめい"
@@ -15162,7 +15380,7 @@ var decks = {
     {
       "question": [
         "船",
-        "船[ふね]",
+        "ふね",
         "ship, boat"
       ],
       "answer": "ふね"
@@ -15170,7 +15388,7 @@ var decks = {
     {
       "question": [
         "転がる",
-        "転[ころ]がる",
+        "ころがる",
         "roll over, tumble"
       ],
       "answer": "ころがる"
@@ -15178,7 +15396,7 @@ var decks = {
     {
       "question": [
         "切れる",
-        "切[き]れる",
+        "きれる",
         "able to cut, run out, expire"
       ],
       "answer": "きれる"
@@ -15194,7 +15412,7 @@ var decks = {
     {
       "question": [
         "話題",
-        "話[わ] 題[だい]",
+        "わだい",
         "topic of conversation"
       ],
       "answer": "わだい"
@@ -15202,7 +15420,7 @@ var decks = {
     {
       "question": [
         "濡れる",
-        "濡[ぬ]れる",
+        "ぬれる",
         "get wet"
       ],
       "answer": "ぬれる"
@@ -15218,7 +15436,7 @@ var decks = {
     {
       "question": [
         "呼び出す",
-        "呼[よ]び 出[だ]す",
+        "よびだす",
         "to call someone to"
       ],
       "answer": "よびだす"
@@ -15226,7 +15444,7 @@ var decks = {
     {
       "question": [
         "確信",
-        "確[かく] 信[しん]",
+        "かくしん",
         "firm belief, conviction"
       ],
       "answer": "かくしん"
@@ -15234,7 +15452,7 @@ var decks = {
     {
       "question": [
         "込める",
-        "込[こ]める",
+        "こめる",
         "put in, concentrate on"
       ],
       "answer": "こめる"
@@ -15242,7 +15460,7 @@ var decks = {
     {
       "question": [
         "自覚",
-        "自[じ] 覚[かく]",
+        "じかく",
         "awareness"
       ],
       "answer": "じかく"
@@ -15250,15 +15468,17 @@ var decks = {
     {
       "question": [
         "空く",
-        "空[あ]く",
+        "あく",
         "become available or vacant"
       ],
       "answer": "あく"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_62": [
     {
       "question": [
         "空く",
-        "空[す]く",
+        "すく",
         "be empty, become less crowded"
       ],
       "answer": "すく"
@@ -15266,7 +15486,7 @@ var decks = {
     {
       "question": [
         "警察",
-        "警[けい] 察[さつ]",
+        "けいさつ",
         "police"
       ],
       "answer": "けいさつ"
@@ -15274,7 +15494,7 @@ var decks = {
     {
       "question": [
         "悲鳴",
-        "悲[ひ] 鳴[めい]",
+        "ひめい",
         "shriek, scream"
       ],
       "answer": "ひめい"
@@ -15282,7 +15502,7 @@ var decks = {
     {
       "question": [
         "捕まえる",
-        "捕[つか]まえる",
+        "つかまえる",
         "arrest, capture"
       ],
       "answer": "つかまえる"
@@ -15290,7 +15510,7 @@ var decks = {
     {
       "question": [
         "早速",
-        "早[さっ] 速[そく]",
+        "さっそく",
         "immediately"
       ],
       "answer": "さっそく"
@@ -15298,7 +15518,7 @@ var decks = {
     {
       "question": [
         "お腹",
-        "お 腹[なか]",
+        "おなか",
         "stomach, belly"
       ],
       "answer": "おなか"
@@ -15306,7 +15526,7 @@ var decks = {
     {
       "question": [
         "掃除",
-        "掃[そう] 除[じ]",
+        "そうじ",
         "clean"
       ],
       "answer": "そうじ"
@@ -15314,7 +15534,7 @@ var decks = {
     {
       "question": [
         "硬い",
-        "硬[かた]い",
+        "かたい",
         "hard, stiff"
       ],
       "answer": "かたい"
@@ -15322,7 +15542,7 @@ var decks = {
     {
       "question": [
         "際",
-        "際[さい]",
+        "さい",
         "occasion, time"
       ],
       "answer": "さい"
@@ -15330,7 +15550,7 @@ var decks = {
     {
       "question": [
         "漏らす",
-        "漏[も]らす",
+        "もらす",
         "give away, let leak"
       ],
       "answer": "もらす"
@@ -15338,7 +15558,7 @@ var decks = {
     {
       "question": [
         "面",
-        "面[めん]",
+        "めん",
         "surface, aspect"
       ],
       "answer": "めん"
@@ -15346,7 +15566,7 @@ var decks = {
     {
       "question": [
         "不満",
-        "不[ふ] 満[まん]",
+        "ふまん",
         "dissatisfaction, discontent"
       ],
       "answer": "ふまん"
@@ -15354,7 +15574,7 @@ var decks = {
     {
       "question": [
         "驚き",
-        "驚[おどろ]き",
+        "おどろき",
         "surprise, amazement"
       ],
       "answer": "おどろき"
@@ -15362,7 +15582,7 @@ var decks = {
     {
       "question": [
         "旅",
-        "旅[たび]",
+        "たび",
         "journey, travel"
       ],
       "answer": "たび"
@@ -15370,7 +15590,7 @@ var decks = {
     {
       "question": [
         "絵",
-        "絵[え]",
+        "え",
         "picture, drawing"
       ],
       "answer": "え"
@@ -15378,7 +15598,7 @@ var decks = {
     {
       "question": [
         "組む",
-        "組[く]む",
+        "くむ",
         "pair up, partner with"
       ],
       "answer": "くむ"
@@ -15386,7 +15606,7 @@ var decks = {
     {
       "question": [
         "沈黙",
-        "沈[ちん] 黙[もく]",
+        "ちんもく",
         "reticence, silence"
       ],
       "answer": "ちんもく"
@@ -15394,7 +15614,7 @@ var decks = {
     {
       "question": [
         "張る",
-        "張[は]る",
+        "はる",
         "strain, be stretched"
       ],
       "answer": "はる"
@@ -15402,7 +15622,7 @@ var decks = {
     {
       "question": [
         "告白",
-        "告[こく] 白[はく]",
+        "こくはく",
         "confession, admission"
       ],
       "answer": "こくはく"
@@ -15410,15 +15630,17 @@ var decks = {
     {
       "question": [
         "舐める",
-        "舐[な]める",
+        "なめる",
         "lick"
       ],
       "answer": "なめる"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_63": [
     {
       "question": [
         "潰す",
-        "潰[つぶ]す",
+        "つぶす",
         "crush, smash"
       ],
       "answer": "つぶす"
@@ -15426,7 +15648,7 @@ var decks = {
     {
       "question": [
         "含める",
-        "含[ふく]める",
+        "ふくめる",
         "include"
       ],
       "answer": "ふくめる"
@@ -15434,7 +15656,7 @@ var decks = {
     {
       "question": [
         "時期",
-        "時[じ] 期[き]",
+        "じき",
         "time, season, period"
       ],
       "answer": "じき"
@@ -15442,7 +15664,7 @@ var decks = {
     {
       "question": [
         "活動",
-        "活[かつ] 動[どう]",
+        "かつどう",
         "activity"
       ],
       "answer": "かつどう"
@@ -15450,7 +15672,7 @@ var decks = {
     {
       "question": [
         "育てる",
-        "育[そだ]てる",
+        "そだてる",
         "bring up, breed"
       ],
       "answer": "そだてる"
@@ -15458,7 +15680,7 @@ var decks = {
     {
       "question": [
         "優秀",
-        "優[ゆう] 秀[しゅう]",
+        "ゆうしゅう",
         "excellent, exceptional"
       ],
       "answer": "ゆうしゅう"
@@ -15466,7 +15688,7 @@ var decks = {
     {
       "question": [
         "予感",
-        "予[よ] 感[かん]",
+        "よかん",
         "hunch, premonition"
       ],
       "answer": "よかん"
@@ -15474,17 +15696,15 @@ var decks = {
     {
       "question": [
         "解く",
-        "解[と]く",
+        "とく",
         "solve"
       ],
       "answer": "とく"
-    }
-  ],
-  "#01_kaishi15k_25": [
+    },
     {
       "question": [
         "元々",
-        "元[もと] 々[もと]",
+        "もともと",
         "originally, by nature"
       ],
       "answer": "もともと"
@@ -15492,7 +15712,7 @@ var decks = {
     {
       "question": [
         "溢れる",
-        "溢[あふ]れる",
+        "あふれる",
         "overflow, flood"
       ],
       "answer": "あふれる"
@@ -15500,7 +15720,7 @@ var decks = {
     {
       "question": [
         "発生",
-        "発[はっ] 生[せい]",
+        "はっせい",
         "occurrence, happening"
       ],
       "answer": "はっせい"
@@ -15508,7 +15728,7 @@ var decks = {
     {
       "question": [
         "微妙",
-        "微[び] 妙[みょう]",
+        "びみょう",
         "subtle, delicate, sensitive, iffy"
       ],
       "answer": "びみょう"
@@ -15516,7 +15736,7 @@ var decks = {
     {
       "question": [
         "違い",
-        "違[ちが]い",
+        "ちがい",
         "difference, mistake"
       ],
       "answer": "ちがい"
@@ -15524,7 +15744,7 @@ var decks = {
     {
       "question": [
         "直後",
-        "直[ちょく] 後[ご]",
+        "ちょくご",
         "immediately after"
       ],
       "answer": "ちょくご"
@@ -15532,7 +15752,7 @@ var decks = {
     {
       "question": [
         "地下",
-        "地[ち] 下[か]",
+        "ちか",
         "underground"
       ],
       "answer": "ちか"
@@ -15540,7 +15760,7 @@ var decks = {
     {
       "question": [
         "香り",
-        "香[かお]り",
+        "かおり",
         "perfume, fragrance"
       ],
       "answer": "かおり"
@@ -15548,7 +15768,7 @@ var decks = {
     {
       "question": [
         "効く",
-        "効[き]く",
+        "きく",
         "be effective"
       ],
       "answer": "きく"
@@ -15556,7 +15776,7 @@ var decks = {
     {
       "question": [
         "使用",
-        "使[し] 用[よう]",
+        "しよう",
         "usage"
       ],
       "answer": "しよう"
@@ -15564,7 +15784,7 @@ var decks = {
     {
       "question": [
         "道具",
-        "道[どう] 具[ぐ]",
+        "どうぐ",
         "tool"
       ],
       "answer": "どうぐ"
@@ -15572,15 +15792,17 @@ var decks = {
     {
       "question": [
         "願い",
-        "願[ねが]い",
+        "ねがい",
         "wish, request"
       ],
       "answer": "ねがい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_64": [
     {
       "question": [
         "洗う",
-        "洗[あら]う",
+        "あらう",
         "wash"
       ],
       "answer": "あらう"
@@ -15588,7 +15810,7 @@ var decks = {
     {
       "question": [
         "手段",
-        "手[しゅ] 段[だん]",
+        "しゅだん",
         "means, way"
       ],
       "answer": "しゅだん"
@@ -15596,7 +15818,7 @@ var decks = {
     {
       "question": [
         "誤解",
-        "誤[ご] 解[かい]",
+        "ごかい",
         "misunderstanding"
       ],
       "answer": "ごかい"
@@ -15604,7 +15826,7 @@ var decks = {
     {
       "question": [
         "応援",
-        "応[おう] 援[えん]",
+        "おうえん",
         "cheering"
       ],
       "answer": "おうえん"
@@ -15612,7 +15834,7 @@ var decks = {
     {
       "question": [
         "含む",
-        "含[ふく]む",
+        "ふくむ",
         "contain, include"
       ],
       "answer": "ふくむ"
@@ -15620,7 +15842,7 @@ var decks = {
     {
       "question": [
         "当時",
-        "当[とう] 時[じ]",
+        "とうじ",
         "at that time, at the present time"
       ],
       "answer": "とうじ"
@@ -15628,7 +15850,7 @@ var decks = {
     {
       "question": [
         "勝利",
-        "勝[しょう] 利[り]",
+        "しょうり",
         "triumph, victory"
       ],
       "answer": "しょうり"
@@ -15636,7 +15858,7 @@ var decks = {
     {
       "question": [
         "降る",
-        "降[ふ]る",
+        "ふる",
         "fall (e.g. rain)"
       ],
       "answer": "ふる"
@@ -15644,7 +15866,7 @@ var decks = {
     {
       "question": [
         "雪",
-        "雪[ゆき]",
+        "ゆき",
         "snow, snowfall"
       ],
       "answer": "ゆき"
@@ -15652,7 +15874,7 @@ var decks = {
     {
       "question": [
         "入り口",
-        "入[い]り 口[ぐち]",
+        "いりぐち",
         "entrance"
       ],
       "answer": "いりぐち"
@@ -15660,7 +15882,7 @@ var decks = {
     {
       "question": [
         "一方",
-        "一[いっ] 方[ぽう]",
+        "いっぽう",
         "one way"
       ],
       "answer": "いっぽう"
@@ -15668,7 +15890,7 @@ var decks = {
     {
       "question": [
         "古い",
-        "古[ふる]い",
+        "ふるい",
         "old"
       ],
       "answer": "ふるい"
@@ -15676,7 +15898,7 @@ var decks = {
     {
       "question": [
         "役に立つ",
-        "役[やく]に 立[た]つ",
+        "やくにたつ",
         "be useful, be helpful"
       ],
       "answer": "やくにたつ"
@@ -15684,7 +15906,7 @@ var decks = {
     {
       "question": [
         "懐かしい",
-        "懐[なつ]かしい",
+        "なつかしい",
         "longed-for, nostalgic"
       ],
       "answer": "なつかしい"
@@ -15700,7 +15922,7 @@ var decks = {
     {
       "question": [
         "才能",
-        "才[さい] 能[のう]",
+        "さいのう",
         "talent, ability"
       ],
       "answer": "さいのう"
@@ -15708,7 +15930,7 @@ var decks = {
     {
       "question": [
         "逃げ出す",
-        "逃[に]げ 出[だ]す",
+        "にげだす",
         "make a break for, run off"
       ],
       "answer": "にげだす"
@@ -15716,7 +15938,7 @@ var decks = {
     {
       "question": [
         "様々",
-        "様[さま] 々[ざま]",
+        "さまざま",
         "various, diverse"
       ],
       "answer": "さまざま"
@@ -15724,7 +15946,7 @@ var decks = {
     {
       "question": [
         "病院",
-        "病[びょう] 院[いん]",
+        "びょういん",
         "hospital"
       ],
       "answer": "びょういん"
@@ -15732,15 +15954,17 @@ var decks = {
     {
       "question": [
         "比べる",
-        "比[くら]べる",
+        "くらべる",
         "compare, contrast"
       ],
       "answer": "くらべる"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_65": [
     {
       "question": [
         "氷",
-        "氷[こおり]",
+        "こおり",
         "ice"
       ],
       "answer": "こおり"
@@ -15748,7 +15972,7 @@ var decks = {
     {
       "question": [
         "狭い",
-        "狭[せま]い",
+        "せまい",
         "narrow, cramped"
       ],
       "answer": "せまい"
@@ -15756,7 +15980,7 @@ var decks = {
     {
       "question": [
         "神様",
-        "神[かみ] 様[さま]",
+        "かみさま",
         "God, the divine"
       ],
       "answer": "かみさま"
@@ -15764,7 +15988,7 @@ var decks = {
     {
       "question": [
         "動揺",
-        "動[どう] 揺[よう]",
+        "どうよう",
         "shaking, turbulence"
       ],
       "answer": "どうよう"
@@ -15772,7 +15996,7 @@ var decks = {
     {
       "question": [
         "長",
-        "長[ちょう]",
+        "ちょう",
         "chief, head"
       ],
       "answer": "ちょう"
@@ -15788,7 +16012,7 @@ var decks = {
     {
       "question": [
         "物語",
-        "物[もの] 語[がたり]",
+        "ものがたり",
         "story, tale"
       ],
       "answer": "ものがたり"
@@ -15796,7 +16020,7 @@ var decks = {
     {
       "question": [
         "文句",
-        "文[もん] 句[く]",
+        "もんく",
         "complaint"
       ],
       "answer": "もんく"
@@ -15804,7 +16028,7 @@ var decks = {
     {
       "question": [
         "至る",
-        "至[いた]る",
+        "いたる",
         "come to, reach"
       ],
       "answer": "いたる"
@@ -15812,7 +16036,7 @@ var decks = {
     {
       "question": [
         "魚",
-        "魚[さかな]",
+        "さかな",
         "fish"
       ],
       "answer": "さかな"
@@ -15820,7 +16044,7 @@ var decks = {
     {
       "question": [
         "鳥",
-        "鳥[とり]",
+        "とり",
         "bird"
       ],
       "answer": "とり"
@@ -15828,7 +16052,7 @@ var decks = {
     {
       "question": [
         "映る",
-        "映[うつ]る",
+        "うつる",
         "be reflected, appear"
       ],
       "answer": "うつる"
@@ -15836,7 +16060,7 @@ var decks = {
     {
       "question": [
         "一生",
-        "一[いっ] 生[しょう]",
+        "いっしょう",
         "a lifetime"
       ],
       "answer": "いっしょう"
@@ -15844,7 +16068,7 @@ var decks = {
     {
       "question": [
         "紙",
-        "紙[かみ]",
+        "かみ",
         "paper"
       ],
       "answer": "かみ"
@@ -15852,7 +16076,7 @@ var decks = {
     {
       "question": [
         "申す",
-        "申[もう]す",
+        "もうす",
         "to be called..., speak (humble form)"
       ],
       "answer": "もうす"
@@ -15860,7 +16084,7 @@ var decks = {
     {
       "question": [
         "複雑",
-        "複[ふく] 雑[ざつ]",
+        "ふくざつ",
         "complicated, intricate"
       ],
       "answer": "ふくざつ"
@@ -15868,7 +16092,7 @@ var decks = {
     {
       "question": [
         "投げる",
-        "投[な]げる",
+        "なげる",
         "throw, abandon"
       ],
       "answer": "なげる"
@@ -15876,17 +16100,15 @@ var decks = {
     {
       "question": [
         "出来事",
-        "出[で] 来[き] 事[ごと]",
+        "できごと",
         "occurrence, incident"
       ],
       "answer": "できごと"
-    }
-  ],
-  "#01_kaishi15k_26": [
+    },
     {
       "question": [
         "部下",
-        "部[ぶ] 下[か]",
+        "ぶか",
         "subordinate"
       ],
       "answer": "ぶか"
@@ -15898,11 +16120,13 @@ var decks = {
         "fully, amply"
       ],
       "answer": "たっぷり"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_66": [
     {
       "question": [
         "実力",
-        "実[じつ] 力[りょく]",
+        "じつりょく",
         "real ability, capability"
       ],
       "answer": "じつりょく"
@@ -15910,7 +16134,7 @@ var decks = {
     {
       "question": [
         "左右",
-        "左[さ] 右[ゆう]",
+        "さゆう",
         "right and left"
       ],
       "answer": "さゆう"
@@ -15918,7 +16142,7 @@ var decks = {
     {
       "question": [
         "選択",
-        "選[せん] 択[たく]",
+        "せんたく",
         "choice, selection"
       ],
       "answer": "せんたく"
@@ -15926,7 +16150,7 @@ var decks = {
     {
       "question": [
         "調査",
-        "調[ちょう] 査[さ]",
+        "ちょうさ",
         "investigation, inquiry"
       ],
       "answer": "ちょうさ"
@@ -15934,7 +16158,7 @@ var decks = {
     {
       "question": [
         "例えば",
-        "例[たと]えば",
+        "たとえば",
         "for example"
       ],
       "answer": "たとえば"
@@ -15942,7 +16166,7 @@ var decks = {
     {
       "question": [
         "見送る",
-        "見[み] 送[おく]る",
+        "みおくる",
         "see (someone) off"
       ],
       "answer": "みおくる"
@@ -15958,7 +16182,7 @@ var decks = {
     {
       "question": [
         "従う",
-        "従[したが]う",
+        "したがう",
         "follow, obey"
       ],
       "answer": "したがう"
@@ -15966,7 +16190,7 @@ var decks = {
     {
       "question": [
         "通す",
-        "通[とお]す",
+        "とおす",
         "let pass, run through"
       ],
       "answer": "とおす"
@@ -15974,7 +16198,7 @@ var decks = {
     {
       "question": [
         "間違える",
-        "間[ま] 違[ちが]える",
+        "まちがえる",
         "mistake, confuse"
       ],
       "answer": "まちがえる"
@@ -15982,7 +16206,7 @@ var decks = {
     {
       "question": [
         "体力",
-        "体[たい] 力[りょく]",
+        "たいりょく",
         "stamina, endurance"
       ],
       "answer": "たいりょく"
@@ -15990,7 +16214,7 @@ var decks = {
     {
       "question": [
         "果たす",
-        "果[は]たす",
+        "はたす",
         "accomplish, carry out, fulfill"
       ],
       "answer": "はたす"
@@ -15998,7 +16222,7 @@ var decks = {
     {
       "question": [
         "騒ぐ",
-        "騒[さわ]ぐ",
+        "さわぐ",
         "make a racket, mess around"
       ],
       "answer": "さわぐ"
@@ -16006,7 +16230,7 @@ var decks = {
     {
       "question": [
         "飛び込む",
-        "飛[と]び 込[こ]む",
+        "とびこむ",
         "dive into"
       ],
       "answer": "とびこむ"
@@ -16014,7 +16238,7 @@ var decks = {
     {
       "question": [
         "増す",
-        "増[ま]す",
+        "ます",
         "increase, augment, rise"
       ],
       "answer": "ます"
@@ -16030,7 +16254,7 @@ var decks = {
     {
       "question": [
         "思い出",
-        "思[おも]い 出[で]",
+        "おもいで",
         "recollections, memory"
       ],
       "answer": "おもいで"
@@ -16038,7 +16262,7 @@ var decks = {
     {
       "question": [
         "天井",
-        "天[てん] 井[じょう]",
+        "てんじょう",
         "ceiling"
       ],
       "answer": "てんじょう"
@@ -16046,7 +16270,7 @@ var decks = {
     {
       "question": [
         "兵士",
-        "兵[へい] 士[し]",
+        "へいし",
         "soldier"
       ],
       "answer": "へいし"
@@ -16054,11 +16278,13 @@ var decks = {
     {
       "question": [
         "満ちる",
-        "満[み]ちる",
+        "みちる",
         "fill, become full"
       ],
       "answer": "みちる"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_67": [
     {
       "question": [
         "たまらない",
@@ -16070,7 +16296,7 @@ var decks = {
     {
       "question": [
         "味わう",
-        "味[あじ]わう",
+        "あじわう",
         "taste, appreciate"
       ],
       "answer": "あじわう"
@@ -16078,7 +16304,7 @@ var decks = {
     {
       "question": [
         "出かける",
-        "出[で]かける",
+        "でかける",
         "go out"
       ],
       "answer": "でかける"
@@ -16086,7 +16312,7 @@ var decks = {
     {
       "question": [
         "背負う",
-        "背[せ] 負[お]う",
+        "せおう",
         "carry on one's back; shoulder"
       ],
       "answer": "せおう"
@@ -16094,7 +16320,7 @@ var decks = {
     {
       "question": [
         "揃う",
-        "揃[そろ]う",
+        "そろう",
         "be (all) together"
       ],
       "answer": "そろう"
@@ -16102,7 +16328,7 @@ var decks = {
     {
       "question": [
         "呼吸",
-        "呼[こ] 吸[きゅう]",
+        "こきゅう",
         "breathing, respiration"
       ],
       "answer": "こきゅう"
@@ -16110,7 +16336,7 @@ var decks = {
     {
       "question": [
         "真似",
-        "真似[まね]",
+        "まね",
         "imitation, mimicry"
       ],
       "answer": "まね"
@@ -16118,7 +16344,7 @@ var decks = {
     {
       "question": [
         "人気",
-        "人[にん] 気[き]",
+        "にんき",
         "popularity"
       ],
       "answer": "にんき"
@@ -16126,7 +16352,7 @@ var decks = {
     {
       "question": [
         "偉い",
-        "偉[えら]い",
+        "えらい",
         "great, famous"
       ],
       "answer": "えらい"
@@ -16142,7 +16368,7 @@ var decks = {
     {
       "question": [
         "対象",
-        "対[たい] 象[しょう]",
+        "たいしょう",
         "target, object"
       ],
       "answer": "たいしょう"
@@ -16150,7 +16376,7 @@ var decks = {
     {
       "question": [
         "整える",
-        "整[ととの]える",
+        "ととのえる",
         "arrange, adjust"
       ],
       "answer": "ととのえる"
@@ -16158,7 +16384,7 @@ var decks = {
     {
       "question": [
         "沈む",
-        "沈[しず]む",
+        "しずむ",
         "sink, set"
       ],
       "answer": "しずむ"
@@ -16166,7 +16392,7 @@ var decks = {
     {
       "question": [
         "地上",
-        "地[ち] 上[じょう]",
+        "ちじょう",
         "above ground"
       ],
       "answer": "ちじょう"
@@ -16174,7 +16400,7 @@ var decks = {
     {
       "question": [
         "用事",
-        "用[よう] 事[じ]",
+        "ようじ",
         "things to do, errand, business"
       ],
       "answer": "ようじ"
@@ -16190,7 +16416,7 @@ var decks = {
     {
       "question": [
         "反対",
-        "反[はん] 対[たい]",
+        "はんたい",
         "oppose, object"
       ],
       "answer": "はんたい"
@@ -16198,7 +16424,7 @@ var decks = {
     {
       "question": [
         "保つ",
-        "保[たも]つ",
+        "たもつ",
         "preserve, endure"
       ],
       "answer": "たもつ"
@@ -16206,7 +16432,7 @@ var decks = {
     {
       "question": [
         "歴史",
-        "歴[れき] 史[し]",
+        "れきし",
         "history"
       ],
       "answer": "れきし"
@@ -16214,11 +16440,13 @@ var decks = {
     {
       "question": [
         "島",
-        "島[しま]",
+        "しま",
         "island, isle"
       ],
       "answer": "しま"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_68": [
     {
       "question": [
         "それほど",
@@ -16230,7 +16458,7 @@ var decks = {
     {
       "question": [
         "実に",
-        "実[じつ]に",
+        "じつに",
         "truly, surely"
       ],
       "answer": "じつに"
@@ -16238,7 +16466,7 @@ var decks = {
     {
       "question": [
         "恐れる",
-        "恐[おそ]れる",
+        "おそれる",
         "fear, apprehend"
       ],
       "answer": "おそれる"
@@ -16254,7 +16482,7 @@ var decks = {
     {
       "question": [
         "鼻",
-        "鼻[はな]",
+        "はな",
         "nose"
       ],
       "answer": "はな"
@@ -16262,7 +16490,7 @@ var decks = {
     {
       "question": [
         "担当",
-        "担[たん] 当[とう]",
+        "たんとう",
         "person in charge"
       ],
       "answer": "たんとう"
@@ -16270,7 +16498,7 @@ var decks = {
     {
       "question": [
         "片手",
-        "片[かた] 手[て]",
+        "かたて",
         "one hand"
       ],
       "answer": "かたて"
@@ -16278,17 +16506,15 @@ var decks = {
     {
       "question": [
         "幼い",
-        "幼[おさな]い",
+        "おさない",
         "young, childish"
       ],
       "answer": "おさない"
-    }
-  ],
-  "#01_kaishi15k_27": [
+    },
     {
       "question": [
         "学ぶ",
-        "学[まな]ぶ",
+        "まなぶ",
         "learn, study"
       ],
       "answer": "まなぶ"
@@ -16296,7 +16522,7 @@ var decks = {
     {
       "question": [
         "強引",
-        "強[ごう] 引[いん]",
+        "ごういん",
         "overbearing, pushy"
       ],
       "answer": "ごういん"
@@ -16304,7 +16530,7 @@ var decks = {
     {
       "question": [
         "捲る",
-        "捲[まく]る",
+        "まくる",
         "turn up, roll up (e.g. sleeves)"
       ],
       "answer": "まくる"
@@ -16312,7 +16538,7 @@ var decks = {
     {
       "question": [
         "漏れる",
-        "漏[も]れる",
+        "もれる",
         "leak, be disclosed"
       ],
       "answer": "もれる"
@@ -16320,7 +16546,7 @@ var decks = {
     {
       "question": [
         "全体",
-        "全[ぜん] 体[たい]",
+        "ぜんたい",
         "whole, total"
       ],
       "answer": "ぜんたい"
@@ -16328,7 +16554,7 @@ var decks = {
     {
       "question": [
         "度",
-        "度[ど]",
+        "ど",
         "degree, extent"
       ],
       "answer": "ど"
@@ -16336,7 +16562,7 @@ var decks = {
     {
       "question": [
         "情けない",
-        "情[なさ]けない",
+        "なさけない",
         "pathetic, shameful"
       ],
       "answer": "なさけない"
@@ -16344,7 +16570,7 @@ var decks = {
     {
       "question": [
         "太陽",
-        "太[たい] 陽[よう]",
+        "たいよう",
         "sun"
       ],
       "answer": "たいよう"
@@ -16352,7 +16578,7 @@ var decks = {
     {
       "question": [
         "甘える",
-        "甘[あま]える",
+        "あまえる",
         "depend on, take advantage of"
       ],
       "answer": "あまえる"
@@ -16360,7 +16586,7 @@ var decks = {
     {
       "question": [
         "踏む",
-        "踏[ふ]む",
+        "ふむ",
         "step on, tread on"
       ],
       "answer": "ふむ"
@@ -16368,7 +16594,7 @@ var decks = {
     {
       "question": [
         "印象",
-        "印[いん] 象[しょう]",
+        "いんしょう",
         "impression"
       ],
       "answer": "いんしょう"
@@ -16376,15 +16602,17 @@ var decks = {
     {
       "question": [
         "死体",
-        "死[し] 体[たい]",
+        "したい",
         "corpse, body"
       ],
       "answer": "したい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_69": [
     {
       "question": [
         "支配",
-        "支[し] 配[はい]",
+        "しはい",
         "control, management"
       ],
       "answer": "しはい"
@@ -16392,7 +16620,7 @@ var decks = {
     {
       "question": [
         "現場",
-        "現[げん] 場[ば]",
+        "げんば",
         "actual spot, job site"
       ],
       "answer": "げんば"
@@ -16400,7 +16628,7 @@ var decks = {
     {
       "question": [
         "絶望",
-        "絶[ぜつ] 望[ぼう]",
+        "ぜつぼう",
         "despair, hopelessness"
       ],
       "answer": "ぜつぼう"
@@ -16408,7 +16636,7 @@ var decks = {
     {
       "question": [
         "察する",
-        "察[さっ]する",
+        "さっする",
         "sense, guess"
       ],
       "answer": "さっする"
@@ -16416,7 +16644,7 @@ var decks = {
     {
       "question": [
         "以来",
-        "以[い] 来[らい]",
+        "いらい",
         "since"
       ],
       "answer": "いらい"
@@ -16424,7 +16652,7 @@ var decks = {
     {
       "question": [
         "漂う",
-        "漂[ただよ]う",
+        "ただよう",
         "drift, float"
       ],
       "answer": "ただよう"
@@ -16432,7 +16660,7 @@ var decks = {
     {
       "question": [
         "探る",
-        "探[さぐ]る",
+        "さぐる",
         "probe, search into"
       ],
       "answer": "さぐる"
@@ -16440,7 +16668,7 @@ var decks = {
     {
       "question": [
         "最大",
-        "最[さい] 大[だい]",
+        "さいだい",
         "biggest, largest"
       ],
       "answer": "さいだい"
@@ -16448,7 +16676,7 @@ var decks = {
     {
       "question": [
         "下げる",
-        "下[さ]げる",
+        "さげる",
         "lower, turn down"
       ],
       "answer": "さげる"
@@ -16456,7 +16684,7 @@ var decks = {
     {
       "question": [
         "捕まる",
-        "捕[つか]まる",
+        "つかまる",
         "be caught, be arrested"
       ],
       "answer": "つかまる"
@@ -16464,7 +16692,7 @@ var decks = {
     {
       "question": [
         "戸惑う",
-        "戸[と] 惑[まど]う",
+        "とまどう",
         "be perplexed, be bewildered"
       ],
       "answer": "とまどう"
@@ -16472,7 +16700,7 @@ var decks = {
     {
       "question": [
         "言い訳",
-        "言[い]い 訳[わけ]",
+        "いいわけ",
         "apology, excuse"
       ],
       "answer": "いいわけ"
@@ -16480,7 +16708,7 @@ var decks = {
     {
       "question": [
         "証明",
-        "証[しょう] 明[めい]",
+        "しょうめい",
         "proof, evidence"
       ],
       "answer": "しょうめい"
@@ -16488,7 +16716,7 @@ var decks = {
     {
       "question": [
         "参る",
-        "参[まい]る",
+        "まいる",
         "go, come (humble form)"
       ],
       "answer": "まいる"
@@ -16496,7 +16724,7 @@ var decks = {
     {
       "question": [
         "見下ろす",
-        "見[み] 下[お]ろす",
+        "みおろす",
         "look down, overlook"
       ],
       "answer": "みおろす"
@@ -16504,7 +16732,7 @@ var decks = {
     {
       "question": [
         "燃える",
-        "燃[も]える",
+        "もえる",
         "burn, get fired up"
       ],
       "answer": "もえる"
@@ -16520,7 +16748,7 @@ var decks = {
     {
       "question": [
         "暴れる",
-        "暴[あば]れる",
+        "あばれる",
         "act violently, rage about"
       ],
       "answer": "あばれる"
@@ -16528,7 +16756,7 @@ var decks = {
     {
       "question": [
         "越える",
-        "越[こ]える",
+        "こえる",
         "go over, go across, go beyond"
       ],
       "answer": "こえる"
@@ -16536,15 +16764,17 @@ var decks = {
     {
       "question": [
         "精神",
-        "精[せい] 神[しん]",
+        "せいしん",
         "mind, spirit"
       ],
       "answer": "せいしん"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_70": [
     {
       "question": [
         "男子",
-        "男[だん] 子[し]",
+        "だんし",
         "boy, young man"
       ],
       "answer": "だんし"
@@ -16552,7 +16782,7 @@ var decks = {
     {
       "question": [
         "宣言",
-        "宣[せん] 言[げん]",
+        "せんげん",
         "declaration"
       ],
       "answer": "せんげん"
@@ -16560,7 +16790,7 @@ var decks = {
     {
       "question": [
         "挟む",
-        "挟[はさ]む",
+        "はさむ",
         "hold between, put between, pinch"
       ],
       "answer": "はさむ"
@@ -16568,7 +16798,7 @@ var decks = {
     {
       "question": [
         "防ぐ",
-        "防[ふせ]ぐ",
+        "ふせぐ",
         "prevent, defend"
       ],
       "answer": "ふせぐ"
@@ -16576,7 +16806,7 @@ var decks = {
     {
       "question": [
         "預ける",
-        "預[あず]ける",
+        "あずける",
         "deposit, entrust"
       ],
       "answer": "あずける"
@@ -16584,7 +16814,7 @@ var decks = {
     {
       "question": [
         "限る",
-        "限[かぎ]る",
+        "かぎる",
         "be limited to"
       ],
       "answer": "かぎる"
@@ -16592,7 +16822,7 @@ var decks = {
     {
       "question": [
         "責める",
-        "責[せ]める",
+        "せめる",
         "blame"
       ],
       "answer": "せめる"
@@ -16600,7 +16830,7 @@ var decks = {
     {
       "question": [
         "崩れる",
-        "崩[くず]れる",
+        "くずれる",
         "crumble, collapse"
       ],
       "answer": "くずれる"
@@ -16608,7 +16838,7 @@ var decks = {
     {
       "question": [
         "一度も",
-        "一[いち] 度[ど]も",
+        "いちども",
         "not even once, never"
       ],
       "answer": "いちども"
@@ -16624,7 +16854,7 @@ var decks = {
     {
       "question": [
         "その内",
-        "その 内[うち]",
+        "そのうち",
         "before long, sooner or later"
       ],
       "answer": "そのうち"
@@ -16632,7 +16862,7 @@ var decks = {
     {
       "question": [
         "鏡",
-        "鏡[かがみ]",
+        "かがみ",
         "mirror"
       ],
       "answer": "かがみ"
@@ -16640,7 +16870,7 @@ var decks = {
     {
       "question": [
         "貫く",
-        "貫[つらぬ]く",
+        "つらぬく",
         "go through, carry out"
       ],
       "answer": "つらぬく"
@@ -16648,7 +16878,7 @@ var decks = {
     {
       "question": [
         "固まる",
-        "固[かた]まる",
+        "かたまる",
         "harden, solidify"
       ],
       "answer": "かたまる"
@@ -16656,7 +16886,7 @@ var decks = {
     {
       "question": [
         "平和",
-        "平[へい] 和[わ]",
+        "へいわ",
         "peace, harmony"
       ],
       "answer": "へいわ"
@@ -16664,7 +16894,7 @@ var decks = {
     {
       "question": [
         "意志",
-        "意[い] 志[し]",
+        "いし",
         "will, volition"
       ],
       "answer": "いし"
@@ -16672,7 +16902,7 @@ var decks = {
     {
       "question": [
         "下手",
-        "下手[へた]",
+        "へた",
         "bad at, poor"
       ],
       "answer": "へた"
@@ -16680,17 +16910,15 @@ var decks = {
     {
       "question": [
         "続き",
-        "続[つづ]き",
+        "つづき",
         "continuation, sequel"
       ],
       "answer": "つづき"
-    }
-  ],
-  "#01_kaishi15k_28": [
+    },
     {
       "question": [
         "祈る",
-        "祈[いの]る",
+        "いのる",
         "pray"
       ],
       "answer": "いのる"
@@ -16698,15 +16926,17 @@ var decks = {
     {
       "question": [
         "午後",
-        "午[ご] 後[ご]",
+        "ごご",
         "afternoon, p.m."
       ],
       "answer": "ごご"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_71": [
     {
       "question": [
         "同様",
-        "同[どう] 様[よう]",
+        "どうよう",
         "similar"
       ],
       "answer": "どうよう"
@@ -16714,7 +16944,7 @@ var decks = {
     {
       "question": [
         "外れる",
-        "外[はず]れる",
+        "はずれる",
         "come undone, be removed"
       ],
       "answer": "はずれる"
@@ -16722,7 +16952,7 @@ var decks = {
     {
       "question": [
         "歌う",
-        "歌[うた]う",
+        "うたう",
         "sing"
       ],
       "answer": "うたう"
@@ -16730,7 +16960,7 @@ var decks = {
     {
       "question": [
         "回",
-        "回[かい]",
+        "かい",
         "times"
       ],
       "answer": "かい"
@@ -16738,7 +16968,7 @@ var decks = {
     {
       "question": [
         "固い",
-        "固[かた]い",
+        "かたい",
         "stiff, tight"
       ],
       "answer": "かたい"
@@ -16746,7 +16976,7 @@ var decks = {
     {
       "question": [
         "最強",
-        "最[さい] 強[きょう]",
+        "さいきょう",
         "strongest"
       ],
       "answer": "さいきょう"
@@ -16754,7 +16984,7 @@ var decks = {
     {
       "question": [
         "弾く",
-        "弾[ひ]く",
+        "ひく",
         "to strum (e.g. a guitar), to flick"
       ],
       "answer": "ひく"
@@ -16762,7 +16992,7 @@ var decks = {
     {
       "question": [
         "正解",
-        "正[せい] 解[かい]",
+        "せいかい",
         "right answer, correct solution"
       ],
       "answer": "せいかい"
@@ -16778,7 +17008,7 @@ var decks = {
     {
       "question": [
         "お陰",
-        "お 陰[かげ]",
+        "おかげ",
         "help, thanks to"
       ],
       "answer": "おかげ"
@@ -16786,7 +17016,7 @@ var decks = {
     {
       "question": [
         "地獄",
-        "地[じ] 獄[ごく]",
+        "じごく",
         "hell"
       ],
       "answer": "じごく"
@@ -16794,7 +17024,7 @@ var decks = {
     {
       "question": [
         "年齢",
-        "年[ねん] 齢[れい]",
+        "ねんれい",
         "age, years"
       ],
       "answer": "ねんれい"
@@ -16802,7 +17032,7 @@ var decks = {
     {
       "question": [
         "病気",
-        "病[びょう] 気[き]",
+        "びょうき",
         "illness"
       ],
       "answer": "びょうき"
@@ -16810,7 +17040,7 @@ var decks = {
     {
       "question": [
         "携帯",
-        "携[けい] 帯[たい]",
+        "けいたい",
         "cell phone"
       ],
       "answer": "けいたい"
@@ -16826,7 +17056,7 @@ var decks = {
     {
       "question": [
         "並べる",
-        "並[なら]べる",
+        "ならべる",
         "line up, display, set up"
       ],
       "answer": "ならべる"
@@ -16834,7 +17064,7 @@ var decks = {
     {
       "question": [
         "契約",
-        "契[けい] 約[やく]",
+        "けいやく",
         "contract, agreement"
       ],
       "answer": "けいやく"
@@ -16842,7 +17072,7 @@ var decks = {
     {
       "question": [
         "永遠",
-        "永[えい] 遠[えん]",
+        "えいえん",
         "eternity"
       ],
       "answer": "えいえん"
@@ -16850,7 +17080,7 @@ var decks = {
     {
       "question": [
         "不意に",
-        "不[ふ] 意[い]に",
+        "ふいに",
         "suddenly, unexpectedly"
       ],
       "answer": "ふいに"
@@ -16858,15 +17088,17 @@ var decks = {
     {
       "question": [
         "呪い",
-        "呪[のろ]い",
+        "のろい",
         "curse, spell"
       ],
       "answer": "のろい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_72": [
     {
       "question": [
         "組",
-        "組[くみ]",
+        "くみ",
         "school class"
       ],
       "answer": "くみ"
@@ -16874,7 +17106,7 @@ var decks = {
     {
       "question": [
         "踊る",
-        "踊[おど]る",
+        "おどる",
         "dance"
       ],
       "answer": "おどる"
@@ -16882,7 +17114,7 @@ var decks = {
     {
       "question": [
         "目覚める",
-        "目[め] 覚[ざ]める",
+        "めざめる",
         "wake (up), come to one's senses"
       ],
       "answer": "めざめる"
@@ -16890,7 +17122,7 @@ var decks = {
     {
       "question": [
         "事故",
-        "事[じ] 故[こ]",
+        "じこ",
         "accident, incident"
       ],
       "answer": "じこ"
@@ -16898,7 +17130,7 @@ var decks = {
     {
       "question": [
         "袋",
-        "袋[ふくろ]",
+        "ふくろ",
         "bag, sack"
       ],
       "answer": "ふくろ"
@@ -16906,7 +17138,7 @@ var decks = {
     {
       "question": [
         "派手",
-        "派[は] 手[で]",
+        "はで",
         "showy, flashy"
       ],
       "answer": "はで"
@@ -16914,7 +17146,7 @@ var decks = {
     {
       "question": [
         "今更",
-        "今[いま] 更[さら]",
+        "いまさら",
         "now (when it's too late), at this stage"
       ],
       "answer": "いまさら"
@@ -16922,7 +17154,7 @@ var decks = {
     {
       "question": [
         "真っ直ぐ",
-        "真[ま]っ 直[す]ぐ",
+        "まっすぐ",
         "straight ahead, straightforward"
       ],
       "answer": "まっすぐ"
@@ -16930,7 +17162,7 @@ var decks = {
     {
       "question": [
         "油断",
-        "油[ゆ] 断[だん]",
+        "ゆだん",
         "inattention, carelessness"
       ],
       "answer": "ゆだん"
@@ -16946,7 +17178,7 @@ var decks = {
     {
       "question": [
         "育つ",
-        "育[そだ]つ",
+        "そだつ",
         "be brought up, grow"
       ],
       "answer": "そだつ"
@@ -16954,7 +17186,7 @@ var decks = {
     {
       "question": [
         "傷つく",
-        "傷[きず]つく",
+        "きずつく",
         "get hurt"
       ],
       "answer": "きずつく"
@@ -16962,7 +17194,7 @@ var decks = {
     {
       "question": [
         "発する",
-        "発[はっ]する",
+        "はっする",
         "emit, radiate"
       ],
       "answer": "はっする"
@@ -16970,7 +17202,7 @@ var decks = {
     {
       "question": [
         "終了",
-        "終[しゅう] 了[りょう]",
+        "しゅうりょう",
         "end, expiry"
       ],
       "answer": "しゅうりょう"
@@ -16978,7 +17210,7 @@ var decks = {
     {
       "question": [
         "足音",
-        "足[あし] 音[おと]",
+        "あしおと",
         "sound of footsteps"
       ],
       "answer": "あしおと"
@@ -16986,7 +17218,7 @@ var decks = {
     {
       "question": [
         "決意",
-        "決[けつ] 意[い]",
+        "けつい",
         "decision, resolution"
       ],
       "answer": "けつい"
@@ -16994,7 +17226,7 @@ var decks = {
     {
       "question": [
         "感心",
-        "感[かん] 心[しん]",
+        "かんしん",
         "admiration"
       ],
       "answer": "かんしん"
@@ -17002,7 +17234,7 @@ var decks = {
     {
       "question": [
         "飲み込む",
-        "飲[の]み 込[こ]む",
+        "のみこむ",
         "swallow, grasp"
       ],
       "answer": "のみこむ"
@@ -17010,7 +17242,7 @@ var decks = {
     {
       "question": [
         "仮に",
-        "仮[かり]に",
+        "かりに",
         "supposing that, even if"
       ],
       "answer": "かりに"
@@ -17018,15 +17250,17 @@ var decks = {
     {
       "question": [
         "お菓子",
-        "お 菓[か] 子[し]",
+        "おかし",
         "sweets, snacks"
       ],
       "answer": "おかし"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_73": [
     {
       "question": [
         "染まる",
-        "染[そ]まる",
+        "そまる",
         "be dyed, be tainted"
       ],
       "answer": "そまる"
@@ -17034,7 +17268,7 @@ var decks = {
     {
       "question": [
         "笑い",
-        "笑[わら]い",
+        "わらい",
         "laughter, laugh"
       ],
       "answer": "わらい"
@@ -17042,7 +17276,7 @@ var decks = {
     {
       "question": [
         "買い物",
-        "買[か]い 物[もの]",
+        "かいもの",
         "shopping"
       ],
       "answer": "かいもの"
@@ -17050,7 +17284,7 @@ var decks = {
     {
       "question": [
         "歌",
-        "歌[うた]",
+        "うた",
         "song"
       ],
       "answer": "うた"
@@ -17058,7 +17292,7 @@ var decks = {
     {
       "question": [
         "庭",
-        "庭[にわ]",
+        "にわ",
         "garden, yard"
       ],
       "answer": "にわ"
@@ -17066,7 +17300,7 @@ var decks = {
     {
       "question": [
         "生き物",
-        "生[い]き 物[もの]",
+        "いきもの",
         "living creature"
       ],
       "answer": "いきもの"
@@ -17074,7 +17308,7 @@ var decks = {
     {
       "question": [
         "特殊",
-        "特[とく] 殊[しゅ]",
+        "とくしゅ",
         "special, unique"
       ],
       "answer": "とくしゅ"
@@ -17082,17 +17316,15 @@ var decks = {
     {
       "question": [
         "連れて行く",
-        "連[つ]れて 行[い]く",
+        "つれていく",
         "take (a person) along"
       ],
       "answer": "つれていく"
-    }
-  ],
-  "#01_kaishi15k_29": [
+    },
     {
       "question": [
         "現状",
-        "現[げん] 状[じょう]",
+        "げんじょう",
         "present condition"
       ],
       "answer": "げんじょう"
@@ -17100,7 +17332,7 @@ var decks = {
     {
       "question": [
         "大分",
-        "大[だい] 分[ぶ]",
+        "だいぶ",
         "very, greatly"
       ],
       "answer": "だいぶ"
@@ -17108,7 +17340,7 @@ var decks = {
     {
       "question": [
         "底",
-        "底[そこ]",
+        "そこ",
         "bottom"
       ],
       "answer": "そこ"
@@ -17116,7 +17348,7 @@ var decks = {
     {
       "question": [
         "学生",
-        "学[がく] 生[せい]",
+        "がくせい",
         "student"
       ],
       "answer": "がくせい"
@@ -17124,7 +17356,7 @@ var decks = {
     {
       "question": [
         "丁寧",
-        "丁[てい] 寧[ねい]",
+        "ていねい",
         "polite, careful"
       ],
       "answer": "ていねい"
@@ -17132,7 +17364,7 @@ var decks = {
     {
       "question": [
         "範囲",
-        "範[はん] 囲[い]",
+        "はんい",
         "range, scope"
       ],
       "answer": "はんい"
@@ -17148,7 +17380,7 @@ var decks = {
     {
       "question": [
         "美人",
-        "美[び] 人[じん]",
+        "びじん",
         "beautiful woman"
       ],
       "answer": "びじん"
@@ -17156,7 +17388,7 @@ var decks = {
     {
       "question": [
         "技",
-        "技[わざ]",
+        "わざ",
         "skill"
       ],
       "answer": "わざ"
@@ -17164,7 +17396,7 @@ var decks = {
     {
       "question": [
         "将来",
-        "将[しょう] 来[らい]",
+        "しょうらい",
         "one's future, in the future"
       ],
       "answer": "しょうらい"
@@ -17172,7 +17404,7 @@ var decks = {
     {
       "question": [
         "記録",
-        "記[き] 録[ろく]",
+        "きろく",
         "record, documentation"
       ],
       "answer": "きろく"
@@ -17180,15 +17412,17 @@ var decks = {
     {
       "question": [
         "大人しい",
-        "大人[おとな]しい",
+        "おとなしい",
         "tame, quiet, obedient, calm"
       ],
       "answer": "おとなしい"
-    },
+    }
+  ],
+  "#01_kaishi15k_hiragana_74": [
     {
       "question": [
         "骨",
-        "骨[ほね]",
+        "ほね",
         "bone"
       ],
       "answer": "ほね"
@@ -17196,7 +17430,7 @@ var decks = {
     {
       "question": [
         "目標",
-        "目[もく] 標[ひょう]",
+        "もくひょう",
         "target, goal"
       ],
       "answer": "もくひょう"
@@ -17204,7 +17438,7 @@ var decks = {
     {
       "question": [
         "肉体",
-        "肉[にく] 体[たい]",
+        "にくたい",
         "body, flesh"
       ],
       "answer": "にくたい"
@@ -17212,7 +17446,7 @@ var decks = {
     {
       "question": [
         "届ける",
-        "届[とど]ける",
+        "とどける",
         "deliver, give notice"
       ],
       "answer": "とどける"
@@ -17220,7 +17454,7 @@ var decks = {
     {
       "question": [
         "足元",
-        "足[あし] 元[もと]",
+        "あしもと",
         "step, under foot"
       ],
       "answer": "あしもと"
@@ -17228,7 +17462,7 @@ var decks = {
     {
       "question": [
         "捜す",
-        "捜[さが]す",
+        "さがす",
         "look for, search for"
       ],
       "answer": "さがす"
@@ -17252,7 +17486,7 @@ var decks = {
     {
       "question": [
         "布",
-        "布[ぬの]",
+        "ぬの",
         "cloth"
       ],
       "answer": "ぬの"
@@ -17260,7 +17494,7 @@ var decks = {
     {
       "question": [
         "種類",
-        "種[しゅ] 類[るい]",
+        "しゅるい",
         "kind, species"
       ],
       "answer": "しゅるい"
@@ -17268,7 +17502,7 @@ var decks = {
     {
       "question": [
         "満たす",
-        "満[み]たす",
+        "みたす",
         "fill, satisfy"
       ],
       "answer": "みたす"
@@ -17276,7 +17510,7 @@ var decks = {
     {
       "question": [
         "景色",
-        "景色[けしき]",
+        "けしき",
         "scenery"
       ],
       "answer": "けしき"
@@ -17284,7 +17518,7 @@ var decks = {
     {
       "question": [
         "勇気",
-        "勇[ゆう] 気[き]",
+        "ゆうき",
         "courage, nerve"
       ],
       "answer": "ゆうき"
@@ -17292,7 +17526,7 @@ var decks = {
     {
       "question": [
         "強化",
-        "強[きょう] 化[か]",
+        "きょうか",
         "strengthening"
       ],
       "answer": "きょうか"
@@ -17300,7 +17534,7 @@ var decks = {
     {
       "question": [
         "加える",
-        "加[くわ]える",
+        "くわえる",
         "add, include"
       ],
       "answer": "くわえる"
@@ -17308,7 +17542,7 @@ var decks = {
     {
       "question": [
         "言い出す",
-        "言[い]い 出[だ]す",
+        "いいだす",
         "begin to say, be the first to say, propose"
       ],
       "answer": "いいだす"
@@ -17316,7 +17550,7 @@ var decks = {
     {
       "question": [
         "収まる",
-        "収[おさ]まる",
+        "おさまる",
         "to be settled (e.g. a dispute), to be contained within"
       ],
       "answer": "おさまる"
@@ -17324,7 +17558,7 @@ var decks = {
     {
       "question": [
         "組織",
-        "組[そ] 織[しき]",
+        "そしき",
         "organization, structure"
       ],
       "answer": "そしき"
@@ -17332,159 +17566,15 @@ var decks = {
     {
       "question": [
         "隙間",
-        "隙[すき] 間[ま]",
+        "すきま",
         "crack, gap"
       ],
       "answer": "すきま"
     },
     {
       "question": [
-        "本日",
-        "本[ほん] 日[じつ]",
-        "today"
-      ],
-      "answer": "ほんじつ"
-    },
-    {
-      "question": [
-        "先日",
-        "先[せん] 日[じつ]",
-        "the other day, a few days ago"
-      ],
-      "answer": "せんじつ"
-    },
-    {
-      "question": [
-        "月曜日",
-        "月[げつ] 曜[よう] 日[び]",
-        "Monday"
-      ],
-      "answer": "げつようび"
-    },
-    {
-      "question": [
-        "火曜日",
-        "火[か] 曜[よう] 日[び]",
-        "Tuesday"
-      ],
-      "answer": "かようび"
-    },
-    {
-      "question": [
-        "水曜日",
-        "水[すい] 曜[よう] 日[び]",
-        "Wednesday"
-      ],
-      "answer": "すいようび"
-    },
-    {
-      "question": [
-        "木曜日",
-        "木[もく] 曜[よう] 日[び]",
-        "Thursday"
-      ],
-      "answer": "もくようび"
-    },
-    {
-      "question": [
-        "金曜日",
-        "金[きん] 曜[よう] 日[び]",
-        "Friday"
-      ],
-      "answer": "きんようび"
-    },
-    {
-      "question": [
-        "土曜日",
-        "土[ど] 曜[よう] 日[び]",
-        "Saturday"
-      ],
-      "answer": "どようび"
-    },
-    {
-      "question": [
-        "日曜日",
-        "日[にち] 曜[よう] 日[び]",
-        "Sunday"
-      ],
-      "answer": "にちようび"
-    },
-    {
-      "question": [
-        "一つ",
-        "一[ひと]つ",
-        "one (thing)"
-      ],
-      "answer": "ひとつ"
-    },
-    {
-      "question": [
-        "二つ",
-        "二[ふた]つ",
-        "two (things)"
-      ],
-      "answer": "ふたつ"
-    },
-    {
-      "question": [
-        "三つ",
-        "三[みっ]つ",
-        "three (things)"
-      ],
-      "answer": "みっつ"
-    },
-    {
-      "question": [
-        "四つ",
-        "四[よっ]つ",
-        "four (things)"
-      ],
-      "answer": "よっつ"
-    },
-    {
-      "question": [
-        "五つ",
-        "五[いつ]つ",
-        "five (things)"
-      ],
-      "answer": "いつつ"
-    },
-    {
-      "question": [
-        "六つ",
-        "六[むっ]つ",
-        "six (things)"
-      ],
-      "answer": "むっつ"
-    },
-    {
-      "question": [
-        "七つ",
-        "七[なな]つ",
-        "seven (things)"
-      ],
-      "answer": "ななつ"
-    },
-    {
-      "question": [
-        "八つ",
-        "八[やっ]つ",
-        "eight (things)"
-      ],
-      "answer": "やっつ"
-    },
-    {
-      "question": [
-        "九つ",
-        "九[ここの]つ",
-        "nine (things)"
-      ],
-      "answer": "ここのつ"
-    },
-    {
-      "question": [
         "評価",
-        "評[ひょう] 価[か]",
+        "ひょうか",
         "evaluation, appraisal, recognition"
       ],
       "answer": "ひょうか"
@@ -21254,4912 +21344,6 @@ var decks = {
       "answer": "ま"
     }
   ],
-  "#usagi_phonetics_00": [
-    {
-      "question": [
-        "長",
-        "たけ",
-        "height/stature"
-      ],
-      "answer": "たけ"
-    },
-    {
-      "question": [
-        "長",
-        "ちょう",
-        "head/chief/leader/elder"
-      ],
-      "answer": "ちょう"
-    },
-    {
-      "question": [
-        "長",
-        "つかさ",
-        "office/official"
-      ],
-      "answer": "つかさ"
-    },
-    {
-      "question": [
-        "長",
-        "おさ",
-        "head/chief/leader/elder"
-      ],
-      "answer": "おさ"
-    },
-    {
-      "question": [
-        "長",
-        "なが",
-        "long"
-      ],
-      "answer": "なが"
-    },
-    {
-      "question": [
-        "帳",
-        "ちょう",
-        "book/register"
-      ],
-      "answer": "ちょう"
-    },
-    {
-      "question": [
-        "帳",
-        "とばり",
-        "curtain/hanging/bunting"
-      ],
-      "answer": "とばり"
-    },
-    {
-      "question": [
-        "張",
-        "ちょう",
-        "Chinese \"Extended Net\" constellation"
-      ],
-      "answer": "ちょう"
-    },
-    {
-      "question": [
-        "義",
-        "ぎ",
-        "morality/righteousness/justice/honour"
-      ],
-      "answer": "ぎ"
-    },
-    {
-      "question": [
-        "儀",
-        "ぎ",
-        "ceremony"
-      ],
-      "answer": "ぎ"
-    },
-    {
-      "question": [
-        "議",
-        "ぎ",
-        "discussion/deliberation"
-      ],
-      "answer": "ぎ"
-    },
-    {
-      "question": [
-        "蟻",
-        "あり",
-        "ant"
-      ],
-      "answer": "あり"
-    },
-    {
-      "question": [
-        "同",
-        "どう",
-        "the same/the said"
-      ],
-      "answer": "どう"
-    },
-    {
-      "question": [
-        "洞",
-        "ほら",
-        "hollow/cavity/hole/cave"
-      ],
-      "answer": "ほら"
-    },
-    {
-      "question": [
-        "洞",
-        "うつろ",
-        "cavity/hollow/void"
-      ],
-      "answer": "うつろ"
-    },
-    {
-      "question": [
-        "洞",
-        "うろ",
-        "hollow/cavity/hole"
-      ],
-      "answer": "うろ"
-    },
-    {
-      "question": [
-        "洞",
-        "どう",
-        "sinus/cavity/antrum"
-      ],
-      "answer": "どう"
-    },
-    {
-      "question": [
-        "桐",
-        "きり",
-        "paulownia"
-      ],
-      "answer": "きり"
-    },
-    {
-      "question": [
-        "銅",
-        "かね",
-        "money"
-      ],
-      "answer": "かね"
-    },
-    {
-      "question": [
-        "銅",
-        "どう",
-        "copper"
-      ],
-      "answer": "どう"
-    },
-    {
-      "question": [
-        "筒",
-        "つつ",
-        "pipe/tube/cylinder"
-      ],
-      "answer": "つつ"
-    },
-    {
-      "question": [
-        "筒",
-        "ピン",
-        "counter for dot tiles"
-      ],
-      "answer": "ぴん"
-    },
-    {
-      "question": [
-        "中",
-        "なか",
-        "inside/interior/in"
-      ],
-      "answer": "なか"
-    },
-    {
-      "question": [
-        "中",
-        "うち",
-        "inside/within"
-      ],
-      "answer": "うち"
-    },
-    {
-      "question": [
-        "中",
-        "ちゅう",
-        "medium/average/middle"
-      ],
-      "answer": "ちゅう"
-    },
-    {
-      "question": [
-        "中",
-        "じゅう",
-        "through/throughout/in the course of"
-      ],
-      "answer": "じゅう"
-    },
-    {
-      "question": [
-        "中",
-        "チュン",
-        "red dragon tile"
-      ],
-      "answer": "ちゅん"
-    },
-    {
-      "question": [
-        "仲",
-        "なか",
-        "relation/relationship"
-      ],
-      "answer": "なか"
-    },
-    {
-      "question": [
-        "仲",
-        "すあい",
-        "broker/brokerage/brokerage fee"
-      ],
-      "answer": "すあい"
-    },
-    {
-      "question": [
-        "沖",
-        "おき",
-        "open sea"
-      ],
-      "answer": "おき"
-    },
-    {
-      "question": [
-        "忠",
-        "ちゅう",
-        "loyalty/devotion/fidelity/faithfulness"
-      ],
-      "answer": "ちゅう"
-    },
-    {
-      "question": [
-        "虫",
-        "むし",
-        "insect/bug/cricket/moth"
-      ],
-      "answer": "むし"
-    },
-    {
-      "question": [
-        "里",
-        "さと",
-        "village/hamlet"
-      ],
-      "answer": "さと"
-    },
-    {
-      "question": [
-        "里",
-        "り",
-        "Japanese league/ri/old Japanese unit of distance, approx. 3.927km or 2.44 miles"
-      ],
-      "answer": "り"
-    },
-    {
-      "question": [
-        "浬",
-        "ノット",
-        "knot"
-      ],
-      "answer": "のっと"
-    },
-    {
-      "question": [
-        "浬",
-        "かいり",
-        "nautical mile"
-      ],
-      "answer": "かいり"
-    },
-    {
-      "question": [
-        "理",
-        "り",
-        "reason/principle/logic"
-      ],
-      "answer": "り"
-    },
-    {
-      "question": [
-        "理",
-        "ことわり",
-        "reason/logic/sense/natural way of things"
-      ],
-      "answer": "ことわり"
-    },
-    {
-      "question": [
-        "裡",
-        "り",
-        "in"
-      ],
-      "answer": "り"
-    },
-    {
-      "question": [
-        "哩",
-        "マイル",
-        "mile"
-      ],
-      "answer": "まいる"
-    },
-    {
-      "question": [
-        "鯉",
-        "こい",
-        "common carp"
-      ],
-      "answer": "こい"
-    },
-    {
-      "question": [
-        "交",
-        "こもごも",
-        "alternately/in succession"
-      ],
-      "answer": "こもごも"
-    },
-    {
-      "question": [
-        "交",
-        "こう",
-        "association/fellowship"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "効",
-        "こう",
-        "efficacy/benefit/efficiency/effect/result/success"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "効",
-        "かい",
-        "effect/result/worth/use/avail"
-      ],
-      "answer": "かい"
-    },
-    {
-      "question": [
-        "校",
-        "こう",
-        "school"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "絞",
-        "こう",
-        "death by hanging"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "城",
-        "しろ",
-        "castle"
-      ],
-      "answer": "しろ"
-    },
-    {
-      "question": [
-        "城",
-        "じょう",
-        "castle"
-      ],
-      "answer": "じょう"
-    },
-    {
-      "question": [
-        "城",
-        "き",
-        "fortress"
-      ],
-      "answer": "き"
-    }
-  ],
-  "#usagi_phonetics_01": [
-    {
-      "question": [
-        "盛",
-        "もり",
-        "serving"
-      ],
-      "answer": "もり"
-    },
-    {
-      "question": [
-        "誠",
-        "まこと",
-        "truth/reality"
-      ],
-      "answer": "まこと"
-    },
-    {
-      "question": [
-        "抗",
-        "こう",
-        "anti-"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "坑",
-        "こう",
-        "pit"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "杭",
-        "くい",
-        "stake/post/pile/picket"
-      ],
-      "answer": "くい"
-    },
-    {
-      "question": [
-        "杭",
-        "くいぜ",
-        "stump"
-      ],
-      "answer": "くいぜ"
-    },
-    {
-      "question": [
-        "章",
-        "しょう",
-        "chapter/section"
-      ],
-      "answer": "しょう"
-    },
-    {
-      "question": [
-        "樟",
-        "くすのき",
-        "camphor tree"
-      ],
-      "answer": "くすのき"
-    },
-    {
-      "question": [
-        "哉",
-        "かな",
-        "how!/what!/alas!"
-      ],
-      "answer": "かな"
-    },
-    {
-      "question": [
-        "裁",
-        "さい",
-        "judge"
-      ],
-      "answer": "さい"
-    },
-    {
-      "question": [
-        "載",
-        "さい",
-        "10^44/hundred tredecillion"
-      ],
-      "answer": "さい"
-    },
-    {
-      "question": [
-        "溝",
-        "こう",
-        "10^32/hundred nonillion"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "溝",
-        "みぞ",
-        "ditch/drain/gutter/trench"
-      ],
-      "answer": "みぞ"
-    },
-    {
-      "question": [
-        "構",
-        "かまえ",
-        "structure/construction/appearance"
-      ],
-      "answer": "かまえ"
-    },
-    {
-      "question": [
-        "構",
-        "かじ",
-        "paper mulberry"
-      ],
-      "answer": "かじ"
-    },
-    {
-      "question": [
-        "講",
-        "こう",
-        "(Buddhist) lecture meeting"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "旨",
-        "むね",
-        "principle/aim/main purpose/central part/pillar"
-      ],
-      "answer": "むね"
-    },
-    {
-      "question": [
-        "指",
-        "ゆび",
-        "finger/toe/digit"
-      ],
-      "answer": "ゆび"
-    },
-    {
-      "question": [
-        "指",
-        "さし",
-        "between"
-      ],
-      "answer": "さし"
-    },
-    {
-      "question": [
-        "脂",
-        "あぶら",
-        "fat/tallow/lard/grease"
-      ],
-      "answer": "あぶら"
-    },
-    {
-      "question": [
-        "脂",
-        "やに",
-        "resin"
-      ],
-      "answer": "やに"
-    },
-    {
-      "question": [
-        "低",
-        "てい",
-        "low"
-      ],
-      "answer": "てい"
-    },
-    {
-      "question": [
-        "底",
-        "そこ",
-        "bottom/sole"
-      ],
-      "answer": "そこ"
-    },
-    {
-      "question": [
-        "底",
-        "てい",
-        "base"
-      ],
-      "answer": "てい"
-    },
-    {
-      "question": [
-        "邸",
-        "やしき",
-        "residence/estate/grounds/premises/mansion"
-      ],
-      "answer": "やしき"
-    },
-    {
-      "question": [
-        "邸",
-        "てい",
-        "residence/mansion"
-      ],
-      "answer": "てい"
-    },
-    {
-      "question": [
-        "球",
-        "まり",
-        "ball"
-      ],
-      "answer": "まり"
-    },
-    {
-      "question": [
-        "球",
-        "きゅう",
-        "sphere"
-      ],
-      "answer": "きゅう"
-    },
-    {
-      "question": [
-        "球",
-        "たま",
-        "ball/sphere/globe/orb"
-      ],
-      "answer": "たま"
-    },
-    {
-      "question": [
-        "毬",
-        "まり",
-        "ball"
-      ],
-      "answer": "まり"
-    },
-    {
-      "question": [
-        "毬",
-        "いが",
-        "burr"
-      ],
-      "answer": "いが"
-    },
-    {
-      "question": [
-        "毬",
-        "かさ",
-        "cone"
-      ],
-      "answer": "かさ"
-    },
-    {
-      "question": [
-        "五",
-        "ご",
-        "five"
-      ],
-      "answer": "ご"
-    },
-    {
-      "question": [
-        "五",
-        "ウー",
-        "five"
-      ],
-      "answer": "うー"
-    },
-    {
-      "question": [
-        "語",
-        "ご",
-        "language"
-      ],
-      "answer": "ご"
-    },
-    {
-      "question": [
-        "語",
-        "かたり",
-        "talk/recital"
-      ],
-      "answer": "かたり"
-    },
-    {
-      "question": [
-        "吾",
-        "われ",
-        "I/me"
-      ],
-      "answer": "われ"
-    },
-    {
-      "question": [
-        "伍",
-        "ご",
-        "five"
-      ],
-      "answer": "ご"
-    },
-    {
-      "question": [
-        "伍",
-        "ご",
-        "company/group/class"
-      ],
-      "answer": "ご"
-    },
-    {
-      "question": [
-        "及",
-        "および",
-        "and/as well as"
-      ],
-      "answer": "および"
-    },
-    {
-      "question": [
-        "級",
-        "きゅう",
-        "class"
-      ],
-      "answer": "きゅう"
-    },
-    {
-      "question": [
-        "笈",
-        "おい",
-        "wooden box carried on one's back to store items for a pilgrimage"
-      ],
-      "answer": "おい"
-    },
-    {
-      "question": [
-        "笈",
-        "きゅう",
-        "box carried on one's back to store books"
-      ],
-      "answer": "きゅう"
-    },
-    {
-      "question": [
-        "官",
-        "かん",
-        "government service/the bureaucracy"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "官",
-        "つかさ",
-        "office/official"
-      ],
-      "answer": "つかさ"
-    },
-    {
-      "question": [
-        "菅",
-        "すげ",
-        "sedge"
-      ],
-      "answer": "すげ"
-    },
-    {
-      "question": [
-        "棺",
-        "かん",
-        "coffin/casket"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "管",
-        "かん",
-        "pipe/tube"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "館",
-        "やかた",
-        "mansion/palace/manor house/castle"
-      ],
-      "answer": "やかた"
-    },
-    {
-      "question": [
-        "館",
-        "かん",
-        "house/hall/building"
-      ],
-      "answer": "かん"
-    }
-  ],
-  "#usagi_phonetics_02": [
-    {
-      "question": [
-        "館",
-        "むろつみ",
-        "inn"
-      ],
-      "answer": "むろつみ"
-    },
-    {
-      "question": [
-        "剣",
-        "けん",
-        "sword"
-      ],
-      "answer": "けん"
-    },
-    {
-      "question": [
-        "険",
-        "けん",
-        "steepness/steep place"
-      ],
-      "answer": "けん"
-    },
-    {
-      "question": [
-        "険",
-        "さが",
-        "precipitous"
-      ],
-      "answer": "さが"
-    },
-    {
-      "question": [
-        "倹",
-        "けん",
-        "economizing/thriftiness/prudence/frugality"
-      ],
-      "answer": "けん"
-    },
-    {
-      "question": [
-        "験",
-        "ためし",
-        "trial/test"
-      ],
-      "answer": "ためし"
-    },
-    {
-      "question": [
-        "験",
-        "しるし",
-        "sign/indication/omen"
-      ],
-      "answer": "しるし"
-    },
-    {
-      "question": [
-        "験",
-        "げん",
-        "effect/efficacy"
-      ],
-      "answer": "げん"
-    },
-    {
-      "question": [
-        "化",
-        "か",
-        "action of making something/-ification"
-      ],
-      "answer": "か"
-    },
-    {
-      "question": [
-        "花",
-        "はな",
-        "flower/blossom/bloom/petal"
-      ],
-      "answer": "はな"
-    },
-    {
-      "question": [
-        "貨",
-        "たから",
-        "treasure"
-      ],
-      "answer": "たから"
-    },
-    {
-      "question": [
-        "靴",
-        "くつ",
-        "shoe/shoes/boots/footwear/footgear"
-      ],
-      "answer": "くつ"
-    },
-    {
-      "question": [
-        "亡",
-        "ぼう",
-        "death"
-      ],
-      "answer": "ぼう"
-    },
-    {
-      "question": [
-        "望",
-        "もち",
-        "full moon"
-      ],
-      "answer": "もち"
-    },
-    {
-      "question": [
-        "盲",
-        "めくら",
-        "blindness/blind person"
-      ],
-      "answer": "めくら"
-    },
-    {
-      "question": [
-        "盲",
-        "もう",
-        "blindness"
-      ],
-      "answer": "もう"
-    },
-    {
-      "question": [
-        "適",
-        "たまたま",
-        "occasionally/once in a while/seldom"
-      ],
-      "answer": "たまたま"
-    },
-    {
-      "question": [
-        "適",
-        "たま",
-        "occasional/infrequent/rare"
-      ],
-      "answer": "たま"
-    },
-    {
-      "question": [
-        "滴",
-        "しずく",
-        "drop"
-      ],
-      "answer": "しずく"
-    },
-    {
-      "question": [
-        "滴",
-        "たらし",
-        "dripping/drop"
-      ],
-      "answer": "たらし"
-    },
-    {
-      "question": [
-        "滴",
-        "てき",
-        "counter for drops of liquid"
-      ],
-      "answer": "てき"
-    },
-    {
-      "question": [
-        "敵",
-        "かたき",
-        "rival/opponent/adversary/competitor/enemy"
-      ],
-      "answer": "かたき"
-    },
-    {
-      "question": [
-        "敵",
-        "てき",
-        "opponent/rival/adversary"
-      ],
-      "answer": "てき"
-    },
-    {
-      "question": [
-        "監",
-        "げん",
-        "special Nara-period administrative division for areas containing a detached palace"
-      ],
-      "answer": "げん"
-    },
-    {
-      "question": [
-        "艦",
-        "かん",
-        "warship"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "鑑",
-        "かがみ",
-        "model/pattern/paragon/exemplar"
-      ],
-      "answer": "かがみ"
-    },
-    {
-      "question": [
-        "藍",
-        "あい",
-        "dyer's knotweed"
-      ],
-      "answer": "あい"
-    },
-    {
-      "question": [
-        "則",
-        "そく",
-        "counter for rules"
-      ],
-      "answer": "そく"
-    },
-    {
-      "question": [
-        "側",
-        "そば",
-        "near/close/beside/vicinity/proximity/besides/while"
-      ],
-      "answer": "そば"
-    },
-    {
-      "question": [
-        "側",
-        "がわ",
-        "side"
-      ],
-      "answer": "がわ"
-    },
-    {
-      "question": [
-        "側",
-        "かたわら",
-        "side/edge/beside/besides/nearby"
-      ],
-      "answer": "かたわら"
-    },
-    {
-      "question": [
-        "側",
-        "そく",
-        "first principle of the Eight Principles of Yong/tiny dash or speck"
-      ],
-      "answer": "そく"
-    },
-    {
-      "question": [
-        "浦",
-        "うら",
-        "inlet"
-      ],
-      "answer": "うら"
-    },
-    {
-      "question": [
-        "哺",
-        "ほ",
-        "holding food in one's mouth/food held in one's mouth"
-      ],
-      "answer": "ほ"
-    },
-    {
-      "question": [
-        "補",
-        "ほ",
-        "assistant .../probationary ..."
-      ],
-      "answer": "ほ"
-    },
-    {
-      "question": [
-        "蒲",
-        "がま",
-        "common cattail"
-      ],
-      "answer": "がま"
-    },
-    {
-      "question": [
-        "舗",
-        "ほ",
-        "shop/store"
-      ],
-      "answer": "ほ"
-    },
-    {
-      "question": [
-        "奇",
-        "き",
-        "strange/unconventional/eccentric/novel"
-      ],
-      "answer": "き"
-    },
-    {
-      "question": [
-        "崎",
-        "さき",
-        "small peninsula/cape/promontory/headland"
-      ],
-      "answer": "さき"
-    },
-    {
-      "question": [
-        "崎",
-        "みさき",
-        "cape"
-      ],
-      "answer": "みさき"
-    },
-    {
-      "question": [
-        "埼",
-        "さき",
-        "small peninsula/cape/promontory/headland"
-      ],
-      "answer": "さき"
-    },
-    {
-      "question": [
-        "綺",
-        "き",
-        "thin twilled silk fabric"
-      ],
-      "answer": "き"
-    },
-    {
-      "question": [
-        "騎",
-        "き",
-        "counter for horsemen"
-      ],
-      "answer": "き"
-    },
-    {
-      "question": [
-        "付",
-        "つき",
-        "furnished with/including"
-      ],
-      "answer": "つき"
-    },
-    {
-      "question": [
-        "付",
-        "づけ",
-        "dated"
-      ],
-      "answer": "づけ"
-    },
-    {
-      "question": [
-        "府",
-        "ふ",
-        "(metropolitan) prefecture"
-      ],
-      "answer": "ふ"
-    },
-    {
-      "question": [
-        "符",
-        "ふ",
-        "charm/talisman/amulet"
-      ],
-      "answer": "ふ"
-    },
-    {
-      "question": [
-        "壮",
-        "そう",
-        "vibrancy/strength/bravery/manliness"
-      ],
-      "answer": "そう"
-    },
-    {
-      "question": [
-        "荘",
-        "しょう",
-        "manor/villa"
-      ],
-      "answer": "しょう"
-    },
-    {
-      "question": [
-        "荘",
-        "チャン",
-        "counter for games of mahjong"
-      ],
-      "answer": "ちゃん"
-    }
-  ],
-  "#usagi_phonetics_03": [
-    {
-      "question": [
-        "装",
-        "そう",
-        "clothing/dressing"
-      ],
-      "answer": "そう"
-    },
-    {
-      "question": [
-        "未",
-        "ひつじ",
-        "the Sheep"
-      ],
-      "answer": "ひつじ"
-    },
-    {
-      "question": [
-        "未",
-        "み",
-        "not yet/un-"
-      ],
-      "answer": "み"
-    },
-    {
-      "question": [
-        "味",
-        "あじ",
-        "flavor/flavour/taste"
-      ],
-      "answer": "あじ"
-    },
-    {
-      "question": [
-        "味",
-        "み",
-        "(sense of) taste"
-      ],
-      "answer": "み"
-    },
-    {
-      "question": [
-        "可",
-        "か",
-        "acceptable/satisfactory/allowed/permitted"
-      ],
-      "answer": "か"
-    },
-    {
-      "question": [
-        "何",
-        "なに",
-        "what"
-      ],
-      "answer": "なに"
-    },
-    {
-      "question": [
-        "何",
-        "なん",
-        "what"
-      ],
-      "answer": "なん"
-    },
-    {
-      "question": [
-        "河",
-        "かわ",
-        "river/stream"
-      ],
-      "answer": "かわ"
-    },
-    {
-      "question": [
-        "河",
-        "ホー",
-        "discarded tiles/discards"
-      ],
-      "answer": "ほー"
-    },
-    {
-      "question": [
-        "荷",
-        "に",
-        "load/baggage/cargo/freight/goods"
-      ],
-      "answer": "に"
-    },
-    {
-      "question": [
-        "荷",
-        "か",
-        "counter for loads"
-      ],
-      "answer": "か"
-    },
-    {
-      "question": [
-        "歌",
-        "うた",
-        "song"
-      ],
-      "answer": "うた"
-    },
-    {
-      "question": [
-        "原",
-        "げん",
-        "original/primitive/primary/fundamental/raw"
-      ],
-      "answer": "げん"
-    },
-    {
-      "question": [
-        "原",
-        "はら",
-        "field/plain/prairie/tundra/moor/wilderness"
-      ],
-      "answer": "はら"
-    },
-    {
-      "question": [
-        "原",
-        "ばら",
-        "suffixed to words indicating a class of people to create a plural"
-      ],
-      "answer": "ばら"
-    },
-    {
-      "question": [
-        "源",
-        "みなもと",
-        "source"
-      ],
-      "answer": "みなもと"
-    },
-    {
-      "question": [
-        "源",
-        "げん",
-        "source/origin"
-      ],
-      "answer": "げん"
-    },
-    {
-      "question": [
-        "輪",
-        "りん",
-        "counter for wheels and flowers"
-      ],
-      "answer": "りん"
-    },
-    {
-      "question": [
-        "輪",
-        "わ",
-        "ring/circle/loop"
-      ],
-      "answer": "わ"
-    },
-    {
-      "question": [
-        "孝",
-        "こう",
-        "filial piety"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "英",
-        "はなぶさ",
-        "calyx/corolla"
-      ],
-      "answer": "はなぶさ"
-    },
-    {
-      "question": [
-        "英",
-        "えい",
-        "Britain/British"
-      ],
-      "answer": "えい"
-    },
-    {
-      "question": [
-        "敬",
-        "けい",
-        "reverence/respect"
-      ],
-      "answer": "けい"
-    },
-    {
-      "question": [
-        "真",
-        "しん",
-        "truth/reality/genuineness"
-      ],
-      "answer": "しん"
-    },
-    {
-      "question": [
-        "真",
-        "ま",
-        "just/right/due"
-      ],
-      "answer": "ま"
-    },
-    {
-      "question": [
-        "真",
-        "まな",
-        "beloved/dear"
-      ],
-      "answer": "まな"
-    },
-    {
-      "question": [
-        "槙",
-        "まき",
-        "yew plum pine"
-      ],
-      "answer": "まき"
-    },
-    {
-      "question": [
-        "令",
-        "れい",
-        "command/order/dictation"
-      ],
-      "answer": "れい"
-    },
-    {
-      "question": [
-        "令",
-        "りょう",
-        "administrative and civil code"
-      ],
-      "answer": "りょう"
-    },
-    {
-      "question": [
-        "冷",
-        "れい",
-        "refrigerator"
-      ],
-      "answer": "れい"
-    },
-    {
-      "question": [
-        "冷",
-        "ひや",
-        "cold water"
-      ],
-      "answer": "ひや"
-    },
-    {
-      "question": [
-        "零",
-        "れい",
-        "zero/nought"
-      ],
-      "answer": "れい"
-    },
-    {
-      "question": [
-        "零",
-        "ゼロ",
-        "zero/nought/nil"
-      ],
-      "answer": "ぜろ"
-    },
-    {
-      "question": [
-        "鈴",
-        "すず",
-        "bell"
-      ],
-      "answer": "すず"
-    },
-    {
-      "question": [
-        "澪",
-        "みお",
-        "waterway/channel"
-      ],
-      "answer": "みお"
-    },
-    {
-      "question": [
-        "齢",
-        "よわい",
-        "(one's) age"
-      ],
-      "answer": "よわい"
-    },
-    {
-      "question": [
-        "齢",
-        "れい",
-        "instar"
-      ],
-      "answer": "れい"
-    },
-    {
-      "question": [
-        "嶺",
-        "みね",
-        "peak/summit/ridge/top"
-      ],
-      "answer": "みね"
-    },
-    {
-      "question": [
-        "申",
-        "さる",
-        "the Monkey"
-      ],
-      "answer": "さる"
-    },
-    {
-      "question": [
-        "神",
-        "かみ",
-        "god/deity/divinity/spirit/kami"
-      ],
-      "answer": "かみ"
-    },
-    {
-      "question": [
-        "神",
-        "しん",
-        "spirit/psyche"
-      ],
-      "answer": "しん"
-    },
-    {
-      "question": [
-        "神",
-        "み",
-        "soul/spirit/divine spirit"
-      ],
-      "answer": "み"
-    },
-    {
-      "question": [
-        "神",
-        "かむ",
-        "divine/godly"
-      ],
-      "answer": "かむ"
-    },
-    {
-      "question": [
-        "沼",
-        "ぬま",
-        "marsh/swamp/wetland/bog/pond"
-      ],
-      "answer": "ぬま"
-    },
-    {
-      "question": [
-        "昭",
-        "しょう",
-        "nth year in the Shōwa era"
-      ],
-      "answer": "しょう"
-    },
-    {
-      "question": [
-        "詔",
-        "みことのり",
-        "imperial decree/imperial edict"
-      ],
-      "answer": "みことのり"
-    },
-    {
-      "question": [
-        "浪",
-        "なみ",
-        "wave"
-      ],
-      "answer": "なみ"
-    },
-    {
-      "question": [
-        "浪",
-        "ろう",
-        "person who has spent X years after graduating high school attempting to get admitted to"
-      ],
-      "answer": "ろう"
-    },
-    {
-      "question": [
-        "狼",
-        "おおかみ",
-        "wolf"
-      ],
-      "answer": "おおかみ"
-    }
-  ],
-  "#usagi_phonetics_04": [
-    {
-      "question": [
-        "郎",
-        "ろう",
-        "nth son"
-      ],
-      "answer": "ろう"
-    },
-    {
-      "question": [
-        "廊",
-        "ろう",
-        "corridor/passage/hall"
-      ],
-      "answer": "ろう"
-    },
-    {
-      "question": [
-        "曽",
-        "ひい",
-        "great"
-      ],
-      "answer": "ひい"
-    },
-    {
-      "question": [
-        "僧",
-        "そう",
-        "monk/priest"
-      ],
-      "answer": "そう"
-    },
-    {
-      "question": [
-        "層",
-        "そう",
-        "layer/stratum/seam/bed"
-      ],
-      "answer": "そう"
-    },
-    {
-      "question": [
-        "増",
-        "ぞう",
-        "increase"
-      ],
-      "answer": "ぞう"
-    },
-    {
-      "question": [
-        "比",
-        "ひ",
-        "ratio/proportion"
-      ],
-      "answer": "ひ"
-    },
-    {
-      "question": [
-        "比",
-        "ころ",
-        "(approximate) time/around/about/toward"
-      ],
-      "answer": "ころ"
-    },
-    {
-      "question": [
-        "比",
-        "たぐい",
-        "kind/sort/type"
-      ],
-      "answer": "たぐい"
-    },
-    {
-      "question": [
-        "比",
-        "ころおい",
-        "time/period/days"
-      ],
-      "answer": "ころおい"
-    },
-    {
-      "question": [
-        "庇",
-        "ひさし",
-        "awning"
-      ],
-      "answer": "ひさし"
-    },
-    {
-      "question": [
-        "皆",
-        "みんな",
-        "everyone/everybody/all"
-      ],
-      "answer": "みんな"
-    },
-    {
-      "question": [
-        "階",
-        "かい",
-        "storey/story/floor"
-      ],
-      "answer": "かい"
-    },
-    {
-      "question": [
-        "階",
-        "しな",
-        "article/item/thing/goods/stock"
-      ],
-      "answer": "しな"
-    },
-    {
-      "question": [
-        "階",
-        "きざはし",
-        "stairs"
-      ],
-      "answer": "きざはし"
-    },
-    {
-      "question": [
-        "楷",
-        "かい",
-        "regular script"
-      ],
-      "answer": "かい"
-    },
-    {
-      "question": [
-        "周",
-        "しゅう",
-        "Zhou dynasty"
-      ],
-      "answer": "しゅう"
-    },
-    {
-      "question": [
-        "週",
-        "しゅう",
-        "week"
-      ],
-      "answer": "しゅう"
-    },
-    {
-      "question": [
-        "彫",
-        "ほり",
-        "carving/engraving"
-      ],
-      "answer": "ほり"
-    },
-    {
-      "question": [
-        "調",
-        "ちょう",
-        "pitch/tone/key"
-      ],
-      "answer": "ちょう"
-    },
-    {
-      "question": [
-        "鯛",
-        "たい",
-        "sea bream"
-      ],
-      "answer": "たい"
-    },
-    {
-      "question": [
-        "生",
-        "き",
-        "pure/undiluted/raw/crude"
-      ],
-      "answer": "き"
-    },
-    {
-      "question": [
-        "生",
-        "なま",
-        "raw/uncooked/fresh"
-      ],
-      "answer": "なま"
-    },
-    {
-      "question": [
-        "生",
-        "うぶ",
-        "innocent/naive/unsophisticated/inexperienced/green/wet behind the ears"
-      ],
-      "answer": "うぶ"
-    },
-    {
-      "question": [
-        "生",
-        "せい",
-        "life/living"
-      ],
-      "answer": "せい"
-    },
-    {
-      "question": [
-        "生",
-        "いく",
-        "vital/virile/lively"
-      ],
-      "answer": "いく"
-    },
-    {
-      "question": [
-        "生",
-        "ふ",
-        "area of thick growth"
-      ],
-      "answer": "ふ"
-    },
-    {
-      "question": [
-        "生",
-        "なまり",
-        "boiled and half-dried bonito"
-      ],
-      "answer": "なまり"
-    },
-    {
-      "question": [
-        "性",
-        "さが",
-        "one's nature/one's destiny"
-      ],
-      "answer": "さが"
-    },
-    {
-      "question": [
-        "性",
-        "せい",
-        "nature"
-      ],
-      "answer": "せい"
-    },
-    {
-      "question": [
-        "性",
-        "しょう",
-        "nature"
-      ],
-      "answer": "しょう"
-    },
-    {
-      "question": [
-        "性",
-        "なりくせ",
-        "disposition/nature/character"
-      ],
-      "answer": "なりくせ"
-    },
-    {
-      "question": [
-        "姓",
-        "せい",
-        "surname/family name"
-      ],
-      "answer": "せい"
-    },
-    {
-      "question": [
-        "姓",
-        "かばね",
-        "hereditary title"
-      ],
-      "answer": "かばね"
-    },
-    {
-      "question": [
-        "星",
-        "ほし",
-        "star"
-      ],
-      "answer": "ほし"
-    },
-    {
-      "question": [
-        "星",
-        "せい",
-        "Chinese \"star\" constellation"
-      ],
-      "answer": "せい"
-    },
-    {
-      "question": [
-        "牲",
-        "にえ",
-        "offering"
-      ],
-      "answer": "にえ"
-    },
-    {
-      "question": [
-        "甥",
-        "おい",
-        "nephew"
-      ],
-      "answer": "おい"
-    },
-    {
-      "question": [
-        "市",
-        "いち",
-        "market/fair"
-      ],
-      "answer": "いち"
-    },
-    {
-      "question": [
-        "市",
-        "し",
-        "city"
-      ],
-      "answer": "し"
-    },
-    {
-      "question": [
-        "姉",
-        "あね",
-        "older sister/elder sister"
-      ],
-      "answer": "あね"
-    },
-    {
-      "question": [
-        "姉",
-        "し",
-        "honorific suffix used after the name of a woman of equal or higher status"
-      ],
-      "answer": "し"
-    },
-    {
-      "question": [
-        "姉",
-        "ねえ",
-        "older sister"
-      ],
-      "answer": "ねえ"
-    },
-    {
-      "question": [
-        "肺",
-        "はい",
-        "lung"
-      ],
-      "answer": "はい"
-    },
-    {
-      "question": [
-        "柿",
-        "かき",
-        "kaki/Japanese persimmon"
-      ],
-      "answer": "かき"
-    },
-    {
-      "question": [
-        "柿",
-        "こけら",
-        "chopped wood/wood chips"
-      ],
-      "answer": "こけら"
-    },
-    {
-      "question": [
-        "其",
-        "それ",
-        "that/it"
-      ],
-      "answer": "それ"
-    },
-    {
-      "question": [
-        "其",
-        "し",
-        "that"
-      ],
-      "answer": "し"
-    },
-    {
-      "question": [
-        "其",
-        "そ",
-        "that"
-      ],
-      "answer": "そ"
-    },
-    {
-      "question": [
-        "基",
-        "もと",
-        "origin/source"
-      ],
-      "answer": "もと"
-    }
-  ],
-  "#usagi_phonetics_05": [
-    {
-      "question": [
-        "基",
-        "き",
-        "group"
-      ],
-      "answer": "き"
-    },
-    {
-      "question": [
-        "基",
-        "もとい",
-        "basis/foundation"
-      ],
-      "answer": "もとい"
-    },
-    {
-      "question": [
-        "期",
-        "き",
-        "period/time"
-      ],
-      "answer": "き"
-    },
-    {
-      "question": [
-        "期",
-        "ご",
-        "time/moment/limit"
-      ],
-      "answer": "ご"
-    },
-    {
-      "question": [
-        "棋",
-        "ご",
-        "go/board game of capturing territory"
-      ],
-      "answer": "ご"
-    },
-    {
-      "question": [
-        "旗",
-        "はた",
-        "flag"
-      ],
-      "answer": "はた"
-    },
-    {
-      "question": [
-        "箕",
-        "き",
-        "Chinese \"winnowing basket\" constellation"
-      ],
-      "answer": "き"
-    },
-    {
-      "question": [
-        "箕",
-        "み",
-        "winnow/winnowing basket/winnowing fan"
-      ],
-      "answer": "み"
-    },
-    {
-      "question": [
-        "半",
-        "はん",
-        "half/semi-"
-      ],
-      "answer": "はん"
-    },
-    {
-      "question": [
-        "判",
-        "はん",
-        "seal/stamp/monogram signature"
-      ],
-      "answer": "はん"
-    },
-    {
-      "question": [
-        "伴",
-        "とも",
-        "companion/follower/attendant/retinue"
-      ],
-      "answer": "とも"
-    },
-    {
-      "question": [
-        "畔",
-        "あぜ",
-        "ridge of earth between rice fields"
-      ],
-      "answer": "あぜ"
-    },
-    {
-      "question": [
-        "畔",
-        "ほとり",
-        "side"
-      ],
-      "answer": "ほとり"
-    },
-    {
-      "question": [
-        "絆",
-        "きずな",
-        "bonds"
-      ],
-      "answer": "きずな"
-    },
-    {
-      "question": [
-        "豆",
-        "まめ",
-        "legume"
-      ],
-      "answer": "まめ"
-    },
-    {
-      "question": [
-        "痘",
-        "いも",
-        "smallpox/variola"
-      ],
-      "answer": "いも"
-    },
-    {
-      "question": [
-        "頭",
-        "とう",
-        "counter for large animals"
-      ],
-      "answer": "とう"
-    },
-    {
-      "question": [
-        "頭",
-        "あたま",
-        "head"
-      ],
-      "answer": "あたま"
-    },
-    {
-      "question": [
-        "頭",
-        "がしら",
-        "top of .../head of ..."
-      ],
-      "answer": "がしら"
-    },
-    {
-      "question": [
-        "頭",
-        "どたま",
-        "head/dome/bean/nob/noggin"
-      ],
-      "answer": "どたま"
-    },
-    {
-      "question": [
-        "頭",
-        "かぶし",
-        "shape of one's head"
-      ],
-      "answer": "かぶし"
-    },
-    {
-      "question": [
-        "頭",
-        "こうべ",
-        "head"
-      ],
-      "answer": "こうべ"
-    },
-    {
-      "question": [
-        "頭",
-        "ず",
-        "head"
-      ],
-      "answer": "ず"
-    },
-    {
-      "question": [
-        "橙",
-        "だいだい",
-        "bitter orange"
-      ],
-      "answer": "だいだい"
-    },
-    {
-      "question": [
-        "燈",
-        "とう",
-        "light/lamp"
-      ],
-      "answer": "とう"
-    },
-    {
-      "question": [
-        "分",
-        "ふん",
-        "minute"
-      ],
-      "answer": "ふん"
-    },
-    {
-      "question": [
-        "分",
-        "ぶ",
-        "one-tenth/one percent"
-      ],
-      "answer": "ぶ"
-    },
-    {
-      "question": [
-        "分",
-        "ぶん",
-        "part/portion/share"
-      ],
-      "answer": "ぶん"
-    },
-    {
-      "question": [
-        "粉",
-        "こな",
-        "flour/meal/powder/dust"
-      ],
-      "answer": "こな"
-    },
-    {
-      "question": [
-        "倍",
-        "ばい",
-        "twice/double"
-      ],
-      "answer": "ばい"
-    },
-    {
-      "question": [
-        "億",
-        "おく",
-        "10^8/100,000,000/hundred million"
-      ],
-      "answer": "おく"
-    },
-    {
-      "question": [
-        "嬢",
-        "じょう",
-        "unmarried woman"
-      ],
-      "answer": "じょう"
-    },
-    {
-      "question": [
-        "穣",
-        "じょう",
-        "10^28/ten octillion"
-      ],
-      "answer": "じょう"
-    },
-    {
-      "question": [
-        "寮",
-        "りょう",
-        "hostel/dormitory"
-      ],
-      "answer": "りょう"
-    },
-    {
-      "question": [
-        "寮",
-        "つかさ",
-        "office/official"
-      ],
-      "answer": "つかさ"
-    },
-    {
-      "question": [
-        "遼",
-        "りょう",
-        "Liao"
-      ],
-      "answer": "りょう"
-    },
-    {
-      "question": [
-        "操",
-        "みさお",
-        "fidelity/honour/honor/constancy"
-      ],
-      "answer": "みさお"
-    },
-    {
-      "question": [
-        "藻",
-        "も",
-        "algae/waterweed/seaweed/duckweed"
-      ],
-      "answer": "も"
-    },
-    {
-      "question": [
-        "奴",
-        "やっこ",
-        "servant"
-      ],
-      "answer": "やっこ"
-    },
-    {
-      "question": [
-        "奴",
-        "やつ",
-        "fellow/guy/chap"
-      ],
-      "answer": "やつ"
-    },
-    {
-      "question": [
-        "奴",
-        "め",
-        "damn/bastard"
-      ],
-      "answer": "め"
-    },
-    {
-      "question": [
-        "奴",
-        "やつこ",
-        "slave"
-      ],
-      "answer": "やつこ"
-    },
-    {
-      "question": [
-        "努",
-        "ゆめ",
-        "never/by no means"
-      ],
-      "answer": "ゆめ"
-    },
-    {
-      "question": [
-        "努",
-        "ど",
-        "third principle of the Eight Principles of Yong/downward stroke"
-      ],
-      "answer": "ど"
-    },
-    {
-      "question": [
-        "曹",
-        "そう",
-        "palace room for government officials"
-      ],
-      "answer": "そう"
-    },
-    {
-      "question": [
-        "槽",
-        "ふね",
-        "ship/boat/watercraft/vessel/seaplane"
-      ],
-      "answer": "ふね"
-    },
-    {
-      "question": [
-        "槽",
-        "そう",
-        "body"
-      ],
-      "answer": "そう"
-    },
-    {
-      "question": [
-        "槽",
-        "うけ",
-        "basin/tub"
-      ],
-      "answer": "うけ"
-    },
-    {
-      "question": [
-        "寝",
-        "ね",
-        "sleep"
-      ],
-      "answer": "ね"
-    },
-    {
-      "question": [
-        "寝",
-        "ぬ",
-        "to lie down/to go to bed/to go to sleep"
-      ],
-      "answer": "ぬ"
-    }
-  ],
-  "#usagi_phonetics_06": [
-    {
-      "question": [
-        "呉",
-        "ご",
-        "go/soy beans soaked and mashed to a creamy paste"
-      ],
-      "answer": "ご"
-    },
-    {
-      "question": [
-        "呉",
-        "ご",
-        "Wu/region in China, south of the lower Yangtze"
-      ],
-      "answer": "ご"
-    },
-    {
-      "question": [
-        "誤",
-        "ご",
-        "mistake/error"
-      ],
-      "answer": "ご"
-    },
-    {
-      "question": [
-        "距",
-        "けづめ",
-        "fetlock"
-      ],
-      "answer": "けづめ"
-    },
-    {
-      "question": [
-        "距",
-        "きょ",
-        "tubular nectary/spur"
-      ],
-      "answer": "きょ"
-    },
-    {
-      "question": [
-        "麻",
-        "あさ",
-        "cannabis"
-      ],
-      "answer": "あさ"
-    },
-    {
-      "question": [
-        "魔",
-        "ま",
-        "demon/devil/evil spirit/evil influence"
-      ],
-      "answer": "ま"
-    },
-    {
-      "question": [
-        "但",
-        "ただ",
-        "ordinary/common/usual"
-      ],
-      "answer": "ただ"
-    },
-    {
-      "question": [
-        "胆",
-        "きも",
-        "liver/innards"
-      ],
-      "answer": "きも"
-    },
-    {
-      "question": [
-        "正",
-        "せい",
-        "(logical) true/regular"
-      ],
-      "answer": "せい"
-    },
-    {
-      "question": [
-        "正",
-        "しょう",
-        "greater"
-      ],
-      "answer": "しょう"
-    },
-    {
-      "question": [
-        "正",
-        "まさ",
-        "exact/precise"
-      ],
-      "answer": "まさ"
-    },
-    {
-      "question": [
-        "征",
-        "しちょう",
-        "ladder"
-      ],
-      "answer": "しちょう"
-    },
-    {
-      "question": [
-        "政",
-        "まつりごと",
-        "rule/government"
-      ],
-      "answer": "まつりごと"
-    },
-    {
-      "question": [
-        "証",
-        "しるし",
-        "mark/sign"
-      ],
-      "answer": "しるし"
-    },
-    {
-      "question": [
-        "証",
-        "あかし",
-        "proof/evidence/sign/testimony/vindication"
-      ],
-      "answer": "あかし"
-    },
-    {
-      "question": [
-        "反",
-        "たん",
-        "variable measure of fabric"
-      ],
-      "answer": "たん"
-    },
-    {
-      "question": [
-        "反",
-        "はん",
-        "anti-"
-      ],
-      "answer": "はん"
-    },
-    {
-      "question": [
-        "坂",
-        "さか",
-        "slope/incline/hill"
-      ],
-      "answer": "さか"
-    },
-    {
-      "question": [
-        "阪",
-        "さか",
-        "slope/incline/hill"
-      ],
-      "answer": "さか"
-    },
-    {
-      "question": [
-        "板",
-        "いた",
-        "board/plank"
-      ],
-      "answer": "いた"
-    },
-    {
-      "question": [
-        "版",
-        "はん",
-        "edition/version/printing/impression/implementation"
-      ],
-      "answer": "はん"
-    },
-    {
-      "question": [
-        "飯",
-        "めし",
-        "cooked rice"
-      ],
-      "answer": "めし"
-    },
-    {
-      "question": [
-        "飯",
-        "まんま",
-        "cooked rice"
-      ],
-      "answer": "まんま"
-    },
-    {
-      "question": [
-        "飯",
-        "いい",
-        "cooked rice"
-      ],
-      "answer": "いい"
-    },
-    {
-      "question": [
-        "方",
-        "かた",
-        "direction/way"
-      ],
-      "answer": "かた"
-    },
-    {
-      "question": [
-        "方",
-        "ほう",
-        "direction/way/side/area"
-      ],
-      "answer": "ほう"
-    },
-    {
-      "question": [
-        "方",
-        "さま",
-        "Mr./Mrs./Miss/Ms."
-      ],
-      "answer": "さま"
-    },
-    {
-      "question": [
-        "方",
-        "がた",
-        "Sirs/Mesdames"
-      ],
-      "answer": "がた"
-    },
-    {
-      "question": [
-        "方",
-        "へ",
-        "surrounding area"
-      ],
-      "answer": "へ"
-    },
-    {
-      "question": [
-        "坊",
-        "ぼう",
-        "bonze/monk"
-      ],
-      "answer": "ぼう"
-    },
-    {
-      "question": [
-        "房",
-        "ふさ",
-        "tuft"
-      ],
-      "answer": "ふさ"
-    },
-    {
-      "question": [
-        "房",
-        "ぼう",
-        "chamber/room/cell"
-      ],
-      "answer": "ぼう"
-    },
-    {
-      "question": [
-        "傍",
-        "そば",
-        "near/close/beside/vicinity/proximity/besides/while"
-      ],
-      "answer": "そば"
-    },
-    {
-      "question": [
-        "傍",
-        "かたがた",
-        "incidentally/at the same time"
-      ],
-      "answer": "かたがた"
-    },
-    {
-      "question": [
-        "傍",
-        "かたわら",
-        "side/edge/beside/besides/nearby"
-      ],
-      "answer": "かたわら"
-    },
-    {
-      "question": [
-        "青",
-        "あお",
-        "blue/azure"
-      ],
-      "answer": "あお"
-    },
-    {
-      "question": [
-        "清",
-        "しん",
-        "Qing dynasty"
-      ],
-      "answer": "しん"
-    },
-    {
-      "question": [
-        "清",
-        "さや",
-        "clearly/brightly"
-      ],
-      "answer": "さや"
-    },
-    {
-      "question": [
-        "晴",
-        "はれ",
-        "clear weather/fine weather"
-      ],
-      "answer": "はれ"
-    },
-    {
-      "question": [
-        "静",
-        "せい",
-        "stillness"
-      ],
-      "answer": "せい"
-    },
-    {
-      "question": [
-        "静",
-        "しず",
-        "quiet/calm/still"
-      ],
-      "answer": "しず"
-    },
-    {
-      "question": [
-        "精",
-        "せい",
-        "spirit/sprite/nymph"
-      ],
-      "answer": "せい"
-    },
-    {
-      "question": [
-        "請",
-        "しょう",
-        "request/invitation"
-      ],
-      "answer": "しょう"
-    },
-    {
-      "question": [
-        "錆",
-        "さび",
-        "rust"
-      ],
-      "answer": "さび"
-    },
-    {
-      "question": [
-        "工",
-        "たくみ",
-        "workman/artisan/mechanic/carpenter"
-      ],
-      "answer": "たくみ"
-    },
-    {
-      "question": [
-        "工",
-        "こう",
-        "(factory) worker"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "功",
-        "いたわり",
-        "sympathy/consideration/carefulness/attention"
-      ],
-      "answer": "いたわり"
-    },
-    {
-      "question": [
-        "功",
-        "いさお",
-        "distinguished service/meritorious service"
-      ],
-      "answer": "いさお"
-    },
-    {
-      "question": [
-        "功",
-        "こう",
-        "merit/success/meritorious deed"
-      ],
-      "answer": "こう"
-    }
-  ],
-  "#usagi_phonetics_07": [
-    {
-      "question": [
-        "巧",
-        "こう",
-        "skilfulness/skillfulness/cleverness"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "江",
-        "え",
-        "inlet/bay"
-      ],
-      "answer": "え"
-    },
-    {
-      "question": [
-        "江",
-        "こう",
-        "large river"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "紅",
-        "くれない",
-        "deep red/crimson"
-      ],
-      "answer": "くれない"
-    },
-    {
-      "question": [
-        "紅",
-        "あか",
-        "red/crimson/scarlet"
-      ],
-      "answer": "あか"
-    },
-    {
-      "question": [
-        "紅",
-        "もみ",
-        "red silk lining"
-      ],
-      "answer": "もみ"
-    },
-    {
-      "question": [
-        "虹",
-        "にじ",
-        "rainbow"
-      ],
-      "answer": "にじ"
-    },
-    {
-      "question": [
-        "貢",
-        "こう",
-        "tribute"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "項",
-        "うなじ",
-        "nape"
-      ],
-      "answer": "うなじ"
-    },
-    {
-      "question": [
-        "項",
-        "こう",
-        "clause/paragraph/item"
-      ],
-      "answer": "こう"
-    },
-    {
-      "question": [
-        "遍",
-        "へん",
-        "number of times"
-      ],
-      "answer": "へん"
-    },
-    {
-      "question": [
-        "偏",
-        "へん",
-        "left-hand radical of a character"
-      ],
-      "answer": "へん"
-    },
-    {
-      "question": [
-        "編",
-        "へん",
-        "compilation"
-      ],
-      "answer": "へん"
-    },
-    {
-      "question": [
-        "篇",
-        "へん",
-        "compilation"
-      ],
-      "answer": "へん"
-    },
-    {
-      "question": [
-        "几",
-        "おしまずき",
-        "armrest"
-      ],
-      "answer": "おしまずき"
-    },
-    {
-      "question": [
-        "肌",
-        "はだ",
-        "skin"
-      ],
-      "answer": "はだ"
-    },
-    {
-      "question": [
-        "机",
-        "つくえ",
-        "desk"
-      ],
-      "answer": "つくえ"
-    },
-    {
-      "question": [
-        "干",
-        "ほし",
-        "drying/dried"
-      ],
-      "answer": "ほし"
-    },
-    {
-      "question": [
-        "刊",
-        "かん",
-        "publication/edition"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "汗",
-        "あせ",
-        "sweat/perspiration"
-      ],
-      "answer": "あせ"
-    },
-    {
-      "question": [
-        "汗",
-        "かん",
-        "khan"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "肝",
-        "きも",
-        "liver/innards"
-      ],
-      "answer": "きも"
-    },
-    {
-      "question": [
-        "奸",
-        "かん",
-        "cunning and wickedness"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "起",
-        "おこり",
-        "source/origin/cause/beginning/genesis"
-      ],
-      "answer": "おこり"
-    },
-    {
-      "question": [
-        "記",
-        "き",
-        "account/history/chronicle/annals/record"
-      ],
-      "answer": "き"
-    },
-    {
-      "question": [
-        "紀",
-        "き",
-        "period"
-      ],
-      "answer": "き"
-    },
-    {
-      "question": [
-        "忌",
-        "いみ",
-        "mourning/abstinence"
-      ],
-      "answer": "いみ"
-    },
-    {
-      "question": [
-        "忌",
-        "き",
-        "mourning/mourning period"
-      ],
-      "answer": "き"
-    },
-    {
-      "question": [
-        "伯",
-        "はく",
-        "count/earl"
-      ],
-      "answer": "はく"
-    },
-    {
-      "question": [
-        "拍",
-        "はく",
-        "beat"
-      ],
-      "answer": "はく"
-    },
-    {
-      "question": [
-        "泊",
-        "はく",
-        "counter for nights of a stay"
-      ],
-      "answer": "はく"
-    },
-    {
-      "question": [
-        "迫",
-        "せり",
-        "stage elevator/trapdoor"
-      ],
-      "answer": "せり"
-    },
-    {
-      "question": [
-        "舶",
-        "つむ",
-        "large ship"
-      ],
-      "answer": "つむ"
-    },
-    {
-      "question": [
-        "狛",
-        "こうらい",
-        "Goryeo"
-      ],
-      "answer": "こうらい"
-    },
-    {
-      "question": [
-        "柏",
-        "かしわ",
-        "oak/daimyo oak/Japanese emperor oak/Quercus dentata"
-      ],
-      "answer": "かしわ"
-    },
-    {
-      "question": [
-        "箔",
-        "はく",
-        "foil/(gold, etc.) leaf"
-      ],
-      "answer": "はく"
-    },
-    {
-      "question": [
-        "彼",
-        "あれ",
-        "that/that thing"
-      ],
-      "answer": "あれ"
-    },
-    {
-      "question": [
-        "彼",
-        "かれ",
-        "he/him"
-      ],
-      "answer": "かれ"
-    },
-    {
-      "question": [
-        "彼",
-        "かの",
-        "that well-known ..."
-      ],
-      "answer": "かの"
-    },
-    {
-      "question": [
-        "被",
-        "ひ",
-        "indicates the target of an activity/-ee"
-      ],
-      "answer": "ひ"
-    },
-    {
-      "question": [
-        "泡",
-        "あわ",
-        "bubble/foam/froth/head on beer"
-      ],
-      "answer": "あわ"
-    },
-    {
-      "question": [
-        "砲",
-        "じゅう",
-        "gun/rifle/small arms"
-      ],
-      "answer": "じゅう"
-    },
-    {
-      "question": [
-        "砲",
-        "ほう",
-        "gun/cannon/artillery/ordnance"
-      ],
-      "answer": "ほう"
-    },
-    {
-      "question": [
-        "故",
-        "ふる",
-        "used item/secondhand item"
-      ],
-      "answer": "ふる"
-    },
-    {
-      "question": [
-        "故",
-        "こ",
-        "the late/the deceased"
-      ],
-      "answer": "こ"
-    },
-    {
-      "question": [
-        "故",
-        "ゆえ",
-        "reason/cause/circumstances"
-      ],
-      "answer": "ゆえ"
-    },
-    {
-      "question": [
-        "故",
-        "ことさら",
-        "intentionally/deliberately/designedly/on purpose"
-      ],
-      "answer": "ことさら"
-    },
-    {
-      "question": [
-        "故",
-        "もと",
-        "former/ex-/past/one-time"
-      ],
-      "answer": "もと"
-    },
-    {
-      "question": [
-        "個",
-        "こ",
-        "counter for articles"
-      ],
-      "answer": "こ"
-    },
-    {
-      "question": [
-        "個",
-        "か",
-        "counter for the ichi-ni-san counting system"
-      ],
-      "answer": "か"
-    }
-  ],
-  "#usagi_phonetics_08": [
-    {
-      "question": [
-        "個",
-        "つ",
-        "counter for the hito-futa-mi counting system"
-      ],
-      "answer": "つ"
-    },
-    {
-      "question": [
-        "湖",
-        "みずうみ",
-        "lake"
-      ],
-      "answer": "みずうみ"
-    },
-    {
-      "question": [
-        "湖",
-        "こ",
-        "lake"
-      ],
-      "answer": "こ"
-    },
-    {
-      "question": [
-        "箇",
-        "こ",
-        "counter for articles"
-      ],
-      "answer": "こ"
-    },
-    {
-      "question": [
-        "箇",
-        "か",
-        "counter for the ichi-ni-san counting system"
-      ],
-      "answer": "か"
-    },
-    {
-      "question": [
-        "箇",
-        "つ",
-        "counter for the hito-futa-mi counting system"
-      ],
-      "answer": "つ"
-    },
-    {
-      "question": [
-        "姑",
-        "しゅうとめ",
-        "mother-in-law"
-      ],
-      "answer": "しゅうとめ"
-    },
-    {
-      "question": [
-        "司",
-        "つかさ",
-        "office/official"
-      ],
-      "answer": "つかさ"
-    },
-    {
-      "question": [
-        "司",
-        "し",
-        "office"
-      ],
-      "answer": "し"
-    },
-    {
-      "question": [
-        "伺",
-        "うかがい",
-        "call/visit"
-      ],
-      "answer": "うかがい"
-    },
-    {
-      "question": [
-        "詞",
-        "ことば",
-        "language/dialect"
-      ],
-      "answer": "ことば"
-    },
-    {
-      "question": [
-        "詞",
-        "し",
-        "words/writing/lyrics"
-      ],
-      "answer": "し"
-    },
-    {
-      "question": [
-        "嗣",
-        "し",
-        "succession/successor"
-      ],
-      "answer": "し"
-    },
-    {
-      "question": [
-        "粗",
-        "ほぼ",
-        "almost/roughly/approximately"
-      ],
-      "answer": "ほぼ"
-    },
-    {
-      "question": [
-        "粗",
-        "あら",
-        "remaining bony parts"
-      ],
-      "answer": "あら"
-    },
-    {
-      "question": [
-        "粗",
-        "そ",
-        "coarse/rough/crude/raw/unrefined"
-      ],
-      "answer": "そ"
-    },
-    {
-      "question": [
-        "祖",
-        "おや",
-        "parent/parents/mother and father"
-      ],
-      "answer": "おや"
-    },
-    {
-      "question": [
-        "祖",
-        "そ",
-        "ancestor/forefather/progenitor"
-      ],
-      "answer": "そ"
-    },
-    {
-      "question": [
-        "組",
-        "くみ",
-        "set"
-      ],
-      "answer": "くみ"
-    },
-    {
-      "question": [
-        "株",
-        "かぶ",
-        "stock/share"
-      ],
-      "answer": "かぶ"
-    },
-    {
-      "question": [
-        "株",
-        "くい",
-        "stake/post/pile/picket"
-      ],
-      "answer": "くい"
-    },
-    {
-      "question": [
-        "株",
-        "しゅ",
-        "stump"
-      ],
-      "answer": "しゅ"
-    },
-    {
-      "question": [
-        "株",
-        "くいぜ",
-        "stump"
-      ],
-      "answer": "くいぜ"
-    },
-    {
-      "question": [
-        "株",
-        "かぶた",
-        "stump"
-      ],
-      "answer": "かぶた"
-    },
-    {
-      "question": [
-        "殊",
-        "こと",
-        "difference"
-      ],
-      "answer": "こと"
-    },
-    {
-      "question": [
-        "珠",
-        "たま",
-        "ball/sphere/globe/orb"
-      ],
-      "answer": "たま"
-    },
-    {
-      "question": [
-        "我",
-        "われ",
-        "I/me"
-      ],
-      "answer": "われ"
-    },
-    {
-      "question": [
-        "我",
-        "わが",
-        "my/our/one's own"
-      ],
-      "answer": "わが"
-    },
-    {
-      "question": [
-        "我",
-        "が",
-        "obstinacy"
-      ],
-      "answer": "が"
-    },
-    {
-      "question": [
-        "蛾",
-        "が",
-        "moth"
-      ],
-      "answer": "が"
-    },
-    {
-      "question": [
-        "俄",
-        "にわか",
-        "sudden/abrupt/unexpected/improvised/hasty/offhand"
-      ],
-      "answer": "にわか"
-    },
-    {
-      "question": [
-        "唇",
-        "くちびる",
-        "lips"
-      ],
-      "answer": "くちびる"
-    },
-    {
-      "question": [
-        "震",
-        "しん",
-        "zhen"
-      ],
-      "answer": "しん"
-    },
-    {
-      "question": [
-        "宵",
-        "よい",
-        "evening/early night hours"
-      ],
-      "answer": "よい"
-    },
-    {
-      "question": [
-        "梢",
-        "こずえ",
-        "treetop/tip of a branch"
-      ],
-      "answer": "こずえ"
-    },
-    {
-      "question": [
-        "鞘",
-        "さや",
-        "scabbard/sheath"
-      ],
-      "answer": "さや"
-    },
-    {
-      "question": [
-        "庭",
-        "にわ",
-        "garden/yard/courtyard"
-      ],
-      "answer": "にわ"
-    },
-    {
-      "question": [
-        "挺",
-        "ちょう",
-        "counter for long and narrow things such as guns, scissors, spades, hoes, inksticks, palanquins, candles, jinrikishas, shamisen, oars, etc."
-      ],
-      "answer": "ちょう"
-    },
-    {
-      "question": [
-        "艇",
-        "てい",
-        "boat"
-      ],
-      "answer": "てい"
-    },
-    {
-      "question": [
-        "非",
-        "ひ",
-        "fault/error/mistake"
-      ],
-      "answer": "ひ"
-    },
-    {
-      "question": [
-        "悲",
-        "ひ",
-        "karuna"
-      ],
-      "answer": "ひ"
-    },
-    {
-      "question": [
-        "扉",
-        "とびら",
-        "door/gate/opening"
-      ],
-      "answer": "とびら"
-    },
-    {
-      "question": [
-        "緋",
-        "あけ",
-        "scarlet/red"
-      ],
-      "answer": "あけ"
-    },
-    {
-      "question": [
-        "緋",
-        "あか",
-        "red/crimson/scarlet"
-      ],
-      "answer": "あか"
-    },
-    {
-      "question": [
-        "排",
-        "はい",
-        "anti-"
-      ],
-      "answer": "はい"
-    },
-    {
-      "question": [
-        "采",
-        "さい",
-        "dice/die"
-      ],
-      "answer": "さい"
-    },
-    {
-      "question": [
-        "菜",
-        "な",
-        "greens/vegetables"
-      ],
-      "answer": "な"
-    },
-    {
-      "question": [
-        "菜",
-        "さい",
-        "side dish"
-      ],
-      "answer": "さい"
-    },
-    {
-      "question": [
-        "偶",
-        "たまたま",
-        "occasionally/once in a while/seldom"
-      ],
-      "answer": "たまたま"
-    },
-    {
-      "question": [
-        "偶",
-        "たま",
-        "occasional/infrequent/rare"
-      ],
-      "answer": "たま"
-    }
-  ],
-  "#usagi_phonetics_09": [
-    {
-      "question": [
-        "偶",
-        "ぐう",
-        "even number/even"
-      ],
-      "answer": "ぐう"
-    },
-    {
-      "question": [
-        "隅",
-        "すみ",
-        "corner/nook/recess"
-      ],
-      "answer": "すみ"
-    },
-    {
-      "question": [
-        "模",
-        "かたぎ",
-        "wooden printing block"
-      ],
-      "answer": "かたぎ"
-    },
-    {
-      "question": [
-        "墓",
-        "はか",
-        "gravesite/tomb"
-      ],
-      "answer": "はか"
-    },
-    {
-      "question": [
-        "幕",
-        "まく",
-        "curtain/bunting"
-      ],
-      "answer": "まく"
-    },
-    {
-      "question": [
-        "膜",
-        "まく",
-        "membrane/film"
-      ],
-      "answer": "まく"
-    },
-    {
-      "question": [
-        "莫",
-        "まな",
-        "must not/may not"
-      ],
-      "answer": "まな"
-    },
-    {
-      "question": [
-        "漠",
-        "ばく",
-        "vague/obscure"
-      ],
-      "answer": "ばく"
-    },
-    {
-      "question": [
-        "作",
-        "さく",
-        "work"
-      ],
-      "answer": "さく"
-    },
-    {
-      "question": [
-        "昨",
-        "さく",
-        "last"
-      ],
-      "answer": "さく"
-    },
-    {
-      "question": [
-        "酢",
-        "す",
-        "vinegar"
-      ],
-      "answer": "す"
-    },
-    {
-      "question": [
-        "径",
-        "みち",
-        "road/path/street/lane/passage"
-      ],
-      "answer": "みち"
-    },
-    {
-      "question": [
-        "径",
-        "けい",
-        "diameter"
-      ],
-      "answer": "けい"
-    },
-    {
-      "question": [
-        "経",
-        "たて",
-        "the vertical/height"
-      ],
-      "answer": "たて"
-    },
-    {
-      "question": [
-        "経",
-        "たていと",
-        "(weaving) warp"
-      ],
-      "answer": "たていと"
-    },
-    {
-      "question": [
-        "経",
-        "きょう",
-        "sutra/Buddhist scriptures"
-      ],
-      "answer": "きょう"
-    },
-    {
-      "question": [
-        "経",
-        "ふ",
-        "to pass/to elapse/to go by"
-      ],
-      "answer": "ふ"
-    },
-    {
-      "question": [
-        "経",
-        "けい",
-        "warp"
-      ],
-      "answer": "けい"
-    },
-    {
-      "question": [
-        "軽",
-        "けい",
-        "light"
-      ],
-      "answer": "けい"
-    },
-    {
-      "question": [
-        "壁",
-        "かべ",
-        "wall/partition"
-      ],
-      "answer": "かべ"
-    },
-    {
-      "question": [
-        "癖",
-        "くせ",
-        "habit"
-      ],
-      "answer": "くせ"
-    },
-    {
-      "question": [
-        "璧",
-        "へき",
-        "bi"
-      ],
-      "answer": "へき"
-    },
-    {
-      "question": [
-        "副",
-        "ふく",
-        "assistant/associate/vice-/sub-/deputy/substitute/auxiliary/supplementary/additional/collateral"
-      ],
-      "answer": "ふく"
-    },
-    {
-      "question": [
-        "幅",
-        "はば",
-        "width/breadth"
-      ],
-      "answer": "はば"
-    },
-    {
-      "question": [
-        "幅",
-        "の",
-        "unit of measurement for cloth breadth"
-      ],
-      "answer": "の"
-    },
-    {
-      "question": [
-        "幅",
-        "ふく",
-        "scroll"
-      ],
-      "answer": "ふく"
-    },
-    {
-      "question": [
-        "福",
-        "ふく",
-        "good fortune/happiness/blessing/good luck"
-      ],
-      "answer": "ふく"
-    },
-    {
-      "question": [
-        "過",
-        "か",
-        "surplus-/excess-/over-"
-      ],
-      "answer": "か"
-    },
-    {
-      "question": [
-        "渦",
-        "うず",
-        "whirlpool/swirl/eddy/vortex/maelstrom"
-      ],
-      "answer": "うず"
-    },
-    {
-      "question": [
-        "禍",
-        "わざわい",
-        "disaster/calamity/misfortune/trouble/woes"
-      ],
-      "answer": "わざわい"
-    },
-    {
-      "question": [
-        "禍",
-        "まが",
-        "wickedness/evil/calamity/disaster"
-      ],
-      "answer": "まが"
-    },
-    {
-      "question": [
-        "禍",
-        "か",
-        "disaster/calamity/misfortune"
-      ],
-      "answer": "か"
-    },
-    {
-      "question": [
-        "鍋",
-        "なべ",
-        "saucepan/pot"
-      ],
-      "answer": "なべ"
-    },
-    {
-      "question": [
-        "俊",
-        "しゅん",
-        "excellence/genius"
-      ],
-      "answer": "しゅん"
-    },
-    {
-      "question": [
-        "酸",
-        "さん",
-        "acid"
-      ],
-      "answer": "さん"
-    },
-    {
-      "question": [
-        "酸",
-        "す",
-        "vinegar"
-      ],
-      "answer": "す"
-    },
-    {
-      "question": [
-        "峰",
-        "みね",
-        "peak/summit/ridge/top"
-      ],
-      "answer": "みね"
-    },
-    {
-      "question": [
-        "峯",
-        "みね",
-        "peak/summit/ridge/top"
-      ],
-      "answer": "みね"
-    },
-    {
-      "question": [
-        "蜂",
-        "はち",
-        "bee/wasp/hornet"
-      ],
-      "answer": "はち"
-    },
-    {
-      "question": [
-        "蓬",
-        "よもぎ",
-        "Japanese mugwort"
-      ],
-      "answer": "よもぎ"
-    },
-    {
-      "question": [
-        "鋒",
-        "ほこさき",
-        "point of spear/spearhead"
-      ],
-      "answer": "ほこさき"
-    },
-    {
-      "question": [
-        "鋒",
-        "きっさき",
-        "point"
-      ],
-      "answer": "きっさき"
-    },
-    {
-      "question": [
-        "鋒",
-        "ほこ",
-        "long-handled Chinese spear/lance/pike"
-      ],
-      "answer": "ほこ"
-    },
-    {
-      "question": [
-        "銭",
-        "せん",
-        "sen"
-      ],
-      "answer": "せん"
-    },
-    {
-      "question": [
-        "銭",
-        "ぜに",
-        "round coin with a"
-      ],
-      "answer": "ぜに"
-    },
-    {
-      "question": [
-        "銭",
-        "ぜぜ",
-        "money"
-      ],
-      "answer": "ぜぜ"
-    },
-    {
-      "question": [
-        "狭",
-        "せ",
-        "narrowness/being cramped/being almost full"
-      ],
-      "answer": "せ"
-    },
-    {
-      "question": [
-        "狭",
-        "さ",
-        "narrow/thin"
-      ],
-      "answer": "さ"
-    },
-    {
-      "question": [
-        "峡",
-        "かい",
-        "gorge/ravine"
-      ],
-      "answer": "かい"
-    },
-    {
-      "question": [
-        "根",
-        "ね",
-        "root"
-      ],
-      "answer": "ね"
-    }
-  ],
-  "#usagi_phonetics_10": [
-    {
-      "question": [
-        "根",
-        "こん",
-        "stick-to-itiveness/perseverance/persistence"
-      ],
-      "answer": "こん"
-    },
-    {
-      "question": [
-        "痕",
-        "あと",
-        "trace/tracks/mark/sign"
-      ],
-      "answer": "あと"
-    },
-    {
-      "question": [
-        "痕",
-        "こん",
-        "scar"
-      ],
-      "answer": "こん"
-    },
-    {
-      "question": [
-        "懇",
-        "ねんごろ",
-        "kind/courteous/hospitable/warmly respectful"
-      ],
-      "answer": "ねんごろ"
-    },
-    {
-      "question": [
-        "券",
-        "けん",
-        "ticket/coupon/bond/certificate"
-      ],
-      "answer": "けん"
-    },
-    {
-      "question": [
-        "拳",
-        "こぶし",
-        "fist"
-      ],
-      "answer": "こぶし"
-    },
-    {
-      "question": [
-        "拳",
-        "けん",
-        "hand game"
-      ],
-      "answer": "けん"
-    },
-    {
-      "question": [
-        "圏",
-        "けん",
-        "sphere/circle/range/area/zone/bloc"
-      ],
-      "answer": "けん"
-    },
-    {
-      "question": [
-        "巻",
-        "まき",
-        "roll"
-      ],
-      "answer": "まき"
-    },
-    {
-      "question": [
-        "巻",
-        "かん",
-        "volume"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "永",
-        "えいきゅう",
-        "eternity/permanence/perpetuity"
-      ],
-      "answer": "えいきゅう"
-    },
-    {
-      "question": [
-        "永",
-        "なが",
-        "long"
-      ],
-      "answer": "なが"
-    },
-    {
-      "question": [
-        "詠",
-        "えい",
-        "recitation"
-      ],
-      "answer": "えい"
-    },
-    {
-      "question": [
-        "朝",
-        "あさ",
-        "morning"
-      ],
-      "answer": "あさ"
-    },
-    {
-      "question": [
-        "朝",
-        "ちょう",
-        "dynasty"
-      ],
-      "answer": "ちょう"
-    },
-    {
-      "question": [
-        "潮",
-        "しお",
-        "tide/current"
-      ],
-      "answer": "しお"
-    },
-    {
-      "question": [
-        "乾",
-        "ほし",
-        "drying/dried"
-      ],
-      "answer": "ほし"
-    },
-    {
-      "question": [
-        "乾",
-        "けん",
-        "qian"
-      ],
-      "answer": "けん"
-    },
-    {
-      "question": [
-        "乾",
-        "いぬい",
-        "northwest"
-      ],
-      "answer": "いぬい"
-    },
-    {
-      "question": [
-        "幹",
-        "みき",
-        "(tree) trunk/(arrow) shaft/(tool) handle/backbone/base"
-      ],
-      "answer": "みき"
-    },
-    {
-      "question": [
-        "幹",
-        "から",
-        "trunk/stem/stalk"
-      ],
-      "answer": "から"
-    },
-    {
-      "question": [
-        "韓",
-        "から",
-        "China"
-      ],
-      "answer": "から"
-    },
-    {
-      "question": [
-        "堀",
-        "ほり",
-        "moat/fosse"
-      ],
-      "answer": "ほり"
-    },
-    {
-      "question": [
-        "窟",
-        "いわや",
-        "cavern/grotto"
-      ],
-      "answer": "いわや"
-    },
-    {
-      "question": [
-        "窟",
-        "やぐら",
-        "caves dug as tombs in and around Kamakura during the Kamakura and Muromachi periods"
-      ],
-      "answer": "やぐら"
-    },
-    {
-      "question": [
-        "祭",
-        "まつり",
-        "festival/feast"
-      ],
-      "answer": "まつり"
-    },
-    {
-      "question": [
-        "際",
-        "きわ",
-        "edge/brink/verge/side"
-      ],
-      "answer": "きわ"
-    },
-    {
-      "question": [
-        "際",
-        "さい",
-        "on the occasion of/circumstances/juncture"
-      ],
-      "answer": "さい"
-    },
-    {
-      "question": [
-        "泉",
-        "いずみ",
-        "spring/fountain"
-      ],
-      "answer": "いずみ"
-    },
-    {
-      "question": [
-        "腺",
-        "せん",
-        "gland"
-      ],
-      "answer": "せん"
-    },
-    {
-      "question": [
-        "線",
-        "せん",
-        "line/stripe/stria"
-      ],
-      "answer": "せん"
-    },
-    {
-      "question": [
-        "善",
-        "ぜん",
-        "good/goodness/right/virtue"
-      ],
-      "answer": "ぜん"
-    },
-    {
-      "question": [
-        "膳",
-        "ぜん",
-        "small dining table"
-      ],
-      "answer": "ぜん"
-    },
-    {
-      "question": [
-        "知",
-        "ち",
-        "wisdom"
-      ],
-      "answer": "ち"
-    },
-    {
-      "question": [
-        "智",
-        "ち",
-        "wisdom"
-      ],
-      "answer": "ち"
-    },
-    {
-      "question": [
-        "痴",
-        "ち",
-        "foolishness/fool"
-      ],
-      "answer": "ち"
-    },
-    {
-      "question": [
-        "痴",
-        "おこ",
-        "foolish thing/stupid thing/absurdity"
-      ],
-      "answer": "おこ"
-    },
-    {
-      "question": [
-        "復",
-        "また",
-        "again/once more/once again/another time/some other time"
-      ],
-      "answer": "また"
-    },
-    {
-      "question": [
-        "複",
-        "ふく",
-        "compound/composite/multiple/re-/bi-"
-      ],
-      "answer": "ふく"
-    },
-    {
-      "question": [
-        "腹",
-        "はら",
-        "abdomen/belly/stomach"
-      ],
-      "answer": "はら"
-    },
-    {
-      "question": [
-        "覆",
-        "ふく",
-        "concealment"
-      ],
-      "answer": "ふく"
-    },
-    {
-      "question": [
-        "鉉",
-        "つる",
-        "bowstring"
-      ],
-      "answer": "つる"
-    },
-    {
-      "question": [
-        "弦",
-        "つる",
-        "bowstring"
-      ],
-      "answer": "つる"
-    },
-    {
-      "question": [
-        "弦",
-        "げん",
-        "bowstring"
-      ],
-      "answer": "げん"
-    },
-    {
-      "question": [
-        "舷",
-        "ふなばた",
-        "side of a boat/gunwale"
-      ],
-      "answer": "ふなばた"
-    },
-    {
-      "question": [
-        "舷",
-        "ふなべり",
-        "side of a boat/gunwale"
-      ],
-      "answer": "ふなべり"
-    },
-    {
-      "question": [
-        "舷",
-        "げん",
-        "side of a boat/gunwale"
-      ],
-      "answer": "げん"
-    },
-    {
-      "question": [
-        "絃",
-        "つる",
-        "bowstring"
-      ],
-      "answer": "つる"
-    },
-    {
-      "question": [
-        "絃",
-        "げん",
-        "string"
-      ],
-      "answer": "げん"
-    },
-    {
-      "question": [
-        "隣",
-        "となり",
-        "next"
-      ],
-      "answer": "となり"
-    }
-  ],
-  "#usagi_phonetics_11": [
-    {
-      "question": [
-        "燐",
-        "りん",
-        "phosphorus"
-      ],
-      "answer": "りん"
-    },
-    {
-      "question": [
-        "鱗",
-        "うろこ",
-        "scale"
-      ],
-      "answer": "うろこ"
-    },
-    {
-      "question": [
-        "迄",
-        "まで",
-        "until"
-      ],
-      "answer": "まで"
-    },
-    {
-      "question": [
-        "吃",
-        "チー",
-        "forming a chow by picking up a tile discarded by another player"
-      ],
-      "answer": "ちー"
-    },
-    {
-      "question": [
-        "壬",
-        "じん",
-        "9th in rank/ninth sign of the Chinese calendar"
-      ],
-      "answer": "じん"
-    },
-    {
-      "question": [
-        "任",
-        "にん",
-        "obligation/duty/charge/responsibility"
-      ],
-      "answer": "にん"
-    },
-    {
-      "question": [
-        "衽",
-        "おくみ",
-        "gusset"
-      ],
-      "answer": "おくみ"
-    },
-    {
-      "question": [
-        "衽",
-        "おおくび",
-        "gusset/front collar of a kimono"
-      ],
-      "answer": "おおくび"
-    },
-    {
-      "question": [
-        "袵",
-        "おくみ",
-        "gusset"
-      ],
-      "answer": "おくみ"
-    },
-    {
-      "question": [
-        "倉",
-        "くら",
-        "warehouse/storehouse/cellar/magazine/granary/godown/depository/treasury/elevator"
-      ],
-      "answer": "くら"
-    },
-    {
-      "question": [
-        "蒼",
-        "あお",
-        "blue/azure"
-      ],
-      "answer": "あお"
-    },
-    {
-      "question": [
-        "槍",
-        "やり",
-        "spear/lance"
-      ],
-      "answer": "やり"
-    },
-    {
-      "question": [
-        "槍",
-        "ほこ",
-        "long-handled Chinese spear/lance/pike"
-      ],
-      "answer": "ほこ"
-    },
-    {
-      "question": [
-        "創",
-        "きず",
-        "wound/injury/cut/gash/bruise/scratch/scrape/scar"
-      ],
-      "answer": "きず"
-    },
-    {
-      "question": [
-        "瘡",
-        "くさ",
-        "eczema"
-      ],
-      "answer": "くさ"
-    },
-    {
-      "question": [
-        "瘡",
-        "かさ",
-        "pustule/scab"
-      ],
-      "answer": "かさ"
-    },
-    {
-      "question": [
-        "俸",
-        "ほう",
-        "salary"
-      ],
-      "answer": "ほう"
-    },
-    {
-      "question": [
-        "遠",
-        "とお",
-        "distant"
-      ],
-      "answer": "とお"
-    },
-    {
-      "question": [
-        "園",
-        "その",
-        "garden"
-      ],
-      "answer": "その"
-    },
-    {
-      "question": [
-        "猿",
-        "さる",
-        "monkey"
-      ],
-      "answer": "さる"
-    },
-    {
-      "question": [
-        "猿",
-        "ましら",
-        "monkey"
-      ],
-      "answer": "ましら"
-    },
-    {
-      "question": [
-        "寺",
-        "てら",
-        "temple"
-      ],
-      "answer": "てら"
-    },
-    {
-      "question": [
-        "寺",
-        "じ",
-        "counter for temples"
-      ],
-      "answer": "じ"
-    },
-    {
-      "question": [
-        "侍",
-        "さむらい",
-        "warrior"
-      ],
-      "answer": "さむらい"
-    },
-    {
-      "question": [
-        "持",
-        "じ",
-        "draw"
-      ],
-      "answer": "じ"
-    },
-    {
-      "question": [
-        "時",
-        "とき",
-        "time/hour/moment"
-      ],
-      "answer": "とき"
-    },
-    {
-      "question": [
-        "時",
-        "じ",
-        "hour/o'clock"
-      ],
-      "answer": "じ"
-    },
-    {
-      "question": [
-        "時",
-        "どき",
-        "time for .../time to .../good opportunity to ..."
-      ],
-      "answer": "どき"
-    },
-    {
-      "question": [
-        "各",
-        "かく",
-        "each/every/all"
-      ],
-      "answer": "かく"
-    },
-    {
-      "question": [
-        "各",
-        "おのおの",
-        "each"
-      ],
-      "answer": "おのおの"
-    },
-    {
-      "question": [
-        "格",
-        "かく",
-        "status/position/rank"
-      ],
-      "answer": "かく"
-    },
-    {
-      "question": [
-        "格",
-        "きゃく",
-        "amendment"
-      ],
-      "answer": "きゃく"
-    },
-    {
-      "question": [
-        "落",
-        "おち",
-        "slip/omission"
-      ],
-      "answer": "おち"
-    },
-    {
-      "question": [
-        "洛",
-        "らく",
-        "the capital"
-      ],
-      "answer": "らく"
-    },
-    {
-      "question": [
-        "酪",
-        "らく",
-        "acidic drink made from fermented milk"
-      ],
-      "answer": "らく"
-    },
-    {
-      "question": [
-        "略",
-        "ほぼ",
-        "almost/roughly/approximately"
-      ],
-      "answer": "ほぼ"
-    },
-    {
-      "question": [
-        "略",
-        "りゃく",
-        "abbreviation/omission"
-      ],
-      "answer": "りゃく"
-    },
-    {
-      "question": [
-        "賂",
-        "まいない",
-        "bribe"
-      ],
-      "answer": "まいない"
-    },
-    {
-      "question": [
-        "歓",
-        "かん",
-        "joy/enjoyment/delight/pleasure"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "観",
-        "かん",
-        "look/appearance"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "罐",
-        "かん",
-        "can/tin"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "罐",
-        "かま",
-        "boiler"
-      ],
-      "answer": "かま"
-    },
-    {
-      "question": [
-        "鑵",
-        "かん",
-        "can/tin"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "権",
-        "けん",
-        "right"
-      ],
-      "answer": "けん"
-    },
-    {
-      "question": [
-        "察",
-        "さつ",
-        "cops/police"
-      ],
-      "answer": "さつ"
-    },
-    {
-      "question": [
-        "士",
-        "さむらい",
-        "warrior"
-      ],
-      "answer": "さむらい"
-    },
-    {
-      "question": [
-        "士",
-        "し",
-        "man"
-      ],
-      "answer": "し"
-    },
-    {
-      "question": [
-        "仕",
-        "し",
-        "official/civil service"
-      ],
-      "answer": "し"
-    },
-    {
-      "question": [
-        "志",
-        "こころざし",
-        "will/resolution/intention/ambition/aim/goal"
-      ],
-      "answer": "こころざし"
-    },
-    {
-      "question": [
-        "誌",
-        "し",
-        "magazine"
-      ],
-      "answer": "し"
-    }
-  ],
-  "#usagi_phonetics_12": [
-    {
-      "question": [
-        "路",
-        "みち",
-        "road/path/street/lane/passage"
-      ],
-      "answer": "みち"
-    },
-    {
-      "question": [
-        "路",
-        "じ",
-        "route/road"
-      ],
-      "answer": "じ"
-    },
-    {
-      "question": [
-        "路",
-        "ち",
-        "way/road"
-      ],
-      "answer": "ち"
-    },
-    {
-      "question": [
-        "蕗",
-        "ふき",
-        "giant butterbur"
-      ],
-      "answer": "ふき"
-    },
-    {
-      "question": [
-        "露",
-        "ろ",
-        "Russia"
-      ],
-      "answer": "ろ"
-    },
-    {
-      "question": [
-        "露",
-        "つゆ",
-        "dew"
-      ],
-      "answer": "つゆ"
-    },
-    {
-      "question": [
-        "露",
-        "あらわ",
-        "exposed/scanty/bare/unconcealed/naked"
-      ],
-      "answer": "あらわ"
-    },
-    {
-      "question": [
-        "幣",
-        "へい",
-        "staff with plaited paper streamers"
-      ],
-      "answer": "へい"
-    },
-    {
-      "question": [
-        "幣",
-        "まい",
-        "reward/present/gift/offering to the gods"
-      ],
-      "answer": "まい"
-    },
-    {
-      "question": [
-        "弊",
-        "へい",
-        "bad habit/harm"
-      ],
-      "answer": "へい"
-    }
-  ],
   "#rtk630_koohii_00": [
     {
       "question": [
@@ -26230,7 +21414,9 @@ var decks = {
         "十"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_01": [
     {
       "question": [
         "mouth",
@@ -26302,7 +21488,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_01": [
+  "#rtk630_koohii_02": [
     {
       "question": [
         "walking stick",
@@ -26372,7 +21558,9 @@ var decks = {
         "⼘"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_03": [
     {
       "question": [
         "above",
@@ -26444,7 +21632,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_02": [
+  "#rtk630_koohii_04": [
     {
       "question": [
         "bound up",
@@ -26514,7 +21702,9 @@ var decks = {
         "乱"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_05": [
     {
       "question": [
         "hook (right)",
@@ -26586,7 +21776,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_03": [
+  "#rtk630_koohii_06": [
     {
       "question": [
         "blade",
@@ -26656,7 +21846,9 @@ var decks = {
         "母"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_07": [
     {
       "question": [
         "elder brother",
@@ -26728,7 +21920,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_04": [
+  "#rtk630_koohii_08": [
     {
       "question": [
         "stone",
@@ -26798,7 +21990,9 @@ var decks = {
         "⺡"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_09": [
     {
       "question": [
         "extinguish",
@@ -26870,7 +22064,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_05": [
+  "#rtk630_koohii_10": [
     {
       "question": [
         "hood",
@@ -26940,7 +22134,9 @@ var decks = {
         "富"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_11": [
     {
       "question": [
         "tree",
@@ -27012,7 +22208,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_06": [
+  "#rtk630_koohii_12": [
     {
       "question": [
         "flower",
@@ -27082,7 +22278,9 @@ var decks = {
         "状"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_13": [
     {
       "question": [
         "sort of thing",
@@ -27154,7 +22352,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_07": [
+  "#rtk630_koohii_14": [
     {
       "question": [
         "tea",
@@ -27224,7 +22422,9 @@ var decks = {
         "⻌"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_15": [
     {
       "question": [
         "road-way",
@@ -27296,7 +22496,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_08": [
+  "#rtk630_koohii_16": [
     {
       "question": [
         "summer",
@@ -27366,7 +22566,9 @@ var decks = {
         "𠮷"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_17": [
     {
       "question": [
         "circumference",
@@ -27438,7 +22640,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_09": [
+  "#rtk630_koohii_18": [
     {
       "question": [
         "taskmaster",
@@ -27508,7 +22710,9 @@ var decks = {
         "弋"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_19": [
     {
       "question": [
         "style",
@@ -27580,7 +22784,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_10": [
+  "#rtk630_koohii_20": [
     {
       "question": [
         "determine",
@@ -27650,7 +22854,9 @@ var decks = {
         "市"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_21": [
     {
       "question": [
         "elder sister",
@@ -27722,7 +22928,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_11": [
+  "#rtk630_koohii_22": [
     {
       "question": [
         "winter",
@@ -27792,7 +22998,9 @@ var decks = {
         "匕"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_23": [
     {
       "question": [
         "about that time",
@@ -27864,7 +23072,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_12": [
+  "#rtk630_koohii_24": [
     {
       "question": [
         "song",
@@ -27934,7 +23142,9 @@ var decks = {
         "地"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_25": [
     {
       "question": [
         "insect",
@@ -28006,7 +23216,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_13": [
+  "#rtk630_koohii_26": [
     {
       "question": [
         "hot water",
@@ -28076,7 +23286,9 @@ var decks = {
         "集"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_27": [
     {
       "question": [
         "advance",
@@ -28148,7 +23360,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_14": [
+  "#rtk630_koohii_28": [
     {
       "question": [
         "park",
@@ -28218,7 +23430,9 @@ var decks = {
         "意"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_29": [
     {
       "question": [
         "concept",
@@ -28290,7 +23504,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_15": [
+  "#rtk630_koohii_30": [
     {
       "question": [
         "sketch",
@@ -28360,7 +23574,9 @@ var decks = {
         "史"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_31": [
     {
       "question": [
         "officer",
@@ -28432,7 +23648,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_16": [
+  "#rtk630_koohii_32": [
     {
       "question": [
         "anti-",
@@ -28502,7 +23718,9 @@ var decks = {
         "台"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_33": [
     {
       "question": [
         "commence",
@@ -28574,7 +23792,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_17": [
+  "#rtk630_koohii_34": [
     {
       "question": [
         "mountain",
@@ -28644,7 +23862,9 @@ var decks = {
         "死"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_35": [
     {
       "question": [
         "sunglasses",
@@ -28716,7 +23936,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_18": [
+  "#rtk630_koohii_36": [
     {
       "question": [
         "toil",
@@ -28786,7 +24006,9 @@ var decks = {
         "和"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_37": [
     {
       "question": [
         "private",
@@ -28858,7 +24080,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_19": [
+  "#rtk630_koohii_38": [
     {
       "question": [
         "person",
@@ -28928,7 +24150,9 @@ var decks = {
         "使"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_39": [
     {
       "question": [
         "adhere",
@@ -29000,7 +24224,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_20": [
+  "#rtk630_koohii_40": [
     {
       "question": [
         "sit",
@@ -29070,7 +24294,9 @@ var decks = {
         "屋"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_41": [
     {
       "question": [
         "door",
@@ -29142,7 +24368,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_21": [
+  "#rtk630_koohii_42": [
     {
       "question": [
         "fruit",
@@ -29212,7 +24438,9 @@ var decks = {
         "急"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_43": [
     {
       "question": [
         "hit",
@@ -29284,7 +24512,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_22": [
+  "#rtk630_koohii_44": [
     {
       "question": [
         "transit",
@@ -29354,7 +24582,9 @@ var decks = {
         "引"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_45": [
     {
       "question": [
         "strong",
@@ -29426,7 +24656,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_23": [
+  "#rtk630_koohii_46": [
     {
       "question": [
         "mingle",
@@ -29496,7 +24726,9 @@ var decks = {
         "穴"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_47": [
     {
       "question": [
         "empty",
@@ -29568,7 +24800,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_24": [
+  "#rtk630_koohii_48": [
     {
       "question": [
         "class",
@@ -29638,7 +24870,9 @@ var decks = {
         "マ"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_49": [
     {
       "question": [
         "traffic",
@@ -29710,7 +24944,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_25": [
+  "#rtk630_koohii_50": [
     {
       "question": [
         "silver",
@@ -29780,7 +25014,9 @@ var decks = {
         "㐅"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_51": [
     {
       "question": [
         "kill",
@@ -29852,7 +25088,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_26": [
+  "#rtk630_koohii_52": [
     {
       "question": [
         "key",
@@ -29922,7 +25158,9 @@ var decks = {
         "野"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_53": [
     {
       "question": [
         "concurrently",
@@ -29994,7 +25232,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_27": [
+  "#rtk630_koohii_54": [
     {
       "question": [
         "un-",
@@ -30064,7 +25302,9 @@ var decks = {
         "動"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_55": [
     {
       "question": [
         "sickness",
@@ -30136,7 +25376,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_28": [
+  "#rtk630_koohii_56": [
     {
       "question": [
         "apple",
@@ -30206,7 +25446,9 @@ var decks = {
         "並"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_57": [
     {
       "question": [
         "universal",
@@ -30278,7 +25520,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_29": [
+  "#rtk630_koohii_58": [
     {
       "question": [
         "unravel",
@@ -30348,7 +25590,9 @@ var decks = {
         "釆"
       ],
       "answer": "あ"
-    },
+    }
+  ],
+  "#rtk630_koohii_59": [
     {
       "question": [
         "turn",
@@ -30420,7 +25664,7 @@ var decks = {
       "answer": "あ"
     }
   ],
-  "#rtk630_koohii_30": [
+  "#rtk630_koohii_60": [
     {
       "question": [
         "send off",
@@ -33166,7686 +28410,6 @@ var decks = {
         "ちょう"
       ],
       "answer": "ちょう"
-    }
-  ],
-  "#jbp_1_unit1_lesson1": [
-    {
-      "question": [
-        "mister, miss, madam",
-        "さん"
-      ],
-      "answer": "さん"
-    },
-    {
-      "question": [
-        "this one (polite for \"this person\")",
-        "こちら"
-      ],
-      "answer": "こちら"
-    },
-    {
-      "question": [
-        "(topic partikel)",
-        "は"
-      ],
-      "answer": "は"
-    },
-    {
-      "question": [
-        "to be",
-        "です"
-      ],
-      "answer": "です"
-    },
-    {
-      "question": [
-        "to be (neg)",
-        "ではないです"
-      ],
-      "answer": "ではないです"
-    },
-    {
-      "question": [
-        "to be (past)",
-        "でした"
-      ],
-      "answer": "でした"
-    },
-    {
-      "question": [
-        "to be (past, neg)",
-        "ではなかったです"
-      ],
-      "answer": "ではなかったです"
-    },
-    {
-      "question": [
-        "of (particle indicating belonging)",
-        "の"
-      ],
-      "answer": "の"
-    },
-    {
-      "question": [
-        "attorney, lawyer",
-        "べんごし"
-      ],
-      "answer": "べんごし"
-    },
-    {
-      "question": [
-        "how do you do",
-        "はじめまして"
-      ],
-      "answer": "はじめまして"
-    },
-    {
-      "question": [
-        "pleased to meet you",
-        "よろしくおねがいします"
-      ],
-      "answer": "よろしくおねがいします"
-    },
-    {
-      "question": [
-        "department store",
-        "デパート"
-      ],
-      "answer": "でぱーと"
-    },
-    {
-      "question": [
-        "Japan(日本)",
-        "にほん"
-      ],
-      "answer": "にほん"
-    },
-    {
-      "question": [
-        "China",
-        "ちゅうごく"
-      ],
-      "answer": "ちゅうごく"
-    },
-    {
-      "question": [
-        "Germany",
-        "ドイツ"
-      ],
-      "answer": "どいつ"
-    },
-    {
-      "question": [
-        "UK",
-        "イギリス"
-      ],
-      "answer": "いぎりす"
-    },
-    {
-      "question": [
-        "USA",
-        "アメリカ"
-      ],
-      "answer": "あめりか"
-    },
-    {
-      "question": [
-        "Australia",
-        "オーストラリア"
-      ],
-      "answer": "おーすとらりあ"
-    },
-    {
-      "question": [
-        "Thailand",
-        "タイ"
-      ],
-      "answer": "たい"
-    },
-    {
-      "question": [
-        "secretary",
-        "ひしょ"
-      ],
-      "answer": "ひしょ"
-    },
-    {
-      "question": [
-        "student",
-        "がくせい"
-      ],
-      "answer": "がくせい"
-    },
-    {
-      "question": [
-        "engineer",
-        "エンジニア"
-      ],
-      "answer": "えんじにあ"
-    },
-    {
-      "question": [
-        "(question particle)",
-        "か"
-      ],
-      "answer": "か"
-    },
-    {
-      "question": [
-        "yes",
-        "はい"
-      ],
-      "answer": "はい"
-    },
-    {
-      "question": [
-        "no",
-        "いいえ"
-      ],
-      "answer": "いいえ"
-    },
-    {
-      "question": [
-        "you",
-        "あなた"
-      ],
-      "answer": "あなた"
-    },
-    {
-      "question": [
-        "I",
-        "わたし"
-      ],
-      "answer": "わたし"
-    },
-    {
-      "question": [
-        "bank",
-        "ぎんこう"
-      ],
-      "answer": "ぎんこう"
-    },
-    {
-      "question": [
-        "university, college",
-        "だいがく"
-      ],
-      "answer": "だいがく"
-    },
-    {
-      "question": [
-        "who",
-        "だれ"
-      ],
-      "answer": "だれ"
-    },
-    {
-      "question": [
-        "country",
-        "くに"
-      ],
-      "answer": "くに"
-    },
-    {
-      "question": [
-        "nationality",
-        "こくせき"
-      ],
-      "answer": "こくせき"
-    },
-    {
-      "question": [
-        "please (get me ...), I request",
-        "おねがいします"
-      ],
-      "answer": "おねがいします"
-    },
-    {
-      "question": [
-        "receptionist",
-        "うけつけ"
-      ],
-      "answer": "うけつけ"
-    },
-    {
-      "question": [
-        "please go ahead, please enter, please feel free",
-        "はい、どうぞ"
-      ],
-      "answer": "はい、どうぞ"
-    },
-    {
-      "question": [
-        "(suffix for languages)",
-        "ご"
-      ],
-      "answer": "ご"
-    },
-    {
-      "question": [
-        "-ese, -ian (person from)",
-        "じん"
-      ],
-      "answer": "じん"
-    },
-    {
-      "question": [
-        "London",
-        "ロンドン"
-      ],
-      "answer": "ろんどん"
-    },
-    {
-      "question": [
-        "Tokyo",
-        "とうきょう"
-      ],
-      "answer": "とうきょう"
-    }
-  ],
-  "#jbp_1_unit1_lesson2": [
-    {
-      "question": [
-        "business card",
-        "めいし"
-      ],
-      "answer": "めいし"
-    },
-    {
-      "question": [
-        "company",
-        "かいしゃ"
-      ],
-      "answer": "かいしゃ"
-    },
-    {
-      "question": [
-        "please (when giving)",
-        "どうぞ"
-      ],
-      "answer": "どうぞ"
-    },
-    {
-      "question": [
-        "thank you",
-        "どうもありがとうございます"
-      ],
-      "answer": "どうもありがとうございます"
-    },
-    {
-      "question": [
-        "this thing here",
-        "これ"
-      ],
-      "answer": "これ"
-    },
-    {
-      "question": [
-        "name",
-        "なまえ"
-      ],
-      "answer": "なまえ"
-    },
-    {
-      "question": [
-        "yes (less formal)",
-        "ええ"
-      ],
-      "answer": "ええ"
-    },
-    {
-      "question": [
-        "indeed",
-        "そうです"
-      ],
-      "answer": "そうです"
-    },
-    {
-      "question": [
-        "zero",
-        "れい"
-      ],
-      "answer": "れい"
-    },
-    {
-      "question": [
-        "one",
-        "いち"
-      ],
-      "answer": "いち"
-    },
-    {
-      "question": [
-        "two",
-        "に"
-      ],
-      "answer": "に"
-    },
-    {
-      "question": [
-        "three",
-        "さん"
-      ],
-      "answer": "さん"
-    },
-    {
-      "question": [
-        "four",
-        "よん"
-      ],
-      "answer": "よん"
-    },
-    {
-      "question": [
-        "five",
-        "ご"
-      ],
-      "answer": "ご"
-    },
-    {
-      "question": [
-        "six",
-        "ろく"
-      ],
-      "answer": "ろく"
-    },
-    {
-      "question": [
-        "seven",
-        "なな"
-      ],
-      "answer": "なな"
-    },
-    {
-      "question": [
-        "eight",
-        "あち"
-      ],
-      "answer": "あち"
-    },
-    {
-      "question": [
-        "nine",
-        "きゅう"
-      ],
-      "answer": "きゅう"
-    },
-    {
-      "question": [
-        "address",
-        "じゅうしょ"
-      ],
-      "answer": "じゅうしょ"
-    },
-    {
-      "question": [
-        "phone",
-        "でんわ"
-      ],
-      "answer": "でんわ"
-    },
-    {
-      "question": [
-        "number",
-        "ばんごう"
-      ],
-      "answer": "ばんごう"
-    },
-    {
-      "question": [
-        "e-mail address",
-        "メールアドレス"
-      ],
-      "answer": "めーるあどれす"
-    },
-    {
-      "question": [
-        "cell phone",
-        "けいたい"
-      ],
-      "answer": "けいたい"
-    },
-    {
-      "question": [
-        "umbrella",
-        "かさ"
-      ],
-      "answer": "かさ"
-    },
-    {
-      "question": [
-        "book",
-        "ほん"
-      ],
-      "answer": "ほん"
-    },
-    {
-      "question": [
-        "newspaper",
-        "しんぶん"
-      ],
-      "answer": "しんぶん"
-    },
-    {
-      "question": [
-        "key",
-        "かぎ"
-      ],
-      "answer": "かぎ"
-    },
-    {
-      "question": [
-        "watch, clock",
-        "とけい"
-      ],
-      "answer": "とけい"
-    },
-    {
-      "question": [
-        "what",
-        "なん"
-      ],
-      "answer": "なん"
-    },
-    {
-      "question": [
-        "embassy",
-        "たいしかん"
-      ],
-      "answer": "たいしかん"
-    },
-    {
-      "question": [
-        "what number",
-        "なんばん"
-      ],
-      "answer": "なんばん"
-    },
-    {
-      "question": [
-        "to make a mistake",
-        "ちがいます"
-      ],
-      "answer": "ちがいます"
-    },
-    {
-      "question": [
-        "datebook, small notebook, planner",
-        "てちょう"
-      ],
-      "answer": "てちょう"
-    },
-    {
-      "question": [
-        "I'm sorry",
-        "すみません"
-      ],
-      "answer": "すみません"
-    },
-    {
-      "question": [
-        "more",
-        "もう"
-      ],
-      "answer": "もう"
-    },
-    {
-      "question": [
-        "one time",
-        "いちど"
-      ],
-      "answer": "いちど"
-    },
-    {
-      "question": [
-        "hello, good afternoon",
-        "こんにちは"
-      ],
-      "answer": "こんにちは"
-    }
-  ],
-  "#jbp_1_": [
-    {
-      "question": [
-        "one more time, please",
-        "もういちどおねがいします"
-      ],
-      "answer": "もういちどおねがいします"
-    }
-  ],
-  "#jbp_1_unit2_lesson3": [
-    {
-      "question": [
-        "excuse me",
-        "すみません"
-      ],
-      "answer": "すみません"
-    },
-    {
-      "question": [
-        "what time",
-        "なんじ"
-      ],
-      "answer": "なんじ"
-    },
-    {
-      "question": [
-        "o'clock",
-        "じ"
-      ],
-      "answer": "じ"
-    },
-    {
-      "question": [
-        "woman",
-        "おんなのひと"
-      ],
-      "answer": "おんなのひと"
-    },
-    {
-      "question": [
-        "female",
-        "おんな"
-      ],
-      "answer": "おんな"
-    },
-    {
-      "question": [
-        "person",
-        "ひと"
-      ],
-      "answer": "ひと"
-    },
-    {
-      "question": [
-        "nine o'clock",
-        "くじ"
-      ],
-      "answer": "くじ"
-    },
-    {
-      "question": [
-        "fifty minutes",
-        "ごじゅっぷん"
-      ],
-      "answer": "ごじゅっぷん"
-    },
-    {
-      "question": [
-        "fifty",
-        "ごじゅう"
-      ],
-      "answer": "ごじゅう"
-    },
-    {
-      "question": [
-        "minute",
-        "ふん"
-      ],
-      "answer": "ふん"
-    },
-    {
-      "question": [
-        "from (particle/time & place)",
-        "から"
-      ],
-      "answer": "から"
-    },
-    {
-      "question": [
-        "until, to (particle/place & time)",
-        "まで"
-      ],
-      "answer": "まで"
-    },
-    {
-      "question": [
-        "p.m., in the afternoon",
-        "ごご"
-      ],
-      "answer": "ごご"
-    },
-    {
-      "question": [
-        "you're welcome",
-        "どういたしまして"
-      ],
-      "answer": "どういたしまして"
-    },
-    {
-      "question": [
-        "supermarket",
-        "スーパー"
-      ],
-      "answer": "すーぱー"
-    },
-    {
-      "question": [
-        "restaurant",
-        "レストラン"
-      ],
-      "answer": "れすとらん"
-    },
-    {
-      "question": [
-        "post office",
-        "ゆうびんきょく"
-      ],
-      "answer": "ゆうびんきょく"
-    },
-    {
-      "question": [
-        "job, work",
-        "しごと"
-      ],
-      "answer": "しごと"
-    },
-    {
-      "question": [
-        "meeting",
-        "かいぎ"
-      ],
-      "answer": "かいぎ"
-    },
-    {
-      "question": [
-        "lunch break",
-        "ひるやすみ"
-      ],
-      "answer": "ひるやすみ"
-    },
-    {
-      "question": [
-        "noon",
-        "ひる"
-      ],
-      "answer": "ひる"
-    },
-    {
-      "question": [
-        "rest, break",
-        "やすみ"
-      ],
-      "answer": "やすみ"
-    },
-    {
-      "question": [
-        "party",
-        "パーティー"
-      ],
-      "answer": "ぱーてぃー"
-    },
-    {
-      "question": [
-        "movie",
-        "えいが"
-      ],
-      "answer": "えいが"
-    },
-    {
-      "question": [
-        "half past (of time)",
-        "はん"
-      ],
-      "answer": "はん"
-    },
-    {
-      "question": [
-        "a.m., in the morning",
-        "ごぜん"
-      ],
-      "answer": "ごぜん"
-    },
-    {
-      "question": [
-        "morning",
-        "あさ"
-      ],
-      "answer": "あさ"
-    },
-    {
-      "question": [
-        "breakfast",
-        "あさごはん"
-      ],
-      "answer": "あさごはん"
-    },
-    {
-      "question": [
-        "evening",
-        "ばん"
-      ],
-      "answer": "ばん"
-    },
-    {
-      "question": [
-        "meal",
-        "ごはん"
-      ],
-      "answer": "ごはん"
-    },
-    {
-      "question": [
-        "front desk (of a hotel)",
-        "フロント"
-      ],
-      "answer": "ふろんと"
-    },
-    {
-      "question": [
-        "dinner",
-        "ばんごはん"
-      ],
-      "answer": "ばんごはん"
-    },
-    {
-      "question": [
-        "pool",
-        "プール"
-      ],
-      "answer": "ぷーる"
-    },
-    {
-      "question": [
-        "gym",
-        "ジム"
-      ],
-      "answer": "じむ"
-    },
-    {
-      "question": [
-        "I see",
-        "そうですか"
-      ],
-      "answer": "そうですか"
-    },
-    {
-      "question": [
-        "ten",
-        "じゅう"
-      ],
-      "answer": "じゅう"
-    },
-    {
-      "question": [
-        "one hundred",
-        "ひゃく"
-      ],
-      "answer": "ひゃく"
-    },
-    {
-      "question": [
-        "now",
-        "いま"
-      ],
-      "answer": "いま"
-    }
-  ],
-  "#jbp_1_unit2_lesson4": [
-    {
-      "question": [
-        "shop, store, restaurant",
-        "みせ"
-      ],
-      "answer": "みせ"
-    },
-    {
-      "question": [
-        "may I help you?, welcome to the store",
-        "いらっしゃいませ"
-      ],
-      "answer": "いらっしゃいませ"
-    },
-    {
-      "question": [
-        "please show me",
-        "みせてください"
-      ],
-      "answer": "みせてください"
-    },
-    {
-      "question": [
-        "how much (money)",
-        "いくら"
-      ],
-      "answer": "いくら"
-    },
-    {
-      "question": [
-        "yen",
-        "えん"
-      ],
-      "answer": "えん"
-    },
-    {
-      "question": [
-        "also, too, either (particle)",
-        "も"
-      ],
-      "answer": "も"
-    },
-    {
-      "question": [
-        "well then",
-        "じゃ"
-      ],
-      "answer": "じゃ"
-    },
-    {
-      "question": [
-        "please give me",
-        "ください"
-      ],
-      "answer": "ください"
-    },
-    {
-      "question": [
-        "television",
-        "テレビ"
-      ],
-      "answer": "てれび"
-    },
-    {
-      "question": [
-        "radio",
-        "ラジオ"
-      ],
-      "answer": "らじお"
-    },
-    {
-      "question": [
-        "(personal) computer",
-        "パンコン"
-      ],
-      "answer": "ぱんこん"
-    },
-    {
-      "question": [
-        "digital camera",
-        "デジカメ"
-      ],
-      "answer": "でじかめ"
-    },
-    {
-      "question": [
-        "video camera",
-        "ビデオカメラ"
-      ],
-      "answer": "びでおかめら"
-    },
-    {
-      "question": [
-        "video",
-        "ビデオ"
-      ],
-      "answer": "びでお"
-    },
-    {
-      "question": [
-        "camera",
-        "カメラ"
-      ],
-      "answer": "かめら"
-    },
-    {
-      "question": [
-        "CD player",
-        "プレーヤー"
-      ],
-      "answer": "ぷれーやー"
-    },
-    {
-      "question": [
-        "CD",
-        "シーディー"
-      ],
-      "answer": "しーでぃー"
-    },
-    {
-      "question": [
-        "that thing over there",
-        "あれ"
-      ],
-      "answer": "あれ"
-    },
-    {
-      "question": [
-        "that thing close to you",
-        "それ"
-      ],
-      "answer": "それ"
-    },
-    {
-      "question": [
-        "magazine",
-        "ざっし"
-      ],
-      "answer": "ざっし"
-    },
-    {
-      "question": [
-        "DVD",
-        "DVD(ディーブイディー)"
-      ],
-      "answer": "DVD(でぃーぶいでぃー)"
-    },
-    {
-      "question": [
-        "mechanical pencil",
-        "シャープペンシル"
-      ],
-      "answer": "しゃーぷぺんしる"
-    },
-    {
-      "question": [
-        "ballpoint pen",
-        "ボールペン"
-      ],
-      "answer": "ぼーるぺん"
-    },
-    {
-      "question": [
-        "France",
-        "フランス"
-      ],
-      "answer": "ふらんす"
-    },
-    {
-      "question": [
-        "dictionary",
-        "じしょ"
-      ],
-      "answer": "じしょ"
-    },
-    {
-      "question": [
-        "English (language)",
-        "えいご"
-      ],
-      "answer": "えいご"
-    },
-    {
-      "question": [
-        "(credit) card",
-        "カード"
-      ],
-      "answer": "かーど"
-    },
-    {
-      "question": [
-        "is ... al right?",
-        "ーでもいいですか"
-      ],
-      "answer": "ーでもいいですか"
-    },
-    {
-      "question": [
-        "yes, it's fine",
-        "はいけっこうです"
-      ],
-      "answer": "はいけっこうです"
-    },
-    {
-      "question": [
-        "thousand",
-        "せん"
-      ],
-      "answer": "せん"
-    },
-    {
-      "question": [
-        "ten thousand",
-        "いちまん"
-      ],
-      "answer": "いちまん"
-    },
-    {
-      "question": [
-        "one hundred million (10^8)",
-        "おく"
-      ],
-      "answer": "おく"
-    },
-    {
-      "question": [
-        "one trillion (10^12)",
-        "ちょう"
-      ],
-      "answer": "ちょう"
-    },
-    {
-      "question": [
-        "decimal point",
-        "てん"
-      ],
-      "answer": "てん"
-    },
-    {
-      "question": [
-        "part (e.g. in 1/4)",
-        "ぶん"
-      ],
-      "answer": "ぶん"
-    }
-  ],
-  "#jbp_1_unit2_misc_lesson3": [
-    {
-      "question": [
-        "... years old",
-        "さい"
-      ],
-      "answer": "さい"
-    },
-    {
-      "question": [
-        "how many years old?",
-        "なんさい"
-      ],
-      "answer": "なんさい"
-    }
-  ],
-  "#jbp_1_unit2_lesson5": [
-    {
-      "question": [
-        "this ... close to me",
-        "この"
-      ],
-      "answer": "この"
-    },
-    {
-      "question": [
-        "that ... close to you",
-        "その"
-      ],
-      "answer": "その"
-    },
-    {
-      "question": [
-        "that ... over there",
-        "あの"
-      ],
-      "answer": "あの"
-    },
-    {
-      "question": [
-        "T-shirt",
-        "シャツ"
-      ],
-      "answer": "しゃつ"
-    },
-    {
-      "question": [
-        "which thing",
-        "どれ"
-      ],
-      "answer": "どれ"
-    },
-    {
-      "question": [
-        "blue",
-        "あおい"
-      ],
-      "answer": "あおい"
-    },
-    {
-      "question": [
-        "red",
-        "あかい"
-      ],
-      "answer": "あかい"
-    },
-    {
-      "question": [
-        "(counter for flat objects)",
-        "まい"
-      ],
-      "answer": "まい"
-    },
-    {
-      "question": [
-        "postcard",
-        "はがき"
-      ],
-      "answer": "はがき"
-    },
-    {
-      "question": [
-        "stamp",
-        "きって"
-      ],
-      "answer": "きって"
-    },
-    {
-      "question": [
-        "black",
-        "くろい"
-      ],
-      "answer": "くろい"
-    },
-    {
-      "question": [
-        "beer",
-        "ビール"
-      ],
-      "answer": "びーる"
-    },
-    {
-      "question": [
-        "apple",
-        "りんご"
-      ],
-      "answer": "りんご"
-    },
-    {
-      "question": [
-        "large, big",
-        "おおきい"
-      ],
-      "answer": "おおきい"
-    },
-    {
-      "question": [
-        "small, little",
-        "ちいさい"
-      ],
-      "answer": "ちいさい"
-    },
-    {
-      "question": [
-        "Switzerland",
-        "スイス"
-      ],
-      "answer": "すいす"
-    },
-    {
-      "question": [
-        "(counter for long objects)",
-        "ほん"
-      ],
-      "answer": "ほん"
-    },
-    {
-      "question": [
-        "car",
-        "くるま"
-      ],
-      "answer": "くるま"
-    },
-    {
-      "question": [
-        "Italy",
-        "イタリア"
-      ],
-      "answer": "いたりあ"
-    },
-    {
-      "question": [
-        "where, which place",
-        "どこ"
-      ],
-      "answer": "どこ"
-    },
-    {
-      "question": [
-        "South Korea",
-        "かんこく"
-      ],
-      "answer": "かんこく"
-    },
-    {
-      "question": [
-        "tangerine",
-        "みかん"
-      ],
-      "answer": "みかん"
-    },
-    {
-      "question": [
-        "kilogram",
-        "キロ"
-      ],
-      "answer": "きろ"
-    },
-    {
-      "question": [
-        "wine",
-        "ウイン"
-      ],
-      "answer": "ういん"
-    },
-    {
-      "question": [
-        "coffee",
-        "コーヒー"
-      ],
-      "answer": "こーひー"
-    },
-    {
-      "question": [
-        "cup",
-        "カップ"
-      ],
-      "answer": "かっぷ"
-    },
-    {
-      "question": [
-        "towel",
-        "タオル"
-      ],
-      "answer": "たおる"
-    },
-    {
-      "question": [
-        "cream puff",
-        "シュークリーム"
-      ],
-      "answer": "しゅーくりーむ"
-    },
-    {
-      "question": [
-        "one (counter for general objects)",
-        "ひとつ"
-      ],
-      "answer": "ひとつ"
-    },
-    {
-      "question": [
-        "two (counter for general objects)",
-        "ふたつ"
-      ],
-      "answer": "ふたつ"
-    },
-    {
-      "question": [
-        "three (counter for general objects)",
-        "みっつ"
-      ],
-      "answer": "みっつ"
-    },
-    {
-      "question": [
-        "four (counter for general objects)",
-        "よっつ"
-      ],
-      "answer": "よっつ"
-    },
-    {
-      "question": [
-        "five (counter for general objects)",
-        "いつつ"
-      ],
-      "answer": "いつつ"
-    },
-    {
-      "question": [
-        "six (counter for general objects)",
-        "むっつ"
-      ],
-      "answer": "むっつ"
-    },
-    {
-      "question": [
-        "seven (counter for general objects)",
-        "ななつ"
-      ],
-      "answer": "ななつ"
-    },
-    {
-      "question": [
-        "eight (counter for general objects)",
-        "やっつ"
-      ],
-      "answer": "やっつ"
-    },
-    {
-      "question": [
-        "nine (counter for general objects)",
-        "ここのつ"
-      ],
-      "answer": "ここのつ"
-    },
-    {
-      "question": [
-        "ten (counter for general objects)",
-        "とう"
-      ],
-      "answer": "とう"
-    },
-    {
-      "question": [
-        "eleven, twelve ... (counter for general objects)",
-        "じゅういち,じゅうに,..."
-      ],
-      "answer": "じゅういち,じゅうに,..."
-    }
-  ],
-  "#jbp_1_unit3_lesson6_expressions": [
-    {
-      "question": [
-        "good morning",
-        "おはようございます"
-      ],
-      "answer": "おはようございます"
-    },
-    {
-      "question": [
-        "good-bye (formal, lit., \"I'm going to be rude\")",
-        "しつれいします"
-      ],
-      "answer": "しつれいします"
-    }
-  ],
-  "#jbp_1_expressions": [
-    {
-      "question": [
-        "hello",
-        "こんにちは"
-      ],
-      "answer": "こんにちは"
-    },
-    {
-      "question": [
-        "good evening",
-        "こんばんは"
-      ],
-      "answer": "こんばんは"
-    },
-    {
-      "question": [
-        "good night",
-        "おやすみなさい"
-      ],
-      "answer": "おやすみなさい"
-    },
-    {
-      "question": [
-        "good-bye",
-        "さようなら"
-      ],
-      "answer": "さようなら"
-    },
-    {
-      "question": [
-        "well then ...(when parting from relatives or friends/informal)",
-        "じゃまた"
-      ],
-      "answer": "じゃまた"
-    },
-    {
-      "question": [
-        "(when leaving the office or a meeting before other people)",
-        "おさきにしつれいします"
-      ],
-      "answer": "おさきにしつれいします"
-    },
-    {
-      "question": [
-        "so long (said to person leaving home)",
-        "いってらっしゃい"
-      ],
-      "answer": "いってらっしゃい"
-    },
-    {
-      "question": [
-        "I'm back",
-        "ただいま"
-      ],
-      "answer": "ただいま"
-    },
-    {
-      "question": [
-        "welcome home",
-        "おかえりなさい"
-      ],
-      "answer": "おかえりなさい"
-    },
-    {
-      "question": [
-        "(said before eating a meal)",
-        "いただきます"
-      ],
-      "answer": "いただきます"
-    },
-    {
-      "question": [
-        "congratulations",
-        "おめでとうございます"
-      ],
-      "answer": "おめでとうございます"
-    },
-    {
-      "question": [
-        "(said after eating a meal)",
-        "ごちそうさまでした"
-      ],
-      "answer": "ごちそうさまでした"
-    },
-    {
-      "question": [
-        "wait a moment, please",
-        "ちょっとまってください"
-      ],
-      "answer": "ちょっとまってください"
-    },
-    {
-      "question": [
-        "please, go ahead",
-        "どうぞおさきに"
-      ],
-      "answer": "どうぞおさきに"
-    },
-    {
-      "question": [
-        "take care, be careful",
-        "きをつけて"
-      ],
-      "answer": "きをつけて"
-    },
-    {
-      "question": [
-        "take care of yourself (used toward ill or injured person)",
-        "おだいじに"
-      ],
-      "answer": "おだいじに"
-    },
-    {
-      "question": [
-        "so long (said by person leaving home)",
-        "いってきます"
-      ],
-      "answer": "いってきます"
-    }
-  ],
-  "#jbp_1_unit2_misc": [
-    {
-      "question": [
-        "to eat",
-        "たべます(たべる)"
-      ],
-      "answer": "たべます(たべる)"
-    },
-    {
-      "question": [
-        "to wake up/to get up",
-        "おきます(おきる)"
-      ],
-      "answer": "おきます(おきる)"
-    },
-    {
-      "question": [
-        "major (studies)",
-        "せんこう"
-      ],
-      "answer": "せんこう"
-    },
-    {
-      "question": [
-        "shoes",
-        "くつ"
-      ],
-      "answer": "くつ"
-    },
-    {
-      "question": [
-        "jeans",
-        "ジインズ"
-      ],
-      "answer": "じいんず"
-    },
-    {
-      "question": [
-        "bike",
-        "じてんしゃ"
-      ],
-      "answer": "じてんしゃ"
-    },
-    {
-      "question": [
-        "notebook",
-        "ノート"
-      ],
-      "answer": "のーと"
-    },
-    {
-      "question": [
-        "wallet",
-        "さいふ"
-      ],
-      "answer": "さいふ"
-    },
-    {
-      "question": [
-        "computer",
-        "コンピューター"
-      ],
-      "answer": "こんぴゅーたー"
-    },
-    {
-      "question": [
-        "business",
-        "ビジネス"
-      ],
-      "answer": "びじねす"
-    },
-    {
-      "question": [
-        "... year student",
-        "ねんせい"
-      ],
-      "answer": "ねんせい"
-    }
-  ],
-  "#jbp_1_unit3_lesson6": [
-    {
-      "question": [
-        "friend",
-        "ともだち"
-      ],
-      "answer": "ともだち"
-    },
-    {
-      "question": [
-        "hello (on the phone)",
-        "もしもし"
-      ],
-      "answer": "もしもし"
-    },
-    {
-      "question": [
-        "tomorrow",
-        "あした"
-      ],
-      "answer": "あした"
-    },
-    {
-      "question": [
-        "there (where your listener is)",
-        "そちら"
-      ],
-      "answer": "そちら"
-    },
-    {
-      "question": [
-        "to (particle of direction)",
-        "に"
-      ],
-      "answer": "に"
-    },
-    {
-      "question": [
-        "to go",
-        "いきます(いく)"
-      ],
-      "answer": "いきます(いく)"
-    },
-    {
-      "question": [
-        "right?; isn't it? (particle)",
-        "ね"
-      ],
-      "answer": "ね"
-    },
-    {
-      "question": [
-        "alone (lit., \"by one person\")",
-        "ひとりで"
-      ],
-      "answer": "ひとりで"
-    },
-    {
-      "question": [
-        "to come",
-        "きます(irregularverbくる)"
-      ],
-      "answer": "きます(irregularverbくる)"
-    },
-    {
-      "question": [
-        "with, together with (particle)",
-        "と"
-      ],
-      "answer": "と"
-    },
-    {
-      "question": [
-        "well then, in any case (formal form of じゃ)",
-        "では"
-      ],
-      "answer": "では"
-    },
-    {
-      "question": [
-        "airport",
-        "くうこう"
-      ],
-      "answer": "くうこう"
-    },
-    {
-      "question": [
-        "station",
-        "えき"
-      ],
-      "answer": "えき"
-    },
-    {
-      "question": [
-        "branch office",
-        "ししゃ"
-      ],
-      "answer": "ししゃ"
-    },
-    {
-      "question": [
-        "park",
-        "こうえん"
-      ],
-      "answer": "こうえん"
-    },
-    {
-      "question": [
-        "house",
-        "うち"
-      ],
-      "answer": "うち"
-    },
-    {
-      "question": [
-        "to return, to go home",
-        "かえります(かえる)"
-      ],
-      "answer": "かえります(かえる)"
-    },
-    {
-      "question": [
-        "yesterday",
-        "きのう"
-      ],
-      "answer": "きのう"
-    },
-    {
-      "question": [
-        "today",
-        "きょう"
-      ],
-      "answer": "きょう"
-    },
-    {
-      "question": [
-        "last week",
-        "せんしゅう"
-      ],
-      "answer": "せんしゅう"
-    },
-    {
-      "question": [
-        "this week",
-        "こんしゅう"
-      ],
-      "answer": "こんしゅう"
-    },
-    {
-      "question": [
-        "next week",
-        "らいしゅう"
-      ],
-      "answer": "らいしゅう"
-    },
-    {
-      "question": [
-        "last month",
-        "せんげつ"
-      ],
-      "answer": "せんげつ"
-    },
-    {
-      "question": [
-        "this month",
-        "こんげつ"
-      ],
-      "answer": "こんげつ"
-    },
-    {
-      "question": [
-        "next month",
-        "らいげつ"
-      ],
-      "answer": "らいげつ"
-    },
-    {
-      "question": [
-        "last year",
-        "きょねん"
-      ],
-      "answer": "きょねん"
-    },
-    {
-      "question": [
-        "this year",
-        "ことし"
-      ],
-      "answer": "ことし"
-    },
-    {
-      "question": [
-        "next year",
-        "らいねん"
-      ],
-      "answer": "らいねん"
-    },
-    {
-      "question": [
-        "(subject particle)",
-        "が"
-      ],
-      "answer": "が"
-    },
-    {
-      "question": [
-        "the day after tomorrow",
-        "あさって"
-      ],
-      "answer": "あさって"
-    },
-    {
-      "question": [
-        "Kyoto",
-        "きょうと"
-      ],
-      "answer": "きょうと"
-    },
-    {
-      "question": [
-        "when",
-        "いつ"
-      ],
-      "answer": "いつ"
-    },
-    {
-      "question": [
-        "oh (interjection used to get someone's attention)",
-        "あ"
-      ],
-      "answer": "あ"
-    },
-    {
-      "question": [
-        "business trip",
-        "しゅっちょう"
-      ],
-      "answer": "しゅっちょう"
-    },
-    {
-      "question": [
-        "bus",
-        "バス"
-      ],
-      "answer": "ばす"
-    },
-    {
-      "question": [
-        "driver",
-        "うんてんしゅ"
-      ],
-      "answer": "うんてんしゅ"
-    },
-    {
-      "question": [
-        "which (used before a noun)",
-        "どの"
-      ],
-      "answer": "どの"
-    },
-    {
-      "question": [
-        "number ... (counter; used as suffix after a number)",
-        "ばん"
-      ],
-      "answer": "ばん"
-    }
-  ],
-  "#jbp_1_misc": [
-    {
-      "question": [
-        "pencil",
-        "えんぴつ"
-      ],
-      "answer": "えんぴつ"
-    },
-    {
-      "question": [
-        "bring a person",
-        "つれてきます(つれてくる)"
-      ],
-      "answer": "つれてきます(つれてくる)"
-    },
-    {
-      "question": [
-        "take a bath",
-        "おふろ　に　はいる"
-      ],
-      "answer": "おふろ　に　はいる"
-    },
-    {
-      "question": [
-        "enter",
-        "はいります(はいる)(-uverb)"
-      ],
-      "answer": "はいります(はいる)(-uverb)"
-    },
-    {
-      "question": [
-        "leave",
-        "でかけます(でかける)"
-      ],
-      "answer": "でかけます(でかける)"
-    },
-    {
-      "question": [
-        "self introduction",
-        "じこしょうかい"
-      ],
-      "answer": "じこしょうかい"
-    },
-    {
-      "question": [
-        "pause",
-        "きゅうけい"
-      ],
-      "answer": "きゅうけい"
-    }
-  ],
-  "#jbp_1_unit6_lesson13": [
-    {
-      "question": [
-        "history",
-        "れきし"
-      ],
-      "answer": "れきし"
-    },
-    {
-      "question": [
-        "to give",
-        "あげます(あげる)"
-      ],
-      "answer": "あげます(あげる)"
-    },
-    {
-      "question": [
-        "to receive",
-        "もらいます(もらう)"
-      ],
-      "answer": "もらいます(もらう)"
-    },
-    {
-      "question": [
-        "someone gives something to me (verb)",
-        "くれます(くれる)"
-      ],
-      "answer": "くれます(くれる)"
-    },
-    {
-      "question": [
-        "vase",
-        "かびん"
-      ],
-      "answer": "かびん"
-    },
-    {
-      "question": [
-        "color",
-        "いろ"
-      ],
-      "answer": "いろ"
-    },
-    {
-      "question": [
-        "favorite",
-        "すきな(ーなadj.)"
-      ],
-      "answer": "すきな(ーなadj.)"
-    },
-    {
-      "question": [
-        "rose",
-        "ばら"
-      ],
-      "answer": "ばら"
-    },
-    {
-      "question": [
-        "carnation",
-        "カーネーション"
-      ],
-      "answer": "かーねーしょん"
-    },
-    {
-      "question": [
-        "tulip",
-        "チューリップ"
-      ],
-      "answer": "ちゅーりっぷ"
-    },
-    {
-      "question": [
-        "bouquet",
-        "はなたば"
-      ],
-      "answer": "はなたば"
-    },
-    {
-      "question": [
-        "earring",
-        "イヤリング"
-      ],
-      "answer": "いやりんぐ"
-    },
-    {
-      "question": [
-        "necklace",
-        "ネックレス"
-      ],
-      "answer": "ねっくれす"
-    },
-    {
-      "question": [
-        "ring",
-        "ゆびわ"
-      ],
-      "answer": "ゆびわ"
-    },
-    {
-      "question": [
-        "scarf",
-        "スカーフ"
-      ],
-      "answer": "すかーふ"
-    },
-    {
-      "question": [
-        "blouse",
-        "ブラウス"
-      ],
-      "answer": "ぶらうす"
-    },
-    {
-      "question": [
-        "ticket",
-        "きっぷ"
-      ],
-      "answer": "きっぷ"
-    },
-    {
-      "question": [
-        "hat, cap",
-        "ぼうし"
-      ],
-      "answer": "ぼうし"
-    },
-    {
-      "question": [
-        "necktie",
-        "ネクタイ"
-      ],
-      "answer": "ねくたい"
-    },
-    {
-      "question": [
-        "coat",
-        "コート"
-      ],
-      "answer": "こーと"
-    },
-    {
-      "question": [
-        "gift, souvenir",
-        "おみやげ"
-      ],
-      "answer": "おみやげ"
-    },
-    {
-      "question": [
-        "electronic dictionary",
-        "でんしじしょ"
-      ],
-      "answer": "でんしじしょ"
-    },
-    {
-      "question": [
-        "Christmas",
-        "クリスマス"
-      ],
-      "answer": "くりすます"
-    },
-    {
-      "question": [
-        "Valentine's Day",
-        "バレンタインデー"
-      ],
-      "answer": "ばれんたいんでー"
-    },
-    {
-      "question": [
-        "chocolate",
-        "チョコレート"
-      ],
-      "answer": "ちょこれーと"
-    },
-    {
-      "question": [
-        "present",
-        "プレゼント"
-      ],
-      "answer": "ぷれぜんと"
-    },
-    {
-      "question": [
-        "Mother's Day",
-        "ははのひ"
-      ],
-      "answer": "ははのひ"
-    },
-    {
-      "question": [
-        "Father's Day",
-        "ちちのひ"
-      ],
-      "answer": "ちちのひ"
-    },
-    {
-      "question": [
-        "wedding anniversary",
-        "けっこんきねんび"
-      ],
-      "answer": "けっこんきねんび"
-    },
-    {
-      "question": [
-        "marriage",
-        "けっこん"
-      ],
-      "answer": "けっこん"
-    },
-    {
-      "question": [
-        "anniversary",
-        "きねんび"
-      ],
-      "answer": "きねんび"
-    },
-    {
-      "question": [
-        "well",
-        "よく"
-      ],
-      "answer": "よく"
-    },
-    {
-      "question": [
-        "suit, look good on",
-        "にあいます(にあう)"
-      ],
-      "answer": "にあいます(にあう)"
-    },
-    {
-      "question": [
-        "it's time to be going, I'd better get going",
-        "そろそろしつれいします"
-      ],
-      "answer": "そろそろしつれいします"
-    },
-    {
-      "question": [
-        "in just a short while",
-        "そろそろ"
-      ],
-      "answer": "そろそろ"
-    },
-    {
-      "question": [
-        "peach",
-        "もも"
-      ],
-      "answer": "もも"
-    }
-  ],
-  "#jbp_1_unit3_misc": [
-    {
-      "question": [
-        "to drink",
-        "のみます(のむ)"
-      ],
-      "answer": "のみます(のむ)"
-    },
-    {
-      "question": [
-        "to read",
-        "よみます(よむ)"
-      ],
-      "answer": "よみます(よむ)"
-    },
-    {
-      "question": [
-        "to write",
-        "かきます(かく)"
-      ],
-      "answer": "かきます(かく)"
-    },
-    {
-      "question": [
-        "to speak",
-        "はなします(はなす)"
-      ],
-      "answer": "はなします(はなす)"
-    },
-    {
-      "question": [
-        "to do",
-        "します(irregularverbする)"
-      ],
-      "answer": "します(irregularverbする)"
-    },
-    {
-      "question": [
-        "to sleep/go to bed",
-        "ねます(ねる)"
-      ],
-      "answer": "ねます(ねる)"
-    },
-    {
-      "question": [
-        "to study",
-        "べんきょうをします"
-      ],
-      "answer": "べんきょうをします"
-    },
-    {
-      "question": [
-        "usually",
-        "たいてい"
-      ],
-      "answer": "たいてい"
-    },
-    {
-      "question": [
-        "sometimes",
-        "ときどき"
-      ],
-      "answer": "ときどき"
-    },
-    {
-      "question": [
-        "weekend",
-        "しゅうまつ"
-      ],
-      "answer": "しゅうまつ"
-    }
-  ],
-  "#jbp_1_unit3_grammar": [
-    {
-      "question": [
-        "(verb suffix: present, pos, formal)",
-        "ます"
-      ],
-      "answer": "ます"
-    },
-    {
-      "question": [
-        "(verb suffix: present, neg, formal)",
-        "ません"
-      ],
-      "answer": "ません"
-    },
-    {
-      "question": [
-        "(verb suffix: past, pos, formal)",
-        "ました"
-      ],
-      "answer": "ました"
-    },
-    {
-      "question": [
-        "(verb suffix: past, neg, formal)",
-        "ませんでした"
-      ],
-      "answer": "ませんでした"
-    }
-  ],
-  "#jbp_1_unit5_lesson10": [
-    {
-      "question": [
-        "to see/to watch/to look",
-        "みます(みる)"
-      ],
-      "answer": "みます(みる)"
-    },
-    {
-      "question": [
-        "Kabuki (traditional theater)",
-        "かぶき"
-      ],
-      "answer": "かぶき"
-    },
-    {
-      "question": [
-        "(black) tea",
-        "こうちゃ"
-      ],
-      "answer": "こうちゃ"
-    },
-    {
-      "question": [
-        "soup",
-        "スープ"
-      ],
-      "answer": "すーぷ"
-    },
-    {
-      "question": [
-        "milk",
-        "ミルク"
-      ],
-      "answer": "みるく"
-    },
-    {
-      "question": [
-        "juice",
-        "ジュース"
-      ],
-      "answer": "じゅーす"
-    },
-    {
-      "question": [
-        "sandwich",
-        "サンドイッチ"
-      ],
-      "answer": "さんどいっち"
-    },
-    {
-      "question": [
-        "play tenis",
-        "テニスをします"
-      ],
-      "answer": "てにすをします"
-    },
-    {
-      "question": [
-        "to shop",
-        "かいものをします"
-      ],
-      "answer": "かいものをします"
-    },
-    {
-      "question": [
-        "to work",
-        "しごとをします"
-      ],
-      "answer": "しごとをします"
-    },
-    {
-      "question": [
-        "every day",
-        "まいにち"
-      ],
-      "answer": "まいにち"
-    },
-    {
-      "question": [
-        "every morning",
-        "まいあさ"
-      ],
-      "answer": "まいあさ"
-    },
-    {
-      "question": [
-        "every evening",
-        "まいばん"
-      ],
-      "answer": "まいばん"
-    },
-    {
-      "question": [
-        "every week",
-        "まいしゅう"
-      ],
-      "answer": "まいしゅう"
-    },
-    {
-      "question": [
-        "to jog",
-        "ジョキングをします"
-      ],
-      "answer": "じょきんぐをします"
-    },
-    {
-      "question": [
-        "tempura",
-        "てんぷら"
-      ],
-      "answer": "てんぷら"
-    },
-    {
-      "question": [
-        "steak",
-        "ステーキ"
-      ],
-      "answer": "すてーき"
-    },
-    {
-      "question": [
-        "bar",
-        "バー"
-      ],
-      "answer": "ばー"
-    },
-    {
-      "question": [
-        "gym, sports club",
-        "スポーツクラブ"
-      ],
-      "answer": "すぽーつくらぶ"
-    },
-    {
-      "question": [
-        "sport(s)",
-        "スポーツ"
-      ],
-      "answer": "すぽーつ"
-    },
-    {
-      "question": [
-        "club",
-        "クラブ"
-      ],
-      "answer": "くらぶ"
-    },
-    {
-      "question": [
-        "dog",
-        "いぬ"
-      ],
-      "answer": "いぬ"
-    },
-    {
-      "question": [
-        "vegetable",
-        "やさい"
-      ],
-      "answer": "やさい"
-    },
-    {
-      "question": [
-        "(another person's) wife",
-        "おくさん"
-      ],
-      "answer": "おくさん"
-    },
-    {
-      "question": [
-        "go for a walk",
-        "さんぽをします"
-      ],
-      "answer": "さんぽをします"
-    },
-    {
-      "question": [
-        "play golf",
-        "ゴルフをします"
-      ],
-      "answer": "ごるふをします"
-    },
-    {
-      "question": [
-        "tennis court",
-        "テニスコート"
-      ],
-      "answer": "てにすこーと"
-    },
-    {
-      "question": [
-        "(humble form of です)",
-        "でございます"
-      ],
-      "answer": "でございます"
-    },
-    {
-      "question": [
-        "reservation",
-        "よやく"
-      ],
-      "answer": "よやく"
-    },
-    {
-      "question": [
-        "understood; I see; I understand",
-        "わかりました"
-      ],
-      "answer": "わかりました"
-    },
-    {
-      "question": [
-        "to understand",
-        "わかります(わかる)(が+)"
-      ],
-      "answer": "わかります(わかる)(が+)"
-    }
-  ],
-  "#jbp_1_unit3_misc_lesson6": [
-    {
-      "question": [
-        "music",
-        "おんがく"
-      ],
-      "answer": "おんがく"
-    },
-    {
-      "question": [
-        "omelette",
-        "オムレツ"
-      ],
-      "answer": "おむれつ"
-    },
-    {
-      "question": [
-        "omelette with rice",
-        "オムライス"
-      ],
-      "answer": "おむらいす"
-    },
-    {
-      "question": [
-        "a salad",
-        "サラダ"
-      ],
-      "answer": "さらだ"
-    },
-    {
-      "question": [
-        "fish",
-        "さかな"
-      ],
-      "answer": "さかな"
-    },
-    {
-      "question": [
-        "tennis",
-        "テニス"
-      ],
-      "answer": "てにす"
-    },
-    {
-      "question": [
-        "hamburger",
-        "ハンバーガー"
-      ],
-      "answer": "はんばーがー"
-    },
-    {
-      "question": [
-        "school",
-        "がっこう"
-      ],
-      "answer": "がっこう"
-    },
-    {
-      "question": [
-        "tea-room",
-        "きっさてん"
-      ],
-      "answer": "きっさてん"
-    },
-    {
-      "question": [
-        "green tea",
-        "おちゃ"
-      ],
-      "answer": "おちゃ"
-    },
-    {
-      "question": [
-        "library",
-        "としょかん"
-      ],
-      "answer": "としょかん"
-    },
-    {
-      "question": [
-        "sports",
-        "スポーツ"
-      ],
-      "answer": "すぽーつ"
-    },
-    {
-      "question": [
-        "(cold) water",
-        "みず"
-      ],
-      "answer": "みず"
-    },
-    {
-      "question": [
-        "the day before yesterday",
-        "おととい"
-      ],
-      "answer": "おととい"
-    }
-  ],
-  "#jbp_1_unit3_lesson7": [
-    {
-      "question": [
-        "please come in",
-        "おはいりください"
-      ],
-      "answer": "おはいりください"
-    },
-    {
-      "question": [
-        "come right this way",
-        "どうぞこちらへ"
-      ],
-      "answer": "どうぞこちらへ"
-    },
-    {
-      "question": [
-        "by means of (particle indicating means)",
-        "で"
-      ],
-      "answer": "で"
-    },
-    {
-      "question": [
-        "subway",
-        "ちかてつ"
-      ],
-      "answer": "ちかてつ"
-    },
-    {
-      "question": [
-        "at, on, in (particle indicating time)",
-        "に"
-      ],
-      "answer": "に"
-    },
-    {
-      "question": [
-        "year (counter)",
-        "ねん"
-      ],
-      "answer": "ねん"
-    },
-    {
-      "question": [
-        "day (of the week)",
-        "ようび"
-      ],
-      "answer": "ようび"
-    },
-    {
-      "question": [
-        "month (counter)",
-        "がつ"
-      ],
-      "answer": "がつ"
-    },
-    {
-      "question": [
-        "day (of the month) (counter)",
-        "にち"
-      ],
-      "answer": "にち"
-    },
-    {
-      "question": [
-        "train",
-        "でんしゃ"
-      ],
-      "answer": "でんしゃ"
-    },
-    {
-      "question": [
-        "taxi",
-        "タクシー"
-      ],
-      "answer": "たくしー"
-    },
-    {
-      "question": [
-        "bullet train (in Japan)",
-        "しんかんせん"
-      ],
-      "answer": "しんかんせん"
-    },
-    {
-      "question": [
-        "airplane",
-        "ひこうき"
-      ],
-      "answer": "ひこうき"
-    },
-    {
-      "question": [
-        "by foot, by walking",
-        "あるいて"
-      ],
-      "answer": "あるいて"
-    },
-    {
-      "question": [
-        "by what means",
-        "なんで"
-      ],
-      "answer": "なんで"
-    },
-    {
-      "question": [
-        "festival",
-        "おまつり"
-      ],
-      "answer": "おまつり"
-    },
-    {
-      "question": [
-        "what month",
-        "なんがつ"
-      ],
-      "answer": "なんがつ"
-    },
-    {
-      "question": [
-        "what day (of the month)",
-        "なんにち"
-      ],
-      "answer": "なんにち"
-    },
-    {
-      "question": [
-        "what day (of the week)",
-        "なんようび"
-      ],
-      "answer": "なんようび"
-    },
-    {
-      "question": [
-        "birthday",
-        "たんじょうび"
-      ],
-      "answer": "たんじょうび"
-    },
-    {
-      "question": [
-        "summer vacation",
-        "なつやすみ"
-      ],
-      "answer": "なつやすみ"
-    },
-    {
-      "question": [
-        "summer",
-        "なつ"
-      ],
-      "answer": "なつ"
-    },
-    {
-      "question": [
-        "trip, travel",
-        "りょこう"
-      ],
-      "answer": "りょこう"
-    },
-    {
-      "question": [
-        "hotel",
-        "ホテル"
-      ],
-      "answer": "ほてる"
-    },
-    {
-      "question": [
-        "(polite prefix)",
-        "お"
-      ],
-      "answer": "お"
-    },
-    {
-      "question": [
-        "sunday",
-        "にちようび"
-      ],
-      "answer": "にちようび"
-    },
-    {
-      "question": [
-        "monday",
-        "げつようび"
-      ],
-      "answer": "げつようび"
-    },
-    {
-      "question": [
-        "tuesday",
-        "かようび"
-      ],
-      "answer": "かようび"
-    },
-    {
-      "question": [
-        "wednesday",
-        "すいようび"
-      ],
-      "answer": "すいようび"
-    },
-    {
-      "question": [
-        "thursday",
-        "もくようび"
-      ],
-      "answer": "もくようび"
-    },
-    {
-      "question": [
-        "friday",
-        "きんようび"
-      ],
-      "answer": "きんようび"
-    },
-    {
-      "question": [
-        "saturday",
-        "どようび"
-      ],
-      "answer": "どようび"
-    },
-    {
-      "question": [
-        "Okinawa",
-        "おきなわ(islandsonthesouthwesterntipofJapan)"
-      ],
-      "answer": "おきなわ(islandsonthesouthwesterntipofJapan)"
-    },
-    {
-      "question": [
-        "January",
-        "いちがつ"
-      ],
-      "answer": "いちがつ"
-    },
-    {
-      "question": [
-        "February",
-        "にがつ"
-      ],
-      "answer": "にがつ"
-    },
-    {
-      "question": [
-        "March",
-        "さんがつ"
-      ],
-      "answer": "さんがつ"
-    },
-    {
-      "question": [
-        "April",
-        "しがつ"
-      ],
-      "answer": "しがつ"
-    },
-    {
-      "question": [
-        "May",
-        "ごがつ"
-      ],
-      "answer": "ごがつ"
-    },
-    {
-      "question": [
-        "June",
-        "ろくがつ"
-      ],
-      "answer": "ろくがつ"
-    },
-    {
-      "question": [
-        "July",
-        "しちがつ"
-      ],
-      "answer": "しちがつ"
-    },
-    {
-      "question": [
-        "August",
-        "はちがつ"
-      ],
-      "answer": "はちがつ"
-    },
-    {
-      "question": [
-        "September",
-        "くがつ"
-      ],
-      "answer": "くがつ"
-    },
-    {
-      "question": [
-        "October",
-        "じゅうがつ"
-      ],
-      "answer": "じゅうがつ"
-    },
-    {
-      "question": [
-        "December",
-        "じゅうにがつ"
-      ],
-      "answer": "じゅうにがつ"
-    },
-    {
-      "question": [
-        "November",
-        "じゅういちがつ"
-      ],
-      "answer": "じゅういちがつ"
-    }
-  ],
-  "#jbp_1_unit4_lesson8": [
-    {
-      "question": [
-        "family",
-        "かぞく"
-      ],
-      "answer": "かぞく"
-    },
-    {
-      "question": [
-        "Nikko (scenic area north of Tokyo)",
-        "にっこう"
-      ],
-      "answer": "にっこう"
-    },
-    {
-      "question": [
-        "be, exist (inanimate objects)",
-        "あります(ある)"
-      ],
-      "answer": "あります(ある)"
-    },
-    {
-      "question": [
-        "Buddhist temple",
-        "おてら"
-      ],
-      "answer": "おてら"
-    },
-    {
-      "question": [
-        "and, and so on (particle, incomplete enumeration)",
-        "や"
-      ],
-      "answer": "や"
-    },
-    {
-      "question": [
-        "Shinto shrine",
-        "じんじゃ"
-      ],
-      "answer": "じんじゃ"
-    },
-    {
-      "question": [
-        "hot spring (resort)",
-        "おんせん"
-      ],
-      "answer": "おんせん"
-    },
-    {
-      "question": [
-        "what is a/an ...?",
-        "ーってなんですか"
-      ],
-      "answer": "ーってなんですか"
-    },
-    {
-      "question": [
-        "spa",
-        "スパ"
-      ],
-      "answer": "すぱ"
-    },
-    {
-      "question": [
-        "that's nice",
-        "いいですね"
-      ],
-      "answer": "いいですね"
-    },
-    {
-      "question": [
-        "first floor, ground floor",
-        "いっかい"
-      ],
-      "answer": "いっかい"
-    },
-    {
-      "question": [
-        "floor, story (counter)",
-        "かい・がい"
-      ],
-      "answer": "かい・がい"
-    },
-    {
-      "question": [
-        "first basement floor",
-        "ちかいっかい"
-      ],
-      "answer": "ちかいっかい"
-    },
-    {
-      "question": [
-        "basement",
-        "ちか"
-      ],
-      "answer": "ちか"
-    },
-    {
-      "question": [
-        "restroom, lavatory",
-        "おてあらい"
-      ],
-      "answer": "おてあらい"
-    },
-    {
-      "question": [
-        "parking lot",
-        "ちゅうしゃじょう"
-      ],
-      "answer": "ちゅうしゃじょう"
-    },
-    {
-      "question": [
-        "refrigerator",
-        "れいぞうこ"
-      ],
-      "answer": "れいぞうこ"
-    },
-    {
-      "question": [
-        "bed",
-        "ベッド"
-      ],
-      "answer": "べっど"
-    },
-    {
-      "question": [
-        "sofa",
-        "ソファー"
-      ],
-      "answer": "そふぁー"
-    },
-    {
-      "question": [
-        "table",
-        "テーブル"
-      ],
-      "answer": "てーぶる"
-    },
-    {
-      "question": [
-        "chair",
-        "いす"
-      ],
-      "answer": "いす"
-    },
-    {
-      "question": [
-        "flower",
-        "はな"
-      ],
-      "answer": "はな"
-    },
-    {
-      "question": [
-        "briefcase, tote bag",
-        "かばん"
-      ],
-      "answer": "かばん"
-    },
-    {
-      "question": [
-        "top, above",
-        "うえ"
-      ],
-      "answer": "うえ"
-    },
-    {
-      "question": [
-        "bottom, below, under",
-        "した"
-      ],
-      "answer": "した"
-    },
-    {
-      "question": [
-        "front, before",
-        "まえ"
-      ],
-      "answer": "まえ"
-    },
-    {
-      "question": [
-        "back, behind",
-        "うしろ"
-      ],
-      "answer": "うしろ"
-    },
-    {
-      "question": [
-        "inside, middle",
-        "なか"
-      ],
-      "answer": "なか"
-    },
-    {
-      "question": [
-        "next to",
-        "となり"
-      ],
-      "answer": "となり"
-    },
-    {
-      "question": [
-        "vicinity, nearby",
-        "ちかく"
-      ],
-      "answer": "ちかく"
-    },
-    {
-      "question": [
-        "to be, to exist, to stay (only of animate objects)",
-        "います(いる)(-うverb)"
-      ],
-      "answer": "います(いる)(-うverb)"
-    },
-    {
-      "question": [
-        "and (particle)",
-        "と"
-      ],
-      "answer": "と"
-    },
-    {
-      "question": [
-        "nothing",
-        "なにも...-ません(negverb)"
-      ],
-      "answer": "なにも...-ません(negverb)"
-    },
-    {
-      "question": [
-        "no one",
-        "だれも...-ません(negverb)"
-      ],
-      "answer": "だれも...-ません(negverb)"
-    },
-    {
-      "question": [
-        "lake",
-        "みずうみ"
-      ],
-      "answer": "みずうみ"
-    },
-    {
-      "question": [
-        "man",
-        "おとこのひと"
-      ],
-      "answer": "おとこのひと"
-    },
-    {
-      "question": [
-        "male, man",
-        "おとこ"
-      ],
-      "answer": "おとこ"
-    },
-    {
-      "question": [
-        "pen",
-        "ペン"
-      ],
-      "answer": "ぺん"
-    },
-    {
-      "question": [
-        "sweater",
-        "セーター"
-      ],
-      "answer": "せーたー"
-    },
-    {
-      "question": [
-        "drawer",
-        "ひきだし"
-      ],
-      "answer": "ひきだし"
-    },
-    {
-      "question": [
-        "pocket",
-        "ポケット"
-      ],
-      "answer": "ぽけっと"
-    },
-    {
-      "question": [
-        "traditional Japanese inn",
-        "りょかん"
-      ],
-      "answer": "りょかん"
-    },
-    {
-      "question": [
-        "waterfall",
-        "たき"
-      ],
-      "answer": "たき"
-    },
-    {
-      "question": [
-        "buckwheat noodle shop",
-        "そばや"
-      ],
-      "answer": "そばや"
-    },
-    {
-      "question": [
-        "shop (suffix)",
-        "や"
-      ],
-      "answer": "や"
-    }
-  ],
-  "#jbp_1_unit4_misc": [
-    {
-      "question": [
-        "to buy",
-        "かいます(かう)"
-      ],
-      "answer": "かいます(かう)"
-    },
-    {
-      "question": [
-        "to meet",
-        "あいます(あう)(+に)"
-      ],
-      "answer": "あいます(あう)(+に)"
-    },
-    {
-      "question": [
-        "to live in ...",
-        "...にすんでいます"
-      ],
-      "answer": "...にすんでいます"
-    },
-    {
-      "question": [
-        "quick/early",
-        "はやい"
-      ],
-      "answer": "はやい"
-    },
-    {
-      "question": [
-        "left",
-        "ひだり"
-      ],
-      "answer": "ひだり"
-    },
-    {
-      "question": [
-        "right (direction)",
-        "みぎ"
-      ],
-      "answer": "みぎ"
-    }
-  ],
-  "#jbp_1_unit4_lesson9": [
-    {
-      "question": [
-        "over there",
-        "あそこ"
-      ],
-      "answer": "あそこ"
-    },
-    {
-      "question": [
-        "convenience store",
-        "コンビニ"
-      ],
-      "answer": "こんびに"
-    },
-    {
-      "question": [
-        "taxi stand",
-        "タクシーのりば"
-      ],
-      "answer": "たくしーのりば"
-    },
-    {
-      "question": [
-        "bus terminal",
-        "バスのりば"
-      ],
-      "answer": "ばすのりば"
-    },
-    {
-      "question": [
-        "police box",
-        "こうばん"
-      ],
-      "answer": "こうばん"
-    },
-    {
-      "question": [
-        "hospital",
-        "びょういん"
-      ],
-      "answer": "びょういん"
-    },
-    {
-      "question": [
-        "bookstore",
-        "ほんや"
-      ],
-      "answer": "ほんや"
-    },
-    {
-      "question": [
-        "bakery",
-        "パンや"
-      ],
-      "answer": "ぱんや"
-    },
-    {
-      "question": [
-        "brood",
-        "パン"
-      ],
-      "answer": "ぱん"
-    },
-    {
-      "question": [
-        "liquor store",
-        "さかや"
-      ],
-      "answer": "さかや"
-    },
-    {
-      "question": [
-        "drugstore",
-        "くすりや"
-      ],
-      "answer": "くすりや"
-    },
-    {
-      "question": [
-        "medicine",
-        "くすり"
-      ],
-      "answer": "くすり"
-    },
-    {
-      "question": [
-        "eraser",
-        "けしゴム"
-      ],
-      "answer": "けしごむ"
-    },
-    {
-      "question": [
-        "stapler",
-        "ホッチキス"
-      ],
-      "answer": "ほっちきす"
-    },
-    {
-      "question": [
-        "scissors",
-        "はさみ"
-      ],
-      "answer": "はさみ"
-    },
-    {
-      "question": [
-        "scotch tape",
-        "セロテープ"
-      ],
-      "answer": "せろてーぷ"
-    },
-    {
-      "question": [
-        "file",
-        "ファイル"
-      ],
-      "answer": "ふぁいる"
-    },
-    {
-      "question": [
-        "how many persons",
-        "なんにん"
-      ],
-      "answer": "なんにん"
-    },
-    {
-      "question": [
-        "a lot, many",
-        "たくさん"
-      ],
-      "answer": "たくさん"
-    },
-    {
-      "question": [
-        "boy",
-        "おとこのこ"
-      ],
-      "answer": "おとこのこ"
-    },
-    {
-      "question": [
-        "child",
-        "こ"
-      ],
-      "answer": "こ"
-    },
-    {
-      "question": [
-        "girl",
-        "おんなのこ"
-      ],
-      "answer": "おんなのこ"
-    },
-    {
-      "question": [
-        "how many (small objects)",
-        "いくつ"
-      ],
-      "answer": "いくつ"
-    },
-    {
-      "question": [
-        "how many (flat objects)",
-        "なんまい"
-      ],
-      "answer": "なんまい"
-    },
-    {
-      "question": [
-        "how many (long, thin objects)",
-        "なんぼん"
-      ],
-      "answer": "なんぼん"
-    },
-    {
-      "question": [
-        "here",
-        "ここ"
-      ],
-      "answer": "ここ"
-    },
-    {
-      "question": [
-        "garden",
-        "にわ"
-      ],
-      "answer": "にわ"
-    },
-    {
-      "question": [
-        "conference room",
-        "かいぎしつ"
-      ],
-      "answer": "かいぎしつ"
-    },
-    {
-      "question": [
-        "cart (for luggage)",
-        "カート"
-      ],
-      "answer": "かーと"
-    },
-    {
-      "question": [
-        "check-in counter",
-        "チェックインカウンター"
-      ],
-      "answer": "ちぇっくいんかうんたー"
-    },
-    {
-      "question": [
-        "bus stop",
-        "バスてい"
-      ],
-      "answer": "ばすてい"
-    },
-    {
-      "question": [
-        "entrance",
-        "いりぐち"
-      ],
-      "answer": "いりぐち"
-    },
-    {
-      "question": [
-        "about/approximately what time",
-        "なんじごろ"
-      ],
-      "answer": "なんじごろ"
-    },
-    {
-      "question": [
-        "about (used of time)",
-        "ごろ"
-      ],
-      "answer": "ごろ"
-    },
-    {
-      "question": [
-        "three persons, ...",
-        "さんにん,..."
-      ],
-      "answer": "さんにん,..."
-    },
-    {
-      "question": [
-        "one person",
-        "ひとり"
-      ],
-      "answer": "ひとり"
-    },
-    {
-      "question": [
-        "two persons",
-        "ふたり"
-      ],
-      "answer": "ふたり"
-    }
-  ],
-  "#jbp_1_unit5_lesson11": [
-    {
-      "question": [
-        "(polite form of -さん)",
-        "さま"
-      ],
-      "answer": "さま"
-    },
-    {
-      "question": [
-        "often",
-        "よく"
-      ],
-      "answer": "よく"
-    },
-    {
-      "question": [
-        "be delicious, be tasty",
-        "おいしいです"
-      ],
-      "answer": "おいしいです"
-    },
-    {
-      "question": [
-        "because (particle)",
-        "から"
-      ],
-      "answer": "から"
-    },
-    {
-      "question": [
-        "whiting",
-        "きす"
-      ],
-      "answer": "きす"
-    },
-    {
-      "question": [
-        "tempura restaurant",
-        "てんぷらや"
-      ],
-      "answer": "てんぷらや"
-    },
-    {
-      "question": [
-        "to listen/to ask",
-        "ききます(きく)"
-      ],
-      "answer": "ききます(きく)"
-    },
-    {
-      "question": [
-        "to phone",
-        "でんわをします"
-      ],
-      "answer": "でんわをします"
-    },
-    {
-      "question": [
-        "to send",
-        "おくります(おくる)"
-      ],
-      "answer": "おくります(おくる)"
-    },
-    {
-      "question": [
-        "(another person's) father",
-        "おとうさん"
-      ],
-      "answer": "おとうさん"
-    },
-    {
-      "question": [
-        "(another person's) mother",
-        "おかあさん"
-      ],
-      "answer": "おかあさん"
-    },
-    {
-      "question": [
-        "(my) father",
-        "ちち"
-      ],
-      "answer": "ちち"
-    },
-    {
-      "question": [
-        "(my) mother",
-        "はは"
-      ],
-      "answer": "はは"
-    },
-    {
-      "question": [
-        "(my) wife",
-        "つま"
-      ],
-      "answer": "つま"
-    },
-    {
-      "question": [
-        "(another person's) husband",
-        "ごしゅじん"
-      ],
-      "answer": "ごしゅじん"
-    },
-    {
-      "question": [
-        "(honorific prefix)",
-        "ご"
-      ],
-      "answer": "ご"
-    },
-    {
-      "question": [
-        "(my) husband",
-        "おっと"
-      ],
-      "answer": "おっと"
-    },
-    {
-      "question": [
-        "letter",
-        "てがみ"
-      ],
-      "answer": "てがみ"
-    },
-    {
-      "question": [
-        "not much (expr.)",
-        "あまり...-ません(negverb)"
-      ],
-      "answer": "あまり...-ません(negverb)"
-    },
-    {
-      "question": [
-        "president (of a company)",
-        "しゃちょう"
-      ],
-      "answer": "しゃちょう"
-    },
-    {
-      "question": [
-        "e-mail",
-        "メール"
-      ],
-      "answer": "めーる"
-    },
-    {
-      "question": [
-        "lobby",
-        "ロビー"
-      ],
-      "answer": "ろびー"
-    },
-    {
-      "question": [
-        "sushi",
-        "すし"
-      ],
-      "answer": "すし"
-    },
-    {
-      "question": [
-        "not at all (expr)",
-        "ぜんぜん...-ません(negverb)"
-      ],
-      "answer": "ぜんぜん...-ません(negverb)"
-    },
-    {
-      "question": [
-        "sushi restaurant",
-        "すしや"
-      ],
-      "answer": "すしや"
-    },
-    {
-      "question": [
-        "ice cream",
-        "アイスクリーム"
-      ],
-      "answer": "あいすくりーむ"
-    },
-    {
-      "question": [
-        "this coming",
-        "こんど"
-      ],
-      "answer": "こんど"
-    },
-    {
-      "question": [
-        "machine",
-        "マシーン"
-      ],
-      "answer": "ましーん"
-    },
-    {
-      "question": [
-        "cooking, cuisine",
-        "りょうり"
-      ],
-      "answer": "りょうり"
-    },
-    {
-      "question": [
-        "bill, check",
-        "おかんじょう"
-      ],
-      "answer": "おかんじょう"
-    },
-    {
-      "question": [
-        "receipt",
-        "りょうしゅうしょ"
-      ],
-      "answer": "りょうしゅうしょ"
-    }
-  ],
-  "#jbp_1_unit6_lesson12": [
-    {
-      "question": [
-        "please (when giving something)",
-        "どうぞ"
-      ],
-      "answer": "どうぞ"
-    },
-    {
-      "question": [
-        "sweets",
-        "おかし"
-      ],
-      "answer": "おかし"
-    },
-    {
-      "question": [
-        "how about...? / would you like some ...?",
-        "...いかがですか"
-      ],
-      "answer": "...いかがですか"
-    },
-    {
-      "question": [
-        "said before eating",
-        "いただきます"
-      ],
-      "answer": "いただきます"
-    },
-    {
-      "question": [
-        "pretty",
-        "きれい(な)"
-      ],
-      "answer": "きれい(な)"
-    },
-    {
-      "question": [
-        "very",
-        "とても"
-      ],
-      "answer": "とても"
-    },
-    {
-      "question": [
-        "cupful, glassful (counter)",
-        "はい・ばい・ぱい"
-      ],
-      "answer": "はい・ばい・ぱい"
-    },
-    {
-      "question": [
-        "no thank you, I'm fine / I don't want more",
-        "いいえ、もうけっこうです"
-      ],
-      "answer": "いいえ、もうけっこうです"
-    },
-    {
-      "question": [
-        "no thank you",
-        "けっこうです"
-      ],
-      "answer": "けっこうです"
-    },
-    {
-      "question": [
-        "please help yourself to...",
-        "(thing)をどうぞ"
-      ],
-      "answer": "(thing)をどうぞ"
-    },
-    {
-      "question": [
-        "big",
-        "おおきい"
-      ],
-      "answer": "おおきい"
-    },
-    {
-      "question": [
-        "small",
-        "ちいさい"
-      ],
-      "answer": "ちいさい"
-    },
-    {
-      "question": [
-        "expensive",
-        "たかい"
-      ],
-      "answer": "たかい"
-    },
-    {
-      "question": [
-        "inexpensive",
-        "やすい"
-      ],
-      "answer": "やすい"
-    },
-    {
-      "question": [
-        "new, fresh",
-        "あたらしい"
-      ],
-      "answer": "あたらしい"
-    },
-    {
-      "question": [
-        "old (not used for people)",
-        "ふるい"
-      ],
-      "answer": "ふるい"
-    },
-    {
-      "question": [
-        "near",
-        "ちかい"
-      ],
-      "answer": "ちかい"
-    },
-    {
-      "question": [
-        "far",
-        "とおい"
-      ],
-      "answer": "とおい"
-    },
-    {
-      "question": [
-        "difficult",
-        "むずかしい"
-      ],
-      "answer": "むずかしい"
-    },
-    {
-      "question": [
-        "easy",
-        "やさしい"
-      ],
-      "answer": "やさしい"
-    },
-    {
-      "question": [
-        "sweet",
-        "あまい"
-      ],
-      "answer": "あまい"
-    },
-    {
-      "question": [
-        "spicy",
-        "からい"
-      ],
-      "answer": "からい"
-    },
-    {
-      "question": [
-        "hot",
-        "あつい"
-      ],
-      "answer": "あつい"
-    },
-    {
-      "question": [
-        "cold",
-        "さむい"
-      ],
-      "answer": "さむい"
-    },
-    {
-      "question": [
-        "good",
-        "いい(よく)"
-      ],
-      "answer": "いい(よく)"
-    },
-    {
-      "question": [
-        "interesting",
-        "おもしろい"
-      ],
-      "answer": "おもしろい"
-    },
-    {
-      "question": [
-        "busy",
-        "いそがしい"
-      ],
-      "answer": "いそがしい"
-    },
-    {
-      "question": [
-        "lively",
-        "にぎやか"
-      ],
-      "answer": "にぎやか"
-    },
-    {
-      "question": [
-        "quiet",
-        "しずか"
-      ],
-      "answer": "しずか"
-    },
-    {
-      "question": [
-        "convenient",
-        "べんり"
-      ],
-      "answer": "べんり"
-    },
-    {
-      "question": [
-        "famous",
-        "ゆうめい"
-      ],
-      "answer": "ゆうめい"
-    },
-    {
-      "question": [
-        "kind, helpful",
-        "しんせつ"
-      ],
-      "answer": "しんせつ"
-    },
-    {
-      "question": [
-        "free, not busy",
-        "ひま"
-      ],
-      "answer": "ひま"
-    },
-    {
-      "question": [
-        "to have a meal",
-        "しょくじをします"
-      ],
-      "answer": "しょくじをします"
-    },
-    {
-      "question": [
-        "cake",
-        "ケーキ"
-      ],
-      "answer": "けーき"
-    },
-    {
-      "question": [
-        "curry",
-        "カレー"
-      ],
-      "answer": "かれー"
-    },
-    {
-      "question": [
-        "game",
-        "ゲーム"
-      ],
-      "answer": "げーむ"
-    },
-    {
-      "question": [
-        "what kind of",
-        "どんな"
-      ],
-      "answer": "どんな"
-    },
-    {
-      "question": [
-        "place",
-        "ところ"
-      ],
-      "answer": "ところ"
-    },
-    {
-      "question": [
-        "painting",
-        "え"
-      ],
-      "answer": "え"
-    },
-    {
-      "question": [
-        "weather",
-        "てんき"
-      ],
-      "answer": "てんき"
-    },
-    {
-      "question": [
-        "really",
-        "ほんとうに"
-      ],
-      "answer": "ほんとうに"
-    },
-    {
-      "question": [
-        "about five minutes",
-        "５ふんぐらい"
-      ],
-      "answer": "５ふんぐらい"
-    },
-    {
-      "question": [
-        "about, approximately (used for a period, price, amount, etc) [particle]",
-        "ぐらい"
-      ],
-      "answer": "ぐらい"
-    },
-    {
-      "question": [
-        "please wait a minute",
-        "ちょっとまってください"
-      ],
-      "answer": "ちょっとまってください"
-    },
-    {
-      "question": [
-        "a little bit",
-        "ちょっと"
-      ],
-      "answer": "ちょっと"
-    },
-    {
-      "question": [
-        "welcome",
-        "よくいらっしゃいました"
-      ],
-      "answer": "よくいらっしゃいました"
-    },
-    {
-      "question": [
-        "may I come in? - said when entering someone's home",
-        "おじゃまします"
-      ],
-      "answer": "おじゃまします"
-    }
-  ],
-  "#jbp_1_unit6_lesson14": [
-    {
-      "question": [
-        "(another person's) house",
-        "おたく"
-      ],
-      "answer": "おたく"
-    },
-    {
-      "question": [
-        "fun, enjoyable",
-        "たのしい"
-      ],
-      "answer": "たのしい"
-    },
-    {
-      "question": [
-        "we",
-        "わたしたち"
-      ],
-      "answer": "わたしたち"
-    },
-    {
-      "question": [
-        "again",
-        "また"
-      ],
-      "answer": "また"
-    },
-    {
-      "question": [
-        "please come",
-        "きてください"
-      ],
-      "answer": "きてください"
-    },
-    {
-      "question": [
-        "boring, tedious",
-        "つまらない"
-      ],
-      "answer": "つまらない"
-    },
-    {
-      "question": [
-        "bad",
-        "わるい"
-      ],
-      "answer": "わるい"
-    },
-    {
-      "question": [
-        "concert",
-        "コンサート"
-      ],
-      "answer": "こんさーと"
-    },
-    {
-      "question": [
-        "clearance sale",
-        "バーゲンセール"
-      ],
-      "answer": "ばーげんせーる"
-    },
-    {
-      "question": [
-        "show",
-        "ショー"
-      ],
-      "answer": "しょー"
-    },
-    {
-      "question": [
-        "how was...?",
-        "どうでしたか"
-      ],
-      "answer": "どうでしたか"
-    },
-    {
-      "question": [
-        "how",
-        "どう"
-      ],
-      "answer": "どう"
-    },
-    {
-      "question": [
-        "to be (honorific word for います)",
-        "いらっしゃいます"
-      ],
-      "answer": "いらっしゃいます"
-    },
-    {
-      "question": [
-        "please wait a minute (politer way of saying ちょっと まってください)",
-        "ちょっとおまちください"
-      ],
-      "answer": "ちょっとおまちください"
-    },
-    {
-      "question": [
-        "cold (aff., present form)",
-        "さむいです"
-      ],
-      "answer": "さむいです"
-    },
-    {
-      "question": [
-        "cold (neg., present form)",
-        "さむくないです"
-      ],
-      "answer": "さむくないです"
-    },
-    {
-      "question": [
-        "cold (aff., past form)",
-        "さむかったです"
-      ],
-      "answer": "さむかったです"
-    },
-    {
-      "question": [
-        "cold (neg., past form)",
-        "さむくなかったです"
-      ],
-      "answer": "さむくなかったです"
-    }
-  ],
-  "#jbp_1_unit7_lesson15": [
-    {
-      "question": [
-        "fireworks display",
-        "はなびたいかい"
-      ],
-      "answer": "はなびたいかい"
-    },
-    {
-      "question": [
-        "fireworks",
-        "はなび"
-      ],
-      "answer": "はなび"
-    },
-    {
-      "question": [
-        "large gathering",
-        "たいかい"
-      ],
-      "answer": "たいかい"
-    },
-    {
-      "question": [
-        "snow festival",
-        "ゆきまつり"
-      ],
-      "answer": "ゆきまつり"
-    },
-    {
-      "question": [
-        "snow",
-        "ゆき"
-      ],
-      "answer": "ゆき"
-    },
-    {
-      "question": [
-        "soccer",
-        "サッカー"
-      ],
-      "answer": "さっかー"
-    },
-    {
-      "question": [
-        "game, match",
-        "しあい"
-      ],
-      "answer": "しあい"
-    },
-    {
-      "question": [
-        "platform",
-        "ホーム"
-      ],
-      "answer": "ほーむ"
-    },
-    {
-      "question": [
-        "west exit",
-        "にしぐち"
-      ],
-      "answer": "にしぐち"
-    },
-    {
-      "question": [
-        "east exit",
-        "ひがしぐち"
-      ],
-      "answer": "ひがしぐち"
-    },
-    {
-      "question": [
-        "north exit",
-        "きたぐち"
-      ],
-      "answer": "きたぐち"
-    },
-    {
-      "question": [
-        "south exit",
-        "みなみぐち"
-      ],
-      "answer": "みなみぐち"
-    },
-    {
-      "question": [
-        "sumo",
-        "すもう"
-      ],
-      "answer": "すもう"
-    },
-    {
-      "question": [
-        "'I'm sorry, but it wouldn't be convenient (for me)'",
-        "ざんねんですが、つごうがわるいです"
-      ],
-      "answer": "ざんねんですが、つごうがわるいです"
-    },
-    {
-      "question": [
-        "talk",
-        "はなしをします"
-      ],
-      "answer": "はなしをします"
-    },
-    {
-      "question": [
-        "that sounds good",
-        "いいですね"
-      ],
-      "answer": "いいですね"
-    },
-    {
-      "question": [
-        "(concert) hall",
-        "ホール"
-      ],
-      "answer": "ほーる"
-    },
-    {
-      "question": [
-        "to have a party",
-        "パーティーをします"
-      ],
-      "answer": "ぱーてぃーをします"
-    },
-    {
-      "question": [
-        "by all means, certainly",
-        "ぜひ"
-      ],
-      "answer": "ぜひ"
-    }
-  ],
-  "#jbp_1_unit7_lesson16": [
-    {
-      "question": [
-        "true",
-        "ほんとう"
-      ],
-      "answer": "ほんとう"
-    },
-    {
-      "question": [
-        "portable shrine (carried during festivals)",
-        "おみこし"
-      ],
-      "answer": "おみこし"
-    },
-    {
-      "question": [
-        "to carry (on one's shoulders)",
-        "かつぎます(かつぐ)"
-      ],
-      "answer": "かつぎます(かつぐ)"
-    },
-    {
-      "question": [
-        "but",
-        "でも"
-      ],
-      "answer": "でも"
-    },
-    {
-      "question": [
-        "happi coat",
-        "はっぴ"
-      ],
-      "answer": "はっぴ"
-    },
-    {
-      "question": [
-        "mine",
-        "わたしの"
-      ],
-      "answer": "わたしの"
-    },
-    {
-      "question": [
-        "to lend",
-        "かします(かす)"
-      ],
-      "answer": "かします(かす)"
-    },
-    {
-      "question": [
-        "is it all right?",
-        "いいんですか"
-      ],
-      "answer": "いいんですか"
-    },
-    {
-      "question": [
-        "to turn on",
-        "つけます(つける)"
-      ],
-      "answer": "つけます(つける)"
-    },
-    {
-      "question": [
-        "to turn off",
-        "けします(けす)"
-      ],
-      "answer": "けします(けす)"
-    },
-    {
-      "question": [
-        "to carry, hold",
-        "もちます(もつ)"
-      ],
-      "answer": "もちます(もつ)"
-    },
-    {
-      "question": [
-        "to open",
-        "あけます(あける)"
-      ],
-      "answer": "あけます(あける)"
-    },
-    {
-      "question": [
-        "to close, shut",
-        "しめます(しめる)"
-      ],
-      "answer": "しめます(しめる)"
-    },
-    {
-      "question": [
-        "photograph",
-        "しゃしん"
-      ],
-      "answer": "しゃしん"
-    },
-    {
-      "question": [
-        "take (a photograph)",
-        "しゃしんをとります(とる)"
-      ],
-      "answer": "しゃしんをとります(とる)"
-    },
-    {
-      "question": [
-        "time",
-        "じかん"
-      ],
-      "answer": "じかん"
-    },
-    {
-      "question": [
-        "class",
-        "じゅぎょう"
-      ],
-      "answer": "じゅぎょう"
-    },
-    {
-      "question": [
-        "map",
-        "ちず"
-      ],
-      "answer": "ちず"
-    },
-    {
-      "question": [
-        "luggage, baggage",
-        "にもつ"
-      ],
-      "answer": "にもつ"
-    },
-    {
-      "question": [
-        "door",
-        "ドア"
-      ],
-      "answer": "どあ"
-    },
-    {
-      "question": [
-        "window",
-        "まど"
-      ],
-      "answer": "まど"
-    },
-    {
-      "question": [
-        "air conditioner",
-        "エアコン"
-      ],
-      "answer": "えあこん"
-    },
-    {
-      "question": [
-        "money",
-        "おかね"
-      ],
-      "answer": "おかね"
-    },
-    {
-      "question": [
-        "this evening",
-        "こんばん"
-      ],
-      "answer": "こんばん"
-    },
-    {
-      "question": [
-        "next time",
-        "またこんど"
-      ],
-      "answer": "またこんど"
-    },
-    {
-      "question": [
-        "golf club",
-        "クラブ"
-      ],
-      "answer": "くらぶ"
-    },
-    {
-      "question": [
-        "tool, equipment",
-        "どうぐ"
-      ],
-      "answer": "どうぐ"
-    },
-    {
-      "question": [
-        "to make a photocopy",
-        "コピーをします"
-      ],
-      "answer": "こぴーをします"
-    },
-    {
-      "question": [
-        "tennis racket",
-        "ラケット"
-      ],
-      "answer": "らけっと"
-    },
-    {
-      "question": [
-        "painful, ouch!",
-        "いたい"
-      ],
-      "answer": "いたい"
-    },
-    {
-      "question": [
-        "are you all right?",
-        "だいじょうぶですか"
-      ],
-      "answer": "だいじょうぶですか"
-    },
-    {
-      "question": [
-        "I'm sorry (for what I did a while ago)",
-        "すみませんでした"
-      ],
-      "answer": "すみませんでした"
-    },
-    {
-      "question": [
-        "I feel out of sorts, I don't feel well",
-        "きぶんがわるいです"
-      ],
-      "answer": "きぶんがわるいです"
-    },
-    {
-      "question": [
-        "bench",
-        "ベンチ"
-      ],
-      "answer": "べんち"
-    },
-    {
-      "question": [
-        "to rest, relax, take time off",
-        "やすみます(やすむ)"
-      ],
-      "answer": "やすみます(やすむ)"
-    }
-  ],
-  "#jbp_1_unit8_lesson17": [
-    {
-      "question": [
-        "do you have a moment?",
-        "ちょっとよろしいですか"
-      ],
-      "answer": "ちょっとよろしいですか"
-    },
-    {
-      "question": [
-        "good, all right (polite form of いい; used in interrogative sentences)",
-        "よろしい"
-      ],
-      "answer": "よろしい"
-    },
-    {
-      "question": [
-        "sales, marketing",
-        "はんばい"
-      ],
-      "answer": "はんばい"
-    },
-    {
-      "question": [
-        "after (time)",
-        "のあとで"
-      ],
-      "answer": "のあとで"
-    },
-    {
-      "question": [
-        "factory, manufacturing plant",
-        "こうじょう"
-      ],
-      "answer": "こうじょう"
-    },
-    {
-      "question": [
-        "(electric) light",
-        "でんき"
-      ],
-      "answer": "でんき"
-    },
-    {
-      "question": [
-        "report",
-        "レポート"
-      ],
-      "answer": "れぽーと"
-    },
-    {
-      "question": [
-        "art museum",
-        "びじゅつかん"
-      ],
-      "answer": "びじゅつかん"
-    },
-    {
-      "question": [
-        "to hold a meeting",
-        "かいぎをします"
-      ],
-      "answer": "かいぎをします"
-    },
-    {
-      "question": [
-        "why",
-        "どうして"
-      ],
-      "answer": "どうして"
-    },
-    {
-      "question": [
-        "particle indicating a purpose",
-        "に"
-      ],
-      "answer": "に"
-    }
-  ],
-  "#jbp_1_unit8_lesson17_grammar": [
-    {
-      "question": [
-        "buy (ーて form)",
-        "かって"
-      ],
-      "answer": "かって"
-    },
-    {
-      "question": [
-        "meet (ーて form)",
-        "あって"
-      ],
-      "answer": "あって"
-    },
-    {
-      "question": [
-        "return, go home (ーて form)",
-        "かえって"
-      ],
-      "answer": "かえって"
-    },
-    {
-      "question": [
-        "go (ーて form)",
-        "いって"
-      ],
-      "answer": "いって"
-    },
-    {
-      "question": [
-        "write (ーて form)",
-        "かいて"
-      ],
-      "answer": "かいて"
-    },
-    {
-      "question": [
-        "listen (to), ask (ーて form)",
-        "きいて"
-      ],
-      "answer": "きいて"
-    },
-    {
-      "question": [
-        "drink (ーて form)",
-        "のんで"
-      ],
-      "answer": "のんで"
-    },
-    {
-      "question": [
-        "read (ーて form)",
-        "よんで"
-      ],
-      "answer": "よんで"
-    },
-    {
-      "question": [
-        "turn off (ーて form)",
-        "けして"
-      ],
-      "answer": "けして"
-    },
-    {
-      "question": [
-        "eat (ーて form)",
-        "たべて"
-      ],
-      "answer": "たべて"
-    },
-    {
-      "question": [
-        "open (ーて form)",
-        "あけて"
-      ],
-      "answer": "あけて"
-    },
-    {
-      "question": [
-        "close (ーて form)",
-        "しめて"
-      ],
-      "answer": "しめて"
-    },
-    {
-      "question": [
-        "turn on (ーて form)",
-        "つけて"
-      ],
-      "answer": "つけて"
-    },
-    {
-      "question": [
-        "see (ーて form)",
-        "みて"
-      ],
-      "answer": "みて"
-    },
-    {
-      "question": [
-        "come (ーて form)",
-        "きて"
-      ],
-      "answer": "きて"
-    },
-    {
-      "question": [
-        "do (ーて form)",
-        "して"
-      ],
-      "answer": "して"
-    }
-  ],
-  "#jbp_1_unit8_lesson18": [
-    {
-      "question": [
-        "conjunction that joins two clauses (particle)",
-        "が"
-      ],
-      "answer": "が"
-    },
-    {
-      "question": [
-        "product, merchandise",
-        "しょうひん"
-      ],
-      "answer": "しょうひん"
-    },
-    {
-      "question": [
-        "catalog",
-        "カタログ"
-      ],
-      "answer": "かたろぐ"
-    },
-    {
-      "question": [
-        "soon, right away",
-        "すぐ"
-      ],
-      "answer": "すぐ"
-    },
-    {
-      "question": [
-        "please send",
-        "おくってください"
-      ],
-      "answer": "おくってください"
-    },
-    {
-      "question": [
-        "use",
-        "つかいます(つかう)"
-      ],
-      "answer": "つかいます(つかう)"
-    },
-    {
-      "question": [
-        "also, in addition",
-        "それから"
-      ],
-      "answer": "それから"
-    },
-    {
-      "question": [
-        "sample",
-        "サンプル"
-      ],
-      "answer": "さんぷる"
-    },
-    {
-      "question": [
-        "main / central / head office",
-        "ほんしゃ"
-      ],
-      "answer": "ほんしゃ"
-    },
-    {
-      "question": [
-        "indicates a means of telecommunication or post (particle)",
-        "で"
-      ],
-      "answer": "で"
-    },
-    {
-      "question": [
-        "turn",
-        "まがります(まがる)"
-      ],
-      "answer": "まがります(まがる)"
-    },
-    {
-      "question": [
-        "stop, park",
-        "とめます(とめる)"
-      ],
-      "answer": "とめます(とめる)"
-    },
-    {
-      "question": [
-        "say",
-        "いいます(いう)"
-      ],
-      "answer": "いいます(いう)"
-    },
-    {
-      "question": [
-        "teach, show, tell",
-        "おしえます(おしえる)"
-      ],
-      "answer": "おしえます(おしえる)"
-    },
-    {
-      "question": [
-        "bring something",
-        "もってきます(もってくる)"
-      ],
-      "answer": "もってきます(もってくる)"
-    },
-    {
-      "question": [
-        "deliver",
-        "とどけます(とどける)"
-      ],
-      "answer": "とどけます(とどける)"
-    },
-    {
-      "question": [
-        "wait",
-        "まちます(まつ)(+を)"
-      ],
-      "answer": "まちます(まつ)(+を)"
-    },
-    {
-      "question": [
-        "intersection",
-        "こうさてん"
-      ],
-      "answer": "こうさてん"
-    },
-    {
-      "question": [
-        "traffic signal",
-        "しんごう"
-      ],
-      "answer": "しんごう"
-    },
-    {
-      "question": [
-        "corner",
-        "かど"
-      ],
-      "answer": "かど"
-    },
-    {
-      "question": [
-        "just before",
-        "てまえ"
-      ],
-      "answer": "てまえ"
-    },
-    {
-      "question": [
-        "ahead",
-        "さき"
-      ],
-      "answer": "さき"
-    },
-    {
-      "question": [
-        "straight ahead",
-        "まっすぐ"
-      ],
-      "answer": "まっすぐ"
-    },
-    {
-      "question": [
-        "particle indicating a point of passage",
-        "を"
-      ],
-      "answer": "を"
-    },
-    {
-      "question": [
-        "fax",
-        "ファックス"
-      ],
-      "answer": "ふぁっくす"
-    },
-    {
-      "question": [
-        "airmail",
-        "こうくうびん"
-      ],
-      "answer": "こうくうびん"
-    },
-    {
-      "question": [
-        "surface mail (boat)",
-        "ふなびん"
-      ],
-      "answer": "ふなびん"
-    },
-    {
-      "question": [
-        "courier service",
-        "たくはいびん"
-      ],
-      "answer": "たくはいびん"
-    },
-    {
-      "question": [
-        "next",
-        "つぎ"
-      ],
-      "answer": "つぎ"
-    },
-    {
-      "question": [
-        "pizza",
-        "ピザ"
-      ],
-      "answer": "ぴざ"
-    },
-    {
-      "question": [
-        "menu",
-        "メニュー"
-      ],
-      "answer": "めにゅー"
-    },
-    {
-      "question": [
-        "data, information, material, documents, literature",
-        "しりょう"
-      ],
-      "answer": "しりょう"
-    },
-    {
-      "question": [
-        "mail, post",
-        "ゆうびん"
-      ],
-      "answer": "ゆうびん"
-    },
-    {
-      "question": [
-        "second",
-        "ふたつめ"
-      ],
-      "answer": "ふたつめ"
-    },
-    {
-      "question": [
-        "suffix that attaches to a number and makes it an ordinal number",
-        "め"
-      ],
-      "answer": "め"
-    },
-    {
-      "question": [
-        "(another person's) address",
-        "ごじゅうしょ"
-      ],
-      "answer": "ごじゅうしょ"
-    },
-    {
-      "question": [
-        "by (the time)",
-        "までに"
-      ],
-      "answer": "までに"
-    },
-    {
-      "question": [
-        "to, as far as (particle)",
-        "まで"
-      ],
-      "answer": "まで"
-    },
-    {
-      "question": [
-        "white",
-        "しろい"
-      ],
-      "answer": "しろい"
-    },
-    {
-      "question": [
-        "thanks (colloquial shortening of どうも ありがとう)",
-        "どうも"
-      ],
-      "answer": "どうも"
-    },
-    {
-      "question": [
-        "apartment (in a high-rise building), condominium",
-        "マンション"
-      ],
-      "answer": "まんしょん"
-    },
-    {
-      "question": [
-        "room service",
-        "ルームサービス"
-      ],
-      "answer": "るーむさーびす"
-    },
-    {
-      "question": [
-        "blanket",
-        "もうふ"
-      ],
-      "answer": "もうふ"
-    },
-    {
-      "question": [
-        "how may I help you?",
-        "なんでしょうか"
-      ],
-      "answer": "なんでしょうか"
-    },
-    {
-      "question": [
-        "please take care of",
-        "あずかってください"
-      ],
-      "answer": "あずかってください"
-    },
-    {
-      "question": [
-        "to take care of, to be in charge of",
-        "あずかります(あずかる)"
-      ],
-      "answer": "あずかります(あずかる)"
-    },
-    {
-      "question": [
-        "zebra crossing",
-        "おおだんほどう"
-      ],
-      "answer": "おおだんほどう"
-    },
-    {
-      "question": [
-        "T crossroads",
-        "つきあたり"
-      ],
-      "answer": "つきあたり"
-    },
-    {
-      "question": [
-        "to show",
-        "みせます(みせる)"
-      ],
-      "answer": "みせます(みせる)"
-    }
-  ],
-  "#jbp_1_unit8_lesson18_grammar": [
-    {
-      "question": [
-        "say (-て form)",
-        "いって"
-      ],
-      "answer": "いって"
-    },
-    {
-      "question": [
-        "wait (-て form)",
-        "まって"
-      ],
-      "answer": "まって"
-    },
-    {
-      "question": [
-        "turn (-て form)",
-        "まがって"
-      ],
-      "answer": "まがって"
-    },
-    {
-      "question": [
-        "take (-て form)",
-        "とって"
-      ],
-      "answer": "とって"
-    },
-    {
-      "question": [
-        "lend (-て form)",
-        "かして"
-      ],
-      "answer": "かして"
-    },
-    {
-      "question": [
-        "show (-て form)",
-        "みせて"
-      ],
-      "answer": "みせて"
-    },
-    {
-      "question": [
-        "stop (-て form)",
-        "とめて"
-      ],
-      "answer": "とめて"
-    },
-    {
-      "question": [
-        "teach, show, tell (-て form)",
-        "おしえて"
-      ],
-      "answer": "おしえて"
-    },
-    {
-      "question": [
-        "deliver (-て form)",
-        "とどけて"
-      ],
-      "answer": "とどけて"
-    },
-    {
-      "question": [
-        "bring (-て form)",
-        "もってきて"
-      ],
-      "answer": "もってきて"
-    }
-  ],
-  "#jbp_1_unit8_misc": [
-    {
-      "question": [
-        "get on a train, bus, ...",
-        "のります(のりる)"
-      ],
-      "answer": "のります(のりる)"
-    },
-    {
-      "question": [
-        "get of a train, bus, ...",
-        "おります(おりる)"
-      ],
-      "answer": "おります(おりる)"
-    },
-    {
-      "question": [
-        "and (connects actions)",
-        "そして"
-      ],
-      "answer": "そして"
-    },
-    {
-      "question": [
-        "switch between trains, busses, ...",
-        "のりかえます(のりかえる)"
-      ],
-      "answer": "のりかえます(のりかえる)"
-    },
-    {
-      "question": [
-        "take (time, ...)",
-        "かかります(かかる)"
-      ],
-      "answer": "かかります(かかる)"
-    },
-    {
-      "question": [
-        "need",
-        "いります(いる)(が+)"
-      ],
-      "answer": "いります(いる)(が+)"
-    },
-    {
-      "question": [
-        "between ... and ...",
-        "...と...のあいだに..."
-      ],
-      "answer": "...と...のあいだに..."
-    },
-    {
-      "question": [
-        "sea",
-        "うみ"
-      ],
-      "answer": "うみ"
-    }
-  ],
-  "#jbp_1_unit9_lesson19": [
-    {
-      "question": [
-        "shall we leave?",
-        "でましょうか"
-      ],
-      "answer": "でましょうか"
-    },
-    {
-      "question": [
-        "to go out, leave",
-        "でます(でる)(+を)"
-      ],
-      "answer": "でます(でる)(+を)"
-    },
-    {
-      "question": [
-        "how long(time)",
-        "どのぐらい"
-      ],
-      "answer": "どのぐらい"
-    },
-    {
-      "question": [
-        "to get on (a vehicle), take",
-        "のります(のる)(+に)"
-      ],
-      "answer": "のります(のる)(+に)"
-    },
-    {
-      "question": [
-        "get off (a vehicle)",
-        "おります(おりる)(+を)"
-      ],
-      "answer": "おります(おりる)(+を)"
-    },
-    {
-      "question": [
-        "to arrive",
-        "つきます(つく)(+に)"
-      ],
-      "answer": "つきます(つく)(+に)"
-    },
-    {
-      "question": [
-        "minute(s), suffix",
-        "かん"
-      ],
-      "answer": "かん"
-    },
-    {
-      "question": [
-        "hour (suffix, duration)",
-        "じかん"
-      ],
-      "answer": "じかん"
-    },
-    {
-      "question": [
-        "5 minutes (period of time)",
-        "ごふん(かん)"
-      ],
-      "answer": "ごふん(かん)"
-    },
-    {
-      "question": [
-        "10 minutes (period of time)",
-        "じゅっぷん(かん)"
-      ],
-      "answer": "じゅっぷん(かん)"
-    },
-    {
-      "question": [
-        "15 minutes (period of time)",
-        "じゅうごふん(かん)"
-      ],
-      "answer": "じゅうごふん(かん)"
-    },
-    {
-      "question": [
-        "20 minutes (period of time)",
-        "にじゅっぷん(かん)"
-      ],
-      "answer": "にじゅっぷん(かん)"
-    },
-    {
-      "question": [
-        "25 minutes (period of time)",
-        "にじゅうごふん(かん)"
-      ],
-      "answer": "にじゅうごふん(かん)"
-    },
-    {
-      "question": [
-        "30 minutes (period of time)",
-        "さんじゅっぷん(かん)"
-      ],
-      "answer": "さんじゅっぷん(かん)"
-    },
-    {
-      "question": [
-        "1 hour (period of time)",
-        "いちじかん"
-      ],
-      "answer": "いちじかん"
-    },
-    {
-      "question": [
-        "2 hours (period of time)",
-        "にじかん"
-      ],
-      "answer": "にじかん"
-    },
-    {
-      "question": [
-        "3 hours (period of time)",
-        "さんじかん"
-      ],
-      "answer": "さんじかん"
-    },
-    {
-      "question": [
-        "4 hours (period of time)",
-        "よじかん"
-      ],
-      "answer": "よじかん"
-    },
-    {
-      "question": [
-        "5 hours (period of time)",
-        "ごじかん"
-      ],
-      "answer": "ごじかん"
-    },
-    {
-      "question": [
-        "6 hours (period of time)",
-        "ろくじかん"
-      ],
-      "answer": "ろくじかん"
-    },
-    {
-      "question": [
-        "1 day (period of time)",
-        "いちにち"
-      ],
-      "answer": "いちにち"
-    },
-    {
-      "question": [
-        "2 days (period of time)",
-        "ふつか"
-      ],
-      "answer": "ふつか"
-    },
-    {
-      "question": [
-        "3 days (period of time)",
-        "みっか"
-      ],
-      "answer": "みっか"
-    },
-    {
-      "question": [
-        "4 days (period of time)",
-        "よっか"
-      ],
-      "answer": "よっか"
-    },
-    {
-      "question": [
-        "5 days (period of time)",
-        "いつか"
-      ],
-      "answer": "いつか"
-    },
-    {
-      "question": [
-        "6 days (period of time)",
-        "むいか"
-      ],
-      "answer": "むいか"
-    },
-    {
-      "question": [
-        "1 week",
-        "いっしゅうかん"
-      ],
-      "answer": "いっしゅうかん"
-    },
-    {
-      "question": [
-        "2 weeks",
-        "にしゅうかん"
-      ],
-      "answer": "にしゅうかん"
-    },
-    {
-      "question": [
-        "3 weeks",
-        "さんしゅうかん"
-      ],
-      "answer": "さんしゅうかん"
-    },
-    {
-      "question": [
-        "4 weeks",
-        "よんしゅうかん"
-      ],
-      "answer": "よんしゅうかん"
-    },
-    {
-      "question": [
-        "5 weeks",
-        "ごしゅうかん"
-      ],
-      "answer": "ごしゅうかん"
-    },
-    {
-      "question": [
-        "6 weeks",
-        "ろくしゅうかん"
-      ],
-      "answer": "ろくしゅうかん"
-    },
-    {
-      "question": [
-        "1 month",
-        "いっかげつ"
-      ],
-      "answer": "いっかげつ"
-    },
-    {
-      "question": [
-        "2 months",
-        "にかげつ"
-      ],
-      "answer": "にかげつ"
-    },
-    {
-      "question": [
-        "3 months",
-        "さんかげつ"
-      ],
-      "answer": "さんかげつ"
-    },
-    {
-      "question": [
-        "4 months",
-        "よんかげつ"
-      ],
-      "answer": "よんかげつ"
-    },
-    {
-      "question": [
-        "5 months",
-        "ごかげつ"
-      ],
-      "answer": "ごかげつ"
-    },
-    {
-      "question": [
-        "6 months",
-        "ろっかげつ"
-      ],
-      "answer": "ろっかげつ"
-    },
-    {
-      "question": [
-        "1 year",
-        "いちねん(かん)"
-      ],
-      "answer": "いちねん(かん)"
-    },
-    {
-      "question": [
-        "2 years",
-        "にねん(かん)"
-      ],
-      "answer": "にねん(かん)"
-    },
-    {
-      "question": [
-        "3 years",
-        "さんねん(かん)"
-      ],
-      "answer": "さんねん(かん)"
-    },
-    {
-      "question": [
-        "4 years",
-        "よねん(かん)"
-      ],
-      "answer": "よねん(かん)"
-    },
-    {
-      "question": [
-        "5 years",
-        "ごねん(かん)"
-      ],
-      "answer": "ごねん(かん)"
-    },
-    {
-      "question": [
-        "6 years",
-        "ろくねん(かん)"
-      ],
-      "answer": "ろくねん(かん)"
-    },
-    {
-      "question": [
-        "to walk",
-        "あるきます(あるく)"
-      ],
-      "answer": "あるきます(あるく)"
-    },
-    {
-      "question": [
-        "how, in what way",
-        "どうやって"
-      ],
-      "answer": "どうやって"
-    },
-    {
-      "question": [
-        "New York",
-        "ニューヨーク"
-      ],
-      "answer": "にゅーよーく"
-    },
-    {
-      "question": [
-        "San Francisco",
-        "サンフランシスコ"
-      ],
-      "answer": "さんふらんしすこ"
-    },
-    {
-      "question": [
-        "Paris",
-        "パリ"
-      ],
-      "answer": "ぱり"
-    },
-    {
-      "question": [
-        "musical",
-        "ミュージカル"
-      ],
-      "answer": "みゅーじかる"
-    },
-    {
-      "question": [
-        "fair",
-        "フェア"
-      ],
-      "answer": "ふぇあ"
-    },
-    {
-      "question": [
-        "Honolulu",
-        "ホノルル"
-      ],
-      "answer": "ほのるる"
-    },
-    {
-      "question": [
-        "travel agency",
-        "りょこうがいしゃ"
-      ],
-      "answer": "りょこうがいしゃ"
-    },
-    {
-      "question": [
-        "station employee",
-        "えきいん"
-      ],
-      "answer": "えきいん"
-    },
-    {
-      "question": [
-        "(train) line",
-        "せん"
-      ],
-      "answer": "せん"
-    },
-    {
-      "question": [
-        "platform number one",
-        "1ばんせん"
-      ],
-      "answer": "1ばんせん"
-    },
-    {
-      "question": [
-        "platform number",
-        "ばんせん"
-      ],
-      "answer": "ばんせん"
-    }
-  ],
-  "#jbp_1_unit9_misc_lesson19": [
-    {
-      "question": [
-        "departing at",
-        "はつ"
-      ],
-      "answer": "はつ"
-    },
-    {
-      "question": [
-        "arriving at (time)",
-        "ちゃく"
-      ],
-      "answer": "ちゃく"
-    },
-    {
-      "question": [
-        "one-way ticket",
-        "かたみち"
-      ],
-      "answer": "かたみち"
-    },
-    {
-      "question": [
-        "return ticket",
-        "おうふく"
-      ],
-      "answer": "おうふく"
-    },
-    {
-      "question": [
-        "train going in the direction of (suffix)",
-        "ほうめん"
-      ],
-      "answer": "ほうめん"
-    },
-    {
-      "question": [
-        "to be late for ...",
-        "おくれる(+に)"
-      ],
-      "answer": "おくれる(+に)"
-    }
-  ],
-  "#jbp_1_unit9_misc": [
-    {
-      "question": [
-        "to make a reservation",
-        "よやくします"
-      ],
-      "answer": "よやくします"
-    }
-  ],
-  "#jbp_1_unit9_lesson20": [
-    {
-      "question": [
-        "woodblock print",
-        "うきよえ"
-      ],
-      "answer": "うきよえ"
-    },
-    {
-      "question": [
-        "may I take (a photograph)?",
-        "とってもいいですか"
-      ],
-      "answer": "とってもいいですか"
-    },
-    {
-      "question": [
-        "pamphlet, brochure",
-        "パンフレット"
-      ],
-      "answer": "ぱんふれっと"
-    },
-    {
-      "question": [
-        "smoke (a cigarette)",
-        "たばこをすいます"
-      ],
-      "answer": "たばこをすいます"
-    },
-    {
-      "question": [
-        "cigarette",
-        "たばこ"
-      ],
-      "answer": "たばこ"
-    },
-    {
-      "question": [
-        "(picture) postcard",
-        "えはがき"
-      ],
-      "answer": "えはがき"
-    },
-    {
-      "question": [
-        "recorded guide",
-        "イヤホーンガイド"
-      ],
-      "answer": "いやほーんがいど"
-    },
-    {
-      "question": [
-        "earphones, headphones",
-        "イヤホーン"
-      ],
-      "answer": "いやほーん"
-    },
-    {
-      "question": [
-        "guide",
-        "ガイド"
-      ],
-      "answer": "がいど"
-    },
-    {
-      "question": [
-        "to use (ーて form)",
-        "つかって"
-      ],
-      "answer": "つかって"
-    },
-    {
-      "question": [
-        "to smoke",
-        "すいます(すう)"
-      ],
-      "answer": "すいます(すう)"
-    },
-    {
-      "question": [
-        "to smoke (ーて form)",
-        "すって"
-      ],
-      "answer": "すって"
-    },
-    {
-      "question": [
-        "to enter (ーて form)",
-        "はいって"
-      ],
-      "answer": "はいって"
-    },
-    {
-      "question": [
-        "to rest",
-        "やすみます(やすむ)"
-      ],
-      "answer": "やすみます(やすむ)"
-    },
-    {
-      "question": [
-        "to rest (ーて form)",
-        "やすんで"
-      ],
-      "answer": "やすんで"
-    },
-    {
-      "question": [
-        "customer, client (polite form)",
-        "おきゃくさん"
-      ],
-      "answer": "おきゃくさん"
-    },
-    {
-      "question": [
-        "(business) card",
-        "カード"
-      ],
-      "answer": "かーど"
-    },
-    {
-      "question": [
-        "romanized Japanese",
-        "ローマじ"
-      ],
-      "answer": "ろーまじ"
-    },
-    {
-      "question": [
-        "to put",
-        "おきます(おく)"
-      ],
-      "answer": "おきます(おく)"
-    },
-    {
-      "question": [
-        "to put (ーて form)",
-        "おいて"
-      ],
-      "answer": "おいて"
-    }
-  ],
-  "#jbp_1_unit9_lesson21": [
-    {
-      "question": [
-        "Mt. Fuji",
-        "ふじさん"
-      ],
-      "answer": "ふじさん"
-    },
-    {
-      "question": [
-        "(said when you are about to take someone's photo)",
-        "とりますよ"
-      ],
-      "answer": "とりますよ"
-    },
-    {
-      "question": [
-        "flash",
-        "フラッシュ"
-      ],
-      "answer": "ふらっしゅ"
-    },
-    {
-      "question": [
-        "please don't use",
-        "つかわないでください"
-      ],
-      "answer": "つかわないでください"
-    },
-    {
-      "question": [
-        "to smoke (ーない form)",
-        "すわない"
-      ],
-      "answer": "すわない"
-    },
-    {
-      "question": [
-        "to use (ーない form)",
-        "つかわない"
-      ],
-      "answer": "つかわない"
-    },
-    {
-      "question": [
-        "to stand up",
-        "たちます(たつ)"
-      ],
-      "answer": "たちます(たつ)"
-    },
-    {
-      "question": [
-        "to stand up (ーない form)",
-        "たたない"
-      ],
-      "answer": "たたない"
-    },
-    {
-      "question": [
-        "to drink (ーない form)",
-        "のまない"
-      ],
-      "answer": "のまない"
-    },
-    {
-      "question": [
-        "to take (a photograph) (ーない form)",
-        "とらない"
-      ],
-      "answer": "とらない"
-    },
-    {
-      "question": [
-        "to open (ーない form)",
-        "あけない"
-      ],
-      "answer": "あけない"
-    },
-    {
-      "question": [
-        "to close (ーない form)",
-        "しめない"
-      ],
-      "answer": "しめない"
-    },
-    {
-      "question": [
-        "to stop, park (ーない form)",
-        "とめない"
-      ],
-      "answer": "とめない"
-    },
-    {
-      "question": [
-        "to meet (ーない form)",
-        "あわない"
-      ],
-      "answer": "あわない"
-    },
-    {
-      "question": [
-        "to put in, add",
-        "いれます(いれる)"
-      ],
-      "answer": "いれます(いれる)"
-    },
-    {
-      "question": [
-        "to put in, add (ーない form)",
-        "いれない"
-      ],
-      "answer": "いれない"
-    },
-    {
-      "question": [
-        "no smoking, non-smoking",
-        "きんえん"
-      ],
-      "answer": "きんえん"
-    },
-    {
-      "question": [
-        "no parking",
-        "ちゅうしゃきんし"
-      ],
-      "answer": "ちゅうしゃきんし"
-    },
-    {
-      "question": [
-        "Japanese (green) horseradish",
-        "わさび"
-      ],
-      "answer": "わさび"
-    },
-    {
-      "question": [
-        "exit",
-        "でぐち"
-      ],
-      "answer": "でぐち"
-    },
-    {
-      "question": [
-        "baby",
-        "あかちゃん"
-      ],
-      "answer": "あかちゃん"
-    },
-    {
-      "question": [
-        "ketchup",
-        "ケチャップ"
-      ],
-      "answer": "けちゃっぷ"
-    },
-    {
-      "question": [
-        "mayonnaise",
-        "マヨネーズ"
-      ],
-      "answer": "まよねーず"
-    },
-    {
-      "question": [
-        "iced coffee",
-        "アイスコーヒー"
-      ],
-      "answer": "あいすこーひー"
-    },
-    {
-      "question": [
-        "sugar",
-        "さとう"
-      ],
-      "answer": "さとう"
-    },
-    {
-      "question": [
-        "'don't worry about it', 'don't let it bother you'",
-        "きにしないでください"
-      ],
-      "answer": "きにしないでください"
-    },
-    {
-      "question": [
-        "to worry (about), be bothered (by)",
-        "きにします"
-      ],
-      "answer": "きにします"
-    },
-    {
-      "question": [
-        "(medical) doctor",
-        "いしゃ"
-      ],
-      "answer": "いしゃ"
-    }
-  ],
-  "#jbp_1_unit10_lesson22": [
-    {
-      "question": [
-        "is/are explaining",
-        "せつめいをしています"
-      ],
-      "answer": "せつめいをしています"
-    },
-    {
-      "question": [
-        "to explain",
-        "せつめいをします"
-      ],
-      "answer": "せつめいをします"
-    },
-    {
-      "question": [
-        "sales department (office)",
-        "えいぎょうぶ"
-      ],
-      "answer": "えいぎょうぶ"
-    },
-    {
-      "question": [
-        "but (particle joining two clauses)",
-        "が"
-      ],
-      "answer": "が"
-    },
-    {
-      "question": [
-        "to clean",
-        "そうじをします"
-      ],
-      "answer": "そうじをします"
-    },
-    {
-      "question": [
-        "to make",
-        "つくります(つくる)"
-      ],
-      "answer": "つくります(つくる)"
-    },
-    {
-      "question": [
-        "elevator",
-        "エレベーター"
-      ],
-      "answer": "えれべーたー"
-    },
-    {
-      "question": [
-        "escalator",
-        "エスカレータ"
-      ],
-      "answer": "えすかれーた"
-    },
-    {
-      "question": [
-        "stairs",
-        "かいだん"
-      ],
-      "answer": "かいだん"
-    },
-    {
-      "question": [
-        "already",
-        "もう"
-      ],
-      "answer": "もう"
-    },
-    {
-      "question": [
-        "see you later; talk to you later",
-        "またあとで"
-      ],
-      "answer": "またあとで"
-    },
-    {
-      "question": [
-        "not yet",
-        "まだ"
-      ],
-      "answer": "まだ"
-    },
-    {
-      "question": [
-        "a little more",
-        "もうすこし"
-      ],
-      "answer": "もうすこし"
-    }
-  ],
-  "#jbp_1_unit10_lesson23": [
-    {
-      "question": [
-        "to sell",
-        "うっています"
-      ],
-      "answer": "うっています"
-    },
-    {
-      "question": [
-        "to sell (-masu)",
-        "うります(うる)"
-      ],
-      "answer": "うります(うる)"
-    },
-    {
-      "question": [
-        "to live (-masu)",
-        "すみます(すむ)"
-      ],
-      "answer": "すみます(すむ)"
-    },
-    {
-      "question": [
-        "I'm sorry to have to tell you this (politer way of saying すみません)",
-        "もうしわけございません"
-      ],
-      "answer": "もうしわけございません"
-    },
-    {
-      "question": [
-        "very much, extremely (politer way of saying とても)",
-        "たいへん"
-      ],
-      "answer": "たいへん"
-    },
-    {
-      "question": [
-        "to know",
-        "しっています"
-      ],
-      "answer": "しっています"
-    },
-    {
-      "question": [
-        "to be employed",
-        "つとめています(+に)"
-      ],
-      "answer": "つとめています(+に)"
-    },
-    {
-      "question": [
-        "to be employed (-masu)",
-        "つとめます(つとめる)(+に)"
-      ],
-      "answer": "つとめます(つとめる)(+に)"
-    },
-    {
-      "question": [
-        "child (related)",
-        "こども"
-      ],
-      "answer": "こども"
-    },
-    {
-      "question": [
-        "child (unrelated)",
-        "おこさん"
-      ],
-      "answer": "おこさん"
-    },
-    {
-      "question": [
-        "son (related)",
-        "むすこ"
-      ],
-      "answer": "むすこ"
-    },
-    {
-      "question": [
-        "son (unrelated)",
-        "むすこさん"
-      ],
-      "answer": "むすこさん"
-    },
-    {
-      "question": [
-        "daughter (related)",
-        "むすめ"
-      ],
-      "answer": "むすめ"
-    },
-    {
-      "question": [
-        "daughter (unrelated)",
-        "おじょうさん"
-      ],
-      "answer": "おじょうさん"
-    },
-    {
-      "question": [
-        "older brother (related)",
-        "あに"
-      ],
-      "answer": "あに"
-    },
-    {
-      "question": [
-        "older brother (unrelated)",
-        "おにいさん"
-      ],
-      "answer": "おにいさん"
-    },
-    {
-      "question": [
-        "older sister (related)",
-        "あね"
-      ],
-      "answer": "あね"
-    },
-    {
-      "question": [
-        "older sister (unrelated)",
-        "おねえさん"
-      ],
-      "answer": "おねえさん"
-    },
-    {
-      "question": [
-        "younger brother (related)",
-        "おとうと"
-      ],
-      "answer": "おとうと"
-    },
-    {
-      "question": [
-        "younger brother (unrelated)",
-        "おとうとさん"
-      ],
-      "answer": "おとうとさん"
-    },
-    {
-      "question": [
-        "younger sister (related)",
-        "いもうと"
-      ],
-      "answer": "いもうと"
-    },
-    {
-      "question": [
-        "younger sister (unrelated)",
-        "いもうとさん"
-      ],
-      "answer": "いもうとさん"
-    },
-    {
-      "question": [
-        "and (connecting sentences)",
-        "そして"
-      ],
-      "answer": "そして"
-    },
-    {
-      "question": [
-        "electronics store",
-        "でんきや"
-      ],
-      "answer": "でんきや"
-    },
-    {
-      "question": [
-        "maple syrup",
-        "メープルシロップ"
-      ],
-      "answer": "めーぷるしろっぷ"
-    },
-    {
-      "question": [
-        "actually, I don't know",
-        "さあわかりません"
-      ],
-      "answer": "さあわかりません"
-    }
-  ],
-  "#jbp_1_unit10_misc_lesson23": [
-    {
-      "question": [
-        "to know (-masu)",
-        "しります(しる)"
-      ],
-      "answer": "しります(しる)"
-    }
-  ],
-  "#jbp_1_unit10_misc_lesson22": [
-    {
-      "question": [
-        "to be lean",
-        "やせています"
-      ],
-      "answer": "やせています"
-    },
-    {
-      "question": [
-        "to be fat",
-        "ふとっています"
-      ],
-      "answer": "ふとっています"
-    },
-    {
-      "question": [
-        "to sit down",
-        "すわります(すわる)"
-      ],
-      "answer": "すわります(すわる)"
-    },
-    {
-      "question": [
-        "to be seated",
-        "すわっています"
-      ],
-      "answer": "すわっています"
-    },
-    {
-      "question": [
-        "to wear (from the neck down, above the waist)",
-        "きています"
-      ],
-      "answer": "きています"
-    },
-    {
-      "question": [
-        "to wear (glasses)",
-        "かけています"
-      ],
-      "answer": "かけています"
-    },
-    {
-      "question": [
-        "to wear (from the waist down)",
-        "はいています"
-      ],
-      "answer": "はいています"
-    },
-    {
-      "question": [
-        "to wear (on the head)",
-        "かぶっています"
-      ],
-      "answer": "かぶっています"
-    },
-    {
-      "question": [
-        "parents",
-        "（ご）りょうしん"
-      ],
-      "answer": "（ご）りょうしん"
-    },
-    {
-      "question": [
-        "grandmother",
-        "そぼ　（おばあさん）"
-      ],
-      "answer": "そぼ　（おばあさん）"
-    },
-    {
-      "question": [
-        "grandfather",
-        "そふ　（おじいさん）"
-      ],
-      "answer": "そふ　（おじいさん）"
-    },
-    {
-      "question": [
-        "siblings",
-        "（ご）きょうだい"
-      ],
-      "answer": "（ご）きょうだい"
-    },
-    {
-      "question": [
-        "sisters",
-        "（ご）しまい"
-      ],
-      "answer": "（ご）しまい"
-    },
-    {
-      "question": [
-        "grandchildren",
-        "まご　（おまごさん）"
-      ],
-      "answer": "まご　（おまごさん）"
-    },
-    {
-      "question": [
-        "uncle",
-        "おじ（さん）"
-      ],
-      "answer": "おじ（さん）"
-    },
-    {
-      "question": [
-        "aunt",
-        "おば（さん）"
-      ],
-      "answer": "おば（さん）"
-    },
-    {
-      "question": [
-        "nephew",
-        "おい（ごさん）"
-      ],
-      "answer": "おい（ごさん）"
-    },
-    {
-      "question": [
-        "niece",
-        "めい（ごさん）"
-      ],
-      "answer": "めい（ごさん）"
-    },
-    {
-      "question": [
-        "cousin",
-        "いとこ（さん）"
-      ],
-      "answer": "いとこ（さん）"
-    },
-    {
-      "question": [
-        "short (person)",
-        "せがひくい"
-      ],
-      "answer": "せがひくい"
-    },
-    {
-      "question": [
-        "tall (person)",
-        "せがたかい"
-      ],
-      "answer": "せがたかい"
-    },
-    {
-      "question": [
-        "at that moment",
-        "のとき"
-      ],
-      "answer": "のとき"
-    },
-    {
-      "question": [
-        "short, low",
-        "ひく"
-      ],
-      "answer": "ひく"
-    },
-    {
-      "question": [
-        "eye",
-        "め"
-      ],
-      "answer": "め"
-    },
-    {
-      "question": [
-        "to get fat",
-        "ふとる"
-      ],
-      "answer": "ふとる"
-    },
-    {
-      "question": [
-        "to put on (clothes, above the waist)",
-        "きます(きる)"
-      ],
-      "answer": "きます(きる)"
-    },
-    {
-      "question": [
-        "happy new year (31 december)",
-        "よいおとしを"
-      ],
-      "answer": "よいおとしを"
-    },
-    {
-      "question": [
-        "happy new year (1 january)",
-        "あけまして　おめでとう"
-      ],
-      "answer": "あけまして　おめでとう"
-    },
-    {
-      "question": [
-        "to contain (e.g. a dish)",
-        "はいています(+に,+が)"
-      ],
-      "answer": "はいています(+に,+が)"
-    },
-    {
-      "question": [
-        "to comprise (e.g. a set meal)",
-        "ついています(+に,+が)"
-      ],
-      "answer": "ついています(+に,+が)"
-    },
-    {
-      "question": [
-        "cheese",
-        "チーズ"
-      ],
-      "answer": "ちーず"
-    },
-    {
-      "question": [
-        "tomato",
-        "トマト"
-      ],
-      "answer": "とまと"
-    },
-    {
-      "question": [
-        "lettuce",
-        "レタス"
-      ],
-      "answer": "れたす"
-    },
-    {
-      "question": [
-        "pickles",
-        "ピクルス"
-      ],
-      "answer": "ぴくるす"
-    },
-    {
-      "question": [
-        "fried noodles",
-        "やきそば"
-      ],
-      "answer": "やきそば"
-    },
-    {
-      "question": [
-        "pork meat",
-        "ぶたにく"
-      ],
-      "answer": "ぶたにく"
-    },
-    {
-      "question": [
-        "shrimp",
-        "えび"
-      ],
-      "answer": "えび"
-    },
-    {
-      "question": [
-        "tofu",
-        "とうふ"
-      ],
-      "answer": "とうふ"
-    },
-    {
-      "question": [
-        "ginger",
-        "しょうが"
-      ],
-      "answer": "しょうが"
-    },
-    {
-      "question": [
-        "chili pepper",
-        "とうがらし"
-      ],
-      "answer": "とうがらし"
-    },
-    {
-      "question": [
-        "set menu",
-        "セット"
-      ],
-      "answer": "せっと"
-    },
-    {
-      "question": [
-        "boiled rice, meal",
-        "ごはん"
-      ],
-      "answer": "ごはん"
-    },
-    {
-      "question": [
-        "miso soup",
-        "みそしる"
-      ],
-      "answer": "みそしる"
-    },
-    {
-      "question": [
-        "breakfast menu",
-        "モーニングセット"
-      ],
-      "answer": "もーにんぐせっと"
-    },
-    {
-      "question": [
-        "toast",
-        "トースト"
-      ],
-      "answer": "とーすと"
-    },
-    {
-      "question": [
-        "egg",
-        "たまご"
-      ],
-      "answer": "たまご"
-    }
-  ],
-  "#jbp_1_unit10_misc": [
-    {
-      "question": [
-        "evening, night",
-        "よる"
-      ],
-      "answer": "よる"
-    },
-    {
-      "question": [
-        "hobby",
-        "しゅみ"
-      ],
-      "answer": "しゅみ"
-    },
-    {
-      "question": [
-        "to borrow",
-        "かります(かりる)"
-      ],
-      "answer": "かります(かりる)"
-    },
-    {
-      "question": [
-        "to swim",
-        "およぎます(およぐ)"
-      ],
-      "answer": "およぎます(およぐ)"
-    },
-    {
-      "question": [
-        "to yell",
-        "よびます(よぶ)"
-      ],
-      "answer": "よびます(よぶ)"
-    }
-  ],
-  "#jbp_1_unit11_lesson24": [
-    {
-      "question": [
-        "be skilled, be good at (-na adj.)",
-        "じょうずです"
-      ],
-      "answer": "じょうずです"
-    },
-    {
-      "question": [
-        "like (-na adj.)",
-        "すきです"
-      ],
-      "answer": "すきです"
-    },
-    {
-      "question": [
-        "understand",
-        "わかります"
-      ],
-      "answer": "わかります"
-    },
-    {
-      "question": [
-        "skiing",
-        "スキー"
-      ],
-      "answer": "すきー"
-    },
-    {
-      "question": [
-        "baseball",
-        "やきゅう"
-      ],
-      "answer": "やきゅう"
-    },
-    {
-      "question": [
-        "swimming",
-        "スイエイ"
-      ],
-      "answer": "すいえい"
-    },
-    {
-      "question": [
-        "fruit",
-        "くだもの"
-      ],
-      "answer": "くだもの"
-    },
-    {
-      "question": [
-        "kanji",
-        "かんじ"
-      ],
-      "answer": "かんじ"
-    },
-    {
-      "question": [
-        "whiskey",
-        "ウイスキー"
-      ],
-      "answer": "ういすきー"
-    },
-    {
-      "question": [
-        "dancing",
-        "ダンス"
-      ],
-      "answer": "だんす"
-    },
-    {
-      "question": [
-        "Chinese language",
-        "ちゅうごくご"
-      ],
-      "answer": "ちゅうごくご"
-    },
-    {
-      "question": [
-        "Korean language",
-        "かんこくご"
-      ],
-      "answer": "かんこくご"
-    },
-    {
-      "question": [
-        "German language",
-        "ドイツご"
-      ],
-      "answer": "どいつご"
-    },
-    {
-      "question": [
-        "Italian food",
-        "イタリアりょうり"
-      ],
-      "answer": "いたりありょうり"
-    },
-    {
-      "question": [
-        "jazz",
-        "ジャズ"
-      ],
-      "answer": "じゃず"
-    },
-    {
-      "question": [
-        "piano",
-        "ピアノ"
-      ],
-      "answer": "ぴあの"
-    },
-    {
-      "question": [
-        "ocean, sea",
-        "うみ"
-      ],
-      "answer": "うみ"
-    },
-    {
-      "question": [
-        "French food",
-        "フランスりょうり"
-      ],
-      "answer": "ふらんすりょうり"
-    },
-    {
-      "question": [
-        "that person over there",
-        "あちら"
-      ],
-      "answer": "あちら"
-    },
-    {
-      "question": [
-        "learn, take lessons in",
-        "ならいます"
-      ],
-      "answer": "ならいます"
-    },
-    {
-      "question": [
-        "introduce",
-        "しょうかいします"
-      ],
-      "answer": "しょうかいします"
-    },
-    {
-      "question": [
-        "kendo",
-        "けんどう"
-      ],
-      "answer": "けんどう"
-    },
-    {
-      "question": [
-        "practice",
-        "れんしゅうをします"
-      ],
-      "answer": "れんしゅうをします"
-    },
-    {
-      "question": [
-        "fine, wonderful, lovely (-na adj.)",
-        "すてきな"
-      ],
-      "answer": "すてきな"
-    }
-  ],
-  "#jbp_1_unit11_lesson25": [
-    {
-      "question": [
-        "cooking school",
-        "クッキングスクール"
-      ],
-      "answer": "くっきんぐすくーる"
-    },
-    {
-      "question": [
-        "Japanese food",
-        "にほんりょうり"
-      ],
-      "answer": "にほんりょうり"
-    },
-    {
-      "question": [
-        "want to learn",
-        "ならいたいです"
-      ],
-      "answer": "ならいたいです"
-    },
-    {
-      "question": [
-        "judo",
-        "じゅうどう"
-      ],
-      "answer": "じゅうどう"
-    },
-    {
-      "question": [
-        "flower arranging",
-        "いけばな"
-      ],
-      "answer": "いけばな"
-    },
-    {
-      "question": [
-        "tea ceremony",
-        "おちゃ"
-      ],
-      "answer": "おちゃ"
-    },
-    {
-      "question": [
-        "head",
-        "あたま"
-      ],
-      "answer": "あたま"
-    },
-    {
-      "question": [
-        "tooth",
-        "は"
-      ],
-      "answer": "は"
-    },
-    {
-      "question": [
-        "throat",
-        "のど"
-      ],
-      "answer": "のど"
-    },
-    {
-      "question": [
-        "belly, stomach",
-        "おなか"
-      ],
-      "answer": "おなか"
-    },
-    {
-      "question": [
-        "shoulder",
-        "かた"
-      ],
-      "answer": "かた"
-    },
-    {
-      "question": [
-        "back",
-        "せなか"
-      ],
-      "answer": "せなか"
-    },
-    {
-      "question": [
-        "lower back",
-        "こし"
-      ],
-      "answer": "こし"
-    },
-    {
-      "question": [
-        "hand, arm",
-        "て"
-      ],
-      "answer": "て"
-    },
-    {
-      "question": [
-        "leg, foot",
-        "あし"
-      ],
-      "answer": "あし"
-    },
-    {
-      "question": [
-        "want to go",
-        "いきたいです"
-      ],
-      "answer": "いきたいです"
-    },
-    {
-      "question": [
-        "be painful, hurt",
-        "いたいです"
-      ],
-      "answer": "いたいです"
-    },
-    {
-      "question": [
-        "furniture",
-        "かぐ"
-      ],
-      "answer": "かぐ"
-    },
-    {
-      "question": [
-        "the future",
-        "しょうらい"
-      ],
-      "answer": "しょうらい"
-    },
-    {
-      "question": [
-        "warm",
-        "あたたかい"
-      ],
-      "answer": "あたたかい"
-    },
-    {
-      "question": [
-        "town",
-        "まち"
-      ],
-      "answer": "まち"
-    },
-    {
-      "question": [
-        "what's the matter with you?",
-        "どうしましたか"
-      ],
-      "answer": "どうしましたか"
-    },
-    {
-      "question": [
-        "fever",
-        "ねつ"
-      ],
-      "answer": "ねつ"
-    },
-    {
-      "question": [
-        "degree (heat)",
-        "ーど"
-      ],
-      "answer": "ーど"
-    },
-    {
-      "question": [
-        "farewell party",
-        "そうべつかい"
-      ],
-      "answer": "そうべつかい"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson1": [
-    {
-      "question": [
-        "Smith-san is American．",
-        "スミスさんは　アメリカじんです。"
-      ],
-      "answer": "すみすさんは　あめりかじんです。"
-    },
-    {
-      "question": [
-        "Is Smith-san an American?",
-        "スミスさんは　アメリカじんですか。"
-      ],
-      "answer": "すみすさんは　あめりかじんですか。"
-    },
-    {
-      "question": [
-        "This is Tanaka-san of the Nozomi Department Store.",
-        "こちらは　のぞみデパートの　たなかさんです。"
-      ],
-      "answer": "こちらは　のぞみでぱーとの　たなかさんです。"
-    },
-    {
-      "question": [
-        "[I am] Smith.",
-        "（わたしは）　スミスです。"
-      ],
-      "answer": "（わたしは）　すみすです。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson10": [
-    {
-      "question": [
-        "This book is interesting.",
-        "この　ほん　は　おもしろい　です。"
-      ],
-      "answer": "この　ほん　は　おもしろい　です。"
-    },
-    {
-      "question": [
-        "Tokyo subways are convenient.",
-        "とうきょうのちかてつ　は　べんり　です。"
-      ],
-      "answer": "とうきょうのちかてつ　は　べんり　です。"
-    },
-    {
-      "question": [
-        "Smith-san bought a new computer.",
-        "スミスさん　は　あたらしい　パソコン　を　かいました。"
-      ],
-      "answer": "すみすさん　は　あたらしい　ぱそこん　を　かいました。"
-    },
-    {
-      "question": [
-        "Smith-san went to a famous restaurant yesterday.",
-        "スミスさん　は　きのう　ゆうめい　な　レストラン　に　いきました。"
-      ],
-      "answer": "すみすさん　は　きのう　ゆうめい　な　れすとらん　に　いきました。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson11": [
-    {
-      "question": [
-        "Yesterday, it was cold.",
-        "きのうは　さむいかったです。"
-      ],
-      "answer": "きのうは　さむいかったです。"
-    },
-    {
-      "question": [
-        "Yesterday's festival was lively.",
-        "きのうの　おまつりは　にぎやかでした。"
-      ],
-      "answer": "きのうの　おまつりは　にぎやかでした。"
-    },
-    {
-      "question": [
-        "Smith-san went to the department store, but he did not buy anything.",
-        "スミスさんは　デパートに　いきましたが、なにも　かいませんでした。"
-      ],
-      "answer": "すみすさんは　でぱーとに　いきましたが、なにも　かいませんでした。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson12": [
-    {
-      "question": [
-        "The information desk is on the first floor",
-        "１かい　に　うけつけ　が　あります。"
-      ],
-      "answer": "１かい　に　うけつけ　が　あります。"
-    },
-    {
-      "question": [
-        "There is a woman at the information desk",
-        "おなのひと　が　うけつけ　に　います。"
-      ],
-      "answer": "おなのひと　が　うけつけ　に　います。"
-    },
-    {
-      "question": [
-        "There are flowers on the table",
-        "テブル　の　うえ　に　はな　は　あります。"
-      ],
-      "answer": "てぶる　の　うえ　に　はな　は　あります。"
-    },
-    {
-      "question": [
-        "At Nikko, there are temples, shrines and other sights.",
-        "にっこうに　おてらや　じんじゃが　あります。"
-      ],
-      "answer": "にっこうに　おてらや　じんじゃが　あります。"
-    },
-    {
-      "question": [
-        "What is nearby the ryokan? A big lake, a waterfall and other things are there.",
-        "りょかん　の　ちかく　に　なに　が　あります？おおきい　みずうみ　や　たき　が　あります。"
-      ],
-      "answer": "りょかん　の　ちかく　に　なに　が　あります？おおきい　みずうみ　や　たき　が　あります。"
-    },
-    {
-      "question": [
-        "What is at Hakone? A lake, hotspring, and other things are there.",
-        "はこね　に　なに　が　ありますか？みずうみ　や　おんせん　が　あります。"
-      ],
-      "answer": "はこね　に　なに　が　ありますか？みずうみ　や　おんせん　が　あります。"
-    },
-    {
-      "question": [
-        "No one is there.",
-        "だれも　いますん"
-      ],
-      "answer": "だれも　いますん"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson13": [
-    {
-      "question": [
-        "There are six chairs in the meeting room.",
-        "かいぎしつ　に　いす　が　むっつ　あります。"
-      ],
-      "answer": "かいぎしつ　に　いす　が　むっつ　あります。"
-    },
-    {
-      "question": [
-        "There are four guests in the meeting room.",
-        "かいぎしつ　に　おきゃくさん　が　４にん　います。"
-      ],
-      "answer": "かいぎしつ　に　おきゃくさん　が　４にん　います。"
-    },
-    {
-      "question": [
-        "The taxi stand is in front of the station.",
-        "タクシーのりば　は　えきのまえ　に　あります"
-      ],
-      "answer": "たくしーのりば　は　えきのまえ　に　あります"
-    },
-    {
-      "question": [
-        "Smith-san is on the second floor.",
-        "スミスさん　は　２かいに　います。"
-      ],
-      "answer": "すみすさん　は　２かいに　います。"
-    },
-    {
-      "question": [
-        "Smith-san's house is near the station.",
-        "スミスさんのうち　は　えき　から　ちかい　です。"
-      ],
-      "answer": "すみすさんのうち　は　えき　から　ちかい　です。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson14": [
-    {
-      "question": [
-        "Smith-san gave Nakamura-san some flowers.",
-        "スミスさんは　なかむらさんに　はなを　あげました。"
-      ],
-      "answer": "すみすさんは　なかむらさんに　はなを　あげました。"
-    },
-    {
-      "question": [
-        "Smith-san has a meeting tomorrow.",
-        "スミスさんは　あした　かいぎが　あります。"
-      ],
-      "answer": "すみすさんは　あした　かいぎが　あります。"
-    },
-    {
-      "question": [
-        "Nakamura-san received flowers from Smith-san.",
-        "なかむらさんは　スミスさんに　はなを　もらいました。"
-      ],
-      "answer": "なかむらさんは　すみすさんに　はなを　もらいました。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson15": [
-    {
-      "question": [
-        "Chan-san likes wine.",
-        "チャンさんは　ワインが　すきです。"
-      ],
-      "answer": "ちゃんさんは　わいんが　すきです。"
-    },
-    {
-      "question": [
-        "Chan-san is good at Japanese.",
-        "チャンさんは　にほんごが　じょうずです。"
-      ],
-      "answer": "ちゃんさんは　にほんごが　じょうずです。"
-    },
-    {
-      "question": [
-        "Smith-san likes watching soccer matches.",
-        "スミスさんは　サッカーを　みるのが　すきです。"
-      ],
-      "answer": "すみすさんは　さっかーを　みるのが　すきです。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson16": [
-    {
-      "question": [
-        "There is a festival in Asakusa on Saturday.",
-        "どようびに　あさくさで　おまつりが　あります。"
-      ],
-      "answer": "どようびに　あさくさで　おまつりが　あります。"
-    },
-    {
-      "question": [
-        "Shall we see a movie together on the weekend?",
-        "じゅうまつに　いっしょに　えいがを　みませんか。"
-      ],
-      "answer": "じゅうまつに　いっしょに　えいがを　みませんか。"
-    },
-    {
-      "question": [
-        "Let's go together.",
-        "いっしょに　いきましょう。"
-      ],
-      "answer": "いっしょに　いきましょう。"
-    },
-    {
-      "question": [
-        "The weather is nice, so shall we have lunch in the park?",
-        "いい　てんきですから、　こうえんで　ひるごはんを　たべませんか。"
-      ],
-      "answer": "いい　てんきですから、　こうえんで　ひるごはんを　たべませんか。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson17": [
-    {
-      "question": [
-        "(I) want to eat some good sushi.",
-        "（わたしは）おいしい　おすしを　たべたいです。"
-      ],
-      "answer": "（わたしは）おいしい　おすしを　たべたいです。"
-    },
-    {
-      "question": [
-        "Smith-san will send the material before the meeting.",
-        "スミスさんは　かいぎの　まえに　しりょうを　おくります。"
-      ],
-      "answer": "すみすさんは　かいぎの　まえに　しりょうを　おくります。"
-    },
-    {
-      "question": [
-        "Smith-san does stretching exercises every day before going to bed.",
-        "スミスさんは　まいにち　ねる　まえに　ストレッチを　します。"
-      ],
-      "answer": "すみすさんは　まいにち　ねる　まえに　すとれっちを　します。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson18": [
-    {
-      "question": [
-        "Emma-san will go to the Osaka branch office tomorrow and see Chan-san",
-        "エマさんは　あした　おおさかししゃに　いって、チャンさんに　あいます。"
-      ],
-      "answer": "えまさんは　あした　おおさかししゃに　いって、ちゃんさんに　あいます。"
-    },
-    {
-      "question": [
-        "Smith-san wrote a report after the meeting",
-        "スミスさんは　かいぎの　あと、レポートを　かきました。"
-      ],
-      "answer": "すみすさんは　かいぎの　あと、れぽーとを　かきました。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson19": [
-    {
-      "question": [
-        "Please wait a moment.",
-        "ちょっと　まってください"
-      ],
-      "answer": "ちょっと　まってください"
-    },
-    {
-      "question": [
-        "Emma-san sent Chan-san the material by e-mail.",
-        "エマさんは　チャンさんに　メールで　しりょうを　おくりました。"
-      ],
-      "answer": "えまさんは　ちゃんさんに　めーるで　しりょうを　おくりました。"
-    },
-    {
-      "question": [
-        "Turn right at the next traffic light",
-        "つぎの　しんごうを　みぎに　まがってください。"
-      ],
-      "answer": "つぎの　しんごうを　みぎに　まがってください。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson2": [
-    {
-      "question": [
-        "This is a watch.",
-        "これは　とけいです。"
-      ],
-      "answer": "これは　とけいです。"
-    },
-    {
-      "question": [
-        "This is not a watch.",
-        "これは　とけいありませんです。"
-      ],
-      "answer": "これは　とけいありませんです。"
-    },
-    {
-      "question": [
-        "This is Smith-san's watch.",
-        "これは　スミスさんの　とけいです。"
-      ],
-      "answer": "これは　すみすさんの　とけいです。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson20": [
-    {
-      "question": [
-        "Smith-san will take the Shinkansen from Tokyo Station.",
-        "スミスさんは　とうきょうえきで　しんかんせんに　のります。"
-      ],
-      "answer": "すみすさんは　とうきょうえきで　しんかんせんに　のります。"
-    },
-    {
-      "question": [
-        "Smith-san will get off the Shinkansen at Hiroshima Station",
-        "スミスさんは　ひろしまえきで　しんかんせんを　おります。"
-      ],
-      "answer": "すみすさんは　ひろしまえきで　しんかんせんを　おります。"
-    },
-    {
-      "question": [
-        "It takes four hours from Tokyo to Hiroshima by Shinkansen.",
-        "とうきょうから　ひろしままで　しんかんせんで　４じかん　かかります。"
-      ],
-      "answer": "とうきょうから　ひろしままで　しんかんせんで　４じかん　かかります。"
-    },
-    {
-      "question": [
-        "Smith-san will be in Hiroshima for a week.",
-        "スミスさんは　ひろしまに　１じゅかん　います。"
-      ],
-      "answer": "すみすさんは　ひろしまに　１じゅかん　います。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson21": [
-    {
-      "question": [
-        "May I take a photo of this painting?",
-        "この　えの　しゃしんを　とっても　いいですか。"
-      ],
-      "answer": "この　えの　しゃしんを　とっても　いいですか。"
-    },
-    {
-      "question": [
-        "May I sit here？",
-        "ここに　すわっても　いいですか。"
-      ],
-      "answer": "ここに　すわっても　いいですか。"
-    },
-    {
-      "question": [
-        "I have a headache.",
-        "（わたしは）　あたまが　いたいです。"
-      ],
-      "answer": "（わたしは）　あたまが　いたいです。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson22": [
-    {
-      "question": [
-        "This is the exit, so please do not park your car here.",
-        "ここは　でぐちですから、　くるまを　とめないでください。"
-      ],
-      "answer": "ここは　でぐちですから、　くるまを　とめないでください。"
-    },
-    {
-      "question": [
-        "Please do not add wasabi.",
-        "わさびを　いれないでください。"
-      ],
-      "answer": "わさびを　いれないでください。"
-    },
-    {
-      "question": [
-        "There is a convenience store in front of the station. There is another (convenience store) inside the station.",
-        "えきの　まえに　コンビニが　あります。　えきの　なかにも　（コンビニが）　あります。"
-      ],
-      "answer": "えきの　まえに　こんびにが　あります。　えきの　なかにも　（こんびにが）　あります。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson23": [
-    {
-      "question": [
-        "Smith-san is eating his lunch now.",
-        "スミスさんは　いま　ひるごはんを　たべています"
-      ],
-      "answer": "すみすさんは　いま　ひるごはんを　たべています"
-    },
-    {
-      "question": [
-        "Smith-san is taking Japanese lessons.",
-        "スミスさんは　にほんごを　ならっています。"
-      ],
-      "answer": "すみすさんは　にほんごを　ならっています。"
-    },
-    {
-      "question": [
-        "Have you already read the report?",
-        "もう　レポート＝を　よみましたか。"
-      ],
-      "answer": "もう　れぽーと＝を　よみましたか。"
-    },
-    {
-      "question": [
-        "Green-san likes tempura, but he does not like sushi。",
-        "グリーンさんは　てんぷらは　すきですが、おすしは　すきじゃありません。"
-      ],
-      "answer": "ぐりーんさんは　てんぷらは　すきですが、おすしは　すきじゃありません。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson24": [
-    {
-      "question": [
-        "Smith-san lives in Tokyo.",
-        "スミスさんは　とうきょうに　すんでいます。"
-      ],
-      "answer": "すみすさんは　とうきょうに　すんでいます。"
-    },
-    {
-      "question": [
-        "Smith-san understands Japanese.",
-        "スミスさんは　にほんごが　わかります。"
-      ],
-      "answer": "すみすさんは　にほんごが　わかります。"
-    },
-    {
-      "question": [
-        "Smith-san knows Chan-san.",
-        "スミスさんは　ちゃんさんを　しっています。"
-      ],
-      "answer": "すみすさんは　ちゃんさんを　しっています。"
-    },
-    {
-      "question": [
-        "Smith-san's hobby is reading.",
-        "スミスさんの　しゅみは　ほんを　よむことです。"
-      ],
-      "answer": "すみすさんの　しゅみは　ほんを　よむことです。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson3": [
-    {
-      "question": [
-        "It is 3:00 now.",
-        "いま　３じです。"
-      ],
-      "answer": "いま　３じです。"
-    },
-    {
-      "question": [
-        "Work is from 9:00 to 5:00.",
-        "しごとは　９じから　５じまでです。"
-      ],
-      "answer": "しごとは　９じから　５じまでです。"
-    },
-    {
-      "question": [
-        "The meeting is tomorrow, from 4:00.",
-        "かいぎは　あしたの　４じまでです。"
-      ],
-      "answer": "かいぎは　あしたの　４じまでです。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson4": [
-    {
-      "question": [
-        "That is a smart phone. That one over there is a tablet.",
-        "これは　スマホです。あのは　タブレットです。"
-      ],
-      "answer": "これは　すまほです。あのは　たぶれっとです。"
-    },
-    {
-      "question": [
-        "This one is 3,000 yen.　That one over there is also 3,000 yen.",
-        "これは　３,０００えんです。あれも　３,０００えんです。"
-      ],
-      "answer": "これは　３,０００えんです。あれも　３,０００えんです。"
-    },
-    {
-      "question": [
-        "I would like this one, please.",
-        "これを　ください。"
-      ],
-      "answer": "これを　ください。"
-    },
-    {
-      "question": [
-        "I would like curry and salad, please.",
-        "カレーと　サラダを　おねがいします。"
-      ],
-      "answer": "かれーと　さらだを　おねがいします。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson5": [
-    {
-      "question": [
-        "The restaurant is on the 5th floor.",
-        "レストランは　５かいです。"
-      ],
-      "answer": "れすとらんは　５かいです。"
-    },
-    {
-      "question": [
-        "This t-shirt is 2,000 yen.",
-        "この　Tシャツは　2,000えんです。"
-      ],
-      "answer": "この　Tしゃつは　2,000えんです。"
-    },
-    {
-      "question": [
-        "That blue t-shirt over there is 3,000 yen.",
-        "あの　あかい　Tシャツは　3,０００えんです。"
-      ],
-      "answer": "あの　あかい　Tしゃつは　3,０００えんです。"
-    },
-    {
-      "question": [
-        "This is a wine from France. / This is a French wine.",
-        "これは　フランスの　ワインです。"
-      ],
-      "answer": "これは　ふらんすの　わいんです。"
-    },
-    {
-      "question": [
-        "I would like two bottles of that wine, please.",
-        "この　ワイン　２ほん　ください。"
-      ],
-      "answer": "この　わいん　２ほん　ください。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson6": [
-    {
-      "question": [
-        "Smith-san is going to the bank tomorrow.",
-        "スミスさんは　あした　ぎんこうに　いきます。"
-      ],
-      "answer": "すみすさんは　あした　ぎんこうに　いきます。"
-    },
-    {
-      "question": [
-        "Smith-san went to Osaka last week.",
-        "スミスさんは　せんしゅう　おおさかに　いきました。"
-      ],
-      "answer": "すみすさんは　せんしゅう　おおさかに　いきました。"
-    },
-    {
-      "question": [
-        "Smith-san went to a restaurant with a friend yesterday.",
-        "スミスさん　あした　ともだちと　レストランに　いきました。"
-      ],
-      "answer": "すみすさん　あした　ともだちと　れすとらんに　いきました。"
-    },
-    {
-      "question": [
-        "Smith-san came from the United States last year.",
-        "スミスさんは　きょねん　アメリカに　きました。"
-      ],
-      "answer": "すみすさんは　きょねん　あめりかに　きました。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson7": [
-    {
-      "question": [
-        "Emma-san came to Japan in April.",
-        "エマさん　は　しがつ　に　にほん　に　きました。"
-      ],
-      "answer": "えまさん　は　しがつ　に　にほん　に　きました。"
-    },
-    {
-      "question": [
-        "Smith-san is going to Osaka by shinkansen.",
-        "スミスさん　は　しんかんせん　で　おおさか　に　いきます。"
-      ],
-      "answer": "すみすさん　は　しんかんせん　で　おおさか　に　いきます。"
-    },
-    {
-      "question": [
-        "Is the meeting on the 4th or the 8th?",
-        "かいぎ　は　よっか　ですか、ようか　ですか？"
-      ],
-      "answer": "かいぎ　は　よっか　ですか、ようか　ですか？"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson8": [
-    {
-      "question": [
-        "Smith-san will play tennis tomorrow.",
-        "スミスさんは　あした　テニスを　します。"
-      ],
-      "answer": "すみすさんは　あした　てにすを　します。"
-    },
-    {
-      "question": [
-        "Smith-san ate supper at a restaurant yesterday.",
-        "スミスさんは　きのう　レストランで　ばんごはんを　たべました。"
-      ],
-      "answer": "すみすさんは　きのう　れすとらんで　ばんごはんを　たべました。"
-    },
-    {
-      "question": [
-        "Emma-san did not eat anything at the party.",
-        "エマさんは　パーティーで　なにも　たべませんでした。"
-      ],
-      "answer": "えまさんは　ぱーてぃーで　なにも　たべませんでした。"
-    }
-  ],
-  "#jbp_1_key_sentences_sentences_lesson9": [
-    {
-      "question": [
-        "Smith-san will meet Tanaka-san tomorrow.",
-        "スミスさん　は　あした　たなかさん　に　あいます。"
-      ],
-      "answer": "すみすさん　は　あした　たなかさん　に　あいます。"
-    },
-    {
-      "question": [
-        "Smith-san told Suzuki-san the location of the restraunt.",
-        "スミスさん　は　すずきさん　に　レストラン　の　ばしょ　を　おしえました。"
-      ],
-      "answer": "すみすさん　は　すずきさん　に　れすとらん　の　ばしょ　を　おしえました。"
-    },
-    {
-      "question": [
-        "Smith-san drinks coffee everyday.",
-        "スミスさん　は　まいにち　コーヒー　を　のみます。"
-      ],
-      "answer": "すみすさん　は　まいにち　こーひー　を　のみます。"
     }
   ]
 };
