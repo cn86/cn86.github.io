@@ -271,7 +271,7 @@
                     hint.checked = false;
                 }
             }
-            let cards = deck['cards'].slice(deck_offset - 1, deck_offset + deck_size);
+            let cards = deck['cards'].slice(deck_offset - 1, deck_offset - 1 + deck_size);
             card_set = shuffle(cards);
             max_card_index = card_set.length - 1;
             current_card_index = 0;
