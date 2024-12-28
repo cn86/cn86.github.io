@@ -12,6 +12,10 @@
     <link rel="manifest" href="/site.webmanifest" />
     <style>
         @import 'https://fonts.googleapis.com/css?family=Open+Sans';
+        @font-face {
+            font-family: 'kanji';
+            src: url('KanjiStrokeOrders_v4.004.ttf');
+        }
         * {
             -webkit-box-sizing: border-box;
             box-sizing: border-box;
@@ -109,126 +113,181 @@
                 font-size: 18px;
             }
         }
+        input[type='number']{
+            width: 50px;
+        }
     </style>
 </head>
 <body>
     <div id="controls">
-        <a href="#" onclick="load_deck('');">Home</a>
-        <button type="button" onclick="set_questions(get_question_choice());">Reset</button>
-        <button type="button" onclick="next_question();">Skip</button>
-        <input type="checkbox" id="hint-toggle" onclick="toggle_hint_setting();">
+        <div>
+            <select id="deck-select" onchange="set_deck_options_hash();load_deck_options();">
+<option value="counters">counters</option><option value="kaishi15k">kaishi15k</option><option value="kaishiRTK">kaishiRTK</option><option value="numbers">numbers</option><option value="time">time</option>
+            </select>
+            <select id="deck-size-select" onchange="set_deck_options_hash();load_deck_options();">
+                <option value="10" selected>10</option>
+                <option value="20">20</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+            </select>
+            <input type="number" id="deck-offset" min="1" value="1" onchange="set_deck_options_hash();load_deck_options();">
+        </div>
+        <div>
+            J:<input type="checkbox" id="show-japanese" onclick="toggle_card_info();" checked>
+            F:<input type="checkbox" id="show-furigana" onclick="toggle_card_info();">
+            E:<input type="checkbox" id="show-english" onclick="toggle_card_info();">
+            K:<input type="checkbox" id="show-kana" onclick="toggle_card_info();">
+        </div>
+        <div>
+            <button type="button" onclick="set_deck_options_hash();load_deck_options();">Reset</button>
+            <button type="button" onclick="next_question();">Skip</button>
+        </div>
     </div>
 
     <div id="q-and-a">
-        <h1 id="question" onclick="temporarily_show_hide_hint();"></h1>
-        <p id="hint"></p>
+        <div id="question-container" onclick="temporarily_show_card_info();">
+            <p id="card-japanese"></p>
+            <p id="card-furigana"></p>
+            <p id="card-english"></p>
+            <p id="card-kana"></p>
+        </div>
         <div id="answer-container">
             <input type="text" id="answer" onkeyup="check_answer();">
         </div>
     </div>
-    <div id="question-sets">
-        <ul>
-<li><a href="#00_counters_00" onclick="load_deck('#00_counters_00');">00_counters_00</a></li><li><a href="#00_numbers_00" onclick="load_deck('#00_numbers_00');">00_numbers_00</a></li><li><a href="#00_time_00" onclick="load_deck('#00_time_00');">00_time_00</a></li><li><a href="#01_kaishi15k_hiragana_00" onclick="load_deck('#01_kaishi15k_hiragana_00');">01_kaishi15k_hiragana_00</a></li><li><a href="#01_kaishi15k_hiragana_01" onclick="load_deck('#01_kaishi15k_hiragana_01');">01_kaishi15k_hiragana_01</a></li><li><a href="#01_kaishi15k_hiragana_02" onclick="load_deck('#01_kaishi15k_hiragana_02');">01_kaishi15k_hiragana_02</a></li><li><a href="#01_kaishi15k_hiragana_03" onclick="load_deck('#01_kaishi15k_hiragana_03');">01_kaishi15k_hiragana_03</a></li><li><a href="#01_kaishi15k_hiragana_04" onclick="load_deck('#01_kaishi15k_hiragana_04');">01_kaishi15k_hiragana_04</a></li><li><a href="#01_kaishi15k_hiragana_05" onclick="load_deck('#01_kaishi15k_hiragana_05');">01_kaishi15k_hiragana_05</a></li><li><a href="#01_kaishi15k_hiragana_06" onclick="load_deck('#01_kaishi15k_hiragana_06');">01_kaishi15k_hiragana_06</a></li><li><a href="#01_kaishi15k_hiragana_07" onclick="load_deck('#01_kaishi15k_hiragana_07');">01_kaishi15k_hiragana_07</a></li><li><a href="#01_kaishi15k_hiragana_08" onclick="load_deck('#01_kaishi15k_hiragana_08');">01_kaishi15k_hiragana_08</a></li><li><a href="#01_kaishi15k_hiragana_09" onclick="load_deck('#01_kaishi15k_hiragana_09');">01_kaishi15k_hiragana_09</a></li><li><a href="#01_kaishi15k_hiragana_10" onclick="load_deck('#01_kaishi15k_hiragana_10');">01_kaishi15k_hiragana_10</a></li><li><a href="#01_kaishi15k_hiragana_11" onclick="load_deck('#01_kaishi15k_hiragana_11');">01_kaishi15k_hiragana_11</a></li><li><a href="#01_kaishi15k_hiragana_12" onclick="load_deck('#01_kaishi15k_hiragana_12');">01_kaishi15k_hiragana_12</a></li><li><a href="#01_kaishi15k_hiragana_13" onclick="load_deck('#01_kaishi15k_hiragana_13');">01_kaishi15k_hiragana_13</a></li><li><a href="#01_kaishi15k_hiragana_14" onclick="load_deck('#01_kaishi15k_hiragana_14');">01_kaishi15k_hiragana_14</a></li><li><a href="#01_kaishi15k_hiragana_15" onclick="load_deck('#01_kaishi15k_hiragana_15');">01_kaishi15k_hiragana_15</a></li><li><a href="#01_kaishi15k_hiragana_16" onclick="load_deck('#01_kaishi15k_hiragana_16');">01_kaishi15k_hiragana_16</a></li><li><a href="#01_kaishi15k_hiragana_17" onclick="load_deck('#01_kaishi15k_hiragana_17');">01_kaishi15k_hiragana_17</a></li><li><a href="#01_kaishi15k_hiragana_18" onclick="load_deck('#01_kaishi15k_hiragana_18');">01_kaishi15k_hiragana_18</a></li><li><a href="#01_kaishi15k_hiragana_19" onclick="load_deck('#01_kaishi15k_hiragana_19');">01_kaishi15k_hiragana_19</a></li><li><a href="#01_kaishi15k_hiragana_20" onclick="load_deck('#01_kaishi15k_hiragana_20');">01_kaishi15k_hiragana_20</a></li><li><a href="#01_kaishi15k_hiragana_21" onclick="load_deck('#01_kaishi15k_hiragana_21');">01_kaishi15k_hiragana_21</a></li><li><a href="#01_kaishi15k_hiragana_22" onclick="load_deck('#01_kaishi15k_hiragana_22');">01_kaishi15k_hiragana_22</a></li><li><a href="#01_kaishi15k_hiragana_23" onclick="load_deck('#01_kaishi15k_hiragana_23');">01_kaishi15k_hiragana_23</a></li><li><a href="#01_kaishi15k_hiragana_24" onclick="load_deck('#01_kaishi15k_hiragana_24');">01_kaishi15k_hiragana_24</a></li><li><a href="#01_kaishi15k_hiragana_25" onclick="load_deck('#01_kaishi15k_hiragana_25');">01_kaishi15k_hiragana_25</a></li><li><a href="#01_kaishi15k_hiragana_26" onclick="load_deck('#01_kaishi15k_hiragana_26');">01_kaishi15k_hiragana_26</a></li><li><a href="#01_kaishi15k_hiragana_27" onclick="load_deck('#01_kaishi15k_hiragana_27');">01_kaishi15k_hiragana_27</a></li><li><a href="#01_kaishi15k_hiragana_28" onclick="load_deck('#01_kaishi15k_hiragana_28');">01_kaishi15k_hiragana_28</a></li><li><a href="#01_kaishi15k_hiragana_29" onclick="load_deck('#01_kaishi15k_hiragana_29');">01_kaishi15k_hiragana_29</a></li><li><a href="#01_kaishi15k_hiragana_30" onclick="load_deck('#01_kaishi15k_hiragana_30');">01_kaishi15k_hiragana_30</a></li><li><a href="#01_kaishi15k_hiragana_31" onclick="load_deck('#01_kaishi15k_hiragana_31');">01_kaishi15k_hiragana_31</a></li><li><a href="#01_kaishi15k_hiragana_32" onclick="load_deck('#01_kaishi15k_hiragana_32');">01_kaishi15k_hiragana_32</a></li><li><a href="#01_kaishi15k_hiragana_33" onclick="load_deck('#01_kaishi15k_hiragana_33');">01_kaishi15k_hiragana_33</a></li><li><a href="#01_kaishi15k_hiragana_34" onclick="load_deck('#01_kaishi15k_hiragana_34');">01_kaishi15k_hiragana_34</a></li><li><a href="#01_kaishi15k_hiragana_35" onclick="load_deck('#01_kaishi15k_hiragana_35');">01_kaishi15k_hiragana_35</a></li><li><a href="#01_kaishi15k_hiragana_36" onclick="load_deck('#01_kaishi15k_hiragana_36');">01_kaishi15k_hiragana_36</a></li><li><a href="#01_kaishi15k_hiragana_37" onclick="load_deck('#01_kaishi15k_hiragana_37');">01_kaishi15k_hiragana_37</a></li><li><a href="#01_kaishi15k_hiragana_38" onclick="load_deck('#01_kaishi15k_hiragana_38');">01_kaishi15k_hiragana_38</a></li><li><a href="#01_kaishi15k_hiragana_39" onclick="load_deck('#01_kaishi15k_hiragana_39');">01_kaishi15k_hiragana_39</a></li><li><a href="#01_kaishi15k_hiragana_40" onclick="load_deck('#01_kaishi15k_hiragana_40');">01_kaishi15k_hiragana_40</a></li><li><a href="#01_kaishi15k_hiragana_41" onclick="load_deck('#01_kaishi15k_hiragana_41');">01_kaishi15k_hiragana_41</a></li><li><a href="#01_kaishi15k_hiragana_42" onclick="load_deck('#01_kaishi15k_hiragana_42');">01_kaishi15k_hiragana_42</a></li><li><a href="#01_kaishi15k_hiragana_43" onclick="load_deck('#01_kaishi15k_hiragana_43');">01_kaishi15k_hiragana_43</a></li><li><a href="#01_kaishi15k_hiragana_44" onclick="load_deck('#01_kaishi15k_hiragana_44');">01_kaishi15k_hiragana_44</a></li><li><a href="#01_kaishi15k_hiragana_45" onclick="load_deck('#01_kaishi15k_hiragana_45');">01_kaishi15k_hiragana_45</a></li><li><a href="#01_kaishi15k_hiragana_46" onclick="load_deck('#01_kaishi15k_hiragana_46');">01_kaishi15k_hiragana_46</a></li><li><a href="#01_kaishi15k_hiragana_47" onclick="load_deck('#01_kaishi15k_hiragana_47');">01_kaishi15k_hiragana_47</a></li><li><a href="#01_kaishi15k_hiragana_48" onclick="load_deck('#01_kaishi15k_hiragana_48');">01_kaishi15k_hiragana_48</a></li><li><a href="#01_kaishi15k_hiragana_49" onclick="load_deck('#01_kaishi15k_hiragana_49');">01_kaishi15k_hiragana_49</a></li><li><a href="#01_kaishi15k_hiragana_50" onclick="load_deck('#01_kaishi15k_hiragana_50');">01_kaishi15k_hiragana_50</a></li><li><a href="#01_kaishi15k_hiragana_51" onclick="load_deck('#01_kaishi15k_hiragana_51');">01_kaishi15k_hiragana_51</a></li><li><a href="#01_kaishi15k_hiragana_52" onclick="load_deck('#01_kaishi15k_hiragana_52');">01_kaishi15k_hiragana_52</a></li><li><a href="#01_kaishi15k_hiragana_53" onclick="load_deck('#01_kaishi15k_hiragana_53');">01_kaishi15k_hiragana_53</a></li><li><a href="#01_kaishi15k_hiragana_54" onclick="load_deck('#01_kaishi15k_hiragana_54');">01_kaishi15k_hiragana_54</a></li><li><a href="#01_kaishi15k_hiragana_55" onclick="load_deck('#01_kaishi15k_hiragana_55');">01_kaishi15k_hiragana_55</a></li><li><a href="#01_kaishi15k_hiragana_56" onclick="load_deck('#01_kaishi15k_hiragana_56');">01_kaishi15k_hiragana_56</a></li><li><a href="#01_kaishi15k_hiragana_57" onclick="load_deck('#01_kaishi15k_hiragana_57');">01_kaishi15k_hiragana_57</a></li><li><a href="#01_kaishi15k_hiragana_58" onclick="load_deck('#01_kaishi15k_hiragana_58');">01_kaishi15k_hiragana_58</a></li><li><a href="#01_kaishi15k_hiragana_59" onclick="load_deck('#01_kaishi15k_hiragana_59');">01_kaishi15k_hiragana_59</a></li><li><a href="#01_kaishi15k_hiragana_60" onclick="load_deck('#01_kaishi15k_hiragana_60');">01_kaishi15k_hiragana_60</a></li><li><a href="#01_kaishi15k_hiragana_61" onclick="load_deck('#01_kaishi15k_hiragana_61');">01_kaishi15k_hiragana_61</a></li><li><a href="#01_kaishi15k_hiragana_62" onclick="load_deck('#01_kaishi15k_hiragana_62');">01_kaishi15k_hiragana_62</a></li><li><a href="#01_kaishi15k_hiragana_63" onclick="load_deck('#01_kaishi15k_hiragana_63');">01_kaishi15k_hiragana_63</a></li><li><a href="#01_kaishi15k_hiragana_64" onclick="load_deck('#01_kaishi15k_hiragana_64');">01_kaishi15k_hiragana_64</a></li><li><a href="#01_kaishi15k_hiragana_65" onclick="load_deck('#01_kaishi15k_hiragana_65');">01_kaishi15k_hiragana_65</a></li><li><a href="#01_kaishi15k_hiragana_66" onclick="load_deck('#01_kaishi15k_hiragana_66');">01_kaishi15k_hiragana_66</a></li><li><a href="#01_kaishi15k_hiragana_67" onclick="load_deck('#01_kaishi15k_hiragana_67');">01_kaishi15k_hiragana_67</a></li><li><a href="#01_kaishi15k_hiragana_68" onclick="load_deck('#01_kaishi15k_hiragana_68');">01_kaishi15k_hiragana_68</a></li><li><a href="#01_kaishi15k_hiragana_69" onclick="load_deck('#01_kaishi15k_hiragana_69');">01_kaishi15k_hiragana_69</a></li><li><a href="#01_kaishi15k_hiragana_70" onclick="load_deck('#01_kaishi15k_hiragana_70');">01_kaishi15k_hiragana_70</a></li><li><a href="#01_kaishi15k_hiragana_71" onclick="load_deck('#01_kaishi15k_hiragana_71');">01_kaishi15k_hiragana_71</a></li><li><a href="#01_kaishi15k_hiragana_72" onclick="load_deck('#01_kaishi15k_hiragana_72');">01_kaishi15k_hiragana_72</a></li><li><a href="#01_kaishi15k_hiragana_73" onclick="load_deck('#01_kaishi15k_hiragana_73');">01_kaishi15k_hiragana_73</a></li><li><a href="#01_kaishi15k_hiragana_74" onclick="load_deck('#01_kaishi15k_hiragana_74');">01_kaishi15k_hiragana_74</a></li><li><a href="#n5_vocab_00" onclick="load_deck('#n5_vocab_00');">n5_vocab_00</a></li><li><a href="#n5_vocab_01" onclick="load_deck('#n5_vocab_01');">n5_vocab_01</a></li><li><a href="#n5_vocab_02" onclick="load_deck('#n5_vocab_02');">n5_vocab_02</a></li><li><a href="#n5_vocab_03" onclick="load_deck('#n5_vocab_03');">n5_vocab_03</a></li><li><a href="#n5_vocab_04" onclick="load_deck('#n5_vocab_04');">n5_vocab_04</a></li><li><a href="#n5_vocab_05" onclick="load_deck('#n5_vocab_05');">n5_vocab_05</a></li><li><a href="#n5_vocab_06" onclick="load_deck('#n5_vocab_06');">n5_vocab_06</a></li><li><a href="#n5_vocab_07" onclick="load_deck('#n5_vocab_07');">n5_vocab_07</a></li><li><a href="#n5_vocab_08" onclick="load_deck('#n5_vocab_08');">n5_vocab_08</a></li><li><a href="#n5_vocab_09" onclick="load_deck('#n5_vocab_09');">n5_vocab_09</a></li><li><a href="#n5_vocab_10" onclick="load_deck('#n5_vocab_10');">n5_vocab_10</a></li><li><a href="#n5_vocab_11" onclick="load_deck('#n5_vocab_11');">n5_vocab_11</a></li><li><a href="#n5_vocab_12" onclick="load_deck('#n5_vocab_12');">n5_vocab_12</a></li><li><a href="#n5_vocab_13" onclick="load_deck('#n5_vocab_13');">n5_vocab_13</a></li><li><a href="#rtk630_hiragana_00" onclick="load_deck('#rtk630_hiragana_00');">rtk630_hiragana_00</a></li><li><a href="#rtk630_hiragana_01" onclick="load_deck('#rtk630_hiragana_01');">rtk630_hiragana_01</a></li><li><a href="#rtk630_hiragana_02" onclick="load_deck('#rtk630_hiragana_02');">rtk630_hiragana_02</a></li><li><a href="#rtk630_hiragana_03" onclick="load_deck('#rtk630_hiragana_03');">rtk630_hiragana_03</a></li><li><a href="#rtk630_hiragana_04" onclick="load_deck('#rtk630_hiragana_04');">rtk630_hiragana_04</a></li><li><a href="#rtk630_hiragana_05" onclick="load_deck('#rtk630_hiragana_05');">rtk630_hiragana_05</a></li><li><a href="#rtk630_hiragana_06" onclick="load_deck('#rtk630_hiragana_06');">rtk630_hiragana_06</a></li><li><a href="#rtk630_hiragana_07" onclick="load_deck('#rtk630_hiragana_07');">rtk630_hiragana_07</a></li><li><a href="#rtk630_hiragana_08" onclick="load_deck('#rtk630_hiragana_08');">rtk630_hiragana_08</a></li><li><a href="#rtk630_hiragana_09" onclick="load_deck('#rtk630_hiragana_09');">rtk630_hiragana_09</a></li><li><a href="#rtk630_koohii_00" onclick="load_deck('#rtk630_koohii_00');">rtk630_koohii_00</a></li><li><a href="#rtk630_koohii_01" onclick="load_deck('#rtk630_koohii_01');">rtk630_koohii_01</a></li><li><a href="#rtk630_koohii_02" onclick="load_deck('#rtk630_koohii_02');">rtk630_koohii_02</a></li><li><a href="#rtk630_koohii_03" onclick="load_deck('#rtk630_koohii_03');">rtk630_koohii_03</a></li><li><a href="#rtk630_koohii_04" onclick="load_deck('#rtk630_koohii_04');">rtk630_koohii_04</a></li><li><a href="#rtk630_koohii_05" onclick="load_deck('#rtk630_koohii_05');">rtk630_koohii_05</a></li><li><a href="#rtk630_koohii_06" onclick="load_deck('#rtk630_koohii_06');">rtk630_koohii_06</a></li><li><a href="#rtk630_koohii_07" onclick="load_deck('#rtk630_koohii_07');">rtk630_koohii_07</a></li><li><a href="#rtk630_koohii_08" onclick="load_deck('#rtk630_koohii_08');">rtk630_koohii_08</a></li><li><a href="#rtk630_koohii_09" onclick="load_deck('#rtk630_koohii_09');">rtk630_koohii_09</a></li><li><a href="#rtk630_koohii_10" onclick="load_deck('#rtk630_koohii_10');">rtk630_koohii_10</a></li><li><a href="#rtk630_koohii_11" onclick="load_deck('#rtk630_koohii_11');">rtk630_koohii_11</a></li><li><a href="#rtk630_koohii_12" onclick="load_deck('#rtk630_koohii_12');">rtk630_koohii_12</a></li><li><a href="#rtk630_koohii_13" onclick="load_deck('#rtk630_koohii_13');">rtk630_koohii_13</a></li><li><a href="#rtk630_koohii_14" onclick="load_deck('#rtk630_koohii_14');">rtk630_koohii_14</a></li><li><a href="#rtk630_koohii_15" onclick="load_deck('#rtk630_koohii_15');">rtk630_koohii_15</a></li><li><a href="#rtk630_koohii_16" onclick="load_deck('#rtk630_koohii_16');">rtk630_koohii_16</a></li><li><a href="#rtk630_koohii_17" onclick="load_deck('#rtk630_koohii_17');">rtk630_koohii_17</a></li><li><a href="#rtk630_koohii_18" onclick="load_deck('#rtk630_koohii_18');">rtk630_koohii_18</a></li><li><a href="#rtk630_koohii_19" onclick="load_deck('#rtk630_koohii_19');">rtk630_koohii_19</a></li><li><a href="#rtk630_koohii_20" onclick="load_deck('#rtk630_koohii_20');">rtk630_koohii_20</a></li><li><a href="#rtk630_koohii_21" onclick="load_deck('#rtk630_koohii_21');">rtk630_koohii_21</a></li><li><a href="#rtk630_koohii_22" onclick="load_deck('#rtk630_koohii_22');">rtk630_koohii_22</a></li><li><a href="#rtk630_koohii_23" onclick="load_deck('#rtk630_koohii_23');">rtk630_koohii_23</a></li><li><a href="#rtk630_koohii_24" onclick="load_deck('#rtk630_koohii_24');">rtk630_koohii_24</a></li><li><a href="#rtk630_koohii_25" onclick="load_deck('#rtk630_koohii_25');">rtk630_koohii_25</a></li><li><a href="#rtk630_koohii_26" onclick="load_deck('#rtk630_koohii_26');">rtk630_koohii_26</a></li><li><a href="#rtk630_koohii_27" onclick="load_deck('#rtk630_koohii_27');">rtk630_koohii_27</a></li><li><a href="#rtk630_koohii_28" onclick="load_deck('#rtk630_koohii_28');">rtk630_koohii_28</a></li><li><a href="#rtk630_koohii_29" onclick="load_deck('#rtk630_koohii_29');">rtk630_koohii_29</a></li><li><a href="#rtk630_koohii_30" onclick="load_deck('#rtk630_koohii_30');">rtk630_koohii_30</a></li><li><a href="#rtk630_koohii_31" onclick="load_deck('#rtk630_koohii_31');">rtk630_koohii_31</a></li><li><a href="#rtk630_koohii_32" onclick="load_deck('#rtk630_koohii_32');">rtk630_koohii_32</a></li><li><a href="#rtk630_koohii_33" onclick="load_deck('#rtk630_koohii_33');">rtk630_koohii_33</a></li><li><a href="#rtk630_koohii_34" onclick="load_deck('#rtk630_koohii_34');">rtk630_koohii_34</a></li><li><a href="#rtk630_koohii_35" onclick="load_deck('#rtk630_koohii_35');">rtk630_koohii_35</a></li><li><a href="#rtk630_koohii_36" onclick="load_deck('#rtk630_koohii_36');">rtk630_koohii_36</a></li><li><a href="#rtk630_koohii_37" onclick="load_deck('#rtk630_koohii_37');">rtk630_koohii_37</a></li><li><a href="#rtk630_koohii_38" onclick="load_deck('#rtk630_koohii_38');">rtk630_koohii_38</a></li><li><a href="#rtk630_koohii_39" onclick="load_deck('#rtk630_koohii_39');">rtk630_koohii_39</a></li><li><a href="#rtk630_koohii_40" onclick="load_deck('#rtk630_koohii_40');">rtk630_koohii_40</a></li><li><a href="#rtk630_koohii_41" onclick="load_deck('#rtk630_koohii_41');">rtk630_koohii_41</a></li><li><a href="#rtk630_koohii_42" onclick="load_deck('#rtk630_koohii_42');">rtk630_koohii_42</a></li><li><a href="#rtk630_koohii_43" onclick="load_deck('#rtk630_koohii_43');">rtk630_koohii_43</a></li><li><a href="#rtk630_koohii_44" onclick="load_deck('#rtk630_koohii_44');">rtk630_koohii_44</a></li><li><a href="#rtk630_koohii_45" onclick="load_deck('#rtk630_koohii_45');">rtk630_koohii_45</a></li><li><a href="#rtk630_koohii_46" onclick="load_deck('#rtk630_koohii_46');">rtk630_koohii_46</a></li><li><a href="#rtk630_koohii_47" onclick="load_deck('#rtk630_koohii_47');">rtk630_koohii_47</a></li><li><a href="#rtk630_koohii_48" onclick="load_deck('#rtk630_koohii_48');">rtk630_koohii_48</a></li><li><a href="#rtk630_koohii_49" onclick="load_deck('#rtk630_koohii_49');">rtk630_koohii_49</a></li><li><a href="#rtk630_koohii_50" onclick="load_deck('#rtk630_koohii_50');">rtk630_koohii_50</a></li><li><a href="#rtk630_koohii_51" onclick="load_deck('#rtk630_koohii_51');">rtk630_koohii_51</a></li><li><a href="#rtk630_koohii_52" onclick="load_deck('#rtk630_koohii_52');">rtk630_koohii_52</a></li><li><a href="#rtk630_koohii_53" onclick="load_deck('#rtk630_koohii_53');">rtk630_koohii_53</a></li><li><a href="#rtk630_koohii_54" onclick="load_deck('#rtk630_koohii_54');">rtk630_koohii_54</a></li><li><a href="#rtk630_koohii_55" onclick="load_deck('#rtk630_koohii_55');">rtk630_koohii_55</a></li><li><a href="#rtk630_koohii_56" onclick="load_deck('#rtk630_koohii_56');">rtk630_koohii_56</a></li><li><a href="#rtk630_koohii_57" onclick="load_deck('#rtk630_koohii_57');">rtk630_koohii_57</a></li><li><a href="#rtk630_koohii_58" onclick="load_deck('#rtk630_koohii_58');">rtk630_koohii_58</a></li><li><a href="#rtk630_koohii_59" onclick="load_deck('#rtk630_koohii_59');">rtk630_koohii_59</a></li><li><a href="#rtk630_koohii_60" onclick="load_deck('#rtk630_koohii_60');">rtk630_koohii_60</a></li>
-        </ul>
-    </div>
     <script type="text/javascript" src="decks.js"></script>
     <script type="text/javascript">
-        const default_answer = "XXXXX";
-        const default_question = ["完全"];
+        const default_config = {
+            "stroke_order_font": false,
+            "prompt": "japanese",
+        };
+        const default_card = {
+            "japanese": "完全",
+            "english": "complete",
+            "furigana": "完[か]全[ぜん]",
+            "kana": "かんぜん",
+            "answer": "XXXXX"
+        }
         var current_answer_id = "answer";
-        var current_answer_value = default_answer;
-        var current_question_index = 0;
-        var max_question_index = 0;
-        var question_set = [];
-        var show_hint_setting = false;
-        function get_question_choice() {
-            return window.location.hash;
+        var deck_name, deck_size, deck_offset;
+        var current_answer_value = default_card["answer"];
+        var current_card_index = 0;
+        var max_card_index = 0;
+        var card_set = [];
+        var card_info = {
+            "show-japanese": true,
+            "show-furigana": false,
+            "show-english": false,
+            "show-kana": false,
         }
-        function load_deck(deck_name) {
+        function get_deck_options_hash() {
+            [deck_name, deck_size, deck_offset] = window.location.hash.replace('#','').split(',');
+            let deck_select = document.getElementById("deck-select");
+            deck_select.value = deck_name;
+            let deck_size_select = document.getElementById("deck-size-select");
+            deck_size_select.value = deck_size;
+            let deck_offset_input = document.getElementById("deck-offset");
+            deck_offset_input.value = deck_offset;
+        }
+
+        function set_deck_options_hash() {
+            let deck_select = document.getElementById("deck-select");
+            deck_name = deck_select.options[deck_select.selectedIndex].text;
+            let deck_size_select = document.getElementById("deck-size-select");
+            deck_size = parseInt(deck_size_select.options[deck_size_select.selectedIndex].text);
+            let deck_offset_input = document.getElementById("deck-offset");
+            deck_offset = parseInt(deck_offset_input.value);
+            window.location.hash = [deck_name, deck_size, deck_offset].join(',')
+        }
+        function load_deck_options() {
+            [deck_name, deck_size, deck_offset] = window.location.hash.replace('#','').split(',');
+            deck_size = parseInt(deck_size);
+            deck_offset = parseInt(deck_offset);
             if(deck_name in decks) {
-                show_q_and_a();
-                show_controls();
-                hide_links();
-                set_questions(deck_name);
-            } else {
-                hide_q_and_a();
-                hide_controls();
-                show_links();
+                set_cards(deck_name, deck_size, deck_offset);
             }
         }
-        function toggle_hint_setting() {
-            let hint_toggle = document.getElementById("hint-toggle");
-            show_hint_setting = hint_toggle.checked;
-            reset_hint();
-        }
-        function reset_hint() {
-            if (show_hint_setting) {
-                show_hint();
-            } else {
-                hide_hint();
+        function toggle_card_info() {
+            for (const[key, value] of Object.entries(card_info)) {
+                let hint = document.getElementById(key);
+                card_info[key] = hint.checked;
             }
+            reset_card_info();
         }
-        function hide_hint() {
-            let hint = document.getElementById("hint");
+        function reset_card_info() {
+            for (const[key, value] of Object.entries(card_info)) {
+                if (value) {
+                    show_card_info(key);
+                } else {
+                    hide_card_info(key);
+                }
+            }
+
+        }
+        function hide_card_info(card_info_id) {
+            let hint = document.getElementById(card_info_id.replace('show-', 'card-'));
             hint.style.display="none";
         }
-        function show_hint(){
-            let hint = document.getElementById("hint");
+        function show_card_info(card_info_id){
+            let hint = document.getElementById(card_info_id.replace('show-', 'card-'));
             hint.style.display="block";
 
         }
-        function temporarily_show_hide_hint(){
-            let hint = document.getElementById("hint");
-            if (hint.style.display === "none") {
-                hint.style.display="block";
-            } else {
-                hint.style.display="none";
+        function temporarily_show_card_info(){
+            for (const[key, value] of Object.entries(card_info)) {
+                let hint = document.getElementById(key.replace('show-', 'card-'));
+                if (hint.style.display === "none") {
+                    hint.style.display="block";
+                }
             }
         }
-        function hide_q_and_a() {
-            let qanda = document.getElementById("q-and-a");
-            qanda.style.display="none";
-        }
-        function show_q_and_a(){
-            let qanda = document.getElementById("q-and-a");
-            qanda.style.display="block";
 
-        }
-        function hide_controls() {
-            let controls = document.getElementById("controls");
-            controls.style.display="none";
-        }
-        function show_controls(){
-            let controls = document.getElementById("controls");
-            controls.style.display="block";
-
-        }
-        function hide_links() {
-            let links = document.getElementById("question-sets");
-            links.style.display="none";
-        }
-        function show_links(){
-            let links = document.getElementById("question-sets");
-            links.style.display="block";
-
-        }
         function answer_id() {
             return "answer-" + Date.now().toString()
         }
-        function set_questions(deck_name) {
-            let chosen_questions = decks[deck_name];
-            question_set = shuffle(chosen_questions);
-            max_question_index = chosen_questions.length - 1;
-            current_question_index = 0;
-            set_question_text(question_set[0]["question"]);
-            set_answer(question_set[0]["answer"]);
+
+        function set_japanese_font(stroke_order_font){
+            let card_japanese = document.getElementById('card-japanese');
+            if (stroke_order_font){
+                card_japanese.style = 'font-family:"kanji"';
+            } else {
+                card_japanese.style = '';
+            }
+
         }
-        function set_question_text(question_info) {
-            let question = document.getElementById("question");
-            let hint = document.getElementById("hint");
-            question.innerHTML = question_info[0];
-            hint.innerHTML = "<div>" + question_info.slice(1).join("</div><div>") + "</div>";
-            reset_hint();
+
+
+        function set_cards(deck_name, deck_size, deck_offset) {
+            let deck = decks[deck_name];
+            set_japanese_font(deck['config']['stroke_order_font']);
+            for (const [key, value] of Object.entries(card_info)) {
+                if (key.replace('show-', '') === deck['config']['prompt']) {
+                    card_info[key] = true;
+                    let hint = document.getElementById(key);
+                    hint.checked = true;
+                } else {
+                    card_info[key] = false;
+                    let hint = document.getElementById(key);
+                    hint.checked = false;
+                }
+            }
+            let cards = deck['cards'].slice(deck_offset + 1, deck_size + 1);
+            card_set = shuffle(cards);
+            max_card_index = card_set.length - 1;
+            current_card_index = 0;
+            set_card_text(card_set[0]);
+            set_answer(card_set[0]["answer"]);
+        }
+        function set_card_text(card) {
+            let card_japanese = document.getElementById("card-japanese");
+            card_japanese.innerHTML = card["japanese"];
+            let card_furigana = document.getElementById("card-furigana");
+            card_furigana.innerHTML = card["furigana"];
+            let card_english = document.getElementById("card-english");
+            card_english.innerHTML = card["english"];
+            let card_kana = document.getElementById("card-kana");
+            card_kana.innerHTML = card["kana"];
+            reset_card_info();
         }
         function shuffle(array) {
             array.sort(() => Math.random() - 0.5);
@@ -267,24 +326,19 @@
             }
         }
         function next_question() {
-            current_question_index += 1;
-            if (current_question_index <= max_question_index) {
-                set_question_text(question_set[current_question_index]["question"]);
-                set_answer(question_set[current_question_index]["answer"]);
+            current_card_index += 1;
+            if (current_card_index <= max_card_index) {
+                set_card_text(card_set[current_card_index]);
+                set_answer(card_set[current_card_index]["answer"]);
             } else {
-                set_question_text(default_question);
-                set_answer(default_answer);
+                set_card_text(default_card);
+                set_answer(default_card["answer"]);
             }
         }
-        if(window.location.hash in decks) {
-            show_q_and_a();
-            show_controls();
-            hide_links();
-            set_questions(window.location.hash);
-        } else {
-            hide_q_and_a();
-            hide_controls();
-            show_links();
+        if(window.location.hash) {
+            get_deck_options_hash();
+            set_deck_options_hash();
+            load_deck_options();
         }
     </script>
 </body>
