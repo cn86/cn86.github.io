@@ -6,6 +6,7 @@ var decks = {
     "config": {
       "file_path": "decks/kaishi15k.csv",
       "stroke_order_font": false,
+      "focus_input": true,
       "prompt": "japanese"
     },
     "cards": [
@@ -10515,6 +10516,7 @@ var decks = {
     "config": {
       "file_path": "decks/kaishi15kRTK.csv",
       "stroke_order_font": true,
+      "focus_input": false,
       "prompt": "english"
     },
     "cards": [
@@ -16376,6 +16378,7 @@ var decks = {
     "config": {
       "file_path": "decks/time.csv",
       "stroke_order_font": false,
+      "focus_input": true,
       "prompt": "japanese"
     },
     "cards": [
@@ -17533,6 +17536,7 @@ var decks = {
     "config": {
       "file_path": "decks/counters.csv",
       "stroke_order_font": false,
+      "focus_input": true,
       "prompt": "japanese"
     },
     "cards": [
@@ -18473,6 +18477,7 @@ var decks = {
     "config": {
       "file_path": "decks/numbers.csv",
       "stroke_order_font": false,
+      "focus_input": true,
       "prompt": "japanese"
     },
     "cards": [

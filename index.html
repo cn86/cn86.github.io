@@ -180,6 +180,7 @@
             "show-english": false,
             "show-kana": false,
         }
+        var focus_input = true;
         function get_deck_options_hash() {
             [deck_name, deck_size, deck_offset] = window.location.hash.replace('#','').split(',');
             let deck_select = document.getElementById("deck-select");
@@ -271,6 +272,7 @@
                     hint.checked = false;
                 }
             }
+            focus_input = deck['config']['focus_input'];
             let cards = deck['cards'].slice(deck_offset - 1, deck_offset - 1 + deck_size);
             card_set = shuffle(cards);
             max_card_index = card_set.length - 1;
@@ -306,18 +308,19 @@
             answer_container.appendChild(new_answer);
             current_answer_id = new_answer_id;
             current_answer_value = answer_text;
-
-            // Hack to get iOS to focus on new input.
-            fake_input.setAttribute('type', 'text');
-            fake_input.style.position = 'absolute';
-            fake_input.style.opacity = 0;
-            fake_input.style.height = 0;
-            document.body.prepend(fake_input);
-            fake_input.focus();
-            setTimeout(() => {
-                new_answer.focus()
-                fake_input.remove()
-            }, 100)
+            if (focus_input) {
+                // Hack to get iOS to focus on new input.
+                fake_input.setAttribute('type', 'text');
+                fake_input.style.position = 'absolute';
+                fake_input.style.opacity = 0;
+                fake_input.style.height = 0;
+                document.body.prepend(fake_input);
+                fake_input.focus();
+                setTimeout(() => {
+                    new_answer.focus()
+                    fake_input.remove()
+                }, 100)
+            }
         }
         function check_answer() {
             let answer = document.getElementById(current_answer_id);
