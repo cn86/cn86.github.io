@@ -18477,36 +18477,36 @@ var decks = {
     },
     "cards": [
       {
-        "japanese": "11,203",
-        "english": "一万 千二百三",
+        "japanese": "一万 千二百三",
+        "english": "11,203",
         "furigana": "",
         "kana": "まんせんにひゃくさん",
         "answer": "まんせんにひゃくさん"
       },
       {
-        "japanese": "43,651",
-        "english": "四万三千六百五十一",
+        "japanese": "四万三千六百五十一",
+        "english": "43,651",
         "furigana": "",
         "kana": "よんまんさん ぜんろっぴゃくごじゅういち",
         "answer": "よんまんさんぜんろっぴゃくごじゅういち"
       },
       {
-        "japanese": "188,809",
-        "english": "十八万八千八百九",
+        "japanese": "十八万八千八百九",
+        "english": "188,809",
         "furigana": "",
         "kana": "じゅうはちまんはっせんはっぴゃくきゅう",
         "answer": "じゅうはちまんはっせんはっぴゃくきゅう"
       },
       {
-        "japanese": "3,000,500",
-        "english": "三百万 五百",
+        "japanese": "三百万 五百",
+        "english": "3,000,500",
         "furigana": "",
         "kana": "さんびゃくまんごひゃく",
         "answer": "さんびゃくまんごひゃく"
       },
       {
-        "japanese": "800,000,910",
-        "english": "八億 九 百十",
+        "japanese": "八億 九 百十",
+        "english": "800,000,910",
         "furigana": "",
         "kana": "はちおくきゅうひゃくじゅう",
         "answer": "はちおくきゅうひゃくじゅう"
