@@ -137,6 +137,7 @@
             F:<input type="checkbox" id="show-furigana" onclick="toggle_card_info();">
             E:<input type="checkbox" id="show-english" onclick="toggle_card_info();">
             K:<input type="checkbox" id="show-kana" onclick="toggle_card_info();">
+            R:<input type="checkbox" id="randomize" checked>
         </div>
         <div>
             <button type="button" onclick="set_deck_options_hash();load_deck_options();">Reset</button>
@@ -189,6 +190,11 @@
             deck_size_select.value = deck_size;
             let deck_offset_input = document.getElementById("deck-offset");
             deck_offset_input.value = deck_offset;
+        }
+
+        function get_randomize(argument) {
+            let randomize = document.getElementById("randomize");
+            return randomize.checked
         }
 
         function set_deck_options_hash() {
@@ -269,8 +275,10 @@
                 }
             }
             focus_input = deck['config']['focus_input'];
-            let cards = deck['cards'].slice(deck_offset - 1, deck_offset - 1 + deck_size);
-            card_set = shuffle(cards);
+            card_set = deck['cards'].slice(deck_offset - 1, deck_offset - 1 + deck_size);
+            if (get_randomize()) {
+                card_set = shuffle(card_set);
+            }
             max_card_index = card_set.length - 1;
             current_card_index = 0;
             set_card_text(card_set[0]);
