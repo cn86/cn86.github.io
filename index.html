@@ -142,6 +142,7 @@
         <div>
             <button type="button" onclick="set_deck_options_hash();load_deck_options();">Reset</button>
             <button type="button" onclick="next_question();">Skip</button>
+            <span id="progress">#</span>
         </div>
     </div>
 
@@ -195,6 +196,11 @@
         function get_randomize(argument) {
             let randomize = document.getElementById("randomize");
             return randomize.checked
+        }
+
+        function set_progress(progress_value) {
+            let progress = document.getElementById('progress');
+            progress.innerHTML = progress_value;
         }
 
         function set_deck_options_hash() {
@@ -285,6 +291,8 @@
             }
             max_card_index = card_set.length - 1;
             current_card_index = 0;
+            set_progress(current_card_index + 1);
+
             set_card_text(card_set[0]);
             set_answer(card_set[0]["answer"]);
         }
@@ -338,6 +346,7 @@
         }
         function next_question() {
             current_card_index += 1;
+            set_progress(current_card_index + 1);
             if (current_card_index <= max_card_index) {
                 set_card_text(card_set[current_card_index]);
                 set_answer(card_set[current_card_index]["answer"]);
