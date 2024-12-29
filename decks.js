@@ -1,5 +1,5 @@
 /*
-<option value="kaishi15k">kaishi15k</option><option value="kaishi15k_hiragana_only">kaishi15k_hiragana_only</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder</option><option value="kaishiRTK">kaishiRTK</option><option value="time">time</option><option value="counters">counters</option><option value="numbers">numbers</option>
+<option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_hiragana_only">kaishi15k_hiragana_only (186)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
 */
 var decks = {
   "kaishi15k": {
