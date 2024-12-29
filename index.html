@@ -199,9 +199,9 @@
 
         function set_deck_options_hash() {
             let deck_select = document.getElementById("deck-select");
-            deck_name = deck_select.options[deck_select.selectedIndex].text;
+            deck_name = deck_select.options[deck_select.selectedIndex].value;
             let deck_size_select = document.getElementById("deck-size-select");
-            deck_size = parseInt(deck_size_select.options[deck_size_select.selectedIndex].text);
+            deck_size = parseInt(deck_size_select.options[deck_size_select.selectedIndex].value);
             let deck_offset_input = document.getElementById("deck-offset");
             deck_offset = parseInt(deck_offset_input.value);
             window.location.hash = [deck_name, deck_size, deck_offset].join(',')
