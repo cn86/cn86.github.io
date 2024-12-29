@@ -1,5 +1,5 @@
 /*
-<option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_hiragana_only">kaishi15k_hiragana_only (186)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
+<option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
 */
 var decks = {
   "kaishi15k": {
@@ -10512,9 +10512,9 @@ var decks = {
       }
     ]
   },
-  "kaishi15k_hiragana_only": {
+  "kaishi15k_nonRTK": {
     "config": {
-      "file_path": "decks/kaishi15k_hiragana_only.csv",
+      "file_path": "decks/kaishi15k_nonRTK.csv",
       "stroke_order_font": false,
       "focus_input": true,
       "prompt": "japanese"
