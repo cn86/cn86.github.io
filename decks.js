@@ -20910,5852 +20910,5852 @@ var decks = {
       {
         "japanese": "一",
         "english": "one",
-        "furigana": "",
+        "furigana": "一",
         "kana": "",
         "answer": "一"
       },
       {
         "japanese": "二",
         "english": "two",
-        "furigana": "",
+        "furigana": "二",
         "kana": "",
         "answer": "二"
       },
       {
         "japanese": "三",
         "english": "three",
-        "furigana": "",
+        "furigana": "三",
         "kana": "",
         "answer": "三"
       },
       {
         "japanese": "四",
         "english": "four",
-        "furigana": "",
+        "furigana": "四",
         "kana": "",
         "answer": "四"
       },
       {
         "japanese": "五",
         "english": "five",
-        "furigana": "",
+        "furigana": "五",
         "kana": "",
         "answer": "五"
       },
       {
         "japanese": "六",
         "english": "six",
-        "furigana": "",
+        "furigana": "六",
         "kana": "",
         "answer": "六"
       },
       {
         "japanese": "七",
         "english": "seven",
-        "furigana": "",
+        "furigana": "七",
         "kana": "",
         "answer": "七"
       },
       {
         "japanese": "八",
         "english": "eight",
-        "furigana": "",
+        "furigana": "八",
         "kana": "",
         "answer": "八"
       },
       {
         "japanese": "九",
         "english": "nine",
-        "furigana": "",
+        "furigana": "九",
         "kana": "",
         "answer": "九"
       },
       {
         "japanese": "十",
         "english": "ten",
-        "furigana": "",
+        "furigana": "十",
         "kana": "",
         "answer": "十"
       },
       {
         "japanese": "口",
         "english": "mouth",
-        "furigana": "",
+        "furigana": "口",
         "kana": "",
         "answer": "口"
       },
       {
         "japanese": "日",
         "english": "day",
-        "furigana": "",
+        "furigana": "日",
         "kana": "",
         "answer": "日"
       },
       {
         "japanese": "月",
         "english": "month",
-        "furigana": "",
+        "furigana": "月",
         "kana": "",
         "answer": "月"
       },
       {
         "japanese": "目",
         "english": "eye",
-        "furigana": "",
+        "furigana": "目",
         "kana": "",
         "answer": "目"
       },
       {
         "japanese": "古",
         "english": "old",
-        "furigana": "",
+        "furigana": "古",
         "kana": "",
         "answer": "古"
       },
       {
         "japanese": "明",
         "english": "bright",
-        "furigana": "",
+        "furigana": "明",
         "kana": "",
         "answer": "明"
       },
       {
         "japanese": "早",
         "english": "early",
-        "furigana": "",
+        "furigana": "早",
         "kana": "",
         "answer": "早"
       },
       {
         "japanese": "世",
         "english": "generation",
-        "furigana": "",
+        "furigana": "世",
         "kana": "",
         "answer": "世"
       },
       {
         "japanese": "自",
         "english": "oneself",
-        "furigana": "",
+        "furigana": "自",
         "kana": "",
         "answer": "自"
       },
       {
         "japanese": "白",
         "english": "white",
-        "furigana": "",
+        "furigana": "白",
         "kana": "",
         "answer": "白"
       },
       {
         "japanese": "中",
         "english": "in",
-        "furigana": "",
+        "furigana": "中",
         "kana": "",
         "answer": "中"
       },
       {
         "japanese": "舌",
         "english": "tongue",
-        "furigana": "",
+        "furigana": "舌",
         "kana": "",
         "answer": "舌"
       },
       {
         "japanese": "上",
         "english": "above",
-        "furigana": "",
+        "furigana": "上",
         "kana": "",
         "answer": "上"
       },
       {
         "japanese": "下",
         "english": "below",
-        "furigana": "",
+        "furigana": "下",
         "kana": "",
         "answer": "下"
       },
       {
         "japanese": "朝",
         "english": "morning",
-        "furigana": "",
+        "furigana": "朝",
         "kana": "",
         "answer": "朝"
       },
       {
         "japanese": "員",
         "english": "employee",
-        "furigana": "",
+        "furigana": "員",
         "kana": "",
         "answer": "員"
       },
       {
         "japanese": "見",
         "english": "see",
-        "furigana": "",
+        "furigana": "見",
         "kana": "",
         "answer": "見"
       },
       {
         "japanese": "元",
         "english": "beginning",
-        "furigana": "",
+        "furigana": "元",
         "kana": "",
         "answer": "元"
       },
       {
         "japanese": "頑",
         "english": "stubborn",
-        "furigana": "",
+        "furigana": "頑",
         "kana": "",
         "answer": "頑"
       },
       {
         "japanese": "負",
         "english": "defeat",
-        "furigana": "",
+        "furigana": "負",
         "kana": "",
         "answer": "負"
       },
       {
         "japanese": "万",
         "english": "ten thousand",
-        "furigana": "",
+        "furigana": "万",
         "kana": "",
         "answer": "万"
       },
       {
         "japanese": "句",
         "english": "phrase",
-        "furigana": "",
+        "furigana": "句",
         "kana": "",
         "answer": "句"
       },
       {
         "japanese": "的",
         "english": "bull's eye",
-        "furigana": "",
+        "furigana": "的",
         "kana": "",
         "answer": "的"
       },
       {
         "japanese": "首",
         "english": "neck",
-        "furigana": "",
+        "furigana": "首",
         "kana": "",
         "answer": "首"
       },
       {
         "japanese": "乱",
         "english": "riot",
-        "furigana": "",
+        "furigana": "乱",
         "kana": "",
         "answer": "乱"
       },
       {
         "japanese": "直",
         "english": "straightaway",
-        "furigana": "",
+        "furigana": "直",
         "kana": "",
         "answer": "直"
       },
       {
         "japanese": "具",
         "english": "tool",
-        "furigana": "",
+        "furigana": "具",
         "kana": "",
         "answer": "具"
       },
       {
         "japanese": "真",
         "english": "true",
-        "furigana": "",
+        "furigana": "真",
         "kana": "",
         "answer": "真"
       },
       {
         "japanese": "左",
         "english": "left",
-        "furigana": "",
+        "furigana": "左",
         "kana": "",
         "answer": "左"
       },
       {
         "japanese": "右",
         "english": "right",
-        "furigana": "",
+        "furigana": "右",
         "kana": "",
         "answer": "右"
       },
       {
         "japanese": "有",
         "english": "possess",
-        "furigana": "",
+        "furigana": "有",
         "kana": "",
         "answer": "有"
       },
       {
         "japanese": "切",
         "english": "cut",
-        "furigana": "",
+        "furigana": "切",
         "kana": "",
         "answer": "切"
       },
       {
         "japanese": "別",
         "english": "separate",
-        "furigana": "",
+        "furigana": "別",
         "kana": "",
         "answer": "別"
       },
       {
         "japanese": "丁",
         "english": "street",
-        "furigana": "",
+        "furigana": "丁",
         "kana": "",
         "answer": "丁"
       },
       {
         "japanese": "町",
         "english": "town",
-        "furigana": "",
+        "furigana": "町",
         "kana": "",
         "answer": "町"
       },
       {
         "japanese": "可",
         "english": "can",
-        "furigana": "",
+        "furigana": "可",
         "kana": "",
         "answer": "可"
       },
       {
         "japanese": "頂",
         "english": "place on the head",
-        "furigana": "",
+        "furigana": "頂",
         "kana": "",
         "answer": "頂"
       },
       {
         "japanese": "子",
         "english": "child",
-        "furigana": "",
+        "furigana": "子",
         "kana": "",
         "answer": "子"
       },
       {
         "japanese": "了",
         "english": "complete",
-        "furigana": "",
+        "furigana": "了",
         "kana": "",
         "answer": "了"
       },
       {
         "japanese": "女",
         "english": "woman",
-        "furigana": "",
+        "furigana": "女",
         "kana": "",
         "answer": "女"
       },
       {
         "japanese": "好",
         "english": "fond",
-        "furigana": "",
+        "furigana": "好",
         "kana": "",
         "answer": "好"
       },
       {
         "japanese": "母",
         "english": "mama",
-        "furigana": "",
+        "furigana": "母",
         "kana": "",
         "answer": "母"
       },
       {
         "japanese": "貫",
         "english": "pierce",
-        "furigana": "",
+        "furigana": "貫",
         "kana": "",
         "answer": "貫"
       },
       {
         "japanese": "兄",
         "english": "elder brother",
-        "furigana": "",
+        "furigana": "兄",
         "kana": "",
         "answer": "兄"
       },
       {
         "japanese": "呪",
         "english": "curse",
-        "furigana": "",
+        "furigana": "呪",
         "kana": "",
         "answer": "呪"
       },
       {
         "japanese": "小",
         "english": "little",
-        "furigana": "",
+        "furigana": "小",
         "kana": "",
         "answer": "小"
       },
       {
         "japanese": "少",
         "english": "few",
-        "furigana": "",
+        "furigana": "少",
         "kana": "",
         "answer": "少"
       },
       {
         "japanese": "大",
         "english": "large",
-        "furigana": "",
+        "furigana": "大",
         "kana": "",
         "answer": "大"
       },
       {
         "japanese": "多",
         "english": "many",
-        "furigana": "",
+        "furigana": "多",
         "kana": "",
         "answer": "多"
       },
       {
         "japanese": "外",
         "english": "outside",
-        "furigana": "",
+        "furigana": "外",
         "kana": "",
         "answer": "外"
       },
       {
         "japanese": "名",
         "english": "name",
-        "furigana": "",
+        "furigana": "名",
         "kana": "",
         "answer": "名"
       },
       {
         "japanese": "石",
         "english": "stone",
-        "furigana": "",
+        "furigana": "石",
         "kana": "",
         "answer": "石"
       },
       {
         "japanese": "光",
         "english": "ray",
-        "furigana": "",
+        "furigana": "光",
         "kana": "",
         "answer": "光"
       },
       {
         "japanese": "太",
         "english": "plump",
-        "furigana": "",
+        "furigana": "太",
         "kana": "",
         "answer": "太"
       },
       {
         "japanese": "器",
         "english": "utensil",
-        "furigana": "",
+        "furigana": "器",
         "kana": "",
         "answer": "器"
       },
       {
         "japanese": "妙",
         "english": "exquisite",
-        "furigana": "",
+        "furigana": "妙",
         "kana": "",
         "answer": "妙"
       },
       {
         "japanese": "川",
         "english": "stream",
-        "furigana": "",
+        "furigana": "川",
         "kana": "",
         "answer": "川"
       },
       {
         "japanese": "水",
         "english": "water",
-        "furigana": "",
+        "furigana": "水",
         "kana": "",
         "answer": "水"
       },
       {
         "japanese": "氷",
         "english": "icicle",
-        "furigana": "",
+        "furigana": "氷",
         "kana": "",
         "answer": "氷"
       },
       {
         "japanese": "永",
         "english": "eternity",
-        "furigana": "",
+        "furigana": "永",
         "kana": "",
         "answer": "永"
       },
       {
         "japanese": "原",
         "english": "meadow",
-        "furigana": "",
+        "furigana": "原",
         "kana": "",
         "answer": "原"
       },
       {
         "japanese": "願",
         "english": "petition",
-        "furigana": "",
+        "furigana": "願",
         "kana": "",
         "answer": "願"
       },
       {
         "japanese": "活",
         "english": "lively",
-        "furigana": "",
+        "furigana": "活",
         "kana": "",
         "answer": "活"
       },
       {
         "japanese": "消",
         "english": "extinguish",
-        "furigana": "",
+        "furigana": "消",
         "kana": "",
         "answer": "消"
       },
       {
         "japanese": "況",
         "english": "but of course",
-        "furigana": "",
+        "furigana": "況",
         "kana": "",
         "answer": "況"
       },
       {
         "japanese": "土",
         "english": "soil",
-        "furigana": "",
+        "furigana": "土",
         "kana": "",
         "answer": "土"
       },
       {
         "japanese": "吐",
         "english": "spit",
-        "furigana": "",
+        "furigana": "吐",
         "kana": "",
         "answer": "吐"
       },
       {
         "japanese": "時",
         "english": "time",
-        "furigana": "",
+        "furigana": "時",
         "kana": "",
         "answer": "時"
       },
       {
         "japanese": "火",
         "english": "fire",
-        "furigana": "",
+        "furigana": "火",
         "kana": "",
         "answer": "火"
       },
       {
         "japanese": "炎",
         "english": "inflammation",
-        "furigana": "",
+        "furigana": "炎",
         "kana": "",
         "answer": "炎"
       },
       {
         "japanese": "点",
         "english": "spot",
-        "furigana": "",
+        "furigana": "点",
         "kana": "",
         "answer": "点"
       },
       {
         "japanese": "魚",
         "english": "fish",
-        "furigana": "",
+        "furigana": "魚",
         "kana": "",
         "answer": "魚"
       },
       {
         "japanese": "黒",
         "english": "black",
-        "furigana": "",
+        "furigana": "黒",
         "kana": "",
         "answer": "黒"
       },
       {
         "japanese": "量",
         "english": "quantity",
-        "furigana": "",
+        "furigana": "量",
         "kana": "",
         "answer": "量"
       },
       {
         "japanese": "同",
         "english": "same",
-        "furigana": "",
+        "furigana": "同",
         "kana": "",
         "answer": "同"
       },
       {
         "japanese": "向",
         "english": "yonder",
-        "furigana": "",
+        "furigana": "向",
         "kana": "",
         "answer": "向"
       },
       {
         "japanese": "字",
         "english": "character",
-        "furigana": "",
+        "furigana": "字",
         "kana": "",
         "answer": "字"
       },
       {
         "japanese": "守",
         "english": "guard",
-        "furigana": "",
+        "furigana": "守",
         "kana": "",
         "answer": "守"
       },
       {
         "japanese": "完",
         "english": "perfect",
-        "furigana": "",
+        "furigana": "完",
         "kana": "",
         "answer": "完"
       },
       {
         "japanese": "宣",
         "english": "proclaim",
-        "furigana": "",
+        "furigana": "宣",
         "kana": "",
         "answer": "宣"
       },
       {
         "japanese": "安",
         "english": "relax",
-        "furigana": "",
+        "furigana": "安",
         "kana": "",
         "answer": "安"
       },
       {
         "japanese": "寄",
         "english": "draw near",
-        "furigana": "",
+        "furigana": "寄",
         "kana": "",
         "answer": "寄"
       },
       {
         "japanese": "木",
         "english": "tree",
-        "furigana": "",
+        "furigana": "木",
         "kana": "",
         "answer": "木"
       },
       {
         "japanese": "森",
         "english": "forest",
-        "furigana": "",
+        "furigana": "森",
         "kana": "",
         "answer": "森"
       },
       {
         "japanese": "椅",
         "english": "chair",
-        "furigana": "",
+        "furigana": "椅",
         "kana": "",
         "answer": "椅"
       },
       {
         "japanese": "村",
         "english": "village",
-        "furigana": "",
+        "furigana": "村",
         "kana": "",
         "answer": "村"
       },
       {
         "japanese": "相",
         "english": "inter-",
-        "furigana": "",
+        "furigana": "相",
         "kana": "",
         "answer": "相"
       },
       {
         "japanese": "机",
         "english": "desk",
-        "furigana": "",
+        "furigana": "机",
         "kana": "",
         "answer": "机"
       },
       {
         "japanese": "本",
         "english": "book",
-        "furigana": "",
+        "furigana": "本",
         "kana": "",
         "answer": "本"
       },
       {
         "japanese": "案",
         "english": "plan",
-        "furigana": "",
+        "furigana": "案",
         "kana": "",
         "answer": "案"
       },
       {
         "japanese": "未",
         "english": "not yet",
-        "furigana": "",
+        "furigana": "未",
         "kana": "",
         "answer": "未"
       },
       {
         "japanese": "味",
         "english": "flavor",
-        "furigana": "",
+        "furigana": "味",
         "kana": "",
         "answer": "味"
       },
       {
         "japanese": "妹",
         "english": "younger sister",
-        "furigana": "",
+        "furigana": "妹",
         "kana": "",
         "answer": "妹"
       },
       {
         "japanese": "若",
         "english": "young",
-        "furigana": "",
+        "furigana": "若",
         "kana": "",
         "answer": "若"
       },
       {
         "japanese": "苦",
         "english": "suffering",
-        "furigana": "",
+        "furigana": "苦",
         "kana": "",
         "answer": "苦"
       },
       {
         "japanese": "薄",
         "english": "dilute",
-        "furigana": "",
+        "furigana": "薄",
         "kana": "",
         "answer": "薄"
       },
       {
         "japanese": "葉",
         "english": "leaf",
-        "furigana": "",
+        "furigana": "葉",
         "kana": "",
         "answer": "葉"
       },
       {
         "japanese": "暮",
         "english": "livelihood",
-        "furigana": "",
+        "furigana": "暮",
         "kana": "",
         "answer": "暮"
       },
       {
         "japanese": "眺",
         "english": "stare",
-        "furigana": "",
+        "furigana": "眺",
         "kana": "",
         "answer": "眺"
       },
       {
         "japanese": "犬",
         "english": "dog",
-        "furigana": "",
+        "furigana": "犬",
         "kana": "",
         "answer": "犬"
       },
       {
         "japanese": "状",
         "english": "status quo",
-        "furigana": "",
+        "furigana": "状",
         "kana": "",
         "answer": "状"
       },
       {
         "japanese": "黙",
         "english": "silence",
-        "furigana": "",
+        "furigana": "黙",
         "kana": "",
         "answer": "黙"
       },
       {
         "japanese": "然",
         "english": "sort of thing",
-        "furigana": "",
+        "furigana": "然",
         "kana": "",
         "answer": "然"
       },
       {
         "japanese": "猫",
         "english": "cat",
-        "furigana": "",
+        "furigana": "猫",
         "kana": "",
         "answer": "猫"
       },
       {
         "japanese": "特",
         "english": "special",
-        "furigana": "",
+        "furigana": "特",
         "kana": "",
         "answer": "特"
       },
       {
         "japanese": "告",
         "english": "revelation",
-        "furigana": "",
+        "furigana": "告",
         "kana": "",
         "answer": "告"
       },
       {
         "japanese": "先",
         "english": "before",
-        "furigana": "",
+        "furigana": "先",
         "kana": "",
         "answer": "先"
       },
       {
         "japanese": "洗",
         "english": "wash",
-        "furigana": "",
+        "furigana": "洗",
         "kana": "",
         "answer": "洗"
       },
       {
         "japanese": "介",
         "english": "jammed in",
-        "furigana": "",
+        "furigana": "介",
         "kana": "",
         "answer": "介"
       },
       {
         "japanese": "界",
         "english": "world",
-        "furigana": "",
+        "furigana": "界",
         "kana": "",
         "answer": "界"
       },
       {
         "japanese": "茶",
         "english": "tea",
-        "furigana": "",
+        "furigana": "茶",
         "kana": "",
         "answer": "茶"
       },
       {
         "japanese": "合",
         "english": "fit",
-        "furigana": "",
+        "furigana": "合",
         "kana": "",
         "answer": "合"
       },
       {
         "japanese": "王",
         "english": "king",
-        "furigana": "",
+        "furigana": "王",
         "kana": "",
         "answer": "王"
       },
       {
         "japanese": "現",
         "english": "present",
-        "furigana": "",
+        "furigana": "現",
         "kana": "",
         "answer": "現"
       },
       {
         "japanese": "全",
         "english": "whole",
-        "furigana": "",
+        "furigana": "全",
         "kana": "",
         "answer": "全"
       },
       {
         "japanese": "理",
         "english": "logic",
-        "furigana": "",
+        "furigana": "理",
         "kana": "",
         "answer": "理"
       },
       {
         "japanese": "主",
         "english": "lord",
-        "furigana": "",
+        "furigana": "主",
         "kana": "",
         "answer": "主"
       },
       {
         "japanese": "注",
         "english": "pour",
-        "furigana": "",
+        "furigana": "注",
         "kana": "",
         "answer": "注"
       },
       {
         "japanese": "金",
         "english": "gold",
-        "furigana": "",
+        "furigana": "金",
         "kana": "",
         "answer": "金"
       },
       {
         "japanese": "道",
         "english": "road-way",
-        "furigana": "",
+        "furigana": "道",
         "kana": "",
         "answer": "道"
       },
       {
         "japanese": "迫",
         "english": "urge",
-        "furigana": "",
+        "furigana": "迫",
         "kana": "",
         "answer": "迫"
       },
       {
         "japanese": "逃",
         "english": "escape",
-        "furigana": "",
+        "furigana": "逃",
         "kana": "",
         "answer": "逃"
       },
       {
         "japanese": "辺",
         "english": "environs",
-        "furigana": "",
+        "furigana": "辺",
         "kana": "",
         "answer": "辺"
       },
       {
         "japanese": "車",
         "english": "car",
-        "furigana": "",
+        "furigana": "車",
         "kana": "",
         "answer": "車"
       },
       {
         "japanese": "連",
         "english": "take along",
-        "furigana": "",
+        "furigana": "連",
         "kana": "",
         "answer": "連"
       },
       {
         "japanese": "前",
         "english": "in front",
-        "furigana": "",
+        "furigana": "前",
         "kana": "",
         "answer": "前"
       },
       {
         "japanese": "格",
         "english": "status",
-        "furigana": "",
+        "furigana": "格",
         "kana": "",
         "answer": "格"
       },
       {
         "japanese": "客",
         "english": "guest",
-        "furigana": "",
+        "furigana": "客",
         "kana": "",
         "answer": "客"
       },
       {
         "japanese": "額",
         "english": "forehead",
-        "furigana": "",
+        "furigana": "額",
         "kana": "",
         "answer": "額"
       },
       {
         "japanese": "夏",
         "english": "summer",
-        "furigana": "",
+        "furigana": "夏",
         "kana": "",
         "answer": "夏"
       },
       {
         "japanese": "条",
         "english": "twig",
-        "furigana": "",
+        "furigana": "条",
         "kana": "",
         "answer": "条"
       },
       {
         "japanese": "落",
         "english": "fall",
-        "furigana": "",
+        "furigana": "落",
         "kana": "",
         "answer": "落"
       },
       {
         "japanese": "冗",
         "english": "superfluous",
-        "furigana": "",
+        "furigana": "冗",
         "kana": "",
         "answer": "冗"
       },
       {
         "japanese": "軍",
         "english": "army",
-        "furigana": "",
+        "furigana": "軍",
         "kana": "",
         "answer": "軍"
       },
       {
         "japanese": "輝",
         "english": "radiance",
-        "furigana": "",
+        "furigana": "輝",
         "kana": "",
         "answer": "輝"
       },
       {
         "japanese": "運",
         "english": "carry",
-        "furigana": "",
+        "furigana": "運",
         "kana": "",
         "answer": "運"
       },
       {
         "japanese": "夢",
         "english": "dream",
-        "furigana": "",
+        "furigana": "夢",
         "kana": "",
         "answer": "夢"
       },
       {
         "japanese": "高",
         "english": "tall",
-        "furigana": "",
+        "furigana": "高",
         "kana": "",
         "answer": "高"
       },
       {
         "japanese": "景",
         "english": "scenery",
-        "furigana": "",
+        "furigana": "景",
         "kana": "",
         "answer": "景"
       },
       {
         "japanese": "周",
         "english": "circumference",
-        "furigana": "",
+        "furigana": "周",
         "kana": "",
         "answer": "周"
       },
       {
         "japanese": "士",
         "english": "gentleman",
-        "furigana": "",
+        "furigana": "士",
         "kana": "",
         "answer": "士"
       },
       {
         "japanese": "売",
         "english": "sell",
-        "furigana": "",
+        "furigana": "売",
         "kana": "",
         "answer": "売"
       },
       {
         "japanese": "学",
         "english": "study",
-        "furigana": "",
+        "furigana": "学",
         "kana": "",
         "answer": "学"
       },
       {
         "japanese": "覚",
         "english": "memorize",
-        "furigana": "",
+        "furigana": "覚",
         "kana": "",
         "answer": "覚"
       },
       {
         "japanese": "書",
         "english": "write",
-        "furigana": "",
+        "furigana": "書",
         "kana": "",
         "answer": "書"
       },
       {
         "japanese": "攻",
         "english": "aggression",
-        "furigana": "",
+        "furigana": "攻",
         "kana": "",
         "answer": "攻"
       },
       {
         "japanese": "敗",
         "english": "failure",
-        "furigana": "",
+        "furigana": "敗",
         "kana": "",
         "answer": "敗"
       },
       {
         "japanese": "故",
         "english": "happenstance",
-        "furigana": "",
+        "furigana": "故",
         "kana": "",
         "answer": "故"
       },
       {
         "japanese": "言",
         "english": "say",
-        "furigana": "",
+        "furigana": "言",
         "kana": "",
         "answer": "言"
       },
       {
         "japanese": "警",
         "english": "admonish",
-        "furigana": "",
+        "furigana": "警",
         "kana": "",
         "answer": "警"
       },
       {
         "japanese": "計",
         "english": "plot",
-        "furigana": "",
+        "furigana": "計",
         "kana": "",
         "answer": "計"
       },
       {
         "japanese": "獄",
         "english": "prison",
-        "furigana": "",
+        "furigana": "獄",
         "kana": "",
         "answer": "獄"
       },
       {
         "japanese": "訓",
         "english": "instruction",
-        "furigana": "",
+        "furigana": "訓",
         "kana": "",
         "answer": "訓"
       },
       {
         "japanese": "話",
         "english": "tale",
-        "furigana": "",
+        "furigana": "話",
         "kana": "",
         "answer": "話"
       },
       {
         "japanese": "語",
         "english": "word",
-        "furigana": "",
+        "furigana": "語",
         "kana": "",
         "answer": "語"
       },
       {
         "japanese": "読",
         "english": "read",
-        "furigana": "",
+        "furigana": "読",
         "kana": "",
         "answer": "読"
       },
       {
         "japanese": "調",
         "english": "tune",
-        "furigana": "",
+        "furigana": "調",
         "kana": "",
         "answer": "調"
       },
       {
         "japanese": "談",
         "english": "discuss",
-        "furigana": "",
+        "furigana": "談",
         "kana": "",
         "answer": "談"
       },
       {
         "japanese": "式",
         "english": "style",
-        "furigana": "",
+        "furigana": "式",
         "kana": "",
         "answer": "式"
       },
       {
         "japanese": "試",
         "english": "test",
-        "furigana": "",
+        "furigana": "試",
         "kana": "",
         "answer": "試"
       },
       {
         "japanese": "成",
         "english": "turn into",
-        "furigana": "",
+        "furigana": "成",
         "kana": "",
         "answer": "成"
       },
       {
         "japanese": "城",
         "english": "castle",
-        "furigana": "",
+        "furigana": "城",
         "kana": "",
         "answer": "城"
       },
       {
         "japanese": "減",
         "english": "dwindle",
-        "furigana": "",
+        "furigana": "減",
         "kana": "",
         "answer": "減"
       },
       {
         "japanese": "止",
         "english": "stop",
-        "furigana": "",
+        "furigana": "止",
         "kana": "",
         "answer": "止"
       },
       {
         "japanese": "歩",
         "english": "walk",
-        "furigana": "",
+        "furigana": "歩",
         "kana": "",
         "answer": "歩"
       },
       {
         "japanese": "歴",
         "english": "curriculum",
-        "furigana": "",
+        "furigana": "歴",
         "kana": "",
         "answer": "歴"
       },
       {
         "japanese": "武",
         "english": "warrior",
-        "furigana": "",
+        "furigana": "武",
         "kana": "",
         "answer": "武"
       },
       {
         "japanese": "正",
         "english": "correct",
-        "furigana": "",
+        "furigana": "正",
         "kana": "",
         "answer": "正"
       },
       {
         "japanese": "証",
         "english": "evidence",
-        "furigana": "",
+        "furigana": "証",
         "kana": "",
         "answer": "証"
       },
       {
         "japanese": "定",
         "english": "determine",
-        "furigana": "",
+        "furigana": "定",
         "kana": "",
         "answer": "定"
       },
       {
         "japanese": "走",
         "english": "run",
-        "furigana": "",
+        "furigana": "走",
         "kana": "",
         "answer": "走"
       },
       {
         "japanese": "越",
         "english": "surpass",
-        "furigana": "",
+        "furigana": "越",
         "kana": "",
         "answer": "越"
       },
       {
         "japanese": "題",
         "english": "topic",
-        "furigana": "",
+        "furigana": "題",
         "kana": "",
         "answer": "題"
       },
       {
         "japanese": "建",
         "english": "build",
-        "furigana": "",
+        "furigana": "建",
         "kana": "",
         "answer": "建"
       },
       {
         "japanese": "鍵",
         "english": "key",
-        "furigana": "",
+        "furigana": "鍵",
         "kana": "",
         "answer": "鍵"
       },
       {
         "japanese": "裏",
         "english": "back",
-        "furigana": "",
+        "furigana": "裏",
         "kana": "",
         "answer": "裏"
       },
       {
         "japanese": "壊",
         "english": "demolition",
-        "furigana": "",
+        "furigana": "壊",
         "kana": "",
         "answer": "壊"
       },
       {
         "japanese": "遠",
         "english": "distant",
-        "furigana": "",
+        "furigana": "遠",
         "kana": "",
         "answer": "遠"
       },
       {
         "japanese": "初",
         "english": "first time",
-        "furigana": "",
+        "furigana": "初",
         "kana": "",
         "answer": "初"
       },
       {
         "japanese": "布",
         "english": "linen",
-        "furigana": "",
+        "furigana": "布",
         "kana": "",
         "answer": "布"
       },
       {
         "japanese": "姉",
         "english": "elder sister",
-        "furigana": "",
+        "furigana": "姉",
         "kana": "",
         "answer": "姉"
       },
       {
         "japanese": "帯",
         "english": "sash",
-        "furigana": "",
+        "furigana": "帯",
         "kana": "",
         "answer": "帯"
       },
       {
         "japanese": "刺",
         "english": "thorn",
-        "furigana": "",
+        "furigana": "刺",
         "kana": "",
         "answer": "刺"
       },
       {
         "japanese": "制",
         "english": "system",
-        "furigana": "",
+        "furigana": "制",
         "kana": "",
         "answer": "制"
       },
       {
         "japanese": "転",
         "english": "revolve",
-        "furigana": "",
+        "furigana": "転",
         "kana": "",
         "answer": "転"
       },
       {
         "japanese": "雨",
         "english": "rain",
-        "furigana": "",
+        "furigana": "雨",
         "kana": "",
         "answer": "雨"
       },
       {
         "japanese": "冬",
         "english": "winter",
-        "furigana": "",
+        "furigana": "冬",
         "kana": "",
         "answer": "冬"
       },
       {
         "japanese": "天",
         "english": "heavens",
-        "furigana": "",
+        "furigana": "天",
         "kana": "",
         "answer": "天"
       },
       {
         "japanese": "立",
         "english": "stand up",
-        "furigana": "",
+        "furigana": "立",
         "kana": "",
         "answer": "立"
       },
       {
         "japanese": "泣",
         "english": "cry",
-        "furigana": "",
+        "furigana": "泣",
         "kana": "",
         "answer": "泣"
       },
       {
         "japanese": "諦",
         "english": "renunciation",
-        "furigana": "",
+        "furigana": "諦",
         "kana": "",
         "answer": "諦"
       },
       {
         "japanese": "適",
         "english": "suitable",
-        "furigana": "",
+        "furigana": "適",
         "kana": "",
         "answer": "適"
       },
       {
         "japanese": "敵",
         "english": "enemy",
-        "furigana": "",
+        "furigana": "敵",
         "kana": "",
         "answer": "敵"
       },
       {
         "japanese": "匂",
         "english": "aroma",
-        "furigana": "",
+        "furigana": "匂",
         "kana": "",
         "answer": "匂"
       },
       {
         "japanese": "頃",
         "english": "about that time",
-        "furigana": "",
+        "furigana": "頃",
         "kana": "",
         "answer": "頃"
       },
       {
         "japanese": "背",
         "english": "stature",
-        "furigana": "",
+        "furigana": "背",
         "kana": "",
         "answer": "背"
       },
       {
         "japanese": "比",
         "english": "compare",
-        "furigana": "",
+        "furigana": "比",
         "kana": "",
         "answer": "比"
       },
       {
         "japanese": "皆",
         "english": "all",
-        "furigana": "",
+        "furigana": "皆",
         "kana": "",
         "answer": "皆"
       },
       {
         "japanese": "混",
         "english": "mix",
-        "furigana": "",
+        "furigana": "混",
         "kana": "",
         "answer": "混"
       },
       {
         "japanese": "毎",
         "english": "every",
-        "furigana": "",
+        "furigana": "毎",
         "kana": "",
         "answer": "毎"
       },
       {
         "japanese": "海",
         "english": "sea",
-        "furigana": "",
+        "furigana": "海",
         "kana": "",
         "answer": "海"
       },
       {
         "japanese": "腹",
         "english": "abdomen",
-        "furigana": "",
+        "furigana": "腹",
         "kana": "",
         "answer": "腹"
       },
       {
         "japanese": "複",
         "english": "duplicate",
-        "furigana": "",
+        "furigana": "複",
         "kana": "",
         "answer": "複"
       },
       {
         "japanese": "歌",
         "english": "song",
-        "furigana": "",
+        "furigana": "歌",
         "kana": "",
         "answer": "歌"
       },
       {
         "japanese": "次",
         "english": "next",
-        "furigana": "",
+        "furigana": "次",
         "kana": "",
         "answer": "次"
       },
       {
         "japanese": "姿",
         "english": "figure",
-        "furigana": "",
+        "furigana": "姿",
         "kana": "",
         "answer": "姿"
       },
       {
         "japanese": "音",
         "english": "sound",
-        "furigana": "",
+        "furigana": "音",
         "kana": "",
         "answer": "音"
       },
       {
         "japanese": "暗",
         "english": "darkness",
-        "furigana": "",
+        "furigana": "暗",
         "kana": "",
         "answer": "暗"
       },
       {
         "japanese": "識",
         "english": "discriminating",
-        "furigana": "",
+        "furigana": "識",
         "kana": "",
         "answer": "識"
       },
       {
         "japanese": "鏡",
         "english": "mirror",
-        "furigana": "",
+        "furigana": "鏡",
         "kana": "",
         "answer": "鏡"
       },
       {
         "japanese": "望",
         "english": "ambition",
-        "furigana": "",
+        "furigana": "望",
         "kana": "",
         "answer": "望"
       },
       {
         "japanese": "方",
         "english": "direction",
-        "furigana": "",
+        "furigana": "方",
         "kana": "",
         "answer": "方"
       },
       {
         "japanese": "訪",
         "english": "call on",
-        "furigana": "",
+        "furigana": "訪",
         "kana": "",
         "answer": "訪"
       },
       {
         "japanese": "放",
         "english": "set free",
-        "furigana": "",
+        "furigana": "放",
         "kana": "",
         "answer": "放"
       },
       {
         "japanese": "激",
         "english": "violent",
-        "furigana": "",
+        "furigana": "激",
         "kana": "",
         "answer": "激"
       },
       {
         "japanese": "脱",
         "english": "undress",
-        "furigana": "",
+        "furigana": "脱",
         "kana": "",
         "answer": "脱"
       },
       {
         "japanese": "説",
         "english": "explanation",
-        "furigana": "",
+        "furigana": "説",
         "kana": "",
         "answer": "説"
       },
       {
         "japanese": "鋭",
         "english": "pointed",
-        "furigana": "",
+        "furigana": "鋭",
         "kana": "",
         "answer": "鋭"
       },
       {
         "japanese": "増",
         "english": "increase",
-        "furigana": "",
+        "furigana": "増",
         "kana": "",
         "answer": "増"
       },
       {
         "japanese": "染",
         "english": "dye",
-        "furigana": "",
+        "furigana": "染",
         "kana": "",
         "answer": "染"
       },
       {
         "japanese": "燃",
         "english": "burn",
-        "furigana": "",
+        "furigana": "燃",
         "kana": "",
         "answer": "燃"
       },
       {
         "japanese": "地",
         "english": "ground",
-        "furigana": "",
+        "furigana": "地",
         "kana": "",
         "answer": "地"
       },
       {
         "japanese": "風",
         "english": "wind",
-        "furigana": "",
+        "furigana": "風",
         "kana": "",
         "answer": "風"
       },
       {
         "japanese": "起",
         "english": "rouse",
-        "furigana": "",
+        "furigana": "起",
         "kana": "",
         "answer": "起"
       },
       {
         "japanese": "改",
         "english": "reformation",
-        "furigana": "",
+        "furigana": "改",
         "kana": "",
         "answer": "改"
       },
       {
         "japanese": "記",
         "english": "scribe",
-        "furigana": "",
+        "furigana": "記",
         "kana": "",
         "answer": "記"
       },
       {
         "japanese": "包",
         "english": "wrap",
-        "furigana": "",
+        "furigana": "包",
         "kana": "",
         "answer": "包"
       },
       {
         "japanese": "電",
         "english": "electricity",
-        "furigana": "",
+        "furigana": "電",
         "kana": "",
         "answer": "電"
       },
       {
         "japanese": "家",
         "english": "house",
-        "furigana": "",
+        "furigana": "家",
         "kana": "",
         "answer": "家"
       },
       {
         "japanese": "場",
         "english": "location",
-        "furigana": "",
+        "furigana": "場",
         "kana": "",
         "answer": "場"
       },
       {
         "japanese": "美",
         "english": "beauty",
-        "furigana": "",
+        "furigana": "美",
         "kana": "",
         "answer": "美"
       },
       {
         "japanese": "詳",
         "english": "detailed",
-        "furigana": "",
+        "furigana": "詳",
         "kana": "",
         "answer": "詳"
       },
       {
         "japanese": "達",
         "english": "accomplished",
-        "furigana": "",
+        "furigana": "達",
         "kana": "",
         "answer": "達"
       },
       {
         "japanese": "差",
         "english": "distinction",
-        "furigana": "",
+        "furigana": "差",
         "kana": "",
         "answer": "差"
       },
       {
         "japanese": "着",
         "english": "don",
-        "furigana": "",
+        "furigana": "着",
         "kana": "",
         "answer": "着"
       },
       {
         "japanese": "唯",
         "english": "solely",
-        "furigana": "",
+        "furigana": "唯",
         "kana": "",
         "answer": "唯"
       },
       {
         "japanese": "誰",
         "english": "who?",
-        "furigana": "",
+        "furigana": "誰",
         "kana": "",
         "answer": "誰"
       },
       {
         "japanese": "焦",
         "english": "char",
-        "furigana": "",
+        "furigana": "焦",
         "kana": "",
         "answer": "焦"
       },
       {
         "japanese": "集",
         "english": "gather",
-        "furigana": "",
+        "furigana": "集",
         "kana": "",
         "answer": "集"
       },
       {
         "japanese": "進",
         "english": "advance",
-        "furigana": "",
+        "furigana": "進",
         "kana": "",
         "answer": "進"
       },
       {
         "japanese": "雑",
         "english": "miscellaneous",
-        "furigana": "",
+        "furigana": "雑",
         "kana": "",
         "answer": "雑"
       },
       {
         "japanese": "準",
         "english": "semi-",
-        "furigana": "",
+        "furigana": "準",
         "kana": "",
         "answer": "準"
       },
       {
         "japanese": "奮",
         "english": "stirred up",
-        "furigana": "",
+        "furigana": "奮",
         "kana": "",
         "answer": "奮"
       },
       {
         "japanese": "奪",
         "english": "rob",
-        "furigana": "",
+        "furigana": "奪",
         "kana": "",
         "answer": "奪"
       },
       {
         "japanese": "確",
         "english": "assurance",
-        "furigana": "",
+        "furigana": "確",
         "kana": "",
         "answer": "確"
       },
       {
         "japanese": "午",
         "english": "noon",
-        "furigana": "",
+        "furigana": "午",
         "kana": "",
         "answer": "午"
       },
       {
         "japanese": "許",
         "english": "permit",
-        "furigana": "",
+        "furigana": "許",
         "kana": "",
         "answer": "許"
       },
       {
         "japanese": "習",
         "english": "learn",
-        "furigana": "",
+        "furigana": "習",
         "kana": "",
         "answer": "習"
       },
       {
         "japanese": "曜",
         "english": "weekday",
-        "furigana": "",
+        "furigana": "曜",
         "kana": "",
         "answer": "曜"
       },
       {
         "japanese": "困",
         "english": "quandary",
-        "furigana": "",
+        "furigana": "困",
         "kana": "",
         "answer": "困"
       },
       {
         "japanese": "固",
         "english": "harden",
-        "furigana": "",
+        "furigana": "固",
         "kana": "",
         "answer": "固"
       },
       {
         "japanese": "国",
         "english": "country",
-        "furigana": "",
+        "furigana": "国",
         "kana": "",
         "answer": "国"
       },
       {
         "japanese": "因",
         "english": "cause",
-        "furigana": "",
+        "furigana": "因",
         "kana": "",
         "answer": "因"
       },
       {
         "japanese": "園",
         "english": "park",
-        "furigana": "",
+        "furigana": "園",
         "kana": "",
         "answer": "園"
       },
       {
         "japanese": "回",
         "english": "-times",
-        "furigana": "",
+        "furigana": "回",
         "kana": "",
         "answer": "回"
       },
       {
         "japanese": "店",
         "english": "store",
-        "furigana": "",
+        "furigana": "店",
         "kana": "",
         "answer": "店"
       },
       {
         "japanese": "庭",
         "english": "courtyard",
-        "furigana": "",
+        "furigana": "庭",
         "kana": "",
         "answer": "庭"
       },
       {
         "japanese": "床",
         "english": "bed",
-        "furigana": "",
+        "furigana": "床",
         "kana": "",
         "answer": "床"
       },
       {
         "japanese": "心",
         "english": "heart",
-        "furigana": "",
+        "furigana": "心",
         "kana": "",
         "answer": "心"
       },
       {
         "japanese": "忘",
         "english": "forget",
-        "furigana": "",
+        "furigana": "忘",
         "kana": "",
         "answer": "忘"
       },
       {
         "japanese": "認",
         "english": "acknowledge",
-        "furigana": "",
+        "furigana": "認",
         "kana": "",
         "answer": "認"
       },
       {
         "japanese": "志",
         "english": "intention",
-        "furigana": "",
+        "furigana": "志",
         "kana": "",
         "answer": "志"
       },
       {
         "japanese": "思",
         "english": "think",
-        "furigana": "",
+        "furigana": "思",
         "kana": "",
         "answer": "思"
       },
       {
         "japanese": "応",
         "english": "apply",
-        "furigana": "",
+        "furigana": "応",
         "kana": "",
         "answer": "応"
       },
       {
         "japanese": "意",
         "english": "idea",
-        "furigana": "",
+        "furigana": "意",
         "kana": "",
         "answer": "意"
       },
       {
         "japanese": "想",
         "english": "concept",
-        "furigana": "",
+        "furigana": "想",
         "kana": "",
         "answer": "想"
       },
       {
         "japanese": "息",
         "english": "breath",
-        "furigana": "",
+        "furigana": "息",
         "kana": "",
         "answer": "息"
       },
       {
         "japanese": "恐",
         "english": "fear",
-        "furigana": "",
+        "furigana": "恐",
         "kana": "",
         "answer": "恐"
       },
       {
         "japanese": "惑",
         "english": "beguile",
-        "furigana": "",
+        "furigana": "惑",
         "kana": "",
         "answer": "惑"
       },
       {
         "japanese": "感",
         "english": "emotion",
-        "furigana": "",
+        "furigana": "感",
         "kana": "",
         "answer": "感"
       },
       {
         "japanese": "忙",
         "english": "busy",
-        "furigana": "",
+        "furigana": "忙",
         "kana": "",
         "answer": "忙"
       },
       {
         "japanese": "悟",
         "english": "enlightenment",
-        "furigana": "",
+        "furigana": "悟",
         "kana": "",
         "answer": "悟"
       },
       {
         "japanese": "怖",
         "english": "dreadful",
-        "furigana": "",
+        "furigana": "怖",
         "kana": "",
         "answer": "怖"
       },
       {
         "japanese": "慌",
         "english": "disconcerted",
-        "furigana": "",
+        "furigana": "慌",
         "kana": "",
         "answer": "慌"
       },
       {
         "japanese": "悔",
         "english": "repent",
-        "furigana": "",
+        "furigana": "悔",
         "kana": "",
         "answer": "悔"
       },
       {
         "japanese": "慣",
         "english": "accustomed",
-        "furigana": "",
+        "furigana": "慣",
         "kana": "",
         "answer": "慣"
       },
       {
         "japanese": "憶",
         "english": "recollection",
-        "furigana": "",
+        "furigana": "憶",
         "kana": "",
         "answer": "憶"
       },
       {
         "japanese": "必",
         "english": "invariably",
-        "furigana": "",
+        "furigana": "必",
         "kana": "",
         "answer": "必"
       },
       {
         "japanese": "手",
         "english": "hand",
-        "furigana": "",
+        "furigana": "手",
         "kana": "",
         "answer": "手"
       },
       {
         "japanese": "我",
         "english": "ego",
-        "furigana": "",
+        "furigana": "我",
         "kana": "",
         "answer": "我"
       },
       {
         "japanese": "議",
         "english": "deliberation",
-        "furigana": "",
+        "furigana": "議",
         "kana": "",
         "answer": "議"
       },
       {
         "japanese": "抱",
         "english": "embrace",
-        "furigana": "",
+        "furigana": "抱",
         "kana": "",
         "answer": "抱"
       },
       {
         "japanese": "抗",
         "english": "confront",
-        "furigana": "",
+        "furigana": "抗",
         "kana": "",
         "answer": "抗"
       },
       {
         "japanese": "打",
         "english": "strike",
-        "furigana": "",
+        "furigana": "打",
         "kana": "",
         "answer": "打"
       },
       {
         "japanese": "捨",
         "english": "discard",
-        "furigana": "",
+        "furigana": "捨",
         "kana": "",
         "answer": "捨"
       },
       {
         "japanese": "指",
         "english": "finger",
-        "furigana": "",
+        "furigana": "指",
         "kana": "",
         "answer": "指"
       },
       {
         "japanese": "持",
         "english": "hold",
-        "furigana": "",
+        "furigana": "持",
         "kana": "",
         "answer": "持"
       },
       {
         "japanese": "拶",
         "english": "imminent",
-        "furigana": "",
+        "furigana": "拶",
         "kana": "",
         "answer": "拶"
       },
       {
         "japanese": "提",
         "english": "propose",
-        "furigana": "",
+        "furigana": "提",
         "kana": "",
         "answer": "提"
       },
       {
         "japanese": "拾",
         "english": "pick up",
-        "furigana": "",
+        "furigana": "拾",
         "kana": "",
         "answer": "拾"
       },
       {
         "japanese": "担",
         "english": "shouldering",
-        "furigana": "",
+        "furigana": "担",
         "kana": "",
         "answer": "担"
       },
       {
         "japanese": "拠",
         "english": "foothold",
-        "furigana": "",
+        "furigana": "拠",
         "kana": "",
         "answer": "拠"
       },
       {
         "japanese": "描",
         "english": "sketch",
-        "furigana": "",
+        "furigana": "描",
         "kana": "",
         "answer": "描"
       },
       {
         "japanese": "接",
         "english": "touch",
-        "furigana": "",
+        "furigana": "接",
         "kana": "",
         "answer": "接"
       },
       {
         "japanese": "掛",
         "english": "hang",
-        "furigana": "",
+        "furigana": "掛",
         "kana": "",
         "answer": "掛"
       },
       {
         "japanese": "研",
         "english": "polish",
-        "furigana": "",
+        "furigana": "研",
         "kana": "",
         "answer": "研"
       },
       {
         "japanese": "戒",
         "english": "commandment",
-        "furigana": "",
+        "furigana": "戒",
         "kana": "",
         "answer": "戒"
       },
       {
         "japanese": "鼻",
         "english": "nose",
-        "furigana": "",
+        "furigana": "鼻",
         "kana": "",
         "answer": "鼻"
       },
       {
         "japanese": "型",
         "english": "mould",
-        "furigana": "",
+        "furigana": "型",
         "kana": "",
         "answer": "型"
       },
       {
         "japanese": "才",
         "english": "genius",
-        "furigana": "",
+        "furigana": "才",
         "kana": "",
         "answer": "才"
       },
       {
         "japanese": "存",
         "english": "suppose",
-        "furigana": "",
+        "furigana": "存",
         "kana": "",
         "answer": "存"
       },
       {
         "japanese": "在",
         "english": "exist",
-        "furigana": "",
+        "furigana": "在",
         "kana": "",
         "answer": "在"
       },
       {
         "japanese": "携",
         "english": "portable",
-        "furigana": "",
+        "furigana": "携",
         "kana": "",
         "answer": "携"
       },
       {
         "japanese": "吸",
         "english": "suck",
-        "furigana": "",
+        "furigana": "吸",
         "kana": "",
         "answer": "吸"
       },
       {
         "japanese": "扱",
         "english": "handle",
-        "furigana": "",
+        "furigana": "扱",
         "kana": "",
         "answer": "扱"
       },
       {
         "japanese": "丈",
         "english": "length",
-        "furigana": "",
+        "furigana": "丈",
         "kana": "",
         "answer": "丈"
       },
       {
         "japanese": "史",
         "english": "history",
-        "furigana": "",
+        "furigana": "史",
         "kana": "",
         "answer": "史"
       },
       {
         "japanese": "更",
         "english": "grow late",
-        "furigana": "",
+        "furigana": "更",
         "kana": "",
         "answer": "更"
       },
       {
         "japanese": "硬",
         "english": "stiff",
-        "furigana": "",
+        "furigana": "硬",
         "kana": "",
         "answer": "硬"
       },
       {
         "japanese": "奴",
         "english": "guy",
-        "furigana": "",
+        "furigana": "奴",
         "kana": "",
         "answer": "奴"
       },
       {
         "japanese": "怒",
         "english": "angry",
-        "furigana": "",
+        "furigana": "怒",
         "kana": "",
         "answer": "怒"
       },
       {
         "japanese": "友",
         "english": "friend",
-        "furigana": "",
+        "furigana": "友",
         "kana": "",
         "answer": "友"
       },
       {
         "japanese": "抜",
         "english": "slip out",
-        "furigana": "",
+        "furigana": "抜",
         "kana": "",
         "answer": "抜"
       },
       {
         "japanese": "投",
         "english": "throw",
-        "furigana": "",
+        "furigana": "投",
         "kana": "",
         "answer": "投"
       },
       {
         "japanese": "撃",
         "english": "beat",
-        "furigana": "",
+        "furigana": "撃",
         "kana": "",
         "answer": "撃"
       },
       {
         "japanese": "支",
         "english": "branch",
-        "furigana": "",
+        "furigana": "支",
         "kana": "",
         "answer": "支"
       },
       {
         "japanese": "技",
         "english": "skill",
-        "furigana": "",
+        "furigana": "技",
         "kana": "",
         "answer": "技"
       },
       {
         "japanese": "怪",
         "english": "suspicious",
-        "furigana": "",
+        "furigana": "怪",
         "kana": "",
         "answer": "怪"
       },
       {
         "japanese": "軽",
         "english": "lightly",
-        "furigana": "",
+        "furigana": "軽",
         "kana": "",
         "answer": "軽"
       },
       {
         "japanese": "寂",
         "english": "loneliness",
-        "furigana": "",
+        "furigana": "寂",
         "kana": "",
         "answer": "寂"
       },
       {
         "japanese": "反",
         "english": "anti-",
-        "furigana": "",
+        "furigana": "反",
         "kana": "",
         "answer": "反"
       },
       {
         "japanese": "返",
         "english": "return",
-        "furigana": "",
+        "furigana": "返",
         "kana": "",
         "answer": "返"
       },
       {
         "japanese": "浮",
         "english": "floating",
-        "furigana": "",
+        "furigana": "浮",
         "kana": "",
         "answer": "浮"
       },
       {
         "japanese": "将",
         "english": "leader",
-        "furigana": "",
+        "furigana": "将",
         "kana": "",
         "answer": "将"
       },
       {
         "japanese": "受",
         "english": "accept",
-        "furigana": "",
+        "furigana": "受",
         "kana": "",
         "answer": "受"
       },
       {
         "japanese": "授",
         "english": "impart",
-        "furigana": "",
+        "furigana": "授",
         "kana": "",
         "answer": "授"
       },
       {
         "japanese": "愛",
         "english": "love",
-        "furigana": "",
+        "furigana": "愛",
         "kana": "",
         "answer": "愛"
       },
       {
         "japanese": "払",
         "english": "pay",
-        "furigana": "",
+        "furigana": "払",
         "kana": "",
         "answer": "払"
       },
       {
         "japanese": "広",
         "english": "wide",
-        "furigana": "",
+        "furigana": "広",
         "kana": "",
         "answer": "広"
       },
       {
         "japanese": "始",
         "english": "commence",
-        "furigana": "",
+        "furigana": "始",
         "kana": "",
         "answer": "始"
       },
       {
         "japanese": "窓",
         "english": "window",
-        "furigana": "",
+        "furigana": "窓",
         "kana": "",
         "answer": "窓"
       },
       {
         "japanese": "去",
         "english": "gone",
-        "furigana": "",
+        "furigana": "去",
         "kana": "",
         "answer": "去"
       },
       {
         "japanese": "法",
         "english": "method",
-        "furigana": "",
+        "furigana": "法",
         "kana": "",
         "answer": "法"
       },
       {
         "japanese": "会",
         "english": "meeting",
-        "furigana": "",
+        "furigana": "会",
         "kana": "",
         "answer": "会"
       },
       {
         "japanese": "至",
         "english": "climax",
-        "furigana": "",
+        "furigana": "至",
         "kana": "",
         "answer": "至"
       },
       {
         "japanese": "室",
         "english": "room",
-        "furigana": "",
+        "furigana": "室",
         "kana": "",
         "answer": "室"
       },
       {
         "japanese": "到",
         "english": "arrival",
-        "furigana": "",
+        "furigana": "到",
         "kana": "",
         "answer": "到"
       },
       {
         "japanese": "致",
         "english": "doth",
-        "furigana": "",
+        "furigana": "致",
         "kana": "",
         "answer": "致"
       },
       {
         "japanese": "互",
         "english": "mutually",
-        "furigana": "",
+        "furigana": "互",
         "kana": "",
         "answer": "互"
       },
       {
         "japanese": "育",
         "english": "bring up",
-        "furigana": "",
+        "furigana": "育",
         "kana": "",
         "answer": "育"
       },
       {
         "japanese": "流",
         "english": "current",
-        "furigana": "",
+        "furigana": "流",
         "kana": "",
         "answer": "流"
       },
       {
         "japanese": "出",
         "english": "exit",
-        "furigana": "",
+        "furigana": "出",
         "kana": "",
         "answer": "出"
       },
       {
         "japanese": "山",
         "english": "mountain",
-        "furigana": "",
+        "furigana": "山",
         "kana": "",
         "answer": "山"
       },
       {
         "japanese": "崩",
         "english": "crumble",
-        "furigana": "",
+        "furigana": "崩",
         "kana": "",
         "answer": "崩"
       },
       {
         "japanese": "密",
         "english": "secrecy",
-        "furigana": "",
+        "furigana": "密",
         "kana": "",
         "answer": "密"
       },
       {
         "japanese": "入",
         "english": "enter",
-        "furigana": "",
+        "furigana": "入",
         "kana": "",
         "answer": "入"
       },
       {
         "japanese": "込",
         "english": "crowded",
-        "furigana": "",
+        "furigana": "込",
         "kana": "",
         "answer": "込"
       },
       {
         "japanese": "分",
         "english": "part",
-        "furigana": "",
+        "furigana": "分",
         "kana": "",
         "answer": "分"
       },
       {
         "japanese": "容",
         "english": "contain",
-        "furigana": "",
+        "furigana": "容",
         "kana": "",
         "answer": "容"
       },
       {
         "japanese": "欲",
         "english": "longing",
-        "furigana": "",
+        "furigana": "欲",
         "kana": "",
         "answer": "欲"
       },
       {
         "japanese": "裕",
         "english": "abundant",
-        "furigana": "",
+        "furigana": "裕",
         "kana": "",
         "answer": "裕"
       },
       {
         "japanese": "常",
         "english": "usual",
-        "furigana": "",
+        "furigana": "常",
         "kana": "",
         "answer": "常"
       },
       {
         "japanese": "破",
         "english": "rend",
-        "furigana": "",
+        "furigana": "破",
         "kana": "",
         "answer": "破"
       },
       {
         "japanese": "残",
         "english": "remainder",
-        "furigana": "",
+        "furigana": "残",
         "kana": "",
         "answer": "残"
       },
       {
         "japanese": "殊",
         "english": "particularly",
-        "furigana": "",
+        "furigana": "殊",
         "kana": "",
         "answer": "殊"
       },
       {
         "japanese": "死",
         "english": "death",
-        "furigana": "",
+        "furigana": "死",
         "kana": "",
         "answer": "死"
       },
       {
         "japanese": "瞬",
         "english": "wink",
-        "furigana": "",
+        "furigana": "瞬",
         "kana": "",
         "answer": "瞬"
       },
       {
         "japanese": "耳",
         "english": "ear",
-        "furigana": "",
+        "furigana": "耳",
         "kana": "",
         "answer": "耳"
       },
       {
         "japanese": "取",
         "english": "take",
-        "furigana": "",
+        "furigana": "取",
         "kana": "",
         "answer": "取"
       },
       {
         "japanese": "趣",
         "english": "gist",
-        "furigana": "",
+        "furigana": "趣",
         "kana": "",
         "answer": "趣"
       },
       {
         "japanese": "最",
         "english": "utmost",
-        "furigana": "",
+        "furigana": "最",
         "kana": "",
         "answer": "最"
       },
       {
         "japanese": "恥",
         "english": "shame",
-        "furigana": "",
+        "furigana": "恥",
         "kana": "",
         "answer": "恥"
       },
       {
         "japanese": "懐",
         "english": "pocket",
-        "furigana": "",
+        "furigana": "懐",
         "kana": "",
         "answer": "懐"
       },
       {
         "japanese": "慢",
         "english": "ridicule",
-        "furigana": "",
+        "furigana": "慢",
         "kana": "",
         "answer": "慢"
       },
       {
         "japanese": "買",
         "english": "buy",
-        "furigana": "",
+        "furigana": "買",
         "kana": "",
         "answer": "買"
       },
       {
         "japanese": "置",
         "english": "placement",
-        "furigana": "",
+        "furigana": "置",
         "kana": "",
         "answer": "置"
       },
       {
         "japanese": "寧",
         "english": "rather",
-        "furigana": "",
+        "furigana": "寧",
         "kana": "",
         "answer": "寧"
       },
       {
         "japanese": "夫",
         "english": "husband",
-        "furigana": "",
+        "furigana": "夫",
         "kana": "",
         "answer": "夫"
       },
       {
         "japanese": "替",
         "english": "exchange",
-        "furigana": "",
+        "furigana": "替",
         "kana": "",
         "answer": "替"
       },
       {
         "japanese": "失",
         "english": "lose",
-        "furigana": "",
+        "furigana": "失",
         "kana": "",
         "answer": "失"
       },
       {
         "japanese": "臓",
         "english": "entrails",
-        "furigana": "",
+        "furigana": "臓",
         "kana": "",
         "answer": "臓"
       },
       {
         "japanese": "巨",
         "english": "gigantic",
-        "furigana": "",
+        "furigana": "巨",
         "kana": "",
         "answer": "巨"
       },
       {
         "japanese": "力",
         "english": "power",
-        "furigana": "",
+        "furigana": "力",
         "kana": "",
         "answer": "力"
       },
       {
         "japanese": "男",
         "english": "man",
-        "furigana": "",
+        "furigana": "男",
         "kana": "",
         "answer": "男"
       },
       {
         "japanese": "労",
         "english": "labor",
-        "furigana": "",
+        "furigana": "労",
         "kana": "",
         "answer": "労"
       },
       {
         "japanese": "功",
         "english": "achievement",
-        "furigana": "",
+        "furigana": "功",
         "kana": "",
         "answer": "功"
       },
       {
         "japanese": "努",
         "english": "toil",
-        "furigana": "",
+        "furigana": "努",
         "kana": "",
         "answer": "努"
       },
       {
         "japanese": "加",
         "english": "add",
-        "furigana": "",
+        "furigana": "加",
         "kana": "",
         "answer": "加"
       },
       {
         "japanese": "協",
         "english": "co-",
-        "furigana": "",
+        "furigana": "協",
         "kana": "",
         "answer": "協"
       },
       {
         "japanese": "行",
         "english": "going",
-        "furigana": "",
+        "furigana": "行",
         "kana": "",
         "answer": "行"
       },
       {
         "japanese": "復",
         "english": "restore",
-        "furigana": "",
+        "furigana": "復",
         "kana": "",
         "answer": "復"
       },
       {
         "japanese": "得",
         "english": "gain",
-        "furigana": "",
+        "furigana": "得",
         "kana": "",
         "answer": "得"
       },
       {
         "japanese": "従",
         "english": "accompany",
-        "furigana": "",
+        "furigana": "従",
         "kana": "",
         "answer": "従"
       },
       {
         "japanese": "徒",
         "english": "junior",
-        "furigana": "",
+        "furigana": "徒",
         "kana": "",
         "answer": "徒"
       },
       {
         "japanese": "待",
         "english": "wait",
-        "furigana": "",
+        "furigana": "待",
         "kana": "",
         "answer": "待"
       },
       {
         "japanese": "彼",
         "english": "he",
-        "furigana": "",
+        "furigana": "彼",
         "kana": "",
         "answer": "彼"
       },
       {
         "japanese": "役",
         "english": "duty",
-        "furigana": "",
+        "furigana": "役",
         "kana": "",
         "answer": "役"
       },
       {
         "japanese": "微",
         "english": "delicate",
-        "furigana": "",
+        "furigana": "微",
         "kana": "",
         "answer": "微"
       },
       {
         "japanese": "程",
         "english": "extent",
-        "furigana": "",
+        "furigana": "程",
         "kana": "",
         "answer": "程"
       },
       {
         "japanese": "和",
         "english": "harmony",
-        "furigana": "",
+        "furigana": "和",
         "kana": "",
         "answer": "和"
       },
       {
         "japanese": "移",
         "english": "shift",
-        "furigana": "",
+        "furigana": "移",
         "kana": "",
         "answer": "移"
       },
       {
         "japanese": "秋",
         "english": "autumn",
-        "furigana": "",
+        "furigana": "秋",
         "kana": "",
         "answer": "秋"
       },
       {
         "japanese": "私",
         "english": "private",
-        "furigana": "",
+        "furigana": "私",
         "kana": "",
         "answer": "私"
       },
       {
         "japanese": "秘",
         "english": "secret",
-        "furigana": "",
+        "furigana": "秘",
         "kana": "",
         "answer": "秘"
       },
       {
         "japanese": "利",
         "english": "profit",
-        "furigana": "",
+        "furigana": "利",
         "kana": "",
         "answer": "利"
       },
       {
         "japanese": "香",
         "english": "incense",
-        "furigana": "",
+        "furigana": "香",
         "kana": "",
         "answer": "香"
       },
       {
         "japanese": "秀",
         "english": "excel",
-        "furigana": "",
+        "furigana": "秀",
         "kana": "",
         "answer": "秀"
       },
       {
         "japanese": "誘",
         "english": "entice",
-        "furigana": "",
+        "furigana": "誘",
         "kana": "",
         "answer": "誘"
       },
       {
         "japanese": "迷",
         "english": "astray",
-        "furigana": "",
+        "furigana": "迷",
         "kana": "",
         "answer": "迷"
       },
       {
         "japanese": "謎",
         "english": "riddle",
-        "furigana": "",
+        "furigana": "謎",
         "kana": "",
         "answer": "謎"
       },
       {
         "japanese": "奥",
         "english": "core",
-        "furigana": "",
+        "furigana": "奥",
         "kana": "",
         "answer": "奥"
       },
       {
         "japanese": "数",
         "english": "number",
-        "furigana": "",
+        "furigana": "数",
         "kana": "",
         "answer": "数"
       },
       {
         "japanese": "類",
         "english": "sort",
-        "furigana": "",
+        "furigana": "類",
         "kana": "",
         "answer": "類"
       },
       {
         "japanese": "膝",
         "english": "knee",
-        "furigana": "",
+        "furigana": "膝",
         "kana": "",
         "answer": "膝"
       },
       {
         "japanese": "様",
         "english": "Esq.",
-        "furigana": "",
+        "furigana": "様",
         "kana": "",
         "answer": "様"
       },
       {
         "japanese": "求",
         "english": "request",
-        "furigana": "",
+        "furigana": "求",
         "kana": "",
         "answer": "求"
       },
       {
         "japanese": "救",
         "english": "salvation",
-        "furigana": "",
+        "furigana": "救",
         "kana": "",
         "answer": "救"
       },
       {
         "japanese": "笑",
         "english": "laugh",
-        "furigana": "",
+        "furigana": "笑",
         "kana": "",
         "answer": "笑"
       },
       {
         "japanese": "箱",
         "english": "box",
-        "furigana": "",
+        "furigana": "箱",
         "kana": "",
         "answer": "箱"
       },
       {
         "japanese": "答",
         "english": "solution",
-        "furigana": "",
+        "furigana": "答",
         "kana": "",
         "answer": "答"
       },
       {
         "japanese": "人",
         "english": "person",
-        "furigana": "",
+        "furigana": "人",
         "kana": "",
         "answer": "人"
       },
       {
         "japanese": "住",
         "english": "dwell",
-        "furigana": "",
+        "furigana": "住",
         "kana": "",
         "answer": "住"
       },
       {
         "japanese": "位",
         "english": "rank",
-        "furigana": "",
+        "furigana": "位",
         "kana": "",
         "answer": "位"
       },
       {
         "japanese": "仲",
         "english": "go-between",
-        "furigana": "",
+        "furigana": "仲",
         "kana": "",
         "answer": "仲"
       },
       {
         "japanese": "体",
         "english": "body",
-        "furigana": "",
+        "furigana": "体",
         "kana": "",
         "answer": "体"
       },
       {
         "japanese": "件",
         "english": "affair",
-        "furigana": "",
+        "furigana": "件",
         "kana": "",
         "answer": "件"
       },
       {
         "japanese": "仕",
         "english": "attend",
-        "furigana": "",
+        "furigana": "仕",
         "kana": "",
         "answer": "仕"
       },
       {
         "japanese": "他",
         "english": "other",
-        "furigana": "",
+        "furigana": "他",
         "kana": "",
         "answer": "他"
       },
       {
         "japanese": "伝",
         "english": "transmit",
-        "furigana": "",
+        "furigana": "伝",
         "kana": "",
         "answer": "伝"
       },
       {
         "japanese": "休",
         "english": "rest",
-        "furigana": "",
+        "furigana": "休",
         "kana": "",
         "answer": "休"
       },
       {
         "japanese": "仮",
         "english": "provisional",
-        "furigana": "",
+        "furigana": "仮",
         "kana": "",
         "answer": "仮"
       },
       {
         "japanese": "信",
         "english": "faith",
-        "furigana": "",
+        "furigana": "信",
         "kana": "",
         "answer": "信"
       },
       {
         "japanese": "依",
         "english": "reliant",
-        "furigana": "",
+        "furigana": "依",
         "kana": "",
         "answer": "依"
       },
       {
         "japanese": "例",
         "english": "example",
-        "furigana": "",
+        "furigana": "例",
         "kana": "",
         "answer": "例"
       },
       {
         "japanese": "値",
         "english": "price",
-        "furigana": "",
+        "furigana": "値",
         "kana": "",
         "answer": "値"
       },
       {
         "japanese": "倒",
         "english": "overthrow",
-        "furigana": "",
+        "furigana": "倒",
         "kana": "",
         "answer": "倒"
       },
       {
         "japanese": "使",
         "english": "use",
-        "furigana": "",
+        "furigana": "使",
         "kana": "",
         "answer": "使"
       },
       {
         "japanese": "優",
         "english": "tenderness",
-        "furigana": "",
+        "furigana": "優",
         "kana": "",
         "answer": "優"
       },
       {
         "japanese": "傷",
         "english": "wound",
-        "furigana": "",
+        "furigana": "傷",
         "kana": "",
         "answer": "傷"
       },
       {
         "japanese": "保",
         "english": "protect",
-        "furigana": "",
+        "furigana": "保",
         "kana": "",
         "answer": "保"
       },
       {
         "japanese": "褒",
         "english": "praise",
-        "furigana": "",
+        "furigana": "褒",
         "kana": "",
         "answer": "褒"
       },
       {
         "japanese": "付",
         "english": "adhere",
-        "furigana": "",
+        "furigana": "付",
         "kana": "",
         "answer": "付"
       },
       {
         "japanese": "任",
         "english": "responsibility",
-        "furigana": "",
+        "furigana": "任",
         "kana": "",
         "answer": "任"
       },
       {
         "japanese": "代",
         "english": "substitute",
-        "furigana": "",
+        "furigana": "代",
         "kana": "",
         "answer": "代"
       },
       {
         "japanese": "袋",
         "english": "sack",
-        "furigana": "",
+        "furigana": "袋",
         "kana": "",
         "answer": "袋"
       },
       {
         "japanese": "貸",
         "english": "lend",
-        "furigana": "",
+        "furigana": "貸",
         "kana": "",
         "answer": "貸"
       },
       {
         "japanese": "化",
         "english": "change",
-        "furigana": "",
+        "furigana": "化",
         "kana": "",
         "answer": "化"
       },
       {
         "japanese": "花",
         "english": "flower",
-        "furigana": "",
+        "furigana": "花",
         "kana": "",
         "answer": "花"
       },
       {
         "japanese": "何",
         "english": "what",
-        "furigana": "",
+        "furigana": "何",
         "kana": "",
         "answer": "何"
       },
       {
         "japanese": "荷",
         "english": "baggage",
-        "furigana": "",
+        "furigana": "荷",
         "kana": "",
         "answer": "荷"
       },
       {
         "japanese": "俺",
         "english": "myself",
-        "furigana": "",
+        "furigana": "俺",
         "kana": "",
         "answer": "俺"
       },
       {
         "japanese": "久",
         "english": "long time",
-        "furigana": "",
+        "furigana": "久",
         "kana": "",
         "answer": "久"
       },
       {
         "japanese": "内",
         "english": "inside",
-        "furigana": "",
+        "furigana": "内",
         "kana": "",
         "answer": "内"
       },
       {
         "japanese": "肉",
         "english": "meat",
-        "furigana": "",
+        "furigana": "肉",
         "kana": "",
         "answer": "肉"
       },
       {
         "japanese": "座",
         "english": "sit",
-        "furigana": "",
+        "furigana": "座",
         "kana": "",
         "answer": "座"
       },
       {
         "japanese": "以",
         "english": "by means of",
-        "furigana": "",
+        "furigana": "以",
         "kana": "",
         "answer": "以"
       },
       {
         "japanese": "似",
         "english": "similar",
-        "furigana": "",
+        "furigana": "似",
         "kana": "",
         "answer": "似"
       },
       {
         "japanese": "年",
         "english": "year",
-        "furigana": "",
+        "furigana": "年",
         "kana": "",
         "answer": "年"
       },
       {
         "japanese": "夜",
         "english": "night",
-        "furigana": "",
+        "furigana": "夜",
         "kana": "",
         "answer": "夜"
       },
       {
         "japanese": "遊",
         "english": "play",
-        "furigana": "",
+        "furigana": "遊",
         "kana": "",
         "answer": "遊"
       },
       {
         "japanese": "旅",
         "english": "trip",
-        "furigana": "",
+        "furigana": "旅",
         "kana": "",
         "answer": "旅"
       },
       {
         "japanese": "物",
         "english": "thing",
-        "furigana": "",
+        "furigana": "物",
         "kana": "",
         "answer": "物"
       },
       {
         "japanese": "屋",
         "english": "roof",
-        "furigana": "",
+        "furigana": "屋",
         "kana": "",
         "answer": "屋"
       },
       {
         "japanese": "握",
         "english": "grip",
-        "furigana": "",
+        "furigana": "握",
         "kana": "",
         "answer": "握"
       },
       {
         "japanese": "局",
         "english": "bureau",
-        "furigana": "",
+        "furigana": "局",
         "kana": "",
         "answer": "局"
       },
       {
         "japanese": "遅",
         "english": "slow",
-        "furigana": "",
+        "furigana": "遅",
         "kana": "",
         "answer": "遅"
       },
       {
         "japanese": "漏",
         "english": "leak",
-        "furigana": "",
+        "furigana": "漏",
         "kana": "",
         "answer": "漏"
       },
       {
         "japanese": "沢",
         "english": "swamp",
-        "furigana": "",
+        "furigana": "沢",
         "kana": "",
         "answer": "沢"
       },
       {
         "japanese": "訳",
         "english": "translate",
-        "furigana": "",
+        "furigana": "訳",
         "kana": "",
         "answer": "訳"
       },
       {
         "japanese": "択",
         "english": "choose",
-        "furigana": "",
+        "furigana": "択",
         "kana": "",
         "answer": "択"
       },
       {
         "japanese": "戸",
         "english": "door",
-        "furigana": "",
+        "furigana": "戸",
         "kana": "",
         "answer": "戸"
       },
       {
         "japanese": "肩",
         "english": "shoulder",
-        "furigana": "",
+        "furigana": "肩",
         "kana": "",
         "answer": "肩"
       },
       {
         "japanese": "戻",
         "english": "re-",
-        "furigana": "",
+        "furigana": "戻",
         "kana": "",
         "answer": "戻"
       },
       {
         "japanese": "涙",
         "english": "tears",
-        "furigana": "",
+        "furigana": "涙",
         "kana": "",
         "answer": "涙"
       },
       {
         "japanese": "示",
         "english": "show",
-        "furigana": "",
+        "furigana": "示",
         "kana": "",
         "answer": "示"
       },
       {
         "japanese": "礼",
         "english": "salutation",
-        "furigana": "",
+        "furigana": "礼",
         "kana": "",
         "answer": "礼"
       },
       {
         "japanese": "視",
         "english": "inspection",
-        "furigana": "",
+        "furigana": "視",
         "kana": "",
         "answer": "視"
       },
       {
         "japanese": "察",
         "english": "guess",
-        "furigana": "",
+        "furigana": "察",
         "kana": "",
         "answer": "察"
       },
       {
         "japanese": "由",
         "english": "wherefore",
-        "furigana": "",
+        "furigana": "由",
         "kana": "",
         "answer": "由"
       },
       {
         "japanese": "油",
         "english": "oil",
-        "furigana": "",
+        "furigana": "油",
         "kana": "",
         "answer": "油"
       },
       {
         "japanese": "届",
         "english": "deliver",
-        "furigana": "",
+        "furigana": "届",
         "kana": "",
         "answer": "届"
       },
       {
         "japanese": "押",
         "english": "push",
-        "furigana": "",
+        "furigana": "押",
         "kana": "",
         "answer": "押"
       },
       {
         "japanese": "申",
         "english": "speaketh",
-        "furigana": "",
+        "furigana": "申",
         "kana": "",
         "answer": "申"
       },
       {
         "japanese": "伸",
         "english": "expand",
-        "furigana": "",
+        "furigana": "伸",
         "kana": "",
         "answer": "伸"
       },
       {
         "japanese": "神",
         "english": "gods",
-        "furigana": "",
+        "furigana": "神",
         "kana": "",
         "answer": "神"
       },
       {
         "japanese": "捜",
         "english": "search",
-        "furigana": "",
+        "furigana": "捜",
         "kana": "",
         "answer": "捜"
       },
       {
         "japanese": "果",
         "english": "fruit",
-        "furigana": "",
+        "furigana": "果",
         "kana": "",
         "answer": "果"
       },
       {
         "japanese": "菓",
         "english": "confectionary",
-        "furigana": "",
+        "furigana": "菓",
         "kana": "",
         "answer": "菓"
       },
       {
         "japanese": "所",
         "english": "place",
-        "furigana": "",
+        "furigana": "所",
         "kana": "",
         "answer": "所"
       },
       {
         "japanese": "祈",
         "english": "pray",
-        "furigana": "",
+        "furigana": "祈",
         "kana": "",
         "answer": "祈"
       },
       {
         "japanese": "近",
         "english": "near",
-        "furigana": "",
+        "furigana": "近",
         "kana": "",
         "answer": "近"
       },
       {
         "japanese": "断",
         "english": "severance",
-        "furigana": "",
+        "furigana": "断",
         "kana": "",
         "answer": "断"
       },
       {
         "japanese": "質",
         "english": "substance",
-        "furigana": "",
+        "furigana": "質",
         "kana": "",
         "answer": "質"
       },
       {
         "japanese": "昨",
         "english": "yesterday",
-        "furigana": "",
+        "furigana": "昨",
         "kana": "",
         "answer": "昨"
       },
       {
         "japanese": "作",
         "english": "make",
-        "furigana": "",
+        "furigana": "作",
         "kana": "",
         "answer": "作"
       },
       {
         "japanese": "雪",
         "english": "snow",
-        "furigana": "",
+        "furigana": "雪",
         "kana": "",
         "answer": "雪"
       },
       {
         "japanese": "録",
         "english": "record",
-        "furigana": "",
+        "furigana": "録",
         "kana": "",
         "answer": "録"
       },
       {
         "japanese": "尋",
         "english": "inquire",
-        "furigana": "",
+        "furigana": "尋",
         "kana": "",
         "answer": "尋"
       },
       {
         "japanese": "急",
         "english": "hurry",
-        "furigana": "",
+        "furigana": "急",
         "kana": "",
         "answer": "急"
       },
       {
         "japanese": "穏",
         "english": "calm",
-        "furigana": "",
+        "furigana": "穏",
         "kana": "",
         "answer": "穏"
       },
       {
         "japanese": "寝",
         "english": "lie down",
-        "furigana": "",
+        "furigana": "寝",
         "kana": "",
         "answer": "寝"
       },
       {
         "japanese": "掃",
         "english": "sweep",
-        "furigana": "",
+        "furigana": "掃",
         "kana": "",
         "answer": "掃"
       },
       {
         "japanese": "当",
         "english": "hit",
-        "furigana": "",
+        "furigana": "当",
         "kana": "",
         "answer": "当"
       },
       {
         "japanese": "争",
         "english": "contend",
-        "furigana": "",
+        "furigana": "争",
         "kana": "",
         "answer": "争"
       },
       {
         "japanese": "事",
         "english": "matter",
-        "furigana": "",
+        "furigana": "事",
         "kana": "",
         "answer": "事"
       },
       {
         "japanese": "君",
         "english": "old boy",
-        "furigana": "",
+        "furigana": "君",
         "kana": "",
         "answer": "君"
       },
       {
         "japanese": "耐",
         "english": "-proof",
-        "furigana": "",
+        "furigana": "耐",
         "kana": "",
         "answer": "耐"
       },
       {
         "japanese": "両",
         "english": "both",
-        "furigana": "",
+        "furigana": "両",
         "kana": "",
         "answer": "両"
       },
       {
         "japanese": "満",
         "english": "full",
-        "furigana": "",
+        "furigana": "満",
         "kana": "",
         "answer": "満"
       },
       {
         "japanese": "画",
         "english": "brush-stroke",
-        "furigana": "",
+        "furigana": "画",
         "kana": "",
         "answer": "画"
       },
       {
         "japanese": "料",
         "english": "fee",
-        "furigana": "",
+        "furigana": "料",
         "kana": "",
         "answer": "料"
       },
       {
         "japanese": "用",
         "english": "utilize",
-        "furigana": "",
+        "furigana": "用",
         "kana": "",
         "answer": "用"
       },
       {
         "japanese": "備",
         "english": "equip",
-        "furigana": "",
+        "furigana": "備",
         "kana": "",
         "answer": "備"
       },
       {
         "japanese": "昔",
         "english": "once upon a time",
-        "furigana": "",
+        "furigana": "昔",
         "kana": "",
         "answer": "昔"
       },
       {
         "japanese": "借",
         "english": "borrow",
-        "furigana": "",
+        "furigana": "借",
         "kana": "",
         "answer": "借"
       },
       {
         "japanese": "席",
         "english": "seat",
-        "furigana": "",
+        "furigana": "席",
         "kana": "",
         "answer": "席"
       },
       {
         "japanese": "度",
         "english": "degrees",
-        "furigana": "",
+        "furigana": "度",
         "kana": "",
         "answer": "度"
       },
       {
         "japanese": "渡",
         "english": "transit",
-        "furigana": "",
+        "furigana": "渡",
         "kana": "",
         "answer": "渡"
       },
       {
         "japanese": "焼",
         "english": "bake",
-        "furigana": "",
+        "furigana": "焼",
         "kana": "",
         "answer": "焼"
       },
       {
         "japanese": "半",
         "english": "half",
-        "furigana": "",
+        "furigana": "半",
         "kana": "",
         "answer": "半"
       },
       {
         "japanese": "判",
         "english": "judgment",
-        "furigana": "",
+        "furigana": "判",
         "kana": "",
         "answer": "判"
       },
       {
         "japanese": "巻",
         "english": "scroll",
-        "furigana": "",
+        "furigana": "巻",
         "kana": "",
         "answer": "巻"
       },
       {
         "japanese": "勝",
         "english": "victory",
-        "furigana": "",
+        "furigana": "勝",
         "kana": "",
         "answer": "勝"
       },
       {
         "japanese": "片",
         "english": "one-sided",
-        "furigana": "",
+        "furigana": "片",
         "kana": "",
         "answer": "片"
       },
       {
         "japanese": "不",
         "english": "negative",
-        "furigana": "",
+        "furigana": "不",
         "kana": "",
         "answer": "不"
       },
       {
         "japanese": "否",
         "english": "negate",
-        "furigana": "",
+        "furigana": "否",
         "kana": "",
         "answer": "否"
       },
       {
         "japanese": "族",
         "english": "tribe",
-        "furigana": "",
+        "furigana": "族",
         "kana": "",
         "answer": "族"
       },
       {
         "japanese": "知",
         "english": "know",
-        "furigana": "",
+        "furigana": "知",
         "kana": "",
         "answer": "知"
       },
       {
         "japanese": "挨",
         "english": "shove",
-        "furigana": "",
+        "furigana": "挨",
         "kana": "",
         "answer": "挨"
       },
       {
         "japanese": "柔",
         "english": "tender",
-        "furigana": "",
+        "furigana": "柔",
         "kana": "",
         "answer": "柔"
       },
       {
         "japanese": "帰",
         "english": "homecoming",
-        "furigana": "",
+        "furigana": "帰",
         "kana": "",
         "answer": "帰"
       },
       {
         "japanese": "引",
         "english": "pull",
-        "furigana": "",
+        "furigana": "引",
         "kana": "",
         "answer": "引"
       },
       {
         "japanese": "強",
         "english": "strong",
-        "furigana": "",
+        "furigana": "強",
         "kana": "",
         "answer": "強"
       },
       {
         "japanese": "弱",
         "english": "weak",
-        "furigana": "",
+        "furigana": "弱",
         "kana": "",
         "answer": "弱"
       },
       {
         "japanese": "第",
         "english": "No.",
-        "furigana": "",
+        "furigana": "第",
         "kana": "",
         "answer": "第"
       },
       {
         "japanese": "弟",
         "english": "younger brother",
-        "furigana": "",
+        "furigana": "弟",
         "kana": "",
         "answer": "弟"
       },
       {
         "japanese": "与",
         "english": "bestow",
-        "furigana": "",
+        "furigana": "与",
         "kana": "",
         "answer": "与"
       },
       {
         "japanese": "写",
         "english": "copy",
-        "furigana": "",
+        "furigana": "写",
         "kana": "",
         "answer": "写"
       },
       {
         "japanese": "身",
         "english": "somebody",
-        "furigana": "",
+        "furigana": "身",
         "kana": "",
         "answer": "身"
       },
       {
         "japanese": "謝",
         "english": "apologize",
-        "furigana": "",
+        "furigana": "謝",
         "kana": "",
         "answer": "謝"
       },
       {
         "japanese": "考",
         "english": "consider",
-        "furigana": "",
+        "furigana": "考",
         "kana": "",
         "answer": "考"
       },
       {
         "japanese": "教",
         "english": "teach",
-        "furigana": "",
+        "furigana": "教",
         "kana": "",
         "answer": "教"
       },
       {
         "japanese": "者",
         "english": "someone",
-        "furigana": "",
+        "furigana": "者",
         "kana": "",
         "answer": "者"
       },
       {
         "japanese": "狭",
         "english": "cramped",
-        "furigana": "",
+        "furigana": "狭",
         "kana": "",
         "answer": "狭"
       },
       {
         "japanese": "挟",
         "english": "sandwiched",
-        "furigana": "",
+        "furigana": "挟",
         "kana": "",
         "answer": "挟"
       },
       {
         "japanese": "頬",
         "english": "cheek",
-        "furigana": "",
+        "furigana": "頬",
         "kana": "",
         "answer": "頬"
       },
       {
         "japanese": "追",
         "english": "chase",
-        "furigana": "",
+        "furigana": "追",
         "kana": "",
         "answer": "追"
       },
       {
         "japanese": "父",
         "english": "father",
-        "furigana": "",
+        "furigana": "父",
         "kana": "",
         "answer": "父"
       },
       {
         "japanese": "効",
         "english": "merit",
-        "furigana": "",
+        "furigana": "効",
         "kana": "",
         "answer": "効"
       },
       {
         "japanese": "校",
         "english": "exam",
-        "furigana": "",
+        "furigana": "校",
         "kana": "",
         "answer": "校"
       },
       {
         "japanese": "足",
         "english": "leg",
-        "furigana": "",
+        "furigana": "足",
         "kana": "",
         "answer": "足"
       },
       {
         "japanese": "距",
         "english": "long-distance",
-        "furigana": "",
+        "furigana": "距",
         "kana": "",
         "answer": "距"
       },
       {
         "japanese": "踏",
         "english": "step",
-        "furigana": "",
+        "furigana": "踏",
         "kana": "",
         "answer": "踏"
       },
       {
         "japanese": "骨",
         "english": "skeleton",
-        "furigana": "",
+        "furigana": "骨",
         "kana": "",
         "answer": "骨"
       },
       {
         "japanese": "過",
         "english": "overdo",
-        "furigana": "",
+        "furigana": "過",
         "kana": "",
         "answer": "過"
       },
       {
         "japanese": "際",
         "english": "occasion",
-        "furigana": "",
+        "furigana": "際",
         "kana": "",
         "answer": "際"
       },
       {
         "japanese": "隙",
         "english": "chink",
-        "furigana": "",
+        "furigana": "隙",
         "kana": "",
         "answer": "隙"
       },
       {
         "japanese": "随",
         "english": "follow",
-        "furigana": "",
+        "furigana": "随",
         "kana": "",
         "answer": "随"
       },
       {
         "japanese": "陽",
         "english": "sunshine",
-        "furigana": "",
+        "furigana": "陽",
         "kana": "",
         "answer": "陽"
       },
       {
         "japanese": "防",
         "english": "ward off",
-        "furigana": "",
+        "furigana": "防",
         "kana": "",
         "answer": "防"
       },
       {
         "japanese": "院",
         "english": "Inst.",
-        "furigana": "",
+        "furigana": "院",
         "kana": "",
         "answer": "院"
       },
       {
         "japanese": "降",
         "english": "descend",
-        "furigana": "",
+        "furigana": "降",
         "kana": "",
         "answer": "降"
       },
       {
         "japanese": "階",
         "english": "story",
-        "furigana": "",
+        "furigana": "階",
         "kana": "",
         "answer": "階"
       },
       {
         "japanese": "隣",
         "english": "neighboring",
-        "furigana": "",
+        "furigana": "隣",
         "kana": "",
         "answer": "隣"
       },
       {
         "japanese": "隠",
         "english": "conceal",
-        "furigana": "",
+        "furigana": "隠",
         "kana": "",
         "answer": "隠"
       },
       {
         "japanese": "穴",
         "english": "hole",
-        "furigana": "",
+        "furigana": "穴",
         "kana": "",
         "answer": "穴"
       },
       {
         "japanese": "空",
         "english": "empty",
-        "furigana": "",
+        "furigana": "空",
         "kana": "",
         "answer": "空"
       },
       {
         "japanese": "突",
         "english": "stab",
-        "furigana": "",
+        "furigana": "突",
         "kana": "",
         "answer": "突"
       },
       {
         "japanese": "究",
         "english": "research",
-        "furigana": "",
+        "furigana": "究",
         "kana": "",
         "answer": "究"
       },
       {
         "japanese": "探",
         "english": "grope",
-        "furigana": "",
+        "furigana": "探",
         "kana": "",
         "answer": "探"
       },
       {
         "japanese": "深",
         "english": "deep",
-        "furigana": "",
+        "furigana": "深",
         "kana": "",
         "answer": "深"
       },
       {
         "japanese": "兵",
         "english": "soldier",
-        "furigana": "",
+        "furigana": "兵",
         "kana": "",
         "answer": "兵"
       },
       {
         "japanese": "織",
         "english": "weave",
-        "furigana": "",
+        "furigana": "織",
         "kana": "",
         "answer": "織"
       },
       {
         "japanese": "練",
         "english": "practice",
-        "furigana": "",
+        "furigana": "練",
         "kana": "",
         "answer": "練"
       },
       {
         "japanese": "緒",
         "english": "thong",
-        "furigana": "",
+        "furigana": "緒",
         "kana": "",
         "answer": "緒"
       },
       {
         "japanese": "続",
         "english": "continue",
-        "furigana": "",
+        "furigana": "続",
         "kana": "",
         "answer": "続"
       },
       {
         "japanese": "絵",
         "english": "picture",
-        "furigana": "",
+        "furigana": "絵",
         "kana": "",
         "answer": "絵"
       },
       {
         "japanese": "絡",
         "english": "entwine",
-        "furigana": "",
+        "furigana": "絡",
         "kana": "",
         "answer": "絡"
       },
       {
         "japanese": "結",
         "english": "tie",
-        "furigana": "",
+        "furigana": "結",
         "kana": "",
         "answer": "結"
       },
       {
         "japanese": "終",
         "english": "end",
-        "furigana": "",
+        "furigana": "終",
         "kana": "",
         "answer": "終"
       },
       {
         "japanese": "納",
         "english": "settlement",
-        "furigana": "",
+        "furigana": "納",
         "kana": "",
         "answer": "納"
       },
       {
         "japanese": "紹",
         "english": "introduce",
-        "furigana": "",
+        "furigana": "紹",
         "kana": "",
         "answer": "紹"
       },
       {
         "japanese": "経",
         "english": "sutra",
-        "furigana": "",
+        "furigana": "経",
         "kana": "",
         "answer": "経"
       },
       {
         "japanese": "約",
         "english": "promise",
-        "furigana": "",
+        "furigana": "約",
         "kana": "",
         "answer": "約"
       },
       {
         "japanese": "細",
         "english": "dainty",
-        "furigana": "",
+        "furigana": "細",
         "kana": "",
         "answer": "細"
       },
       {
         "japanese": "繰",
         "english": "winding",
-        "furigana": "",
+        "furigana": "繰",
         "kana": "",
         "answer": "繰"
       },
       {
         "japanese": "緊",
         "english": "tense",
-        "furigana": "",
+        "furigana": "緊",
         "kana": "",
         "answer": "緊"
       },
       {
         "japanese": "幼",
         "english": "infancy",
-        "furigana": "",
+        "furigana": "幼",
         "kana": "",
         "answer": "幼"
       },
       {
         "japanese": "後",
         "english": "behind",
-        "furigana": "",
+        "furigana": "後",
         "kana": "",
         "answer": "後"
       },
       {
         "japanese": "機",
         "english": "mechanism",
-        "furigana": "",
+        "furigana": "機",
         "kana": "",
         "answer": "機"
       },
       {
         "japanese": "係",
         "english": "person in charge",
-        "furigana": "",
+        "furigana": "係",
         "kana": "",
         "answer": "係"
       },
       {
         "japanese": "服",
         "english": "clothing",
-        "furigana": "",
+        "furigana": "服",
         "kana": "",
         "answer": "服"
       },
       {
         "japanese": "命",
         "english": "fate",
-        "furigana": "",
+        "furigana": "命",
         "kana": "",
         "answer": "命"
       },
       {
         "japanese": "令",
         "english": "orders",
-        "furigana": "",
+        "furigana": "令",
         "kana": "",
         "answer": "令"
       },
       {
         "japanese": "齢",
         "english": "age",
-        "furigana": "",
+        "furigana": "齢",
         "kana": "",
         "answer": "齢"
       },
       {
         "japanese": "冷",
         "english": "cool",
-        "furigana": "",
+        "furigana": "冷",
         "kana": "",
         "answer": "冷"
       },
       {
         "japanese": "勇",
         "english": "courage",
-        "furigana": "",
+        "furigana": "勇",
         "kana": "",
         "answer": "勇"
       },
       {
         "japanese": "通",
         "english": "traffic",
-        "furigana": "",
+        "furigana": "通",
         "kana": "",
         "answer": "通"
       },
       {
         "japanese": "踊",
         "english": "jump",
-        "furigana": "",
+        "furigana": "踊",
         "kana": "",
         "answer": "踊"
       },
       {
         "japanese": "疑",
         "english": "doubt",
-        "furigana": "",
+        "furigana": "疑",
         "kana": "",
         "answer": "疑"
       },
       {
         "japanese": "範",
         "english": "pattern",
-        "furigana": "",
+        "furigana": "範",
         "kana": "",
         "answer": "範"
       },
       {
         "japanese": "犯",
         "english": "crime",
-        "furigana": "",
+        "furigana": "犯",
         "kana": "",
         "answer": "犯"
       },
       {
         "japanese": "危",
         "english": "dangerous",
-        "furigana": "",
+        "furigana": "危",
         "kana": "",
         "answer": "危"
       },
       {
         "japanese": "腕",
         "english": "arm",
-        "furigana": "",
+        "furigana": "腕",
         "kana": "",
         "answer": "腕"
       },
       {
         "japanese": "印",
         "english": "stamp",
-        "furigana": "",
+        "furigana": "印",
         "kana": "",
         "answer": "印"
       },
       {
         "japanese": "興",
         "english": "entertain",
-        "furigana": "",
+        "furigana": "興",
         "kana": "",
         "answer": "興"
       },
       {
         "japanese": "酒",
         "english": "sake",
-        "furigana": "",
+        "furigana": "酒",
         "kana": "",
         "answer": "酒"
       },
       {
         "japanese": "酷",
         "english": "cruel",
-        "furigana": "",
+        "furigana": "酷",
         "kana": "",
         "answer": "酷"
       },
       {
         "japanese": "配",
         "english": "distribute",
-        "furigana": "",
+        "furigana": "配",
         "kana": "",
         "answer": "配"
       },
       {
         "japanese": "頭",
         "english": "head",
-        "furigana": "",
+        "furigana": "頭",
         "kana": "",
         "answer": "頭"
       },
       {
         "japanese": "短",
         "english": "short",
-        "furigana": "",
+        "furigana": "短",
         "kana": "",
         "answer": "短"
       },
       {
         "japanese": "喜",
         "english": "rejoice",
-        "furigana": "",
+        "furigana": "喜",
         "kana": "",
         "answer": "喜"
       },
       {
         "japanese": "血",
         "english": "blood",
-        "furigana": "",
+        "furigana": "血",
         "kana": "",
         "answer": "血"
       },
       {
         "japanese": "限",
         "english": "limit",
-        "furigana": "",
+        "furigana": "限",
         "kana": "",
         "answer": "限"
       },
       {
         "japanese": "良",
         "english": "good",
-        "furigana": "",
+        "furigana": "良",
         "kana": "",
         "answer": "良"
       },
       {
         "japanese": "娘",
         "english": "daughter",
-        "furigana": "",
+        "furigana": "娘",
         "kana": "",
         "answer": "娘"
       },
       {
         "japanese": "食",
         "english": "eat",
-        "furigana": "",
+        "furigana": "食",
         "kana": "",
         "answer": "食"
       },
       {
         "japanese": "飯",
         "english": "meal",
-        "furigana": "",
+        "furigana": "飯",
         "kana": "",
         "answer": "飯"
       },
       {
         "japanese": "飲",
         "english": "drink",
-        "furigana": "",
+        "furigana": "飲",
         "kana": "",
         "answer": "飲"
       },
       {
         "japanese": "既",
         "english": "previously",
-        "furigana": "",
+        "furigana": "既",
         "kana": "",
         "answer": "既"
       },
       {
         "japanese": "平",
         "english": "even",
-        "furigana": "",
+        "furigana": "平",
         "kana": "",
         "answer": "平"
       },
       {
         "japanese": "呼",
         "english": "call",
-        "furigana": "",
+        "furigana": "呼",
         "kana": "",
         "answer": "呼"
       },
       {
         "japanese": "評",
         "english": "evaluate",
-        "furigana": "",
+        "furigana": "評",
         "kana": "",
         "answer": "評"
       },
       {
         "japanese": "希",
         "english": "hope",
-        "furigana": "",
+        "furigana": "希",
         "kana": "",
         "answer": "希"
       },
       {
         "japanese": "胸",
         "english": "bosom",
-        "furigana": "",
+        "furigana": "胸",
         "kana": "",
         "answer": "胸"
       },
       {
         "japanese": "離",
         "english": "detach",
-        "furigana": "",
+        "furigana": "離",
         "kana": "",
         "answer": "離"
       },
       {
         "japanese": "殺",
         "english": "kill",
-        "furigana": "",
+        "furigana": "殺",
         "kana": "",
         "answer": "殺"
       },
       {
         "japanese": "純",
         "english": "genuine",
-        "furigana": "",
+        "furigana": "純",
         "kana": "",
         "answer": "純"
       },
       {
         "japanese": "辛",
         "english": "spicy",
-        "furigana": "",
+        "furigana": "辛",
         "kana": "",
         "answer": "辛"
       },
       {
         "japanese": "壁",
         "english": "wall",
-        "furigana": "",
+        "furigana": "壁",
         "kana": "",
         "answer": "壁"
       },
       {
         "japanese": "璧",
         "english": "holed gem",
-        "furigana": "",
+        "furigana": "璧",
         "kana": "",
         "answer": "璧"
       },
       {
         "japanese": "避",
         "english": "evade",
-        "furigana": "",
+        "furigana": "避",
         "kana": "",
         "answer": "避"
       },
       {
         "japanese": "新",
         "english": "new",
-        "furigana": "",
+        "furigana": "新",
         "kana": "",
         "answer": "新"
       },
       {
         "japanese": "親",
         "english": "parent",
-        "furigana": "",
+        "furigana": "親",
         "kana": "",
         "answer": "親"
       },
       {
         "japanese": "幸",
         "english": "happiness",
-        "furigana": "",
+        "furigana": "幸",
         "kana": "",
         "answer": "幸"
       },
       {
         "japanese": "報",
         "english": "report",
-        "furigana": "",
+        "furigana": "報",
         "kana": "",
         "answer": "報"
       },
       {
         "japanese": "叫",
         "english": "shout",
-        "furigana": "",
+        "furigana": "叫",
         "kana": "",
         "answer": "叫"
       },
       {
         "japanese": "収",
         "english": "income",
-        "furigana": "",
+        "furigana": "収",
         "kana": "",
         "answer": "収"
       },
       {
         "japanese": "勢",
         "english": "forces",
-        "furigana": "",
+        "furigana": "勢",
         "kana": "",
         "answer": "勢"
       },
       {
         "japanese": "熱",
         "english": "heat",
-        "furigana": "",
+        "furigana": "熱",
         "kana": "",
         "answer": "熱"
       },
       {
         "japanese": "術",
         "english": "art",
-        "furigana": "",
+        "furigana": "術",
         "kana": "",
         "answer": "術"
       },
       {
         "japanese": "寒",
         "english": "cold",
-        "furigana": "",
+        "furigana": "寒",
         "kana": "",
         "answer": "寒"
       },
       {
         "japanese": "毒",
         "english": "poison",
-        "furigana": "",
+        "furigana": "毒",
         "kana": "",
         "answer": "毒"
       },
       {
         "japanese": "素",
         "english": "elementary",
-        "furigana": "",
+        "furigana": "素",
         "kana": "",
         "answer": "素"
       },
       {
         "japanese": "青",
         "english": "blue",
-        "furigana": "",
+        "furigana": "青",
         "kana": "",
         "answer": "青"
       },
       {
         "japanese": "精",
         "english": "refined",
-        "furigana": "",
+        "furigana": "精",
         "kana": "",
         "answer": "精"
       },
       {
         "japanese": "情",
         "english": "feelings",
-        "furigana": "",
+        "furigana": "情",
         "kana": "",
         "answer": "情"
       },
       {
         "japanese": "晴",
         "english": "clear up",
-        "furigana": "",
+        "furigana": "晴",
         "kana": "",
         "answer": "晴"
       },
       {
         "japanese": "静",
         "english": "quiet",
-        "furigana": "",
+        "furigana": "静",
         "kana": "",
         "answer": "静"
       },
       {
         "japanese": "責",
         "english": "blame",
-        "furigana": "",
+        "furigana": "責",
         "kana": "",
         "answer": "責"
       },
       {
         "japanese": "表",
         "english": "surface",
-        "furigana": "",
+        "furigana": "表",
         "kana": "",
         "answer": "表"
       },
       {
         "japanese": "契",
         "english": "pledge",
-        "furigana": "",
+        "furigana": "契",
         "kana": "",
         "answer": "契"
       },
       {
         "japanese": "生",
         "english": "life",
-        "furigana": "",
+        "furigana": "生",
         "kana": "",
         "answer": "生"
       },
       {
         "japanese": "星",
         "english": "star",
-        "furigana": "",
+        "furigana": "星",
         "kana": "",
         "answer": "星"
       },
       {
         "japanese": "性",
         "english": "sex",
-        "furigana": "",
+        "furigana": "性",
         "kana": "",
         "answer": "性"
       },
       {
         "japanese": "春",
         "english": "springtime",
-        "furigana": "",
+        "furigana": "春",
         "kana": "",
         "answer": "春"
       },
       {
         "japanese": "実",
         "english": "reality",
-        "furigana": "",
+        "furigana": "実",
         "kana": "",
         "answer": "実"
       },
       {
         "japanese": "難",
         "english": "difficult",
-        "furigana": "",
+        "furigana": "難",
         "kana": "",
         "answer": "難"
       },
       {
         "japanese": "乗",
         "english": "ride",
-        "furigana": "",
+        "furigana": "乗",
         "kana": "",
         "answer": "乗"
       },
       {
         "japanese": "今",
         "english": "now",
-        "furigana": "",
+        "furigana": "今",
         "kana": "",
         "answer": "今"
       },
       {
         "japanese": "含",
         "english": "include",
-        "furigana": "",
+        "furigana": "含",
         "kana": "",
         "answer": "含"
       },
       {
         "japanese": "念",
         "english": "wish",
-        "furigana": "",
+        "furigana": "念",
         "kana": "",
         "answer": "念"
       },
       {
         "japanese": "陰",
         "english": "shade",
-        "furigana": "",
+        "furigana": "陰",
         "kana": "",
         "answer": "陰"
       },
       {
         "japanese": "予",
         "english": "beforehand",
-        "furigana": "",
+        "furigana": "予",
         "kana": "",
         "answer": "予"
       },
       {
         "japanese": "預",
         "english": "deposit",
-        "furigana": "",
+        "furigana": "預",
         "kana": "",
         "answer": "預"
       },
       {
         "japanese": "嫌",
         "english": "dislike",
-        "furigana": "",
+        "furigana": "嫌",
         "kana": "",
         "answer": "嫌"
       },
       {
         "japanese": "価",
         "english": "value",
-        "furigana": "",
+        "furigana": "価",
         "kana": "",
         "answer": "価"
       },
       {
         "japanese": "要",
         "english": "need",
-        "furigana": "",
+        "furigana": "要",
         "kana": "",
         "answer": "要"
       },
       {
         "japanese": "腰",
         "english": "loins",
-        "furigana": "",
+        "furigana": "腰",
         "kana": "",
         "answer": "腰"
       },
       {
         "japanese": "漂",
         "english": "drift",
-        "furigana": "",
+        "furigana": "漂",
         "kana": "",
         "answer": "漂"
       },
       {
         "japanese": "標",
         "english": "signpost",
-        "furigana": "",
+        "furigana": "標",
         "kana": "",
         "answer": "標"
       },
       {
         "japanese": "覆",
         "english": "capsize",
-        "furigana": "",
+        "furigana": "覆",
         "kana": "",
         "answer": "覆"
       },
       {
         "japanese": "門",
         "english": "gates",
-        "furigana": "",
+        "furigana": "門",
         "kana": "",
         "answer": "門"
       },
       {
         "japanese": "問",
         "english": "question",
-        "furigana": "",
+        "furigana": "問",
         "kana": "",
         "answer": "問"
       },
       {
         "japanese": "間",
         "english": "interval",
-        "furigana": "",
+        "furigana": "間",
         "kana": "",
         "answer": "間"
       },
       {
         "japanese": "闇",
         "english": "pitch dark",
-        "furigana": "",
+        "furigana": "闇",
         "kana": "",
         "answer": "闇"
       },
       {
         "japanese": "簡",
         "english": "simplicity",
-        "furigana": "",
+        "furigana": "簡",
         "kana": "",
         "answer": "簡"
       },
       {
         "japanese": "開",
         "english": "open",
-        "furigana": "",
+        "furigana": "開",
         "kana": "",
         "answer": "開"
       },
       {
         "japanese": "閉",
         "english": "closed",
-        "furigana": "",
+        "furigana": "閉",
         "kana": "",
         "answer": "閉"
       },
       {
         "japanese": "聞",
         "english": "hear",
-        "furigana": "",
+        "furigana": "聞",
         "kana": "",
         "answer": "聞"
       },
       {
         "japanese": "闘",
         "english": "fight",
-        "furigana": "",
+        "furigana": "闘",
         "kana": "",
         "answer": "闘"
       },
       {
         "japanese": "非",
         "english": "un-",
-        "furigana": "",
+        "furigana": "非",
         "kana": "",
         "answer": "非"
       },
       {
         "japanese": "悲",
         "english": "sad",
-        "furigana": "",
+        "furigana": "悲",
         "kana": "",
         "answer": "悲"
       },
       {
         "japanese": "罪",
         "english": "guilt",
-        "furigana": "",
+        "furigana": "罪",
         "kana": "",
         "answer": "罪"
       },
       {
         "japanese": "輩",
         "english": "comrade",
-        "furigana": "",
+        "furigana": "輩",
         "kana": "",
         "answer": "輩"
       },
       {
         "japanese": "扉",
         "english": "front door",
-        "furigana": "",
+        "furigana": "扉",
         "kana": "",
         "answer": "扉"
       },
       {
         "japanese": "喉",
         "english": "throat",
-        "furigana": "",
+        "furigana": "喉",
         "kana": "",
         "answer": "喉"
       },
       {
         "japanese": "決",
         "english": "decide",
-        "furigana": "",
+        "furigana": "決",
         "kana": "",
         "answer": "決"
       },
       {
         "japanese": "偉",
         "english": "admirable",
-        "furigana": "",
+        "furigana": "偉",
         "kana": "",
         "answer": "偉"
       },
       {
         "japanese": "違",
         "english": "difference",
-        "furigana": "",
+        "furigana": "違",
         "kana": "",
         "answer": "違"
       },
       {
         "japanese": "汗",
         "english": "sweat",
-        "furigana": "",
+        "furigana": "汗",
         "kana": "",
         "answer": "汗"
       },
       {
         "japanese": "余",
         "english": "too much",
-        "furigana": "",
+        "furigana": "余",
         "kana": "",
         "answer": "余"
       },
       {
         "japanese": "除",
         "english": "exclude",
-        "furigana": "",
+        "furigana": "除",
         "kana": "",
         "answer": "除"
       },
       {
         "japanese": "途",
         "english": "route",
-        "furigana": "",
+        "furigana": "途",
         "kana": "",
         "answer": "途"
       },
       {
         "japanese": "束",
         "english": "bundle",
-        "furigana": "",
+        "furigana": "束",
         "kana": "",
         "answer": "束"
       },
       {
         "japanese": "頼",
         "english": "trust",
-        "furigana": "",
+        "furigana": "頼",
         "kana": "",
         "answer": "頼"
       },
       {
         "japanese": "速",
         "english": "quick",
-        "furigana": "",
+        "furigana": "速",
         "kana": "",
         "answer": "速"
       },
       {
         "japanese": "整",
         "english": "organize",
-        "furigana": "",
+        "furigana": "整",
         "kana": "",
         "answer": "整"
       },
       {
         "japanese": "剣",
         "english": "saber",
-        "furigana": "",
+        "furigana": "剣",
         "kana": "",
         "answer": "剣"
       },
       {
         "japanese": "険",
         "english": "precipitous",
-        "furigana": "",
+        "furigana": "険",
         "kana": "",
         "answer": "険"
       },
       {
         "japanese": "重",
         "english": "heavy",
-        "furigana": "",
+        "furigana": "重",
         "kana": "",
         "answer": "重"
       },
       {
         "japanese": "動",
         "english": "move",
-        "furigana": "",
+        "furigana": "動",
         "kana": "",
         "answer": "動"
       },
       {
         "japanese": "働",
         "english": "work",
-        "furigana": "",
+        "furigana": "働",
         "kana": "",
         "answer": "働"
       },
       {
         "japanese": "種",
         "english": "species",
-        "furigana": "",
+        "furigana": "種",
         "kana": "",
         "answer": "種"
       },
       {
         "japanese": "衝",
         "english": "collide",
-        "furigana": "",
+        "furigana": "衝",
         "kana": "",
         "answer": "衝"
       },
       {
         "japanese": "病",
         "english": "ill",
-        "furigana": "",
+        "furigana": "病",
         "kana": "",
         "answer": "病"
       },
       {
         "japanese": "疲",
         "english": "tired",
-        "furigana": "",
+        "furigana": "疲",
         "kana": "",
         "answer": "疲"
       },
       {
         "japanese": "痛",
         "english": "pain",
-        "furigana": "",
+        "furigana": "痛",
         "kana": "",
         "answer": "痛"
       },
       {
         "japanese": "殴",
         "english": "assault",
-        "furigana": "",
+        "furigana": "殴",
         "kana": "",
         "answer": "殴"
       },
       {
         "japanese": "抑",
         "english": "repress",
-        "furigana": "",
+        "furigana": "抑",
         "kana": "",
         "answer": "抑"
       },
       {
         "japanese": "迎",
         "english": "welcome",
-        "furigana": "",
+        "furigana": "迎",
         "kana": "",
         "answer": "迎"
       },
       {
         "japanese": "発",
         "english": "discharge",
-        "furigana": "",
+        "furigana": "発",
         "kana": "",
         "answer": "発"
       },
       {
         "japanese": "形",
         "english": "shape",
-        "furigana": "",
+        "furigana": "形",
         "kana": "",
         "answer": "形"
       },
       {
         "japanese": "影",
         "english": "shadow",
-        "furigana": "",
+        "furigana": "影",
         "kana": "",
         "answer": "影"
       },
       {
         "japanese": "顔",
         "english": "face",
-        "furigana": "",
+        "furigana": "顔",
         "kana": "",
         "answer": "顔"
       },
       {
         "japanese": "参",
         "english": "visit",
-        "furigana": "",
+        "furigana": "参",
         "kana": "",
         "answer": "参"
       },
       {
         "japanese": "珍",
         "english": "rare",
-        "furigana": "",
+        "furigana": "珍",
         "kana": "",
         "answer": "珍"
       },
       {
         "japanese": "文",
         "english": "sentence",
-        "furigana": "",
+        "furigana": "文",
         "kana": "",
         "answer": "文"
       },
       {
         "japanese": "対",
         "english": "vis-a-vis",
-        "furigana": "",
+        "furigana": "対",
         "kana": "",
         "answer": "対"
       },
       {
         "japanese": "済",
         "english": "finish",
-        "furigana": "",
+        "furigana": "済",
         "kana": "",
         "answer": "済"
       },
       {
         "japanese": "楽",
         "english": "music",
-        "furigana": "",
+        "furigana": "楽",
         "kana": "",
         "answer": "楽"
       },
       {
         "japanese": "薬",
         "english": "medicine",
-        "furigana": "",
+        "furigana": "薬",
         "kana": "",
         "answer": "薬"
       },
       {
         "japanese": "央",
         "english": "center",
-        "furigana": "",
+        "furigana": "央",
         "kana": "",
         "answer": "央"
       },
       {
         "japanese": "映",
         "english": "reflect",
-        "furigana": "",
+        "furigana": "映",
         "kana": "",
         "answer": "映"
       },
       {
         "japanese": "赤",
         "english": "red",
-        "furigana": "",
+        "furigana": "赤",
         "kana": "",
         "answer": "赤"
       },
       {
         "japanese": "変",
         "english": "unusual",
-        "furigana": "",
+        "furigana": "変",
         "kana": "",
         "answer": "変"
       },
       {
         "japanese": "恋",
         "english": "romance",
-        "furigana": "",
+        "furigana": "恋",
         "kana": "",
         "answer": "恋"
       },
       {
         "japanese": "横",
         "english": "sideways",
-        "furigana": "",
+        "furigana": "横",
         "kana": "",
         "answer": "横"
       },
       {
         "japanese": "色",
         "english": "color",
-        "furigana": "",
+        "furigana": "色",
         "kana": "",
         "answer": "色"
       },
       {
         "japanese": "絶",
         "english": "discontinue",
-        "furigana": "",
+        "furigana": "絶",
         "kana": "",
         "answer": "絶"
       },
       {
         "japanese": "甘",
         "english": "sweet",
-        "furigana": "",
+        "furigana": "甘",
         "kana": "",
         "answer": "甘"
       },
       {
         "japanese": "期",
         "english": "period",
-        "furigana": "",
+        "furigana": "期",
         "kana": "",
         "answer": "期"
       },
       {
         "japanese": "勘",
         "english": "intuition",
-        "furigana": "",
+        "furigana": "勘",
         "kana": "",
         "answer": "勘"
       },
       {
         "japanese": "貴",
         "english": "precious",
-        "furigana": "",
+        "furigana": "貴",
         "kana": "",
         "answer": "貴"
       },
       {
         "japanese": "潰",
         "english": "defile",
-        "furigana": "",
+        "furigana": "潰",
         "kana": "",
         "answer": "潰"
       },
       {
         "japanese": "無",
         "english": "nothingness",
-        "furigana": "",
+        "furigana": "無",
         "kana": "",
         "answer": "無"
       },
       {
         "japanese": "組",
         "english": "association",
-        "furigana": "",
+        "furigana": "組",
         "kana": "",
         "answer": "組"
       },
       {
         "japanese": "狙",
         "english": "aim at",
-        "furigana": "",
+        "furigana": "狙",
         "kana": "",
         "answer": "狙"
       },
       {
         "japanese": "査",
         "english": "investigate",
-        "furigana": "",
+        "furigana": "査",
         "kana": "",
         "answer": "査"
       },
       {
         "japanese": "助",
         "english": "help",
-        "furigana": "",
+        "furigana": "助",
         "kana": "",
         "answer": "助"
       },
       {
         "japanese": "並",
         "english": "row",
-        "furigana": "",
+        "furigana": "並",
         "kana": "",
         "answer": "並"
       },
       {
         "japanese": "普",
         "english": "universal",
-        "furigana": "",
+        "furigana": "普",
         "kana": "",
         "answer": "普"
       },
       {
         "japanese": "業",
         "english": "profession",
-        "furigana": "",
+        "furigana": "業",
         "kana": "",
         "answer": "業"
       },
       {
         "japanese": "僕",
         "english": "me",
-        "furigana": "",
+        "furigana": "僕",
         "kana": "",
         "answer": "僕"
       },
       {
         "japanese": "供",
         "english": "submit",
-        "furigana": "",
+        "furigana": "供",
         "kana": "",
         "answer": "供"
       },
       {
         "japanese": "異",
         "english": "uncommon",
-        "furigana": "",
+        "furigana": "異",
         "kana": "",
         "answer": "異"
       },
       {
         "japanese": "暴",
         "english": "outburst",
-        "furigana": "",
+        "furigana": "暴",
         "kana": "",
         "answer": "暴"
       },
       {
         "japanese": "爆",
         "english": "bomb",
-        "furigana": "",
+        "furigana": "爆",
         "kana": "",
         "answer": "爆"
       },
       {
         "japanese": "選",
         "english": "elect",
-        "furigana": "",
+        "furigana": "選",
         "kana": "",
         "answer": "選"
       },
       {
         "japanese": "井",
         "english": "well",
-        "furigana": "",
+        "furigana": "井",
         "kana": "",
         "answer": "井"
       },
       {
         "japanese": "囲",
         "english": "surround",
-        "furigana": "",
+        "furigana": "囲",
         "kana": "",
         "answer": "囲"
       },
       {
         "japanese": "悪",
         "english": "bad",
-        "furigana": "",
+        "furigana": "悪",
         "kana": "",
         "answer": "悪"
       },
       {
         "japanese": "触",
         "english": "contact",
-        "furigana": "",
+        "furigana": "触",
         "kana": "",
         "answer": "触"
       },
       {
         "japanese": "解",
         "english": "unravel",
-        "furigana": "",
+        "furigana": "解",
         "kana": "",
         "answer": "解"
       },
       {
         "japanese": "再",
         "english": "again",
-        "furigana": "",
+        "furigana": "再",
         "kana": "",
         "answer": "再"
       },
       {
         "japanese": "構",
         "english": "posture",
-        "furigana": "",
+        "furigana": "構",
         "kana": "",
         "answer": "構"
       },
       {
         "japanese": "紙",
         "english": "paper",
-        "furigana": "",
+        "furigana": "紙",
         "kana": "",
         "answer": "紙"
       },
       {
         "japanese": "婚",
         "english": "marriage",
-        "furigana": "",
+        "furigana": "婚",
         "kana": "",
         "answer": "婚"
       },
       {
         "japanese": "低",
         "english": "lower",
-        "furigana": "",
+        "furigana": "低",
         "kana": "",
         "answer": "低"
       },
       {
         "japanese": "抵",
         "english": "resist",
-        "furigana": "",
+        "furigana": "抵",
         "kana": "",
         "answer": "抵"
       },
       {
         "japanese": "底",
         "english": "bottom",
-        "furigana": "",
+        "furigana": "底",
         "kana": "",
         "answer": "底"
       },
       {
         "japanese": "眠",
         "english": "sleep",
-        "furigana": "",
+        "furigana": "眠",
         "kana": "",
         "answer": "眠"
       },
       {
         "japanese": "捕",
         "english": "catch",
-        "furigana": "",
+        "furigana": "捕",
         "kana": "",
         "answer": "捕"
       },
       {
         "japanese": "部",
         "english": "section",
-        "furigana": "",
+        "furigana": "部",
         "kana": "",
         "answer": "部"
       },
       {
         "japanese": "響",
         "english": "echo",
-        "furigana": "",
+        "furigana": "響",
         "kana": "",
         "answer": "響"
       },
       {
         "japanese": "廊",
         "english": "corridor",
-        "furigana": "",
+        "furigana": "廊",
         "kana": "",
         "answer": "廊"
       },
       {
         "japanese": "派",
         "english": "faction",
-        "furigana": "",
+        "furigana": "派",
         "kana": "",
         "answer": "派"
       },
       {
         "japanese": "段",
         "english": "grade",
-        "furigana": "",
+        "furigana": "段",
         "kana": "",
         "answer": "段"
       },
       {
         "japanese": "船",
         "english": "ship",
-        "furigana": "",
+        "furigana": "船",
         "kana": "",
         "answer": "船"
       },
       {
         "japanese": "暇",
         "english": "spare time",
-        "furigana": "",
+        "furigana": "暇",
         "kana": "",
         "answer": "暇"
       },
       {
         "japanese": "敷",
         "english": "spread",
-        "furigana": "",
+        "furigana": "敷",
         "kana": "",
         "answer": "敷"
       },
       {
         "japanese": "来",
         "english": "come",
-        "furigana": "",
+        "furigana": "来",
         "kana": "",
         "answer": "来"
       },
       {
         "japanese": "気",
         "english": "spirit",
-        "furigana": "",
+        "furigana": "気",
         "kana": "",
         "answer": "気"
       },
       {
         "japanese": "飛",
         "english": "fly",
-        "furigana": "",
+        "furigana": "飛",
         "kana": "",
         "answer": "飛"
       },
       {
         "japanese": "沈",
         "english": "sink",
-        "furigana": "",
+        "furigana": "沈",
         "kana": "",
         "answer": "沈"
       },
       {
         "japanese": "妻",
         "english": "wife",
-        "furigana": "",
+        "furigana": "妻",
         "kana": "",
         "answer": "妻"
       },
       {
         "japanese": "凄",
         "english": "nifty",
-        "furigana": "",
+        "furigana": "凄",
         "kana": "",
         "answer": "凄"
       },
       {
         "japanese": "面",
         "english": "mask",
-        "furigana": "",
+        "furigana": "面",
         "kana": "",
         "answer": "面"
       },
       {
         "japanese": "声",
         "english": "voice",
-        "furigana": "",
+        "furigana": "声",
         "kana": "",
         "answer": "声"
       },
       {
         "japanese": "誤",
         "english": "mistake",
-        "furigana": "",
+        "furigana": "誤",
         "kana": "",
         "answer": "誤"
       },
       {
         "japanese": "邪",
         "english": "wicked",
-        "furigana": "",
+        "furigana": "邪",
         "kana": "",
         "answer": "邪"
       },
       {
         "japanese": "番",
         "english": "turn",
-        "furigana": "",
+        "furigana": "番",
         "kana": "",
         "answer": "番"
       },
       {
         "japanese": "為",
         "english": "do",
-        "furigana": "",
+        "furigana": "為",
         "kana": "",
         "answer": "為"
       },
       {
         "japanese": "長",
         "english": "long",
-        "furigana": "",
+        "furigana": "長",
         "kana": "",
         "answer": "長"
       },
       {
         "japanese": "張",
         "english": "lengthen",
-        "furigana": "",
+        "furigana": "張",
         "kana": "",
         "answer": "張"
       },
       {
         "japanese": "髪",
         "english": "hair of the head",
-        "furigana": "",
+        "furigana": "髪",
         "kana": "",
         "answer": "髪"
       },
       {
         "japanese": "展",
         "english": "unfold",
-        "furigana": "",
+        "furigana": "展",
         "kana": "",
         "answer": "展"
       },
       {
         "japanese": "単",
         "english": "simple",
-        "furigana": "",
+        "furigana": "単",
         "kana": "",
         "answer": "単"
       },
       {
         "japanese": "戦",
         "english": "war",
-        "furigana": "",
+        "furigana": "戦",
         "kana": "",
         "answer": "戦"
       },
       {
         "japanese": "弾",
         "english": "bullet",
-        "furigana": "",
+        "furigana": "弾",
         "kana": "",
         "answer": "弾"
       },
       {
         "japanese": "獣",
         "english": "animal",
-        "furigana": "",
+        "furigana": "獣",
         "kana": "",
         "answer": "獣"
       },
       {
         "japanese": "悩",
         "english": "trouble",
-        "furigana": "",
+        "furigana": "悩",
         "kana": "",
         "answer": "悩"
       },
       {
         "japanese": "厳",
         "english": "stern",
-        "furigana": "",
+        "furigana": "厳",
         "kana": "",
         "answer": "厳"
       },
       {
         "japanese": "鳥",
         "english": "bird",
-        "furigana": "",
+        "furigana": "鳥",
         "kana": "",
         "answer": "鳥"
       },
       {
         "japanese": "鳴",
         "english": "chirp",
-        "furigana": "",
+        "furigana": "鳴",
         "kana": "",
         "answer": "鳴"
       },
       {
         "japanese": "島",
         "english": "island",
-        "furigana": "",
+        "furigana": "島",
         "kana": "",
         "answer": "島"
       },
       {
         "japanese": "援",
         "english": "abet",
-        "furigana": "",
+        "furigana": "援",
         "kana": "",
         "answer": "援"
       },
       {
         "japanese": "偶",
         "english": "accidentally",
-        "furigana": "",
+        "furigana": "偶",
         "kana": "",
         "answer": "偶"
       },
       {
         "japanese": "逆",
         "english": "inverted",
-        "furigana": "",
+        "furigana": "逆",
         "kana": "",
         "answer": "逆"
       },
       {
         "japanese": "揺",
         "english": "swing",
-        "furigana": "",
+        "furigana": "揺",
         "kana": "",
         "answer": "揺"
       },
       {
         "japanese": "勉",
         "english": "exertion",
-        "furigana": "",
+        "furigana": "勉",
         "kana": "",
         "answer": "勉"
       },
       {
         "japanese": "象",
         "english": "elephant",
-        "furigana": "",
+        "furigana": "象",
         "kana": "",
         "answer": "象"
       },
       {
         "japanese": "像",
         "english": "statue",
-        "furigana": "",
+        "furigana": "像",
         "kana": "",
         "answer": "像"
       },
       {
         "japanese": "馬",
         "english": "horse",
-        "furigana": "",
+        "furigana": "馬",
         "kana": "",
         "answer": "馬"
       },
       {
         "japanese": "験",
         "english": "verification",
-        "furigana": "",
+        "furigana": "験",
         "kana": "",
         "answer": "験"
       },
       {
         "japanese": "騒",
         "english": "boisterous",
-        "furigana": "",
+        "furigana": "騒",
         "kana": "",
         "answer": "騒"
       },
       {
         "japanese": "駄",
         "english": "burdensome",
-        "furigana": "",
+        "furigana": "駄",
         "kana": "",
         "answer": "駄"
       },
       {
         "japanese": "驚",
         "english": "wonder",
-        "furigana": "",
+        "furigana": "驚",
         "kana": "",
         "answer": "驚"
       },
       {
         "japanese": "慮",
         "english": "prudence",
-        "furigana": "",
+        "furigana": "慮",
         "kana": "",
         "answer": "慮"
       },
       {
         "japanese": "鹿",
         "english": "deer",
-        "furigana": "",
+        "furigana": "鹿",
         "kana": "",
         "answer": "鹿"
       },
       {
         "japanese": "麗",
         "english": "lovely",
-        "furigana": "",
+        "furigana": "麗",
         "kana": "",
         "answer": "麗"
       },
       {
         "japanese": "能",
         "english": "ability",
-        "furigana": "",
+        "furigana": "能",
         "kana": "",
         "answer": "能"
       },
       {
         "japanese": "態",
         "english": "attitude",
-        "furigana": "",
+        "furigana": "態",
         "kana": "",
         "answer": "態"
       },
       {
         "japanese": "震",
         "english": "quake",
-        "furigana": "",
+        "furigana": "震",
         "kana": "",
         "answer": "震"
       },
       {
         "japanese": "振",
         "english": "shake",
-        "furigana": "",
+        "furigana": "振",
         "kana": "",
         "answer": "振"
       },
       {
         "japanese": "唇",
         "english": "lips",
-        "furigana": "",
+        "furigana": "唇",
         "kana": "",
         "answer": "唇"
       },
       {
         "japanese": "送",
         "english": "send off",
-        "furigana": "",
+        "furigana": "送",
         "kana": "",
         "answer": "送"
       },
       {
         "japanese": "関",
         "english": "connection",
-        "furigana": "",
+        "furigana": "関",
         "kana": "",
         "answer": "関"
       },
       {
         "japanese": "鬼",
         "english": "ghost",
-        "furigana": "",
+        "furigana": "鬼",
         "kana": "",
         "answer": "鬼"
       },
       {
         "japanese": "魂",
         "english": "soul",
-        "furigana": "",
+        "furigana": "魂",
         "kana": "",
         "answer": "魂"
       },
       {
         "japanese": "魔",
         "english": "witch",
-        "furigana": "",
+        "furigana": "魔",
         "kana": "",
         "answer": "魔"
       },
       {
         "japanese": "襲",
         "english": "attack",
-        "furigana": "",
+        "furigana": "襲",
         "kana": "",
         "answer": "襲"
       },
       {
         "japanese": "雰",
         "english": "atmosphere",
-        "furigana": "",
+        "furigana": "雰",
         "kana": "",
         "answer": "雰"
       },
       {
         "japanese": "噂",
         "english": "gossip",
-        "furigana": "",
+        "furigana": "噂",
         "kana": "",
         "answer": "噂"
       },
       {
         "japanese": "叩",
         "english": "bash",
-        "furigana": "",
+        "furigana": "叩",
         "kana": "",
         "answer": "叩"
       },
       {
         "japanese": "嘘",
         "english": "fib",
-        "furigana": "",
+        "furigana": "嘘",
         "kana": "",
         "answer": "嘘"
       },
       {
         "japanese": "嬉",
         "english": "overjoyed",
-        "furigana": "",
+        "furigana": "嬉",
         "kana": "",
         "answer": "嬉"
       },
       {
         "japanese": "掴",
         "english": "clutch",
-        "furigana": "",
+        "furigana": "掴",
         "kana": "",
         "answer": "掴"
       },
       {
         "japanese": "揃",
         "english": "muster",
-        "furigana": "",
+        "furigana": "揃",
         "kana": "",
         "answer": "揃"
       },
       {
         "japanese": "撫",
         "english": "petting",
-        "furigana": "",
+        "furigana": "撫",
         "kana": "",
         "answer": "撫"
       },
       {
         "japanese": "溢",
         "english": "brimming",
-        "furigana": "",
+        "furigana": "溢",
         "kana": "",
         "answer": "溢"
       },
       {
         "japanese": "濡",
         "english": "drench",
-        "furigana": "",
+        "furigana": "濡",
         "kana": "",
         "answer": "濡"
       },
       {
         "japanese": "綺",
         "english": "ornate",
-        "furigana": "",
+        "furigana": "綺",
         "kana": "",
         "answer": "綺"
       },
       {
         "japanese": "捲",
         "english": "roll up",
-        "furigana": "",
+        "furigana": "捲",
         "kana": "",
         "answer": "捲"
       },
       {
         "japanese": "舐",
         "english": "lick",
-        "furigana": "",
+        "furigana": "舐",
         "kana": "",
         "answer": "舐"
       },
       {
         "japanese": "頷",
         "english": "nod",
-        "furigana": "",
+        "furigana": "頷",
         "kana": "",
         "answer": "頷"
       }
