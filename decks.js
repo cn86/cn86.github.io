@@ -1,5 +1,5 @@
 /*
-<option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
+<option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
 */
 var decks = {
   "kaishi15k": {
@@ -26758,6 +26758,8759 @@ var decks = {
         "furigana": "",
         "kana": "",
         "answer": "頷"
+      }
+    ]
+  },
+  "tango_n5": {
+    "config": {
+      "file_path": "decks/tango_n5.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "japanese"
+    },
+    "cards": [
+      {
+        "japanese": "私はアンです。",
+        "english": "I am Ann.",
+        "furigana": "私[わたし]",
+        "kana": "わたし",
+        "answer": "わたし"
+      },
+      {
+        "japanese": "私はスミスです。",
+        "english": "My name is Smith.",
+        "furigana": "です",
+        "kana": "です",
+        "answer": "です"
+      },
+      {
+        "japanese": "A「トムさんですか。」 B「はい。」",
+        "english": "A: Are you Tom-san? B: Yes.",
+        "furigana": "さん",
+        "kana": "さん",
+        "answer": "さん"
+      },
+      {
+        "japanese": "スミスさんは親切です。",
+        "english": "Smith-san is kind.",
+        "furigana": "親切[しんせつ]",
+        "kana": "しんせつ",
+        "answer": "しんせつ"
+      },
+      {
+        "japanese": "彼女はララちゃんです。",
+        "english": "She is Lara-chan.",
+        "furigana": "ちゃん",
+        "kana": "ちゃん",
+        "answer": "ちゃん"
+      },
+      {
+        "japanese": "親切な人です。",
+        "english": "B: He/she is a kind person.",
+        "furigana": "人[ひと]",
+        "kana": "ひと",
+        "answer": "ひと"
+      },
+      {
+        "japanese": "貴方はトムさんですか。",
+        "english": "Are you Tom-san?",
+        "furigana": "貴方[あなた]",
+        "kana": "あなた",
+        "answer": "あなた"
+      },
+      {
+        "japanese": "彼はトムさんです。",
+        "english": "He is Tom-san.",
+        "furigana": "彼[かれ]",
+        "kana": "かれ",
+        "answer": "かれ"
+      },
+      {
+        "japanese": "彼女はヒエンさんです。",
+        "english": "She is Hien-san.",
+        "furigana": "彼女[かのじょ]",
+        "kana": "かのじょ",
+        "answer": "かのじょ"
+      },
+      {
+        "japanese": "A「お名前は？」 B「トムです。」",
+        "english": "A: What is your name? B: My name is Tom.",
+        "furigana": "名前[なまえ]",
+        "kana": "なまえ",
+        "answer": "なまえ"
+      },
+      {
+        "japanese": "A「山田さんですか。」 B「はい。」",
+        "english": "A: Are you Yamada-san? B: Yes, I am.",
+        "furigana": "はい",
+        "kana": "はい",
+        "answer": "はい"
+      },
+      {
+        "japanese": "A「山田さんですか。」 B「ええ、そうです。」",
+        "english": "A: Are you Yamada-san? B: Yes, I am.",
+        "furigana": "ええ",
+        "kana": "ええ",
+        "answer": "ええ"
+      },
+      {
+        "japanese": "A「山田さんですか。」 C「いいえ。」",
+        "english": "A: Are you Yamada-san? B: No, I'm not.",
+        "furigana": "いいえ",
+        "kana": "いいえ",
+        "answer": "いいえ"
+      },
+      {
+        "japanese": "A「山田さんですか。」 B「はい、そうです。」",
+        "english": "A: Are you Yamada-san? B: Yes, I am.",
+        "furigana": "そうです",
+        "kana": "そうです",
+        "answer": "そうです"
+      },
+      {
+        "japanese": "A「山田さんですか。」 B「いいえ、違います。田中です。」",
+        "english": "A: Are you Yamada-san? B: No I'm not. I'm Tanaka.",
+        "furigana": "違[ちが]う",
+        "kana": "ちがう",
+        "answer": "ちがう"
+      },
+      {
+        "japanese": "お早う",
+        "english": "Good Morning (Informal)",
+        "furigana": "お 早[はよ]う",
+        "kana": "おはよう",
+        "answer": "おはよう"
+      },
+      {
+        "japanese": "お早う御座います",
+        "english": "Good Morning (Formal)",
+        "furigana": "お 早[はよ]う 御座[ござ]います",
+        "kana": "おはようございます",
+        "answer": "おはようございます"
+      },
+      {
+        "japanese": "今日[×きょう]は",
+        "english": "Hello / Good Afternoon",
+        "furigana": "今日[こんにち]は",
+        "kana": "こんにちは",
+        "answer": "こんにちは"
+      },
+      {
+        "japanese": "今晩は",
+        "english": "Good Evening",
+        "furigana": "今晩[こんばん]は",
+        "kana": "こんばんは",
+        "answer": "こんばんは"
+      },
+      {
+        "japanese": "左様なら",
+        "english": "Goodbye",
+        "furigana": "左様[さよう]なら",
+        "kana": "さようなら",
+        "answer": "さようなら"
+      },
+      {
+        "japanese": "じゃ、また",
+        "english": "See you again",
+        "furigana": "じゃ、また",
+        "kana": "じゃ、また",
+        "answer": "じゃ、また"
+      },
+      {
+        "japanese": "お休みなさい",
+        "english": "Good night",
+        "furigana": "お 休[やす]みなさい",
+        "kana": "おやすみなさい",
+        "answer": "おやすみなさい"
+      },
+      {
+        "japanese": "今日は有り難う御座いました。",
+        "english": "Thank you for everything today.",
+        "furigana": "有[あ]り 難[がと]う",
+        "kana": "ありがとう",
+        "answer": "ありがとう"
+      },
+      {
+        "japanese": "どう致しまして",
+        "english": "You're Welcome",
+        "furigana": "どう 致[いた]しまして",
+        "kana": "どういたしまして",
+        "answer": "どういたしまして"
+      },
+      {
+        "japanese": "有り難う御座います",
+        "english": "Thank You (Formal)",
+        "furigana": "有[あ]り 難[がと]う 御座[ござ]います",
+        "kana": "ありがとうございます",
+        "answer": "ありがとうございます"
+      },
+      {
+        "japanese": "どうぞ",
+        "english": "Go Ahead",
+        "furigana": "どうぞ",
+        "kana": "どうぞ",
+        "answer": "どうぞ"
+      },
+      {
+        "japanese": "どうも",
+        "english": "Thank You",
+        "furigana": "どうも",
+        "kana": "どうも",
+        "answer": "どうも"
+      },
+      {
+        "japanese": "初めまして",
+        "english": "Hello, nice to meet you.",
+        "furigana": "初[はじ]めまして",
+        "kana": "はじめまして",
+        "answer": "はじめまして"
+      },
+      {
+        "japanese": "「どうぞ宜しく」「此方こそ」",
+        "english": "A：Glad to meet you. B：Me too, same here",
+        "furigana": "宜[よろ]しく",
+        "kana": "よろしく",
+        "answer": "よろしく"
+      },
+      {
+        "japanese": "お先にどうぞ。",
+        "english": "Please go ahead.",
+        "furigana": "先[さき]",
+        "kana": "さき",
+        "answer": "さき"
+      },
+      {
+        "japanese": "スポーツが好きです。",
+        "english": "I like sports.",
+        "furigana": "好[す]き",
+        "kana": "すき",
+        "answer": "すき"
+      },
+      {
+        "japanese": "家族は7人です。",
+        "english": "There are seven people in my family.",
+        "furigana": "家族[かぞく]",
+        "kana": "かぞく",
+        "answer": "かぞく"
+      },
+      {
+        "japanese": "私は犬が大好きだ。",
+        "english": "I love dogs.",
+        "furigana": "大好[だいす]き",
+        "kana": "だいすき",
+        "answer": "だいすき"
+      },
+      {
+        "japanese": "私は父が大好きです。",
+        "english": "I love my father.",
+        "furigana": "父[ちち]",
+        "kana": "ちち",
+        "answer": "ちち"
+      },
+      {
+        "japanese": "両親",
+        "english": "Parents",
+        "furigana": "両親[りょうしん]",
+        "kana": "りょうしん",
+        "answer": "りょうしん"
+      },
+      {
+        "japanese": "母",
+        "english": "(speaker's) mother",
+        "furigana": "母[はは]",
+        "kana": "はは",
+        "answer": "はは"
+      },
+      {
+        "japanese": "妹",
+        "english": "Younger Sister",
+        "furigana": "妹[いもうと]",
+        "kana": "いもうと",
+        "answer": "いもうと"
+      },
+      {
+        "japanese": "兄弟",
+        "english": "Siblings, brothers and sisters",
+        "furigana": "兄弟[きょうだい]",
+        "kana": "きょうだい",
+        "answer": "きょうだい"
+      },
+      {
+        "japanese": "私は猫が大好きです。",
+        "english": "I love cats.",
+        "furigana": "猫[ねこ]",
+        "kana": "ねこ",
+        "answer": "ねこ"
+      },
+      {
+        "japanese": "「犬が居ます」 「兄が居ます」",
+        "english": "A：I have a dog. B：I have an older brother.",
+        "furigana": "居[い]る",
+        "kana": "いる",
+        "answer": "いる"
+      },
+      {
+        "japanese": "内に猫がいます。",
+        "english": "I own a cat.",
+        "furigana": "内[うち]",
+        "kana": "うち",
+        "answer": "うち"
+      },
+      {
+        "japanese": "お祖父さん",
+        "english": "Grandfather",
+        "furigana": "お 祖父[じい]さん",
+        "kana": "おじいさん",
+        "answer": "おじいさん"
+      },
+      {
+        "japanese": "日本語を勉強します。",
+        "english": "I study Japanese.",
+        "furigana": "勉強[べんきょう]（する）",
+        "kana": "べんきょう",
+        "answer": "べんきょう"
+      },
+      {
+        "japanese": "お婆さん",
+        "english": "Grandmother",
+        "furigana": "お 婆[ばあ]さん",
+        "kana": "おばあさん",
+        "answer": "おばあさん"
+      },
+      {
+        "japanese": "日本",
+        "english": "Japan",
+        "furigana": "日本[にほん]",
+        "kana": "にほん",
+        "answer": "にほん"
+      },
+      {
+        "japanese": "埃及",
+        "english": "Egypt",
+        "furigana": "埃及[えじぷと]",
+        "kana": "えじぷと",
+        "answer": "えじぷと"
+      },
+      {
+        "japanese": "埃及で日本語を勉強しました。",
+        "english": "I studied Japanese in Egypt.",
+        "furigana": "日本語[にほんご]",
+        "kana": "にほんご",
+        "answer": "にほんご"
+      },
+      {
+        "japanese": "日本語の本を読みます。",
+        "english": "I read a Japanese language book.",
+        "furigana": "読[よ]む",
+        "kana": "よむ",
+        "answer": "よむ"
+      },
+      {
+        "japanese": "中国語の本を読みました。",
+        "english": "I read a Chinese language book.",
+        "furigana": "本[ほん]",
+        "kana": "ほん",
+        "answer": "ほん"
+      },
+      {
+        "japanese": "お父さんは会社員です。",
+        "english": "My father's a company employee.",
+        "furigana": "お 父[とう]さん",
+        "kana": "おとうさん",
+        "answer": "おとうさん"
+      },
+      {
+        "japanese": "此れは日本語の本です。",
+        "english": "This is a Japanese book.",
+        "furigana": "此[こ]れ",
+        "kana": "これ",
+        "answer": "これ"
+      },
+      {
+        "japanese": "平仮名",
+        "english": "Hiragana",
+        "furigana": "平仮名[ひらがな]",
+        "kana": "ひらがな",
+        "answer": "ひらがな"
+      },
+      {
+        "japanese": "中国にディズニーランドが在ります。",
+        "english": "There is a Disneyland in China.",
+        "furigana": "有[あ]る・ 在[あ]る",
+        "kana": "ある・ある",
+        "answer": "ある・ある"
+      },
+      {
+        "japanese": "平仮名が分かります。",
+        "english": "I know hiragana.",
+        "furigana": "分[わ]かる",
+        "kana": "わかる",
+        "answer": "わかる"
+      },
+      {
+        "japanese": "学校は日本に在ります。",
+        "english": "The school is in Japan.",
+        "furigana": "学校[がっこう]",
+        "kana": "がっこう",
+        "answer": "がっこう"
+      },
+      {
+        "japanese": "ハインさんは綺麗な人です。",
+        "english": "Hein-san is a beautiful person.",
+        "furigana": "綺麗[きれい]",
+        "kana": "きれい",
+        "answer": "きれい"
+      },
+      {
+        "japanese": "学校へ行きます。",
+        "english": "I will go to school.",
+        "furigana": "行[い]く",
+        "kana": "いく",
+        "answer": "いく"
+      },
+      {
+        "japanese": "夜、本を読みます。",
+        "english": "I read in the evening.",
+        "furigana": "夜[よる]",
+        "kana": "よる",
+        "answer": "よる"
+      },
+      {
+        "japanese": "土曜日の夜は倶楽部に行きます。",
+        "english": "I'm going to a club Saturday night.",
+        "furigana": "土曜日[どようび]",
+        "kana": "どようび",
+        "answer": "どようび"
+      },
+      {
+        "japanese": "A「分かりましたか。」 B「いいえ。全然分かりませんでした。」",
+        "english": "A: Did you understand? B: No, I didn't understand it at all.",
+        "furigana": "全然[ぜんぜん]",
+        "kana": "ぜんぜん",
+        "answer": "ぜんぜん"
+      },
+      {
+        "japanese": "テレビを全然見ません。",
+        "english": "I never watch televison.",
+        "furigana": "見[み]る",
+        "kana": "みる",
+        "answer": "みる"
+      },
+      {
+        "japanese": "富士山は綺麗な山です。",
+        "english": "Mt. Fuji is a beautiful mountain.",
+        "furigana": "山[やま]",
+        "kana": "やま",
+        "answer": "やま"
+      },
+      {
+        "japanese": "彼は私の方を見ました。",
+        "english": "He looked at me.",
+        "furigana": "方[ほう]",
+        "kana": "ほう",
+        "answer": "ほう"
+      },
+      {
+        "japanese": "ご両親",
+        "english": "Parents(Formal)",
+        "furigana": "ご両親[りょうしん]",
+        "kana": "ごりょうしん",
+        "answer": "ごりょうしん"
+      },
+      {
+        "japanese": "海より山の方が好きです",
+        "english": "I like the mountains more than the ocean.",
+        "furigana": "海[うみ]",
+        "kana": "うみ",
+        "answer": "うみ"
+      },
+      {
+        "japanese": "日曜日は海に行きました。",
+        "english": "We went to the seaside on Sunday.",
+        "furigana": "日曜日[にちようび]",
+        "kana": "にちようび",
+        "answer": "にちようび"
+      },
+      {
+        "japanese": "土曜日にアルバイトをします。",
+        "english": "I will go to my part-time job on Saturdays.",
+        "furigana": "アルバイト",
+        "kana": "アルバイト",
+        "answer": "あるばいと"
+      },
+      {
+        "japanese": "達",
+        "english": "pluralizing suffix (esp. for people & animals; formerly honorific)",
+        "furigana": "達[たち]",
+        "kana": "たち",
+        "answer": "たち"
+      },
+      {
+        "japanese": "日曜日はアルバイトを為ません。",
+        "english": "I don't go to my part-time job on Sundays.",
+        "furigana": "為[す]る",
+        "kana": "する",
+        "answer": "する"
+      },
+      {
+        "japanese": "友達と横浜へ行きます。",
+        "english": "I will go to Yokohama with my friend.",
+        "furigana": "友達[ともだち]",
+        "kana": "ともだち",
+        "answer": "ともだち"
+      },
+      {
+        "japanese": "友達は皆親切です。",
+        "english": "All my friends are kind.",
+        "furigana": "皆[みんな]",
+        "kana": "みんな",
+        "answer": "みんな"
+      },
+      {
+        "japanese": "私の家は福岡に在ります。",
+        "english": "My house is in Fukuoka.",
+        "furigana": "家[いえ]",
+        "kana": "いえ",
+        "answer": "いえ"
+      },
+      {
+        "japanese": "此れを下さい。",
+        "english": "Please give me this.",
+        "furigana": "下[くだ]さい",
+        "kana": "ください",
+        "answer": "ください"
+      },
+      {
+        "japanese": "山田さんの本はどれですか。此の本ですか。",
+        "english": "Which book is Yamada-san's? Is it this book?",
+        "furigana": "此[こ]の",
+        "kana": "この",
+        "answer": "この"
+      },
+      {
+        "japanese": "インターネットで日本の事を調べました。",
+        "english": "I researched about Japan on the internet.",
+        "furigana": "事[こと]",
+        "kana": "こと",
+        "answer": "こと"
+      },
+      {
+        "japanese": "A「ホアンさんは何歳ですか。」 B「21歳です。」",
+        "english": "A: How old are you Huang-san? B: I'm 21 years old.",
+        "furigana": "何[なん] 歳[さい]",
+        "kana": "なんさい",
+        "answer": "なんさい"
+      },
+      {
+        "japanese": "父は家の中にいます。",
+        "english": "My father is inside the house.",
+        "furigana": "中[なか]",
+        "kana": "なか",
+        "answer": "なか"
+      },
+      {
+        "japanese": "お母さんに宜しくお伝え下さい。",
+        "english": "Please give my best to your mother.",
+        "furigana": "お 母[かあ]さん",
+        "kana": "おかあさん",
+        "answer": "おかあさん"
+      },
+      {
+        "japanese": "お姉さん",
+        "english": "elder sister",
+        "furigana": "お 姉[ねえ]さん",
+        "kana": "おねえさん",
+        "answer": "おねえさん"
+      },
+      {
+        "japanese": "貴方のお兄さんは何歳?",
+        "english": "How old's your big brother?",
+        "furigana": "お 兄[にい]さん",
+        "kana": "おにいさん",
+        "answer": "おにいさん"
+      },
+      {
+        "japanese": "妹さん",
+        "english": "younger sister",
+        "furigana": "妹[いもうと]さん",
+        "kana": "いもうとさん",
+        "answer": "いもうとさん"
+      },
+      {
+        "japanese": "そこには私一人しかいなかった。",
+        "english": "I was the only one there.",
+        "furigana": "一人[ひとり]",
+        "kana": "ひとり",
+        "answer": "ひとり"
+      },
+      {
+        "japanese": "皆に此の事を伝えて下さい。",
+        "english": "Please tell everyone about this matter.",
+        "furigana": "伝[つた]える",
+        "kana": "つたえる",
+        "answer": "つたえる"
+      },
+      {
+        "japanese": "八人",
+        "english": "Eight People",
+        "furigana": "八[はち]人[にん]",
+        "kana": "はちにん",
+        "answer": "はちにん"
+      },
+      {
+        "japanese": "十人",
+        "english": "Ten People",
+        "furigana": "十[じゅう]人[にん]",
+        "kana": "じゅうにん",
+        "answer": "じゅうにん"
+      },
+      {
+        "japanese": "A「何人ですか。」 B「3人です。」",
+        "english": "A: How many people are there? B: We have 3 people.",
+        "furigana": "何[なん]人[にん]",
+        "kana": "なんにん",
+        "answer": "なんにん"
+      },
+      {
+        "japanese": "あの女の子を知っていますか。",
+        "english": "Do you know that girl?",
+        "furigana": "女[おんな]の 子[こ]",
+        "kana": "おんなのこ",
+        "answer": "おんなのこ"
+      },
+      {
+        "japanese": "私の国は馬来西亜です。",
+        "english": "I am from Malaysia.",
+        "furigana": "国[くに]",
+        "kana": "くに",
+        "answer": "くに"
+      },
+      {
+        "japanese": "32ページを開いて下さい。",
+        "english": "Please open to page 32.",
+        "furigana": "開[ひら]く",
+        "kana": "ひらく",
+        "answer": "ひらく"
+      },
+      {
+        "japanese": "A「お国は何方ですか。」 B「ケニアです。」",
+        "english": "A: Which country are you from. B: I'm from Kenya.",
+        "furigana": "何方[どちら]",
+        "kana": "どちら",
+        "answer": "どちら"
+      },
+      {
+        "japanese": "「私は亜米利加から来ました。」 「先生が内へ来ます。」",
+        "english": "A：I came from the United States. B：The teacher will visit us.",
+        "furigana": "来[く]る",
+        "kana": "くる",
+        "answer": "くる"
+      },
+      {
+        "japanese": "私は英吉利人です。",
+        "english": "I am British.",
+        "furigana": "人[じん]",
+        "kana": "じん",
+        "answer": "じん"
+      },
+      {
+        "japanese": "日本の地図は在りますか。",
+        "english": "Do you have a map of Japan?",
+        "furigana": "地図[ちず]",
+        "kana": "ちず",
+        "answer": "ちず"
+      },
+      {
+        "japanese": "世界の地図は在りますか。",
+        "english": "Do you have a map of the world?",
+        "furigana": "世界[せかい]",
+        "kana": "せかい",
+        "answer": "せかい"
+      },
+      {
+        "japanese": "印度",
+        "english": "India",
+        "furigana": "印度[いんど]",
+        "kana": "いんど",
+        "answer": "いんど"
+      },
+      {
+        "japanese": "印度尼西亜",
+        "english": "Indonesia",
+        "furigana": "印度尼西亜[いんどねしあ]",
+        "kana": "いんどねしあ",
+        "answer": "いんどねしあ"
+      },
+      {
+        "japanese": "泰",
+        "english": "Thailand",
+        "furigana": "泰[タイ]",
+        "kana": "タイ",
+        "answer": "たい"
+      },
+      {
+        "japanese": "捏巴爾",
+        "english": "Nepal",
+        "furigana": "捏巴爾[ねぱーる]",
+        "kana": "ねぱーる",
+        "answer": "ねぱーる"
+      },
+      {
+        "japanese": "比律賓",
+        "english": "Philippines",
+        "furigana": "比律賓[ふぃりぴん]",
+        "kana": "ふぃりぴん",
+        "answer": "ふぃりぴん"
+      },
+      {
+        "japanese": "越南",
+        "english": "Vietnam",
+        "furigana": "越南[ベトナム えつなん]",
+        "kana": "ベトナムえつなん",
+        "answer": "べとなむえつなん"
+      },
+      {
+        "japanese": "馬来西亜",
+        "english": "Malaysia",
+        "furigana": "馬来西亜[まれーしあ]",
+        "kana": "まれーしあ",
+        "answer": "まれーしあ"
+      },
+      {
+        "japanese": "ミャンマー",
+        "english": "Myanmar, Burma",
+        "furigana": "ミャンマー",
+        "kana": "ミャンマー",
+        "answer": "みゃんまー"
+      },
+      {
+        "japanese": "土耳其",
+        "english": "Turkey",
+        "furigana": "土耳其[とるこ]",
+        "kana": "とるこ",
+        "answer": "とるこ"
+      },
+      {
+        "japanese": "新西蘭",
+        "english": "New Zealand",
+        "furigana": "新西蘭[にゅーじーらんど]",
+        "kana": "にゅーじーらんど",
+        "answer": "にゅーじーらんど"
+      },
+      {
+        "japanese": "此の中でどれが好きですか。",
+        "english": "Which of these do you like?",
+        "furigana": "どれ",
+        "kana": "どれ",
+        "answer": "どれ"
+      },
+      {
+        "japanese": "瑞西",
+        "english": "Switzerland",
+        "furigana": "瑞西[すいす]",
+        "kana": "すいす",
+        "answer": "すいす"
+      },
+      {
+        "japanese": "ケニア",
+        "english": "Kenya",
+        "furigana": "ケニア",
+        "kana": "ケニア",
+        "answer": "けにあ"
+      },
+      {
+        "japanese": "山田さんは日本語学校の先生です。",
+        "english": "Yamada-san is a Japanese teacher.",
+        "furigana": "先生[せんせい]",
+        "kana": "せんせい",
+        "answer": "せんせい"
+      },
+      {
+        "japanese": "弟は学生です。",
+        "english": "My younger brother is a student.",
+        "furigana": "学生[がくせい]",
+        "kana": "がくせい",
+        "answer": "がくせい"
+      },
+      {
+        "japanese": "姉は大学生です。",
+        "english": "My big sister's a college student.",
+        "furigana": "大学生[だいがくせい]",
+        "kana": "だいがくせい",
+        "answer": "だいがくせい"
+      },
+      {
+        "japanese": "ヒエンさんは越南の留学生です。",
+        "english": "Hien-san is a foreign student from Vietnam.",
+        "furigana": "留学生[りゅうがくせい]",
+        "kana": "りゅうがくせい",
+        "answer": "りゅうがくせい"
+      },
+      {
+        "japanese": "ヒエンさんは日本語学校の学生です。",
+        "english": "Hien-san is a student at the Japanese language school.",
+        "furigana": "日本語学校[にほんごがっこう]",
+        "kana": "にほんごがっこう",
+        "answer": "にほんごがっこう"
+      },
+      {
+        "japanese": "アリさんは小学校の先生です。",
+        "english": "Ali-san is an elementary school teacher.",
+        "furigana": "小学校[しょうがっこう]",
+        "kana": "しょうがっこう",
+        "answer": "しょうがっこう"
+      },
+      {
+        "japanese": "トムさんは中学校の先生です。",
+        "english": "Tom is a junior high school teacher.",
+        "furigana": "中学校[ちゅうがっこう]",
+        "kana": "ちゅうがっこう",
+        "answer": "ちゅうがっこう"
+      },
+      {
+        "japanese": "亜米利加の高校で勉強します。",
+        "english": "I study at an American high school.",
+        "furigana": "高校[こうこう]",
+        "kana": "こうこう",
+        "answer": "こうこう"
+      },
+      {
+        "japanese": "スミスさんは大学の先生です。",
+        "english": "Smith-san is a teacher at a university.",
+        "furigana": "大学[だいがく]",
+        "kana": "だいがく",
+        "answer": "だいがく"
+      },
+      {
+        "japanese": "先生は教室にいます。",
+        "english": "The teacher is in the classroom.",
+        "furigana": "教室[きょうしつ]",
+        "kana": "きょうしつ",
+        "answer": "きょうしつ"
+      },
+      {
+        "japanese": "クラスに留学生がいます。",
+        "english": "There are foreign students in the class.",
+        "furigana": "クラス",
+        "kana": "クラス",
+        "answer": "くらす"
+      },
+      {
+        "japanese": "家へ帰ります。",
+        "english": "I will go home.",
+        "furigana": "帰[かえ]る",
+        "kana": "かえる",
+        "answer": "かえる"
+      },
+      {
+        "japanese": "一から始めましょう。",
+        "english": "Let's start from the beginning.",
+        "furigana": "一[いち]",
+        "kana": "いち",
+        "answer": "いち"
+      },
+      {
+        "japanese": "駅で電車に乗ります。",
+        "english": "I get on the train at the station.",
+        "furigana": "電車[でんしゃ]",
+        "kana": "でんしゃ",
+        "answer": "でんしゃ"
+      },
+      {
+        "japanese": "電車の中で騒がないで下さい。",
+        "english": "Please don't make a racket in the train.",
+        "furigana": "騒[さわ]ぐ",
+        "kana": "さわぐ",
+        "answer": "さわぐ"
+      },
+      {
+        "japanese": "電車で子供が騒いでいた。",
+        "english": "Kids were making a racket in the train.",
+        "furigana": "子供[こども]",
+        "kana": "こども",
+        "answer": "こども"
+      },
+      {
+        "japanese": "彼女は三人の子供の母親だ。",
+        "english": "She's the mother of three children.",
+        "furigana": "母親[ははおや]",
+        "kana": "ははおや",
+        "answer": "ははおや"
+      },
+      {
+        "japanese": "その人には二回会った。",
+        "english": "I met that person twice.",
+        "furigana": "二[に]",
+        "kana": "に",
+        "answer": "に"
+      },
+      {
+        "japanese": "布哇は四回目です。",
+        "english": "This is my fourth trip to Hawaii.",
+        "furigana": "四[よん]",
+        "kana": "よん",
+        "answer": "よん"
+      },
+      {
+        "japanese": "彼には子供が六人います。",
+        "english": "He has six children.",
+        "furigana": "六[ろく] 人[にん]",
+        "kana": "ろくにん",
+        "answer": "ろくにん"
+      },
+      {
+        "japanese": "林檎を八個下さい。",
+        "english": "Please give me eight apples.",
+        "furigana": "八[はち]",
+        "kana": "はち",
+        "answer": "はち"
+      },
+      {
+        "japanese": "私は九月に行く予定です。",
+        "english": "I plan to go in September.",
+        "furigana": "九[く]",
+        "kana": "く",
+        "answer": "く"
+      },
+      {
+        "japanese": "十[×とお]",
+        "english": "Ten",
+        "furigana": "十[じゅう]",
+        "kana": "じゅう",
+        "answer": "じゅう"
+      },
+      {
+        "japanese": "十一",
+        "english": "Eleven",
+        "furigana": "十[じゅう]一[いち]",
+        "kana": "じゅういち",
+        "answer": "じゅういち"
+      },
+      {
+        "japanese": "十二",
+        "english": "Twelve",
+        "furigana": "十[じゅう]二[に]",
+        "kana": "じゅうに",
+        "answer": "じゅうに"
+      },
+      {
+        "japanese": "3月",
+        "english": "March",
+        "furigana": "3月[さんがつ]",
+        "kana": "3さんがつ",
+        "answer": "3さんがつ"
+      },
+      {
+        "japanese": "11月",
+        "english": "November",
+        "furigana": "11月[じゅういちがつ]",
+        "kana": "11じゅういちがつ",
+        "answer": "11じゅういちがつ"
+      },
+      {
+        "japanese": "A「何月ですか。」 B「5月です。」",
+        "english": "A: What month is it? B: It's May.",
+        "furigana": "何月[なんがつ]",
+        "kana": "なんがつ",
+        "answer": "なんがつ"
+      },
+      {
+        "japanese": "曜日",
+        "english": "day of the week",
+        "furigana": "曜日[ようび]",
+        "kana": "ようび",
+        "answer": "ようび"
+      },
+      {
+        "japanese": "月曜日に会いましょう。",
+        "english": "Let's meet on Monday.",
+        "furigana": "月曜日[げつようび]",
+        "kana": "げつようび",
+        "answer": "げつようび"
+      },
+      {
+        "japanese": "火曜日に会議が有ります。",
+        "english": "There's a meeting on Tuesday.",
+        "furigana": "火曜日[かようび]",
+        "kana": "かようび",
+        "answer": "かようび"
+      },
+      {
+        "japanese": "水曜日はバイトが在ります。",
+        "english": "I have a part-time job on Wednesdays.",
+        "furigana": "水曜日[すいようび]",
+        "kana": "すいようび",
+        "answer": "すいようび"
+      },
+      {
+        "japanese": "木曜日は仕事が休みです。",
+        "english": "Thursday is my day off work.",
+        "furigana": "木曜日[もくようび]",
+        "kana": "もくようび",
+        "answer": "もくようび"
+      },
+      {
+        "japanese": "金曜日の夜は友達と出かけます。",
+        "english": "I go out with my friends on Friday nights.",
+        "furigana": "金曜日[きんようび]",
+        "kana": "きんようび",
+        "answer": "きんようび"
+      },
+      {
+        "japanese": "A「明日は何曜日ですか。」 B「火曜日です。」",
+        "english": "A: What day is it tomorrow? B: It's Tuesday.",
+        "furigana": "何曜日[なんようび]",
+        "kana": "なんようび",
+        "answer": "なんようび"
+      },
+      {
+        "japanese": "今日は月曜日です。",
+        "english": "Today is Monday.",
+        "furigana": "今日[きょう]",
+        "kana": "きょう",
+        "answer": "きょう"
+      },
+      {
+        "japanese": "明日[×あす]、学校へ行きます。",
+        "english": "Tomorrow, I will go to school.",
+        "furigana": "明日[あした]",
+        "kana": "あした",
+        "answer": "あした"
+      },
+      {
+        "japanese": "昨日、大学へ行きました。",
+        "english": "Yesterday, I went to the university.",
+        "furigana": "昨日[きのう]",
+        "kana": "きのう",
+        "answer": "きのう"
+      },
+      {
+        "japanese": "毎日、日本語を勉強します。",
+        "english": "I study Japanese every day.",
+        "furigana": "毎日[まいにち]",
+        "kana": "まいにち",
+        "answer": "まいにち"
+      },
+      {
+        "japanese": "亜米利加へ二週間行きました。",
+        "english": "I went to America for two weeks.",
+        "furigana": "週間[しゅうかん]",
+        "kana": "しゅうかん",
+        "answer": "しゅうかん"
+      },
+      {
+        "japanese": "日本語を一ヶ月勉強しました。",
+        "english": "I studied Japanese for a month.",
+        "furigana": "ヶ月[かげつ]",
+        "kana": "ヶかげつ",
+        "answer": "ゖかげつ"
+      },
+      {
+        "japanese": "韓国に5年いました。",
+        "english": "I was in South Korea for five years.",
+        "furigana": "年[ねん]",
+        "kana": "ねん",
+        "answer": "ねん"
+      },
+      {
+        "japanese": "1週間に3回コンビニへ行きます。",
+        "english": "I go to the convenience store three times a week.",
+        "furigana": "回[かい]",
+        "kana": "かい",
+        "answer": "かい"
+      },
+      {
+        "japanese": "A「1週間に何回行きますか。」 B「2回行きます。」",
+        "english": "A: How many times do you go? B: I go twice a week.",
+        "furigana": "何[なん]回[かい]",
+        "kana": "なんかい",
+        "answer": "なんかい"
+      },
+      {
+        "japanese": "日本の言葉が分かりません。",
+        "english": "I don't understand the Japanese language.",
+        "furigana": "言葉[ことば]",
+        "kana": "ことば",
+        "answer": "ことば"
+      },
+      {
+        "japanese": "高校で日本の字を勉強しました。",
+        "english": "I studied Japanese letters in high school.",
+        "furigana": "字[じ]",
+        "kana": "じ",
+        "answer": "じ"
+      },
+      {
+        "japanese": "英語で話して下さい。",
+        "english": "Please speak in English.",
+        "furigana": "語[ご]",
+        "kana": "ご",
+        "answer": "ご"
+      },
+      {
+        "japanese": "先生と日本語で話します。",
+        "english": "I speak Japanese with the teacher.",
+        "furigana": "話[はな]す",
+        "kana": "はなす",
+        "answer": "はなす"
+      },
+      {
+        "japanese": "先生はゆっくり話します。",
+        "english": "The teacher speaks slowly.",
+        "furigana": "ゆっくり",
+        "kana": "ゆっくり",
+        "answer": "ゆっくり"
+      },
+      {
+        "japanese": "ゆっくり言って下さい。",
+        "english": "Please say [it] slowly.",
+        "furigana": "言[い]う",
+        "kana": "いう",
+        "answer": "いう"
+      },
+      {
+        "japanese": "もう一度言います。",
+        "english": "I will say it one more time.",
+        "furigana": "もう 一度[いちど]",
+        "kana": "もういちど",
+        "answer": "もういちど"
+      },
+      {
+        "japanese": "もう一度お願いします。",
+        "english": "Please repeat it one more time.",
+        "furigana": "お 願[ねが]いします",
+        "kana": "おねがいします",
+        "answer": "おねがいします"
+      },
+      {
+        "japanese": "漢字が少し分かります。",
+        "english": "I know a few kanji.",
+        "furigana": "少[すこ]し",
+        "kana": "すこし",
+        "answer": "すこし"
+      },
+      {
+        "japanese": "もう少しゆっくり話して下さい。",
+        "english": "Please speak a little slower",
+        "furigana": "もう 少[すこ]し",
+        "kana": "もうすこし",
+        "answer": "もうすこし"
+      },
+      {
+        "japanese": "良く分かりました。",
+        "english": "I understand well.",
+        "furigana": "良[よ]く",
+        "kana": "よく",
+        "answer": "よく"
+      },
+      {
+        "japanese": "今日は一人の時間を楽しみたい。",
+        "english": "Today I would like to enjoy some time to myself.",
+        "furigana": "楽[たの]しむ",
+        "kana": "たのしむ",
+        "answer": "たのしむ"
+      },
+      {
+        "japanese": "大体分かりました。",
+        "english": "I roughly understand.",
+        "furigana": "大体[だいたい]",
+        "kana": "だいたい",
+        "answer": "だいたい"
+      },
+      {
+        "japanese": "漢字を書きます。",
+        "english": "I write kanji.",
+        "furigana": "書[か]く",
+        "kana": "かく",
+        "answer": "かく"
+      },
+      {
+        "japanese": "家でシーディーを聞きます。",
+        "english": "I listen to the CD at home.",
+        "furigana": "聞[き]く",
+        "kana": "きく",
+        "answer": "きく"
+      },
+      {
+        "japanese": "学校でシーディーを聞きました。",
+        "english": "I listened to the CD at school.",
+        "furigana": "シーディー",
+        "kana": "シーディー",
+        "answer": "しーでぃー"
+      },
+      {
+        "japanese": "駅は何処ですか。",
+        "english": "Where's the station?",
+        "furigana": "駅[えき]",
+        "kana": "えき",
+        "answer": "えき"
+      },
+      {
+        "japanese": "辞書で言葉を調べます。",
+        "english": "I look up a word in the dictonary.",
+        "furigana": "調[しら]べる",
+        "kana": "しらべる",
+        "answer": "しらべる"
+      },
+      {
+        "japanese": "昨日、シーディーを買いました。",
+        "english": "Yesterday, I bought a CD.",
+        "furigana": "買[か]う",
+        "kana": "かう",
+        "answer": "かう"
+      },
+      {
+        "japanese": "日本語の辞書を買いました。",
+        "english": "I bought a Japanese language dictionary.",
+        "furigana": "辞書[じしょ]",
+        "kana": "じしょ",
+        "answer": "じしょ"
+      },
+      {
+        "japanese": "彼女は良く喋るね。",
+        "english": "She really likes to chat, doesn't she?",
+        "furigana": "喋[しゃべ]る",
+        "kana": "しゃべる",
+        "answer": "しゃべる"
+      },
+      {
+        "japanese": "日本語の意味が分かりません。",
+        "english": "I don't understand the meaning in Japanese.",
+        "furigana": "意味[いみ]",
+        "kana": "いみ",
+        "answer": "いみ"
+      },
+      {
+        "japanese": "頑張って下さい。",
+        "english": "Do your best.",
+        "furigana": "頑張[がんば]る",
+        "kana": "がんばる",
+        "answer": "がんばる"
+      },
+      {
+        "japanese": "今日は宿題が在ります。",
+        "english": "Today, I have homework to do.",
+        "furigana": "宿題[しゅくだい]",
+        "kana": "しゅくだい",
+        "answer": "しゅくだい"
+      },
+      {
+        "japanese": "毎日、日記を書きます。",
+        "english": "I write in my diary every day.",
+        "furigana": "日記[にっき]",
+        "kana": "にっき",
+        "answer": "にっき"
+      },
+      {
+        "japanese": "学校でレポートを書きました。",
+        "english": "I wrote a report at school.",
+        "furigana": "レポート",
+        "kana": "レポート",
+        "answer": "れぽーと"
+      },
+      {
+        "japanese": "図書館で本を読みます。",
+        "english": "I read a book at the library.",
+        "furigana": "図書館[としょかん]",
+        "kana": "としょかん",
+        "answer": "としょかん"
+      },
+      {
+        "japanese": "本屋で辞書を買いました。",
+        "english": "I bought a dictionary at a the bookstore.",
+        "furigana": "本屋[ほんや]",
+        "kana": "ほんや",
+        "answer": "ほんや"
+      },
+      {
+        "japanese": "漢字を練習します。",
+        "english": "I practice kanji.",
+        "furigana": "練習[れんしゅう]",
+        "kana": "れんしゅう",
+        "answer": "れんしゅう"
+      },
+      {
+        "japanese": "土曜日に学校でスピーチをしました。",
+        "english": "I gave a speech at school on Saturday.",
+        "furigana": "スピーチ",
+        "kana": "スピーチ",
+        "answer": "すぴーち"
+      },
+      {
+        "japanese": "バナナが七本有ります。",
+        "english": "There are seven bananas.",
+        "furigana": "七[なな]",
+        "kana": "なな",
+        "answer": "なな"
+      },
+      {
+        "japanese": "毎日、漢字を覚えます。",
+        "english": "I learn kanji every day.",
+        "furigana": "覚[おぼ]える",
+        "kana": "おぼえる",
+        "answer": "おぼえる"
+      },
+      {
+        "japanese": "宿題を忘れました。",
+        "english": "I forgot my homework.",
+        "furigana": "忘[わす]れる",
+        "kana": "わすれる",
+        "answer": "わすれる"
+      },
+      {
+        "japanese": "問題を読んで下さい。",
+        "english": "Please read the question.",
+        "furigana": "問題[もんだい]",
+        "kana": "もんだい",
+        "answer": "もんだい"
+      },
+      {
+        "japanese": "友達と野球をしました。",
+        "english": "I played baseball with a friend.",
+        "furigana": "野球[やきゅう]",
+        "kana": "やきゅう",
+        "answer": "やきゅう"
+      },
+      {
+        "japanese": "例を見て下さい。",
+        "english": "Please look at the example.",
+        "furigana": "例[れい]",
+        "kana": "れい",
+        "answer": "れい"
+      },
+      {
+        "japanese": "答えが分かりません。",
+        "english": "I don't know the answer.",
+        "furigana": "答[こた]え",
+        "kana": "こたえ",
+        "answer": "こたえ"
+      },
+      {
+        "japanese": "先生に質問します。",
+        "english": "I have a question for the teacher.",
+        "furigana": "質問[しつもん]",
+        "kana": "しつもん",
+        "answer": "しつもん"
+      },
+      {
+        "japanese": "野球は九人で1チームです。",
+        "english": "In baseball there are nine people on one team.",
+        "furigana": "九[く]人[にん]・ 九[きゅう]人[にん]",
+        "kana": "くにん・きゅうにん",
+        "answer": "くにん・きゅうにん"
+      },
+      {
+        "japanese": "日本語学校を見学しました。",
+        "english": "I went to observe the Japanese language school.",
+        "furigana": "見学[けんがく]",
+        "kana": "けんがく",
+        "answer": "けんがく"
+      },
+      {
+        "japanese": "トヨタは日本の会社です。",
+        "english": "Toyota is a Japanese company.",
+        "furigana": "会社[かいしゃ]",
+        "kana": "かいしゃ",
+        "answer": "かいしゃ"
+      },
+      {
+        "japanese": "弟は銀行で働いています。",
+        "english": "My younger brother works at a bank.",
+        "furigana": "銀行[ぎんこう]",
+        "kana": "ぎんこう",
+        "answer": "ぎんこう"
+      },
+      {
+        "japanese": "毎日、働きます。",
+        "english": "I work every day.",
+        "furigana": "働[はたら]く",
+        "kana": "はたらく",
+        "answer": "はたらく"
+      },
+      {
+        "japanese": "昨日、会社を休みました。",
+        "english": "Yesterday, I took a leave of absence from work.",
+        "furigana": "休[やす]む",
+        "kana": "やすむ",
+        "answer": "やすむ"
+      },
+      {
+        "japanese": "今、会社に戻ります。",
+        "english": "I'm going back to the office now.",
+        "furigana": "戻[もど]る",
+        "kana": "もどる",
+        "answer": "もどる"
+      },
+      {
+        "japanese": "休みは土曜日と日曜日です。",
+        "english": "The days off are Saturdays and Sundays.",
+        "furigana": "休[やす]み",
+        "kana": "やすみ",
+        "answer": "やすみ"
+      },
+      {
+        "japanese": "昼休みに宿題をします。",
+        "english": "I do my homework during lunch break.",
+        "furigana": "昼休[ひるやす]み",
+        "kana": "ひるやすみ",
+        "answer": "ひるやすみ"
+      },
+      {
+        "japanese": "明日は暇です。",
+        "english": "I am not busy tomorrow.",
+        "furigana": "暇[ひま]",
+        "kana": "ひま",
+        "answer": "ひま"
+      },
+      {
+        "japanese": "毎日、忙しいです。",
+        "english": "I am busy every day.",
+        "furigana": "忙[いそが]しい",
+        "kana": "いそがしい",
+        "answer": "いそがしい"
+      },
+      {
+        "japanese": "今日は残業します。",
+        "english": "Today I will work overtime.",
+        "furigana": "残業[ざんぎょう]",
+        "kana": "ざんぎょう",
+        "answer": "ざんぎょう"
+      },
+      {
+        "japanese": "仏蘭西へ出張します。",
+        "english": "I will take a business trip to France.",
+        "furigana": "出張[しゅっちょう]",
+        "kana": "しゅっちょう",
+        "answer": "しゅっちょう"
+      },
+      {
+        "japanese": "事務所は台湾に有ります。",
+        "english": "The office is in Taiwan.",
+        "furigana": "事務所[じむしょ]",
+        "kana": "じむしょ",
+        "answer": "じむしょ"
+      },
+      {
+        "japanese": "中国に大きい工場が在ります。",
+        "english": "There is a large factory in China.",
+        "furigana": "工場[こうじょう]",
+        "kana": "こうじょう",
+        "answer": "こうじょう"
+      },
+      {
+        "japanese": "受付で聞いて下さい。",
+        "english": "Please ask at the reception desk.",
+        "furigana": "受付[うけつけ]",
+        "kana": "うけつけ",
+        "answer": "うけつけ"
+      },
+      {
+        "japanese": "私の質問に答えて下さい。",
+        "english": "Please answer my question.",
+        "furigana": "答[こた]える",
+        "kana": "こたえる",
+        "answer": "こたえる"
+      },
+      {
+        "japanese": "今日、会議が有ります。",
+        "english": "There is a meeting today.",
+        "furigana": "会議[かいぎ]",
+        "kana": "かいぎ",
+        "answer": "かいぎ"
+      },
+      {
+        "japanese": "山田さんは会議室にいます。",
+        "english": "Yamada-san is in the meeting room.",
+        "furigana": "会議室[かいぎしつ]",
+        "kana": "かいぎしつ",
+        "answer": "かいぎしつ"
+      },
+      {
+        "japanese": "会議室に電話がありません。",
+        "english": "There is no telephone in the meeting room.",
+        "furigana": "電話[でんわ]",
+        "kana": "でんわ",
+        "answer": "でんわ"
+      },
+      {
+        "japanese": "会社に電話を掛けます。",
+        "english": "I will call the company.",
+        "furigana": "電話[でんわ]を 掛[か]ける",
+        "kana": "でんわをかける",
+        "answer": "でんわをかける"
+      },
+      {
+        "japanese": "A「もしもし、山田さんですか。」 B「はい、そうです。」",
+        "english": "A, Hello, is this Yamada-san? B: Yes it is.",
+        "furigana": "もしもし",
+        "kana": "もしもし",
+        "answer": "もしもし"
+      },
+      {
+        "japanese": "A「山田さんの電話番号を知っていますか。」",
+        "english": "A: Do you know Yamada-san's phone number?",
+        "furigana": "電話番号[でんわばんごう]",
+        "kana": "でんわばんごう",
+        "answer": "でんわばんごう"
+      },
+      {
+        "japanese": "電話番号は何番ですか。",
+        "english": "What is the phone number?",
+        "furigana": "何[なん] 番[ばん]",
+        "kana": "なんばん",
+        "answer": "なんばん"
+      },
+      {
+        "japanese": "電話番号を教えて下さい。",
+        "english": "Please tell me the phone number.",
+        "furigana": "教[おし]える",
+        "kana": "おしえる",
+        "answer": "おしえる"
+      },
+      {
+        "japanese": "父の仕事を手伝います。",
+        "english": "I help with my father's work.",
+        "furigana": "手伝[てつだ]う",
+        "kana": "てつだう",
+        "answer": "てつだう"
+      },
+      {
+        "japanese": "これは日本の工場で作りました。",
+        "english": "This was made at a Japanese factory.",
+        "furigana": "作[つく]る",
+        "kana": "つくる",
+        "answer": "つくる"
+      },
+      {
+        "japanese": "これは役に立ちます。",
+        "english": "This will be helpful.",
+        "furigana": "役[やく]に 立[た]つ",
+        "kana": "やくにたつ",
+        "answer": "やくにたつ"
+      },
+      {
+        "japanese": "A「お仕事は？」 B「教師です。」",
+        "english": "A: What is your job? B: I am a teacher.",
+        "furigana": "仕事[しごと]",
+        "kana": "しごと",
+        "answer": "しごと"
+      },
+      {
+        "japanese": "此のシャツは少しきついです。",
+        "english": "This shirt is a little tight.",
+        "furigana": "きつい",
+        "kana": "きつい",
+        "answer": "きつい"
+      },
+      {
+        "japanese": "介護士/介護士さん",
+        "english": "Nurse / CareWorker",
+        "furigana": "介護士[かいごし]・ 介護士[かいごし]さん",
+        "kana": "かいごし・かいごしさん",
+        "answer": "かいごし・かいごしさん"
+      },
+      {
+        "japanese": "警察官/お巡りさん",
+        "english": "Policeman / Policewoman",
+        "furigana": "警察官[けいさつかん]・お 巡[まわ]りさん",
+        "kana": "けいさつかん・おまわりさん",
+        "answer": "けいさつかん・おまわりさん"
+      },
+      {
+        "japanese": "駅員/駅員さん",
+        "english": "Train Station Staff",
+        "furigana": "駅員[えきいん]・ 駅員[えきいん]さん",
+        "kana": "えきいん・えきいんさん",
+        "answer": "えきいん・えきいんさん"
+      },
+      {
+        "japanese": "運転手/運転手さん",
+        "english": "Car Driver",
+        "furigana": "運転手[うんてんしゅ]・ 運転手[うんてんしゅ]さん",
+        "kana": "うんてんしゅ・うんてんしゅさん",
+        "answer": "うんてんしゅ・うんてんしゅさん"
+      },
+      {
+        "japanese": "お願いがあります。",
+        "english": "I have a favor to ask.",
+        "furigana": "お 願[ねが]い",
+        "kana": "おねがい",
+        "answer": "おねがい"
+      },
+      {
+        "japanese": "課長",
+        "english": "Manager",
+        "furigana": "課長[かちょう]",
+        "kana": "かちょう",
+        "answer": "かちょう"
+      },
+      {
+        "japanese": "其れは中国語の本です。",
+        "english": "That is a Chinese book.",
+        "furigana": "其[そ]れ",
+        "kana": "それ",
+        "answer": "それ"
+      },
+      {
+        "japanese": "彼れはパソコンです。",
+        "english": "That is a personal computer.",
+        "furigana": "彼[あ]れ",
+        "kana": "あれ",
+        "answer": "あれ"
+      },
+      {
+        "japanese": "咖哩ライスは700円です。",
+        "english": "The curry and rice is 700 yen.",
+        "furigana": "円[えん]",
+        "kana": "えん",
+        "answer": "えん"
+      },
+      {
+        "japanese": "A「山田さんの傘は何れですか。」 B「これです。」",
+        "english": "A: Which umbrella is yours, Yamada-san? B: This one.",
+        "furigana": "何[ど]れ",
+        "kana": "どれ",
+        "answer": "どれ"
+      },
+      {
+        "japanese": "その黒い鞄は僕のです。",
+        "english": "The black briefcase is mine.",
+        "furigana": "鞄[かばん]",
+        "kana": "かばん",
+        "answer": "かばん"
+      },
+      {
+        "japanese": "日本のお金は円です。",
+        "english": "The Japanese currency is yen.",
+        "furigana": "金[かね]",
+        "kana": "かね",
+        "answer": "かね"
+      },
+      {
+        "japanese": "其の本ですか。",
+        "english": "Is it that book?",
+        "furigana": "其[そ]の",
+        "kana": "その",
+        "answer": "その"
+      },
+      {
+        "japanese": "彼の本ですか。",
+        "english": "That book over there?",
+        "furigana": "彼[あ]の",
+        "kana": "あの",
+        "answer": "あの"
+      },
+      {
+        "japanese": "お金を貸して下さい。",
+        "english": "Please, lend me some money.",
+        "furigana": "貸[か]す",
+        "kana": "かす",
+        "answer": "かす"
+      },
+      {
+        "japanese": "どの本ですか。",
+        "english": "Which book is it?",
+        "furigana": "何[ど]の",
+        "kana": "どの",
+        "answer": "どの"
+      },
+      {
+        "japanese": "A「これは何ですか。」 B「本です。」",
+        "english": "A: What is this? B: It's a book.",
+        "furigana": "何[なん]",
+        "kana": "なん",
+        "answer": "なん"
+      },
+      {
+        "japanese": "名刺",
+        "english": "Name Card",
+        "furigana": "名刺[めいし]",
+        "kana": "めいし",
+        "answer": "めいし"
+      },
+      {
+        "japanese": "スマホ",
+        "english": "Smart phone",
+        "furigana": "スマホ",
+        "kana": "スマホ",
+        "answer": "すまほ"
+      },
+      {
+        "japanese": "鉛筆を貸して下さい。",
+        "english": "Can I borrow a pencil?",
+        "furigana": "鉛筆[えんぴつ]",
+        "kana": "えんぴつ",
+        "answer": "えんぴつ"
+      },
+      {
+        "japanese": "電池",
+        "english": "Battery",
+        "furigana": "電池[でんち]",
+        "kana": "でんち",
+        "answer": "でんち"
+      },
+      {
+        "japanese": "ノートを開いて下さい。",
+        "english": "Please open your notebook.",
+        "furigana": "ノート",
+        "kana": "ノート",
+        "answer": "のーと"
+      },
+      {
+        "japanese": "紙と鉛筆は在りますか。",
+        "english": "Do you have paper and pencil?",
+        "furigana": "紙[かみ]",
+        "kana": "かみ",
+        "answer": "かみ"
+      },
+      {
+        "japanese": "手帳",
+        "english": "Pocket Notebook",
+        "furigana": "手帳[てちょう]",
+        "kana": "てちょう",
+        "answer": "てちょう"
+      },
+      {
+        "japanese": "私のシャープペンシルがありません。",
+        "english": "My mechanical pencil is missing.",
+        "furigana": "シャープペンシル",
+        "kana": "シャープペンシル",
+        "answer": "しゃーぷぺんしる"
+      },
+      {
+        "japanese": "消しゴムを貸して下さい。",
+        "english": "Please lend me your eraser.",
+        "furigana": "消[け]しゴム",
+        "kana": "けしゴム",
+        "answer": "けしごむ"
+      },
+      {
+        "japanese": "パンチ",
+        "english": "Hole Puncher",
+        "furigana": "パンチ",
+        "kana": "パンチ",
+        "answer": "ぱんち"
+      },
+      {
+        "japanese": "ホッチキス",
+        "english": "Stapler",
+        "furigana": "ホッチキス",
+        "kana": "ホッチキス",
+        "answer": "ほっちきす"
+      },
+      {
+        "japanese": "鋏",
+        "english": "Scissors",
+        "furigana": "鋏[はさみ]",
+        "kana": "はさみ",
+        "answer": "はさみ"
+      },
+      {
+        "japanese": "毎日、コンピューターを使います。",
+        "english": "I use the computer every day.",
+        "furigana": "コンピューター",
+        "kana": "コンピューター",
+        "answer": "こんぴゅーたー"
+      },
+      {
+        "japanese": "これは兄のパソコンです。",
+        "english": "This is my older brother's personal computer.",
+        "furigana": "パソコン",
+        "kana": "パソコン",
+        "answer": "ぱそこん"
+      },
+      {
+        "japanese": "インターネットで電話番号を調べます。",
+        "english": "I will check the phone number on the internet.",
+        "furigana": "インターネット",
+        "kana": "インターネット",
+        "answer": "いんたーねっと"
+      },
+      {
+        "japanese": "これは会議の資料です。",
+        "english": "These are the materials for the meeting.",
+        "furigana": "資料[しりょう]",
+        "kana": "しりょう",
+        "answer": "しりょう"
+      },
+      {
+        "japanese": "鋏で紙を切ります。",
+        "english": "I will cut the paper with a pair of scissors.",
+        "furigana": "切[き]る",
+        "kana": "きる",
+        "answer": "きる"
+      },
+      {
+        "japanese": "この鋏を使って下さい。",
+        "english": "Please use this pair of scissors.",
+        "furigana": "使[つか]う",
+        "kana": "つかう",
+        "answer": "つかう"
+      },
+      {
+        "japanese": "A「消しゴムが何個在りますか。」 B「10個です。」",
+        "english": "A: How many erasers are there? B: There are 10 of them.",
+        "furigana": "何[なん] 個[こ]",
+        "kana": "なんこ",
+        "answer": "なんこ"
+      },
+      {
+        "japanese": "一個",
+        "english": "1 Small Object",
+        "furigana": "一個[いっこ]",
+        "kana": "いっこ",
+        "answer": "いっこ"
+      },
+      {
+        "japanese": "三個",
+        "english": "3 Small Objects",
+        "furigana": "三[さん]個[こ]",
+        "kana": "さんこ",
+        "answer": "さんこ"
+      },
+      {
+        "japanese": "A「パソコンが何台ありますか。」 B「2台あります。」",
+        "english": "A: How many computers are there? B: There are 2 of them.",
+        "furigana": "何[なん] 台[だい]",
+        "kana": "なんだい",
+        "answer": "なんだい"
+      },
+      {
+        "japanese": "一台",
+        "english": "1 Machine or Vehicle",
+        "furigana": "一[いち]台[だい]",
+        "kana": "いちだい",
+        "answer": "いちだい"
+      },
+      {
+        "japanese": "二台",
+        "english": "2 Machines or Vehicles",
+        "furigana": "二[に]台[だい]",
+        "kana": "にだい",
+        "answer": "にだい"
+      },
+      {
+        "japanese": "三台",
+        "english": "3 Machines or Vehicles",
+        "furigana": "三[さん]台[だい]",
+        "kana": "さんだい",
+        "answer": "さんだい"
+      },
+      {
+        "japanese": "A「何時ですか。」 B「3時です。」",
+        "english": "A: What time is it? B: It's 3 o'clock.",
+        "furigana": "何時[なんじ]",
+        "kana": "なんじ",
+        "answer": "なんじ"
+      },
+      {
+        "japanese": "A「何時何分ですか。」 B「6時20分です。」",
+        "english": "A: What time is it exactly? B: It's 6:20.",
+        "furigana": "何分[なんぷん]",
+        "kana": "なんぷん",
+        "answer": "なんぷん"
+      },
+      {
+        "japanese": "2時",
+        "english": "2 o'clock",
+        "furigana": "2[に]時[じ]",
+        "kana": "2にじ",
+        "answer": "2にじ"
+      },
+      {
+        "japanese": "3時",
+        "english": "3 o'clock",
+        "furigana": "3[さん]時[じ]",
+        "kana": "3さんじ",
+        "answer": "3さんじ"
+      },
+      {
+        "japanese": "1分",
+        "english": "1 minute",
+        "furigana": "1[いっ]分[ぷん]",
+        "kana": "1いっぷん",
+        "answer": "1いっぷん"
+      },
+      {
+        "japanese": "2分",
+        "english": "2 minutes",
+        "furigana": "2[に]分[ふん]",
+        "kana": "2にふん",
+        "answer": "2にふん"
+      },
+      {
+        "japanese": "3分",
+        "english": "3 minutes",
+        "furigana": "3[さん]分[ぷん]",
+        "kana": "3さんぷん",
+        "answer": "3さんぷん"
+      },
+      {
+        "japanese": "8時40分頃学校へ行きます。",
+        "english": "I go to school around 8:40AM.",
+        "furigana": "頃[ごろ]",
+        "kana": "ごろ",
+        "answer": "ごろ"
+      },
+      {
+        "japanese": "午前9時のニュースです。",
+        "english": "And now for the 9.00 A.M. news.",
+        "furigana": "午前[ごぜん]",
+        "kana": "ごぜん",
+        "answer": "ごぜん"
+      },
+      {
+        "japanese": "午後7時です。",
+        "english": "It's 7:00P.M.",
+        "furigana": "午後[ごご]",
+        "kana": "ごご",
+        "answer": "ごご"
+      },
+      {
+        "japanese": "A「今、何時ですか。」 B「2時半です。」",
+        "english": "A: What time is it now? B: It's 2:30.",
+        "furigana": "今[いま]",
+        "kana": "いま",
+        "answer": "いま"
+      },
+      {
+        "japanese": "30分ぐらい休みましょう。",
+        "english": "Let's rest for about 30 minutes.",
+        "furigana": "ぐらい",
+        "kana": "ぐらい",
+        "answer": "ぐらい"
+      },
+      {
+        "japanese": "「昨日、1時間勉強しました。」 「時間が在りません。」",
+        "english": "I studied for an hour yesterday.There is no time.",
+        "furigana": "時間[じかん]",
+        "kana": "じかん",
+        "answer": "じかん"
+      },
+      {
+        "japanese": "母は花が好きです。",
+        "english": "My mother likes flowers.",
+        "furigana": "花[はな]",
+        "kana": "はな",
+        "answer": "はな"
+      },
+      {
+        "japanese": "A「毎日、何時間働きますか。」 B「8時間働きます。」",
+        "english": "A: How many hours do you work every day? B: I work 8 hours.",
+        "furigana": "何[なん] 時間[じかん]",
+        "kana": "なんじかん",
+        "answer": "なんじかん"
+      },
+      {
+        "japanese": "学校は8時からです。",
+        "english": "School is from 8 o'clock.",
+        "furigana": "から",
+        "kana": "から",
+        "answer": "から"
+      },
+      {
+        "japanese": "会社は9時から5時迄です。",
+        "english": "I work at the office from 9A: M. to 5P.M.",
+        "furigana": "迄[まで]",
+        "kana": "まで",
+        "answer": "まで"
+      },
+      {
+        "japanese": "A「スミスさんはどんな人ですか。」",
+        "english": "A: What kind of person is Smith-san?",
+        "furigana": "どんな",
+        "kana": "どんな",
+        "answer": "どんな"
+      },
+      {
+        "japanese": "桜は綺麗な花です。",
+        "english": "The cherry blossom is a beautiful flower.",
+        "furigana": "桜[さくら]",
+        "kana": "さくら",
+        "answer": "さくら"
+      },
+      {
+        "japanese": "スミスさんのお婆さんは元気です。",
+        "english": "Smith-san's grandmother is doing fine.",
+        "furigana": "元気[げんき]",
+        "kana": "げんき",
+        "answer": "げんき"
+      },
+      {
+        "japanese": "ホアンさんはハンサムです。",
+        "english": "Huang-san is handsome.",
+        "furigana": "ハンサム",
+        "kana": "ハンサム",
+        "answer": "はんさむ"
+      },
+      {
+        "japanese": "ララちゃんは可愛いです。",
+        "english": "Lara-chan is cute.",
+        "furigana": "可愛[かわい]い",
+        "kana": "かわいい",
+        "answer": "かわいい"
+      },
+      {
+        "japanese": "ジョンさんは格好いいです。",
+        "english": "John-san is cool.",
+        "furigana": "格好[かっこ]いい",
+        "kana": "かっこいい",
+        "answer": "かっこいい"
+      },
+      {
+        "japanese": "山田さんは頭がいいです。",
+        "english": "Yamada-san is intelligent.",
+        "furigana": "頭[あたま]がいい",
+        "kana": "あたまがいい",
+        "answer": "あたまがいい"
+      },
+      {
+        "japanese": "夕食は7時です。",
+        "english": "Dinner's at seven o'clock.",
+        "furigana": "夕食[ゆうしょく]",
+        "kana": "ゆうしょく",
+        "answer": "ゆうしょく"
+      },
+      {
+        "japanese": "桜が迚も綺麗ですね。",
+        "english": "A: The cherry blossoms are very beautiful.",
+        "furigana": "迚[とて]も",
+        "kana": "とても",
+        "answer": "とても"
+      },
+      {
+        "japanese": "ハインさんは優しいです。",
+        "english": "Hein-san is friendly.",
+        "furigana": "優[やさ]しい",
+        "kana": "やさしい",
+        "answer": "やさしい"
+      },
+      {
+        "japanese": "山田さんはユーモアが在ります。",
+        "english": "Yamada-san is humorous.",
+        "furigana": "ユーモア",
+        "kana": "ユーモア",
+        "answer": "ゆーもあ"
+      },
+      {
+        "japanese": "ホアンさんは背が高いです。",
+        "english": "Huang-san is tall.",
+        "furigana": "背[せ]",
+        "kana": "せ",
+        "answer": "せ"
+      },
+      {
+        "japanese": "ホアンさんは山田さんより背が高いです。",
+        "english": "Huang-san is taller than Yamada-san.",
+        "furigana": "高[たか]い",
+        "kana": "たかい",
+        "answer": "たかい"
+      },
+      {
+        "japanese": "此の犬は迚も賢い。",
+        "english": "This dog is very clever.",
+        "furigana": "賢[かしこ]い",
+        "kana": "かしこい",
+        "answer": "かしこい"
+      },
+      {
+        "japanese": "今日は迚も暑い。",
+        "english": "It's very hot today.",
+        "furigana": "暑[あつ]い",
+        "kana": "あつい",
+        "answer": "あつい"
+      },
+      {
+        "japanese": "今日の夕食は私が御馳走します。",
+        "english": "I'll treat you to dinner tonight.",
+        "furigana": "御馳走[ごちそう]する",
+        "kana": "ごちそうする",
+        "answer": "ごちそうする"
+      },
+      {
+        "japanese": "私は背が低いです。",
+        "english": "I am short.",
+        "furigana": "低[ひく]い",
+        "kana": "ひくい",
+        "answer": "ひくい"
+      },
+      {
+        "japanese": "ララちゃんは目が大きいです。",
+        "english": "Lara-chan has big eyes.",
+        "furigana": "目[め]",
+        "kana": "め",
+        "answer": "め"
+      },
+      {
+        "japanese": "大きい犬がいます。",
+        "english": "There is a big dog.",
+        "furigana": "大[おお]きい",
+        "kana": "おおきい",
+        "answer": "おおきい"
+      },
+      {
+        "japanese": "私のカメラは小さいです。",
+        "english": "My camera is small.",
+        "furigana": "小[ちい]さい",
+        "kana": "ちいさい",
+        "answer": "ちいさい"
+      },
+      {
+        "japanese": "昨日、髪を切りました。",
+        "english": "Yesterday, I cut my hair.",
+        "furigana": "髪[かみ]",
+        "kana": "かみ",
+        "answer": "かみ"
+      },
+      {
+        "japanese": "暑いので上着を脱ぎました。",
+        "english": "I took my jacket off because it was hot.",
+        "furigana": "上着[うわぎ]",
+        "kana": "うわぎ",
+        "answer": "うわぎ"
+      },
+      {
+        "japanese": "ハインさんは髪が長いです。",
+        "english": "Hein-san's hair is long.",
+        "furigana": "長[なが]い",
+        "kana": "ながい",
+        "answer": "ながい"
+      },
+      {
+        "japanese": "ララちゃんは髪が短いです。",
+        "english": "Lara-chan's hair is short.",
+        "furigana": "短[みじか]い",
+        "kana": "みじかい",
+        "answer": "みじかい"
+      },
+      {
+        "japanese": "昨日、服を買いました。",
+        "english": "Yesterday, I bought some clothes.",
+        "furigana": "服[ふく]",
+        "kana": "ふく",
+        "answer": "ふく"
+      },
+      {
+        "japanese": "大きいサイズがありません。",
+        "english": "There are no large sizes.",
+        "furigana": "サイズ",
+        "kana": "サイズ",
+        "answer": "さいず"
+      },
+      {
+        "japanese": "明日の試験、頑張ってね。",
+        "english": "Good luck on tomorrow's exam.",
+        "furigana": "試験[しけん]",
+        "kana": "しけん",
+        "answer": "しけん"
+      },
+      {
+        "japanese": "格好いいシャツですね。素敵です。",
+        "english": "That is a fancy shirt. It looks great.",
+        "furigana": "素敵[すてき]",
+        "kana": "すてき",
+        "answer": "すてき"
+      },
+      {
+        "japanese": "素敵なデザインですね。",
+        "english": "It's a great design.",
+        "furigana": "デザイン",
+        "kana": "デザイン",
+        "answer": "でざいん"
+      },
+      {
+        "japanese": "上着を着ます。",
+        "english": "I will wear my overcoat.",
+        "furigana": "着[き]る",
+        "kana": "きる",
+        "answer": "きる"
+      },
+      {
+        "japanese": "「コートを脱ぎます。」 「靴を脱ぎます。」",
+        "english": "A：I will take off my coat B：I will take off my shoes.",
+        "furigana": "脱[ぬ]ぐ",
+        "kana": "ぬぐ",
+        "answer": "ぬぐ"
+      },
+      {
+        "japanese": "赤いコートを買いました。",
+        "english": "I bought a red coat.",
+        "furigana": "赤[あか]い",
+        "kana": "あかい",
+        "answer": "あかい"
+      },
+      {
+        "japanese": "青いシャツを着ています。",
+        "english": "I am wearing a blue shirt.",
+        "furigana": "青[あお]い",
+        "kana": "あおい",
+        "answer": "あおい"
+      },
+      {
+        "japanese": "白いスーツを買いたいです。",
+        "english": "I want to buy a white suit.",
+        "furigana": "白[しろ]い",
+        "kana": "しろい",
+        "answer": "しろい"
+      },
+      {
+        "japanese": "黒いセーターを着ます。",
+        "english": "I will wear a black sweater.",
+        "furigana": "黒[くろ]い",
+        "kana": "くろい",
+        "answer": "くろい"
+      },
+      {
+        "japanese": "黄色い服を買います。",
+        "english": "I will buy yellow clothes.",
+        "furigana": "黄色[きいろ]い",
+        "kana": "きいろい",
+        "answer": "きいろい"
+      },
+      {
+        "japanese": "色々な帽子を持っています。",
+        "english": "I have various hats.",
+        "furigana": "色々[いろいろ]な",
+        "kana": "々いろいろな",
+        "answer": "々いろいろな"
+      },
+      {
+        "japanese": "シャツ",
+        "english": "Shirt",
+        "furigana": "シャツ",
+        "kana": "シャツ",
+        "answer": "しゃつ"
+      },
+      {
+        "japanese": "スーツ",
+        "english": "Suit",
+        "furigana": "スーツ",
+        "kana": "スーツ",
+        "answer": "すーつ"
+      },
+      {
+        "japanese": "黒いスカートを履きます。",
+        "english": "I wear a black skirt.",
+        "furigana": "履[は]く",
+        "kana": "はく",
+        "answer": "はく"
+      },
+      {
+        "japanese": "パンツ",
+        "english": "Pants, underpants",
+        "furigana": "パンツ",
+        "kana": "パンツ",
+        "answer": "ぱんつ"
+      },
+      {
+        "japanese": "其の子は日本語が分からない。",
+        "english": "That kid doesn't understand Japanese.",
+        "furigana": "子[こ]",
+        "kana": "こ",
+        "answer": "こ"
+      },
+      {
+        "japanese": "スカート",
+        "english": "Skirt",
+        "furigana": "スカート",
+        "kana": "スカート",
+        "answer": "すかーと"
+      },
+      {
+        "japanese": "靴下",
+        "english": "Socks",
+        "furigana": "靴下[くつした]",
+        "kana": "くつした",
+        "answer": "くつした"
+      },
+      {
+        "japanese": "黒い帽子を被ります。",
+        "english": "I wear a black hat.",
+        "furigana": "被[かぶ]る",
+        "kana": "かぶる",
+        "answer": "かぶる"
+      },
+      {
+        "japanese": "素敵な色のセーターですね。",
+        "english": "That sweater is a wonderful color.",
+        "furigana": "色[いろ]",
+        "kana": "いろ",
+        "answer": "いろ"
+      },
+      {
+        "japanese": "暑いので帽子を被りましょう。",
+        "english": "You should wear a hat because it's hot.",
+        "furigana": "帽子[ぼうし]",
+        "kana": "ぼうし",
+        "answer": "ぼうし"
+      },
+      {
+        "japanese": "眼鏡を掛けます。",
+        "english": "I wear a pair of glasses.",
+        "furigana": "眼鏡[めがね]",
+        "kana": "めがね",
+        "answer": "めがね"
+      },
+      {
+        "japanese": "綺麗な指輪をします。",
+        "english": "I wear a beautiful ring.",
+        "furigana": "為[す]る",
+        "kana": "する",
+        "answer": "する"
+      },
+      {
+        "japanese": "彼女は着物が良く似合います。",
+        "english": "She looks good in a kimono.",
+        "furigana": "似合[にあ]う",
+        "kana": "にあう",
+        "answer": "にあう"
+      },
+      {
+        "japanese": "指",
+        "english": "finger/toe",
+        "furigana": "指[ゆび]",
+        "kana": "ゆび",
+        "answer": "ゆび"
+      },
+      {
+        "japanese": "ネクタイ",
+        "english": "Necktie",
+        "furigana": "ネクタイ",
+        "kana": "ネクタイ",
+        "answer": "ねくたい"
+      },
+      {
+        "japanese": "指先",
+        "english": "fingertip/toetip",
+        "furigana": "指先[ゆびさき]",
+        "kana": "ゆびさき",
+        "answer": "ゆびさき"
+      },
+      {
+        "japanese": "彼女に指輪をプレゼントしました。",
+        "english": "I gave her a ring as a gift.",
+        "furigana": "指輪[ゆびわ]",
+        "kana": "ゆびわ",
+        "answer": "ゆびわ"
+      },
+      {
+        "japanese": "時計を見たら丁度3時だった。",
+        "english": "I looked at the clock and it was exactly three.",
+        "furigana": "時計[とけい]",
+        "kana": "とけい",
+        "answer": "とけい"
+      },
+      {
+        "japanese": "私の好きな色は青です。",
+        "english": "My favorite color is blue.",
+        "furigana": "青[あお]",
+        "kana": "あお",
+        "answer": "あお"
+      },
+      {
+        "japanese": "A「鞄を持ちましょうか。」 B「はい、有り難う御座います。」",
+        "english": "A: Shall I hold the bag? B: Yes, thank you.",
+        "furigana": "持[も]つ",
+        "kana": "もつ",
+        "answer": "もつ"
+      },
+      {
+        "japanese": "会社に財布を忘れた。",
+        "english": "I left my wallet at the office.",
+        "furigana": "財布[さいふ]",
+        "kana": "さいふ",
+        "answer": "さいふ"
+      },
+      {
+        "japanese": "日曜日に子供と遊びました。",
+        "english": "I played with the children on Sunday.",
+        "furigana": "遊[あそ]ぶ",
+        "kana": "あそぶ",
+        "answer": "あそぶ"
+      },
+      {
+        "japanese": "新宿へ遊びに行きます。",
+        "english": "I'm going to have fun in Shinjuku.",
+        "furigana": "遊[あそ]びに 行[い]く",
+        "kana": "あそびにいく",
+        "answer": "あそびにいく"
+      },
+      {
+        "japanese": "京都を案内します。",
+        "english": "I will show you Kyoto.",
+        "furigana": "案内[あんない]",
+        "kana": "あんない",
+        "answer": "あんない"
+      },
+      {
+        "japanese": "成田へ父を迎えに行きます。",
+        "english": "I will pick up my father at Narita.",
+        "furigana": "迎[むか]える",
+        "kana": "むかえる",
+        "answer": "むかえる"
+      },
+      {
+        "japanese": "子供を動物園へ連れて行きました。",
+        "english": "I took the children to the zoo.",
+        "furigana": "連[つ]れていく",
+        "kana": "つれていく",
+        "answer": "つれていく"
+      },
+      {
+        "japanese": "弟が家へ友達を連れて来ました。",
+        "english": "My younger brother brought home his friend.",
+        "furigana": "連[つ]れて 来[く]る",
+        "kana": "つれてくる",
+        "answer": "つれてくる"
+      },
+      {
+        "japanese": "色々な動物を見ました。",
+        "english": "I saw various animals.",
+        "furigana": "動物[どうぶつ]",
+        "kana": "どうぶつ",
+        "answer": "どうぶつ"
+      },
+      {
+        "japanese": "ズボンが汚れた。",
+        "english": "My trousers got dirty.",
+        "furigana": "汚[よご]れる",
+        "kana": "よごれる",
+        "answer": "よごれる"
+      },
+      {
+        "japanese": "子供と動物園へ行きました。",
+        "english": "I went to the zoo with the children.",
+        "furigana": "動物園[どうぶつえん]",
+        "kana": "どうぶつえん",
+        "answer": "どうぶつえん"
+      },
+      {
+        "japanese": "上野動物園にパンダがいました。",
+        "english": "There was a panda at the Ueno Zoo.",
+        "furigana": "パンダ",
+        "kana": "パンダ",
+        "answer": "ぱんだ"
+      },
+      {
+        "japanese": "馬を見たいです。",
+        "english": "I want to see a horse.",
+        "furigana": "馬[うま]",
+        "kana": "うま",
+        "answer": "うま"
+      },
+      {
+        "japanese": "浅草でお祭りが有ります。",
+        "english": "There is a festival in Asakusa.",
+        "furigana": "祭[まつ]り",
+        "kana": "まつり",
+        "answer": "まつり"
+      },
+      {
+        "japanese": "このズボンは緩いです。",
+        "english": "These trousers are loose.",
+        "furigana": "緩[ゆる]い",
+        "kana": "ゆるい",
+        "answer": "ゆるい"
+      },
+      {
+        "japanese": "鎌倉にお寺が在ります。",
+        "english": "There are temples in Kamakura.",
+        "furigana": "寺[てら]",
+        "kana": "てら",
+        "answer": "てら"
+      },
+      {
+        "japanese": "京都で神社へ行きました。",
+        "english": "I went to a shrine in Kyoto.",
+        "furigana": "神社[じんじゃ]",
+        "kana": "じんじゃ",
+        "answer": "じんじゃ"
+      },
+      {
+        "japanese": "休みに旅行をします。",
+        "english": "I will travel during the holidays.",
+        "furigana": "旅行[りょこう]",
+        "kana": "りょこう",
+        "answer": "りょこう"
+      },
+      {
+        "japanese": "五人で旅行に行きました。",
+        "english": "Five of us went on a trip.",
+        "furigana": "五[ご] 人[にん]",
+        "kana": "ごにん",
+        "answer": "ごにん"
+      },
+      {
+        "japanese": "旅行の準備をします。",
+        "english": "I will prepare for the trip.",
+        "furigana": "準備[じゅんび]",
+        "kana": "じゅんび",
+        "answer": "じゅんび"
+      },
+      {
+        "japanese": "ホテルを予約します。",
+        "english": "I will reserve a hotel.",
+        "furigana": "予約[よやく]",
+        "kana": "よやく",
+        "answer": "よやく"
+      },
+      {
+        "japanese": "ホテルに電話をかけます。",
+        "english": "I will call the hotel.",
+        "furigana": "ホテル",
+        "kana": "ホテル",
+        "answer": "ほてる"
+      },
+      {
+        "japanese": "綺麗なホテルに泊まりたいです。",
+        "english": "I want to stay at a beautiful hotel.",
+        "furigana": "泊[と]まる",
+        "kana": "とまる",
+        "answer": "とまる"
+      },
+      {
+        "japanese": "ロビーに電話が有ります。",
+        "english": "There is a phone in the lobby.",
+        "furigana": "ロビー",
+        "kana": "ロビー",
+        "answer": "ろびー"
+      },
+      {
+        "japanese": "ホテルはサービスがいいです。",
+        "english": "The hotel has good service.",
+        "furigana": "サービス",
+        "kana": "サービス",
+        "answer": "さーびす"
+      },
+      {
+        "japanese": "亜米利加でホームステイしました。",
+        "english": "I did a home stay in America.",
+        "furigana": "ホームステイ",
+        "kana": "ホームステイ",
+        "answer": "ほーむすてい"
+      },
+      {
+        "japanese": "渋谷は東京の町です。",
+        "english": "Shibuya is a city in Tokyo.",
+        "furigana": "町[まち]",
+        "kana": "まち",
+        "answer": "まち"
+      },
+      {
+        "japanese": "ディズニーランドは千葉県にあります。",
+        "english": "Disneyland is in Chiba Prefecture.",
+        "furigana": "県[けん]",
+        "kana": "けん",
+        "answer": "けん"
+      },
+      {
+        "japanese": "上野",
+        "english": "Ueno",
+        "furigana": "上野[うえの]",
+        "kana": "うえの",
+        "answer": "うえの"
+      },
+      {
+        "japanese": "浅草",
+        "english": "Asakusa",
+        "furigana": "浅草[あさくさ]",
+        "kana": "あさくさ",
+        "answer": "あさくさ"
+      },
+      {
+        "japanese": "新宿",
+        "english": "Shinjuku",
+        "furigana": "新宿[しんじゅく]",
+        "kana": "しんじゅく",
+        "answer": "しんじゅく"
+      },
+      {
+        "japanese": "秋葉原",
+        "english": "Akihabara",
+        "furigana": "秋葉原[あきはばら]",
+        "kana": "あきはばら",
+        "answer": "あきはばら"
+      },
+      {
+        "japanese": "渋谷",
+        "english": "Shibuya",
+        "furigana": "渋谷[しぶや]",
+        "kana": "しぶや",
+        "answer": "しぶや"
+      },
+      {
+        "japanese": "銀座",
+        "english": "Ginza",
+        "furigana": "銀座[ぎんざ]",
+        "kana": "ぎんざ",
+        "answer": "ぎんざ"
+      },
+      {
+        "japanese": "羽田",
+        "english": "Haneda",
+        "furigana": "羽田[はねだ]",
+        "kana": "はねだ",
+        "answer": "はねだ"
+      },
+      {
+        "japanese": "鎌倉",
+        "english": "Kamakura",
+        "furigana": "鎌倉[かまくら]",
+        "kana": "かまくら",
+        "answer": "かまくら"
+      },
+      {
+        "japanese": "札幌",
+        "english": "Sapporo",
+        "furigana": "札幌[さっぽろ]",
+        "kana": "さっぽろ",
+        "answer": "さっぽろ"
+      },
+      {
+        "japanese": "仙台",
+        "english": "Sendai",
+        "furigana": "仙台[せんだい]",
+        "kana": "せんだい",
+        "answer": "せんだい"
+      },
+      {
+        "japanese": "日光",
+        "english": "Nikko",
+        "furigana": "日光[にっこう]",
+        "kana": "にっこう",
+        "answer": "にっこう"
+      },
+      {
+        "japanese": "金沢",
+        "english": "Kanazawa",
+        "furigana": "金沢[かなざわ]",
+        "kana": "かなざわ",
+        "answer": "かなざわ"
+      },
+      {
+        "japanese": "名古屋",
+        "english": "Nagoya",
+        "furigana": "名古屋[なごや]",
+        "kana": "なごや",
+        "answer": "なごや"
+      },
+      {
+        "japanese": "神戸",
+        "english": "Kobe",
+        "furigana": "神戸[こうべ]",
+        "kana": "こうべ",
+        "answer": "こうべ"
+      },
+      {
+        "japanese": "広島",
+        "english": "Hiroshima",
+        "furigana": "広島[ひろしま]",
+        "kana": "ひろしま",
+        "answer": "ひろしま"
+      },
+      {
+        "japanese": "福岡",
+        "english": "Fukuoka",
+        "furigana": "福岡[ふくおか]",
+        "kana": "ふくおか",
+        "answer": "ふくおか"
+      },
+      {
+        "japanese": "長崎",
+        "english": "Nagasaki",
+        "furigana": "長崎[ながさき]",
+        "kana": "ながさき",
+        "answer": "ながさき"
+      },
+      {
+        "japanese": "沖縄",
+        "english": "Okinawa",
+        "furigana": "沖縄[おきなわ]",
+        "kana": "おきなわ",
+        "answer": "おきなわ"
+      },
+      {
+        "japanese": "朝、6時に起きます。",
+        "english": "I wake up at 6A: M. in the morning.",
+        "furigana": "朝[あさ]",
+        "kana": "あさ",
+        "answer": "あさ"
+      },
+      {
+        "japanese": "昼、仕事をします。",
+        "english": "I work during the day.",
+        "furigana": "昼[ひる]",
+        "kana": "ひる",
+        "answer": "ひる"
+      },
+      {
+        "japanese": "毎朝、シーディーを聞きます。",
+        "english": "I listen to the CD every morning.",
+        "furigana": "毎朝[まいあさ]",
+        "kana": "まいあさ",
+        "answer": "まいあさ"
+      },
+      {
+        "japanese": "毎晩、勉強をしています。",
+        "english": "I study every night.",
+        "furigana": "毎晩[まいばん]",
+        "kana": "まいばん",
+        "answer": "まいばん"
+      },
+      {
+        "japanese": "今朝、友達に電話をかけました。",
+        "english": "I called my friend this morning.",
+        "furigana": "今朝[けさ]",
+        "kana": "けさ",
+        "answer": "けさ"
+      },
+      {
+        "japanese": "今晩、ホテルに泊まります。",
+        "english": "I will stay in a hotel tonight.",
+        "furigana": "今晩[こんばん]",
+        "kana": "こんばん",
+        "answer": "こんばん"
+      },
+      {
+        "japanese": "毎朝、7時に起きます。",
+        "english": "I wake up at 7A: M. every morning.",
+        "furigana": "起[お]きる",
+        "kana": "おきる",
+        "answer": "おきる"
+      },
+      {
+        "japanese": "毎晩、11時頃寝ます。",
+        "english": "I sleep around 11P.M. every night.",
+        "furigana": "寝[ね]る",
+        "kana": "ねる",
+        "answer": "ねる"
+      },
+      {
+        "japanese": "昨日、ニュースを見ました。",
+        "english": "Yesterday, I watched the news.",
+        "furigana": "ニュース",
+        "kana": "ニュース",
+        "answer": "にゅーす"
+      },
+      {
+        "japanese": "夜、ラジオのニュースを聞きます。",
+        "english": "I listen to the radio in the evening.",
+        "furigana": "ラジオ",
+        "kana": "ラジオ",
+        "answer": "らじお"
+      },
+      {
+        "japanese": "その子は体が少し弱い。",
+        "english": "That child has a somewhat weak constitution.",
+        "furigana": "弱[よわ]い",
+        "kana": "よわい",
+        "answer": "よわい"
+      },
+      {
+        "japanese": "家にテレビは有りません。",
+        "english": "I don't have a television at home.",
+        "furigana": "テレビ",
+        "kana": "テレビ",
+        "answer": "てれび"
+      },
+      {
+        "japanese": "妹は体が弱いです。",
+        "english": "My sister is sickly.",
+        "furigana": "体[からだ]",
+        "kana": "からだ",
+        "answer": "からだ"
+      },
+      {
+        "japanese": "A「今朝、5時に起きました。」 B「早いですね。」",
+        "english": "A: I woke up at 5A: M. this morning. B: That's early, isn't it?",
+        "furigana": "早[はや]い",
+        "kana": "はやい",
+        "answer": "はやい"
+      },
+      {
+        "japanese": "A「東京から大阪迄2時間半です。」 B「早いですね。」",
+        "english": "A: It takes two and a half hours from Tokyo to Osaka. B: That's fast, isn't it?",
+        "furigana": "早[はや]い",
+        "kana": "はやい",
+        "answer": "はやい"
+      },
+      {
+        "japanese": "A「毎晩、1時頃寝ます。 B「遅いですね。」",
+        "english": "A: I go to sleep around 1A: M. every night. B: That's late isn't it.",
+        "furigana": "遅[おそ]い",
+        "kana": "おそい",
+        "answer": "おそい"
+      },
+      {
+        "japanese": "鏡で顔を見ます。",
+        "english": "I see my face in the mirror.",
+        "furigana": "鏡[かがみ]",
+        "kana": "かがみ",
+        "answer": "かがみ"
+      },
+      {
+        "japanese": "彼はタオルで顔を拭きました。",
+        "english": "He wiped his face with a towel.",
+        "furigana": "顔[かお]",
+        "kana": "かお",
+        "answer": "かお"
+      },
+      {
+        "japanese": "朝、顔を洗います。",
+        "english": "I wash my face in the morning.",
+        "furigana": "洗[あら]う",
+        "kana": "あらう",
+        "answer": "あらう"
+      },
+      {
+        "japanese": "「お風呂に入ります。」 「レストランに入ります。」",
+        "english": "A：I take a bath. B：I will enter the restaurant.",
+        "furigana": "入[はい]る",
+        "kana": "はいる",
+        "answer": "はいる"
+      },
+      {
+        "japanese": "シャワー",
+        "english": "Shower",
+        "furigana": "シャワー",
+        "kana": "シャワー",
+        "answer": "しゃわー"
+      },
+      {
+        "japanese": "シャワーを浴びます。",
+        "english": "I take a shower.",
+        "furigana": "浴[あ]びる",
+        "kana": "あびる",
+        "answer": "あびる"
+      },
+      {
+        "japanese": "歯",
+        "english": "Teeth",
+        "furigana": "歯[は]",
+        "kana": "は",
+        "answer": "は"
+      },
+      {
+        "japanese": "歯を磨きます。",
+        "english": "I brush my teeth.",
+        "furigana": "磨[みが]く",
+        "kana": "みがく",
+        "answer": "みがく"
+      },
+      {
+        "japanese": "学校で昼御飯を食べます。",
+        "english": "I eat lunch at school.",
+        "furigana": "食[た]べる",
+        "kana": "たべる",
+        "answer": "たべる"
+      },
+      {
+        "japanese": "此れは越南の食べ物です。",
+        "english": "This is Vietnamese food.",
+        "furigana": "食[た]べ 物[もの]",
+        "kana": "たべもの",
+        "answer": "たべもの"
+      },
+      {
+        "japanese": "7時に朝御飯を食べます。",
+        "english": "I eat breakfast at 7A: M.",
+        "furigana": "朝御飯[あさごはん]",
+        "kana": "あさごはん",
+        "answer": "あさごはん"
+      },
+      {
+        "japanese": "12時に昼御飯を食べます。",
+        "english": "I eat lunch at 12P.M.",
+        "furigana": "昼御飯[ひるごはん]",
+        "kana": "ひるごはん",
+        "answer": "ひるごはん"
+      },
+      {
+        "japanese": "友達と晩御飯を食べました。",
+        "english": "I ate dinner with my friends.",
+        "furigana": "晩御飯[ばんごはん]",
+        "kana": "ばんごはん",
+        "answer": "ばんごはん"
+      },
+      {
+        "japanese": "パンを沢山食べました。",
+        "english": "I ate a lot of bread.",
+        "furigana": "沢山[たくさん]",
+        "kana": "たくさん",
+        "answer": "たくさん"
+      },
+      {
+        "japanese": "このベルトの値段は2500円でした。",
+        "english": "The price of this belt was 2,500 yen.",
+        "furigana": "値段[ねだん]",
+        "kana": "ねだん",
+        "answer": "ねだん"
+      },
+      {
+        "japanese": "スーパーで肉を買います。",
+        "english": "I buy meat at the supermarket.",
+        "furigana": "スーパー",
+        "kana": "スーパー",
+        "answer": "すーぱー"
+      },
+      {
+        "japanese": "昨日の夜は肉を沢山食べました。",
+        "english": "I ate a lot of meat last night.",
+        "furigana": "肉[にく]",
+        "kana": "にく",
+        "answer": "にく"
+      },
+      {
+        "japanese": "私の歯は丈夫です。",
+        "english": "My teeth are strong.",
+        "furigana": "丈夫[じょうぶ]",
+        "kana": "じょうぶ",
+        "answer": "じょうぶ"
+      },
+      {
+        "japanese": "牛肉",
+        "english": "Beef",
+        "furigana": "牛肉[ぎゅうにく]",
+        "kana": "ぎゅうにく",
+        "answer": "ぎゅうにく"
+      },
+      {
+        "japanese": "豚肉",
+        "english": "Pork",
+        "furigana": "豚肉[ぶたにく]",
+        "kana": "ぶたにく",
+        "answer": "ぶたにく"
+      },
+      {
+        "japanese": "肉と魚と何方が好きですか。",
+        "english": "Which do you prefer, meat or fish?",
+        "furigana": "魚[さかな]",
+        "kana": "さかな",
+        "answer": "さかな"
+      },
+      {
+        "japanese": "卵",
+        "english": "Egg",
+        "furigana": "卵[たまご]",
+        "kana": "たまご",
+        "answer": "たまご"
+      },
+      {
+        "japanese": "私は毎日沢山野菜を食べます。",
+        "english": "I eat a lot of vegetables every day.",
+        "furigana": "野菜[やさい]",
+        "kana": "やさい",
+        "answer": "やさい"
+      },
+      {
+        "japanese": "バナナ",
+        "english": "Banana",
+        "furigana": "バナナ",
+        "kana": "バナナ",
+        "answer": "ばなな"
+      },
+      {
+        "japanese": "林檎を一つ下さい。",
+        "english": "Please give me one of the apples.",
+        "furigana": "林檎[りんご]",
+        "kana": "りんご",
+        "answer": "りんご"
+      },
+      {
+        "japanese": "タオルで体を拭きました。",
+        "english": "I dried myself with a towel.",
+        "furigana": "拭[ふ]く",
+        "kana": "ふく",
+        "answer": "ふく"
+      },
+      {
+        "japanese": "檸檬",
+        "english": "Lemon",
+        "furigana": "檸檬[れもん]",
+        "kana": "れもん",
+        "answer": "れもん"
+      },
+      {
+        "japanese": "皆にお菓子をあげましょう。",
+        "english": "Let's give everyone some sweets.",
+        "furigana": "(お) 菓子[かし]",
+        "kana": "かし",
+        "answer": "かし"
+      },
+      {
+        "japanese": "妹はチョコレートが大好きです。",
+        "english": "My little sister loves chocolate.",
+        "furigana": "チョコレート",
+        "kana": "チョコレート",
+        "answer": "ちょこれーと"
+      },
+      {
+        "japanese": "値段は丁度3万円です。",
+        "english": "The price is exactly 30,000 yen.",
+        "furigana": "丁度[ちょうど]",
+        "kana": "ちょうど",
+        "answer": "ちょうど"
+      },
+      {
+        "japanese": "水を飲みます。",
+        "english": "I drink water.",
+        "furigana": "飲[の]む",
+        "kana": "のむ",
+        "answer": "のむ"
+      },
+      {
+        "japanese": "私は毎朝珈琲を飲みます。",
+        "english": "I drink coffee every morning.",
+        "furigana": "珈琲[こーひー]",
+        "kana": "こーひー",
+        "answer": "こーひー"
+      },
+      {
+        "japanese": "A「飲み物は何がいいですか。」 B「珈琲をお願いします。」",
+        "english": "A: What would you like to drink? B: Coffee please.",
+        "furigana": "飲[の]み 物[もの]",
+        "kana": "のみもの",
+        "answer": "のみもの"
+      },
+      {
+        "japanese": "冷たい水が飲みたいです。",
+        "english": "I want to drink cold water.",
+        "furigana": "水[みず]",
+        "kana": "みず",
+        "answer": "みず"
+      },
+      {
+        "japanese": "カップにお湯を入れます。",
+        "english": "I will pour hot water in the cup.",
+        "furigana": "湯[ゆ]",
+        "kana": "ゆ",
+        "answer": "ゆ"
+      },
+      {
+        "japanese": "冷たいジュースが飲みたいです。",
+        "english": "I want to drink cold juice.",
+        "furigana": "冷[つめ]たい",
+        "kana": "つめたい",
+        "answer": "つめたい"
+      },
+      {
+        "japanese": "A「珈琲と紅茶と何方がいいですか。」 B「紅茶がいいです。」",
+        "english": "A: Which would you like, coffee or black tea? B: I would like black tea.",
+        "furigana": "がいい",
+        "kana": "がいい",
+        "answer": "がいい"
+      },
+      {
+        "japanese": "A「紅茶にミルクを入れます。」 B「鞄に本を入れます。」",
+        "english": "A：I put milk in my tea. B：I put the book in the bag.",
+        "furigana": "入[い]れる",
+        "kana": "いれる",
+        "answer": "いれる"
+      },
+      {
+        "japanese": "珈琲にミルクを入れます。",
+        "english": "I put milk in coffee.",
+        "furigana": "ミルク",
+        "kana": "ミルク",
+        "answer": "みるく"
+      },
+      {
+        "japanese": "自動販売機で飲み物を買います。",
+        "english": "I buy drinks at the vending machine.",
+        "furigana": "自動販売機[じどうはんばいき]",
+        "kana": "じどうはんばいき",
+        "answer": "じどうはんばいき"
+      },
+      {
+        "japanese": "私は毎朝、牛乳を飲む。",
+        "english": "I drink milk every morning.",
+        "furigana": "牛乳[ぎゅうにゅう]",
+        "kana": "ぎゅうにゅう",
+        "answer": "ぎゅうにゅう"
+      },
+      {
+        "japanese": "ジュース",
+        "english": "Juice",
+        "furigana": "ジュース",
+        "kana": "ジュース",
+        "answer": "じゅーす"
+      },
+      {
+        "japanese": "お茶を入れましょうか。",
+        "english": "Shall I make tea?",
+        "furigana": "お茶[おちゃ]",
+        "kana": "おおちゃ",
+        "answer": "おおちゃ"
+      },
+      {
+        "japanese": "彼女は酒に強い。",
+        "english": "She holds her liquor well.",
+        "furigana": "酒[さけ]",
+        "kana": "さけ",
+        "answer": "さけ"
+      },
+      {
+        "japanese": "お酒は大人に成ってから。",
+        "english": "You can drink alcohol when you're an adult.",
+        "furigana": "大人[おとな]",
+        "kana": "おとな",
+        "answer": "おとな"
+      },
+      {
+        "japanese": "ワインを少し飲みました。",
+        "english": "I drank a little wine.",
+        "furigana": "ワイン",
+        "kana": "ワイン",
+        "answer": "わいん"
+      },
+      {
+        "japanese": "これは日本の料理です。",
+        "english": "This is Japanese food.",
+        "furigana": "料理[りょうり]",
+        "kana": "りょうり",
+        "answer": "りょうり"
+      },
+      {
+        "japanese": "私はパンより御飯が好きだ。",
+        "english": "I prefer rice to bread.",
+        "furigana": "御飯[ごはん]",
+        "kana": "ごはん",
+        "answer": "ごはん"
+      },
+      {
+        "japanese": "サンドイッチ",
+        "english": "Sandwich",
+        "furigana": "サンドイッチ",
+        "kana": "サンドイッチ",
+        "answer": "さんどいっち"
+      },
+      {
+        "japanese": "お握り",
+        "english": "RiceBall",
+        "furigana": "お 握[にぎ]り",
+        "kana": "おにぎり",
+        "answer": "おにぎり"
+      },
+      {
+        "japanese": "パスタ",
+        "english": "Pasta",
+        "furigana": "パスタ",
+        "kana": "パスタ",
+        "answer": "ぱすた"
+      },
+      {
+        "japanese": "饂飩",
+        "english": "Udon",
+        "furigana": "饂飩[うどん]",
+        "kana": "うどん",
+        "answer": "うどん"
+      },
+      {
+        "japanese": "夕食の料理が沢山余った。",
+        "english": "A lot of food from dinner was left over.",
+        "furigana": "余[あま]る",
+        "kana": "あまる",
+        "answer": "あまる"
+      },
+      {
+        "japanese": "蕎麦",
+        "english": "Soba",
+        "furigana": "蕎麦[そば]",
+        "kana": "そば",
+        "answer": "そば"
+      },
+      {
+        "japanese": "鋤焼き",
+        "english": "thin slices of beef, cooked with various vegetables in a table-top cast-iron pan",
+        "furigana": "鋤焼[すきや]き",
+        "kana": "すきやき",
+        "answer": "すきやき"
+      },
+      {
+        "japanese": "刺身",
+        "english": "raw sliced fish, shellfish or crustaceans",
+        "furigana": "刺身[さしみ]",
+        "kana": "さしみ",
+        "answer": "さしみ"
+      },
+      {
+        "japanese": "牛丼",
+        "english": "rice covered with beef and vegetables",
+        "furigana": "牛丼[ぎゅうどん]",
+        "kana": "ぎゅうどん",
+        "answer": "ぎゅうどん"
+      },
+      {
+        "japanese": "温かい紅茶が飲みたい。",
+        "english": "I want to drink hot tea.",
+        "furigana": "温[あたた]かい",
+        "kana": "あたたかい",
+        "answer": "あたたかい"
+      },
+      {
+        "japanese": "弟はアイスクリームが大好きです。",
+        "english": "My little brother loves ice cream.",
+        "furigana": "アイスクリーム",
+        "kana": "アイスクリーム",
+        "answer": "あいすくりーむ"
+      },
+      {
+        "japanese": "砂糖を取って下さい。",
+        "english": "Please pass me the sugar.",
+        "furigana": "取[と]る",
+        "kana": "とる",
+        "answer": "とる"
+      },
+      {
+        "japanese": "珈琲に砂糖は入れますか。",
+        "english": "Do you take sugar in your coffee?",
+        "furigana": "砂糖[さとう]",
+        "kana": "さとう",
+        "answer": "さとう"
+      },
+      {
+        "japanese": "ニョクマム",
+        "english": "Nuoc Mam (Vietnamese Fish Sauce)",
+        "furigana": "ニョクマム",
+        "kana": "ニョクマム",
+        "answer": "にょくまむ"
+      },
+      {
+        "japanese": "ナンプラー",
+        "english": "Nam Pla (Thai Fish Sauce)",
+        "furigana": "ナンプラー",
+        "kana": "ナンプラー",
+        "answer": "なんぷらー"
+      },
+      {
+        "japanese": "A「レストランで何を食べましたか。」 B「パスタを食べました。」",
+        "english": "A: What did you eat at the restaurant? B: I had pasta.",
+        "furigana": "何[なに]",
+        "kana": "なに",
+        "answer": "なに"
+      },
+      {
+        "japanese": "A「朝、何か食べましたか。」 B「いいえ、何も食べませんでした。」",
+        "english": "A: Did you eat something in the morning? B: No, I had nothing.",
+        "furigana": "何[なに]か",
+        "kana": "なにか",
+        "answer": "なにか"
+      },
+      {
+        "japanese": "食堂で友達と食事しました。",
+        "english": "I had a meal with my friend at the cafeteria.",
+        "furigana": "食事[しょくじ](する)",
+        "kana": "しょくじ",
+        "answer": "しょくじ"
+      },
+      {
+        "japanese": "寿司は日本の有名な料理です。",
+        "english": "Sushi is a famous Japanese dish.",
+        "furigana": "有名[ゆうめい]",
+        "kana": "ゆうめい",
+        "answer": "ゆうめい"
+      },
+      {
+        "japanese": "大学に入ります。",
+        "english": "I will enroll in a university.",
+        "furigana": "入[はい]る",
+        "kana": "はいる",
+        "answer": "はいる"
+      },
+      {
+        "japanese": "友達とレストランに行きました。",
+        "english": "I went to the restaurant with my friend.",
+        "furigana": "レストラン",
+        "kana": "レストラン",
+        "answer": "れすとらん"
+      },
+      {
+        "japanese": "食堂は11時から7時までです。",
+        "english": "The cafeteria is open from 11A: M. to 7P.M.",
+        "furigana": "食堂[しょくどう]",
+        "kana": "しょくどう",
+        "answer": "しょくどう"
+      },
+      {
+        "japanese": "食堂で定食を食べます。",
+        "english": "I eat the set meal at the cafeteria.",
+        "furigana": "定食[ていしょく]",
+        "kana": "ていしょく",
+        "answer": "ていしょく"
+      },
+      {
+        "japanese": "喫茶店でサンドイッチを食べました。",
+        "english": "I ate sandwiches at the coffee shop.",
+        "furigana": "喫茶店[きっさてん]",
+        "kana": "きっさてん",
+        "answer": "きっさてん"
+      },
+      {
+        "japanese": "スプーンで咖哩ライスを食べます。",
+        "english": "I eat curry rice with a spoon.",
+        "furigana": "～で",
+        "kana": "～で",
+        "answer": "～で"
+      },
+      {
+        "japanese": "スプーン",
+        "english": "Spoon",
+        "furigana": "スプーン",
+        "kana": "スプーン",
+        "answer": "すぷーん"
+      },
+      {
+        "japanese": "フォーク",
+        "english": "Fork",
+        "furigana": "フォーク",
+        "kana": "フォーク",
+        "answer": "ふぉーく"
+      },
+      {
+        "japanese": "今日のお昼はサンドイッチです。",
+        "english": "We're having sandwiches for lunch.",
+        "furigana": "お 昼[ひる]",
+        "kana": "おひる",
+        "answer": "おひる"
+      },
+      {
+        "japanese": "ナイフ",
+        "english": "Knife",
+        "furigana": "ナイフ",
+        "kana": "ナイフ",
+        "answer": "ないふ"
+      },
+      {
+        "japanese": "いらっしゃいませ",
+        "english": "welcome (in shops,etc.)",
+        "furigana": "いらっしゃいませ",
+        "kana": "いらっしゃいませ",
+        "answer": "いらっしゃいませ"
+      },
+      {
+        "japanese": "A「ご注文は？」 B「サンドイッチをお願いします。」",
+        "english": "A: What would you like to order? B: One sandwich please.",
+        "furigana": "注文[ちゅうもん]",
+        "kana": "ちゅうもん",
+        "answer": "ちゅうもん"
+      },
+      {
+        "japanese": "A「これでお願いします。」 B「はい。」",
+        "english": "A: This one, please. B: Okay.",
+        "furigana": "お 願[ねが]いします",
+        "kana": "おねがいします",
+        "answer": "おねがいします"
+      },
+      {
+        "japanese": "A「他にご注文は？」 B「珈琲をお願いします。」",
+        "english": "A: Would you like anything else? B: Coffee, please.",
+        "furigana": "他[ほか]に",
+        "kana": "ほかに",
+        "answer": "ほかに"
+      },
+      {
+        "japanese": "別々にお願いします。",
+        "english": "Separately, please.",
+        "furigana": "別[べつ]々",
+        "kana": "べつ々",
+        "answer": "べつ々"
+      },
+      {
+        "japanese": "A「日本の食べ物はどうですか。」 B「美味しいです。」",
+        "english": "A: How do you find Japanese food? B: It's good.",
+        "furigana": "どう",
+        "kana": "どう",
+        "answer": "どう"
+      },
+      {
+        "japanese": "このケーキは甘いですね。",
+        "english": "This cake is sweet, isn't it?",
+        "furigana": "甘[あま]い",
+        "kana": "あまい",
+        "answer": "あまい"
+      },
+      {
+        "japanese": "辛い料理をよく食べます。",
+        "english": "I eat hot/spicy food often.",
+        "furigana": "辛[から]い",
+        "kana": "からい",
+        "answer": "からい"
+      },
+      {
+        "japanese": "果物は美味しいです。",
+        "english": "The fruit is tasty.",
+        "furigana": "美味[おい]しい",
+        "kana": "おいしい",
+        "answer": "おいしい"
+      },
+      {
+        "japanese": "お弁当を全部食べました。",
+        "english": "I ate all that was in the box lunch.",
+        "furigana": "全部[ぜんぶ]",
+        "kana": "ぜんぶ",
+        "answer": "ぜんぶ"
+      },
+      {
+        "japanese": "そのグループのメンバーは全部で七人だ。",
+        "english": "There are seven members of the group in all.",
+        "furigana": "七[しち] 人[にん]",
+        "kana": "しちにん",
+        "answer": "しちにん"
+      },
+      {
+        "japanese": "A「美味しい料理ですね。全部自分で作りましたか。」 B「はい。」",
+        "english": "A: This food is good. Did you cook it yourself? B: Yes.",
+        "furigana": "自分[じぶん]で",
+        "kana": "じぶんで",
+        "answer": "じぶんで"
+      },
+      {
+        "japanese": "お腹が空きましたね。何か食べませんか。",
+        "english": "I'm becoming hungry. Shall we eat something?",
+        "furigana": "お 腹[なか]が 空[す]く",
+        "kana": "おなかがすく",
+        "answer": "おなかがすく"
+      },
+      {
+        "japanese": "喉が渇きましたね。何か飲みませんか。",
+        "english": "I'm getting thirsty. Shall we drink something?",
+        "furigana": "喉[のど]が 渇[かわ]く",
+        "kana": "のどがかわく",
+        "answer": "のどがかわく"
+      },
+      {
+        "japanese": "もう少し醤油を足して下さい。",
+        "english": "Please add a little more soy sauce.",
+        "furigana": "足[た]す",
+        "kana": "たす",
+        "answer": "たす"
+      },
+      {
+        "japanese": "お腹が一杯です。",
+        "english": "I am full.",
+        "furigana": "一[いっ] 杯[ぱい]",
+        "kana": "いっぱい",
+        "answer": "いっぱい"
+      },
+      {
+        "japanese": "ワインは如何ですか。",
+        "english": "Would you like some wine?",
+        "furigana": "如何[いかが]ですか",
+        "kana": "いかがですか",
+        "answer": "いかがですか"
+      },
+      {
+        "japanese": "A「もう一杯如何ですか。」",
+        "english": "A: How about another serving?",
+        "furigana": "もう 一[いっ] 杯[ぱい]",
+        "kana": "もういっぱい",
+        "answer": "もういっぱい"
+      },
+      {
+        "japanese": "私は毎朝コップ一杯の水を飲む。",
+        "english": "I drink a glass of water every morning.",
+        "furigana": "コップ",
+        "kana": "コップ",
+        "answer": "こっぷ"
+      },
+      {
+        "japanese": "A「もう一杯如何ですか。」 B「いいえ、結構です。」",
+        "english": "A: How about another serving? B: No, thank you.",
+        "furigana": "結構[けっこう]",
+        "kana": "けっこう",
+        "answer": "けっこう"
+      },
+      {
+        "japanese": "乾杯！",
+        "english": "Cheers!",
+        "furigana": "乾杯[かんぱい]！",
+        "kana": "かんぱい！",
+        "answer": "かんぱい！"
+      },
+      {
+        "japanese": "頂きます。",
+        "english": "Let's Eat!",
+        "furigana": "頂[いただ]きます。",
+        "kana": "いただきます。",
+        "answer": "いただきます。"
+      },
+      {
+        "japanese": "御馳走様でした",
+        "english": "I'm full! The food was great!",
+        "furigana": "御馳走様[ごちそうさま]でした",
+        "kana": "ごちそうさまでした",
+        "answer": "ごちそうさまでした"
+      },
+      {
+        "japanese": "趣味は空オケです。",
+        "english": "My hobby is karaoke.",
+        "furigana": "趣味[しゅみ]",
+        "kana": "しゅみ",
+        "answer": "しゅみ"
+      },
+      {
+        "japanese": "このジュースは甘すぎる。",
+        "english": "This juice is too sweet.",
+        "furigana": "甘[あま]すぎる",
+        "kana": "あますぎる",
+        "answer": "あますぎる"
+      },
+      {
+        "japanese": "休みの日に本を読みます。",
+        "english": "I read books on holidays.",
+        "furigana": "日[ひ]",
+        "kana": "ひ",
+        "answer": "ひ"
+      },
+      {
+        "japanese": "テニスは楽しいです。",
+        "english": "Tennis is fun.",
+        "furigana": "楽[たの]しい",
+        "kana": "たのしい",
+        "answer": "たのしい"
+      },
+      {
+        "japanese": "漫画が嫌いです。",
+        "english": "I hate manga.",
+        "furigana": "嫌[きら]い",
+        "kana": "きらい",
+        "answer": "きらい"
+      },
+      {
+        "japanese": "スポーツは余り好きじゃありません。",
+        "english": "I don't really like sports.",
+        "furigana": "余[あま]り",
+        "kana": "あまり",
+        "answer": "あまり"
+      },
+      {
+        "japanese": "A「クラシックとジャズと何方が好きですか。」 B「何方も好きです。」",
+        "english": "A: Which do you like classical music or jazz? B: I like both.",
+        "furigana": "何方[どちら]も",
+        "kana": "どちらも",
+        "answer": "どちらも"
+      },
+      {
+        "japanese": "この苺は迚も甘い。",
+        "english": "This strawberry is very sweet.",
+        "furigana": "苺[いちご]",
+        "kana": "いちご",
+        "answer": "いちご"
+      },
+      {
+        "japanese": "A「サッカーと野球とどっちが好き？」 B「サッカーの方が好き」",
+        "english": "A: Which do you like, soccer or baseball? B: I like soccer more.",
+        "furigana": "どっち",
+        "kana": "どっち",
+        "answer": "どっち"
+      },
+      {
+        "japanese": "スミスさんは絵が上手です。",
+        "english": "Smith-san is good at drawing.",
+        "furigana": "上手[じょうず]",
+        "kana": "じょうず",
+        "answer": "じょうず"
+      },
+      {
+        "japanese": "私は歌が下手です",
+        "english": "I sing poorly.",
+        "furigana": "下手[へた]",
+        "kana": "へた",
+        "answer": "へた"
+      },
+      {
+        "japanese": "A「日本語が上手ですね。」 B「いいえ、未だ未だです。」",
+        "english": "A: You speak good Japanese. B: No, it's not nearly good enough.",
+        "furigana": "未[ま]だ 未[ま]だ",
+        "kana": "まだまだ",
+        "answer": "まだまだ"
+      },
+      {
+        "japanese": "生け花を習いました。",
+        "english": "I learned ikebana.",
+        "furigana": "習[なら]う",
+        "kana": "ならう",
+        "answer": "ならう"
+      },
+      {
+        "japanese": "生け花",
+        "english": "ikebana (flower arrangement)",
+        "furigana": "生[い]け 花[ばな]",
+        "kana": "いけばな",
+        "answer": "いけばな"
+      },
+      {
+        "japanese": "茶道",
+        "english": "Tea Ceremony",
+        "furigana": "茶道[さどう]",
+        "kana": "さどう",
+        "answer": "さどう"
+      },
+      {
+        "japanese": "簡単な絵を描きます。",
+        "english": "I paint a simple painting.",
+        "furigana": "簡単[かんたん]",
+        "kana": "かんたん",
+        "answer": "かんたん"
+      },
+      {
+        "japanese": "A「茶道は易しいですか。」 B「いいえ。難しいです。」",
+        "english": "A: Is the tea ceremony easy? B: No, it's difficult.",
+        "furigana": "易[やさ]しい",
+        "kana": "やさしい",
+        "answer": "やさしい"
+      },
+      {
+        "japanese": "茶道は難しいです。",
+        "english": "Tea ceremony is difficult.",
+        "furigana": "難[むずか]しい",
+        "kana": "むずかしい",
+        "answer": "むずかしい"
+      },
+      {
+        "japanese": "これは家族の写真です。",
+        "english": "This is a photograph of my family.",
+        "furigana": "写真[しゃしん]",
+        "kana": "しゃしん",
+        "answer": "しゃしん"
+      },
+      {
+        "japanese": "スマホで写真を撮ります。",
+        "english": "I wil take a photo using my smartphone.",
+        "furigana": "撮[と]る",
+        "kana": "とる",
+        "answer": "とる"
+      },
+      {
+        "japanese": "これは父のカメラです。",
+        "english": "This is my father's camera.",
+        "furigana": "カメラ",
+        "kana": "カメラ",
+        "answer": "かめら"
+      },
+      {
+        "japanese": "素敵な絵ですね。",
+        "english": "It's a beautiful drawing.",
+        "furigana": "絵[え]",
+        "kana": "え",
+        "answer": "え"
+      },
+      {
+        "japanese": "パンダの絵を描きました。",
+        "english": "I drew a panda.",
+        "furigana": "描[か]く",
+        "kana": "かく",
+        "answer": "かく"
+      },
+      {
+        "japanese": "美術館で絵を見ます。",
+        "english": "I look at drawings at the museum.",
+        "furigana": "美術館[びじゅつかん]",
+        "kana": "びじゅつかん",
+        "answer": "びじゅつかん"
+      },
+      {
+        "japanese": "この絵は美しいです。",
+        "english": "This picture is beautiful.",
+        "furigana": "美[うつく]しい",
+        "kana": "うつくしい",
+        "answer": "うつくしい"
+      },
+      {
+        "japanese": "日本の音楽が好きです。",
+        "english": "I like Japanese music.",
+        "furigana": "音楽[おんがく]",
+        "kana": "おんがく",
+        "answer": "おんがく"
+      },
+      {
+        "japanese": "空オケが好きです。",
+        "english": "I like karaoke.",
+        "furigana": "空オケ[からおけ]",
+        "kana": "オケからおけ",
+        "answer": "おけからおけ"
+      },
+      {
+        "japanese": "一緒に空オケに行きませんか。",
+        "english": "Why don't we go to karaoke together?",
+        "furigana": "一緒[いっしょ]に",
+        "kana": "いっしょに",
+        "answer": "いっしょに"
+      },
+      {
+        "japanese": "クラスの皆で空オケに行きました。",
+        "english": "I went to karaoke with everyone in the class.",
+        "furigana": "皆[みんな]で",
+        "kana": "みんなで",
+        "answer": "みんなで"
+      },
+      {
+        "japanese": "山田さんは歌が上手です。",
+        "english": "Yamada-san sings well.",
+        "furigana": "歌[うた]",
+        "kana": "うた",
+        "answer": "うた"
+      },
+      {
+        "japanese": "皆で日本の歌を歌います。",
+        "english": "We all sing a Japanese song.",
+        "furigana": "歌[うた]う",
+        "kana": "うたう",
+        "answer": "うたう"
+      },
+      {
+        "japanese": "コンサートに行きました。",
+        "english": "I went to the concert.",
+        "furigana": "コンサート",
+        "kana": "コンサート",
+        "answer": "こんさーと"
+      },
+      {
+        "japanese": "ロックは余り聞きません。",
+        "english": "I don't listen to rock very much.",
+        "furigana": "ロック",
+        "kana": "ロック",
+        "answer": "ろっく"
+      },
+      {
+        "japanese": "ピアノを弾きます。",
+        "english": "I play the piano.",
+        "furigana": "ピアノ",
+        "kana": "ピアノ",
+        "answer": "ぴあの"
+      },
+      {
+        "japanese": "これは兄のギターです。",
+        "english": "This is my elder brother's guitar.",
+        "furigana": "ギター",
+        "kana": "ギター",
+        "answer": "ぎたー"
+      },
+      {
+        "japanese": "A「ピアノを弾いてもいいですか。」 B「はい、どうぞ。」",
+        "english": "A: Can I play the piano? B: Yes, please.",
+        "furigana": "弾[ひ]く",
+        "kana": "ひく",
+        "answer": "ひく"
+      },
+      {
+        "japanese": "仏蘭西の映画を見ました。",
+        "english": "I saw a French movie.",
+        "furigana": "映画[えいが]",
+        "kana": "えいが",
+        "answer": "えいが"
+      },
+      {
+        "japanese": "映画館で映画を見ます。",
+        "english": "I will watch a movie at the movie theater.",
+        "furigana": "映画館[えいがかん]",
+        "kana": "えいがかん",
+        "answer": "えいがかん"
+      },
+      {
+        "japanese": "映画は10時に始まります。",
+        "english": "The movie starts at 10 o'clock.",
+        "furigana": "始[はじ]まる",
+        "kana": "はじまる",
+        "answer": "はじまる"
+      },
+      {
+        "japanese": "コンサートは7時に終わります。",
+        "english": "The concert ends at 7 o'clock.",
+        "furigana": "終[お]わる",
+        "kana": "おわる",
+        "answer": "おわる"
+      },
+      {
+        "japanese": "漫画は余り好きじゃありません。",
+        "english": "I don't like manga comics very much.",
+        "furigana": "漫画[まんが]",
+        "kana": "まんが",
+        "answer": "まんが"
+      },
+      {
+        "japanese": "彼は野球が上手い。",
+        "english": "He's good at baseball.",
+        "furigana": "上手[うま]い",
+        "kana": "うまい",
+        "answer": "うまい"
+      },
+      {
+        "japanese": "日本のゲームは面白いです。",
+        "english": "Japanese games are fun.",
+        "furigana": "ゲーム",
+        "kana": "ゲーム",
+        "answer": "げーむ"
+      },
+      {
+        "japanese": "その映画は迚も悲しかった。",
+        "english": "That movie was very sad.",
+        "furigana": "悲[かな]しい",
+        "kana": "かなしい",
+        "answer": "かなしい"
+      },
+      {
+        "japanese": "ゲームのソフトを買いました。",
+        "english": "I bought a video game.",
+        "furigana": "ソフト",
+        "kana": "ソフト",
+        "answer": "そふと"
+      },
+      {
+        "japanese": "昨日、面白いアニメを見ました。",
+        "english": "Yesterday, I saw an interesting anime.",
+        "furigana": "面白[おもしろ]い",
+        "kana": "おもしろい",
+        "answer": "おもしろい"
+      },
+      {
+        "japanese": "毎日、ジョギングをしています。",
+        "english": "I go jogging every day.",
+        "furigana": "ジョギング",
+        "kana": "ジョギング",
+        "answer": "じょぎんぐ"
+      },
+      {
+        "japanese": "北海道でスキーをします。",
+        "english": "I go skiing in Hokkaido.",
+        "furigana": "スキー",
+        "kana": "スキー",
+        "answer": "すきー"
+      },
+      {
+        "japanese": "マリアさんはダンスが上手です。",
+        "english": "Maria-san dances well.",
+        "furigana": "ダンス",
+        "kana": "ダンス",
+        "answer": "だんす"
+      },
+      {
+        "japanese": "沖縄の海で泳ぎました。",
+        "english": "I swam in the ocean of Okinawa.",
+        "furigana": "泳[およ]ぐ",
+        "kana": "およぐ",
+        "answer": "およぐ"
+      },
+      {
+        "japanese": "此のウィスキーは強いよ。",
+        "english": "This whisky is strong.",
+        "furigana": "強[つよ]い",
+        "kana": "つよい",
+        "answer": "つよい"
+      },
+      {
+        "japanese": "昨日、プールで泳ぎました。",
+        "english": "Yesterday I swam in the pool.",
+        "furigana": "プール",
+        "kana": "プール",
+        "answer": "ぷーる"
+      },
+      {
+        "japanese": "この川で泳がないで下さい。",
+        "english": "Please do not swim in this river.",
+        "furigana": "川[かわ]",
+        "kana": "かわ",
+        "answer": "かわ"
+      },
+      {
+        "japanese": "川で釣りをします。",
+        "english": "I fish in the river.",
+        "furigana": "釣[つ]り",
+        "kana": "つり",
+        "answer": "つり"
+      },
+      {
+        "japanese": "7月に富士山に登ります。",
+        "english": "I will climb Mt. Fuji in July.",
+        "furigana": "登[のぼ]る",
+        "kana": "のぼる",
+        "answer": "のぼる"
+      },
+      {
+        "japanese": "サッカーの試合が有ります。",
+        "english": "There is a soccer game.",
+        "furigana": "試合[しあい]",
+        "kana": "しあい",
+        "answer": "しあい"
+      },
+      {
+        "japanese": "伯剌西爾が勝ちました。",
+        "english": "Brazil won.",
+        "furigana": "勝[か]つ",
+        "kana": "かつ",
+        "answer": "かつ"
+      },
+      {
+        "japanese": "ボートが川に沈んだ。",
+        "english": "The boat sank in the river.",
+        "furigana": "沈[しず]む",
+        "kana": "しずむ",
+        "answer": "しずむ"
+      },
+      {
+        "japanese": "山田さんはホアンさんに負けました。",
+        "english": "Yamada-san lost to Huang-san.",
+        "furigana": "負[ま]ける",
+        "kana": "まける",
+        "answer": "まける"
+      },
+      {
+        "japanese": "A「どちらが勝つでしょうか。」 B「さあ.....わかりません。」",
+        "english": "A: Which side do you think will win? B: Hmm... I don't know.",
+        "furigana": "さあ",
+        "kana": "さあ",
+        "answer": "さあ"
+      },
+      {
+        "japanese": "この川は浅いです。",
+        "english": "This river is shallow.",
+        "furigana": "浅[あさ]い",
+        "kana": "あさい",
+        "answer": "あさい"
+      },
+      {
+        "japanese": "相撲",
+        "english": "Sumo Wrestling",
+        "furigana": "相撲[すもう]",
+        "kana": "すもう",
+        "answer": "すもう"
+      },
+      {
+        "japanese": "柔道",
+        "english": "Judo",
+        "furigana": "柔道[じゅうどう]",
+        "kana": "じゅうどう",
+        "answer": "じゅうどう"
+      },
+      {
+        "japanese": "テニス",
+        "english": "Tennis",
+        "furigana": "テニス",
+        "kana": "テニス",
+        "answer": "てにす"
+      },
+      {
+        "japanese": "ゴルフ",
+        "english": "Golf",
+        "furigana": "ゴルフ",
+        "kana": "ゴルフ",
+        "answer": "ごるふ"
+      },
+      {
+        "japanese": "今日の天気はどうですか。",
+        "english": "How's the weather today?",
+        "furigana": "天気[てんき]",
+        "kana": "てんき",
+        "answer": "てんき"
+      },
+      {
+        "japanese": "天気がいいです。",
+        "english": "The weather's good.",
+        "furigana": "いい",
+        "kana": "いい",
+        "answer": "いい"
+      },
+      {
+        "japanese": "あの人はいい人です。",
+        "english": "He/She is a good person.",
+        "furigana": "いい",
+        "kana": "いい",
+        "answer": "いい"
+      },
+      {
+        "japanese": "美味い寿司屋を見つけたよ。",
+        "english": "I found a good sushi shop.",
+        "furigana": "美味[うま]い",
+        "kana": "うまい",
+        "answer": "うまい"
+      },
+      {
+        "japanese": "天気が悪いです。",
+        "english": "The weather is bad.",
+        "furigana": "悪[わる]い[2]",
+        "kana": "わるい2",
+        "answer": "わるい2"
+      },
+      {
+        "japanese": "あの人は悪い人です。",
+        "english": "He/She is a bad person.",
+        "furigana": "悪[わる]い",
+        "kana": "わるい",
+        "answer": "わるい"
+      },
+      {
+        "japanese": "今日は雨です。",
+        "english": "It is raining today.",
+        "furigana": "雨[あめ]",
+        "kana": "あめ",
+        "answer": "あめ"
+      },
+      {
+        "japanese": "昨日は雪でした。",
+        "english": "It snowed yesterday.",
+        "furigana": "雪[ゆき]",
+        "kana": "ゆき",
+        "answer": "ゆき"
+      },
+      {
+        "japanese": "今日、雨が降ります。",
+        "english": "Today, it will rain.",
+        "furigana": "降[ふ]る",
+        "kana": "ふる",
+        "answer": "ふる"
+      },
+      {
+        "japanese": "部屋にキッチンが在ります。",
+        "english": "The room has a kitchen.",
+        "furigana": "部屋[へや]",
+        "kana": "へや",
+        "answer": "へや"
+      },
+      {
+        "japanese": "この部屋は寒いです。",
+        "english": "It's cold in this room.",
+        "furigana": "寒[さむ]い",
+        "kana": "さむい",
+        "answer": "さむい"
+      },
+      {
+        "japanese": "このコートは迚も暖かい。",
+        "english": "This coat is really warm.",
+        "furigana": "暖[あたた]かい",
+        "kana": "あたたかい",
+        "answer": "あたたかい"
+      },
+      {
+        "japanese": "6月は雨が多いです。",
+        "english": "It rains a lot in June.",
+        "furigana": "多[おお]い",
+        "kana": "おおい",
+        "answer": "おおい"
+      },
+      {
+        "japanese": "1月は雨が少ないです。",
+        "english": "There is little rain in January.",
+        "furigana": "少[すく]ない",
+        "kana": "すくない",
+        "answer": "すくない"
+      },
+      {
+        "japanese": "10時に会社に着きます。",
+        "english": "I arrive at the office at 10A: M.",
+        "furigana": "着[つ]く",
+        "kana": "つく",
+        "answer": "つく"
+      },
+      {
+        "japanese": "明日は暑いと思います。",
+        "english": "I think it will be hot tomorrow.",
+        "furigana": "思[おも]う",
+        "kana": "おもう",
+        "answer": "おもう"
+      },
+      {
+        "japanese": "明日は多分雨だと思います。",
+        "english": "I think it might rain tomorrow.",
+        "furigana": "多分[たぶん]",
+        "kana": "たぶん",
+        "answer": "たぶん"
+      },
+      {
+        "japanese": "きっと雪が降るでしょう。",
+        "english": "It will probably snow.",
+        "furigana": "きっと",
+        "kana": "きっと",
+        "answer": "きっと"
+      },
+      {
+        "japanese": "私の傘がありません。",
+        "english": "My umbrella is missing.",
+        "furigana": "傘[かさ]",
+        "kana": "かさ",
+        "answer": "かさ"
+      },
+      {
+        "japanese": "学校へ傘を持って来ました。",
+        "english": "I brought an umbrella to school.",
+        "furigana": "持[も]って 来[く]る",
+        "kana": "もってくる",
+        "answer": "もってくる"
+      },
+      {
+        "japanese": "会社へ傘を持っていきます。",
+        "english": "I took an umbrella to work today.",
+        "furigana": "持[も]っていく",
+        "kana": "もっていく",
+        "answer": "もっていく"
+      },
+      {
+        "japanese": "夕方、雨が降りました。",
+        "english": "It rained in the evening.",
+        "furigana": "夕方[ゆうがた]",
+        "kana": "ゆうがた",
+        "answer": "ゆうがた"
+      },
+      {
+        "japanese": "毎日、天気の番組を見ます。",
+        "english": "I watch the weather forecast program every day.",
+        "furigana": "番組[ばんぐみ]",
+        "kana": "ばんぐみ",
+        "answer": "ばんぐみ"
+      },
+      {
+        "japanese": "A「何時、国へ帰りますか。」 B「来年、帰ります。」",
+        "english": "A: When are you returning to your country? B: I will return next year.",
+        "furigana": "何時[いつ]",
+        "kana": "いつ",
+        "answer": "いつ"
+      },
+      {
+        "japanese": "去年、日本へ来ました。",
+        "english": "I came to Japan last year.",
+        "furigana": "去年[きょねん]",
+        "kana": "きょねん",
+        "answer": "きょねん"
+      },
+      {
+        "japanese": "今年、英吉利へ留学します。",
+        "english": "I wil study in Britain this year.",
+        "furigana": "今年[ことし]",
+        "kana": "ことし",
+        "answer": "ことし"
+      },
+      {
+        "japanese": "来年、国へ帰ります。",
+        "english": "I will return to my country next year.",
+        "furigana": "来年[らいねん]",
+        "kana": "らいねん",
+        "answer": "らいねん"
+      },
+      {
+        "japanese": "日本の季節は四つ在ります。",
+        "english": "There are four seasons in Japan.",
+        "furigana": "季節[きせつ]",
+        "kana": "きせつ",
+        "answer": "きせつ"
+      },
+      {
+        "japanese": "夏が一番好きです。",
+        "english": "I like summer the best.",
+        "furigana": "一番[いちばん]",
+        "kana": "いちばん",
+        "answer": "いちばん"
+      },
+      {
+        "japanese": "加奈陀の冬は迚も寒いです。",
+        "english": "Canada's winters are very cold.",
+        "furigana": "冬[ふゆ]",
+        "kana": "ふゆ",
+        "answer": "ふゆ"
+      },
+      {
+        "japanese": "冬に成りました。寒くなりました。",
+        "english": "It's winter now. It's getting cold.",
+        "furigana": "成[な]る",
+        "kana": "なる",
+        "answer": "なる"
+      },
+      {
+        "japanese": "何時か社長に成りたいです。",
+        "english": "I want to become a company president someday.",
+        "furigana": "成[な]る",
+        "kana": "なる",
+        "answer": "なる"
+      },
+      {
+        "japanese": "今年の春は暖かいね。",
+        "english": "It's warm this spring, isn't it.",
+        "furigana": "春[はる]",
+        "kana": "はる",
+        "answer": "はる"
+      },
+      {
+        "japanese": "私は夏が大好き。",
+        "english": "I just love summer.",
+        "furigana": "夏[なつ]",
+        "kana": "なつ",
+        "answer": "なつ"
+      },
+      {
+        "japanese": "来月、結婚します。",
+        "english": "I will get married next month.",
+        "furigana": "結婚[けっこん](する)",
+        "kana": "けっこん",
+        "answer": "けっこん"
+      },
+      {
+        "japanese": "彼女は秋に結婚します。",
+        "english": "She'll get married this fall.",
+        "furigana": "秋[あき]",
+        "kana": "あき",
+        "answer": "あき"
+      },
+      {
+        "japanese": "月が綺麗です。",
+        "english": "The moon is beautiful.",
+        "furigana": "月[つき]",
+        "kana": "つき",
+        "answer": "つき"
+      },
+      {
+        "japanese": "日本人は花見が好きです。",
+        "english": "The Japanese love flower viewing.",
+        "furigana": "花見[はなみ]",
+        "kana": "はなみ",
+        "answer": "はなみ"
+      },
+      {
+        "japanese": "夏に花火を見ました。",
+        "english": "I saw fireworks in the summer.",
+        "furigana": "花火[はなび]",
+        "kana": "はなび",
+        "answer": "はなび"
+      },
+      {
+        "japanese": "山で紅葉を見ました。",
+        "english": "I saw the maple leaves in the mountains.",
+        "furigana": "紅葉[もみじ]",
+        "kana": "もみじ",
+        "answer": "もみじ"
+      },
+      {
+        "japanese": "初めて桜を見ました。",
+        "english": "I saw the cherry blossoms for the first time.",
+        "furigana": "初[はじ]めて",
+        "kana": "はじめて",
+        "answer": "はじめて"
+      },
+      {
+        "japanese": "一度、花見をしたことがあります。",
+        "english": "I went to flower viewing once before.",
+        "furigana": "一[いち] 度[ど]",
+        "kana": "いちど",
+        "answer": "いちど"
+      },
+      {
+        "japanese": "何回も北海道へ行きました。",
+        "english": "I went to Hokkaido many times.",
+        "furigana": "何回[なんかい]も",
+        "kana": "なんかいも",
+        "answer": "なんかいも"
+      },
+      {
+        "japanese": "一度も京都へ行ったことがありません。",
+        "english": "I have never been to Kyoto.",
+        "furigana": "一度[いちど]も",
+        "kana": "いちども",
+        "answer": "いちども"
+      },
+      {
+        "japanese": "公園で花見をします。",
+        "english": "I will go flower viewing in the park.",
+        "furigana": "公園[こうえん]",
+        "kana": "こうえん",
+        "answer": "こうえん"
+      },
+      {
+        "japanese": "犬と公園を散歩します。",
+        "english": "I will take a walk in the park with my dog.",
+        "furigana": "散歩[さんぽ]",
+        "kana": "さんぽ",
+        "answer": "さんぽ"
+      },
+      {
+        "japanese": "今日は雲が多い。",
+        "english": "It's cloudy today.",
+        "furigana": "雲[くも]",
+        "kana": "くも",
+        "answer": "くも"
+      },
+      {
+        "japanese": "本当にそうですね。",
+        "english": "Yes, they really are.",
+        "furigana": "本当[ほんとう]に",
+        "kana": "ほんとうに",
+        "answer": "ほんとうに"
+      },
+      {
+        "japanese": "是非私の家に来て下さい。",
+        "english": "Please definitely come to my house.",
+        "furigana": "是非[ぜひ]",
+        "kana": "ぜひ",
+        "answer": "ぜひ"
+      },
+      {
+        "japanese": "A「土曜日のお花見に行きますか。」 B「はい、勿論です。」",
+        "english": "A: Will you go flower viewing on Saturday? B: Yes, of course.",
+        "furigana": "勿論[もちろん]",
+        "kana": "もちろん",
+        "answer": "もちろん"
+      },
+      {
+        "japanese": "スーパーで買い物をします。",
+        "english": "I will go shopping at the supermarket.",
+        "furigana": "買[か]い 物[もの]",
+        "kana": "かいもの",
+        "answer": "かいもの"
+      },
+      {
+        "japanese": "牛乳とパンを買いました。",
+        "english": "I bought milk and bread.",
+        "furigana": "と",
+        "kana": "と",
+        "answer": "と"
+      },
+      {
+        "japanese": "ジュースやアイスクリームを買います。",
+        "english": "I will buy juice and ice cream.",
+        "furigana": "や（など）",
+        "kana": "や",
+        "answer": "や"
+      },
+      {
+        "japanese": "このパソコンは幾らですか。",
+        "english": "A: How much is this computer?",
+        "furigana": "幾[いく]ら",
+        "kana": "いくら",
+        "answer": "いくら"
+      },
+      {
+        "japanese": "このカメラは高いですね。",
+        "english": "This camera is expensive.",
+        "furigana": "高[たか]い",
+        "kana": "たかい",
+        "answer": "たかい"
+      },
+      {
+        "japanese": "友達に子供が生まれました。",
+        "english": "My friend had a baby.",
+        "furigana": "生[う]まれる",
+        "kana": "うまれる",
+        "answer": "うまれる"
+      },
+      {
+        "japanese": "安いカメラが買いたいです。",
+        "english": "I want a cheap camera.",
+        "furigana": "安[やす]い",
+        "kana": "やすい",
+        "answer": "やすい"
+      },
+      {
+        "japanese": "私の祖母は百才です。",
+        "english": "My grandmother is 100 years old.",
+        "furigana": "百[ひゃく]",
+        "kana": "ひゃく",
+        "answer": "ひゃく"
+      },
+      {
+        "japanese": "千円貸して下さい。",
+        "english": "Please lend me 1000 yen.",
+        "furigana": "千[せん]",
+        "kana": "せん",
+        "answer": "せん"
+      },
+      {
+        "japanese": "この靴は1万円です。",
+        "english": "These shoes are ten thousand yen.",
+        "furigana": "万[まん]",
+        "kana": "まん",
+        "answer": "まん"
+      },
+      {
+        "japanese": "億",
+        "english": "Hundred Million",
+        "furigana": "億[おく]",
+        "kana": "おく",
+        "answer": "おく"
+      },
+      {
+        "japanese": "一円",
+        "english": "One Yen",
+        "furigana": "一[いち]円[えん]",
+        "kana": "いちえん",
+        "answer": "いちえん"
+      },
+      {
+        "japanese": "十円",
+        "english": "Ten Yen",
+        "furigana": "十[じゅう]円[えん]",
+        "kana": "じゅうえん",
+        "answer": "じゅうえん"
+      },
+      {
+        "japanese": "百円",
+        "english": "One Hundred Yen",
+        "furigana": "百[ひゃく]円[えん]",
+        "kana": "ひゃくえん",
+        "answer": "ひゃくえん"
+      },
+      {
+        "japanese": "千円",
+        "english": "One Thousand Yen",
+        "furigana": "千[せん]円[えん]",
+        "kana": "せんえん",
+        "answer": "せんえん"
+      },
+      {
+        "japanese": "一万円",
+        "english": "Ten Thousand Yen",
+        "furigana": "一[いち]万[まん]円[えん]",
+        "kana": "いちまんえん",
+        "answer": "いちまんえん"
+      },
+      {
+        "japanese": "一億円",
+        "english": "One Hundred Million Yen",
+        "furigana": "一[いち]億[おく]円[えん]",
+        "kana": "いちおくえん",
+        "answer": "いちおくえん"
+      },
+      {
+        "japanese": "これは一寸高いですね。",
+        "english": "A: This is a little expensive.",
+        "furigana": "一寸[ちょっと]",
+        "kana": "ちょっと",
+        "answer": "ちょっと"
+      },
+      {
+        "japanese": "では、此方は如何ですか。6万円です。",
+        "english": "B: Then how about this one? It's 60,000 yen.",
+        "furigana": "では",
+        "kana": "では",
+        "answer": "では"
+      },
+      {
+        "japanese": "じゃ、それを下さい。",
+        "english": "Okay, then I'll have that one.",
+        "furigana": "じゃ",
+        "kana": "じゃ",
+        "answer": "じゃ"
+      },
+      {
+        "japanese": "お金を払います。",
+        "english": "I pay the money.",
+        "furigana": "払[はら]う",
+        "kana": "はらう",
+        "answer": "はらう"
+      },
+      {
+        "japanese": "お釣りは850円です。",
+        "english": "The change is 850 yen.",
+        "furigana": "お 釣[つ]り",
+        "kana": "おつり",
+        "answer": "おつり"
+      },
+      {
+        "japanese": "もう一寸塩を入れて。",
+        "english": "Put in a little more salt.",
+        "furigana": "塩[しお]",
+        "kana": "しお",
+        "answer": "しお"
+      },
+      {
+        "japanese": "細かいお金がありません。",
+        "english": "I don't have any pocket change.",
+        "furigana": "細[こま]かいお 金[かね]",
+        "kana": "こまかいおかね",
+        "answer": "こまかいおかね"
+      },
+      {
+        "japanese": "お金が足りません。",
+        "english": "I don't have enough money.",
+        "furigana": "足[た]りる",
+        "kana": "たりる",
+        "answer": "たりる"
+      },
+      {
+        "japanese": "東京の生活は楽しいです。",
+        "english": "Living in Tokyo is fun.",
+        "furigana": "生活[せいかつ]",
+        "kana": "せいかつ",
+        "answer": "せいかつ"
+      },
+      {
+        "japanese": "東京は物価が高いです。",
+        "english": "The cost of living in Tokyo is high.",
+        "furigana": "物価[ぶっか]",
+        "kana": "ぶっか",
+        "answer": "ぶっか"
+      },
+      {
+        "japanese": "A「林檎を幾つ買いましたか。」 B「五つ買いました。」",
+        "english": "A: How many apples did you buy? B: I bought five.",
+        "furigana": "幾[いく]つ",
+        "kana": "いくつ",
+        "answer": "いくつ"
+      },
+      {
+        "japanese": "A「林檎を五つ下さい。」 B「はい。全部で500円です。」",
+        "english": "A: Please give me 5 apples. B: Here you go. It's 500 yen in all.",
+        "furigana": "全部[ぜんぶ]",
+        "kana": "ぜんぶ",
+        "answer": "ぜんぶ"
+      },
+      {
+        "japanese": "それを一つ下さい。",
+        "english": "Please give me one of those.",
+        "furigana": "一[ひと]つ",
+        "kana": "ひとつ",
+        "answer": "ひとつ"
+      },
+      {
+        "japanese": "ソフトクリームを二つ下さい。",
+        "english": "Please give me two ice cream cones.",
+        "furigana": "二[ふた]つ",
+        "kana": "ふたつ",
+        "answer": "ふたつ"
+      },
+      {
+        "japanese": "コップを三つ買いました。",
+        "english": "I bought three glasses.",
+        "furigana": "三[みっ]つ",
+        "kana": "みっつ",
+        "answer": "みっつ"
+      },
+      {
+        "japanese": "私は腕時計を四つ持っています。",
+        "english": "I have four wristwatches.",
+        "furigana": "四[よっ]つ",
+        "kana": "よっつ",
+        "answer": "よっつ"
+      },
+      {
+        "japanese": "桃を五つ下さい。",
+        "english": "I'd like five peaches, please.",
+        "furigana": "五[いつ]つ",
+        "kana": "いつつ",
+        "answer": "いつつ"
+      },
+      {
+        "japanese": "息子は六つに成りました。",
+        "english": "My son turned six.",
+        "furigana": "六[むっ]つ",
+        "kana": "むっつ",
+        "answer": "むっつ"
+      },
+      {
+        "japanese": "この子は今年七つに成ります。",
+        "english": "Our kid's turning seven this year.",
+        "furigana": "七[なな]つ",
+        "kana": "ななつ",
+        "answer": "ななつ"
+      },
+      {
+        "japanese": "あの家には時計が八つ有ります。",
+        "english": "There are eight clocks in that house.",
+        "furigana": "八[やっ]つ",
+        "kana": "やっつ",
+        "answer": "やっつ"
+      },
+      {
+        "japanese": "娘は明日九つに成ります。",
+        "english": "My daughter's turning nine tomorrow.",
+        "furigana": "九[ここの]つ",
+        "kana": "ここのつ",
+        "answer": "ここのつ"
+      },
+      {
+        "japanese": "十[×じゅう]",
+        "english": "10 (General Counting)",
+        "furigana": "十[とお]",
+        "kana": "とお",
+        "answer": "とお"
+      },
+      {
+        "japanese": "貴方の話は面白いね。",
+        "english": "Your story's interesting.",
+        "furigana": "話[はなし]",
+        "kana": "はなし",
+        "answer": "はなし"
+      },
+      {
+        "japanese": "色々な店があります。",
+        "english": "There are different kinds of shops.",
+        "furigana": "店[みせ]",
+        "kana": "みせ",
+        "answer": "みせ"
+      },
+      {
+        "japanese": "誰もその話を知らない。",
+        "english": "No one knows that story.",
+        "furigana": "知[し]る",
+        "kana": "しる",
+        "answer": "しる"
+      },
+      {
+        "japanese": "彼の話は可笑しかった。",
+        "english": "His story was funny.",
+        "furigana": "可笑[おか]しい",
+        "kana": "おかしい",
+        "answer": "おかしい"
+      },
+      {
+        "japanese": "パン屋でパンを買います。",
+        "english": "I will buy bread at the bakery.",
+        "furigana": "パン屋[ぱんや]",
+        "kana": "パンぱんや",
+        "answer": "ぱんぱんや"
+      },
+      {
+        "japanese": "今日は風が強いです。",
+        "english": "The wind is strong today.",
+        "furigana": "風[かぜ]",
+        "kana": "かぜ",
+        "answer": "かぜ"
+      },
+      {
+        "japanese": "夕方其方に着きます。",
+        "english": "I'll arrive there in the evening.",
+        "furigana": "其方[そちら]",
+        "kana": "そちら",
+        "answer": "そちら"
+      },
+      {
+        "japanese": "夕方は涼しく成りますよ。",
+        "english": "It gets cooler in the evening.",
+        "furigana": "涼[すず]しい",
+        "kana": "すずしい",
+        "answer": "すずしい"
+      },
+      {
+        "japanese": "日曜日にデパートで買い物しました。",
+        "english": "I went shopping at the department store on Sunday.",
+        "furigana": "デパート",
+        "kana": "デパート",
+        "answer": "でぱーと"
+      },
+      {
+        "japanese": "コンビニでお弁当を買います。",
+        "english": "I will buy a box lunch at the convenience store.",
+        "furigana": "コンビニ",
+        "kana": "コンビニ",
+        "answer": "こんびに"
+      },
+      {
+        "japanese": "コンビニでお握りを売っています。",
+        "english": "The convenience store sells rice balls.",
+        "furigana": "売[う]る",
+        "kana": "うる",
+        "answer": "うる"
+      },
+      {
+        "japanese": "A「野菜の売り場は何処ですか。」 B「彼処です。」",
+        "english": "A: Where is the counter that sells vegetables? B: It's over there.",
+        "furigana": "売[う]り 場[ば]",
+        "kana": "うりば",
+        "answer": "うりば"
+      },
+      {
+        "japanese": "ニョクマムは醤油のコーナーにあります。",
+        "english": "Nuoc mam is in the area where the soy sauce is.",
+        "furigana": "コーナー",
+        "kana": "コーナー",
+        "answer": "こーなー"
+      },
+      {
+        "japanese": "飲み物はその棚です。",
+        "english": "The drinks are on that shelf.",
+        "furigana": "棚[たな]",
+        "kana": "たな",
+        "answer": "たな"
+      },
+      {
+        "japanese": "コンビニでコピーします。",
+        "english": "I will make a copy at the convenience store.",
+        "furigana": "コピー(する)",
+        "kana": "コピー",
+        "answer": "こぴー"
+      },
+      {
+        "japanese": "コンサートのチケットを買います。",
+        "english": "I will buy a ticket to the concert.",
+        "furigana": "チケット",
+        "kana": "チケット",
+        "answer": "ちけっと"
+      },
+      {
+        "japanese": "パソコンのカタログを見ます。",
+        "english": "I will look at the computer catalog.",
+        "furigana": "カタログ",
+        "kana": "カタログ",
+        "answer": "かたろぐ"
+      },
+      {
+        "japanese": "喫茶店で雑誌を読みました。",
+        "english": "I read a magazine at the coffee shop.",
+        "furigana": "雑誌[ざっし]",
+        "kana": "ざっし",
+        "answer": "ざっし"
+      },
+      {
+        "japanese": "コンビニで新聞を買います。",
+        "english": "I buy a newspaper at the convenience store.",
+        "furigana": "新聞[しんぶん]",
+        "kana": "しんぶん",
+        "answer": "しんぶん"
+      },
+      {
+        "japanese": "小さいパソコンが欲しいです。",
+        "english": "I want a small computer.",
+        "furigana": "欲[ほ]しい",
+        "kana": "ほしい",
+        "answer": "ほしい"
+      },
+      {
+        "japanese": "コンビニでチケットの予約が出来ます。",
+        "english": "You can make reservations for the ticket at the convenience store.",
+        "furigana": "出来[でき]る",
+        "kana": "できる",
+        "answer": "できる"
+      },
+      {
+        "japanese": "ダンスが出来ます。",
+        "english": "I can dance.",
+        "furigana": "出来[でき]る",
+        "kana": "できる",
+        "answer": "できる"
+      },
+      {
+        "japanese": "A「幾らですか。」 B「3500円で御座います。」",
+        "english": "Customer: How much is it? Clerk: It's 3500 yen.",
+        "furigana": "で 御座[ござ]います",
+        "kana": "でございます",
+        "answer": "でございます"
+      },
+      {
+        "japanese": "どんなカメラをお探しですか。",
+        "english": "Clerk: What kind of camera are you looking for?",
+        "furigana": "お 探[さが]しですか",
+        "kana": "おさがしですか",
+        "answer": "おさがしですか"
+      },
+      {
+        "japanese": "あのカメラを見せて下さい。",
+        "english": "Customer: Please show me that camera.",
+        "furigana": "見[み]せる",
+        "kana": "みせる",
+        "answer": "みせる"
+      },
+      {
+        "japanese": "畏まりました。少々お待ち下さい。",
+        "english": "Clerk: Very well. Please wait a little bit.",
+        "furigana": "畏[かしこ]まりました",
+        "kana": "かしこまりました",
+        "answer": "かしこまりました"
+      },
+      {
+        "japanese": "ATMの使い方が分かりません。",
+        "english": "I don't know how to use the ATM.",
+        "furigana": "使[つか]い 方[かた]",
+        "kana": "つかいかた",
+        "answer": "つかいかた"
+      },
+      {
+        "japanese": "B「お引き出しですか。」 A「はい。」 B「では、こちらへどうぞ。」",
+        "english": "B: Are you here for a withdrawal? A: Yes. B: Then come this way please.",
+        "furigana": "引[ひ]き 出[だ]し",
+        "kana": "ひきだし",
+        "answer": "ひきだし"
+      },
+      {
+        "japanese": "現金がありません。",
+        "english": "I don't have any cash.",
+        "furigana": "現金[げんきん]",
+        "kana": "げんきん",
+        "answer": "げんきん"
+      },
+      {
+        "japanese": "ATMでお金を下ろします。",
+        "english": "I will withdraw cash from the ATM.",
+        "furigana": "下[お]ろす",
+        "kana": "おろす",
+        "answer": "おろす"
+      },
+      {
+        "japanese": "先ずキャッシュカードを入れて下さい。",
+        "english": "First, please insert your cash card.",
+        "furigana": "先[ま]ず",
+        "kana": "まず",
+        "answer": "まず"
+      },
+      {
+        "japanese": "これは母が大切にしていた指輪です。",
+        "english": "This is a ring that meant a lot to my mother.",
+        "furigana": "大切[たいせつ]",
+        "kana": "たいせつ",
+        "answer": "たいせつ"
+      },
+      {
+        "japanese": "次に暗証番号を押して下さい。",
+        "english": "Then, enter your PIN.",
+        "furigana": "次[つぎ]に",
+        "kana": "つぎに",
+        "answer": "つぎに"
+      },
+      {
+        "japanese": "別の本も見せて下さい。",
+        "english": "Please show me another book.",
+        "furigana": "別[べつ]",
+        "kana": "べつ",
+        "answer": "べつ"
+      },
+      {
+        "japanese": "私には沢山のお金が必要だ。",
+        "english": "I need a lot of money.",
+        "furigana": "必要[ひつよう]",
+        "kana": "ひつよう",
+        "answer": "ひつよう"
+      },
+      {
+        "japanese": "暗証番号は大切です。",
+        "english": "The passcode number is important.",
+        "furigana": "暗証番号[あんしょうばんごう]",
+        "kana": "あんしょうばんごう",
+        "answer": "あんしょうばんごう"
+      },
+      {
+        "japanese": "其れから金額を押して下さい。",
+        "english": "Then, enter the amount of cash you would like.",
+        "furigana": "其[そ]れから",
+        "kana": "それから",
+        "answer": "それから"
+      },
+      {
+        "japanese": "確認ボタンを押して下さい。",
+        "english": "Press the confirmation button.",
+        "furigana": "確認[かくにん]",
+        "kana": "かくにん",
+        "answer": "かくにん"
+      },
+      {
+        "japanese": "レシートで買い物の金額を確かめたよ。",
+        "english": "I confirmed the cost of the shopping with the receipt.",
+        "furigana": "金額[きんがく]",
+        "kana": "きんがく",
+        "answer": "きんがく"
+      },
+      {
+        "japanese": "ここからお金が出ます。",
+        "english": "The money will come out from here.",
+        "furigana": "出[で]る",
+        "kana": "でる",
+        "answer": "でる"
+      },
+      {
+        "japanese": "円をドルに換えます。",
+        "english": "I will exchange yen to dollars.",
+        "furigana": "換[か]える",
+        "kana": "かえる",
+        "answer": "かえる"
+      },
+      {
+        "japanese": "明日、郵便局へ行きます。",
+        "english": "I will go to the post office tomorrow.",
+        "furigana": "郵便局[ゆうびんきょく]",
+        "kana": "ゆうびんきょく",
+        "answer": "ゆうびんきょく"
+      },
+      {
+        "japanese": "枚",
+        "english": "counter for sheets, slices, etc.",
+        "furigana": "枚[まい]",
+        "kana": "まい",
+        "answer": "まい"
+      },
+      {
+        "japanese": "手紙を書きます。",
+        "english": "I will write a letter.",
+        "furigana": "手紙[てがみ]",
+        "kana": "てがみ",
+        "answer": "てがみ"
+      },
+      {
+        "japanese": "葉書を3枚お願いします。",
+        "english": "Can I have three postcards, please?",
+        "furigana": "葉書[はがき]",
+        "kana": "はがき",
+        "answer": "はがき"
+      },
+      {
+        "japanese": "書類を10枚コピーしました。",
+        "english": "I made ten copies of the document.",
+        "furigana": "書類[しょるい]",
+        "kana": "しょるい",
+        "answer": "しょるい"
+      },
+      {
+        "japanese": "葉書をポストに入れます。",
+        "english": "I will put the postcard in the mail box.",
+        "furigana": "ポスト",
+        "kana": "ポスト",
+        "answer": "ぽすと"
+      },
+      {
+        "japanese": "先生に年賀状を出します。",
+        "english": "I will send a New Year's card to my teacher.",
+        "furigana": "年賀状[ねんがじょう]",
+        "kana": "ねんがじょう",
+        "answer": "ねんがじょう"
+      },
+      {
+        "japanese": "電話帳を見せて下さい。",
+        "english": "Please show me the telephone book.",
+        "furigana": "電話帳[でんわちょう]",
+        "kana": "でんわちょう",
+        "answer": "でんわちょう"
+      },
+      {
+        "japanese": "航空便で手紙を出します。",
+        "english": "I will send a letter by airmail.",
+        "furigana": "出[だ]す",
+        "kana": "だす",
+        "answer": "だす"
+      },
+      {
+        "japanese": "メールを送ります。",
+        "english": "I will send you mail.",
+        "furigana": "メール",
+        "kana": "メール",
+        "answer": "めーる"
+      },
+      {
+        "japanese": "家族に荷物を送ります。",
+        "english": "I will send a package to the family.",
+        "furigana": "送[おく]る",
+        "kana": "おくる",
+        "answer": "おくる"
+      },
+      {
+        "japanese": "切手を買います。",
+        "english": "I will buy stamps.",
+        "furigana": "切手[きって]",
+        "kana": "きって",
+        "answer": "きって"
+      },
+      {
+        "japanese": "切手を集めています。",
+        "english": "I collect stamps.",
+        "furigana": "集[あつ]める",
+        "kana": "あつめる",
+        "answer": "あつめる"
+      },
+      {
+        "japanese": "封筒に手紙を入れます。",
+        "english": "I will put the letter in the envelope.",
+        "furigana": "封筒[ふうとう]",
+        "kana": "ふうとう",
+        "answer": "ふうとう"
+      },
+      {
+        "japanese": "外国に手紙を出します。",
+        "english": "I will send a letter to a foreign country.",
+        "furigana": "外国[がいこく]",
+        "kana": "がいこく",
+        "answer": "がいこく"
+      },
+      {
+        "japanese": "航空便で送ります。",
+        "english": "I will send it by airmail.",
+        "furigana": "航空便[こうくうびん]",
+        "kana": "こうくうびん",
+        "answer": "こうくうびん"
+      },
+      {
+        "japanese": "船便で送ります。",
+        "english": "I will send it by surface mail.",
+        "furigana": "船便[ふなびん]",
+        "kana": "ふなびん",
+        "answer": "ふなびん"
+      },
+      {
+        "japanese": "郵便局で荷物を送ります。",
+        "english": "I will send the package at the post office.",
+        "furigana": "荷物[にもつ]",
+        "kana": "にもつ",
+        "answer": "にもつ"
+      },
+      {
+        "japanese": "この荷物は重いですね。",
+        "english": "This package is heavy.",
+        "furigana": "重[おも]い",
+        "kana": "おもい",
+        "answer": "おもい"
+      },
+      {
+        "japanese": "この荷物は軽いですね。",
+        "english": "This package is light.",
+        "furigana": "軽[かる]い",
+        "kana": "かるい",
+        "answer": "かるい"
+      },
+      {
+        "japanese": "友達にプレゼントをあげます。",
+        "english": "I will give a present to my friend.",
+        "furigana": "あげる",
+        "kana": "あげる",
+        "answer": "あげる"
+      },
+      {
+        "japanese": "父に辞書を貰いました。",
+        "english": "I received a dictionary from my father.",
+        "furigana": "貰[もら]う",
+        "kana": "もらう",
+        "answer": "もらう"
+      },
+      {
+        "japanese": "友達がお土産を呉れました。",
+        "english": "My friend gave me a souvenir.",
+        "furigana": "呉[く]れる",
+        "kana": "くれる",
+        "answer": "くれる"
+      },
+      {
+        "japanese": "色々な物を貰いました。",
+        "english": "I received many things.",
+        "furigana": "物[もの]",
+        "kana": "もの",
+        "answer": "もの"
+      },
+      {
+        "japanese": "彼は郵便局を探していました。",
+        "english": "He was looking for the post office.",
+        "furigana": "探[さが]す",
+        "kana": "さがす",
+        "answer": "さがす"
+      },
+      {
+        "japanese": "6時にパーティーを始めます。",
+        "english": "The party will start at 6:00PM.",
+        "furigana": "始[はじ]める",
+        "kana": "はじめる",
+        "answer": "はじめる"
+      },
+      {
+        "japanese": "A「あの人は誰ですか。」 B「ホアンさんですよ。」",
+        "english": "A: Who is that person? B: It's Huang-san.",
+        "furigana": "誰[だれ]",
+        "kana": "だれ",
+        "answer": "だれ"
+      },
+      {
+        "japanese": "この箱は重い。",
+        "english": "This box is heavy.",
+        "furigana": "箱[はこ]",
+        "kana": "はこ",
+        "answer": "はこ"
+      },
+      {
+        "japanese": "あの方は何方ですか。",
+        "english": "A: Who is that person?",
+        "furigana": "何方[どなた]",
+        "kana": "どなた",
+        "answer": "どなた"
+      },
+      {
+        "japanese": "あの方は大学のスミス先生です。",
+        "english": "That's Professor Smith from the university.",
+        "furigana": "あの 方[かた]",
+        "kana": "あのかた",
+        "answer": "あのかた"
+      },
+      {
+        "japanese": "A「誕生日は何時ですか。」 B「5月5日です。」",
+        "english": "A: When is your birthday? B: It's May 5th.",
+        "furigana": "誕生日[たんじょうび]",
+        "kana": "たんじょうび",
+        "answer": "たんじょうび"
+      },
+      {
+        "japanese": "A「お誕生日御目出度う御座います。」 B「有り難う御座います。」",
+        "english": "A: Happy Birthday. B: Thank you.",
+        "furigana": "御[お] 目出度[めでと]う",
+        "kana": "おめでとう",
+        "answer": "おめでとう"
+      },
+      {
+        "japanese": "A「これ、プレゼントです。」 B「わあ、有り難う御座います。」",
+        "english": "A: This is a present. B: Oh, thank you very much.",
+        "furigana": "わあ",
+        "kana": "わあ",
+        "answer": "わあ"
+      },
+      {
+        "japanese": "A「弟さんはお幾つですか。」 B「15歳です。」",
+        "english": "A: How old is your younger brother? B: He is 15 years old.",
+        "furigana": "幾[いく]つ",
+        "kana": "いくつ",
+        "answer": "いくつ"
+      },
+      {
+        "japanese": "二十歳",
+        "english": "Twenty Years Old",
+        "furigana": "二十歳[はたち]",
+        "kana": "はたち",
+        "answer": "はたち"
+      },
+      {
+        "japanese": "A「今日は何日ですか。」 B「5日です。」",
+        "english": "A: What is today's date? B: It's the 5th.",
+        "furigana": "何[なん] 日[にち]",
+        "kana": "なんにち",
+        "answer": "なんにち"
+      },
+      {
+        "japanese": "来月の一日は空いていますか。",
+        "english": "Are you available on the first of next month?",
+        "furigana": "1日[ついたち]",
+        "kana": "1ついたち",
+        "answer": "1ついたち"
+      },
+      {
+        "japanese": "私は二日待った。",
+        "english": "I waited two days.",
+        "furigana": "二日[ふつか]",
+        "kana": "ふつか",
+        "answer": "ふつか"
+      },
+      {
+        "japanese": "手紙が届くのに三日かかりました。",
+        "english": "It took three days for the letter to arrive.",
+        "furigana": "3日[みっか]",
+        "kana": "3みっか",
+        "answer": "3みっか"
+      },
+      {
+        "japanese": "新学期は来月の四日からです。",
+        "english": "The new school term starts on the fourth of next month.",
+        "furigana": "4日[よっか]",
+        "kana": "4よっか",
+        "answer": "4よっか"
+      },
+      {
+        "japanese": "五月五日は祝日です。",
+        "english": "May 5th is a holiday.",
+        "furigana": "5日[いつか]",
+        "kana": "5いつか",
+        "answer": "5いつか"
+      },
+      {
+        "japanese": "六日前に日本に帰ってきました。",
+        "english": "I came back to Japan six days ago.",
+        "furigana": "6日[むいか]",
+        "kana": "6むいか",
+        "answer": "6むいか"
+      },
+      {
+        "japanese": "先月の七日に孫が生まれました。",
+        "english": "My grandchild was born on the seventh of last month.",
+        "furigana": "7日[なのか]",
+        "kana": "7なのか",
+        "answer": "7なのか"
+      },
+      {
+        "japanese": "八日から英吉利に行きます。",
+        "english": "I will go to England on the eighth.",
+        "furigana": "8日[ようか]",
+        "kana": "8ようか",
+        "answer": "8ようか"
+      },
+      {
+        "japanese": "九日に荷物が届きます。",
+        "english": "The package will arrive on the ninth.",
+        "furigana": "9日[ここのか]",
+        "kana": "9ここのか",
+        "answer": "9ここのか"
+      },
+      {
+        "japanese": "十日後に帰ります。",
+        "english": "I'll be back in ten days.",
+        "furigana": "10日[とおか]",
+        "kana": "10とおか",
+        "answer": "10とおか"
+      },
+      {
+        "japanese": "私たちは先月11日に結婚しました。",
+        "english": "We got married last month on the 11th.",
+        "furigana": "11[じゅういち]日[にち]",
+        "kana": "11じゅういちにち",
+        "answer": "11じゅういちにち"
+      },
+      {
+        "japanese": "急行に乗ります。",
+        "english": "I will get on the express train.",
+        "furigana": "乗[の]る",
+        "kana": "のる",
+        "answer": "のる"
+      },
+      {
+        "japanese": "渋谷で電車を降ります。",
+        "english": "I will get off the train at Shibuya.",
+        "furigana": "降[お]りる",
+        "kana": "おりる",
+        "answer": "おりる"
+      },
+      {
+        "japanese": "駅で切符を買います。",
+        "english": "I will buy the ticket at the station.",
+        "furigana": "切符[きっぷ]",
+        "kana": "きっぷ",
+        "answer": "きっぷ"
+      },
+      {
+        "japanese": "次の駅は新宿です。",
+        "english": "The next station is Shinjuku.",
+        "furigana": "次[つぎ]",
+        "kana": "つぎ",
+        "answer": "つぎ"
+      },
+      {
+        "japanese": "東京駅で乗り換えます。",
+        "english": "Change / Transfer (Train / Bus)",
+        "furigana": "乗[の]り 換[か]える",
+        "kana": "のりかえる",
+        "answer": "のりかえる"
+      },
+      {
+        "japanese": "時間がある時は、各駅停車に乗る。",
+        "english": "When I have extra time, I take the local train.",
+        "furigana": "各駅[かくえき]",
+        "kana": "かくえき",
+        "answer": "かくえき"
+      },
+      {
+        "japanese": "丁度急行電車が来た。",
+        "english": "The express train just arrived.",
+        "furigana": "急行[きゅうこう]",
+        "kana": "きゅうこう",
+        "answer": "きゅうこう"
+      },
+      {
+        "japanese": "東京迄特急で3時間かかります。",
+        "english": "It takes three hours to Tokyo by special express.",
+        "furigana": "特急[とっきゅう]",
+        "kana": "とっきゅう",
+        "answer": "とっきゅう"
+      },
+      {
+        "japanese": "新幹線で京都へ行きます。",
+        "english": "I will go to Kyoto using the Shinkansen.",
+        "furigana": "新幹線[しんかんせん]",
+        "kana": "しんかんせん",
+        "answer": "しんかんせん"
+      },
+      {
+        "japanese": "京都駅で地下鉄に乗ります。",
+        "english": "I will take the subway from Kyoto Station.",
+        "furigana": "地下鉄[ちかてつ]",
+        "kana": "ちかてつ",
+        "answer": "ちかてつ"
+      },
+      {
+        "japanese": "8番線で急行に乗ります。",
+        "english": "I will take the express from track number 8.",
+        "furigana": "～ 番線[ばんせん]",
+        "kana": "～ばんせん",
+        "answer": "～ばんせん"
+      },
+      {
+        "japanese": "トヨタは自動車の会社です。",
+        "english": "Toyota is an automobile company.",
+        "furigana": "自動車[じどうしゃ]",
+        "kana": "じどうしゃ",
+        "answer": "じどうしゃ"
+      },
+      {
+        "japanese": "これは車の雑誌です。",
+        "english": "This is a car magazine.",
+        "furigana": "車[くるま]",
+        "kana": "くるま",
+        "answer": "くるま"
+      },
+      {
+        "japanese": "車を運転します。",
+        "english": "I drive a car.",
+        "furigana": "運転[うんてん](する)",
+        "kana": "うんてん",
+        "answer": "うんてん"
+      },
+      {
+        "japanese": "A「車で駅迄送りましょうか。」 B「有り難う御座います。」",
+        "english": "A: Shall I drive you to the train station? B: Thank you very much.",
+        "furigana": "送[おく]る",
+        "kana": "おくる",
+        "answer": "おくる"
+      },
+      {
+        "japanese": "駐車場はありません。",
+        "english": "There is no parking lot. (は for negative response to a yes or no question only)",
+        "furigana": "駐車場[ちゅうしゃじょう]",
+        "kana": "ちゅうしゃじょう",
+        "answer": "ちゅうしゃじょう"
+      },
+      {
+        "japanese": "A「駐車場に車を止めます。」 B「此処で止めて下さい。」",
+        "english": "A：I'm going to stop the car in the parking lot. B：Please stop here.",
+        "furigana": "止[と]める",
+        "kana": "とめる",
+        "answer": "とめる"
+      },
+      {
+        "japanese": "自転車で駅迄行きます。",
+        "english": "I will go to the station by bicycle.",
+        "furigana": "自転車[じてんしゃ]",
+        "kana": "じてんしゃ",
+        "answer": "じてんしゃ"
+      },
+      {
+        "japanese": "バイクで会社へ来ました。",
+        "english": "I came to the office by motorcycle.",
+        "furigana": "バイク",
+        "kana": "バイク",
+        "answer": "ばいく"
+      },
+      {
+        "japanese": "バスで名古屋に行きました。",
+        "english": "I went to Nagoya by bus.",
+        "furigana": "バス",
+        "kana": "バス",
+        "answer": "ばす"
+      },
+      {
+        "japanese": "飛行機で3時間ぐらいです。",
+        "english": "It takes about 3 hours by airplane.",
+        "furigana": "飛行機[ひこうき]",
+        "kana": "ひこうき",
+        "answer": "ひこうき"
+      },
+      {
+        "japanese": "横浜で船に乗ります。",
+        "english": "I will take a boat to Yokohama.",
+        "furigana": "船[ふね]",
+        "kana": "ふね",
+        "answer": "ふね"
+      },
+      {
+        "japanese": "バス乗り場は何処ですか。",
+        "english": "Where is the bus stand?",
+        "furigana": "乗[の]り 場[ば]",
+        "kana": "のりば",
+        "answer": "のりば"
+      },
+      {
+        "japanese": "空港は成田にあります。",
+        "english": "The airport is in Narita.",
+        "furigana": "空港[くうこう]",
+        "kana": "くうこう",
+        "answer": "くうこう"
+      },
+      {
+        "japanese": "駅に時刻表があります。",
+        "english": "There is a time table at the station.",
+        "furigana": "時刻表[じこくひょう]",
+        "kana": "じこくひょう",
+        "answer": "じこくひょう"
+      },
+      {
+        "japanese": "急ぎましょう。",
+        "english": "Let's Hurry!",
+        "furigana": "急[いそ]ぐ",
+        "kana": "いそぐ",
+        "answer": "いそぐ"
+      },
+      {
+        "japanese": "自転車で10分ぐらい掛かります。",
+        "english": "It takes about 10 minutes by bicycle.",
+        "furigana": "掛[か]かる",
+        "kana": "かかる",
+        "answer": "かかる"
+      },
+      {
+        "japanese": "大学は駅から近いです。",
+        "english": "The university is near the station.",
+        "furigana": "近[ちか]い",
+        "kana": "ちかい",
+        "answer": "ちかい"
+      },
+      {
+        "japanese": "図書館は家から遠いです。",
+        "english": "The library is far from home.",
+        "furigana": "遠[とお]い",
+        "kana": "とおい",
+        "answer": "とおい"
+      },
+      {
+        "japanese": "特急の方が急行よりずっと速いです。",
+        "english": "The limited express train is much faster than the express train.",
+        "furigana": "ずっと",
+        "kana": "ずっと",
+        "answer": "ずっと"
+      },
+      {
+        "japanese": "何時も飛行機で大阪へ行きます。",
+        "english": "I always go to Osaka by airplane.",
+        "furigana": "何時[いつ]も",
+        "kana": "いつも",
+        "answer": "いつも"
+      },
+      {
+        "japanese": "大抵バスで帰ります。",
+        "english": "I mostly take the bus to go home.",
+        "furigana": "大抵[たいてい]",
+        "kana": "たいてい",
+        "answer": "たいてい"
+      },
+      {
+        "japanese": "今日が夏休み最後の日だ。",
+        "english": "Today's the last day of summer vacation.",
+        "furigana": "最後[さいご]",
+        "kana": "さいご",
+        "answer": "さいご"
+      },
+      {
+        "japanese": "良く公園を散歩します。",
+        "english": "I often take a walk in the park.",
+        "furigana": "良[よ]く",
+        "kana": "よく",
+        "answer": "よく"
+      },
+      {
+        "japanese": "時々タクシーに乗ります。",
+        "english": "I sometimes take a taxi.",
+        "furigana": "時々[ときどき]",
+        "kana": "々ときどき",
+        "answer": "々ときどき"
+      },
+      {
+        "japanese": "一回だけ飛行機に乗ったことがあります。",
+        "english": "I've only taken an airplane once.",
+        "furigana": "だけ",
+        "kana": "だけ",
+        "answer": "だけ"
+      },
+      {
+        "japanese": "A「空港迄どうやって行きますか。」 B「新宿からバスで行きます。」",
+        "english": "A: How do I get to the airport? B: You can take the bus from Shinjuku.",
+        "furigana": "どうやって",
+        "kana": "どうやって",
+        "answer": "どうやって"
+      },
+      {
+        "japanese": "歩いてスーパーに行きます。",
+        "english": "I will walk to the supermarket.",
+        "furigana": "歩[ある]く",
+        "kana": "あるく",
+        "answer": "あるく"
+      },
+      {
+        "japanese": "あの橋は日本で一番長い。",
+        "english": "That bridge is the longest in Japan.",
+        "furigana": "橋[はし]",
+        "kana": "はし",
+        "answer": "はし"
+      },
+      {
+        "japanese": "この道を知っています。",
+        "english": "I know this road.",
+        "furigana": "道[みち]",
+        "kana": "みち",
+        "answer": "みち"
+      },
+      {
+        "japanese": "此の道を真っ直ぐ行って下さい。",
+        "english": "Please go straight on this road.",
+        "furigana": "真[ま]っ 直[す]ぐ",
+        "kana": "まっすぐ",
+        "answer": "まっすぐ"
+      },
+      {
+        "japanese": "彼らは長い距離を歩き続けたんだ。",
+        "english": "They kept walking a long distance.",
+        "furigana": "距離[きょり]",
+        "kana": "きょり",
+        "answer": "きょり"
+      },
+      {
+        "japanese": "部屋が暗いです。",
+        "english": "The room is dark.",
+        "furigana": "暗[くら]い",
+        "kana": "くらい",
+        "answer": "くらい"
+      },
+      {
+        "japanese": "信号を左に曲がります。",
+        "english": "I will take a left at the signal.",
+        "furigana": "曲[ま]がる",
+        "kana": "まがる",
+        "answer": "まがる"
+      },
+      {
+        "japanese": "この橋を渡ります。",
+        "english": "I will cross this bridge.",
+        "furigana": "渡[わた]る",
+        "kana": "わたる",
+        "answer": "わたる"
+      },
+      {
+        "japanese": "行き方を説明して下さい。",
+        "english": "Please explain the directions to me.",
+        "furigana": "説明[せつめい](する)",
+        "kana": "せつめい",
+        "answer": "せつめい"
+      },
+      {
+        "japanese": "朝御飯には何時もパンを食べる。",
+        "english": "I always eat bread for breakfast.",
+        "furigana": "パン",
+        "kana": "パン",
+        "answer": "ぱん"
+      },
+      {
+        "japanese": "角",
+        "english": "Corner",
+        "furigana": "角[かど]",
+        "kana": "かど",
+        "answer": "かど"
+      },
+      {
+        "japanese": "交差点",
+        "english": "Intersection",
+        "furigana": "交差点[こうさてん]",
+        "kana": "こうさてん",
+        "answer": "こうさてん"
+      },
+      {
+        "japanese": "信号が青になった。",
+        "english": "The traffic light turned green.",
+        "furigana": "信号[しんごう]",
+        "kana": "しんごう",
+        "answer": "しんごう"
+      },
+      {
+        "japanese": "右のポケットにハンカチが入っています。",
+        "english": "There's a handkerchief in my right pocket.",
+        "furigana": "右[みぎ]",
+        "kana": "みぎ",
+        "answer": "みぎ"
+      },
+      {
+        "japanese": "東の空が暗いです。",
+        "english": "The eastern sky is dark.",
+        "furigana": "東[ひがし]",
+        "kana": "ひがし",
+        "answer": "ひがし"
+      },
+      {
+        "japanese": "私の家は町の南にあります。",
+        "english": "My house is in the south of the town.",
+        "furigana": "南[みなみ]",
+        "kana": "みなみ",
+        "answer": "みなみ"
+      },
+      {
+        "japanese": "露西亜は日本の北に在ります。",
+        "english": "Russia is north of Japan.",
+        "furigana": "北[きた]",
+        "kana": "きた",
+        "answer": "きた"
+      },
+      {
+        "japanese": "A「銀行へ行きたいです。いくつ目の交差点ですか。」 B「3つ目ですよ。」",
+        "english": "A: I want to go to the bank. Which intersection is it on? B: It's on the third one.",
+        "furigana": "幾[いく]つ 目[め]",
+        "kana": "いくつめ",
+        "answer": "いくつめ"
+      },
+      {
+        "japanese": "1つ目",
+        "english": "First",
+        "furigana": "1[ひと]つ 目[め]",
+        "kana": "1ひとつめ",
+        "answer": "1ひとつめ"
+      },
+      {
+        "japanese": "2つ目",
+        "english": "Second",
+        "furigana": "2[ふた]つ 目[め]",
+        "kana": "2ふたつめ",
+        "answer": "2ふたつめ"
+      },
+      {
+        "japanese": "3つ目",
+        "english": "Third",
+        "furigana": "3[みっ]つ 目[め]",
+        "kana": "3みっつめ",
+        "answer": "3みっつめ"
+      },
+      {
+        "japanese": "隣の家には犬がいます。",
+        "english": "They have a dog next door.",
+        "furigana": "隣[となり]",
+        "kana": "となり",
+        "answer": "となり"
+      },
+      {
+        "japanese": "財布は引き出しの中にあります。",
+        "english": "My purse is in the drawer.",
+        "furigana": "引[ひ]き 出[だ]し",
+        "kana": "ひきだし",
+        "answer": "ひきだし"
+      },
+      {
+        "japanese": "雲の間から月が出た。",
+        "english": "The moon came out from between the clouds.",
+        "furigana": "間[あいだ]",
+        "kana": "あいだ",
+        "answer": "あいだ"
+      },
+      {
+        "japanese": "駅の近くで食事をした。",
+        "english": "I ate near the station.",
+        "furigana": "近[ちか]く",
+        "kana": "ちかく",
+        "answer": "ちかく"
+      },
+      {
+        "japanese": "上を向いて。",
+        "english": "Look up.",
+        "furigana": "上[うえ]",
+        "kana": "うえ",
+        "answer": "うえ"
+      },
+      {
+        "japanese": "財布は机の下に在った。",
+        "english": "My purse was under the desk.",
+        "furigana": "下[した]",
+        "kana": "した",
+        "answer": "した"
+      },
+      {
+        "japanese": "その店の前で会いましょう。",
+        "english": "Let's meet in front of the store.",
+        "furigana": "前[まえ]",
+        "kana": "まえ",
+        "answer": "まえ"
+      },
+      {
+        "japanese": "後ろを向いて。",
+        "english": "Turn around.",
+        "furigana": "後[うし]ろ",
+        "kana": "うしろ",
+        "answer": "うしろ"
+      },
+      {
+        "japanese": "姉の夫は会社員です。",
+        "english": "My elder sister's husband is an office worker.",
+        "furigana": "夫[おっと]",
+        "kana": "おっと",
+        "answer": "おっと"
+      },
+      {
+        "japanese": "外は暑いよ。",
+        "english": "It's hot outside.",
+        "furigana": "外[そと]",
+        "kana": "そと",
+        "answer": "そと"
+      },
+      {
+        "japanese": "其処を左に曲がって下さい。",
+        "english": "Please turn left there.",
+        "furigana": "左[ひだり]",
+        "kana": "ひだり",
+        "answer": "ひだり"
+      },
+      {
+        "japanese": "祖母は京都で生まれました。",
+        "english": "My grandmother was born in Kyoto.",
+        "furigana": "祖母[そぼ]",
+        "kana": "そぼ",
+        "answer": "そぼ"
+      },
+      {
+        "japanese": "A「銀行は何処ですか。」 B「郵便局の隣です。」",
+        "english": "A: Where is the bank? B: It's next to the post office.",
+        "furigana": "何処[どこ]",
+        "kana": "どこ",
+        "answer": "どこ"
+      },
+      {
+        "japanese": "日曜日によく出掛けます。",
+        "english": "I go out frequently on Sundays.",
+        "furigana": "出掛[でか]ける",
+        "kana": "でかける",
+        "answer": "でかける"
+      },
+      {
+        "japanese": "8時に家を出ます。",
+        "english": "I leave the house at 8A: M.",
+        "furigana": "出[で]る",
+        "kana": "でる",
+        "answer": "でる"
+      },
+      {
+        "japanese": "駅で友達に会います。",
+        "english": "I will meet my friend at the station.",
+        "furigana": "会[あ]う",
+        "kana": "あう",
+        "answer": "あう"
+      },
+      {
+        "japanese": "1時間友達を待ちました。",
+        "english": "I waited for my friend for an hour.",
+        "furigana": "待[ま]つ",
+        "kana": "まつ",
+        "answer": "まつ"
+      },
+      {
+        "japanese": "明日、彼女とデートします。",
+        "english": "I will go on a date with her tomorrow.",
+        "furigana": "デート(する)",
+        "kana": "デート",
+        "answer": "でーと"
+      },
+      {
+        "japanese": "友達と約束があります。",
+        "english": "I have an appointment with my friend.",
+        "furigana": "約束[やくそく]",
+        "kana": "やくそく",
+        "answer": "やくそく"
+      },
+      {
+        "japanese": "今日は用事があります。",
+        "english": "I have an errand to run today.",
+        "furigana": "用事[ようじ]",
+        "kana": "ようじ",
+        "answer": "ようじ"
+      },
+      {
+        "japanese": "今日は都合がいいです。",
+        "english": "Today is convenient for me.",
+        "furigana": "都合[つごう]がいい",
+        "kana": "つごうがいい",
+        "answer": "つごうがいい"
+      },
+      {
+        "japanese": "明日は都合が悪いです。",
+        "english": "Tomorrow is inconvenient for me.",
+        "furigana": "都合[つごう]が 悪[わる]い",
+        "kana": "つごうがわるい",
+        "answer": "つごうがわるい"
+      },
+      {
+        "japanese": "A「今日は駄目ですか。」 B「はい。今日は一寸。」",
+        "english": "A: Are things going poorly today? B: Yes. Today is not going very well.",
+        "furigana": "駄目[だめ]",
+        "kana": "だめ",
+        "answer": "だめ"
+      },
+      {
+        "japanese": "約束の時間を変えます。",
+        "english": "I will change the time of the appointment.",
+        "furigana": "変[か]える",
+        "kana": "かえる",
+        "answer": "かえる"
+      },
+      {
+        "japanese": "A「御出掛けですか。」 B「はい、一寸新宿まで。」",
+        "english": "A: Are you going out? B: Yes, just to Shinjuku.",
+        "furigana": "御出掛[おでか]け",
+        "kana": "おでかけ",
+        "answer": "おでかけ"
+      },
+      {
+        "japanese": "A「良かったら一緒に広島へ行きませんか。」 B「はい、是非。」",
+        "english": "A: Why don't you come with me to Hiroshima? B: Yes, I would love to.",
+        "furigana": "良[よ]かったら",
+        "kana": "よかったら",
+        "answer": "よかったら"
+      },
+      {
+        "japanese": "済みません。今日は用事があります。",
+        "english": "Sorry, I have something to do today.",
+        "furigana": "済[す]みません",
+        "kana": "すみません",
+        "answer": "すみません"
+      },
+      {
+        "japanese": "お茶でも飲みませんか。",
+        "english": "A: How about some tea?",
+        "furigana": "でも",
+        "kana": "でも",
+        "answer": "でも"
+      },
+      {
+        "japanese": "すみません。今日は一寸。",
+        "english": "B: Sorry, today is not so good.",
+        "furigana": "一寸[ちょっと]",
+        "kana": "ちょっと",
+        "answer": "ちょっと"
+      },
+      {
+        "japanese": "A「明日、映画を見ませんか。」 B「残念ですが、明日は一寸。」",
+        "english": "A: How about going to the movies tomorrow? B: Unfortunately, tomorrow isn't good for me.",
+        "furigana": "残念[ざんねん]",
+        "kana": "ざんねん",
+        "answer": "ざんねん"
+      },
+      {
+        "japanese": "また今度お願いします。",
+        "english": "Next Time Please",
+        "furigana": "今度[こんど]",
+        "kana": "こんど",
+        "answer": "こんど"
+      },
+      {
+        "japanese": "A「行ってきます」 B「行ってらっしゃい」",
+        "english": "A：Good Bye (I'm Off) B：Have a Good Day!",
+        "furigana": "×",
+        "kana": "×",
+        "answer": "×"
+      },
+      {
+        "japanese": "「只今」「お帰りなさい」",
+        "english": "A:Hello (I'm Back) B:Welcome Home.",
+        "furigana": "×",
+        "kana": "×",
+        "answer": "×"
+      },
+      {
+        "japanese": "窓を開けます。",
+        "english": "I open the window.",
+        "furigana": "窓[まど]",
+        "kana": "まど",
+        "answer": "まど"
+      },
+      {
+        "japanese": "ドアを閉めます。",
+        "english": "I close the door.",
+        "furigana": "ドア",
+        "kana": "ドア",
+        "answer": "どあ"
+      },
+      {
+        "japanese": "ドアを開けないで下さい。",
+        "english": "Please don't open the door.",
+        "furigana": "開[あ]ける",
+        "kana": "あける",
+        "answer": "あける"
+      },
+      {
+        "japanese": "窓を閉めてもいいですか。",
+        "english": "Can I close the window?",
+        "furigana": "閉[し]める",
+        "kana": "しめる",
+        "answer": "しめる"
+      },
+      {
+        "japanese": "彼に会えて嬉しかった。",
+        "english": "I was glad to meet him.",
+        "furigana": "嬉[うれ]しい",
+        "kana": "うれしい",
+        "answer": "うれしい"
+      },
+      {
+        "japanese": "これはアパートの鍵です。",
+        "english": "This is the key to the apartment.",
+        "furigana": "鍵[かぎ]",
+        "kana": "かぎ",
+        "answer": "かぎ"
+      },
+      {
+        "japanese": "部屋にベッドがあります。",
+        "english": "There is a bed in the room.",
+        "furigana": "ベッド",
+        "kana": "ベッド",
+        "answer": "べっど"
+      },
+      {
+        "japanese": "和室",
+        "english": "Japanese Room",
+        "furigana": "和室[わしつ]",
+        "kana": "わしつ",
+        "answer": "わしつ"
+      },
+      {
+        "japanese": "お手洗いは何処ですか。",
+        "english": "Where's the bathroom?",
+        "furigana": "お 手洗[てあら]い",
+        "kana": "おてあらい",
+        "answer": "おてあらい"
+      },
+      {
+        "japanese": "私の娘は亜米利加に居ます。",
+        "english": "My daughter is in the United States.",
+        "furigana": "娘[むすめ]",
+        "kana": "むすめ",
+        "answer": "むすめ"
+      },
+      {
+        "japanese": "辞書は机の上です。",
+        "english": "The dictionary is on the desk.",
+        "furigana": "机[つくえ]",
+        "kana": "つくえ",
+        "answer": "つくえ"
+      },
+      {
+        "japanese": "椅子に座ります。",
+        "english": "I will sit on the chair.",
+        "furigana": "椅子[いす]",
+        "kana": "いす",
+        "answer": "いす"
+      },
+      {
+        "japanese": "どうぞ座って下さい。",
+        "english": "Please sit down.",
+        "furigana": "座[すわ]る",
+        "kana": "すわる",
+        "answer": "すわる"
+      },
+      {
+        "japanese": "ララちゃんは家の前に立っています。",
+        "english": "Lara-chan is standing in front of the house.",
+        "furigana": "立[た]つ",
+        "kana": "たつ",
+        "answer": "たつ"
+      },
+      {
+        "japanese": "1週間に1回、洗濯します。",
+        "english": "I do the laundry once a week.",
+        "furigana": "洗濯[せんたく](する)",
+        "kana": "せんたく",
+        "answer": "せんたく"
+      },
+      {
+        "japanese": "毎日、掃除します。",
+        "english": "I clean everyday.",
+        "furigana": "掃除[そうじ](する)",
+        "kana": "そうじ",
+        "answer": "そうじ"
+      },
+      {
+        "japanese": "塵の日は木曜日です。",
+        "english": "The day to dispose of garbage is Thursday.",
+        "furigana": "塵[ごみ]",
+        "kana": "ごみ",
+        "answer": "ごみ"
+      },
+      {
+        "japanese": "母が布団を干している。",
+        "english": "My mother is airing the futons.",
+        "furigana": "干[ほ]す",
+        "kana": "ほす",
+        "answer": "ほす"
+      },
+      {
+        "japanese": "木曜日に塵を捨てます。",
+        "english": "I will throw away garbage on Thursday.",
+        "furigana": "捨[す]てる",
+        "kana": "すてる",
+        "answer": "すてる"
+      },
+      {
+        "japanese": "ここに荷物を置いて下さい。",
+        "english": "Please put the luggage here.",
+        "furigana": "置[お]く",
+        "kana": "おく",
+        "answer": "おく"
+      },
+      {
+        "japanese": "布団が迚も柔らかい。",
+        "english": "The futon is very soft.",
+        "furigana": "柔[やわ]らかい",
+        "kana": "やわらかい",
+        "answer": "やわらかい"
+      },
+      {
+        "japanese": "家族は泰に住んでいます。",
+        "english": "My family lives in Thailand.",
+        "furigana": "住[す]む",
+        "kana": "すむ",
+        "answer": "すむ"
+      },
+      {
+        "japanese": "此処に住所を書いて下さい。",
+        "english": "Please write your address here.",
+        "furigana": "住所[じゅうしょ]",
+        "kana": "じゅうしょ",
+        "answer": "じゅうしょ"
+      },
+      {
+        "japanese": "飲み物は冷蔵庫にあります。",
+        "english": "Drinks are in the refrigerator.",
+        "furigana": "冷蔵庫[れいぞうこ]",
+        "kana": "れいぞうこ",
+        "answer": "れいぞうこ"
+      },
+      {
+        "japanese": "洗濯機",
+        "english": "Washing Machine",
+        "furigana": "洗濯機[せんたくき]",
+        "kana": "せんたくき",
+        "answer": "せんたくき"
+      },
+      {
+        "japanese": "A「デパートはどの建物ですか。」 B「あの建物です。」",
+        "english": "A: Which building is the department store? B: It's that building over there.",
+        "furigana": "建物[たてもの]",
+        "kana": "たてもの",
+        "answer": "たてもの"
+      },
+      {
+        "japanese": "ホアンさんは寮に住んでいます。",
+        "english": "Huang-san lives in the dormitory.",
+        "furigana": "寮[りょう]",
+        "kana": "りょう",
+        "answer": "りょう"
+      },
+      {
+        "japanese": "会社はあのビルです。",
+        "english": "The office is in that building.",
+        "furigana": "ビル",
+        "kana": "ビル",
+        "answer": "びる"
+      },
+      {
+        "japanese": "トイレを掃除しましたか。",
+        "english": "Did you clean the toilet?",
+        "furigana": "トイレ",
+        "kana": "トイレ",
+        "answer": "といれ"
+      },
+      {
+        "japanese": "階段はあそこです。",
+        "english": "The stairs are over there.",
+        "furigana": "階段[かいだん]",
+        "kana": "かいだん",
+        "answer": "かいだん"
+      },
+      {
+        "japanese": "A「何階に住んでるの？」 B「2階です。」",
+        "english": "A: Which floor do you live on? B: The second floor.",
+        "furigana": "何[なん] 階[かい]",
+        "kana": "なんかい",
+        "answer": "なんかい"
+      },
+      {
+        "japanese": "兄は二階にいます。",
+        "english": "My elder brother is on the second floor.",
+        "furigana": "二階[にかい]",
+        "kana": "にかい",
+        "answer": "にかい"
+      },
+      {
+        "japanese": "四階",
+        "english": "4th Floor",
+        "furigana": "四[よん]階[かい]",
+        "kana": "よんかい",
+        "answer": "よんかい"
+      },
+      {
+        "japanese": "地下",
+        "english": "Basement",
+        "furigana": "地下[ちか]",
+        "kana": "ちか",
+        "answer": "ちか"
+      },
+      {
+        "japanese": "引っ越しは何時ですか。",
+        "english": "When are you moving?",
+        "furigana": "引[ひ]っ 越[こ]し",
+        "kana": "ひっこし",
+        "answer": "ひっこし"
+      },
+      {
+        "japanese": "来月、大阪へ転勤します。",
+        "english": "I will be stationed in Osaka next month.",
+        "furigana": "転勤[てんきん]",
+        "kana": "てんきん",
+        "answer": "てんきん"
+      },
+      {
+        "japanese": "此処は家賃が高いです。",
+        "english": "The rent here is expensive.",
+        "furigana": "家賃[やちん]",
+        "kana": "やちん",
+        "answer": "やちん"
+      },
+      {
+        "japanese": "A「どんな所に住みたいですか。」 B「便利な所に住みたいです。」",
+        "english": "A: What kind of place do you want to live in? B: I want to live someplace convenient.",
+        "furigana": "所[ところ]",
+        "kana": "ところ",
+        "answer": "ところ"
+      },
+      {
+        "japanese": "田舎が好きです。",
+        "english": "I like the countryside.",
+        "furigana": "田舎[いなか]",
+        "kana": "いなか",
+        "answer": "いなか"
+      },
+      {
+        "japanese": "静かな所が好きです。",
+        "english": "I like quiet places.",
+        "furigana": "静[しず]か",
+        "kana": "しずか",
+        "answer": "しずか"
+      },
+      {
+        "japanese": "彼はこの辺に住んでいます。",
+        "english": "He lives around here.",
+        "furigana": "辺[へん]",
+        "kana": "へん",
+        "answer": "へん"
+      },
+      {
+        "japanese": "賑やかな所に住みたいです。",
+        "english": "I want to live in a lively place.",
+        "furigana": "賑[にぎ]やか",
+        "kana": "にぎやか",
+        "answer": "にぎやか"
+      },
+      {
+        "japanese": "スーパーが近いです。便利です。",
+        "english": "The supermarket is nearby. That's convenient.",
+        "furigana": "便利[べんり]",
+        "kana": "べんり",
+        "answer": "べんり"
+      },
+      {
+        "japanese": "このアパートは駅から遠いです。不便です。",
+        "english": "This apartment is far from the station. That's inconvenient.",
+        "furigana": "不便[ふべん]",
+        "kana": "ふべん",
+        "answer": "ふべん"
+      },
+      {
+        "japanese": "ここは交通が不便です。",
+        "english": "It's not easy to get around here.",
+        "furigana": "交通[こうつう]",
+        "kana": "こうつう",
+        "answer": "こうつう"
+      },
+      {
+        "japanese": "庭に犬がいます。",
+        "english": "There is a dog in the yard.",
+        "furigana": "庭[にわ]",
+        "kana": "にわ",
+        "answer": "にわ"
+      },
+      {
+        "japanese": "庭に木があります。",
+        "english": "There is a tree in the yard.",
+        "furigana": "木[き]",
+        "kana": "き",
+        "answer": "き"
+      },
+      {
+        "japanese": "鎌倉は緑が多いです。",
+        "english": "There is a lot of greenery in Kamakura.",
+        "furigana": "緑[みどり]",
+        "kana": "みどり",
+        "answer": "みどり"
+      },
+      {
+        "japanese": "この町は若い人が多いです。",
+        "english": "There are many young people in this town.",
+        "furigana": "若[わか]い",
+        "kana": "わかい",
+        "answer": "わかい"
+      },
+      {
+        "japanese": "80歳です。年を取りました。",
+        "english": "I am 80 years old. I have grown old.",
+        "furigana": "年[とし]を 取[と]る",
+        "kana": "としをとる",
+        "answer": "としをとる"
+      },
+      {
+        "japanese": "市役所は駅の近くです。",
+        "english": "The city hall is near the station.",
+        "furigana": "市役所[しやくしょ]",
+        "kana": "しやくしょ",
+        "answer": "しやくしょ"
+      },
+      {
+        "japanese": "彼の家は迚も広い。",
+        "english": "His house is very big.",
+        "furigana": "広[ひろ]い",
+        "kana": "ひろい",
+        "answer": "ひろい"
+      },
+      {
+        "japanese": "以前彼はこの町に住んでいたんだ。",
+        "english": "He used to live in this town.",
+        "furigana": "以前[いぜん]",
+        "kana": "いぜん",
+        "answer": "いぜん"
+      },
+      {
+        "japanese": "私の部屋は狭いです。",
+        "english": "My room is small.",
+        "furigana": "狭[せま]い",
+        "kana": "せまい",
+        "answer": "せまい"
+      },
+      {
+        "japanese": "彼の車は新しい。",
+        "english": "His car is new.",
+        "furigana": "新[あたら]しい",
+        "kana": "あたらしい",
+        "answer": "あたらしい"
+      },
+      {
+        "japanese": "私は古い車が好きです。",
+        "english": "I like old cars.",
+        "furigana": "古[ふる]い",
+        "kana": "ふるい",
+        "answer": "ふるい"
+      },
+      {
+        "japanese": "いらっしゃい。",
+        "english": "Welcome.",
+        "furigana": "いらっしゃい。",
+        "kana": "いらっしゃい。",
+        "answer": "いらっしゃい。"
+      },
+      {
+        "japanese": "どうぞお上がり下さい。",
+        "english": "Please come in.",
+        "furigana": "上[あ]がる",
+        "kana": "あがる",
+        "answer": "あがる"
+      },
+      {
+        "japanese": "そろそろ失礼します。",
+        "english": "I will excuse myself / leave.",
+        "furigana": "失礼[しつれい]します。",
+        "kana": "しつれいします。",
+        "answer": "しつれいします。"
+      },
+      {
+        "japanese": "亦いらっしゃって下さい。",
+        "english": "Please come again.",
+        "furigana": "いらっしゃる",
+        "kana": "いらっしゃる",
+        "answer": "いらっしゃる"
+      },
+      {
+        "japanese": "兄の妻は日本人です。",
+        "english": "My elder brother's wife is Japanese.",
+        "furigana": "妻[つま]",
+        "kana": "つま",
+        "answer": "つま"
+      },
+      {
+        "japanese": "田中さんのご主人は社長です。",
+        "english": "The husband of Mrs. Tanaka is a company president.",
+        "furigana": "ご 主人[しゅじん]",
+        "kana": "ごしゅじん",
+        "answer": "ごしゅじん"
+      },
+      {
+        "japanese": "山田さんの奥さんは料理が上手です。",
+        "english": "The wife of Mr. Yamada is good at cooking.",
+        "furigana": "奥[おく]さん",
+        "kana": "おくさん",
+        "answer": "おくさん"
+      },
+      {
+        "japanese": "先生に友達を紹介します。",
+        "english": "I will introuce my friend to the teacher.",
+        "furigana": "紹介[しょうかい](する)",
+        "kana": "しょうかい",
+        "answer": "しょうかい"
+      },
+      {
+        "japanese": "A「此方はアリさんです。」",
+        "english": "A: This is Ali-san.",
+        "furigana": "此方[こちら]",
+        "kana": "こちら",
+        "answer": "こちら"
+      },
+      {
+        "japanese": "初めまして、アリです。これからお世話に成ります。",
+        "english": "Nice to meet you. I am Ali. Thank you for taking care of me on this occasion.",
+        "furigana": "お 世話[せわ]になる",
+        "kana": "おせわになる",
+        "answer": "おせわになる"
+      },
+      {
+        "japanese": "A「ご両親はどちらにいらっしゃいますか。」 B「土耳其にいます。」",
+        "english": "A: Where are your parents? B: They are in Turkey.",
+        "furigana": "いらっしゃる",
+        "kana": "いらっしゃる",
+        "answer": "いらっしゃる"
+      },
+      {
+        "japanese": "兄は独身です。",
+        "english": "My brother is single.",
+        "furigana": "独身[どくしん]",
+        "kana": "どくしん",
+        "answer": "どくしん"
+      },
+      {
+        "japanese": "A「何を飲む？」 B「僕はジュース。」",
+        "english": "A: What do you want to drink? B: I will have juice.",
+        "furigana": "僕[ぼく]",
+        "kana": "ぼく",
+        "answer": "ぼく"
+      },
+      {
+        "japanese": "色々有り難う御座いました。",
+        "english": "Thank you very much for everything.",
+        "furigana": "色々[いろいろ](と)",
+        "kana": "々いろいろ",
+        "answer": "々いろいろ"
+      },
+      {
+        "japanese": "A「お世話になりました」 B「いいえ、此方こそ」",
+        "english": "A: Thank you for taking care of me. B: Not at all, and I thank you the same.",
+        "furigana": "此方[こちら]こそ",
+        "kana": "こちらこそ",
+        "answer": "こちらこそ"
+      },
+      {
+        "japanese": "お気を付けて",
+        "english": "take care, be careful",
+        "furigana": "お 気[き]を 付[つ]けて",
+        "kana": "おきをつけて",
+        "answer": "おきをつけて"
+      },
+      {
+        "japanese": "A「危ないです。気をつけて下さい。」 B「はい。」",
+        "english": "A: Watch out. Please be careful. B: Yes.",
+        "furigana": "危[あぶ]ない",
+        "kana": "あぶない",
+        "answer": "あぶない"
+      },
+      {
+        "japanese": "週末、デートをします。",
+        "english": "I will go on a date this weekend.",
+        "furigana": "週末[しゅうまつ]",
+        "kana": "しゅうまつ",
+        "answer": "しゅうまつ"
+      },
+      {
+        "japanese": "去年の初めに日本へ来ました。",
+        "english": "I came to Japan at the beginning of last year.",
+        "furigana": "初[はじ]め",
+        "kana": "はじめ",
+        "answer": "はじめ"
+      },
+      {
+        "japanese": "今月の終わりに国へ帰ります。",
+        "english": "I will return to my country this month.",
+        "furigana": "終[お]わり",
+        "kana": "おわり",
+        "answer": "おわり"
+      },
+      {
+        "japanese": "一昨日[×いっさくじつ]",
+        "english": "The Day Before Yesterday",
+        "furigana": "一昨日[おととい]",
+        "kana": "おととい",
+        "answer": "おととい"
+      },
+      {
+        "japanese": "明後日は休日です。",
+        "english": "The day after tomorrow's a holiday.",
+        "furigana": "明後日[あさって]",
+        "kana": "あさって",
+        "answer": "あさって"
+      },
+      {
+        "japanese": "先週",
+        "english": "Last Week",
+        "furigana": "先週[せんしゅう]",
+        "kana": "せんしゅう",
+        "answer": "せんしゅう"
+      },
+      {
+        "japanese": "今週は日本語のテストがあります。",
+        "english": "There's a Japanese test this week.",
+        "furigana": "今週[こんしゅう]",
+        "kana": "こんしゅう",
+        "answer": "こんしゅう"
+      },
+      {
+        "japanese": "今月は迚も忙しい。",
+        "english": "I'm very busy this month.",
+        "furigana": "今月[こんげつ]",
+        "kana": "こんげつ",
+        "answer": "こんげつ"
+      },
+      {
+        "japanese": "電気を点けて下さい。",
+        "english": "Please turn on the lights.",
+        "furigana": "電気[でんき]",
+        "kana": "でんき",
+        "answer": "でんき"
+      },
+      {
+        "japanese": "エアコンを点けます。",
+        "english": "I will turn on the air conditioner.",
+        "furigana": "点[つ]ける",
+        "kana": "つける",
+        "answer": "つける"
+      },
+      {
+        "japanese": "電気を消します。",
+        "english": "I will turn off the lights.",
+        "furigana": "消[け]す",
+        "kana": "けす",
+        "answer": "けす"
+      },
+      {
+        "japanese": "電気を点けると、明るく成ります。",
+        "english": "It gets bright when the lights are turned on.",
+        "furigana": "明[あか]るい",
+        "kana": "あかるい",
+        "answer": "あかるい"
+      },
+      {
+        "japanese": "部屋にエアコンがあります。",
+        "english": "The room has an air conditioner.",
+        "furigana": "エアコン",
+        "kana": "エアコン",
+        "answer": "えあこん"
+      },
+      {
+        "japanese": "これを左に回すと、お湯が出ます。",
+        "english": "Warm water comes out when you turn this to the left.",
+        "furigana": "回[まわ]す",
+        "kana": "まわす",
+        "answer": "まわす"
+      },
+      {
+        "japanese": "これを引くと、水が出ます。",
+        "english": "Water comes out when you pull this.",
+        "furigana": "引[ひ]く",
+        "kana": "ひく",
+        "answer": "ひく"
+      },
+      {
+        "japanese": "スイッチを押すと、動きます。",
+        "english": "It moves when you push the switch.",
+        "furigana": "動[うご]く",
+        "kana": "うごく",
+        "answer": "うごく"
+      },
+      {
+        "japanese": "ラジオの音が小さいです。",
+        "english": "The sound of the radio is weak.",
+        "furigana": "音[おと]",
+        "kana": "おと",
+        "answer": "おと"
+      },
+      {
+        "japanese": "若し故障したら、修理します。",
+        "english": "If it breaks, I will fix it.",
+        "furigana": "若[も]し",
+        "kana": "もし",
+        "answer": "もし"
+      },
+      {
+        "japanese": "エアコンが故障しました。",
+        "english": "The air conditioner is broken.",
+        "furigana": "故障[こしょう](する)",
+        "kana": "こしょう",
+        "answer": "こしょう"
+      },
+      {
+        "japanese": "エアコンを修理して下さい。",
+        "english": "Please fix the air conditioner.",
+        "furigana": "修理[しゅうり](する)",
+        "kana": "しゅうり",
+        "answer": "しゅうり"
+      },
+      {
+        "japanese": "A「弟のパソコンを直します。」 B「弟のレポートを直します。」",
+        "english": "A: I will fix my brother's computer. B: I will correct my brother's report.",
+        "furigana": "直[なお]す",
+        "kana": "なおす",
+        "answer": "なおす"
+      },
+      {
+        "japanese": "電気製品を秋葉原で買いました。",
+        "english": "I bought electrical products in Akihabara.",
+        "furigana": "製品[せいひん]",
+        "kana": "せいひん",
+        "answer": "せいひん"
+      },
+      {
+        "japanese": "病気になりました。",
+        "english": "I got sick.",
+        "furigana": "病気[びょうき]",
+        "kana": "びょうき",
+        "answer": "びょうき"
+      },
+      {
+        "japanese": "病院へ行きます。",
+        "english": "I will go to the hospital.",
+        "furigana": "病院[びょういん]",
+        "kana": "びょういん",
+        "answer": "びょういん"
+      },
+      {
+        "japanese": "B「どうしましたか。」 A「昨日から熱があります。」",
+        "english": "Doctor: What's the matter? A: I have been running a fever since yesterday.",
+        "furigana": "熱[ねつ]",
+        "kana": "ねつ",
+        "answer": "ねつ"
+      },
+      {
+        "japanese": "A「昨日から熱があります。」 B「風邪ですね。」",
+        "english": "A: I have been running a fever since yesterday. Doctor: You have a cold.",
+        "furigana": "風邪[かぜ]",
+        "kana": "かぜ",
+        "answer": "かぜ"
+      },
+      {
+        "japanese": "医者「インフルエンザです。お風呂に入らないで下さい。」",
+        "english": "Doctor: You have the flu. Do not take a bath.",
+        "furigana": "インフルエンザ",
+        "kana": "インフルエンザ",
+        "answer": "いんふるえんざ"
+      },
+      {
+        "japanese": "一日に3回薬を飲んで下さい。",
+        "english": "Take this medicine 3 times a day.",
+        "furigana": "薬[くすり]",
+        "kana": "くすり",
+        "answer": "くすり"
+      },
+      {
+        "japanese": "彼女は耳が良く聞こえません。",
+        "english": "Her hearing isn't very good.",
+        "furigana": "耳[みみ]",
+        "kana": "みみ",
+        "answer": "みみ"
+      },
+      {
+        "japanese": "口を大きく開けて下さい。",
+        "english": "Open wide, please.",
+        "furigana": "口[くち]",
+        "kana": "くち",
+        "answer": "くち"
+      },
+      {
+        "japanese": "歯が痛いです。",
+        "english": "My tooth hurts.",
+        "furigana": "痛[いた]い",
+        "kana": "いたい",
+        "answer": "いたい"
+      },
+      {
+        "japanese": "今朝から頭が痛い。",
+        "english": "I've had a headache since this morning.",
+        "furigana": "頭[あたま]",
+        "kana": "あたま",
+        "answer": "あたま"
+      },
+      {
+        "japanese": "夫の服をハンガーに掛けた。",
+        "english": "I put my husband's clothes on a hanger.",
+        "furigana": "掛[か]ける",
+        "kana": "かける",
+        "answer": "かける"
+      },
+      {
+        "japanese": "お腹が空きました。",
+        "english": "I'm hungry.",
+        "furigana": "お 腹[なか]",
+        "kana": "おなか",
+        "answer": "おなか"
+      },
+      {
+        "japanese": "分かった人は手を上げて下さい。",
+        "english": "Please raise your hand if you understand.",
+        "furigana": "手[て]",
+        "kana": "て",
+        "answer": "て"
+      },
+      {
+        "japanese": "彼は足が長い。",
+        "english": "He has long legs.",
+        "furigana": "足[あし]",
+        "kana": "あし",
+        "answer": "あし"
+      },
+      {
+        "japanese": "お大事に",
+        "english": "please take care, get well soon",
+        "furigana": "お 大事[だいじ]に",
+        "kana": "おだいじに",
+        "answer": "おだいじに"
+      },
+      {
+        "japanese": "休日は家でよくテレビを見ます。",
+        "english": "I often watch television at home on my days off.",
+        "furigana": "休日[きゅうじつ]",
+        "kana": "きゅうじつ",
+        "answer": "きゅうじつ"
+      },
+      {
+        "japanese": "2、3日会社を休みます。",
+        "english": "I will take two or three days off from work.",
+        "furigana": "2、3 日[にち]",
+        "kana": "2、3にち",
+        "answer": "2、3にち"
+      },
+      {
+        "japanese": "昨日、歯医者へ行きました。",
+        "english": "I went to the dentist yesterday.",
+        "furigana": "歯医者[はいしゃ](さん)",
+        "kana": "はいしゃ",
+        "answer": "はいしゃ"
+      },
+      {
+        "japanese": "一人で病院へ行きます。",
+        "english": "I will go to the hospital alone.",
+        "furigana": "一人[ひとり]で",
+        "kana": "ひとりで",
+        "answer": "ひとりで"
+      },
+      {
+        "japanese": "健康に気をつけています。",
+        "english": "I am mindful of my health.",
+        "furigana": "健康[けんこう]",
+        "kana": "けんこう",
+        "answer": "けんこう"
+      },
+      {
+        "japanese": "病院に健康保険証を持って行きます。",
+        "english": "I will bring my health insurance card to the hospital.",
+        "furigana": "健康[けんこう] 保険証[ほけんしょう]",
+        "kana": "けんこうほけんしょう",
+        "answer": "けんこうほけんしょう"
+      },
+      {
+        "japanese": "ジョギングは体にいいです。",
+        "english": "Jogging is good for your health.",
+        "furigana": "体[からだ]にいい",
+        "kana": "からだにいい",
+        "answer": "からだにいい"
+      },
+      {
+        "japanese": "体の調子が良くないです。",
+        "english": "My condition is not good.",
+        "furigana": "調子[ちょうし]",
+        "kana": "ちょうし",
+        "answer": "ちょうし"
+      },
+      {
+        "japanese": "A「疲れましたね。少し休みましょう。」 B「はい。」",
+        "english": "A: I'm tired. Let's rest a little. B: Okay.",
+        "furigana": "疲[つか]れる",
+        "kana": "つかれる",
+        "answer": "つかれる"
+      },
+      {
+        "japanese": "A「今朝、5時に起きました。眠いです。」",
+        "english": "A: I woke up at 5A: M. this morning. I'm sleepy.",
+        "furigana": "眠[ねむ]い",
+        "kana": "ねむい",
+        "answer": "ねむい"
+      },
+      {
+        "japanese": "犬が病気で死にました。",
+        "english": "Our dog got sick and died.",
+        "furigana": "死[し]ぬ",
+        "kana": "しぬ",
+        "answer": "しぬ"
+      },
+      {
+        "japanese": "B「早く寝た方がいいですよ。」",
+        "english": "B: You should go to sleep early.",
+        "furigana": "早[はや]く",
+        "kana": "はやく",
+        "answer": "はやく"
+      },
+      {
+        "japanese": "A「毎日、残業します。」 B「大変ですね。」",
+        "english": "A: I work overtime every day. B: That is terrible.",
+        "furigana": "大変[たいへん]",
+        "kana": "たいへん",
+        "answer": "たいへん"
+      },
+      {
+        "japanese": "最近、仕事が忙しいです。",
+        "english": "Recently, I have been busy at work.",
+        "furigana": "最近[さいきん]",
+        "kana": "さいきん",
+        "answer": "さいきん"
+      },
+      {
+        "japanese": "母が心配しています。",
+        "english": "My mother is worried.",
+        "furigana": "心配[しんぱい](する)",
+        "kana": "しんぱい",
+        "answer": "しんぱい"
+      },
+      {
+        "japanese": "自動販売機で煙草を買います。",
+        "english": "I buy cigarettes at the vending machine.",
+        "furigana": "煙草[たばこ]",
+        "kana": "たばこ",
+        "answer": "たばこ"
+      },
+      {
+        "japanese": "ここで煙草を吸わないで下さい。",
+        "english": "Please don't smoke here.",
+        "furigana": "吸[す]う",
+        "kana": "すう",
+        "answer": "すう"
+      },
+      {
+        "japanese": "駅は禁煙です。",
+        "english": "No smoking at the station.",
+        "furigana": "禁煙[きんえん]",
+        "kana": "きんえん",
+        "answer": "きんえん"
+      },
+      {
+        "japanese": "A「一人で大丈夫ですか。」 B「はい。」",
+        "english": "A: Are you ok on your own? B: Yes.",
+        "furigana": "大丈夫[だいじょうぶ]",
+        "kana": "だいじょうぶ",
+        "answer": "だいじょうぶ"
+      },
+      {
+        "japanese": "無理なダイエットは良くないです。",
+        "english": "An unreasonable diet isn't good.",
+        "furigana": "無理[むり]",
+        "kana": "むり",
+        "answer": "むり"
+      },
+      {
+        "japanese": "ダイエットをしています。",
+        "english": "I am on a diet.",
+        "furigana": "ダイエット",
+        "kana": "ダイエット",
+        "answer": "だいえっと"
+      },
+      {
+        "japanese": "時々、家族を思い出します。",
+        "english": "I sometimes remember my family.",
+        "furigana": "思[おも]い 出[だ]す",
+        "kana": "おもいだす",
+        "answer": "おもいだす"
+      },
+      {
+        "japanese": "友達が国へ帰りました。寂しいです。",
+        "english": "My friend returned to his / her home country. I feel lonely.",
+        "furigana": "寂[さび]しい",
+        "kana": "さびしい",
+        "answer": "さびしい"
+      },
+      {
+        "japanese": "鈴木「ホワンさん、久しぶりですね。」 ホワン「あっ、鈴木先生。お久しぶりです。」",
+        "english": "Suzuki: \"Huang-san, long time no see!\" Huang: \"Oh, Suzuki-sensei. Long time no see!\"",
+        "furigana": "久[ひさ]しぶり",
+        "kana": "ひさしぶり",
+        "answer": "ひさしぶり"
+      },
+      {
+        "japanese": "鈴木「お元気ですか。」 ホワン「はい。お陰様で。」",
+        "english": "Suzuki: \"Are you doing ok?\" Huang: \"Yes, fortunately.\"",
+        "furigana": "お 元気[げんき]ですか",
+        "kana": "おげんきですか",
+        "answer": "おげんきですか"
+      },
+      {
+        "japanese": "鈴木「体の調子はどうですか。」 ホワン「お蔭様で良くなおりました。」",
+        "english": "Suzuki: \"How are you feeling?\" Huang: \"I have recovered, fortunately.\"",
+        "furigana": "お 蔭様[かげさま]で",
+        "kana": "おかげさまで",
+        "answer": "おかげさまで"
+      },
+      {
+        "japanese": "大使館は東京にあります。",
+        "english": "The embassy is in Tokyo.",
+        "furigana": "大使館[たいしかん]",
+        "kana": "たいしかん",
+        "answer": "たいしかん"
+      },
+      {
+        "japanese": "家の鍵を無くしました。",
+        "english": "I lost my house key.",
+        "furigana": "無[な]くす",
+        "kana": "なくす",
+        "answer": "なくす"
+      },
+      {
+        "japanese": "友達にお金を借ります。",
+        "english": "I will borrow money from a friend.",
+        "furigana": "借[か]りる",
+        "kana": "かりる",
+        "answer": "かりる"
+      },
+      {
+        "japanese": "図書館に本を返します。",
+        "english": "I will return the book from the library.",
+        "furigana": "返[かえ]す",
+        "kana": "かえす",
+        "answer": "かえす"
+      },
+      {
+        "japanese": "無駄な買い物はしません。",
+        "english": "I don't do wasteful shopping.",
+        "furigana": "無駄[むだ]",
+        "kana": "むだ",
+        "answer": "むだ"
+      },
+      {
+        "japanese": "留学する時、ビザが要ります。",
+        "english": "I need a visa to study abroad.",
+        "furigana": "要[い]る",
+        "kana": "いる",
+        "answer": "いる"
+      },
+      {
+        "japanese": "A「このカメラは500,000円です。」 B「えっ？」",
+        "english": "A: This camera is 500,000 yen. B: Really?",
+        "furigana": "えっ",
+        "kana": "えっ",
+        "answer": "えっ"
+      },
+      {
+        "japanese": "本当ですか。",
+        "english": "Is that true?",
+        "furigana": "本当[ほんとう]",
+        "kana": "ほんとう",
+        "answer": "ほんとう"
+      },
+      {
+        "japanese": "嘘じゃありません。本当です。",
+        "english": "It's not a lie. It's true.",
+        "furigana": "嘘[うそ]",
+        "kana": "うそ",
+        "answer": "うそ"
+      },
+      {
+        "japanese": "毎日、お祈りをします。",
+        "english": "I pray every day.",
+        "furigana": "祈[いの]り",
+        "kana": "いのり",
+        "answer": "いのり"
+      },
+      {
+        "japanese": "この絵に触らないで下さい。",
+        "english": "Please do not touch the picture.",
+        "furigana": "触[さわ]る",
+        "kana": "さわる",
+        "answer": "さわる"
+      },
+      {
+        "japanese": "将来、研究者になりたいです。",
+        "english": "I want to become a scholar in the future.",
+        "furigana": "将来[しょうらい]",
+        "kana": "しょうらい",
+        "answer": "しょうらい"
+      },
+      {
+        "japanese": "大きい夢があります。",
+        "english": "I have a big dream.",
+        "furigana": "夢[ゆめ]",
+        "kana": "ゆめ",
+        "answer": "ゆめ"
+      },
+      {
+        "japanese": "亜米利加へ留学します。",
+        "english": "I will study in the United States.",
+        "furigana": "留学[りゅうがく](する)",
+        "kana": "りゅうがく",
+        "answer": "りゅうがく"
+      },
+      {
+        "japanese": "10年ぐらい、経済を研究しています。",
+        "english": "I have been researching economics for about ten years.",
+        "furigana": "研究[けんきゅう](する)",
+        "kana": "けんきゅう",
+        "answer": "けんきゅう"
+      },
+      {
+        "japanese": "旅行の日程を変えました。",
+        "english": "I changed our travel schedule.",
+        "furigana": "日程[にってい]",
+        "kana": "にってい",
+        "answer": "にってい"
+      },
+      {
+        "japanese": "父は経済の研究者です。",
+        "english": "My father is a scholar of economics.",
+        "furigana": "研究者[けんきゅうしゃ]",
+        "kana": "けんきゅうしゃ",
+        "answer": "けんきゅうしゃ"
+      },
+      {
+        "japanese": "兄は大学院の学生です。",
+        "english": "My brother is a graduate school student.",
+        "furigana": "大学院[だいがくいん]",
+        "kana": "だいがくいん",
+        "answer": "だいがくいん"
+      },
+      {
+        "japanese": "山田さんの専門は経済です。",
+        "english": "Yamada-san's expertise is economics.",
+        "furigana": "専門[せんもん]",
+        "kana": "せんもん",
+        "answer": "せんもん"
+      },
+      {
+        "japanese": "大学で経済を勉強しています。",
+        "english": "I am studying economics in college.",
+        "furigana": "経済[けいざい]",
+        "kana": "けいざい",
+        "answer": "けいざい"
+      },
+      {
+        "japanese": "専門は美術です。",
+        "english": "My expertise is art.",
+        "furigana": "美術[びじゅつ]",
+        "kana": "びじゅつ",
+        "answer": "びじゅつ"
+      },
+      {
+        "japanese": "地球の事を研究しています。",
+        "english": "I am researching about the Earth.",
+        "furigana": "地球[ちきゅう]",
+        "kana": "ちきゅう",
+        "answer": "ちきゅう"
+      },
+      {
+        "japanese": "日本の経済に就いて調べています。",
+        "english": "I am researching about the Japanese economy.",
+        "furigana": "に 就[つ]いて",
+        "kana": "について",
+        "answer": "について"
+      },
+      {
+        "japanese": "来年、会社を辞めます。",
+        "english": "I will quit the company next year.",
+        "furigana": "辞[や]める",
+        "kana": "やめる",
+        "answer": "やめる"
+      },
+      {
+        "japanese": "将来の事を考えています。",
+        "english": "I am thinking about the future.",
+        "furigana": "考[かんが]える",
+        "kana": "かんがえる",
+        "answer": "かんがえる"
+      },
+      {
+        "japanese": "もう将来の事を考えましたか。",
+        "english": "A: Did you already think about your future?",
+        "furigana": "もう",
+        "kana": "もう",
+        "answer": "もう"
+      },
+      {
+        "japanese": "宿題は未だ終わっていません。",
+        "english": "I haven't finished my homework yet.",
+        "furigana": "未[ま]だ",
+        "kana": "まだ",
+        "answer": "まだ"
+      },
+      {
+        "japanese": "此れから考えます。",
+        "english": "B: I will think about it from now.",
+        "furigana": "此[こ]れから",
+        "kana": "これから",
+        "answer": "これから"
+      },
+      {
+        "japanese": "このロボットは言葉が分かります。然して、ダンスも出来ます。",
+        "english": "This robot understands words. And it can also dance.",
+        "furigana": "然[そ]して",
+        "kana": "そして",
+        "answer": "そして"
+      },
+      {
+        "japanese": "パーティーの前に買い物をします。",
+        "english": "I will shop before the party.",
+        "furigana": "前[まえ]",
+        "kana": "まえ",
+        "answer": "まえ"
+      },
+      {
+        "japanese": "買い物の後、料理をします。",
+        "english": "I will cook after shopping.",
+        "furigana": "後[あと]",
+        "kana": "あと",
+        "answer": "あと"
+      },
+      {
+        "japanese": "A「もう直ぐパーティーが始まりますよ。」",
+        "english": "The party will start soon.",
+        "furigana": "もう 直[す]ぐ",
+        "kana": "もうすぐ",
+        "answer": "もうすぐ"
+      },
+      {
+        "japanese": "分かりました。直ぐ行きます。",
+        "english": "Okay. I will be there immediately.",
+        "furigana": "直[す]ぐ",
+        "kana": "すぐ",
+        "answer": "すぐ"
+      },
+      {
+        "japanese": "今、レポートを書いています。後で行きます。",
+        "english": "I am writing a report now. I will go later.",
+        "furigana": "後[あと]で",
+        "kana": "あとで",
+        "answer": "あとで"
+      },
+      {
+        "japanese": "亦後で電話を掛けます。",
+        "english": "I will call again later.",
+        "furigana": "亦[また]",
+        "kana": "また",
+        "answer": "また"
+      },
+      {
+        "japanese": "レポートは明日迄に書きます。",
+        "english": "I will write up the report by tomorrow.",
+        "furigana": "迄[まで]に",
+        "kana": "までに",
+        "answer": "までに"
+      },
+      {
+        "japanese": "ですから、今日は何処にも行きません。",
+        "english": "So, I won't go anywhere today.",
+        "furigana": "ですから",
+        "kana": "ですから",
+        "answer": "ですから"
+      },
+      {
+        "japanese": "A「毎日忙しいですか。」 B「そんなに忙しくないです。」",
+        "english": "A: Are you busy every day? B: No, not so much.",
+        "furigana": "そんなに",
+        "kana": "そんなに",
+        "answer": "そんなに"
+      },
+      {
+        "japanese": "豚はすごく鼻が良い。",
+        "english": "Pigs have a very good sense of smell.",
+        "furigana": "豚[ぶた]",
+        "kana": "ぶた",
+        "answer": "ぶた"
+      },
+      {
+        "japanese": "段々難しく成ります。",
+        "english": "It gradually becomes difficult.",
+        "furigana": "段々[だんだん]",
+        "kana": "々だんだん",
+        "answer": "々だんだん"
+      },
+      {
+        "japanese": "A「皆さん、今日はロボットに就いて話します。」",
+        "english": "A: \"Everyone, today we will discuss about robots.\"",
+        "furigana": "皆[みな]さん",
+        "kana": "みなさん",
+        "answer": "みなさん"
+      },
+      {
+        "japanese": "特に漢字が難しいです。",
+        "english": "Kanji are especially difficult.",
+        "furigana": "特[とく]に",
+        "kana": "とくに",
+        "answer": "とくに"
+      },
+      {
+        "japanese": "鼻が痒いです。",
+        "english": "My nose itches.",
+        "furigana": "痒[かゆ]い",
+        "kana": "かゆい",
+        "answer": "かゆい"
+      },
+      {
+        "japanese": "難しいです。中々答えが分かりません。",
+        "english": "It's difficult. I don't quite know the answer.",
+        "furigana": "中[なか]々",
+        "kana": "なか々",
+        "answer": "なか々"
+      },
+      {
+        "japanese": "考えましたが、分かりませんでした。",
+        "english": "I thought about it, but I didn't understand.",
+        "furigana": "が",
+        "kana": "が",
+        "answer": "が"
+      },
+      {
+        "japanese": "研究は難しいですが、面白いです。",
+        "english": "The research is difficult but interesting.",
+        "furigana": "が",
+        "kana": "が",
+        "answer": "が"
+      },
+      {
+        "japanese": "考えたけど、分からなかった。",
+        "english": "I thought about it, but I didn't understand.",
+        "furigana": "けど",
+        "kana": "けど",
+        "answer": "けど"
+      },
+      {
+        "japanese": "研究は難しいけど、面白い。",
+        "english": "The research is difficult but interesting.",
+        "furigana": "けど",
+        "kana": "けど",
+        "answer": "けど"
+      },
+      {
+        "japanese": "あの町は緑を増やしています。",
+        "english": "That town is increasing its greenery.",
+        "furigana": "増[ふ]やす",
+        "kana": "ふやす",
+        "answer": "ふやす"
+      },
+      {
+        "japanese": "A「仕事はどうですか。」 B「そうですね。忙しいですが、面白いです。」",
+        "english": "A: How is your work? B: Let's see. I'm busy, but it's interesting.",
+        "furigana": "そうですね",
+        "kana": "そうですね",
+        "answer": "そうですね"
+      },
+      {
+        "japanese": "A「失礼ですが、お名前は？」 B「山田です。」",
+        "english": "A: Excuse me, but what is your name? B: I'm Yamada.",
+        "furigana": "失礼[しつれい]ですが",
+        "kana": "しつれいですが",
+        "answer": "しつれいですが"
+      },
+      {
+        "japanese": "ホアンさんに住所を聞きます。",
+        "english": "I will ask Huang-san for his address.",
+        "furigana": "聞[き]く",
+        "kana": "きく",
+        "answer": "きく"
+      },
+      {
+        "japanese": "あのー、郵便局はどこですか。",
+        "english": "Excuse me, where is the post office?",
+        "furigana": "あのー",
+        "kana": "あのー",
+        "answer": "あのー"
+      },
+      {
+        "japanese": "えーっと、あそこですよ。でも、今日は休みですよ。",
+        "english": "Um..., it's there. But it's closed today.",
+        "furigana": "えーっと",
+        "kana": "えーっと",
+        "answer": "えーっと"
+      },
+      {
+        "japanese": "A「今日は休みですよ。」 B「どうしてですか。」",
+        "english": "A: But it's closed today. B: Why is that?",
+        "furigana": "どうして",
+        "kana": "どうして",
+        "answer": "どうして"
+      },
+      {
+        "japanese": "A「どうしてですか。」 B「土曜日ですから。」",
+        "english": "A: \"Why is that?\"B: \"Because it's Saturday.\"",
+        "furigana": "ですから",
+        "kana": "ですから",
+        "answer": "ですから"
+      },
+      {
+        "japanese": "そうですか。分かりました。有り難う御座います。",
+        "english": "A: \"Okay, I understand. Thank you.\"",
+        "furigana": "そうですか",
+        "kana": "そうですか",
+        "answer": "そうですか"
+      },
+      {
+        "japanese": "男の人が私達に話しかけた。",
+        "english": "This guy began talking to us.",
+        "furigana": "男[おとこ]の 人[ひと]",
+        "kana": "おとこのひと",
+        "answer": "おとこのひと"
+      },
+      {
+        "japanese": "男の子たちがサッカーをしている。",
+        "english": "The boys are playing soccer.",
+        "furigana": "男[おとこ]の 子[こ]",
+        "kana": "おとこのこ",
+        "answer": "おとこのこ"
+      },
+      {
+        "japanese": "妹は直ぐに泣く。",
+        "english": "My little sister cries easily.",
+        "furigana": "泣[な]く",
+        "kana": "なく",
+        "answer": "なく"
+      },
+      {
+        "japanese": "彼は直ぐに謝りました。",
+        "english": "He apologized at once.",
+        "furigana": "謝[あやま]る",
+        "kana": "あやまる",
+        "answer": "あやまる"
+      },
+      {
+        "japanese": "空",
+        "english": "sky, weather",
+        "furigana": "空[そら]",
+        "kana": "そら",
+        "answer": "そら"
+      },
+      {
+        "japanese": "空が真っ青です。",
+        "english": "The sky is bright blue.",
+        "furigana": "真[ま]っ 青[さお]",
+        "kana": "まっさお",
+        "answer": "まっさお"
+      },
+      {
+        "japanese": "遅刻しないで下さい。",
+        "english": "Please don't be late.",
+        "furigana": "遅刻[ちこく]",
+        "kana": "ちこく",
+        "answer": "ちこく"
+      },
+      {
+        "japanese": "一生のお願いがあります。",
+        "english": "I have a once-in-a-lifetime favor.",
+        "furigana": "一生[いっしょう]",
+        "kana": "いっしょう",
+        "answer": "いっしょう"
+      },
+      {
+        "japanese": "彼は毎日一生懸命働いている。",
+        "english": "He works hard every day.",
+        "furigana": "一生懸命[いっしょうけんめい]",
+        "kana": "いっしょうけんめい",
+        "answer": "いっしょうけんめい"
+      },
+      {
+        "japanese": "雨の音が聞こえる。",
+        "english": "I can hear the sound of rain.",
+        "furigana": "きこえる",
+        "kana": "きこえる",
+        "answer": "きこえる"
+      },
+      {
+        "japanese": "カードの暗証番号を忘れて仕舞った。",
+        "english": "I forgot my PIN.",
+        "furigana": "仕舞[しま]う",
+        "kana": "しまう",
+        "answer": "しまう"
+      },
+      {
+        "japanese": "一緒に宿題を遣ろう。",
+        "english": "Let's do our homework together.",
+        "furigana": "遣[や]る",
+        "kana": "やる",
+        "answer": "やる"
+      },
+      {
+        "japanese": "続きは来週遣りましょう。",
+        "english": "Let's continue next week.",
+        "furigana": "続[つづ]き",
+        "kana": "つづき",
+        "answer": "つづき"
+      },
+      {
+        "japanese": "時の経つのは早い。",
+        "english": "Time passes by quickly.",
+        "furigana": "時[とき]",
+        "kana": "とき",
+        "answer": "とき"
+      },
+      {
+        "japanese": "彼は荷物を網棚に上げた。",
+        "english": "He put the luggage on the luggage rack.",
+        "furigana": "上[あ]げる",
+        "kana": "あげる",
+        "answer": "あげる"
+      },
+      {
+        "japanese": "さっきの話を続けましょう。",
+        "english": "Let's continue the conversation we had earlier.",
+        "furigana": "さっき",
+        "kana": "さっき",
+        "answer": "さっき"
+      },
+      {
+        "japanese": "新しい年が始まりました。",
+        "english": "A new year has started.",
+        "furigana": "年[とし]",
+        "kana": "とし",
+        "answer": "とし"
+      },
+      {
+        "japanese": "毎日金魚に餌を遣ります。",
+        "english": "I feed the goldfish everyday.",
+        "furigana": "餌[えさ]",
+        "kana": "えさ",
+        "answer": "えさ"
+      },
+      {
+        "japanese": "犬に餌を遣った。",
+        "english": "I fed the dog.",
+        "furigana": "遣[や]る",
+        "kana": "やる",
+        "answer": "やる"
+      },
+      {
+        "japanese": "仕事を続けて下さい。",
+        "english": "Please continue working.",
+        "furigana": "続[つづ]ける",
+        "kana": "つづける",
+        "answer": "つづける"
+      },
+      {
+        "japanese": "次の方、どうぞ。",
+        "english": "Next person, please.",
+        "furigana": "方[かた]",
+        "kana": "かた",
+        "answer": "かた"
+      },
+      {
+        "japanese": "コップが落ちて割れた。",
+        "english": "The glass fell and broke.",
+        "furigana": "割[わ]れる",
+        "kana": "われる",
+        "answer": "われる"
+      },
+      {
+        "japanese": "彼は意外に気が小さい。",
+        "english": "He's unexpectedly timid.",
+        "furigana": "気[き]",
+        "kana": "き",
+        "answer": "き"
+      },
+      {
+        "japanese": "こう小さい字は読めない。",
+        "english": "I can't read such small letters.",
+        "furigana": "こう",
+        "kana": "こう",
+        "answer": "こう"
+      },
+      {
+        "japanese": "あの店員は迚も親切です。",
+        "english": "That shop clerk is very kind.",
+        "furigana": "店員[てんいん]",
+        "kana": "てんいん",
+        "answer": "てんいん"
+      },
+      {
+        "japanese": "店員は若い女の人でした。",
+        "english": "The salesclerk was a young woman.",
+        "furigana": "女[おんな]",
+        "kana": "おんな",
+        "answer": "おんな"
+      },
+      {
+        "japanese": "後ろの席が空いています。",
+        "english": "The rear seat is empty.",
+        "furigana": "空[す]く",
+        "kana": "すく",
+        "answer": "すく"
+      },
+      {
+        "japanese": "男子はこっちに並んで。",
+        "english": "Boys, you line up here.",
+        "furigana": "男子[だんし]",
+        "kana": "だんし",
+        "answer": "だんし"
+      },
+      {
+        "japanese": "彼の気持ちが分からない。",
+        "english": "I don't understand his feelings.",
+        "furigana": "気持[きも]ち",
+        "kana": "きもち",
+        "answer": "きもち"
+      },
+      {
+        "japanese": "もっと近くに来て下さい。",
+        "english": "Please come closer.",
+        "furigana": "もっと",
+        "kana": "もっと",
+        "answer": "もっと"
+      },
+      {
+        "japanese": "ここから富士山がよく見えます。",
+        "english": "You can see Mount Fuji well from here.",
+        "furigana": "見[み]える",
+        "kana": "みえる",
+        "answer": "みえる"
+      },
+      {
+        "japanese": "彼は子供のお尻を叩いた。",
+        "english": "He slapped his child on the bottom.",
+        "furigana": "お 尻[しり]",
+        "kana": "おしり",
+        "answer": "おしり"
+      },
+      {
+        "japanese": "家に遊びに来て下さい。",
+        "english": "Please come over to my house.",
+        "furigana": "家[うち]",
+        "kana": "うち",
+        "answer": "うち"
+      },
+      {
+        "japanese": "肩",
+        "english": "shoulder",
+        "furigana": "肩[かた]",
+        "kana": "かた",
+        "answer": "かた"
+      },
+      {
+        "japanese": "そんなことは絶対出来無いよ。",
+        "english": "I can never ever do such a thing.",
+        "furigana": "絶対[ぜったい]",
+        "kana": "ぜったい",
+        "answer": "ぜったい"
+      },
+      {
+        "japanese": "肩が凝りました。",
+        "english": "My shoulders are stiff.",
+        "furigana": "凝[こ]る",
+        "kana": "こる",
+        "answer": "こる"
+      },
+      {
+        "japanese": "電車のドアが開きました。",
+        "english": "The train door opened.",
+        "furigana": "開[あ]く",
+        "kana": "あく",
+        "answer": "あく"
+      },
+      {
+        "japanese": "後ろから行き成り肩を叩かれた。",
+        "english": "Someone suddenly tapped on my shoulder from behind.",
+        "furigana": "いきなり",
+        "kana": "いきなり",
+        "answer": "いきなり"
+      },
+      {
+        "japanese": "新しい仕事を見付けました。",
+        "english": "I found a new job.",
+        "furigana": "見[み]付[つ]ける",
+        "kana": "みつける",
+        "answer": "みつける"
+      },
+      {
+        "japanese": "彼は可也英語が上手です。",
+        "english": "He's pretty good at English.",
+        "furigana": "可也[かなり]",
+        "kana": "かなり",
+        "answer": "かなり"
+      },
+      {
+        "japanese": "教科書を閉じて下さい。",
+        "english": "Please close your textbooks.",
+        "furigana": "閉[と]じる",
+        "kana": "とじる",
+        "answer": "とじる"
+      },
+      {
+        "japanese": "そのパーティーに女性は何人来ますか。",
+        "english": "How many women are coming to that party?",
+        "furigana": "女性[じょせい]",
+        "kana": "じょせい",
+        "answer": "じょせい"
+      },
+      {
+        "japanese": "女性が近付いてきました。",
+        "english": "A woman approached me.",
+        "furigana": "近付[ちかづ]く",
+        "kana": "ちかづく",
+        "answer": "ちかづく"
+      },
+      {
+        "japanese": "レストランは空いていました。",
+        "english": "The restaurant was empty.",
+        "furigana": "空[す]く",
+        "kana": "すく",
+        "answer": "すく"
+      },
+      {
+        "japanese": "その店員は不親切だった。",
+        "english": "That store clerk was unkind.",
+        "furigana": "不親切[ふしんせつ]",
+        "kana": "ふしんせつ",
+        "answer": "ふしんせつ"
+      },
+      {
+        "japanese": "絶対に駄目です。",
+        "english": "Absolutely not.",
+        "furigana": "絶対[ぜったい]に",
+        "kana": "ぜったいに",
+        "answer": "ぜったいに"
+      },
+      {
+        "japanese": "一体何の騒ぎですか。",
+        "english": "What on earth is the commotion?",
+        "furigana": "騒[さわ]ぎ",
+        "kana": "さわぎ",
+        "answer": "さわぎ"
+      },
+      {
+        "japanese": "彼は如何にもスポーツマンらしいですね。",
+        "english": "He indeed looks like a sportsman.",
+        "furigana": "如何[いか]にも",
+        "kana": "いかにも",
+        "answer": "いかにも"
+      },
+      {
+        "japanese": "メガネが見付かりません。",
+        "english": "I can't find my glasses.",
+        "furigana": "見付[みつ]かる",
+        "kana": "みつかる",
+        "answer": "みつかる"
+      },
+      {
+        "japanese": "今日の交通事故はゼロです。",
+        "english": "Today there were zero traffic accidents.",
+        "furigana": "ゼロ",
+        "kana": "ゼロ",
+        "answer": "ぜろ"
+      },
+      {
+        "japanese": "私は他人に住所を教えたくない。",
+        "english": "I don't want to tell my address to other people.",
+        "furigana": "他人[たにん]",
+        "kana": "たにん",
+        "answer": "たにん"
+      },
+      {
+        "japanese": "他人に知れると不味い事に成るわね。",
+        "english": "This would be terrible if others found out about it.",
+        "furigana": "知[し]れる",
+        "kana": "しれる",
+        "answer": "しれる"
+      },
+      {
+        "japanese": "自分の失敗を他人の所為にするな。",
+        "english": "Don't blame others for your failure.",
+        "furigana": "所為[しょい]",
+        "kana": "しょい",
+        "answer": "しょい"
+      },
+      {
+        "japanese": "分からない場合は私に聞いて下さい。",
+        "english": "Please ask me if you don't understand.",
+        "furigana": "場合[ばあい]",
+        "kana": "ばあい",
+        "answer": "ばあい"
+      },
+      {
+        "japanese": "話すのを止めて下さい。",
+        "english": "Stop talking, please.",
+        "furigana": "止[や]める",
+        "kana": "やめる",
+        "answer": "やめる"
+      },
+      {
+        "japanese": "彼は毎晩3キロ走っています。",
+        "english": "Every night he runs three kilometers.",
+        "furigana": "走[はし]る",
+        "kana": "はしる",
+        "answer": "はしる"
+      },
+      {
+        "japanese": "彼は走るのが速い。",
+        "english": "He runs fast.",
+        "furigana": "速[はや]い",
+        "kana": "はやい",
+        "answer": "はやい"
+      },
+      {
+        "japanese": "時が過ぎるのは速い。",
+        "english": "Time passes quickly.",
+        "furigana": "過[す]ぎる",
+        "kana": "すぎる",
+        "answer": "すぎる"
+      },
+      {
+        "japanese": "このスープは迚も熱い。",
+        "english": "This soup is very hot.",
+        "furigana": "熱[あつ]い",
+        "kana": "あつい",
+        "answer": "あつい"
+      },
+      {
+        "japanese": "彼は帰国しました。",
+        "english": "He returned to his country.",
+        "furigana": "帰国[きこく]",
+        "kana": "きこく",
+        "answer": "きこく"
+      },
+      {
+        "japanese": "帰国することに決めました。",
+        "english": "I've decided to go back to my country.",
+        "furigana": "決[き]める",
+        "kana": "きめる",
+        "answer": "きめる"
+      },
+      {
+        "japanese": "旅行の日程が決まりました。",
+        "english": "I've decided on my travel schedule.",
+        "furigana": "決[き]まる",
+        "kana": "きまる",
+        "answer": "きまる"
+      },
+      {
+        "japanese": "皆一生懸命生きている。",
+        "english": "They're all living their lives the best way that they can.",
+        "furigana": "生[い]きる",
+        "kana": "いきる",
+        "answer": "いきる"
+      },
+      {
+        "japanese": "彼の家に荷物を送りました。",
+        "english": "I sent a package to his house.",
+        "furigana": "送[おく]る",
+        "kana": "おくる",
+        "answer": "おくる"
+      },
+      {
+        "japanese": "東京行きの最終電車は何時ですか。",
+        "english": "What time is the last train for Tokyo?",
+        "furigana": "最終[さいしゅう]",
+        "kana": "さいしゅう",
+        "answer": "さいしゅう"
+      },
+      {
+        "japanese": "彼は大きな声で話した。",
+        "english": "He spoke loudly.",
+        "furigana": "声[こえ]",
+        "kana": "こえ",
+        "answer": "こえ"
+      },
+      {
+        "japanese": "彼は矢張り遅刻しました。",
+        "english": "He was late, as expected.",
+        "furigana": "矢張[やは]り",
+        "kana": "やはり",
+        "answer": "やはり"
+      },
+      {
+        "japanese": "彼処に綺麗な鳥がいます。",
+        "english": "There's a beautiful bird there.",
+        "furigana": "鳥[とり]",
+        "kana": "とり",
+        "answer": "とり"
+      },
+      {
+        "japanese": "鳥が飛んでいます。",
+        "english": "A bird is flying.",
+        "furigana": "飛[と]ぶ",
+        "kana": "とぶ",
+        "answer": "とぶ"
+      },
+      {
+        "japanese": "誕生日に小鳥を買って貰いました。",
+        "english": "I was bought a small bird for my birthday.",
+        "furigana": "小鳥[ことり]",
+        "kana": "ことり",
+        "answer": "ことり"
+      },
+      {
+        "japanese": "世界の歴史をもっと勉強したいです。",
+        "english": "I want to study world history more.",
+        "furigana": "歴史[れきし]",
+        "kana": "れきし",
+        "answer": "れきし"
+      },
+      {
+        "japanese": "私は歴史に興味があります。",
+        "english": "I'm interested in history.",
+        "furigana": "興味[きょうみ]",
+        "kana": "きょうみ",
+        "answer": "きょうみ"
+      },
+      {
+        "japanese": "彼は新製品に興味を示している。",
+        "english": "He's showing interest in the new product.",
+        "furigana": "示[しめ]す",
+        "kana": "しめす",
+        "answer": "しめす"
+      },
+      {
+        "japanese": "頑張ったので褒められました。",
+        "english": "He was praised because worked hard.",
+        "furigana": "褒[ほ]める",
+        "kana": "ほめる",
+        "answer": "ほめる"
+      },
+      {
+        "japanese": "明日、6時に起こして下さい。",
+        "english": "Please wake me up tomorrow at six o'clock.",
+        "furigana": "起[お]こす",
+        "kana": "おこす",
+        "answer": "おこす"
+      },
+      {
+        "japanese": "彼は海外での生活が長いです。",
+        "english": "He's lived abroad for a long time.",
+        "furigana": "海外[かいがい]",
+        "kana": "かいがい",
+        "answer": "かいがい"
+      },
+      {
+        "japanese": "私は毎年、海外旅行に行きます。",
+        "english": "I travel abroad every year.",
+        "furigana": "毎年[まいとし]",
+        "kana": "まいとし",
+        "answer": "まいとし"
+      },
+      {
+        "japanese": "グラスの数が足りません。",
+        "english": "There are not enough glasses.",
+        "furigana": "数[かず]",
+        "kana": "かず",
+        "answer": "かず"
+      },
+      {
+        "japanese": "皆で自然を守りましょう。",
+        "english": "Let's all work to protect Nature.",
+        "furigana": "自然[しぜん]",
+        "kana": "しぜん",
+        "answer": "しぜん"
+      },
+      {
+        "japanese": "ここが建物の中心です。",
+        "english": "This is the center of the building.",
+        "furigana": "中心[ちゅうしん]",
+        "kana": "ちゅうしん",
+        "answer": "ちゅうしん"
+      },
+      {
+        "japanese": "会社のパソコンが壊れた。",
+        "english": "The company computer broke down.",
+        "furigana": "壊[こわ]れる",
+        "kana": "こわれる",
+        "answer": "こわれる"
+      },
+      {
+        "japanese": "掃除機が壊れた。",
+        "english": "The vacuum cleaner broke.",
+        "furigana": "掃除機[そうじき]",
+        "kana": "そうじき",
+        "answer": "そうじき"
+      },
+      {
+        "japanese": "彼女は倶楽部で踊るのが好きです。",
+        "english": "She likes to dance at the club.",
+        "furigana": "踊[おど]る",
+        "kana": "おどる",
+        "answer": "おどる"
+      },
+      {
+        "japanese": "私は下着を手で洗う。",
+        "english": "I wash my underwear by hand.",
+        "furigana": "下着[したぎ]",
+        "kana": "したぎ",
+        "answer": "したぎ"
+      },
+      {
+        "japanese": "怪我",
+        "english": "injury; wound; point of harm/hurt",
+        "furigana": "怪我[けが]",
+        "kana": "けが",
+        "answer": "けが"
+      },
+      {
+        "japanese": "彼は事故で怪我をしました。",
+        "english": "He was injured in the accident.",
+        "furigana": "事故[じこ]",
+        "kana": "じこ",
+        "answer": "じこ"
+      },
+      {
+        "japanese": "彼は交通事故を起こした。",
+        "english": "He caused a traffic accident.",
+        "furigana": "交通事故[こうつうじこ]",
+        "kana": "こうつうじこ",
+        "answer": "こうつうじこ"
+      },
+      {
+        "japanese": "一般の方は此方の席へどうぞ。",
+        "english": "General seating is over here.",
+        "furigana": "一般[いっぱん]",
+        "kana": "いっぱん",
+        "answer": "いっぱん"
+      },
+      {
+        "japanese": "彼は肘に怪我をした。",
+        "english": "He injured his elbow.",
+        "furigana": "肘[ひじ]",
+        "kana": "ひじ",
+        "answer": "ひじ"
+      },
+      {
+        "japanese": "彼は交通事故に遭った。",
+        "english": "He had a traffic accident.",
+        "furigana": "遭[あ]う",
+        "kana": "あう",
+        "answer": "あう"
+      },
+      {
+        "japanese": "スキーで膝を怪我しました。",
+        "english": "I injured my knee skiing.",
+        "furigana": "膝[ひざ]",
+        "kana": "ひざ",
+        "answer": "ひざ"
+      },
+      {
+        "japanese": "痛み",
+        "english": "pain",
+        "furigana": "痛[いた]み",
+        "kana": "いたみ",
+        "answer": "いたみ"
+      },
+      {
+        "japanese": "膝に痛みを感じます。",
+        "english": "I feel a pain in my knee.",
+        "furigana": "感[かん]じる",
+        "kana": "かんじる",
+        "answer": "かんじる"
+      },
+      {
+        "japanese": "胸に少し痛みがあります。",
+        "english": "I have a slight pain in my chest.",
+        "furigana": "胸[むね]",
+        "kana": "むね",
+        "answer": "むね"
+      },
+      {
+        "japanese": "彼の日本語のレベルは私と同じ位だ。",
+        "english": "His Japanese level is about the same as mine.",
+        "furigana": "同[おな]じ",
+        "kana": "おなじ",
+        "answer": "おなじ"
+      },
+      {
+        "japanese": "私の町は東京の北に位置します。",
+        "english": "My town is located north of Tokyo.",
+        "furigana": "位置[いち]",
+        "kana": "いち",
+        "answer": "いち"
+      },
+      {
+        "japanese": "首",
+        "english": "neck",
+        "furigana": "首[くび]",
+        "kana": "くび",
+        "answer": "くび"
+      },
+      {
+        "japanese": "乳首",
+        "english": "nipple(s)",
+        "furigana": "乳首[ちくび]",
+        "kana": "ちくび",
+        "answer": "ちくび"
+      },
+      {
+        "japanese": "麒麟の首は長い。",
+        "english": "Giraffes' necks are long.",
+        "furigana": "麒麟[きりん]",
+        "kana": "きりん",
+        "answer": "きりん"
+      },
+      {
+        "japanese": "彼女が怒るのも当然だ。",
+        "english": "It's natural that she should be angry.",
+        "furigana": "怒[おこ]る",
+        "kana": "おこる",
+        "answer": "おこる"
+      },
+      {
+        "japanese": "私は馬鹿だった。",
+        "english": "I was foolish.",
+        "furigana": "馬鹿[ばか]",
+        "kana": "ばか",
+        "answer": "ばか"
+      },
+      {
+        "japanese": "私の話を落ち着いて聞いて下さい。",
+        "english": "Calm down and listen to me.",
+        "furigana": "落[お]ち 着[つ]く",
+        "kana": "おちつく",
+        "answer": "おちつく"
+      },
+      {
+        "japanese": "彼はキリストを信じている。",
+        "english": "He believes in Christ.",
+        "furigana": "信[しん]じる",
+        "kana": "しんじる",
+        "answer": "しんじる"
+      },
+      {
+        "japanese": "彼は神を信じている。",
+        "english": "He believes in God.",
+        "furigana": "神[かみ]",
+        "kana": "かみ",
+        "answer": "かみ"
+      },
+      {
+        "japanese": "昨日から腰が痛い。",
+        "english": "I've had a pain in my lower back since yesterday.",
+        "furigana": "腰[こし]",
+        "kana": "こし",
+        "answer": "こし"
+      },
+      {
+        "japanese": "顎が痛い。",
+        "english": "My jaw hurts.",
+        "furigana": "顎[あご]",
+        "kana": "あご",
+        "answer": "あご"
+      },
+      {
+        "japanese": "辺り",
+        "english": "vicinity, area (around something)",
+        "furigana": "辺[あた]り",
+        "kana": "あたり",
+        "answer": "あたり"
+      },
+      {
+        "japanese": "辺りを見回したの。",
+        "english": "We looked around the area.",
+        "furigana": "見回[みまわ]す",
+        "kana": "みまわす",
+        "answer": "みまわす"
+      },
+      {
+        "japanese": "母は毎朝ご飯を炊く。",
+        "english": "My mother cooks rice every morning.",
+        "furigana": "炊[た]く",
+        "kana": "たく",
+        "answer": "たく"
+      },
+      {
+        "japanese": "隠れる",
+        "english": "to hide to be hidden, to conceal oneself",
+        "furigana": "隠[かく]れる",
+        "kana": "かくれる",
+        "answer": "かくれる"
+      },
+      {
+        "japanese": "太陽が雲に隠れた。",
+        "english": "The sun hid behind the clouds.",
+        "furigana": "太陽[たいよう]",
+        "kana": "たいよう",
+        "answer": "たいよう"
+      },
+      {
+        "japanese": "背中が痒いです。",
+        "english": "My back itches.",
+        "furigana": "背中[せなか]",
+        "kana": "せなか",
+        "answer": "せなか"
+      },
+      {
+        "japanese": "足の傷が痛みます。",
+        "english": "The wound in my foot hurts.",
+        "furigana": "傷[きず]",
+        "kana": "きず",
+        "answer": "きず"
+      },
+      {
+        "japanese": "手の傷が悪化した。",
+        "english": "The wound in my hand has gotten worse.",
+        "furigana": "悪化[あっか]",
+        "kana": "あっか",
+        "answer": "あっか"
+      },
+      {
+        "japanese": "うちの息子は大学1年生です。",
+        "english": "My son's a college freshman.",
+        "furigana": "息子[むすこ]",
+        "kana": "むすこ",
+        "answer": "むすこ"
+      },
+      {
+        "japanese": "うちの息子は来年、小学生に成ります。",
+        "english": "Our son will start primary school next year.",
+        "furigana": "小学生[しょうがくせい]",
+        "kana": "しょうがくせい",
+        "answer": "しょうがくせい"
+      },
+      {
+        "japanese": "息子は中学生です。",
+        "english": "My son is a middle school student.",
+        "furigana": "中学生[ちゅうがくせい]",
+        "kana": "ちゅうがくせい",
+        "answer": "ちゅうがくせい"
+      },
+      {
+        "japanese": "私の弟は高校生です。",
+        "english": "My little brother's a high school student.",
+        "furigana": "高校生[こうこうせい]",
+        "kana": "こうこうせい",
+        "answer": "こうこうせい"
+      },
+      {
+        "japanese": "遠くに船が見えます。",
+        "english": "I can see a ship in the distance.",
+        "furigana": "遠[とお]く",
+        "kana": "とおく",
+        "answer": "とおく"
+      },
+      {
+        "japanese": "遠くに彼女の姿が見えた。",
+        "english": "I saw her figure from a long way away.",
+        "furigana": "姿[すがた]",
+        "kana": "すがた",
+        "answer": "すがた"
+      },
+      {
+        "japanese": "信号が青に変わりました。",
+        "english": "The traffic light turned green.",
+        "furigana": "変[か]わる",
+        "kana": "かわる",
+        "answer": "かわる"
+      },
+      {
+        "japanese": "新しい靴が迚も気に入りました。",
+        "english": "I really like my new shoes.",
+        "furigana": "気[き]に 入[い]る",
+        "kana": "きにいる",
+        "answer": "きにいる"
+      },
+      {
+        "japanese": "心",
+        "english": "heart (organ); heart (emotional concept); heart(metaphor)",
+        "furigana": "心[こころ]",
+        "kana": "こころ",
+        "answer": "こころ"
+      },
+      {
+        "japanese": "このプログラムは迚も複雑です。",
+        "english": "This program is very complicated.",
+        "furigana": "複雑[ふくざつ]",
+        "kana": "ふくざつ",
+        "answer": "ふくざつ"
+      },
+      {
+        "japanese": "人間の心は複雑です。",
+        "english": "Man's mind is complex.",
+        "furigana": "人間[にんげん]",
+        "kana": "にんげん",
+        "answer": "にんげん"
+      },
+      {
+        "japanese": "彼はシートベルトを締めた。",
+        "english": "He fastened his seat belt.",
+        "furigana": "締[し]める",
+        "kana": "しめる",
+        "answer": "しめる"
+      },
+      {
+        "japanese": "彼女は足が太い。",
+        "english": "She has fat legs.",
+        "furigana": "太[ふと]い",
+        "kana": "ふとい",
+        "answer": "ふとい"
+      },
+      {
+        "japanese": "彼の腕は太い。",
+        "english": "He has fat arms.",
+        "furigana": "腕[うで]",
+        "kana": "うで",
+        "answer": "うで"
+      },
+      {
+        "japanese": "泰で象を見ました。",
+        "english": "I saw an elephant in Thailand.",
+        "furigana": "象[ぞう]",
+        "kana": "ぞう",
+        "answer": "ぞう"
+      },
+      {
+        "japanese": "家族にお土産を買います。",
+        "english": "I bought souvenirs for the family.",
+        "furigana": "土産[みやげ]",
+        "kana": "みやげ",
+        "answer": "みやげ"
+      },
+      {
+        "japanese": "大学迄何の位掛りますか。",
+        "english": "How long will it take to get to the university?",
+        "furigana": "何[ど]の 位[くらい]",
+        "kana": "どのくらい",
+        "answer": "どのくらい"
+      },
+      {
+        "japanese": "電気屋を呼びます。",
+        "english": "I will call the electrician.",
+        "furigana": "呼[よ]ぶ",
+        "kana": "よぶ",
+        "answer": "よぶ"
+      },
+      {
+        "japanese": "A「このロボットは色々なことが出来ます。」 B「へえ、それは凄いですね。」",
+        "english": "A: \"This robot can do many things.\" B: \"Wow, that's amazing.\"",
+        "furigana": "凄[すご]い",
+        "kana": "すごい",
+        "answer": "すごい"
+      },
+      {
+        "japanese": "珈琲をもう一杯下さい。",
+        "english": "Please give me another cup of coffee.",
+        "furigana": "もう",
+        "kana": "もう",
+        "answer": "もう"
+      },
+      {
+        "japanese": "私の犬です。",
+        "english": "It's my dog.",
+        "furigana": "犬[いぬ]",
+        "kana": "いぬ",
+        "answer": "いぬ"
+      },
+      {
+        "japanese": "私の姉です。",
+        "english": "She's my sister.",
+        "furigana": "姉[あね]",
+        "kana": "あね",
+        "answer": "あね"
+      },
+      {
+        "japanese": "彼は私の兄です。",
+        "english": "He is my elder brother.",
+        "furigana": "兄[あに]",
+        "kana": "あに",
+        "answer": "あに"
+      },
+      {
+        "japanese": "これが私の弟です。",
+        "english": "This is my younger brother.",
+        "furigana": "弟[おとうと]",
+        "kana": "おとうと",
+        "answer": "おとうと"
+      },
+      {
+        "japanese": "田中さんは会社員です。",
+        "english": "Mr. Tanaka is an office worker.",
+        "furigana": "会社員[かいしゃいん]",
+        "kana": "かいしゃいん",
+        "answer": "かいしゃいん"
+      },
+      {
+        "japanese": "はい、私は中国人です。",
+        "english": "Yes, I am Chinese.",
+        "furigana": "中国[ちゅうごく]",
+        "kana": "ちゅうごく",
+        "answer": "ちゅうごく"
+      },
+      {
+        "japanese": "私には兄が二人います。",
+        "english": "I have two brothers.",
+        "furigana": "二人[ふたり]",
+        "kana": "ふたり",
+        "answer": "ふたり"
+      },
+      {
+        "japanese": "私は兄弟が三人います。",
+        "english": "I have three siblings.",
+        "furigana": "三[さん] 人[にん]",
+        "kana": "さんにん",
+        "answer": "さんにん"
+      },
+      {
+        "japanese": "私たちは四人家族です。",
+        "english": "We have a family of four.",
+        "furigana": "四[よ]人[にん]",
+        "kana": "よにん",
+        "answer": "よにん"
+      },
+      {
+        "japanese": "綺麗な女の人。",
+        "english": "A pretty woman.",
+        "furigana": "女[おんな]の 人[ひと]",
+        "kana": "おんなのひと",
+        "answer": "おんなのひと"
+      },
+      {
+        "japanese": "その人は韓国人です。",
+        "english": "That person is a Korean.",
+        "furigana": "韓国[かんこく]",
+        "kana": "かんこく",
+        "answer": "かんこく"
+      },
+      {
+        "japanese": "その人は台湾人ですか？",
+        "english": "Is that person a Taiwanese person?",
+        "furigana": "台湾[たいわん]",
+        "kana": "たいわん",
+        "answer": "たいわん"
+      },
+      {
+        "japanese": "濠太剌利から来ました。",
+        "english": "I'm from Australia.",
+        "furigana": "濠太剌利[おーすとらりあ]",
+        "kana": "おーすとらりあ",
+        "answer": "おーすとらりあ"
+      },
+      {
+        "japanese": "彼は亜米利加人です。",
+        "english": "He is an American.",
+        "furigana": "亜米利加[あめりか]",
+        "kana": "あめりか",
+        "answer": "あめりか"
+      },
+      {
+        "japanese": "その人たちは加奈陀人でした。",
+        "english": "Those people were Canadians.",
+        "furigana": "加奈陀[かなだ]",
+        "kana": "かなだ",
+        "answer": "かなだ"
+      },
+      {
+        "japanese": "彼女は墨西哥から来ました。",
+        "english": "She's from Mexico.",
+        "furigana": "墨西哥[めきしこ]",
+        "kana": "めきしこ",
+        "answer": "めきしこ"
+      },
+      {
+        "japanese": "伯剌西爾から来ました。",
+        "english": "I'm from Brazil.",
+        "furigana": "伯剌西爾[ぶらじる]",
+        "kana": "ぶらじる",
+        "answer": "ぶらじる"
+      },
+      {
+        "japanese": "露西亜は大きい国です。",
+        "english": "Russia is a big country.",
+        "furigana": "露西亜[ろしあ]",
+        "kana": "ろしあ",
+        "answer": "ろしあ"
+      },
+      {
+        "japanese": "私は英吉利人ではありません。",
+        "english": "I am not British.",
+        "furigana": "英吉利[いぎりす]",
+        "kana": "いぎりす",
+        "answer": "いぎりす"
+      },
+      {
+        "japanese": "先生は仏蘭西人です。",
+        "english": "The teacher is a French person.",
+        "furigana": "仏蘭西[ふらんす]",
+        "kana": "ふらんす",
+        "answer": "ふらんす"
+      },
+      {
+        "japanese": "先生は独逸人ではありません。",
+        "english": "The teacher is not a German person.",
+        "furigana": "独逸[どいつ]",
+        "kana": "どいつ",
+        "answer": "どいつ"
+      },
+      {
+        "japanese": "伊太利語ですか？",
+        "english": "Is it Italian (language)?",
+        "furigana": "伊太利[いたりあ]",
+        "kana": "いたりあ",
+        "answer": "いたりあ"
+      },
+      {
+        "japanese": "西班牙の地図",
+        "english": "map of Spain",
+        "furigana": "西班牙[すぺいん]",
+        "kana": "すぺいん",
+        "answer": "すぺいん"
+      },
+      {
+        "japanese": "ルシオンさんは１月から加奈陀にいます。",
+        "english": "Lucien has been in Canada since January.",
+        "furigana": "1月[いちがつ]",
+        "kana": "1いちがつ",
+        "answer": "1いちがつ"
+      },
+      {
+        "japanese": "2月でした。",
+        "english": "It was February.",
+        "furigana": "2月[にがつ]",
+        "kana": "2にがつ",
+        "answer": "2にがつ"
+      },
+      {
+        "japanese": "4月から大学生です。",
+        "english": "I'll be a university student in April.",
+        "furigana": "4月[しがつ]",
+        "kana": "4しがつ",
+        "answer": "4しがつ"
+      },
+      {
+        "japanese": "5月ですね。",
+        "english": "It’s May, isn’t it?",
+        "furigana": "5月[ごがつ]",
+        "kana": "5ごがつ",
+        "answer": "5ごがつ"
+      },
+      {
+        "japanese": "6月に行きませんか？",
+        "english": "Do you wanna go (somewhere) in June?",
+        "furigana": "6月[ろくがつ]",
+        "kana": "6ろくがつ",
+        "answer": "6ろくがつ"
+      },
+      {
+        "japanese": "7月でしたね。",
+        "english": "It was July, wasn’t it?",
+        "furigana": "7月[しちがつ]",
+        "kana": "7しちがつ",
+        "answer": "7しちがつ"
+      },
+      {
+        "japanese": "8月学校は休みです。",
+        "english": "The school is closed in August.",
+        "furigana": "8月[はちがつ]",
+        "kana": "8はちがつ",
+        "answer": "8はちがつ"
+      },
+      {
+        "japanese": "9月に帰ります。",
+        "english": "I will return in September.",
+        "furigana": "9月[くがつ]",
+        "kana": "9くがつ",
+        "answer": "9くがつ"
+      },
+      {
+        "japanese": "10月に行きましょう。",
+        "english": "Let’s go in October.",
+        "furigana": "10月[じゅうがつ]",
+        "kana": "10じゅうがつ",
+        "answer": "10じゅうがつ"
+      },
+      {
+        "japanese": "12月でしょう。",
+        "english": "It will probably be December.",
+        "furigana": "12月[じゅうにがつ]",
+        "kana": "12じゅうにがつ",
+        "answer": "12じゅうにがつ"
+      },
+      {
+        "japanese": "お名前を片仮名で書いて下さい。",
+        "english": "Please write your name in katakana.",
+        "furigana": "片仮名[かたかな]",
+        "kana": "かたかな",
+        "answer": "かたかな"
+      },
+      {
+        "japanese": "漢字が好きです。",
+        "english": "I like kanji.",
+        "furigana": "漢字[かんじ]",
+        "kana": "かんじ",
+        "answer": "かんじ"
+      },
+      {
+        "japanese": "羅馬字で名前を書いて下さい。",
+        "english": "Please write your name in rõmaji.",
+        "furigana": "羅馬字[ろーまじ]",
+        "kana": "ろーまじ",
+        "answer": "ろーまじ"
+      },
+      {
+        "japanese": "母は銀行員です。",
+        "english": "My mother is a bank employee.",
+        "furigana": "銀行員[ぎんこういん]",
+        "kana": "ぎんこういん",
+        "answer": "ぎんこういん"
+      },
+      {
+        "japanese": "医者に行きます。",
+        "english": "I'll go see a doctor.",
+        "furigana": "医者[いしゃ]・ お 医者[いしゃ]さん",
+        "kana": "いしゃ・おいしゃさん",
+        "answer": "いしゃ・おいしゃさん"
+      },
+      {
+        "japanese": "私たちは看護師です。",
+        "english": "We are nurses.",
+        "furigana": "看護師[かんごし]・ 看護師[かんごし]さん",
+        "kana": "かんごし・かんごしさん",
+        "answer": "かんごし・かんごしさん"
+      },
+      {
+        "japanese": "彼は社長です。",
+        "english": "He's the boss.",
+        "furigana": "社長[しゃちょう]",
+        "kana": "しゃちょう",
+        "answer": "しゃちょう"
+      },
+      {
+        "japanese": "田中さんはいい部長です。",
+        "english": "Mr./Ms. Tanaka is a good manager.",
+        "furigana": "部長[ぶちょう]",
+        "kana": "ぶちょう",
+        "answer": "ぶちょう"
+      },
+      {
+        "japanese": "はい、私は会社員です。",
+        "english": "Yes, I'm an office worker.",
+        "furigana": "社員[しゃいん]",
+        "kana": "しゃいん",
+        "answer": "しゃいん"
+      },
+      {
+        "japanese": "咖哩ライスはスプーンで食べます。",
+        "english": "You eat curry and rice with a spoon.",
+        "furigana": "咖哩[カレー]ライス",
+        "kana": "カレーライス",
+        "answer": "かれーらいす"
+      },
+      {
+        "japanese": "あれは私の携帯電話です。",
+        "english": "That's my cellular phone.",
+        "furigana": "携帯[けいたい]",
+        "kana": "けいたい",
+        "answer": "けいたい"
+      },
+      {
+        "japanese": "ボールペンで書いて下さい。",
+        "english": "Write with a ballpoint pen.",
+        "furigana": "ボールペン",
+        "kana": "ボールペン",
+        "answer": "ぼーるぺん"
+      },
+      {
+        "japanese": "セロテープはありますか？",
+        "english": "Do you have any scotch tape?",
+        "furigana": "セロテープ",
+        "kana": "セロテープ",
+        "answer": "せろてーぷ"
+      },
+      {
+        "japanese": "ケーキを二個食べた。",
+        "english": "I had two pieces of cake.",
+        "furigana": "二[に]個[こ]",
+        "kana": "にこ",
+        "answer": "にこ"
+      },
+      {
+        "japanese": "一時です。",
+        "english": "It's one o’clock.",
+        "furigana": "1[いち]時[じ]",
+        "kana": "1いちじ",
+        "answer": "1いちじ"
+      },
+      {
+        "japanese": "今、六時半です。",
+        "english": "It's half past six now.",
+        "furigana": "半[はん]",
+        "kana": "はん",
+        "answer": "はん"
+      },
+      {
+        "japanese": "セーターは高かった。",
+        "english": "The sweater was expensive.",
+        "furigana": "セーター",
+        "kana": "セーター",
+        "answer": "せーたー"
+      },
+      {
+        "japanese": "女の子がコートを着た。",
+        "english": "The girl put on the coat.",
+        "furigana": "コート",
+        "kana": "コート",
+        "answer": "こーと"
+      },
+      {
+        "japanese": "私は着物を良く着る。",
+        "english": "I often wear kimono.",
+        "furigana": "着物[きもの]",
+        "kana": "きもの",
+        "answer": "きもの"
+      },
+      {
+        "japanese": "私はズボンを脱ぎました。",
+        "english": "I took off my pants.",
+        "furigana": "ズボン",
+        "kana": "ズボン",
+        "answer": "ずぼん"
+      },
+      {
+        "japanese": "そのジーンズはあまり高くないです。",
+        "english": "That pair of jeans is not that expensive.",
+        "furigana": "ジーンズ",
+        "kana": "ジーンズ",
+        "answer": "じーんず"
+      },
+      {
+        "japanese": "これトムの靴？",
+        "english": "Are these Tom's shoes?",
+        "furigana": "靴[くつ]",
+        "kana": "くつ",
+        "answer": "くつ"
+      },
+      {
+        "japanese": "弟は東京にいます。",
+        "english": "My little brother is in Tokyo.",
+        "furigana": "東京[とうきょう]",
+        "kana": "とうきょう",
+        "answer": "とうきょう"
+      },
+      {
+        "japanese": "このバスは成田に行きますか？",
+        "english": "Does this bus go to Narita?",
+        "furigana": "成田[なりた]",
+        "kana": "なりた",
+        "answer": "なりた"
+      },
+      {
+        "japanese": "今日は横浜に来ています。",
+        "english": "Today we've come to Yokohama.",
+        "furigana": "横浜[よこはま]",
+        "kana": "よこはま",
+        "answer": "よこはま"
+      },
+      {
+        "japanese": "北海道に行ったことがある。",
+        "english": "I’ve been to Hokkaido.",
+        "furigana": "北海道[ほっかいどう]",
+        "kana": "ほっかいどう",
+        "answer": "ほっかいどう"
+      },
+      {
+        "japanese": "富士山は迚も高い山です。",
+        "english": "Mt. Fuji is a very tall mountain.",
+        "furigana": "富士山[ふじさん]",
+        "kana": "ふじさん",
+        "answer": "ふじさん"
+      },
+      {
+        "japanese": "東京から京都へ行く。",
+        "english": "I'll go from Tokyo to Kyoto.",
+        "furigana": "京都[きょうと]",
+        "kana": "きょうと",
+        "answer": "きょうと"
+      },
+      {
+        "japanese": "京都や奈良に行きました。",
+        "english": "I went to Kyoto and Nara. (but may have been to other places as well.)",
+        "furigana": "奈良[なら]",
+        "kana": "なら",
+        "answer": "なら"
+      },
+      {
+        "japanese": "私は電車で大阪へ行く。",
+        "english": "I go to Osaka by train.",
+        "furigana": "大阪[おおさか]",
+        "kana": "おおさか",
+        "answer": "おおさか"
+      },
+      {
+        "japanese": "お風呂に入りたい。",
+        "english": "I want to take a bath.",
+        "furigana": "風呂[ふろ]",
+        "kana": "ふろ",
+        "answer": "ふろ"
+      },
+      {
+        "japanese": "男の人が鶏肉を切っている。",
+        "english": "The man is cutting chicken.",
+        "furigana": "鶏肉[とりにく]",
+        "kana": "とりにく",
+        "answer": "とりにく"
+      },
+      {
+        "japanese": "その果物はバナナです。",
+        "english": "That fruit is a banana.",
+        "furigana": "果物[くだもの]",
+        "kana": "くだもの",
+        "answer": "くだもの"
+      },
+      {
+        "japanese": "蜜柑を1つ下さい。",
+        "english": "Please give me a mandarin orange.",
+        "furigana": "蜜柑[みかん]",
+        "kana": "みかん",
+        "answer": "みかん"
+      },
+      {
+        "japanese": "紅茶を飲みますか。",
+        "english": "Do you drink tea?/Would you like some tea?",
+        "furigana": "紅茶[こうちゃ]",
+        "kana": "こうちゃ",
+        "answer": "こうちゃ"
+      },
+      {
+        "japanese": "彼は毎晩ビールを飲む。",
+        "english": "He drinks beer every night.",
+        "furigana": "ビール",
+        "kana": "ビール",
+        "answer": "びーる"
+      },
+      {
+        "japanese": "水を1カップ入れて下さい。",
+        "english": "Please put in one cup of water.",
+        "furigana": "カップ",
+        "kana": "カップ",
+        "answer": "かっぷ"
+      },
+      {
+        "japanese": "お弁当を買いに行く。",
+        "english": "I’m going to get a lunch box.",
+        "furigana": "弁当[べんとう]",
+        "kana": "べんとう",
+        "answer": "べんとう"
+      },
+      {
+        "japanese": "拉麺を食べに行く。",
+        "english": "I'll go eat ramen.",
+        "furigana": "拉麺[らーめん]",
+        "kana": "らーめん",
+        "answer": "らーめん"
+      },
+      {
+        "japanese": "天麩羅は日本の料理です。",
+        "english": "Tempura is a Japanese dish.",
+        "furigana": "天麩羅[てんぷら]",
+        "kana": "てんぷら",
+        "answer": "てんぷら"
+      },
+      {
+        "japanese": "寿司を食べない。",
+        "english": "I don’t eat sushi.",
+        "furigana": "寿司[すし]",
+        "kana": "すし",
+        "answer": "すし"
+      },
+      {
+        "japanese": "ケーキが大好きです。",
+        "english": "I love cake.",
+        "furigana": "ケーキ",
+        "kana": "ケーキ",
+        "answer": "けーき"
+      },
+      {
+        "japanese": "寿司には醤油をつけます。",
+        "english": "We put soy sauce on sushi.",
+        "furigana": "醤油[しょうゆ]",
+        "kana": "しょうゆ",
+        "answer": "しょうゆ"
+      },
+      {
+        "japanese": "ここでサッカーをするな。",
+        "english": "Don’t play soccer here.",
+        "furigana": "サッカー",
+        "kana": "サッカー",
+        "answer": "さっかー"
+      },
+      {
+        "japanese": "来月は４月です。",
+        "english": "Next month is April.",
+        "furigana": "来月[らいげつ]",
+        "kana": "らいげつ",
+        "answer": "らいげつ"
+      },
+      {
+        "japanese": "私は夏休みにプールに行った。",
+        "english": "I went to the pool during summer vacation.",
+        "furigana": "夏休[なつやす]み",
+        "kana": "なつやすみ",
+        "answer": "なつやすみ"
+      },
+      {
+        "japanese": "子供は一才です。",
+        "english": "My child is one year old.",
+        "furigana": "一才[いっさい]",
+        "kana": "いっさい",
+        "answer": "いっさい"
+      },
+      {
+        "japanese": "西からの風。",
+        "english": "A wind from the west.",
+        "furigana": "西[にし]",
+        "kana": "にし",
+        "answer": "にし"
+      },
+      {
+        "japanese": "彼処の店。",
+        "english": "The store over there.",
+        "furigana": "彼処[あそこ]",
+        "kana": "あそこ",
+        "answer": "あそこ"
+      },
+      {
+        "japanese": "其処で寝る。",
+        "english": "I sleep there.",
+        "furigana": "其処[そこ]",
+        "kana": "そこ",
+        "answer": "そこ"
+      },
+      {
+        "japanese": "此処は学校です。",
+        "english": "This place is the school.",
+        "furigana": "此処[ここ]",
+        "kana": "ここ",
+        "answer": "ここ"
+      },
+      {
+        "japanese": "布団ではありません。",
+        "english": "It’s not a futon.",
+        "furigana": "布団[ふとん]",
+        "kana": "ふとん",
+        "answer": "ふとん"
+      },
+      {
+        "japanese": "私はアパートの一階に住んでいます。",
+        "english": "I live on the first floor of my apartment building.",
+        "furigana": "一[いっ] 階[かい]",
+        "kana": "いっかい",
+        "answer": "いっかい"
+      },
+      {
+        "japanese": "三階になにがありますか？",
+        "english": "What is there on the third floor?",
+        "furigana": "三[さん] 階[がい]",
+        "kana": "さんがい",
+        "answer": "さんがい"
+      },
+      {
+        "japanese": "授業は来週始まります。",
+        "english": "The class will begin next week.",
+        "furigana": "来週[らいしゅう]",
+        "kana": "らいしゅう",
+        "answer": "らいしゅう"
+      },
+      {
+        "japanese": "先月は何月でしたか？",
+        "english": "Last month was what month? = What month was it last month?",
+        "furigana": "先月[せんげつ]",
+        "kana": "せんげつ",
+        "answer": "せんげつ"
+      },
+      {
+        "japanese": "鼻が高いんです。",
+        "english": "I'm proud (of it). I'm looking forward (to it). Lit. \"(my) nose is tall.\"",
+        "furigana": "鼻[はな]",
+        "kana": "はな",
+        "answer": "はな"
+      },
+      {
+        "japanese": "喉が痛いです。",
+        "english": "My throat hurts.",
+        "furigana": "喉[のど]",
+        "kana": "のど",
+        "answer": "のど"
+      },
+      {
+        "japanese": "トムを叩いた。",
+        "english": "I hit Tom.",
+        "furigana": "叩[たた]く",
+        "kana": "たたく",
+        "answer": "たたく"
+      },
+      {
+        "japanese": "当然、アシュリーは英語がわかります。",
+        "english": "Of course, Ashley understands English.",
+        "furigana": "当然[とうぜん]",
+        "kana": "とうぜん",
+        "answer": "とうぜん"
       }
     ]
   },
