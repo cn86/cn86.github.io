@@ -54,6 +54,9 @@
 
         p {
             font-size: 16px;
+            margin: 0;
+            padding: 0;
+            width: 300px;
         }
 
         h1 {
@@ -265,7 +268,7 @@
         function set_japanese_font(stroke_order_font){
             let card_furigana = document.getElementById('card-furigana');
             if (stroke_order_font){
-                card_furigana.style = 'font-family:"kanji"; font-size:100px;';
+                card_furigana.style = 'font-family:"kanji"; font-size:100px; padding:10px; margin:10px;';
             } else {
                 card_furigana.style = '';
             }
