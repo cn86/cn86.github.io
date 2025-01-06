@@ -1,5 +1,5 @@
 /*
-<option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
+<option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
 */
 var decks = {
   "kaishi15k": {
@@ -26758,6 +26758,3628 @@ var decks = {
         "furigana": "頷",
         "kana": "",
         "answer": "頷"
+      }
+    ]
+  },
+  "tango_katakana": {
+    "config": {
+      "file_path": "decks/tango_katakana.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "kana"
+    },
+    "cards": [
+      {
+        "japanese": "弟はアイスクリームが大好きです。",
+        "english": "My little brother loves ice cream.",
+        "furigana": "アイスクリーム",
+        "kana": "アイスクリーム",
+        "answer": "あいすくりーむ"
+      },
+      {
+        "japanese": "土曜日にアルバイトをします。",
+        "english": "I will go to my part-time job on Saturdays.",
+        "furigana": "アルバイト",
+        "kana": "アルバイト",
+        "answer": "あるばいと"
+      },
+      {
+        "japanese": "インターネットで電話番号を調べます。",
+        "english": "I will check the phone number on the internet.",
+        "furigana": "インターネット",
+        "kana": "インターネット",
+        "answer": "いんたーねっと"
+      },
+      {
+        "japanese": "医者「インフルエンザです。お風呂に入らないで下さい。」",
+        "english": "Doctor: You have the flu. Do not take a bath.",
+        "furigana": "インフルエンザ",
+        "kana": "インフルエンザ",
+        "answer": "いんふるえんざ"
+      },
+      {
+        "japanese": "部屋にエアコンがあります。",
+        "english": "The room has an air conditioner.",
+        "furigana": "エアコン",
+        "kana": "エアコン",
+        "answer": "えあこん"
+      },
+      {
+        "japanese": "パソコンのカタログを見ます。",
+        "english": "I will look at the computer catalog.",
+        "furigana": "カタログ",
+        "kana": "カタログ",
+        "answer": "かたろぐ"
+      },
+      {
+        "japanese": "水を1カップ入れて下さい。",
+        "english": "Please put in one cup of water.",
+        "furigana": "カップ",
+        "kana": "カップ",
+        "answer": "かっぷ"
+      },
+      {
+        "japanese": "これは父のカメラです。",
+        "english": "This is my father's camera.",
+        "furigana": "カメラ",
+        "kana": "カメラ",
+        "answer": "かめら"
+      },
+      {
+        "japanese": "これは兄のギターです。",
+        "english": "This is my elder brother's guitar.",
+        "furigana": "ギター",
+        "kana": "ギター",
+        "answer": "ぎたー"
+      },
+      {
+        "japanese": "クラスに留学生がいます。",
+        "english": "There are foreign students in the class.",
+        "furigana": "クラス",
+        "kana": "クラス",
+        "answer": "くらす"
+      },
+      {
+        "japanese": "ケーキが大好きです。",
+        "english": "I love cake.",
+        "furigana": "ケーキ",
+        "kana": "ケーキ",
+        "answer": "けーき"
+      },
+      {
+        "japanese": "日本のゲームは面白いです。",
+        "english": "Japanese games are fun.",
+        "furigana": "ゲーム",
+        "kana": "ゲーム",
+        "answer": "げーむ"
+      },
+      {
+        "japanese": "女の子がコートを着た。",
+        "english": "The girl put on the coat.",
+        "furigana": "コート",
+        "kana": "コート",
+        "answer": "こーと"
+      },
+      {
+        "japanese": "ニョクマムは醤油のコーナーにあります。",
+        "english": "Nuoc mam is in the area where the soy sauce is.",
+        "furigana": "コーナー",
+        "kana": "コーナー",
+        "answer": "こーなー"
+      },
+      {
+        "japanese": "私は毎朝コップ一杯の水を飲む。",
+        "english": "I drink a glass of water every morning.",
+        "furigana": "コップ",
+        "kana": "コップ",
+        "answer": "こっぷ"
+      },
+      {
+        "japanese": "コンビニでコピーします。",
+        "english": "I will make a copy at the convenience store.",
+        "furigana": "コピー(する)",
+        "kana": "コピー",
+        "answer": "こぴー"
+      },
+      {
+        "japanese": "コンサートに行きました。",
+        "english": "I went to the concert.",
+        "furigana": "コンサート",
+        "kana": "コンサート",
+        "answer": "こんさーと"
+      },
+      {
+        "japanese": "コンビニでお弁当を買います。",
+        "english": "I will buy a box lunch at the convenience store.",
+        "furigana": "コンビニ",
+        "kana": "コンビニ",
+        "answer": "こんびに"
+      },
+      {
+        "japanese": "毎日、コンピューターを使います。",
+        "english": "I use the computer every day.",
+        "furigana": "コンピューター",
+        "kana": "コンピューター",
+        "answer": "こんぴゅーたー"
+      },
+      {
+        "japanese": "ホテルはサービスがいいです。",
+        "english": "The hotel has good service.",
+        "furigana": "サービス",
+        "kana": "サービス",
+        "answer": "さーびす"
+      },
+      {
+        "japanese": "大きいサイズがありません。",
+        "english": "There are no large sizes.",
+        "furigana": "サイズ",
+        "kana": "サイズ",
+        "answer": "さいず"
+      },
+      {
+        "japanese": "ここでサッカーをするな。",
+        "english": "Don’t play soccer here.",
+        "furigana": "サッカー",
+        "kana": "サッカー",
+        "answer": "さっかー"
+      },
+      {
+        "japanese": "学校でシーディーを聞きました。",
+        "english": "I listened to the CD at school.",
+        "furigana": "シーディー",
+        "kana": "シーディー",
+        "answer": "しーでぃー"
+      },
+      {
+        "japanese": "そのジーンズはあまり高くないです。",
+        "english": "That pair of jeans is not that expensive.",
+        "furigana": "ジーンズ",
+        "kana": "ジーンズ",
+        "answer": "じーんず"
+      },
+      {
+        "japanese": "私のシャープペンシルがありません。",
+        "english": "My mechanical pencil is missing.",
+        "furigana": "シャープペンシル",
+        "kana": "シャープペンシル",
+        "answer": "しゃーぷぺんしる"
+      },
+      {
+        "japanese": "毎日、ジョギングをしています。",
+        "english": "I go jogging every day.",
+        "furigana": "ジョギング",
+        "kana": "ジョギング",
+        "answer": "じょぎんぐ"
+      },
+      {
+        "japanese": "スーパーで肉を買います。",
+        "english": "I buy meat at the supermarket.",
+        "furigana": "スーパー",
+        "kana": "スーパー",
+        "answer": "すーぱー"
+      },
+      {
+        "japanese": "北海道でスキーをします。",
+        "english": "I go skiing in Hokkaido.",
+        "furigana": "スキー",
+        "kana": "スキー",
+        "answer": "すきー"
+      },
+      {
+        "japanese": "土曜日に学校でスピーチをしました。",
+        "english": "I gave a speech at school on Saturday.",
+        "furigana": "スピーチ",
+        "kana": "スピーチ",
+        "answer": "すぴーち"
+      },
+      {
+        "japanese": "私はズボンを脱ぎました。",
+        "english": "I took off my pants.",
+        "furigana": "ズボン",
+        "kana": "ズボン",
+        "answer": "ずぼん"
+      },
+      {
+        "japanese": "セーターは高かった。",
+        "english": "The sweater was expensive.",
+        "furigana": "セーター",
+        "kana": "セーター",
+        "answer": "せーたー"
+      },
+      {
+        "japanese": "今日の交通事故はゼロです。",
+        "english": "Today there were zero traffic accidents.",
+        "furigana": "ゼロ",
+        "kana": "ゼロ",
+        "answer": "ぜろ"
+      },
+      {
+        "japanese": "セロテープはありますか？",
+        "english": "Do you have any scotch tape?",
+        "furigana": "セロテープ",
+        "kana": "セロテープ",
+        "answer": "せろてーぷ"
+      },
+      {
+        "japanese": "ゲームのソフトを買いました。",
+        "english": "I bought a video game.",
+        "furigana": "ソフト",
+        "kana": "ソフト",
+        "answer": "そふと"
+      },
+      {
+        "japanese": "ダイエットをしています。",
+        "english": "I am on a diet.",
+        "furigana": "ダイエット",
+        "kana": "ダイエット",
+        "answer": "だいえっと"
+      },
+      {
+        "japanese": "マリアさんはダンスが上手です。",
+        "english": "Maria-san dances well.",
+        "furigana": "ダンス",
+        "kana": "ダンス",
+        "answer": "だんす"
+      },
+      {
+        "japanese": "コンサートのチケットを買います。",
+        "english": "I will buy a ticket to the concert.",
+        "furigana": "チケット",
+        "kana": "チケット",
+        "answer": "ちけっと"
+      },
+      {
+        "japanese": "妹はチョコレートが大好きです。",
+        "english": "My little sister loves chocolate.",
+        "furigana": "チョコレート",
+        "kana": "チョコレート",
+        "answer": "ちょこれーと"
+      },
+      {
+        "japanese": "明日、彼女とデートします。",
+        "english": "I will go on a date with her tomorrow.",
+        "furigana": "デート(する)",
+        "kana": "デート",
+        "answer": "でーと"
+      },
+      {
+        "japanese": "素敵なデザインですね。",
+        "english": "It's a great design.",
+        "furigana": "デザイン",
+        "kana": "デザイン",
+        "answer": "でざいん"
+      },
+      {
+        "japanese": "日曜日にデパートで買い物しました。",
+        "english": "I went shopping at the department store on Sunday.",
+        "furigana": "デパート",
+        "kana": "デパート",
+        "answer": "でぱーと"
+      },
+      {
+        "japanese": "家にテレビは有りません。",
+        "english": "I don't have a television at home.",
+        "furigana": "テレビ",
+        "kana": "テレビ",
+        "answer": "てれび"
+      },
+      {
+        "japanese": "ドアを閉めます。",
+        "english": "I close the door.",
+        "furigana": "ドア",
+        "kana": "ドア",
+        "answer": "どあ"
+      },
+      {
+        "japanese": "トイレを掃除しましたか。",
+        "english": "Did you clean the toilet?",
+        "furigana": "トイレ",
+        "kana": "トイレ",
+        "answer": "といれ"
+      },
+      {
+        "japanese": "昨日、ニュースを見ました。",
+        "english": "Yesterday, I watched the news.",
+        "furigana": "ニュース",
+        "kana": "ニュース",
+        "answer": "にゅーす"
+      },
+      {
+        "japanese": "ノートを開いて下さい。",
+        "english": "Please open your notebook.",
+        "furigana": "ノート",
+        "kana": "ノート",
+        "answer": "のーと"
+      },
+      {
+        "japanese": "バイクで会社へ来ました。",
+        "english": "I came to the office by motorcycle.",
+        "furigana": "バイク",
+        "kana": "バイク",
+        "answer": "ばいく"
+      },
+      {
+        "japanese": "バスで名古屋に行きました。",
+        "english": "I went to Nagoya by bus.",
+        "furigana": "バス",
+        "kana": "バス",
+        "answer": "ばす"
+      },
+      {
+        "japanese": "これは兄のパソコンです。",
+        "english": "This is my older brother's personal computer.",
+        "furigana": "パソコン",
+        "kana": "パソコン",
+        "answer": "ぱそこん"
+      },
+      {
+        "japanese": "朝御飯には何時もパンを食べる。",
+        "english": "I always eat bread for breakfast.",
+        "furigana": "パン",
+        "kana": "パン",
+        "answer": "ぱん"
+      },
+      {
+        "japanese": "ホアンさんはハンサムです。",
+        "english": "Huang-san is handsome.",
+        "furigana": "ハンサム",
+        "kana": "ハンサム",
+        "answer": "はんさむ"
+      },
+      {
+        "japanese": "上野動物園にパンダがいました。",
+        "english": "There was a panda at the Ueno Zoo.",
+        "furigana": "パンダ",
+        "kana": "パンダ",
+        "answer": "ぱんだ"
+      },
+      {
+        "japanese": "パン屋でパンを買います。",
+        "english": "I will buy bread at the bakery.",
+        "furigana": "パン屋[ぱんや]",
+        "kana": "パンぱんや",
+        "answer": "ぱんぱんや"
+      },
+      {
+        "japanese": "彼は毎晩ビールを飲む。",
+        "english": "He drinks beer every night.",
+        "furigana": "ビール",
+        "kana": "ビール",
+        "answer": "びーる"
+      },
+      {
+        "japanese": "ピアノを弾きます。",
+        "english": "I play the piano.",
+        "furigana": "ピアノ",
+        "kana": "ピアノ",
+        "answer": "ぴあの"
+      },
+      {
+        "japanese": "会社はあのビルです。",
+        "english": "The office is in that building.",
+        "furigana": "ビル",
+        "kana": "ビル",
+        "answer": "びる"
+      },
+      {
+        "japanese": "昨日、プールで泳ぎました。",
+        "english": "Yesterday I swam in the pool.",
+        "furigana": "プール",
+        "kana": "プール",
+        "answer": "ぷーる"
+      },
+      {
+        "japanese": "部屋にベッドがあります。",
+        "english": "There is a bed in the room.",
+        "furigana": "ベッド",
+        "kana": "ベッド",
+        "answer": "べっど"
+      },
+      {
+        "japanese": "亜米利加でホームステイしました。",
+        "english": "I did a home stay in America.",
+        "furigana": "ホームステイ",
+        "kana": "ホームステイ",
+        "answer": "ほーむすてい"
+      },
+      {
+        "japanese": "ボールペンで書いて下さい。",
+        "english": "Write with a ballpoint pen.",
+        "furigana": "ボールペン",
+        "kana": "ボールペン",
+        "answer": "ぼーるぺん"
+      },
+      {
+        "japanese": "葉書をポストに入れます。",
+        "english": "I will put the postcard in the mail box.",
+        "furigana": "ポスト",
+        "kana": "ポスト",
+        "answer": "ぽすと"
+      },
+      {
+        "japanese": "ホテルに電話をかけます。",
+        "english": "I will call the hotel.",
+        "furigana": "ホテル",
+        "kana": "ホテル",
+        "answer": "ほてる"
+      },
+      {
+        "japanese": "珈琲にミルクを入れます。",
+        "english": "I put milk in coffee.",
+        "furigana": "ミルク",
+        "kana": "ミルク",
+        "answer": "みるく"
+      },
+      {
+        "japanese": "メールを送ります。",
+        "english": "I will send you mail.",
+        "furigana": "メール",
+        "kana": "メール",
+        "answer": "めーる"
+      },
+      {
+        "japanese": "山田さんはユーモアが在ります。",
+        "english": "Yamada-san is humorous.",
+        "furigana": "ユーモア",
+        "kana": "ユーモア",
+        "answer": "ゆーもあ"
+      },
+      {
+        "japanese": "夜、ラジオのニュースを聞きます。",
+        "english": "I listen to the radio in the evening.",
+        "furigana": "ラジオ",
+        "kana": "ラジオ",
+        "answer": "らじお"
+      },
+      {
+        "japanese": "友達とレストランに行きました。",
+        "english": "I went to the restaurant with my friend.",
+        "furigana": "レストラン",
+        "kana": "レストラン",
+        "answer": "れすとらん"
+      },
+      {
+        "japanese": "学校でレポートを書きました。",
+        "english": "I wrote a report at school.",
+        "furigana": "レポート",
+        "kana": "レポート",
+        "answer": "れぽーと"
+      },
+      {
+        "japanese": "ロックは余り聞きません。",
+        "english": "I don't listen to rock very much.",
+        "furigana": "ロック",
+        "kana": "ロック",
+        "answer": "ろっく"
+      },
+      {
+        "japanese": "ロビーに電話が有ります。",
+        "english": "There is a phone in the lobby.",
+        "furigana": "ロビー",
+        "kana": "ロビー",
+        "answer": "ろびー"
+      },
+      {
+        "japanese": "ワインを少し飲みました。",
+        "english": "I drank a little wine.",
+        "furigana": "ワイン",
+        "kana": "ワイン",
+        "answer": "わいん"
+      },
+      {
+        "japanese": "部長のアイディアは面白いです。",
+        "english": "The department chief's idea is interesting.",
+        "furigana": "アイディア",
+        "kana": "アイディア",
+        "answer": "あいでぃあ"
+      },
+      {
+        "japanese": "仕事の時はアクセサリーをしません。",
+        "english": "I don't wear any accessories at work.",
+        "furigana": "アクセサリー",
+        "kana": "アクセサリー",
+        "answer": "あくせさりー"
+      },
+      {
+        "japanese": "アニメを見て、日本が好きになりました。",
+        "english": "I came to like Japan from watching anime.",
+        "furigana": "アニメ",
+        "kana": "アニメ",
+        "answer": "あにめ"
+      },
+      {
+        "japanese": "今のアパートは前の所より広いです。",
+        "english": "My current apartment is much more spacious than my old one.",
+        "furigana": "アパート",
+        "kana": "アパート",
+        "answer": "あぱーと"
+      },
+      {
+        "japanese": "アルコールは飲めないので、ウーロン茶にします。",
+        "english": "I can't drink alcohol, so I ordered some oolong tea.",
+        "furigana": "アルコール",
+        "kana": "アルコール",
+        "answer": "あるこーる"
+      },
+      {
+        "japanese": "将来イラストの仕事がしたいです。",
+        "english": "In the future, I want to have a job that has to do with illustrations.",
+        "furigana": "イラスト",
+        "kana": "イラスト",
+        "answer": "いらすと"
+      },
+      {
+        "japanese": "私はインスタント食品をよく食べます。",
+        "english": "I often eat instant food.",
+        "furigana": "インスタント 食品[しょくひん]",
+        "kana": "インスタントしょくひん",
+        "answer": "いんすたんとしょくひん"
+      },
+      {
+        "japanese": "インフルエンザで５日間学校を休みました。",
+        "english": "I've been absent from school for five days due to the flu.",
+        "furigana": "インフルエンザ",
+        "kana": "インフルエンザ",
+        "answer": "いんふるえんざ"
+      },
+      {
+        "japanese": "あの車はエンジンの音が大きいです。",
+        "english": "The engine in that car is loud.",
+        "furigana": "エンジン",
+        "kana": "エンジン",
+        "answer": "えんじん"
+      },
+      {
+        "japanese": "週末、友達とオートバイで出掛けます。",
+        "english": "On the weekends, I go out with my friend on a motorcycle.",
+        "furigana": "オートバイ",
+        "kana": "オートバイ",
+        "answer": "おーとばい"
+      },
+      {
+        "japanese": "明るい色のカーテンを買います。",
+        "english": "I'm going to buy brightly colored curtains.",
+        "furigana": "カーテン",
+        "kana": "カーテン",
+        "answer": "かーてん"
+      },
+      {
+        "japanese": "本屋さんでガイドブックを買いました。",
+        "english": "I bought a guidebook at a book store.",
+        "furigana": "ガイドブック",
+        "kana": "ガイドブック",
+        "answer": "がいどぶっく"
+      },
+      {
+        "japanese": "地震でガスが止まってしまいました。",
+        "english": "The gas stopped due to an earthquake.",
+        "furigana": "ガス",
+        "kana": "ガス",
+        "answer": "がす"
+      },
+      {
+        "japanese": "ガソリンの値段がまた上がりました。",
+        "english": "The price of gas has risen again.",
+        "furigana": "ガソリン",
+        "kana": "ガソリン",
+        "answer": "がそりん"
+      },
+      {
+        "japanese": "いつもあの美容院でカットしています。",
+        "english": "I always get my hair cut at that hair salon.",
+        "furigana": "カット＜する＞",
+        "kana": "カット",
+        "answer": "かっと"
+      },
+      {
+        "japanese": "可愛い猫のカレンダーを買いました。",
+        "english": "I bought a cute cat calendar.",
+        "furigana": "カレンダー",
+        "kana": "カレンダー",
+        "answer": "かれんだー"
+      },
+      {
+        "japanese": "ニュースのキーワードをメモしましょう。",
+        "english": "Let's write down keywords from the news.",
+        "furigana": "キーワード",
+        "kana": "キーワード",
+        "answer": "きーわーど"
+      },
+      {
+        "japanese": "台風で旅行をキャンセルしました。",
+        "english": "I cancelled my trip due to the typhoon.",
+        "furigana": "キャンセル＜する＞",
+        "kana": "キャンセル",
+        "answer": "きゃんせる"
+      },
+      {
+        "japanese": "春に成ったら、キャンプに行きましょう。",
+        "english": "Let's go camping once it's spring.",
+        "furigana": "キャンプ＜する＞",
+        "kana": "キャンプ",
+        "answer": "きゃんぷ"
+      },
+      {
+        "japanese": "ここから彼女の家まで２キロあります。",
+        "english": "There are two kilometers from here to her house.",
+        "furigana": "キロ",
+        "kana": "キロ",
+        "answer": "きろ"
+      },
+      {
+        "japanese": "音楽はクラシックが好きです。",
+        "english": "I like classical music.",
+        "furigana": "クラシック",
+        "kana": "クラシック",
+        "answer": "くらしっく"
+      },
+      {
+        "japanese": "窓グラスを綺麗にしましょう。",
+        "english": "Let's clean the window glass.",
+        "furigana": "グラス",
+        "kana": "グラス",
+        "answer": "ぐらす"
+      },
+      {
+        "japanese": "スーツをクリーニングに出します。",
+        "english": "I took my suit to the dry cleaner's.",
+        "furigana": "クリーニング",
+        "kana": "クリーニング",
+        "answer": "くりーにんぐ"
+      },
+      {
+        "japanese": "毎日、３時にケーキを食べます。",
+        "english": "I eat cake at 3:00 every day.",
+        "furigana": "ケーキ",
+        "kana": "ケーキ",
+        "answer": "けーき"
+      },
+      {
+        "japanese": "夜遅くまでゲームをしていて、寝坊しました。",
+        "english": "I played video games late into the night and overslept.",
+        "furigana": "ゲーム",
+        "kana": "ゲーム",
+        "answer": "げーむ"
+      },
+      {
+        "japanese": "私のジョギングのコースは５キロです。",
+        "english": "My jogging course is five kilometers.",
+        "furigana": "コース",
+        "kana": "コース",
+        "answer": "こーす"
+      },
+      {
+        "japanese": "明日、コンサートに行きます。",
+        "english": "I'm going to a concert tomorrow.",
+        "furigana": "コンサート",
+        "kana": "コンサート",
+        "answer": "こんさーと"
+      },
+      {
+        "japanese": "作文のコンテストにチャレンジします。",
+        "english": "I'm going to try entering an essay writing contest.",
+        "furigana": "コンテスト",
+        "kana": "コンテスト",
+        "answer": "こんてすと"
+      },
+      {
+        "japanese": "こちらにサインをお願いします。",
+        "english": "Please sign here.",
+        "furigana": "サイン＜する＞",
+        "kana": "サイン",
+        "answer": "さいん"
+      },
+      {
+        "japanese": "毎日、沢山サラダを食べています。",
+        "english": "I eat a lot of salad every day.",
+        "furigana": "サラダ",
+        "kana": "サラダ",
+        "answer": "さらだ"
+      },
+      {
+        "japanese": "歩きやすいサンダルを探しています。",
+        "english": "I'm looking for some sandals that are easy to walk in.",
+        "furigana": "サンダル",
+        "kana": "サンダル",
+        "answer": "さんだる"
+      },
+      {
+        "japanese": "このシャンプーは迚も安いです。",
+        "english": "This shampoo is very inexpensive.",
+        "furigana": "シャンプー＜する＞",
+        "kana": "シャンプー",
+        "answer": "しゃんぷー"
+      },
+      {
+        "japanese": "毎朝、３０分ジョギングをしています。",
+        "english": "I jog for 30 minutes every morning.",
+        "furigana": "ジョギング＜する＞",
+        "kana": "ジョギング",
+        "answer": "じょぎんぐ"
+      },
+      {
+        "japanese": "シングルの部屋を予約しました。",
+        "english": "I reserved a room with a single bed.",
+        "furigana": "シングル（ベッド）",
+        "kana": "シングル",
+        "answer": "しんぐる"
+      },
+      {
+        "japanese": "毎日、スーツを着て、会社に行きます。",
+        "english": "I wear a suit to work every day.",
+        "furigana": "スーツ",
+        "kana": "スーツ",
+        "answer": "すーつ"
+      },
+      {
+        "japanese": "後１時間でスキー場に着きます。",
+        "english": "we'll arrive at the ski resort in one more hour.",
+        "furigana": "スキー 場[じょう]",
+        "kana": "スキーじょう",
+        "answer": "すきーじょう"
+      },
+      {
+        "japanese": "社長のスケジュールを知っていますか。",
+        "english": "Do you know the president's schedule?",
+        "furigana": "スケジュール",
+        "kana": "スケジュール",
+        "answer": "すけじゅーる"
+      },
+      {
+        "japanese": "選手が一緒にスタートしました。",
+        "english": "The athletes started together.",
+        "furigana": "スタート＜する＞",
+        "kana": "スタート",
+        "answer": "すたーと"
+      },
+      {
+        "japanese": "一人で４００グラムのステーキを食べました。",
+        "english": "I ate a 400 gram steak by myself.",
+        "furigana": "ステーキ",
+        "kana": "ステーキ",
+        "answer": "すてーき"
+      },
+      {
+        "japanese": "ストレスがない人は居ません。",
+        "english": "There is no one who is without stress.",
+        "furigana": "ストレス",
+        "kana": "ストレス",
+        "answer": "すとれす"
+      },
+      {
+        "japanese": "大統領のスピーチは素晴らしかったです。",
+        "english": "The president's speech was magnificent.",
+        "furigana": "スピーチ＜する＞",
+        "kana": "スピーチ",
+        "answer": "すぴーち"
+      },
+      {
+        "japanese": "家の近くのスポーツクラブは安くて便利です。",
+        "english": "The sports club near my house is inexpensive and convenient.",
+        "furigana": "スポーツクラブ",
+        "kana": "スポーツクラブ",
+        "answer": "すぽーつくらぶ"
+      },
+      {
+        "japanese": "この料理にはソースが合います。",
+        "english": "This dish goes well with sauce.",
+        "furigana": "ソース",
+        "kana": "ソース",
+        "answer": "そーす"
+      },
+      {
+        "japanese": "パソコンのソフトを作る仕事がしたいです。",
+        "english": "I want to have a job where I make computer software.",
+        "furigana": "ソフト",
+        "kana": "ソフト",
+        "answer": "そふと"
+      },
+      {
+        "japanese": "無理なダイエットは止めましょう。",
+        "english": "Let's not go on any impossible diets.",
+        "furigana": "ダイエット＜する＞",
+        "kana": "ダイエット",
+        "answer": "だいえっと"
+      },
+      {
+        "japanese": "トイレでピンクのタオルを使っています。",
+        "english": "In the bathroom, I use the pink towel.",
+        "furigana": "タオル",
+        "kana": "タオル",
+        "answer": "たおる"
+      },
+      {
+        "japanese": "大好きなチームが負けてしまいました。",
+        "english": "My favorite team lost.",
+        "furigana": "チーム",
+        "kana": "チーム",
+        "answer": "ちーむ"
+      },
+      {
+        "japanese": "作文を日本人の友達にチェックしてもらいました。",
+        "english": "I had my Japanese friend check my essay.",
+        "furigana": "チェック＜する＞",
+        "kana": "チェック",
+        "answer": "ちぇっく"
+      },
+      {
+        "japanese": "タイ料理にチャレンジしてみます。",
+        "english": "I want to try Thai food.",
+        "furigana": "チャレンジ＜する＞",
+        "kana": "チャレンジ",
+        "answer": "ちゃれんじ"
+      },
+      {
+        "japanese": "世界のデータを集めました。",
+        "english": "I gathered data from around the world.",
+        "furigana": "データ",
+        "kana": "データ",
+        "answer": "でーた"
+      },
+      {
+        "japanese": "忙しくて、デートする時間がありません。",
+        "english": "I'm so busy I don't even have time to date.",
+        "furigana": "デート＜する＞",
+        "kana": "デート",
+        "answer": "でーと"
+      },
+      {
+        "japanese": "このテキストは明日使います。",
+        "english": "I'm going to use this textbook tomorrow.",
+        "furigana": "テキスト",
+        "kana": "テキスト",
+        "answer": "てきすと"
+      },
+      {
+        "japanese": "今日のテストは迚も難しかったです。",
+        "english": "Today's test was really hard.",
+        "furigana": "テスト",
+        "kana": "テスト",
+        "answer": "てすと"
+      },
+      {
+        "japanese": "ここを押すと、テレビがつきます。",
+        "english": "If you push this here, the TV will turn on.",
+        "furigana": "（テレビが）つく",
+        "kana": "テレビがつく",
+        "answer": "てれびがつく"
+      },
+      {
+        "japanese": "テレビ局の試験を受けたいです。",
+        "english": "I want to take a test for a TV station.",
+        "furigana": "テレビ 局[きょく]",
+        "kana": "テレビ局",
+        "answer": "てれび局"
+      },
+      {
+        "japanese": "ニュースは見ませんが、ドラマはよく見ます。",
+        "english": "I don't watch the news, but I often watch TV shows.",
+        "furigana": "ドラマ",
+        "kana": "ドラマ",
+        "answer": "どらま"
+      },
+      {
+        "japanese": "毎日、ネットニュースを読んでいます。",
+        "english": "I read online news every day.",
+        "furigana": "ネットニュース",
+        "kana": "ネットニュース",
+        "answer": "ねっとにゅーす"
+      },
+      {
+        "japanese": "明日から夏のバーゲンが始まります。",
+        "english": "Summer bargains start tomorrow.",
+        "furigana": "バーゲン",
+        "kana": "バーゲン",
+        "answer": "ばーげん"
+      },
+      {
+        "japanese": "家のすぐ近くにバス停があります。",
+        "english": "There is a bus stop right by my house.",
+        "furigana": "バス 停[てい]",
+        "kana": "バス停",
+        "answer": "ばす停"
+      },
+      {
+        "japanese": "パソコンを見ていると、目が疲れます。",
+        "english": "After staring at my computer, my eyes get tired.",
+        "furigana": "パソコン",
+        "kana": "パソコン",
+        "answer": "ぱそこん"
+      },
+      {
+        "japanese": "豆腐のハンバーグは体にいいです。",
+        "english": "Tofu hamburger steak is good for you.",
+        "furigana": "ハンバーグ",
+        "kana": "ハンバーグ",
+        "answer": "はんばーぐ"
+      },
+      {
+        "japanese": "パンフレットを読んでから、パソコンを買います。",
+        "english": "I'm going to buy a computer after I read the pamphlet.",
+        "furigana": "パンフレット",
+        "kana": "パンフレット",
+        "answer": "ぱんふれっと"
+      },
+      {
+        "japanese": "この食事はビタミンが足りません。",
+        "english": "There aren't enough vitamins in this meal.",
+        "furigana": "ビタミン",
+        "kana": "ビタミン",
+        "answer": "びたみん"
+      },
+      {
+        "japanese": "資料をファイルに入れます。",
+        "english": "I'm going to put these materials in the file.",
+        "furigana": "ファイル",
+        "kana": "ファイル",
+        "answer": "ふぁいる"
+      },
+      {
+        "japanese": "これは今日の授業のプリントです。",
+        "english": "This is the handout for today's class.",
+        "furigana": "プリント",
+        "kana": "プリント",
+        "answer": "ぷりんと"
+      },
+      {
+        "japanese": "ホテルのフロントでパスポートを見せます。",
+        "english": "I will show my passport at the hotel front desk.",
+        "furigana": "フロント",
+        "kana": "フロント",
+        "answer": "ふろんと"
+      },
+      {
+        "japanese": "このアパートでペットは飼えません。",
+        "english": "You cannot have any pets in this apartment.",
+        "furigana": "ペット",
+        "kana": "ペット",
+        "answer": "ぺっと"
+      },
+      {
+        "japanese": "いつもお茶のペットボトルを持っています。",
+        "english": "I always have a plastic bottle of tea.",
+        "furigana": "ペットボトル",
+        "kana": "ペットボトル",
+        "answer": "ぺっとぼとる"
+      },
+      {
+        "japanese": "１２時半にベルが鳴ります。",
+        "english": "The bell rings at 12:30.",
+        "furigana": "ベル",
+        "kana": "ベル",
+        "answer": "べる"
+      },
+      {
+        "japanese": "夏と冬にボーナスがあります。",
+        "english": "There are bonuses in the summer and in the winter.",
+        "furigana": "ボーナス",
+        "kana": "ボーナス",
+        "answer": "ぼーなす"
+      },
+      {
+        "japanese": "時々ホームシックで泣いています。",
+        "english": "Sometimes I get homesick and cry.",
+        "furigana": "ホームシック",
+        "kana": "ホームシック",
+        "answer": "ほーむしっく"
+      },
+      {
+        "japanese": "このバッグはポケットが多いです。",
+        "english": "This bag has a lot of pockets.",
+        "furigana": "ポケット",
+        "kana": "ポケット",
+        "answer": "ぽけっと"
+      },
+      {
+        "japanese": "犬のポスターが欲しいです。",
+        "english": "I want a poster of a dog.",
+        "furigana": "ポスター",
+        "kana": "ポスター",
+        "answer": "ぽすたー"
+      },
+      {
+        "japanese": "休みの日にボランティアをしています。",
+        "english": "I work as a volunteer on my days off.",
+        "furigana": "ボランティア",
+        "kana": "ボランティア",
+        "answer": "ぼらんてぃあ"
+      },
+      {
+        "japanese": "うちのマンションは駅から歩いて３分です。",
+        "english": "My condominium is a three-minute walk from the station.",
+        "furigana": "マンション",
+        "kana": "マンション",
+        "answer": "まんしょん"
+      },
+      {
+        "japanese": "昼御飯を食べながらミーティングをしましょう。",
+        "english": "Let's have a meeting while eating lunch.",
+        "furigana": "ミーティング",
+        "kana": "ミーティング",
+        "answer": "みーてぃんぐ"
+      },
+      {
+        "japanese": "田中さんのメールアドレスを知っていますか。",
+        "english": "Do you know Tanaka-san's mail address?",
+        "furigana": "メールアドレス",
+        "kana": "メールアドレス",
+        "answer": "めーるあどれす"
+      },
+      {
+        "japanese": "今日の晩御飯のメニューは何ですか。",
+        "english": "What's on the menu for dinner tonight?",
+        "furigana": "メニュー",
+        "kana": "メニュー",
+        "answer": "めにゅー"
+      },
+      {
+        "japanese": "大切な事をメモしておきます。",
+        "english": "I write down important things.",
+        "furigana": "メモ＜する＞",
+        "kana": "メモ",
+        "answer": "めも"
+      },
+      {
+        "japanese": "この電車はラッシュでも座れます。",
+        "english": "You can find a seat on this train even during rush hour.",
+        "furigana": "ラッシュ",
+        "kana": "ラッシュ",
+        "answer": "らっしゅ"
+      },
+      {
+        "japanese": "コートをリサイクルに出しました。",
+        "english": "I recycled my coat.",
+        "furigana": "リサイクル",
+        "kana": "リサイクル",
+        "answer": "りさいくる"
+      },
+      {
+        "japanese": "このリュックには教科書が沢山入っています。",
+        "english": "There are a lot of textbooks in this backpack.",
+        "furigana": "リュック",
+        "kana": "リュック",
+        "answer": "りゅっく"
+      },
+      {
+        "japanese": "会社のルールを良く読んで下さい。",
+        "english": "Please read the company rules carefully.",
+        "furigana": "ルール",
+        "kana": "ルール",
+        "answer": "るーる"
+      },
+      {
+        "japanese": "明日はレインコートを着て、出掛けます。",
+        "english": "I'm going to wear a raincoat when I go out tomorrow.",
+        "furigana": "レインコート",
+        "kana": "レインコート",
+        "answer": "れいんこーと"
+      },
+      {
+        "japanese": "レジの前に１０人くらい並んでいます。",
+        "english": "There are about 10 lined up in front of the register.",
+        "furigana": "レジ",
+        "kana": "レジ",
+        "answer": "れじ"
+      },
+      {
+        "japanese": "買い物の時、レシートを貰います。",
+        "english": "I get receipts when I go shopping.",
+        "furigana": "レシート",
+        "kana": "レシート",
+        "answer": "れしーと"
+      },
+      {
+        "japanese": "英語でレポートを書かなければなりません。",
+        "english": "I have to write a report in English.",
+        "furigana": "レポート",
+        "kana": "レポート",
+        "answer": "れぽーと"
+      },
+      {
+        "japanese": "ワールドカップで優勝したいです。",
+        "english": "I want to win the World Cup.",
+        "furigana": "ワールドカップ",
+        "kana": "ワールドカップ",
+        "answer": "わーるどかっぷ"
+      },
+      {
+        "japanese": "娘はアイロンをかけるのが上手だ。",
+        "english": "My daughter is good at ironing.",
+        "furigana": "アイロン",
+        "kana": "アイロン",
+        "answer": "あいろん"
+      },
+      {
+        "japanese": "アクセルを踏んで、スピードを上げた。",
+        "english": "I stepped on the gas and increased the speed.",
+        "furigana": "アクセル",
+        "kana": "アクセル",
+        "answer": "あくせる"
+      },
+      {
+        "japanese": "アクセントに注意して、発音しよう。",
+        "english": "Be careful of the accents when pronouncing words.",
+        "furigana": "アクセント",
+        "kana": "アクセント",
+        "answer": "あくせんと"
+      },
+      {
+        "japanese": "先輩のアドバイスは役に立つ。",
+        "english": "My senior's advice is useful.",
+        "furigana": "アドバイス(する)",
+        "kana": "アドバイス",
+        "answer": "あどばいす"
+      },
+      {
+        "japanese": "アドレスは名刺に書いてある。",
+        "english": "The mail address is written on the business card.",
+        "furigana": "アドレス",
+        "kana": "アドレス",
+        "answer": "あどれす"
+      },
+      {
+        "japanese": "日本のアニメは、世界中で見られている。",
+        "english": "Japanese anime is watched all over the world.",
+        "furigana": "アニメ",
+        "kana": "アニメ",
+        "answer": "あにめ"
+      },
+      {
+        "japanese": "来月からアルバイトを減らすことにした。",
+        "english": "Starting next month, I'm going to reduce how much I work part-time.",
+        "furigana": "アルバイト(する)",
+        "kana": "アルバイト",
+        "answer": "あるばいと"
+      },
+      {
+        "japanese": "アルミホイルで包んで、魚を焼く。",
+        "english": "Wrap the fish in aluminium foil and bake it.",
+        "furigana": "アルミホイル",
+        "kana": "アルミホイル",
+        "answer": "あるみほいる"
+      },
+      {
+        "japanese": "病院で、猫アレルギーと言われた。",
+        "english": "At the hospital, I was told that I have a cat allergy.",
+        "furigana": "アレルギー",
+        "kana": "アレルギー",
+        "answer": "あれるぎー"
+      },
+      {
+        "japanese": "会社で商品に関するアンケートを取った。",
+        "english": "A survey about merchandise was taken at the office.",
+        "furigana": "アンケート",
+        "kana": "アンケート",
+        "answer": "あんけーと"
+      },
+      {
+        "japanese": "「＝」はイコールと読む。",
+        "english": "The sign \"=\" is read as \"equal.\"",
+        "furigana": "イコール",
+        "kana": "イコール",
+        "answer": "いこーる"
+      },
+      {
+        "japanese": "ジョギング中に、イヤホンで音楽を聞いている。",
+        "english": "I listen to music with my earphones while jogging.",
+        "furigana": "イヤホン",
+        "kana": "イヤホン",
+        "answer": "いやほん"
+      },
+      {
+        "japanese": "会社に、小さいイヤリングをして行く。",
+        "english": "I wear small clip-on earrings to work.",
+        "furigana": "イヤリング",
+        "kana": "イヤリング",
+        "answer": "いやりんぐ"
+      },
+      {
+        "japanese": "インターンは学生にとって、いい経験だ。",
+        "english": "Being an intern is a good experience for college students.",
+        "furigana": "インターン",
+        "kana": "インターン",
+        "answer": "いんたーん"
+      },
+      {
+        "japanese": "番組のインタビューで、仕事について聞かれた。",
+        "english": "I was asked about my job in a TV show interview.",
+        "furigana": "インタビュー(する)",
+        "kana": "インタビュー",
+        "answer": "いんたびゅー"
+      },
+      {
+        "japanese": "全国で、インフルエンザが流行している。",
+        "english": "The flu is spreading throughout the country.",
+        "furigana": "インフルエンザ",
+        "kana": "インフルエンザ",
+        "answer": "いんふるえんざ"
+      },
+      {
+        "japanese": "今年のインフルエンザのウイルスは、とても強いようだ。",
+        "english": "This year's influenza virus seems to be really strong.",
+        "furigana": "ウイルス",
+        "kana": "ウイルス",
+        "answer": "ういるす"
+      },
+      {
+        "japanese": "スポーツを始めるなら、まずウェアが必要だ。",
+        "english": "If you're going to start doing sports, you will need some sportswear to begin with.",
+        "furigana": "ウェア",
+        "kana": "ウェア",
+        "answer": "うぇあ"
+      },
+      {
+        "japanese": "このエアコンは電気代が安い。",
+        "english": "This air conditioner doesn't use a lot of electricity, so it's inexpensive.",
+        "furigana": "エアコン",
+        "kana": "エアコン",
+        "answer": "えあこん"
+      },
+      {
+        "japanese": "この車のエンジンの音は、ちょっとおかしい。",
+        "english": "The sound of this car's engine is a little strange.",
+        "furigana": "エンジン",
+        "kana": "エンジン",
+        "answer": "えんじん"
+      },
+      {
+        "japanese": "あの人は何でもオーバーに言う。",
+        "english": "That person exaggerates everything.",
+        "furigana": "オーバー(な)",
+        "kana": "オーバー",
+        "answer": "おーばー"
+      },
+      {
+        "japanese": "オフの日も、会社の同期と会う。",
+        "english": "I meet my contemporaries even on my days off.",
+        "furigana": "オフ",
+        "kana": "オフ",
+        "answer": "おふ"
+      },
+      {
+        "japanese": "カーナビがあれば、どこへでも行ける。",
+        "english": "If you have GPS in your car, you can go anywhere.",
+        "furigana": "カーナビ",
+        "kana": "カーナビ",
+        "answer": "かーなび"
+      },
+      {
+        "japanese": "ここから長いカーブの道が続く。",
+        "english": "From here, the road gets very curvy for a while.",
+        "furigana": "カーブ",
+        "kana": "カーブ",
+        "answer": "かーぶ"
+      },
+      {
+        "japanese": "畳みの上に、カーペットを敷いている。",
+        "english": "There is a carpet spread over the tatami mats.",
+        "furigana": "カーペット",
+        "kana": "カーペット",
+        "answer": "かーぺっと"
+      },
+      {
+        "japanese": "カウンセリングを受けると、気持ちが楽になる。",
+        "english": "When you receive counseling, you feel much better.",
+        "furigana": "カウンセリング(する)",
+        "kana": "カウンセリング",
+        "answer": "かうんせりんぐ"
+      },
+      {
+        "japanese": "ガスレンジから変な臭いがする。",
+        "english": "There is a strange smell coming from the gas stove.",
+        "furigana": "ガスレンジ",
+        "kana": "ガスレンジ",
+        "answer": "がすれんじ"
+      },
+      {
+        "japanese": "買い物に行けないので、カタログで洋服を買う。",
+        "english": "I can't go shopping, so I buy clothes from catalogues.",
+        "furigana": "カタログ",
+        "kana": "カタログ",
+        "answer": "かたろぐ"
+      },
+      {
+        "japanese": "夏になったら、髪をカットしたい。",
+        "english": "I want to get my hair cut when it becomes summer.",
+        "furigana": "カット(する)",
+        "kana": "カット",
+        "answer": "かっと"
+      },
+      {
+        "japanese": "この時間のバスはガラガラだ。",
+        "english": "The bus is empty at this time.",
+        "furigana": "ガラガラな",
+        "kana": "ガラガラ",
+        "answer": "がらがら"
+      },
+      {
+        "japanese": "食品のカロリーが、とても気になる。",
+        "english": "I'm really concerned about calories in food.",
+        "furigana": "カロリー",
+        "kana": "カロリー",
+        "answer": "かろりー"
+      },
+      {
+        "japanese": "カンニングをした学生が注意された。",
+        "english": "The student who cheated was warned.",
+        "furigana": "カンニング(する)",
+        "kana": "カンニング",
+        "answer": "かんにんぐ"
+      },
+      {
+        "japanese": "銀行からキャッシュカードが届いた。",
+        "english": "My cash card arrived from the bank.",
+        "furigana": "キャッシュカード",
+        "kana": "キャッシュカード",
+        "answer": "きゃっしゅかーど"
+      },
+      {
+        "japanese": "高校３年の時、キャプテンだった。",
+        "english": "When I was in my third year of high school, I was a captain.",
+        "furigana": "キャプテン",
+        "kana": "キャプテン",
+        "answer": "きゃぷてん"
+      },
+      {
+        "japanese": "これが合格ぎりぎりの点だった。",
+        "english": "This was just barely a passing score.",
+        "furigana": "ギリギリ(な)",
+        "kana": "ギリギリ",
+        "answer": "ぎりぎり"
+      },
+      {
+        "japanese": "試験の時間ぎりぎりに間に合った。",
+        "english": "I just barely made it to the exam on time.",
+        "furigana": "ギリギリ(な)",
+        "kana": "ギリギリ",
+        "answer": "ぎりぎり"
+      },
+      {
+        "japanese": "私の国は暑いので、クーラーしかない。",
+        "english": "My home country is hot, so all we have are coolers.",
+        "furigana": "クーラー",
+        "kana": "クーラー",
+        "answer": "くーらー"
+      },
+      {
+        "japanese": "毎日仕事が忙しくて、もうクタクタだ。",
+        "english": "I'm busy at work every day, so I'm exhausted.",
+        "furigana": "クタクタ(な)",
+        "kana": "クタクタ",
+        "answer": "くたくた"
+      },
+      {
+        "japanese": "ソファーに合うクッションを買った。",
+        "english": "I bought some cushion to match the sofa.",
+        "furigana": "クッション",
+        "kana": "クッション",
+        "answer": "くっしょん"
+      },
+      {
+        "japanese": "ビールを飲むグラスは、どれがいいですか。",
+        "english": "Which glass is good for drinking beer?",
+        "furigana": "グラス",
+        "kana": "グラス",
+        "answer": "ぐらす"
+      },
+      {
+        "japanese": "次のグラフを見て、答えて下さい。",
+        "english": "Please look at the next graph and answer.",
+        "furigana": "グラフ",
+        "kana": "グラフ",
+        "answer": "ぐらふ"
+      },
+      {
+        "japanese": "ここをクリックすると、画面が変わる。",
+        "english": "If you click here, the screen will change.",
+        "furigana": "クリック(する)",
+        "kana": "クリック",
+        "answer": "くりっく"
+      },
+      {
+        "japanese": "彼はグルメで、色々な店を知っている。",
+        "english": "He's a foodie, so he knows many restaurants.",
+        "furigana": "グルメ",
+        "kana": "グルメ",
+        "answer": "ぐるめ"
+      },
+      {
+        "japanese": "このクレジットカードは、とても便利だ。",
+        "english": "This credit card is very convenient.",
+        "furigana": "クレジットカード",
+        "kana": "クレジットカード",
+        "answer": "くれじっとかーど"
+      },
+      {
+        "japanese": "マラソンで、５時間かかってゴールした。",
+        "english": "In the marathon, it took five hours to get to the goal.",
+        "furigana": "ゴール(する)",
+        "kana": "ゴール",
+        "answer": "ごーる"
+      },
+      {
+        "japanese": "４月下旬から５月の初めに、ゴールデンウイークという連休がある。",
+        "english": "There is a consecutive holiday from the end of April to the beginning of May called Golden Week.",
+        "furigana": "ゴールデンウイーク",
+        "kana": "ゴールデンウイーク",
+        "answer": "ごーるでんういーく"
+      },
+      {
+        "japanese": "海外のコインを集めるのが好きだ。",
+        "english": "I like collecting coins from other countries.",
+        "furigana": "コイン",
+        "kana": "コイン",
+        "answer": "こいん"
+      },
+      {
+        "japanese": "来年の絵画コンクールに、チャレンジするつもりだ。",
+        "english": "I intend to try entering the next year's painting contest.",
+        "furigana": "コンクール",
+        "kana": "コンクール",
+        "answer": "こんくーる"
+      },
+      {
+        "japanese": "あのアパートは、コンクリートでできている。",
+        "english": "That apartment building is made of concrete.",
+        "furigana": "コンクリート",
+        "kana": "コンクリート",
+        "answer": "こんくりーと"
+      },
+      {
+        "japanese": "この部屋はコンセントが多くて、便利だ。",
+        "english": "This room has many power outlets, which is convenient.",
+        "furigana": "コンセント",
+        "kana": "コンセント",
+        "answer": "こんせんと"
+      },
+      {
+        "japanese": "大学時代から、音楽のサークルに入っている。",
+        "english": "I've been in a music circle since I was in university.",
+        "furigana": "サークル",
+        "kana": "サークル",
+        "answer": "さーくる"
+      },
+      {
+        "japanese": "このデザインの、他のサイズはありますか。",
+        "english": "Do you have this design in another size?",
+        "furigana": "サイズ",
+        "kana": "サイズ",
+        "answer": "さいず"
+      },
+      {
+        "japanese": "二日も授業をサボって、先生に叱られた。",
+        "english": "I skipped class two days in a row and was scolded by the teacher.",
+        "furigana": "サボる",
+        "kana": "サボる",
+        "answer": "さぼる"
+      },
+      {
+        "japanese": "サラダ油を買って来るのを忘れた。",
+        "english": "I forgot to go and buy salad oil.",
+        "furigana": "サラダ 油[あぶら]",
+        "kana": "サラダ油",
+        "answer": "さらだ油"
+      },
+      {
+        "japanese": "サラリーマンらしいスーツを買った。",
+        "english": "I bought a suit befitting a businessman.",
+        "furigana": "サラリーマン",
+        "kana": "サラリーマン",
+        "answer": "さらりーまん"
+      },
+      {
+        "japanese": "デパートで、化粧品のサンプルをもらった。",
+        "english": "I received a sample of beauty products at the department store.",
+        "furigana": "サンプル",
+        "kana": "サンプル",
+        "answer": "さんぷる"
+      },
+      {
+        "japanese": "シートベルトをするのを、忘れないで下さい。",
+        "english": "Please don't forget to wear your seat belt.",
+        "furigana": "シートベルト",
+        "kana": "シートベルト",
+        "answer": "しーとべると"
+      },
+      {
+        "japanese": "私の会社では、ジーンズは禁止されている。",
+        "english": "Jeans are prohibited at my company.",
+        "furigana": "ジーンズ",
+        "kana": "ジーンズ",
+        "answer": "じーんず"
+      },
+      {
+        "japanese": "言葉が通じない場合は、ジェスチャーで伝える。",
+        "english": "When words don't work for communication, use gestures.",
+        "furigana": "ジェスチャー",
+        "kana": "ジェスチャー",
+        "answer": "じぇすちゃー"
+      },
+      {
+        "japanese": "親友の言葉に、酷いショックを受けた。",
+        "english": "I was terribly shocked at my friend's words.",
+        "furigana": "ショック",
+        "kana": "ショック",
+        "answer": "しょっく"
+      },
+      {
+        "japanese": "近くに、とてもおしゃれなショップができた。",
+        "english": "A very fashionable shop has opened nearby.",
+        "furigana": "ショップ",
+        "kana": "ショップ",
+        "answer": "しょっぷ"
+      },
+      {
+        "japanese": "『スーパーマン』のシリーズは、全部見た。",
+        "english": "I've seen the entire Superman series.",
+        "furigana": "シリーズ",
+        "kana": "シリーズ",
+        "answer": "しりーず"
+      },
+      {
+        "japanese": "今日はシンプルなファッションで出かけよう。",
+        "english": "Today, I'm going out wearing simple fashion.",
+        "furigana": "シンプルな",
+        "kana": "シンプルな",
+        "answer": "しんぷるな"
+      },
+      {
+        "japanese": "お土産をたくさん買って、スーツケースが重い。",
+        "english": "I bought a lot of souvenirs, so my suitcase is really heavy.",
+        "furigana": "スーツケース",
+        "kana": "スーツケース",
+        "answer": "すーつけーす"
+      },
+      {
+        "japanese": "暗くて、スイッチがどこか分からない。",
+        "english": "It's dark, so I can't see where the switch is.",
+        "furigana": "スイッチ",
+        "kana": "スイッチ",
+        "answer": "すいっち"
+      },
+      {
+        "japanese": "ブランドのスカーフを何枚か持っている。",
+        "english": "I have several brand-name scarfs.",
+        "furigana": "スカーフ",
+        "kana": "スカーフ",
+        "answer": "すかーふ"
+      },
+      {
+        "japanese": "この小説のストーリーは、面白い。",
+        "english": "The story of this novel is interesting.",
+        "furigana": "ストーリー",
+        "kana": "ストーリー",
+        "answer": "すとーりー"
+      },
+      {
+        "japanese": "細いストライプのTシャツを買った。",
+        "english": "I bought a T-shirt with thin stripes.",
+        "furigana": "ストライプ",
+        "kana": "ストライプ",
+        "answer": "すとらいぷ"
+      },
+      {
+        "japanese": "スピード違反をしたことがない。",
+        "english": "I've never gotten a speeding ticket.",
+        "furigana": "スピード 違反[いはん]",
+        "kana": "スピード違反",
+        "answer": "すぴーど違反"
+      },
+      {
+        "japanese": "彼女はモデルみたいにスマートだ。",
+        "english": "She is slim like a model.",
+        "furigana": "スマート(な)",
+        "kana": "スマート",
+        "answer": "すまーと"
+      },
+      {
+        "japanese": "彼は女性に対して、いつもスマートだ。",
+        "english": "He is always so gentlemanly with women.",
+        "furigana": "スマート(な)",
+        "kana": "スマート",
+        "answer": "すまーと"
+      },
+      {
+        "japanese": "目覚ましを７時にセットした。",
+        "english": "I set my alarm clock for 7:00.",
+        "furigana": "セット(する)",
+        "kana": "セット",
+        "answer": "せっと"
+      },
+      {
+        "japanese": "どのゼミを選ぶか、まだ考えている。",
+        "english": "I'm still thinking about which seminar to take.",
+        "furigana": "ゼミ",
+        "kana": "ゼミ",
+        "answer": "ぜみ"
+      },
+      {
+        "japanese": "１メートルは、何センチですか。",
+        "english": "How many centimeters is one meter?",
+        "furigana": "センチ",
+        "kana": "センチ",
+        "answer": "せんち"
+      },
+      {
+        "japanese": "テレビを見る時は、ソファーに座る。",
+        "english": "I sit on the sofa when I watch TV.",
+        "furigana": "ソファー",
+        "kana": "ソファー",
+        "answer": "そふぁー"
+      },
+      {
+        "japanese": "太ったので、ダイエットを始めようと思う。",
+        "english": "Since I've gotten fat, I think I'll start going on a diet.",
+        "furigana": "ダイエット",
+        "kana": "ダイエット",
+        "answer": "だいえっと"
+      },
+      {
+        "japanese": "便利なソフトウェアを、無料でダウンロードした。",
+        "english": "I downloaded some useful software for free.",
+        "furigana": "ダウンロード(する)",
+        "kana": "ダウンロード",
+        "answer": "だうんろーど"
+      },
+      {
+        "japanese": "スカイツリーは、日本で一番高いタワーだ。",
+        "english": "The Tokyo Skytree is the tallest tower in Japan.",
+        "furigana": "タワー",
+        "kana": "タワー",
+        "answer": "たわー"
+      },
+      {
+        "japanese": "この旅館は、３時以降にチェックインできる。",
+        "english": "At this Japanese-style inn, you can check in after 3:00.",
+        "furigana": "チェックイン(する)",
+        "kana": "チェックイン",
+        "answer": "ちぇっくいん"
+      },
+      {
+        "japanese": "母と日帰りのバスツアーに参加した。",
+        "english": "I went on a day-trip bus tour with my mother.",
+        "furigana": "ツアー",
+        "kana": "ツアー",
+        "answer": "つあー"
+      },
+      {
+        "japanese": "論文のテーマを、来週までに決めなければいけない。",
+        "english": "I have to chose the theme for my thesis by next week.",
+        "furigana": "テーマ",
+        "kana": "テーマ",
+        "answer": "てーま"
+      },
+      {
+        "japanese": "昨日のディナーは高級レストランで食べた。",
+        "english": "Yesterday, I ate dinner at a high-class restaurant.",
+        "furigana": "ディナー",
+        "kana": "ディナー",
+        "answer": "でぃなー"
+      },
+      {
+        "japanese": "お腹が一杯だが、デザートは食べられる。",
+        "english": "I'm full, but I can eat dessert.",
+        "furigana": "デザート",
+        "kana": "デザート",
+        "answer": "でざーと"
+      },
+      {
+        "japanese": "大好きな人が近くにいると、ドキドキする。",
+        "english": "Whenever the person I love is close to me, my heart races.",
+        "furigana": "ドキドキ(する)",
+        "kana": "ドキドキ",
+        "answer": "どきどき"
+      },
+      {
+        "japanese": "私の趣味はドライブです。",
+        "english": "My hobby is going out for a drive.",
+        "furigana": "ドライブ (する)",
+        "kana": "ドライブ",
+        "answer": "どらいぶ"
+      },
+      {
+        "japanese": "ドライヤーは小さい方がいい。",
+        "english": "It's best to have a small hair dryer.",
+        "furigana": "ドライヤー",
+        "kana": "ドライヤー",
+        "answer": "どらいやー"
+      },
+      {
+        "japanese": "トラックが、私の車を追い越していった。",
+        "english": "A truck passed my car.",
+        "furigana": "トラック",
+        "kana": "トラック",
+        "answer": "とらっく"
+      },
+      {
+        "japanese": "車のトランクに、ゴルフの道具が入っている。",
+        "english": "There is golf equipment in the car trunk.",
+        "furigana": "トランク",
+        "kana": "トランク",
+        "answer": "とらんく"
+      },
+      {
+        "japanese": "日本円をドルに両替して、海外へ持って行く。",
+        "english": "I'm going to exchange Japanese yen into dollars and take them with me abroad.",
+        "furigana": "ドル",
+        "kana": "ドル",
+        "answer": "どる"
+      },
+      {
+        "japanese": "毎日授業の後、３時間トレーニングしている。",
+        "english": "Every day after class, I do three hours of training.",
+        "furigana": "トレーニング (する)",
+        "kana": "トレーニング",
+        "answer": "とれーにんぐ"
+      },
+      {
+        "japanese": "パーティーに、ダイヤのネックレスをして行く。",
+        "english": "I'm going to wear a diamong necklace to the party.",
+        "furigana": "ネックレス",
+        "kana": "ネックレス",
+        "answer": "ねっくれす"
+      },
+      {
+        "japanese": "私はこのノートパソコンを、８年も使っている。",
+        "english": "I've been using my notebook computer for eight years now.",
+        "furigana": "ノートパソコン",
+        "kana": "ノートパソコン",
+        "answer": "のーとぱそこん"
+      },
+      {
+        "japanese": "部屋に入る時は、ドアをノックして下さい。",
+        "english": "Please knock on the door when entering the room.",
+        "furigana": "ノック",
+        "kana": "ノック",
+        "answer": "のっく"
+      },
+      {
+        "japanese": "この靴は、バーゲンセールで半額だった。",
+        "english": "These shoes were half price at a bargain sale.",
+        "furigana": "バーゲンセール",
+        "kana": "バーゲンセール",
+        "answer": "ばーげんせーる"
+      },
+      {
+        "japanese": "たまにはパーマをかけて、気分を変えよう。",
+        "english": "Once in a while, I get a perm to change my mood.",
+        "furigana": "パーマ",
+        "kana": "パーマ",
+        "answer": "ぱーま"
+      },
+      {
+        "japanese": "もう少し大きなバケツは、ありませんか。",
+        "english": "Do you have a slightly bigger bucket?",
+        "furigana": "バケツ",
+        "kana": "バケツ",
+        "answer": "ばけつ"
+      },
+      {
+        "japanese": "今年、バス代が高くなった。",
+        "english": "This year, bus fare got more expensive.",
+        "furigana": "バス 代[だい]",
+        "kana": "バス代",
+        "answer": "ばす代"
+      },
+      {
+        "japanese": "私のアパートの近くに、バス停がある。",
+        "english": "There is a bus stop near my apartment building.",
+        "furigana": "バス 停[てい]",
+        "kana": "バス停",
+        "answer": "ばす停"
+      },
+      {
+        "japanese": "昨日、深夜までパトカーの音が聞こえた。",
+        "english": "Yesterday, I heard the sound of police cars all throughout the night.",
+        "furigana": "パトカー",
+        "kana": "パトカー",
+        "answer": "ぱとかー"
+      },
+      {
+        "japanese": "大きな事故の現場を見て、パニックになった。",
+        "english": "After seeing the scene of the big accident, I panicked.",
+        "furigana": "パニック",
+        "kana": "パニック",
+        "answer": "ぱにっく"
+      },
+      {
+        "japanese": "食事は、肉と野菜のバランスが大切だ。",
+        "english": "It's important to have a good balance of meat and vegetables in your meals.",
+        "furigana": "バランス",
+        "kana": "バランス",
+        "answer": "ばらんす"
+      },
+      {
+        "japanese": "若者のパワーが、これからの社会をつくる。",
+        "english": "Young people's power builds the future of society.",
+        "furigana": "パワー",
+        "kana": "パワー",
+        "answer": "ぱわー"
+      },
+      {
+        "japanese": "彼の車は、何かを踏んでパンクした。",
+        "english": "His car ran over something and got a flat tire.",
+        "furigana": "パンク(する)",
+        "kana": "パンク",
+        "answer": "ぱんく"
+      },
+      {
+        "japanese": "娘は父に「パパはハンサムだね。」と言う。",
+        "english": "The daughter says to her father, \"Papa, you're handsome.\"",
+        "furigana": "ハンサム(な)",
+        "kana": "ハンサム",
+        "answer": "はんさむ"
+      },
+      {
+        "japanese": "スカートより、パンツのスーツが好きだ。",
+        "english": "I like pantsuits more than skirts.",
+        "furigana": "パンツ",
+        "kana": "パンツ",
+        "answer": "ぱんつ"
+      },
+      {
+        "japanese": "初めてハンドルを握った時は、緊張した。",
+        "english": "I was nervous the first time I gripped a steering wheel.",
+        "furigana": "ハンドル",
+        "kana": "ハンドル",
+        "answer": "はんどる"
+      },
+      {
+        "japanese": "今日の暑さが、今年のピークと言えるだろう。",
+        "english": "It could be said that today's heat is the peak for this year.",
+        "furigana": "ピーク",
+        "kana": "ピーク",
+        "answer": "ぴーく"
+      },
+      {
+        "japanese": "今一番ヒットしている曲をダウンロードした。",
+        "english": "I downloaded the biggest hit song right now.",
+        "furigana": "ヒット(する)",
+        "kana": "ヒット",
+        "answer": "ひっと"
+      },
+      {
+        "japanese": "私は彼の大ファンで、ずっと応援している。",
+        "english": "I'm a big fan of his, and I have rooted for him for quite a while.",
+        "furigana": "ファン",
+        "kana": "ファン",
+        "answer": "ふぁん"
+      },
+      {
+        "japanese": "フライパンで、オムレツを作った。",
+        "english": "I made an omelet with a frying pan.",
+        "furigana": "フライパン",
+        "kana": "フライパン",
+        "answer": "ふらいぱん"
+      },
+      {
+        "japanese": "ブラシで、お風呂を洗う。",
+        "english": "I wash the bathrub with a brush.",
+        "furigana": "ブラシ",
+        "kana": "ブラシ",
+        "answer": "ぶらし"
+      },
+      {
+        "japanese": "明日の気温は、今日と比べてプラス３度らしい。",
+        "english": "Compared to today's temperature, tomorrow's is going to be three degrees higher.",
+        "furigana": "プラス",
+        "kana": "プラス",
+        "answer": "ぷらす"
+      },
+      {
+        "japanese": "ボーナスで、ブランドのバッグを買った。",
+        "english": "I bought a brand-name bag with my bonus.",
+        "furigana": "ブランド",
+        "kana": "ブランド",
+        "answer": "ぶらんど"
+      },
+      {
+        "japanese": "弟は大学を卒業してからずっとフリーターだ。",
+        "english": "My younger brother has been a freeter ever since he graduated from college.",
+        "furigana": "フリーター",
+        "kana": "フリーター",
+        "answer": "ふりーたー"
+      },
+      {
+        "japanese": "大好きな選手が、亜米利加でプレーしている。",
+        "english": "My favorite athlete is playing in America.",
+        "furigana": "プレー(する)",
+        "kana": "プレー",
+        "answer": "ぷれー"
+      },
+      {
+        "japanese": "急なブレーキで、バスが止まった。",
+        "english": "The bus braked suddenly.",
+        "furigana": "ブレーキ",
+        "kana": "ブレーキ",
+        "answer": "ぶれーき"
+      },
+      {
+        "japanese": "上司からのプレッシャーに負けたくない。",
+        "english": "I don't want to break under the pressure from my supervisor.",
+        "furigana": "プレッシャー",
+        "kana": "プレッシャー",
+        "answer": "ぷれっしゃー"
+      },
+      {
+        "japanese": "弟は、プロのスポーツ選手になるのが夢だ。",
+        "english": "My younger brother's dream is to become a professional sports athlete.",
+        "furigana": "プロ",
+        "kana": "プロ",
+        "answer": "ぷろ"
+      },
+      {
+        "japanese": "友達のブログは、毎日更新されている。",
+        "english": "My friend's blog is updated every day.",
+        "furigana": "ブログ",
+        "kana": "ブログ",
+        "answer": "ぶろぐ"
+      },
+      {
+        "japanese": "引っ越ししたので、プロバイダーに連絡した。",
+        "english": "I moved, so I contacted the Internet provider.",
+        "furigana": "プロバイダー",
+        "kana": "プロバイダー",
+        "answer": "ぷろばいだー"
+      },
+      {
+        "japanese": "あの選手は３０キロ走っても、ペースが落ちない。",
+        "english": "That runner's pace doesn't drop, even after running 30 kilometers.",
+        "furigana": "ペース",
+        "kana": "ペース",
+        "answer": "ぺーす"
+      },
+      {
+        "japanese": "ジョギングの後なので、お腹がぺこぺこだ。",
+        "english": "After jogging, I get famished.",
+        "furigana": "ぺこぺこ(な)",
+        "kana": "ぺこぺこ",
+        "answer": "ぺこぺこ"
+      },
+      {
+        "japanese": "彼女は５か国語を、ぺらぺらと話す。",
+        "english": "She is fluent in five languages.",
+        "furigana": "ぺらぺら(と)",
+        "kana": "ぺらぺら",
+        "answer": "ぺらぺら"
+      },
+      {
+        "japanese": "ブランドのベルトを父にプレゼントした。",
+        "english": "I gave my father a brand-name belt as a present.",
+        "furigana": "ベルト",
+        "kana": "ベルト",
+        "answer": "べると"
+      },
+      {
+        "japanese": "ホームに、たくさんの人が並んでいる。",
+        "english": "There are many people lined up on the platform.",
+        "furigana": "ホーム",
+        "kana": "ホーム",
+        "answer": "ほーむ"
+      },
+      {
+        "japanese": "行きたい会社のホームページをチェックする。",
+        "english": "I'll check the homepage of the company I want to go to.",
+        "furigana": "ホームページ",
+        "kana": "ホームページ",
+        "answer": "ほーむぺーじ"
+      },
+      {
+        "japanese": "これで、今日３本目のホームランだ。",
+        "english": "This is the third homerun today.",
+        "furigana": "ホームラン",
+        "kana": "ホームラン",
+        "answer": "ほーむらん"
+      },
+      {
+        "japanese": "市のホールで、よくコンサートが開かれる。",
+        "english": "Concerts are often held at the city's hall.",
+        "furigana": "ホール",
+        "kana": "ホール",
+        "answer": "ほーる"
+      },
+      {
+        "japanese": "両チーム、どちらも強くて、なかなかポイントが入らない。",
+        "english": "Both teams are good, so there hasn't been much scoring.",
+        "furigana": "ポイント",
+        "kana": "ポイント",
+        "answer": "ぽいんと"
+      },
+      {
+        "japanese": "ボランティアに参加して、成長したい。",
+        "english": "I want to work as a volunteer and gain experience.",
+        "furigana": "ボランティア",
+        "kana": "ボランティア",
+        "answer": "ぼらんてぃあ"
+      },
+      {
+        "japanese": "今日の気温は、昨日と比べてマイナス１０度だった。",
+        "english": "Compared to yesterday's temperature, it's 10 degrees lower today.",
+        "furigana": "マイナス",
+        "kana": "マイナス",
+        "answer": "まいなす"
+      },
+      {
+        "japanese": "明日の朝の気温は、マイナスになるだろう。",
+        "english": "The temperature for tomorrow morning will likely be below zero.",
+        "furigana": "マイナス",
+        "kana": "マイナス",
+        "answer": "まいなす"
+      },
+      {
+        "japanese": "パソコンは古いが、マウスは新しい。",
+        "english": "The computer is old, but the mouse is new.",
+        "furigana": "マウス",
+        "kana": "マウス",
+        "answer": "まうす"
+      },
+      {
+        "japanese": "A「あの番組の司会者が、昨日入院したって。」 B「まさか。あんなに元気だったのに。」",
+        "english": "A: I hear the host of that show was hospitalized yesterday. B: No way. And he seemed so healthy.",
+        "furigana": "まさか",
+        "kana": "まさか",
+        "answer": "まさか"
+      },
+      {
+        "japanese": "花粉症の季節は、マスクをする。",
+        "english": "I wear a mask during hay fever season.",
+        "furigana": "マスク",
+        "kana": "マスク",
+        "answer": "ますく"
+      },
+      {
+        "japanese": "外国語をマスターするのは大変だ。",
+        "english": "It's hard to master foreign languages.",
+        "furigana": "マスター(する)",
+        "kana": "マスター",
+        "answer": "ますたー"
+      },
+      {
+        "japanese": "肩凝りが酷いので、マッサージしてもらった。",
+        "english": "My stiff shoulders were pretty bad, so I got a massage.",
+        "furigana": "マッサージ(する)",
+        "kana": "マッサージ",
+        "answer": "まっさーじ"
+      },
+      {
+        "japanese": "彼はタバコのマナーを知らない。",
+        "english": "He doesn't have any manners when it comes to smoking.",
+        "furigana": "マナー",
+        "kana": "マナー",
+        "answer": "まなー"
+      },
+      {
+        "japanese": "寒い日でも、マフラーがあれば暖かい。",
+        "english": "Even on cold days, it's warm if you have a scarf.",
+        "furigana": "マフラー",
+        "kana": "マフラー",
+        "answer": "まふらー"
+      },
+      {
+        "japanese": "３時からのミーティングには、社長も出席する。",
+        "english": "The president will also be present at the 3:00 meeting.",
+        "furigana": "ミーティング(する)",
+        "kana": "ミーティング",
+        "answer": "みーてぃんぐ"
+      },
+      {
+        "japanese": "ミスは、誰にでもあることだ。",
+        "english": "Everyone makes mistakes.",
+        "furigana": "ミス(する)",
+        "kana": "ミス",
+        "answer": "みす"
+      },
+      {
+        "japanese": "A「明日のパーティーのメンバーは、誰ですか。」 B「先生と私達です。」",
+        "english": "A: Who are the members of tomorrow's party? B: The teacher and us.",
+        "furigana": "メンバー",
+        "kana": "メンバー",
+        "answer": "めんばー"
+      },
+      {
+        "japanese": "あの店のモーニングセットは、安くて美味しい。",
+        "english": "That restaurant's morning set meal is inexpensive and delicious.",
+        "furigana": "モーニング",
+        "kana": "モーニング",
+        "answer": "もーにんぐ"
+      },
+      {
+        "japanese": "ユーモアのない人と話しても、面白くない。",
+        "english": "Talking to people with no sense of humor is no fun.",
+        "furigana": "ユーモア",
+        "kana": "ユーモア",
+        "answer": "ゆーもあ"
+      },
+      {
+        "japanese": "あのタワーは夜７時になると、ライトが点く。",
+        "english": "The lights at that tower turn on at 7:00.",
+        "furigana": "ライト",
+        "kana": "ライト",
+        "answer": "らいと"
+      },
+      {
+        "japanese": "ライバルには、絶対に負けたくない。",
+        "english": "I definitely don't want to lose to my rival.",
+        "furigana": "ライバル",
+        "kana": "ライバル",
+        "answer": "らいばる"
+      },
+      {
+        "japanese": "残ったものはラップして、冷蔵庫に入れておく。",
+        "english": "Wrap the leftovers and put them in the refrigerator.",
+        "furigana": "ラップ(する)",
+        "kana": "ラップ",
+        "answer": "らっぷ"
+      },
+      {
+        "japanese": "ここのランチメニューは、美味しそうだ。",
+        "english": "The lunch menu here looks delicious.",
+        "furigana": "ランチ",
+        "kana": "ランチ",
+        "answer": "らんち"
+      },
+      {
+        "japanese": "洋服も家具もリサイクルできる。",
+        "english": "You can recycle clothes as well as furniture.",
+        "furigana": "リサイクル(する)",
+        "kana": "リサイクル",
+        "answer": "りさいくる"
+      },
+      {
+        "japanese": "リビングが広いので、この部屋に決めた。",
+        "english": "I chose this apartment because the living room is so spacious.",
+        "furigana": "リビング",
+        "kana": "リビング",
+        "answer": "りびんぐ"
+      },
+      {
+        "japanese": "家に帰って、リビングでリラックスする。",
+        "english": "When I get home, I relax in the living room.",
+        "furigana": "リラックス(する)",
+        "kana": "リラックス",
+        "answer": "りらっくす"
+      },
+      {
+        "japanese": "あのスーパーでは、レジ袋が３円です。",
+        "english": "Shopping bags are three yen at that supermarket.",
+        "furigana": "レジ 袋[ぶくろ]",
+        "kana": "レジ袋",
+        "answer": "れじ袋"
+      },
+      {
+        "japanese": "早くN１レベルの勉強をしたい。",
+        "english": "I want to study the N1 level soon.",
+        "furigana": "レベル",
+        "kana": "レベル",
+        "answer": "れべる"
+      },
+      {
+        "japanese": "結婚式のドレスは、レンタルにした。",
+        "english": "I rented a dress for the wedding.",
+        "furigana": "レンタル (する)",
+        "kana": "レンタル",
+        "answer": "れんたる"
+      },
+      {
+        "japanese": "デパートで、面接のためのワイシャツを買った。",
+        "english": "I bought a white collard shirt for job interviews at the department store.",
+        "furigana": "ワイシャツ",
+        "kana": "ワイシャツ",
+        "answer": "わいしゃつ"
+      },
+      {
+        "japanese": "大好きなアイドルのコンサートには必ず行く。",
+        "english": "I will definitely go to my favorite idol's concert.",
+        "furigana": "アイドル",
+        "kana": "アイドル",
+        "answer": "あいどる"
+      },
+      {
+        "japanese": "週末はいつも、アウトドアを楽しんでいる。",
+        "english": "I enjoy playing outdoors every weekend.",
+        "furigana": "アウトドア",
+        "kana": "アウトドア",
+        "answer": "あうとどあ"
+      },
+      {
+        "japanese": "この地域は東京からのアクセスが悪い。",
+        "english": "Access to Tokyo from this area is not convenient.",
+        "furigana": "アクセス",
+        "kana": "アクセス[1]",
+        "answer": "あくせす[1]"
+      },
+      {
+        "japanese": "市のホームベージにアクセスする。",
+        "english": "Access the city's webpage.",
+        "furigana": "アクセス",
+        "kana": "アクセス[2]",
+        "answer": "あくせす[2]"
+      },
+      {
+        "japanese": "面接で上手に自分をアピール出来るか心配だ。",
+        "english": "I am worried about whether I'll be able to sell myself in the interview.",
+        "furigana": "アピール",
+        "kana": "アピール",
+        "answer": "あぴーる"
+      },
+      {
+        "japanese": "先にアプローチしたのは彼だった。",
+        "english": "He was the one who approached first.",
+        "furigana": "アプローチ",
+        "kana": "アプローチ",
+        "answer": "あぷろーち"
+      },
+      {
+        "japanese": "メールで打ち合わせのアポイントを取った。",
+        "english": "I sent an e-mail to make an appointment.",
+        "furigana": "アポイント",
+        "kana": "アポイント",
+        "answer": "あぽいんと"
+      },
+      {
+        "japanese": "テレビのアンテナが古かったので、取替えた。",
+        "english": "I changed the TV antenna because it was old.",
+        "furigana": "アンテナ",
+        "kana": "アンテナ",
+        "answer": "あんてな"
+      },
+      {
+        "japanese": "週末のイベントが楽しみだ。",
+        "english": "I'm looking forvard to the weekend event.",
+        "furigana": "イベント",
+        "kana": "イベント",
+        "answer": "いべんと"
+      },
+      {
+        "japanese": "インクが少なくなってきたので、買っておこう。",
+        "english": "The printer is running out of ink, so I need to go buy some.",
+        "furigana": "インク",
+        "kana": "インク",
+        "answer": "いんく"
+      },
+      {
+        "japanese": "私の国ではインフレが続いている。",
+        "english": "Inflation continues in my country.",
+        "furigana": "インフレ",
+        "kana": "インフレ",
+        "answer": "いんふれ"
+      },
+      {
+        "japanese": "このスカートは ウエスト がきつい。",
+        "english": "This skirt is light in the waist.",
+        "furigana": "ウェスト",
+        "kana": "ウエスト",
+        "answer": "うえすと"
+      },
+      {
+        "japanese": "うちのエコカーは電気を溜めておける。",
+        "english": "Our eco-car can store electricity.",
+        "furigana": "エコ",
+        "kana": "エコ",
+        "answer": "えこ"
+      },
+      {
+        "japanese": "エネルギーは世界共通の問題だ。",
+        "english": "Energy is a global issue.",
+        "furigana": "エネルギー",
+        "kana": "エネルギー",
+        "answer": "えねるぎー"
+      },
+      {
+        "japanese": "いくつかの企業にエントリーした。",
+        "english": "I applied to several companies.",
+        "furigana": "エントリー",
+        "kana": "エントリー",
+        "answer": "えんとりー"
+      },
+      {
+        "japanese": "ネットオークションでバッグを買ってみた。",
+        "english": "I tried purchasing a bag on an Internet auction site.",
+        "furigana": "オークション",
+        "kana": "オークション",
+        "answer": "おーくしょん"
+      },
+      {
+        "japanese": "月に1回はオーケストラを聴きに行く。",
+        "english": "I come to listen to the orchestra once a month.",
+        "furigana": "オーケストラ",
+        "kana": "オーケストラ",
+        "answer": "おーけすとら"
+      },
+      {
+        "japanese": "オーダーメイドでスーツを作った。",
+        "english": "The suit was made-to-order.",
+        "furigana": "オーダーメイド",
+        "kana": "オーダーメイド",
+        "answer": "おーだーめいど"
+      },
+      {
+        "japanese": "彼は社長でもあり、オーナーでもある。",
+        "english": "He is the president and owner of the company.",
+        "furigana": "オーナー",
+        "kana": "オーナー",
+        "answer": "おーなー"
+      },
+      {
+        "japanese": "オフィスが郊外に移転した。",
+        "english": "The office moved to the suburbs.",
+        "furigana": "オフィス",
+        "kana": "オフィス",
+        "answer": "おふぃす"
+      },
+      {
+        "japanese": "カーソルが、うまく動かない。",
+        "english": "The cursor isn't moving smoolhly.",
+        "furigana": "カーソル",
+        "kana": "カーソル",
+        "answer": "かーそる"
+      },
+      {
+        "japanese": "身分証明書を忘れて、ガードマンに止められた。",
+        "english": "I forgot my identification, and the security guard stopped me.",
+        "furigana": "ガードマン",
+        "kana": "ガードマン",
+        "answer": "がーどまん"
+      },
+      {
+        "japanese": "彼らは似合いのカップルだ。",
+        "english": "They are a cute couple.",
+        "furigana": "カップル",
+        "kana": "カップル",
+        "answer": "かっぷる"
+      },
+      {
+        "japanese": "彼はキーボードを見ずに入力出来る。",
+        "english": "He can type without looking at the keyboard.",
+        "furigana": "",
+        "kana": "キーボード",
+        "answer": "きーぼーど"
+      },
+      {
+        "japanese": "この大学のキャンパスは、とても活気がある。",
+        "english": "The campus of this university is very lively.",
+        "furigana": "キャンパス",
+        "kana": "キャンパス",
+        "answer": "きゃんぱす"
+      },
+      {
+        "japanese": "グラウンドに観客の声が響いた。",
+        "english": "The cheers of the audience rcsonnated throughout the playground.",
+        "furigana": "グラウンド",
+        "kana": "グラウンド",
+        "answer": "ぐらうんど"
+      },
+      {
+        "japanese": "お風呂の後の素肌のケアは欠かせない",
+        "english": "It is necessary to take care of your bare skin after taking a bath",
+        "furigana": "ケア",
+        "kana": "ケア",
+        "answer": "けあ"
+      },
+      {
+        "japanese": "この製品には予想以上にコストがかかりそうだ。",
+        "english": "This product will be more costly than initially expected.",
+        "furigana": "コスト",
+        "kana": "コスト",
+        "answer": "こすと"
+      },
+      {
+        "japanese": "ギターが上手くなるコツを知りたい。",
+        "english": "I want to know tips on improving my guitar performance.",
+        "furigana": "コツ",
+        "kana": "コツ",
+        "answer": "こつ"
+      },
+      {
+        "japanese": "人気のある番組にはコマーシャルが多い。",
+        "english": "A lot of commercials run during popular programs.",
+        "furigana": "コマーシャル",
+        "kana": "コマーシャル",
+        "answer": "こまーしゃる"
+      },
+      {
+        "japanese": "首相がA国訪問についてコメントした。",
+        "english": "The prime minister commented on his visit to country A.",
+        "furigana": "コメント",
+        "kana": "コメント",
+        "answer": "こめんと"
+      },
+      {
+        "japanese": "海外の絵をコレクションしている。",
+        "english": "I have a collection of drawings from overseas.",
+        "furigana": "コレクション",
+        "kana": "コレクション",
+        "answer": "これくしょん"
+      },
+      {
+        "japanese": "毎日、サプリメントをとっている",
+        "english": "I take supplements every day",
+        "furigana": "サプリメント",
+        "kana": "サプリメント",
+        "answer": "さぷりめんと"
+      },
+      {
+        "japanese": "新入社員は先輩達にサポートしてもらう。",
+        "english": "New employees will be supported by senior co-workers.",
+        "furigana": "サポート",
+        "kana": "サポート",
+        "answer": "さぽーと"
+      },
+      {
+        "japanese": "夏はサングラスが欠かせない。",
+        "english": "Sunglasses are indispensable in the summer.",
+        "furigana": "サングラス",
+        "kana": "サングラス",
+        "answer": "さんぐらす"
+      },
+      {
+        "japanese": "一番いいシーズンを選んで、旅行に行く。",
+        "english": "I chose the best season to go on a trip.",
+        "furigana": "シーズン",
+        "kana": "シーズン",
+        "answer": "しーずん"
+      },
+      {
+        "japanese": "日本の宅配便のシステムは世界から注目されている。",
+        "english": "The Japanese delivery system is attracting attention from around the world.",
+        "furigana": "システム",
+        "kana": "システム",
+        "answer": "しすてむ"
+      },
+      {
+        "japanese": "彼女はモデルみたいにスタイルがいい。",
+        "english": "She has a good figure, jusi like a fashion model.",
+        "furigana": "スタイル",
+        "kana": "スタイル[1]",
+        "answer": "すたいる[1]"
+      },
+      {
+        "japanese": "これが私のライフスタイルだ。",
+        "english": "This is my lifestyle.",
+        "furigana": "スタイル",
+        "kana": "スタイル[2]",
+        "answer": "すたいる[2]"
+      },
+      {
+        "japanese": "アイドルがステージに現れた。",
+        "english": "The idol appeared on stage.",
+        "furigana": "ステージ",
+        "kana": "ステージ",
+        "answer": "すてーじ"
+      },
+      {
+        "japanese": "進学は夢へのステップだ。",
+        "english": "Going on to university is a step towards my dream.",
+        "furigana": "ステップ",
+        "kana": "ステップ[1]",
+        "answer": "すてっぷ[1]"
+      },
+      {
+        "japanese": "バスのステップが低いと、高齢者が乗りやすい。",
+        "english": "lt's easier for the elderly to board the bus when the steps are lower.",
+        "furigana": "ステップ",
+        "kana": "ステップ[2]",
+        "answer": "すてっぷ[2]"
+      },
+      {
+        "japanese": "ここは障害者が駐車するスペースです。",
+        "english": "This is parking space for the disabled.",
+        "furigana": "スペース",
+        "kana": "スペース",
+        "answer": "すぺーす"
+      },
+      {
+        "japanese": "彼女はセンスがよく、とても個性的だ。",
+        "english": "She has good taste in fashion and it is very unique.",
+        "furigana": "センス",
+        "kana": "センス",
+        "answer": "せんす"
+      },
+      {
+        "japanese": "弟はセンスが悪く、服装がダサい。",
+        "english": "My younger brother doesn't have good taste in fashion and his clothes are terrible.",
+        "furigana": "ダサ[ださ]い",
+        "kana": "ダサい",
+        "answer": "ださい"
+      },
+      {
+        "japanese": "同じ本をダブって買ってしまった。",
+        "english": "I bought the same book twice.",
+        "furigana": "ダブ[だぶ]る",
+        "kana": "ダブる",
+        "answer": "だぶる"
+      },
+      {
+        "japanese": "デパートのチラシでバーゲンを知った。",
+        "english": "I learned of the bargain through a department store flier.",
+        "furigana": "チラシ",
+        "kana": "チラシ",
+        "answer": "ちらし"
+      },
+      {
+        "japanese": "好きな人が隣の席に座ったので、ちらっと見た。",
+        "english": "Someone I like sat next to me, so I took a peek.",
+        "furigana": "チラッと",
+        "kana": "チラッと",
+        "answer": "ちらっと"
+      },
+      {
+        "japanese": "大きなディスプレイだと、画面が見やすい。",
+        "english": "It's easier to see the screen if the display is large.",
+        "furigana": "ディスプレイ",
+        "kana": "ディスプレイ",
+        "answer": "でぃすぷれい"
+      },
+      {
+        "japanese": "先週の日曜日にデモが行われた。",
+        "english": "Last Sunday, a demonstration was held.",
+        "furigana": "デモ",
+        "kana": "デモ",
+        "answer": "でも"
+      },
+      {
+        "japanese": "世界中でテロが起きている。",
+        "english": "Terrorism is occuring around lhe world.",
+        "furigana": "テロ",
+        "kana": "テロ",
+        "answer": "てろ"
+      },
+      {
+        "japanese": "この話はテンポが速くて、あっという間に終わった。",
+        "english": "The tempo of this story was fast and the story was over before I knew it.",
+        "furigana": "テンポ",
+        "kana": "テンポ",
+        "answer": "てんぽ"
+      },
+      {
+        "japanese": "テンポの速い音楽の方が好きだ。",
+        "english": "I like fast tempo music.",
+        "furigana": "テンポ",
+        "kana": "テンポ",
+        "answer": "てんぽ"
+      },
+      {
+        "japanese": "あの選手のトレーナーは厳しいらしい。",
+        "english": "That player's trainer seems to be strict.",
+        "furigana": "トレーナー",
+        "kana": "トレーナー",
+        "answer": "とれーなー"
+      },
+      {
+        "japanese": "このトレーナーは動きやすくて便利だ。",
+        "english": "This sweatshirt is easy to wear and handy.",
+        "furigana": "トレーナー",
+        "kana": "トレーナー",
+        "answer": "とれーなー"
+      },
+      {
+        "japanese": "ビュッフェでトレイの上に食べたいものを載せた。",
+        "english": "At the buffet, I put food that I wanted to cal on my tray.",
+        "furigana": "トレイ",
+        "kana": "トレイ",
+        "answer": "とれい"
+      },
+      {
+        "japanese": "企業は若者のニーズに応えて、商品を作る。",
+        "english": "Companies respond to the needs of the young people when creating products.",
+        "furigana": "ニーズ",
+        "kana": "ニーズ",
+        "answer": "にーず"
+      },
+      {
+        "japanese": "彼と私はニックネームで呼び合っている",
+        "english": "He and I call each other by nicknames.",
+        "furigana": "ニックネーム",
+        "kana": "ニックネーム",
+        "answer": "にっくねーむ"
+      },
+      {
+        "japanese": "優勝するために侮日ハードな練習をこなす。",
+        "english": "I practice hard every day to win.",
+        "furigana": "ハードな",
+        "kana": "ハードな",
+        "answer": "はーどな"
+      },
+      {
+        "japanese": "文法の問題には、いろいろなパターンがある。",
+        "english": "There are various patterns to the grammar questions.",
+        "furigana": "パターン",
+        "kana": "パターン",
+        "answer": "ぱたーん"
+      },
+      {
+        "japanese": "苺を２パック買った。",
+        "english": "I bought two packs of strawberries.",
+        "furigana": "パック",
+        "kana": "パック",
+        "answer": "ぱっく"
+      },
+      {
+        "japanese": "お風呂の後、パックしてから寝る。",
+        "english": "I do facial treatments after taking a bath before I go to sleep.",
+        "furigana": "パック",
+        "kana": "パック",
+        "answer": "ぱっく"
+      },
+      {
+        "japanese": "高速道路でパンクしてしまった。",
+        "english": "I got a flat tire on the highway.",
+        "furigana": "パンク",
+        "kana": "パンク",
+        "answer": "ぱんく"
+      },
+      {
+        "japanese": "日本でビジネスチャンスをつかみたい。",
+        "english": "I want to take advantage of business opporiunities in Japan.",
+        "furigana": "ビジネス",
+        "kana": "ビジネス",
+        "answer": "びじねす"
+      },
+      {
+        "japanese": "ジョギングがブームになって、何年も経つ。",
+        "english": "It's been several years since jogging became a fad.",
+        "furigana": "ブーム",
+        "kana": "ブーム",
+        "answer": "ぶーむ"
+      },
+      {
+        "japanese": "昼ご飯はファミレスで食べた。",
+        "english": "I ate lunch at the casual restaurant.",
+        "furigana": "ファミレス",
+        "kana": "ファミレス",
+        "answer": "ふぁみれす"
+      },
+      {
+        "japanese": "細いフォントを選んで、メールを書く。",
+        "english": "Select small fonts to write an e-mail.",
+        "furigana": "",
+        "kana": "フォント",
+        "answer": "ふぉんと"
+      },
+      {
+        "japanese": "妹は、かなりプライドが高い。",
+        "english": "My younger sister is really too proud.",
+        "furigana": "プライド",
+        "kana": "プライド",
+        "answer": "ぷらいど"
+      },
+      {
+        "japanese": "これはプライバシーに関わることだ。",
+        "english": "This is related to personal privacy.",
+        "furigana": "プライバシー",
+        "kana": "プライバシー",
+        "answer": "ぷらいばしー"
+      },
+      {
+        "japanese": "夏休みのプランを立てる",
+        "english": "I made plans for the summer vacaiion",
+        "furigana": "プラン",
+        "kana": "プラン",
+        "answer": "ぷらん"
+      },
+      {
+        "japanese": "今はフリーで仕事をしている。",
+        "english": "I am now freelancing.",
+        "furigana": "フリー",
+        "kana": "フリー",
+        "answer": "ふりー"
+      },
+      {
+        "japanese": "この雑誌はフリーです。ご自曲にどうぞ。",
+        "english": "This magazine is free. Please go ahead and take it.",
+        "furigana": "フリー",
+        "kana": "フリー",
+        "answer": "ふりー"
+      },
+      {
+        "japanese": "このTシャツはフリーサイズだ。",
+        "english": "This T-shirl is one-size-fits-all.",
+        "furigana": "フリーサイズ",
+        "kana": "フリーサイズ",
+        "answer": "ふりーさいず"
+      },
+      {
+        "japanese": "最近、プリンターの調子が悪い。",
+        "english": "The printer hasn't been working properly these days.",
+        "furigana": "プリンター",
+        "kana": "プリンター",
+        "answer": "ぷりんたー"
+      },
+      {
+        "japanese": "彼にフランス料理のフルコースを、御馳走して もらった。",
+        "english": "He treated me to a full-course meal of French cuisine.",
+        "furigana": "フルコース",
+        "kana": "フルコース",
+        "answer": "ふるこーす"
+      },
+      {
+        "japanese": "大きなプロジェクトが、もうすぐ始まる。",
+        "english": "A large project will start soon.",
+        "furigana": "プロジェクト",
+        "kana": "プロジェクト",
+        "answer": "ぷろじぇくと"
+      },
+      {
+        "japanese": "指輪を贈って、彼女にプロポーズした。",
+        "english": "I gave her a ring and proposed to her.",
+        "furigana": "プロポーズ",
+        "kana": "プロポーズ",
+        "answer": "ぷろぽーず"
+      },
+      {
+        "japanese": "ベテランの上司にクライアントの情報を教えてもらう。",
+        "english": "My veteran boss will give me information about the client.",
+        "furigana": "ベテラン",
+        "kana": "ベテラン",
+        "answer": "べてらん"
+      },
+      {
+        "japanese": "この著者のペンネームはユニークだ。",
+        "english": "This author's pen name is unique.",
+        "furigana": "ペンネーム",
+        "kana": "ペンネーム",
+        "answer": "ぺんねーむ"
+      },
+      {
+        "japanese": "湖で彼女とボートに乗る。",
+        "english": "I rode in a boat with her on the lake.",
+        "furigana": "ボート",
+        "kana": "ボート",
+        "answer": "ぼーと"
+      },
+      {
+        "japanese": "週に３回、ホームヘルパーに来てもらう。",
+        "english": "The home helper comes three times a week.",
+        "furigana": "ホームヘルパー",
+        "kana": "ホームヘルパー",
+        "answer": "ほーむへるぱー"
+      },
+      {
+        "japanese": "この店の料理は、とてもボリュームがある。",
+        "english": "The food at this store comes in large portions.",
+        "furigana": "ボリューム",
+        "kana": "ボリューム",
+        "answer": "ぼりゅーむ"
+      },
+      {
+        "japanese": "すみませんが、少しボリュームを下げて下さい。",
+        "english": "Excuse me, but please lower your volume.",
+        "furigana": "ボリューム",
+        "kana": "ボリューム",
+        "answer": "ぼりゅーむ"
+      },
+      {
+        "japanese": "日本でマイホームを買うのが夢だ。",
+        "english": "It's a dream to buy my own house in Japan.",
+        "furigana": "マイホーム",
+        "kana": "マイホーム",
+        "answer": "まいほーむ"
+      },
+      {
+        "japanese": "マスコミが首相の会見に集まり、取材している。",
+        "english": "The media gathered to report on the prime minister's media conference.",
+        "furigana": "マスコミ",
+        "kana": "マスコミ",
+        "answer": "ますこみ"
+      },
+      {
+        "japanese": "メディアを通して世界の状況を知る",
+        "english": "I learn about the world situation through the media.",
+        "furigana": "メディア",
+        "kana": "メディア",
+        "answer": "めでぃあ"
+      },
+      {
+        "japanese": "お店や商品のモニターをして、ポイントをもらった。",
+        "english": "I acted as a consumer monitor for shops and products to collect points.",
+        "furigana": "モニター",
+        "kana": "モニター",
+        "answer": "もにたー"
+      },
+      {
+        "japanese": "ユニークな建築物を見るのが好きだ。",
+        "english": "I like to see unique architecture.",
+        "furigana": "ユニーク",
+        "kana": "ユニーク",
+        "answer": "ゆにーく"
+      },
+      {
+        "japanese": "今日は何だかラッキーな日だ。",
+        "english": "For some reason, today is a lucky day.",
+        "furigana": "ラッキー",
+        "kana": "ラッキー",
+        "answer": "らっきー"
+      },
+      {
+        "japanese": "会社の売り上げが下がり、リストラされた。",
+        "english": "Company sales dropped, and I was laid off.",
+        "furigana": "リストラ",
+        "kana": "リストラ",
+        "answer": "りすとら"
+      },
+      {
+        "japanese": "リズムに合わせて、みんなで踊る。",
+        "english": "We all dance to the rythm.",
+        "furigana": "リズム",
+        "kana": "リズム",
+        "answer": "りずむ"
+      },
+      {
+        "japanese": "市民ホールがリニューアルされた。",
+        "english": "The city hall was rennovated.",
+        "furigana": "リニューアル",
+        "kana": "リニューアル",
+        "answer": "りにゅーある"
+      },
+      {
+        "japanese": "しばらくは、病院でリハビリを続ける",
+        "english": "I will continue my rehabilitation exercises in the hospital for a while",
+        "furigana": "リハビリ",
+        "kana": "リハビリ",
+        "answer": "りはびり"
+      },
+      {
+        "japanese": "週末はテニスをして、リフレッシュする。",
+        "english": "I refresh by playing tennis over the weekend.",
+        "furigana": "リフレッシュ",
+        "kana": "リフレッシュ",
+        "answer": "りふれっしゅ"
+      },
+      {
+        "japanese": "彼は時間にルーズで、いつも人を待たせる。",
+        "english": "He is never punctual and always makes people wait.",
+        "furigana": "ルーズ",
+        "kana": "ルーズ",
+        "answer": "るーず"
+      },
+      {
+        "japanese": "今年は夏のレジャーを楽しむ予定だ",
+        "english": "I plan to enjoy summer aciivities this year",
+        "furigana": "レジャー",
+        "kana": "レジャー",
+        "answer": "れじゃー"
+      },
+      {
+        "japanese": "このレンズはカメラより高かった。",
+        "english": "This lens was more expensive than the camera.",
+        "furigana": "レンズ",
+        "kana": "レンズ",
+        "answer": "れんず"
+      },
+      {
+        "japanese": "念のため、レントゲンを撮ってもらっ",
+        "english": "I had an X-ray taken just in ease",
+        "furigana": "レントゲン",
+        "kana": "レントゲン",
+        "answer": "れんとげん"
+      },
+      {
+        "japanese": "会社の先輩が30年ローンで家を買つた。",
+        "english": "My senior co-worker look out a 30-year loan to buy the house.",
+        "furigana": "ローン",
+        "kana": "ローン",
+        "answer": "ろーん"
+      },
+      {
+        "japanese": "彼が書くストーリーにはロマンがある。",
+        "english": "His stories are romantic.",
+        "furigana": "ロマン",
+        "kana": "ロマン",
+        "answer": "ろまん"
+      },
+      {
+        "japanese": "病院で新しいワクチンを注射してもらった",
+        "english": "I received a new vaccine shot at the hospital",
+        "furigana": "ワクチン",
+        "kana": "ワクチン",
+        "answer": "わくちん"
+      },
+      {
+        "japanese": "段ボールの蓋をガムテープで留める。",
+        "english": "Close the lid of the carton using packing tape. I sealed the top of the cardboard box with packing tape",
+        "furigana": "ガムテープ",
+        "kana": "ガムテープ",
+        "answer": "がむてーぷ"
+      },
+      {
+        "japanese": "民族的文化的アイデンティティは尊重されるべきだ。",
+        "english": "Ethnological and cultural identity must be respected.",
+        "furigana": "アイデンティティー",
+        "kana": "アイデンティティー",
+        "answer": "あいでんてぃてぃー"
+      },
+      {
+        "japanese": "スマホで毎日ブログをアップしている。",
+        "english": "I upload information to my blog every day using my smartphone.",
+        "furigana": "アップ",
+        "kana": "アップ",
+        "answer": "あっぷ"
+      },
+      {
+        "japanese": "子供の頃からアトピーに悩まされている。",
+        "english": "I have been suffering from atopic dermatitis since I was a child.",
+        "furigana": "アトピー",
+        "kana": "アトピー",
+        "answer": "あとぴー"
+      },
+      {
+        "japanese": "この遊園地には、子どもが楽しめるアトラクションが多い。",
+        "english": "This amusement park has many attractions that children can enjoy.",
+        "furigana": "アトラクション",
+        "kana": "アトラクション",
+        "answer": "あとらくしょん"
+      },
+      {
+        "japanese": "あの店は商品のアフターサービスも万全だ。",
+        "english": "That shop provides excellent  after-sales service of its products",
+        "furigana": "アフターサービス",
+        "kana": "アフターサービス",
+        "answer": "あふたーさーびす"
+      },
+      {
+        "japanese": "妹はインパクトのある服装が好きだ。",
+        "english": "My younger sister likes to wear bold clothes.",
+        "furigana": "インパクト",
+        "kana": "インパクト",
+        "answer": "いんぱくと"
+      },
+      {
+        "japanese": "都市ではインフラがほぼ整備されている。",
+        "english": "Infrastructure is mostly developed in the cities.",
+        "furigana": "インフラ",
+        "kana": "インフラ",
+        "answer": "いんふら"
+      },
+      {
+        "japanese": "有名女優のエッセイが好評らしい。",
+        "english": "The famous actress’ essay seems to be popular.",
+        "furigana": "エッセイ",
+        "kana": "エッセイ",
+        "answer": "えっせい"
+      },
+      {
+        "japanese": "彼は会社の将来を担うエリートとして採用された。",
+        "english": "He has been hired as an elite who will eventually lead the company's future.",
+        "furigana": "エリート",
+        "kana": "エリート",
+        "answer": "えりーと"
+      },
+      {
+        "japanese": "一生に一度でいいからオーロラを見てみたい。",
+        "english": "I want to see the aurora at least once in my life time.",
+        "furigana": "オーロラ",
+        "kana": "オーロラ",
+        "answer": "おーろら"
+      },
+      {
+        "japanese": "オゾン層の破壊が心配されている。",
+        "english": "The depletion of the ozone layer is worrying.",
+        "furigana": "オゾン層[おぞんそう]",
+        "kana": "オゾンおぞんそう",
+        "answer": "おぞんおぞんそう"
+      },
+      {
+        "japanese": "有名なデザイナーに仕事をオファーした。",
+        "english": "I offered a job to a famous designer.",
+        "furigana": "オファー",
+        "kana": "オファー",
+        "answer": "おふぁー"
+      },
+      {
+        "japanese": "オプションのツアーは現地で申し込むつもりだ。",
+        "english": "I plan to apply for the optional tour when I get there.",
+        "furigana": "オプション",
+        "kana": "オプション",
+        "answer": "おぷしょん"
+      },
+      {
+        "japanese": "傷口にガーゼを当てて保護する。",
+        "english": "The scar was protected with a gauze.",
+        "furigana": "ガーゼ",
+        "kana": "ガーゼ",
+        "answer": "がーぜ"
+      },
+      {
+        "japanese": "この二つの問題はカテゴリーが異なる。",
+        "english": "The two issues are of different categories.",
+        "furigana": "カテゴリー",
+        "kana": "カテゴリー",
+        "answer": "かてごりー"
+      },
+      {
+        "japanese": "カルテに症状が詳しく記入されている。",
+        "english": "The symptoms are written in detail on the medical record.",
+        "furigana": "カルテ",
+        "kana": "カルテ",
+        "answer": "かるて"
+      },
+      {
+        "japanese": "ネットでファッション情報をキャッチする。",
+        "english": "She picks up fashion news from the internet.",
+        "furigana": "キャッチ",
+        "kana": "キャッチ",
+        "answer": "きゃっち"
+      },
+      {
+        "japanese": "高く上がったボールを見事にキャッチした。",
+        "english": "He made a perfect catch of the ball that flew up high.",
+        "furigana": "キャッチ",
+        "kana": "キャッチ",
+        "answer": "きゃっち"
+      },
+      {
+        "japanese": "アルバイトのギャラが少しだけ入った。",
+        "english": "I got a small payment from my part-time job.",
+        "furigana": "ギャラ",
+        "kana": "ギャラ",
+        "answer": "ぎゃら"
+      },
+      {
+        "japanese": "彼女は申し分ないキャリアを武器に大企業に転職した。",
+        "english": "She used her impressive career as a weapon to enter a large corporation.",
+        "furigana": "キャリア",
+        "kana": "キャリア",
+        "answer": "きゃりあ"
+      },
+      {
+        "japanese": "只今、人気ブランド割引キャンペーン実施中！",
+        "english": "A discount campaign for brand-name items is currently going on!",
+        "furigana": "キャンペーン",
+        "kana": "キャンペーン",
+        "answer": "きゃんぺーん"
+      },
+      {
+        "japanese": "弟はキレやすく、よく友達と喧嘩している。",
+        "english": "My younger brother easily snaps and is always fighting with his friends.",
+        "furigana": "キレ[きれ]る",
+        "kana": "キレる",
+        "answer": "きれる"
+      },
+      {
+        "japanese": "彼は一見クールだが、実は情熱的な人だ。",
+        "english": "He appears cool, but he is in fact a passionate person.",
+        "furigana": "クール",
+        "kana": "クール",
+        "answer": "くーる"
+      },
+      {
+        "japanese": "両親の希望で、ホテルのグレードを上げた。",
+        "english": "I upgraded the hotel as per my parents’ wish.",
+        "furigana": "グレード",
+        "kana": "グレード",
+        "answer": "ぐれーど"
+      },
+      {
+        "japanese": "毎回この番組のゲストが楽しみだ。",
+        "english": "I look forward to the guests that appear in the program.",
+        "furigana": "ゲスト",
+        "kana": "ゲスト",
+        "answer": "げすと"
+      },
+      {
+        "japanese": "ずっと欲しかったバッグをゲットした。",
+        "english": "I finally got the bag I wanted for so long.",
+        "furigana": "ゲット",
+        "kana": "ゲット",
+        "answer": "げっと"
+      },
+      {
+        "japanese": "長年愛を育み、二人はゴールインした。",
+        "english": "The two tied the knot after years of being together.",
+        "furigana": "ゴールイン",
+        "kana": "ゴールイン",
+        "answer": "ごーるいん"
+      },
+      {
+        "japanese": "ゴールデンタイムは大好きなドラマを観る。",
+        "english": "I watch my favorite TV  show during prime time",
+        "furigana": "ゴールデンタイム",
+        "kana": "ゴールデンタイム",
+        "answer": "ごーるでんたいむ"
+      },
+      {
+        "japanese": "コネを使って、根回しをしておこう。",
+        "english": "Let's use our connections to lay the groundwork.",
+        "furigana": "コネ",
+        "kana": "コネ",
+        "answer": "こね"
+      },
+      {
+        "japanese": "地域のコミュニティーの人間関係を大切にしている。",
+        "english": "I treasure the human relationship of our local community.",
+        "furigana": "コミュニティー",
+        "kana": "コミュニティー",
+        "answer": "こみゅにてぃー"
+      },
+      {
+        "japanese": "スタイルのコンプレックスを解消したい。",
+        "english": "I want to get rid of my inferiority complex about my figure.",
+        "furigana": "コンプレックス",
+        "kana": "コンプレックス",
+        "answer": "こんぷれっくす"
+      },
+      {
+        "japanese": "このサービスエリアは施設が充実している。",
+        "english": "The facilities at a service area of the expressway are impressive.",
+        "furigana": "サービスエリア",
+        "kana": "サービスエリア",
+        "answer": "さーびすえりあ"
+      },
+      {
+        "japanese": "この会社ではサイドビジネスが認められている。",
+        "english": "This company allows employees to have side jobs.",
+        "furigana": "サイドビジネス",
+        "kana": "サイドビジネス",
+        "answer": "さいどびじねす"
+      },
+      {
+        "japanese": "調味料に賞味期限を書いたシールを貼っておく。",
+        "english": "Place a sticker indicating the expiration date on the seasoning.",
+        "furigana": "シール",
+        "kana": "シール",
+        "answer": "しーる"
+      },
+      {
+        "japanese": "このジェットコースターは怖いと評判だ。",
+        "english": "This roller coaster is known to be frightening.",
+        "furigana": "ジェットコースター",
+        "kana": "ジェットコースター",
+        "answer": "じぇっとこーすたー"
+      },
+      {
+        "japanese": "何と言っても、この映画はシナリオが素晴らしい。",
+        "english": "The scenario of this movie is wonderful to say the least.",
+        "furigana": "シナリオ",
+        "kana": "シナリオ",
+        "answer": "しなりお"
+      },
+      {
+        "japanese": "彼女は物の見方がとてもシビアだ。",
+        "english": "She has a strict view of things.",
+        "furigana": "シビア",
+        "kana": "シビア",
+        "answer": "しびあ"
+      },
+      {
+        "japanese": "彼女は頭が切れて、シャープだと言われている。",
+        "english": "She is said to have a sharp mind and be very bright.",
+        "furigana": "シャープ",
+        "kana": "シャープ",
+        "answer": "しゃーぷ"
+      },
+      {
+        "japanese": "彼女はシャイで、人が来ると隠れてしまう。",
+        "english": "She is shy and hides when people approach her.",
+        "furigana": "シャイ",
+        "kana": "シャイ",
+        "answer": "しゃい"
+      },
+      {
+        "japanese": "ベッドでストレッチをして、すっきり目覚める。",
+        "english": "I stretch in bed and wake up refreshed",
+        "furigana": "ストレッチ",
+        "kana": "ストレッチ",
+        "answer": "すとれっち"
+      },
+      {
+        "japanese": "１０年前とスリーサイズがほとんど変わらない。",
+        "english": "My figure hasn’t changed much from ten years ago.",
+        "furigana": "スリーサイズ",
+        "kana": "スリーサイズ",
+        "answer": "すりーさいず"
+      },
+      {
+        "japanese": "都会では セキュリティ が不可欠だ。",
+        "english": "Security is indispensible in the city.",
+        "furigana": "セキュリティ",
+        "kana": "セキュリティ",
+        "answer": "せきゅりてぃ"
+      },
+      {
+        "japanese": "中国語が生かせるセクションで働いている。",
+        "english": "I work in a section where I use my chinese language skills.",
+        "furigana": "セクション",
+        "kana": "セクション",
+        "answer": "せくしょん"
+      },
+      {
+        "japanese": "セクションを問わず、部長はいろいろなことを知っている。",
+        "english": "Regardless of the section, the manager knows about many things.",
+        "furigana": "セクション",
+        "kana": "セクション",
+        "answer": "せくしょん"
+      },
+      {
+        "japanese": "あんなせこい奴とは、もう付き合わない。",
+        "english": "I will never associate with such a stingy person.",
+        "furigana": "せこい",
+        "kana": "せこい",
+        "answer": "せこい"
+      },
+      {
+        "japanese": "たまにはセレブのように贅沢したい。",
+        "english": "Sometimes I want to do something extravagant like a celebrity.",
+        "furigana": "セレブ",
+        "kana": "セレブ",
+        "answer": "せれぶ"
+      },
+      {
+        "japanese": "彼のソフトな印象が人をリラックスさせる。",
+        "english": "His soft demeanor makes people relax.",
+        "furigana": "ソフト",
+        "kana": "ソフト",
+        "answer": "そふと"
+      },
+      {
+        "japanese": "この本のターゲットは若い女性だ。",
+        "english": "The target audience of this book is young woman.",
+        "furigana": "ターゲット",
+        "kana": "ターゲット",
+        "answer": "たーげっと"
+      },
+      {
+        "japanese": "このスカートはタイトで動きにくい。",
+        "english": "This skirt is tight and hard to move in.",
+        "furigana": "タイト",
+        "kana": "タイト",
+        "answer": "たいと"
+      },
+      {
+        "japanese": "今日はスケジュールがタイトな一日だ。",
+        "english": "I have a tight schedule today.",
+        "furigana": "タイト",
+        "kana": "タイト",
+        "answer": "たいと"
+      },
+      {
+        "japanese": "友達を食事に誘ったが、タイミングが悪く断られた。",
+        "english": "I invited a friend for a meal, but the timing was bad, so she declined.",
+        "furigana": "タイミング",
+        "kana": "タイミング",
+        "answer": "たいみんぐ"
+      },
+      {
+        "japanese": "降水量が少なく、ダムの水が減少している。",
+        "english": "The amount of water in the dam is decreasing due to less rainfall.",
+        "furigana": "ダム",
+        "kana": "ダム",
+        "answer": "だむ"
+      },
+      {
+        "japanese": "彼女は顔も仕草もチャーミングだ。",
+        "english": "Both her face and gestures are charming.",
+        "furigana": "チャーミング",
+        "kana": "チャーミング",
+        "answer": "ちゃーみんぐ"
+      },
+      {
+        "japanese": "恰も真実のように伝えられた報道はデマだった。",
+        "english": "The reporting that sounded like truth was a demagogy.",
+        "furigana": "デマ",
+        "kana": "デマ",
+        "answer": "でま"
+      },
+      {
+        "japanese": "軽快な曲を聴くと、テンションが上がる。",
+        "english": "Listening to light music gets me going.",
+        "furigana": "テンション",
+        "kana": "テンション",
+        "answer": "てんしょん"
+      },
+      {
+        "japanese": "ドキュメンタリー番組を見て、社会の問題点に気づいた。",
+        "english": "I realized the social issue after watching the documentary program.",
+        "furigana": "ドキュメンタリー",
+        "kana": "ドキュメンタリー",
+        "answer": "どきゅめんたりー"
+      },
+      {
+        "japanese": "彼のドライな性格も魅力の一つだ。",
+        "english": "His restrained attitude is one of his assets.",
+        "furigana": "ドライ",
+        "kana": "ドライ",
+        "answer": "どらい"
+      },
+      {
+        "japanese": "ドライアイなので、目薬を使っている。",
+        "english": "I have dry eye, so I use eye drops.",
+        "furigana": "ドライ",
+        "kana": "ドライ",
+        "answer": "どらい"
+      },
+      {
+        "japanese": "学校で配布されたドリルで毎日復習している。",
+        "english": "I review every day using the worksheets handed out at school.",
+        "furigana": "ドリル",
+        "kana": "ドリル",
+        "answer": "どりる"
+      },
+      {
+        "japanese": "しばらくニートだったが、再び就活を始めた。",
+        "english": "I was a \"NEET\" for a while but started looking a job again.",
+        "furigana": "ニート",
+        "kana": "ニート",
+        "answer": "にーと"
+      },
+      {
+        "japanese": "ネガティブな考えからは何も生まれない。",
+        "english": "Nothing can be born from negative thoughts.",
+        "furigana": "ネガティブ",
+        "kana": "ネガティブ",
+        "answer": "ねがてぃぶ"
+      },
+      {
+        "japanese": "若者の人口減少が地域の発展のネックになっている。",
+        "english": "The decreasing young population prevents het development of this area.",
+        "furigana": "ネック",
+        "kana": "ネック",
+        "answer": "ねっく"
+      },
+      {
+        "japanese": "仕事のノルマがきつくて、退職する人もいる。",
+        "english": "People are quitting because of the scrict quota.",
+        "furigana": "ノルマ",
+        "kana": "ノルマ",
+        "answer": "のるま"
+      },
+      {
+        "japanese": "このOSはよくバージョンアップされる。",
+        "english": "This operating system publishes version updates frequently.",
+        "furigana": "バージョンアップ",
+        "kana": "バージョンアップ",
+        "answer": "ばーじょんあっぷ"
+      },
+      {
+        "japanese": "自然の中でのバーベキューは久しぶりだ。",
+        "english": "It’s been a while that I enjoyed a barbecue in the midst of nature.",
+        "furigana": "バーベキュー",
+        "kana": "バーベキュー",
+        "answer": "ばーべきゅー"
+      },
+      {
+        "japanese": "大粒のパールはシンプルな服によく映える。",
+        "english": "The large pearl beads look good on simple clothes.",
+        "furigana": "パール",
+        "kana": "パール",
+        "answer": "ぱーる"
+      },
+      {
+        "japanese": "仕事の担当を新人にバトンタッチした。",
+        "english": "I handed over the assignment I was in charge to my junior co-worker.",
+        "furigana": "バトンタッチ",
+        "kana": "バトンタッチ",
+        "answer": "ばとんたっち"
+      },
+      {
+        "japanese": "９０年代に入ってすぐにバブルが崩壊した。",
+        "english": "The economic bubble burst in the early 90s.",
+        "furigana": "バブル",
+        "kana": "バブル",
+        "answer": "ばぶる"
+      },
+      {
+        "japanese": "祖父母のために家をバリアフリーにしたい。",
+        "english": "We renovated our house to be free of impediments for our grandparents",
+        "furigana": "バリアフリー",
+        "kana": "バリアフリー",
+        "answer": "ばりあふりー"
+      },
+      {
+        "japanese": "社内でパワハラ問題が起きた。",
+        "english": "An incident involving power harassment occured at the company.",
+        "furigana": "パワハラ",
+        "kana": "パワハラ",
+        "answer": "ぱわはら"
+      },
+      {
+        "japanese": "A社はメインバンクを変えた。",
+        "english": "Company A cahanged its man bank.",
+        "furigana": "バンク",
+        "kana": "バンク",
+        "answer": "ばんく"
+      },
+      {
+        "japanese": "流行を知るためにデータバンクを利用する。",
+        "english": "I used the data bank to learn about the trend.",
+        "furigana": "バンク",
+        "kana": "バンク",
+        "answer": "ばんく"
+      },
+      {
+        "japanese": "まだまだ女性の昇進にはハンデがある。",
+        "english": "There are still obstacles to women’s promotions.",
+        "furigana": "ハンデ",
+        "kana": "ハンデ",
+        "answer": "はんで"
+      },
+      {
+        "japanese": "ダイヤモンドにも、値段はピンからキリまである。",
+        "english": "There is a whole range of prices for diamonds.",
+        "furigana": "ピンからキリまで",
+        "kana": "ピンからキリまで",
+        "answer": "ぴんからきりまで"
+      },
+      {
+        "japanese": "この映画はフィクションだが、歴史的な背景などがリアルに描かれている。",
+        "english": "This movie is fiction, but the historical background is portrayed realistically.",
+        "furigana": "フィクション",
+        "kana": "フィクション",
+        "answer": "ふぃくしょん"
+      },
+      {
+        "japanese": "エアコンのフィルターを掃除しないといけない。",
+        "english": "I have to clean the airconditioner filter",
+        "furigana": "フィルター",
+        "kana": "フィルター",
+        "answer": "ふぃるたー"
+      },
+      {
+        "japanese": "フォーマルな服装でパーティーに出席する。",
+        "english": "I will attend the party in formal attire.",
+        "furigana": "フォーマル",
+        "kana": "フォーマル",
+        "answer": "ふぉーまる"
+      },
+      {
+        "japanese": "学歴に加え、プラスアルファの能力をアピールする。",
+        "english": "I tell them about my additional abilities along wiht my educational background.",
+        "furigana": "プラスアルファ",
+        "kana": "プラスアルファ",
+        "answer": "ぷらすあるふぁ"
+      },
+      {
+        "japanese": "音楽を聞きながら、コーヒーでブレイクする。",
+        "english": "Take a coffee break while listening to music.",
+        "furigana": "ブレイク",
+        "kana": "ブレイク",
+        "answer": "ぶれいく"
+      },
+      {
+        "japanese": "今、この歌手がブレイクしている。",
+        "english": "This singer is breaking through as a star.",
+        "furigana": "ブレイク",
+        "kana": "ブレイク",
+        "answer": "ぶれいく"
+      },
+      {
+        "japanese": "その日の出来事をブログにアップする。",
+        "english": "I upload my day's events to the blog.",
+        "furigana": "ブログ",
+        "kana": "ブログ",
+        "answer": "ぶろぐ"
+      },
+      {
+        "japanese": "プロフィールに資格などを書き込む。",
+        "english": "I write my qualifications in my profile.",
+        "furigana": "プロフィール",
+        "kana": "プロフィール",
+        "answer": "ぷろふぃーる"
+      },
+      {
+        "japanese": "彼は何時も上司にぺこぺこしている。",
+        "english": "He is always kowtowing to his boss.",
+        "furigana": "ぺこぺこ",
+        "kana": "ぺこぺこ",
+        "answer": "ぺこぺこ"
+      },
+      {
+        "japanese": "彼もとうとうベストセラー作家の仲間入りだ。",
+        "english": "He finally became a best-selling author.",
+        "furigana": "ベストセラー",
+        "kana": "ベストセラー",
+        "answer": "べすとせらー"
+      },
+      {
+        "japanese": "話のポイントを把握する。",
+        "english": "I grasped the point of the story.",
+        "furigana": "ポイント",
+        "kana": "ポイント",
+        "answer": "ぽいんと"
+      },
+      {
+        "japanese": "また相手にポイントが入った。",
+        "english": "The opponent won another point.",
+        "furigana": "ポイント",
+        "kana": "ポイント",
+        "answer": "ぽいんと"
+      },
+      {
+        "japanese": "ここが登山の休憩ポイントだ。",
+        "english": "This is the resting point for the mountain climbers.",
+        "furigana": "ポイント",
+        "kana": "ポイント",
+        "answer": "ぽいんと"
+      },
+      {
+        "japanese": "財布の中にポイントカードが10枚以上入っている。",
+        "english": "I have over ten point cards in my purse.",
+        "furigana": "ポイント",
+        "kana": "ポイント",
+        "answer": "ぽいんと"
+      },
+      {
+        "japanese": "監督は適性を見てポジションを決めた。",
+        "english": "The coach decided the postions based on aptitude.",
+        "furigana": "ポジション",
+        "kana": "ポジション",
+        "answer": "ぽじしょん"
+      },
+      {
+        "japanese": "彼女は何度失敗しても、何時もポジティブだ。",
+        "english": "She’s always positive, no matter how many times she makes a mistake.",
+        "furigana": "ポジティブ",
+        "kana": "ポジティブ",
+        "answer": "ぽじてぃぶ"
+      },
+      {
+        "japanese": "この雑誌はイベントでマニアに売っている。",
+        "english": "This magazine is sold to fans at events.",
+        "furigana": "マニア",
+        "kana": "マニア",
+        "answer": "まにあ"
+      },
+      {
+        "japanese": "部長のアイディアはマンネリに陥っていると思う。",
+        "english": "The manager's ideas are in a rut.",
+        "furigana": "マンネリ",
+        "kana": "マンネリ",
+        "answer": "まんねり"
+      },
+      {
+        "japanese": "今回のテストの点数はヤバイ。どうしよう？",
+        "english": "The test results this time around are really bad. What should I do?",
+        "furigana": "ヤバイ",
+        "kana": "ヤバイ",
+        "answer": "やばい"
+      },
+      {
+        "japanese": "彼の服は高級レストランではラフすぎる。",
+        "english": "His clothes are too casual for a high class restaurant.",
+        "furigana": "ラフ",
+        "kana": "ラフ",
+        "answer": "らふ"
+      },
+      {
+        "japanese": "恐竜の映像があまりにリアルで、襲われるかと思った。",
+        "english": "The images of the dinosaur was so real I thought it was going to attack us.",
+        "furigana": "リアル",
+        "kana": "リアル",
+        "answer": "りある"
+      },
+      {
+        "japanese": "母親に古いコートをリフォームしてもらった。",
+        "english": "I had my mother remodel my old coat.",
+        "furigana": "リフォーム",
+        "kana": "リフォーム",
+        "answer": "りふぉーむ"
+      },
+      {
+        "japanese": "学校帰りに、ダンス教室のレッスンに通っている。",
+        "english": "I commute to dance lessons after school.",
+        "furigana": "レッスン",
+        "kana": "レッスン",
+        "answer": "れっすん"
+      },
+      {
+        "japanese": "荷造りのためにロープを買ってきた。",
+        "english": "I bought rope for packing",
+        "furigana": "ロープ",
+        "kana": "ロープ",
+        "answer": "ろーぷ"
+      },
+      {
+        "japanese": "彼女は好奇心旺盛で、いつもアンテナを張っている。",
+        "english": "She is very curious and always stays alert.",
+        "furigana": "アンテナを 張[は]る",
+        "kana": "アンテナをはる",
+        "answer": "あんてなをはる"
+      },
+      {
+        "japanese": "お昼はバイキングで、食べ過ぎてしまった。",
+        "english": "I had a buffet lunch and ate too much.",
+        "furigana": "バイキング",
+        "kana": "バイキング",
+        "answer": "ばいきんぐ"
       }
     ]
   },
