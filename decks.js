@@ -1,5 +1,5 @@
 /*
-<option value="zhuyin">zhuyin (37)</option><option value="100_radicals">100_radicals (100)</option><option value="rth">rth (3035)</option><option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
+<option value="zhuyin">zhuyin (37)</option><option value="zhuyin_pinyin">zhuyin_pinyin (410)</option><option value="100_radicals">100_radicals (100)</option><option value="rth">rth (3035)</option><option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
 */
 var decks = {
   "zhuyin": {
@@ -268,6 +268,2886 @@ var decks = {
         "furigana": "ɑɻ",
         "kana": "ㄦ",
         "answer": "ㄦ"
+      }
+    ]
+  },
+  "zhuyin_pinyin": {
+    "config": {
+      "file_path": "decks/zhuyin_pinyin.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "english"
+    },
+    "cards": [
+      {
+        "japanese": "ㄅㄚ",
+        "english": "ba",
+        "furigana": "ㄅㄚ",
+        "kana": "ㄅㄚ",
+        "answer": "ㄅㄚ"
+      },
+      {
+        "japanese": "ㄅㄛ",
+        "english": "bo",
+        "furigana": "ㄅㄛ",
+        "kana": "ㄅㄛ",
+        "answer": "ㄅㄛ"
+      },
+      {
+        "japanese": "ㄅㄞ",
+        "english": "bai",
+        "furigana": "ㄅㄞ",
+        "kana": "ㄅㄞ",
+        "answer": "ㄅㄞ"
+      },
+      {
+        "japanese": "ㄅㄟ",
+        "english": "bei",
+        "furigana": "ㄅㄟ",
+        "kana": "ㄅㄟ",
+        "answer": "ㄅㄟ"
+      },
+      {
+        "japanese": "ㄅㄠ",
+        "english": "bao",
+        "furigana": "ㄅㄠ",
+        "kana": "ㄅㄠ",
+        "answer": "ㄅㄠ"
+      },
+      {
+        "japanese": "ㄅㄢ",
+        "english": "ban",
+        "furigana": "ㄅㄢ",
+        "kana": "ㄅㄢ",
+        "answer": "ㄅㄢ"
+      },
+      {
+        "japanese": "ㄅㄣ",
+        "english": "ben",
+        "furigana": "ㄅㄣ",
+        "kana": "ㄅㄣ",
+        "answer": "ㄅㄣ"
+      },
+      {
+        "japanese": "ㄅㄤ",
+        "english": "bang",
+        "furigana": "ㄅㄤ",
+        "kana": "ㄅㄤ",
+        "answer": "ㄅㄤ"
+      },
+      {
+        "japanese": "ㄅㄥ",
+        "english": "beng",
+        "furigana": "ㄅㄥ",
+        "kana": "ㄅㄥ",
+        "answer": "ㄅㄥ"
+      },
+      {
+        "japanese": "ㄅㄧ",
+        "english": "bi",
+        "furigana": "ㄅㄧ",
+        "kana": "ㄅㄧ",
+        "answer": "ㄅㄧ"
+      },
+      {
+        "japanese": "ㄅㄧㄝ",
+        "english": "bie",
+        "furigana": "ㄅㄧㄝ",
+        "kana": "ㄅㄧㄝ",
+        "answer": "ㄅㄧㄝ"
+      },
+      {
+        "japanese": "ㄅㄧㄠ",
+        "english": "biao",
+        "furigana": "ㄅㄧㄠ",
+        "kana": "ㄅㄧㄠ",
+        "answer": "ㄅㄧㄠ"
+      },
+      {
+        "japanese": "ㄅㄧㄢ",
+        "english": "bian",
+        "furigana": "ㄅㄧㄢ",
+        "kana": "ㄅㄧㄢ",
+        "answer": "ㄅㄧㄢ"
+      },
+      {
+        "japanese": "ㄅㄧㄣ",
+        "english": "bin",
+        "furigana": "ㄅㄧㄣ",
+        "kana": "ㄅㄧㄣ",
+        "answer": "ㄅㄧㄣ"
+      },
+      {
+        "japanese": "ㄅㄧㄥ",
+        "english": "bing",
+        "furigana": "ㄅㄧㄥ",
+        "kana": "ㄅㄧㄥ",
+        "answer": "ㄅㄧㄥ"
+      },
+      {
+        "japanese": "ㄅㄨ",
+        "english": "bu",
+        "furigana": "ㄅㄨ",
+        "kana": "ㄅㄨ",
+        "answer": "ㄅㄨ"
+      },
+      {
+        "japanese": "ㄆㄚ",
+        "english": "pa",
+        "furigana": "ㄆㄚ",
+        "kana": "ㄆㄚ",
+        "answer": "ㄆㄚ"
+      },
+      {
+        "japanese": "ㄆㄛ",
+        "english": "po",
+        "furigana": "ㄆㄛ",
+        "kana": "ㄆㄛ",
+        "answer": "ㄆㄛ"
+      },
+      {
+        "japanese": "ㄆㄞ",
+        "english": "pai",
+        "furigana": "ㄆㄞ",
+        "kana": "ㄆㄞ",
+        "answer": "ㄆㄞ"
+      },
+      {
+        "japanese": "ㄆㄟ",
+        "english": "pei",
+        "furigana": "ㄆㄟ",
+        "kana": "ㄆㄟ",
+        "answer": "ㄆㄟ"
+      },
+      {
+        "japanese": "ㄆㄠ",
+        "english": "pao",
+        "furigana": "ㄆㄠ",
+        "kana": "ㄆㄠ",
+        "answer": "ㄆㄠ"
+      },
+      {
+        "japanese": "ㄆㄡ",
+        "english": "pou",
+        "furigana": "ㄆㄡ",
+        "kana": "ㄆㄡ",
+        "answer": "ㄆㄡ"
+      },
+      {
+        "japanese": "ㄆㄢ",
+        "english": "pan",
+        "furigana": "ㄆㄢ",
+        "kana": "ㄆㄢ",
+        "answer": "ㄆㄢ"
+      },
+      {
+        "japanese": "ㄆㄣ",
+        "english": "pen",
+        "furigana": "ㄆㄣ",
+        "kana": "ㄆㄣ",
+        "answer": "ㄆㄣ"
+      },
+      {
+        "japanese": "ㄆㄤ",
+        "english": "pang",
+        "furigana": "ㄆㄤ",
+        "kana": "ㄆㄤ",
+        "answer": "ㄆㄤ"
+      },
+      {
+        "japanese": "ㄆㄥ",
+        "english": "peng",
+        "furigana": "ㄆㄥ",
+        "kana": "ㄆㄥ",
+        "answer": "ㄆㄥ"
+      },
+      {
+        "japanese": "ㄆㄧ",
+        "english": "pi",
+        "furigana": "ㄆㄧ",
+        "kana": "ㄆㄧ",
+        "answer": "ㄆㄧ"
+      },
+      {
+        "japanese": "ㄆㄧㄝ",
+        "english": "pie",
+        "furigana": "ㄆㄧㄝ",
+        "kana": "ㄆㄧㄝ",
+        "answer": "ㄆㄧㄝ"
+      },
+      {
+        "japanese": "ㄆㄧㄠ",
+        "english": "piao",
+        "furigana": "ㄆㄧㄠ",
+        "kana": "ㄆㄧㄠ",
+        "answer": "ㄆㄧㄠ"
+      },
+      {
+        "japanese": "ㄆㄧㄢ",
+        "english": "pian",
+        "furigana": "ㄆㄧㄢ",
+        "kana": "ㄆㄧㄢ",
+        "answer": "ㄆㄧㄢ"
+      },
+      {
+        "japanese": "ㄆㄧㄣ",
+        "english": "pin",
+        "furigana": "ㄆㄧㄣ",
+        "kana": "ㄆㄧㄣ",
+        "answer": "ㄆㄧㄣ"
+      },
+      {
+        "japanese": "ㄆㄧㄥ",
+        "english": "ping",
+        "furigana": "ㄆㄧㄥ",
+        "kana": "ㄆㄧㄥ",
+        "answer": "ㄆㄧㄥ"
+      },
+      {
+        "japanese": "ㄆㄨ",
+        "english": "pu",
+        "furigana": "ㄆㄨ",
+        "kana": "ㄆㄨ",
+        "answer": "ㄆㄨ"
+      },
+      {
+        "japanese": "ㄇㄚ",
+        "english": "ma",
+        "furigana": "ㄇㄚ",
+        "kana": "ㄇㄚ",
+        "answer": "ㄇㄚ"
+      },
+      {
+        "japanese": "ㄇㄛ",
+        "english": "mo",
+        "furigana": "ㄇㄛ",
+        "kana": "ㄇㄛ",
+        "answer": "ㄇㄛ"
+      },
+      {
+        "japanese": "ㄇㄜ",
+        "english": "me",
+        "furigana": "ㄇㄜ",
+        "kana": "ㄇㄜ",
+        "answer": "ㄇㄜ"
+      },
+      {
+        "japanese": "ㄇㄞ",
+        "english": "mai",
+        "furigana": "ㄇㄞ",
+        "kana": "ㄇㄞ",
+        "answer": "ㄇㄞ"
+      },
+      {
+        "japanese": "ㄇㄟ",
+        "english": "mei",
+        "furigana": "ㄇㄟ",
+        "kana": "ㄇㄟ",
+        "answer": "ㄇㄟ"
+      },
+      {
+        "japanese": "ㄇㄠ",
+        "english": "mao",
+        "furigana": "ㄇㄠ",
+        "kana": "ㄇㄠ",
+        "answer": "ㄇㄠ"
+      },
+      {
+        "japanese": "ㄇㄡ",
+        "english": "mou",
+        "furigana": "ㄇㄡ",
+        "kana": "ㄇㄡ",
+        "answer": "ㄇㄡ"
+      },
+      {
+        "japanese": "ㄇㄢ",
+        "english": "man",
+        "furigana": "ㄇㄢ",
+        "kana": "ㄇㄢ",
+        "answer": "ㄇㄢ"
+      },
+      {
+        "japanese": "ㄇㄣ",
+        "english": "men",
+        "furigana": "ㄇㄣ",
+        "kana": "ㄇㄣ",
+        "answer": "ㄇㄣ"
+      },
+      {
+        "japanese": "ㄇㄤ",
+        "english": "mang",
+        "furigana": "ㄇㄤ",
+        "kana": "ㄇㄤ",
+        "answer": "ㄇㄤ"
+      },
+      {
+        "japanese": "ㄇㄥ",
+        "english": "meng",
+        "furigana": "ㄇㄥ",
+        "kana": "ㄇㄥ",
+        "answer": "ㄇㄥ"
+      },
+      {
+        "japanese": "ㄇㄧ",
+        "english": "mi",
+        "furigana": "ㄇㄧ",
+        "kana": "ㄇㄧ",
+        "answer": "ㄇㄧ"
+      },
+      {
+        "japanese": "ㄇㄧㄝ",
+        "english": "mie",
+        "furigana": "ㄇㄧㄝ",
+        "kana": "ㄇㄧㄝ",
+        "answer": "ㄇㄧㄝ"
+      },
+      {
+        "japanese": "ㄇㄧㄠ",
+        "english": "miao",
+        "furigana": "ㄇㄧㄠ",
+        "kana": "ㄇㄧㄠ",
+        "answer": "ㄇㄧㄠ"
+      },
+      {
+        "japanese": "ㄇㄧㄡ",
+        "english": "miu",
+        "furigana": "ㄇㄧㄡ",
+        "kana": "ㄇㄧㄡ",
+        "answer": "ㄇㄧㄡ"
+      },
+      {
+        "japanese": "ㄇㄧㄢ",
+        "english": "mian",
+        "furigana": "ㄇㄧㄢ",
+        "kana": "ㄇㄧㄢ",
+        "answer": "ㄇㄧㄢ"
+      },
+      {
+        "japanese": "ㄇㄧㄣ",
+        "english": "min",
+        "furigana": "ㄇㄧㄣ",
+        "kana": "ㄇㄧㄣ",
+        "answer": "ㄇㄧㄣ"
+      },
+      {
+        "japanese": "ㄇㄧㄥ",
+        "english": "ming",
+        "furigana": "ㄇㄧㄥ",
+        "kana": "ㄇㄧㄥ",
+        "answer": "ㄇㄧㄥ"
+      },
+      {
+        "japanese": "ㄇㄨ",
+        "english": "mu",
+        "furigana": "ㄇㄨ",
+        "kana": "ㄇㄨ",
+        "answer": "ㄇㄨ"
+      },
+      {
+        "japanese": "ㄈㄚ",
+        "english": "fa",
+        "furigana": "ㄈㄚ",
+        "kana": "ㄈㄚ",
+        "answer": "ㄈㄚ"
+      },
+      {
+        "japanese": "ㄈㄛ",
+        "english": "fo",
+        "furigana": "ㄈㄛ",
+        "kana": "ㄈㄛ",
+        "answer": "ㄈㄛ"
+      },
+      {
+        "japanese": "ㄈㄟ",
+        "english": "fei",
+        "furigana": "ㄈㄟ",
+        "kana": "ㄈㄟ",
+        "answer": "ㄈㄟ"
+      },
+      {
+        "japanese": "ㄈㄡ",
+        "english": "fou",
+        "furigana": "ㄈㄡ",
+        "kana": "ㄈㄡ",
+        "answer": "ㄈㄡ"
+      },
+      {
+        "japanese": "ㄈㄢ",
+        "english": "fan",
+        "furigana": "ㄈㄢ",
+        "kana": "ㄈㄢ",
+        "answer": "ㄈㄢ"
+      },
+      {
+        "japanese": "ㄈㄣ",
+        "english": "fen",
+        "furigana": "ㄈㄣ",
+        "kana": "ㄈㄣ",
+        "answer": "ㄈㄣ"
+      },
+      {
+        "japanese": "ㄈㄤ",
+        "english": "fang",
+        "furigana": "ㄈㄤ",
+        "kana": "ㄈㄤ",
+        "answer": "ㄈㄤ"
+      },
+      {
+        "japanese": "ㄈㄥ",
+        "english": "feng",
+        "furigana": "ㄈㄥ",
+        "kana": "ㄈㄥ",
+        "answer": "ㄈㄥ"
+      },
+      {
+        "japanese": "ㄈㄨ",
+        "english": "fu",
+        "furigana": "ㄈㄨ",
+        "kana": "ㄈㄨ",
+        "answer": "ㄈㄨ"
+      },
+      {
+        "japanese": "ㄉㄚ",
+        "english": "da",
+        "furigana": "ㄉㄚ",
+        "kana": "ㄉㄚ",
+        "answer": "ㄉㄚ"
+      },
+      {
+        "japanese": "ㄉㄜ",
+        "english": "de",
+        "furigana": "ㄉㄜ",
+        "kana": "ㄉㄜ",
+        "answer": "ㄉㄜ"
+      },
+      {
+        "japanese": "ㄉㄞ",
+        "english": "dai",
+        "furigana": "ㄉㄞ",
+        "kana": "ㄉㄞ",
+        "answer": "ㄉㄞ"
+      },
+      {
+        "japanese": "ㄉㄟ",
+        "english": "dei",
+        "furigana": "ㄉㄟ",
+        "kana": "ㄉㄟ",
+        "answer": "ㄉㄟ"
+      },
+      {
+        "japanese": "ㄉㄠ",
+        "english": "dao",
+        "furigana": "ㄉㄠ",
+        "kana": "ㄉㄠ",
+        "answer": "ㄉㄠ"
+      },
+      {
+        "japanese": "ㄉㄡ",
+        "english": "dou",
+        "furigana": "ㄉㄡ",
+        "kana": "ㄉㄡ",
+        "answer": "ㄉㄡ"
+      },
+      {
+        "japanese": "ㄉㄢ",
+        "english": "dan",
+        "furigana": "ㄉㄢ",
+        "kana": "ㄉㄢ",
+        "answer": "ㄉㄢ"
+      },
+      {
+        "japanese": "ㄉㄣ",
+        "english": "den",
+        "furigana": "ㄉㄣ",
+        "kana": "ㄉㄣ",
+        "answer": "ㄉㄣ"
+      },
+      {
+        "japanese": "ㄉㄤ",
+        "english": "dang",
+        "furigana": "ㄉㄤ",
+        "kana": "ㄉㄤ",
+        "answer": "ㄉㄤ"
+      },
+      {
+        "japanese": "ㄉㄥ",
+        "english": "deng",
+        "furigana": "ㄉㄥ",
+        "kana": "ㄉㄥ",
+        "answer": "ㄉㄥ"
+      },
+      {
+        "japanese": "ㄉㄧ",
+        "english": "di",
+        "furigana": "ㄉㄧ",
+        "kana": "ㄉㄧ",
+        "answer": "ㄉㄧ"
+      },
+      {
+        "japanese": "ㄉㄧㄝ",
+        "english": "die",
+        "furigana": "ㄉㄧㄝ",
+        "kana": "ㄉㄧㄝ",
+        "answer": "ㄉㄧㄝ"
+      },
+      {
+        "japanese": "ㄉㄧㄠ",
+        "english": "diao",
+        "furigana": "ㄉㄧㄠ",
+        "kana": "ㄉㄧㄠ",
+        "answer": "ㄉㄧㄠ"
+      },
+      {
+        "japanese": "ㄉㄧㄡ",
+        "english": "diu",
+        "furigana": "ㄉㄧㄡ",
+        "kana": "ㄉㄧㄡ",
+        "answer": "ㄉㄧㄡ"
+      },
+      {
+        "japanese": "ㄉㄧㄢ",
+        "english": "dian",
+        "furigana": "ㄉㄧㄢ",
+        "kana": "ㄉㄧㄢ",
+        "answer": "ㄉㄧㄢ"
+      },
+      {
+        "japanese": "ㄉㄧㄤ",
+        "english": "diang",
+        "furigana": "ㄉㄧㄤ",
+        "kana": "ㄉㄧㄤ",
+        "answer": "ㄉㄧㄤ"
+      },
+      {
+        "japanese": "ㄉㄧㄥ",
+        "english": "ding",
+        "furigana": "ㄉㄧㄥ",
+        "kana": "ㄉㄧㄥ",
+        "answer": "ㄉㄧㄥ"
+      },
+      {
+        "japanese": "ㄉㄨ",
+        "english": "du",
+        "furigana": "ㄉㄨ",
+        "kana": "ㄉㄨ",
+        "answer": "ㄉㄨ"
+      },
+      {
+        "japanese": "ㄉㄨㄛ",
+        "english": "duo",
+        "furigana": "ㄉㄨㄛ",
+        "kana": "ㄉㄨㄛ",
+        "answer": "ㄉㄨㄛ"
+      },
+      {
+        "japanese": "ㄉㄨㄟ",
+        "english": "dui",
+        "furigana": "ㄉㄨㄟ",
+        "kana": "ㄉㄨㄟ",
+        "answer": "ㄉㄨㄟ"
+      },
+      {
+        "japanese": "ㄉㄨㄢ",
+        "english": "duan",
+        "furigana": "ㄉㄨㄢ",
+        "kana": "ㄉㄨㄢ",
+        "answer": "ㄉㄨㄢ"
+      },
+      {
+        "japanese": "ㄉㄨㄣ",
+        "english": "dun",
+        "furigana": "ㄉㄨㄣ",
+        "kana": "ㄉㄨㄣ",
+        "answer": "ㄉㄨㄣ"
+      },
+      {
+        "japanese": "ㄉㄨㄥ",
+        "english": "dong",
+        "furigana": "ㄉㄨㄥ",
+        "kana": "ㄉㄨㄥ",
+        "answer": "ㄉㄨㄥ"
+      },
+      {
+        "japanese": "ㄊㄚ",
+        "english": "ta",
+        "furigana": "ㄊㄚ",
+        "kana": "ㄊㄚ",
+        "answer": "ㄊㄚ"
+      },
+      {
+        "japanese": "ㄊㄜ",
+        "english": "te",
+        "furigana": "ㄊㄜ",
+        "kana": "ㄊㄜ",
+        "answer": "ㄊㄜ"
+      },
+      {
+        "japanese": "ㄊㄞ",
+        "english": "tai",
+        "furigana": "ㄊㄞ",
+        "kana": "ㄊㄞ",
+        "answer": "ㄊㄞ"
+      },
+      {
+        "japanese": "ㄊㄠ",
+        "english": "tao",
+        "furigana": "ㄊㄠ",
+        "kana": "ㄊㄠ",
+        "answer": "ㄊㄠ"
+      },
+      {
+        "japanese": "ㄊㄡ",
+        "english": "tou",
+        "furigana": "ㄊㄡ",
+        "kana": "ㄊㄡ",
+        "answer": "ㄊㄡ"
+      },
+      {
+        "japanese": "ㄊㄢ",
+        "english": "tan",
+        "furigana": "ㄊㄢ",
+        "kana": "ㄊㄢ",
+        "answer": "ㄊㄢ"
+      },
+      {
+        "japanese": "ㄊㄤ",
+        "english": "tang",
+        "furigana": "ㄊㄤ",
+        "kana": "ㄊㄤ",
+        "answer": "ㄊㄤ"
+      },
+      {
+        "japanese": "ㄊㄥ",
+        "english": "teng",
+        "furigana": "ㄊㄥ",
+        "kana": "ㄊㄥ",
+        "answer": "ㄊㄥ"
+      },
+      {
+        "japanese": "ㄊㄧ",
+        "english": "ti",
+        "furigana": "ㄊㄧ",
+        "kana": "ㄊㄧ",
+        "answer": "ㄊㄧ"
+      },
+      {
+        "japanese": "ㄊㄧㄝ",
+        "english": "tie",
+        "furigana": "ㄊㄧㄝ",
+        "kana": "ㄊㄧㄝ",
+        "answer": "ㄊㄧㄝ"
+      },
+      {
+        "japanese": "ㄊㄧㄠ",
+        "english": "tiao",
+        "furigana": "ㄊㄧㄠ",
+        "kana": "ㄊㄧㄠ",
+        "answer": "ㄊㄧㄠ"
+      },
+      {
+        "japanese": "ㄊㄧㄢ",
+        "english": "tian",
+        "furigana": "ㄊㄧㄢ",
+        "kana": "ㄊㄧㄢ",
+        "answer": "ㄊㄧㄢ"
+      },
+      {
+        "japanese": "ㄊㄧㄥ",
+        "english": "ting",
+        "furigana": "ㄊㄧㄥ",
+        "kana": "ㄊㄧㄥ",
+        "answer": "ㄊㄧㄥ"
+      },
+      {
+        "japanese": "ㄊㄨ",
+        "english": "tu",
+        "furigana": "ㄊㄨ",
+        "kana": "ㄊㄨ",
+        "answer": "ㄊㄨ"
+      },
+      {
+        "japanese": "ㄊㄨㄛ",
+        "english": "tuo",
+        "furigana": "ㄊㄨㄛ",
+        "kana": "ㄊㄨㄛ",
+        "answer": "ㄊㄨㄛ"
+      },
+      {
+        "japanese": "ㄊㄨㄟ",
+        "english": "tui",
+        "furigana": "ㄊㄨㄟ",
+        "kana": "ㄊㄨㄟ",
+        "answer": "ㄊㄨㄟ"
+      },
+      {
+        "japanese": "ㄊㄨㄢ",
+        "english": "tuan",
+        "furigana": "ㄊㄨㄢ",
+        "kana": "ㄊㄨㄢ",
+        "answer": "ㄊㄨㄢ"
+      },
+      {
+        "japanese": "ㄊㄨㄣ",
+        "english": "tun",
+        "furigana": "ㄊㄨㄣ",
+        "kana": "ㄊㄨㄣ",
+        "answer": "ㄊㄨㄣ"
+      },
+      {
+        "japanese": "ㄊㄨㄥ",
+        "english": "tong",
+        "furigana": "ㄊㄨㄥ",
+        "kana": "ㄊㄨㄥ",
+        "answer": "ㄊㄨㄥ"
+      },
+      {
+        "japanese": "ㄋㄚ",
+        "english": "na",
+        "furigana": "ㄋㄚ",
+        "kana": "ㄋㄚ",
+        "answer": "ㄋㄚ"
+      },
+      {
+        "japanese": "ㄋㄜ",
+        "english": "ne",
+        "furigana": "ㄋㄜ",
+        "kana": "ㄋㄜ",
+        "answer": "ㄋㄜ"
+      },
+      {
+        "japanese": "ㄋㄞ",
+        "english": "nai",
+        "furigana": "ㄋㄞ",
+        "kana": "ㄋㄞ",
+        "answer": "ㄋㄞ"
+      },
+      {
+        "japanese": "ㄋㄟ",
+        "english": "nei",
+        "furigana": "ㄋㄟ",
+        "kana": "ㄋㄟ",
+        "answer": "ㄋㄟ"
+      },
+      {
+        "japanese": "ㄋㄠ",
+        "english": "nao",
+        "furigana": "ㄋㄠ",
+        "kana": "ㄋㄠ",
+        "answer": "ㄋㄠ"
+      },
+      {
+        "japanese": "ㄋㄡ",
+        "english": "nou",
+        "furigana": "ㄋㄡ",
+        "kana": "ㄋㄡ",
+        "answer": "ㄋㄡ"
+      },
+      {
+        "japanese": "ㄋㄢ",
+        "english": "nan",
+        "furigana": "ㄋㄢ",
+        "kana": "ㄋㄢ",
+        "answer": "ㄋㄢ"
+      },
+      {
+        "japanese": "ㄋㄣ",
+        "english": "nen",
+        "furigana": "ㄋㄣ",
+        "kana": "ㄋㄣ",
+        "answer": "ㄋㄣ"
+      },
+      {
+        "japanese": "ㄋㄤ",
+        "english": "nang",
+        "furigana": "ㄋㄤ",
+        "kana": "ㄋㄤ",
+        "answer": "ㄋㄤ"
+      },
+      {
+        "japanese": "ㄋㄥ",
+        "english": "neng",
+        "furigana": "ㄋㄥ",
+        "kana": "ㄋㄥ",
+        "answer": "ㄋㄥ"
+      },
+      {
+        "japanese": "ㄋㄧ",
+        "english": "ni",
+        "furigana": "ㄋㄧ",
+        "kana": "ㄋㄧ",
+        "answer": "ㄋㄧ"
+      },
+      {
+        "japanese": "ㄋㄧㄚ",
+        "english": "nia",
+        "furigana": "ㄋㄧㄚ",
+        "kana": "ㄋㄧㄚ",
+        "answer": "ㄋㄧㄚ"
+      },
+      {
+        "japanese": "ㄋㄧㄝ",
+        "english": "nie",
+        "furigana": "ㄋㄧㄝ",
+        "kana": "ㄋㄧㄝ",
+        "answer": "ㄋㄧㄝ"
+      },
+      {
+        "japanese": "ㄋㄧㄠ",
+        "english": "niao",
+        "furigana": "ㄋㄧㄠ",
+        "kana": "ㄋㄧㄠ",
+        "answer": "ㄋㄧㄠ"
+      },
+      {
+        "japanese": "ㄋㄧㄡ",
+        "english": "niu",
+        "furigana": "ㄋㄧㄡ",
+        "kana": "ㄋㄧㄡ",
+        "answer": "ㄋㄧㄡ"
+      },
+      {
+        "japanese": "ㄋㄧㄢ",
+        "english": "nian",
+        "furigana": "ㄋㄧㄢ",
+        "kana": "ㄋㄧㄢ",
+        "answer": "ㄋㄧㄢ"
+      },
+      {
+        "japanese": "ㄋㄧㄣ",
+        "english": "nin",
+        "furigana": "ㄋㄧㄣ",
+        "kana": "ㄋㄧㄣ",
+        "answer": "ㄋㄧㄣ"
+      },
+      {
+        "japanese": "ㄋㄧㄤ",
+        "english": "niang",
+        "furigana": "ㄋㄧㄤ",
+        "kana": "ㄋㄧㄤ",
+        "answer": "ㄋㄧㄤ"
+      },
+      {
+        "japanese": "ㄋㄧㄥ",
+        "english": "ning",
+        "furigana": "ㄋㄧㄥ",
+        "kana": "ㄋㄧㄥ",
+        "answer": "ㄋㄧㄥ"
+      },
+      {
+        "japanese": "ㄋㄨ",
+        "english": "nu",
+        "furigana": "ㄋㄨ",
+        "kana": "ㄋㄨ",
+        "answer": "ㄋㄨ"
+      },
+      {
+        "japanese": "ㄋㄨㄛ",
+        "english": "nuo",
+        "furigana": "ㄋㄨㄛ",
+        "kana": "ㄋㄨㄛ",
+        "answer": "ㄋㄨㄛ"
+      },
+      {
+        "japanese": "ㄋㄨㄢ",
+        "english": "nuan",
+        "furigana": "ㄋㄨㄢ",
+        "kana": "ㄋㄨㄢ",
+        "answer": "ㄋㄨㄢ"
+      },
+      {
+        "japanese": "ㄋㄨㄣ",
+        "english": "nun",
+        "furigana": "ㄋㄨㄣ",
+        "kana": "ㄋㄨㄣ",
+        "answer": "ㄋㄨㄣ"
+      },
+      {
+        "japanese": "ㄋㄨㄥ",
+        "english": "nong",
+        "furigana": "ㄋㄨㄥ",
+        "kana": "ㄋㄨㄥ",
+        "answer": "ㄋㄨㄥ"
+      },
+      {
+        "japanese": "ㄋㄩ",
+        "english": "nü",
+        "furigana": "ㄋㄩ",
+        "kana": "ㄋㄩ",
+        "answer": "ㄋㄩ"
+      },
+      {
+        "japanese": "ㄋㄩㄝ",
+        "english": "nüe",
+        "furigana": "ㄋㄩㄝ",
+        "kana": "ㄋㄩㄝ",
+        "answer": "ㄋㄩㄝ"
+      },
+      {
+        "japanese": "ㄌㄚ",
+        "english": "la",
+        "furigana": "ㄌㄚ",
+        "kana": "ㄌㄚ",
+        "answer": "ㄌㄚ"
+      },
+      {
+        "japanese": "ㄌㄛ",
+        "english": "lo",
+        "furigana": "ㄌㄛ",
+        "kana": "ㄌㄛ",
+        "answer": "ㄌㄛ"
+      },
+      {
+        "japanese": "ㄌㄜ",
+        "english": "le",
+        "furigana": "ㄌㄜ",
+        "kana": "ㄌㄜ",
+        "answer": "ㄌㄜ"
+      },
+      {
+        "japanese": "ㄌㄞ",
+        "english": "lai",
+        "furigana": "ㄌㄞ",
+        "kana": "ㄌㄞ",
+        "answer": "ㄌㄞ"
+      },
+      {
+        "japanese": "ㄌㄟ",
+        "english": "lei",
+        "furigana": "ㄌㄟ",
+        "kana": "ㄌㄟ",
+        "answer": "ㄌㄟ"
+      },
+      {
+        "japanese": "ㄌㄠ",
+        "english": "lao",
+        "furigana": "ㄌㄠ",
+        "kana": "ㄌㄠ",
+        "answer": "ㄌㄠ"
+      },
+      {
+        "japanese": "ㄌㄡ",
+        "english": "lou",
+        "furigana": "ㄌㄡ",
+        "kana": "ㄌㄡ",
+        "answer": "ㄌㄡ"
+      },
+      {
+        "japanese": "ㄌㄢ",
+        "english": "lan",
+        "furigana": "ㄌㄢ",
+        "kana": "ㄌㄢ",
+        "answer": "ㄌㄢ"
+      },
+      {
+        "japanese": "ㄌㄤ",
+        "english": "lang",
+        "furigana": "ㄌㄤ",
+        "kana": "ㄌㄤ",
+        "answer": "ㄌㄤ"
+      },
+      {
+        "japanese": "ㄌㄥ",
+        "english": "leng",
+        "furigana": "ㄌㄥ",
+        "kana": "ㄌㄥ",
+        "answer": "ㄌㄥ"
+      },
+      {
+        "japanese": "ㄌㄧ",
+        "english": "li",
+        "furigana": "ㄌㄧ",
+        "kana": "ㄌㄧ",
+        "answer": "ㄌㄧ"
+      },
+      {
+        "japanese": "ㄌㄧㄚ",
+        "english": "lia",
+        "furigana": "ㄌㄧㄚ",
+        "kana": "ㄌㄧㄚ",
+        "answer": "ㄌㄧㄚ"
+      },
+      {
+        "japanese": "ㄌㄧㄝ",
+        "english": "lie",
+        "furigana": "ㄌㄧㄝ",
+        "kana": "ㄌㄧㄝ",
+        "answer": "ㄌㄧㄝ"
+      },
+      {
+        "japanese": "ㄌㄧㄠ",
+        "english": "liao",
+        "furigana": "ㄌㄧㄠ",
+        "kana": "ㄌㄧㄠ",
+        "answer": "ㄌㄧㄠ"
+      },
+      {
+        "japanese": "ㄌㄧㄡ",
+        "english": "liu",
+        "furigana": "ㄌㄧㄡ",
+        "kana": "ㄌㄧㄡ",
+        "answer": "ㄌㄧㄡ"
+      },
+      {
+        "japanese": "ㄌㄧㄢ",
+        "english": "lian",
+        "furigana": "ㄌㄧㄢ",
+        "kana": "ㄌㄧㄢ",
+        "answer": "ㄌㄧㄢ"
+      },
+      {
+        "japanese": "ㄌㄧㄣ",
+        "english": "lin",
+        "furigana": "ㄌㄧㄣ",
+        "kana": "ㄌㄧㄣ",
+        "answer": "ㄌㄧㄣ"
+      },
+      {
+        "japanese": "ㄌㄧㄤ",
+        "english": "liang",
+        "furigana": "ㄌㄧㄤ",
+        "kana": "ㄌㄧㄤ",
+        "answer": "ㄌㄧㄤ"
+      },
+      {
+        "japanese": "ㄌㄧㄥ",
+        "english": "ling",
+        "furigana": "ㄌㄧㄥ",
+        "kana": "ㄌㄧㄥ",
+        "answer": "ㄌㄧㄥ"
+      },
+      {
+        "japanese": "ㄌㄨ",
+        "english": "lu",
+        "furigana": "ㄌㄨ",
+        "kana": "ㄌㄨ",
+        "answer": "ㄌㄨ"
+      },
+      {
+        "japanese": "ㄌㄨㄛ",
+        "english": "luo",
+        "furigana": "ㄌㄨㄛ",
+        "kana": "ㄌㄨㄛ",
+        "answer": "ㄌㄨㄛ"
+      },
+      {
+        "japanese": "ㄌㄨㄢ",
+        "english": "luan",
+        "furigana": "ㄌㄨㄢ",
+        "kana": "ㄌㄨㄢ",
+        "answer": "ㄌㄨㄢ"
+      },
+      {
+        "japanese": "ㄌㄨㄣ",
+        "english": "lun",
+        "furigana": "ㄌㄨㄣ",
+        "kana": "ㄌㄨㄣ",
+        "answer": "ㄌㄨㄣ"
+      },
+      {
+        "japanese": "ㄌㄨㄥ",
+        "english": "long",
+        "furigana": "ㄌㄨㄥ",
+        "kana": "ㄌㄨㄥ",
+        "answer": "ㄌㄨㄥ"
+      },
+      {
+        "japanese": "ㄌㄩ",
+        "english": "lü",
+        "furigana": "ㄌㄩ",
+        "kana": "ㄌㄩ",
+        "answer": "ㄌㄩ"
+      },
+      {
+        "japanese": "ㄌㄩㄝ",
+        "english": "lüe",
+        "furigana": "ㄌㄩㄝ",
+        "kana": "ㄌㄩㄝ",
+        "answer": "ㄌㄩㄝ"
+      },
+      {
+        "japanese": "ㄌㄩㄣ",
+        "english": "lün",
+        "furigana": "ㄌㄩㄣ",
+        "kana": "ㄌㄩㄣ",
+        "answer": "ㄌㄩㄣ"
+      },
+      {
+        "japanese": "ㄍㄚ",
+        "english": "ga",
+        "furigana": "ㄍㄚ",
+        "kana": "ㄍㄚ",
+        "answer": "ㄍㄚ"
+      },
+      {
+        "japanese": "ㄍㄜ",
+        "english": "ge",
+        "furigana": "ㄍㄜ",
+        "kana": "ㄍㄜ",
+        "answer": "ㄍㄜ"
+      },
+      {
+        "japanese": "ㄍㄞ",
+        "english": "gai",
+        "furigana": "ㄍㄞ",
+        "kana": "ㄍㄞ",
+        "answer": "ㄍㄞ"
+      },
+      {
+        "japanese": "ㄍㄟ",
+        "english": "gei",
+        "furigana": "ㄍㄟ",
+        "kana": "ㄍㄟ",
+        "answer": "ㄍㄟ"
+      },
+      {
+        "japanese": "ㄍㄠ",
+        "english": "gao",
+        "furigana": "ㄍㄠ",
+        "kana": "ㄍㄠ",
+        "answer": "ㄍㄠ"
+      },
+      {
+        "japanese": "ㄍㄡ",
+        "english": "gou",
+        "furigana": "ㄍㄡ",
+        "kana": "ㄍㄡ",
+        "answer": "ㄍㄡ"
+      },
+      {
+        "japanese": "ㄍㄢ",
+        "english": "gan",
+        "furigana": "ㄍㄢ",
+        "kana": "ㄍㄢ",
+        "answer": "ㄍㄢ"
+      },
+      {
+        "japanese": "ㄍㄣ",
+        "english": "gen",
+        "furigana": "ㄍㄣ",
+        "kana": "ㄍㄣ",
+        "answer": "ㄍㄣ"
+      },
+      {
+        "japanese": "ㄍㄤ",
+        "english": "gang",
+        "furigana": "ㄍㄤ",
+        "kana": "ㄍㄤ",
+        "answer": "ㄍㄤ"
+      },
+      {
+        "japanese": "ㄍㄥ",
+        "english": "geng",
+        "furigana": "ㄍㄥ",
+        "kana": "ㄍㄥ",
+        "answer": "ㄍㄥ"
+      },
+      {
+        "japanese": "ㄍㄨ",
+        "english": "gu",
+        "furigana": "ㄍㄨ",
+        "kana": "ㄍㄨ",
+        "answer": "ㄍㄨ"
+      },
+      {
+        "japanese": "ㄍㄨㄚ",
+        "english": "gua",
+        "furigana": "ㄍㄨㄚ",
+        "kana": "ㄍㄨㄚ",
+        "answer": "ㄍㄨㄚ"
+      },
+      {
+        "japanese": "ㄍㄨㄛ",
+        "english": "guo",
+        "furigana": "ㄍㄨㄛ",
+        "kana": "ㄍㄨㄛ",
+        "answer": "ㄍㄨㄛ"
+      },
+      {
+        "japanese": "ㄍㄨㄞ",
+        "english": "guai",
+        "furigana": "ㄍㄨㄞ",
+        "kana": "ㄍㄨㄞ",
+        "answer": "ㄍㄨㄞ"
+      },
+      {
+        "japanese": "ㄍㄨㄟ",
+        "english": "gui",
+        "furigana": "ㄍㄨㄟ",
+        "kana": "ㄍㄨㄟ",
+        "answer": "ㄍㄨㄟ"
+      },
+      {
+        "japanese": "ㄍㄨㄢ",
+        "english": "guan",
+        "furigana": "ㄍㄨㄢ",
+        "kana": "ㄍㄨㄢ",
+        "answer": "ㄍㄨㄢ"
+      },
+      {
+        "japanese": "ㄍㄨㄣ",
+        "english": "gun",
+        "furigana": "ㄍㄨㄣ",
+        "kana": "ㄍㄨㄣ",
+        "answer": "ㄍㄨㄣ"
+      },
+      {
+        "japanese": "ㄍㄨㄤ",
+        "english": "guang",
+        "furigana": "ㄍㄨㄤ",
+        "kana": "ㄍㄨㄤ",
+        "answer": "ㄍㄨㄤ"
+      },
+      {
+        "japanese": "ㄍㄨㄥ",
+        "english": "gong",
+        "furigana": "ㄍㄨㄥ",
+        "kana": "ㄍㄨㄥ",
+        "answer": "ㄍㄨㄥ"
+      },
+      {
+        "japanese": "ㄎㄚ",
+        "english": "ka",
+        "furigana": "ㄎㄚ",
+        "kana": "ㄎㄚ",
+        "answer": "ㄎㄚ"
+      },
+      {
+        "japanese": "ㄎㄜ",
+        "english": "ke",
+        "furigana": "ㄎㄜ",
+        "kana": "ㄎㄜ",
+        "answer": "ㄎㄜ"
+      },
+      {
+        "japanese": "ㄎㄞ",
+        "english": "kai",
+        "furigana": "ㄎㄞ",
+        "kana": "ㄎㄞ",
+        "answer": "ㄎㄞ"
+      },
+      {
+        "japanese": "ㄎㄠ",
+        "english": "kao",
+        "furigana": "ㄎㄠ",
+        "kana": "ㄎㄠ",
+        "answer": "ㄎㄠ"
+      },
+      {
+        "japanese": "ㄎㄡ",
+        "english": "kou",
+        "furigana": "ㄎㄡ",
+        "kana": "ㄎㄡ",
+        "answer": "ㄎㄡ"
+      },
+      {
+        "japanese": "ㄎㄢ",
+        "english": "kan",
+        "furigana": "ㄎㄢ",
+        "kana": "ㄎㄢ",
+        "answer": "ㄎㄢ"
+      },
+      {
+        "japanese": "ㄎㄣ",
+        "english": "ken",
+        "furigana": "ㄎㄣ",
+        "kana": "ㄎㄣ",
+        "answer": "ㄎㄣ"
+      },
+      {
+        "japanese": "ㄎㄤ",
+        "english": "kang",
+        "furigana": "ㄎㄤ",
+        "kana": "ㄎㄤ",
+        "answer": "ㄎㄤ"
+      },
+      {
+        "japanese": "ㄎㄥ",
+        "english": "keng",
+        "furigana": "ㄎㄥ",
+        "kana": "ㄎㄥ",
+        "answer": "ㄎㄥ"
+      },
+      {
+        "japanese": "ㄎㄨ",
+        "english": "ku",
+        "furigana": "ㄎㄨ",
+        "kana": "ㄎㄨ",
+        "answer": "ㄎㄨ"
+      },
+      {
+        "japanese": "ㄎㄨㄚ",
+        "english": "kua",
+        "furigana": "ㄎㄨㄚ",
+        "kana": "ㄎㄨㄚ",
+        "answer": "ㄎㄨㄚ"
+      },
+      {
+        "japanese": "ㄎㄨㄛ",
+        "english": "kuo",
+        "furigana": "ㄎㄨㄛ",
+        "kana": "ㄎㄨㄛ",
+        "answer": "ㄎㄨㄛ"
+      },
+      {
+        "japanese": "ㄎㄨㄞ",
+        "english": "kuai",
+        "furigana": "ㄎㄨㄞ",
+        "kana": "ㄎㄨㄞ",
+        "answer": "ㄎㄨㄞ"
+      },
+      {
+        "japanese": "ㄎㄨㄟ",
+        "english": "kui",
+        "furigana": "ㄎㄨㄟ",
+        "kana": "ㄎㄨㄟ",
+        "answer": "ㄎㄨㄟ"
+      },
+      {
+        "japanese": "ㄎㄨㄢ",
+        "english": "kuan",
+        "furigana": "ㄎㄨㄢ",
+        "kana": "ㄎㄨㄢ",
+        "answer": "ㄎㄨㄢ"
+      },
+      {
+        "japanese": "ㄎㄨㄣ",
+        "english": "kun",
+        "furigana": "ㄎㄨㄣ",
+        "kana": "ㄎㄨㄣ",
+        "answer": "ㄎㄨㄣ"
+      },
+      {
+        "japanese": "ㄎㄨㄤ",
+        "english": "kuang",
+        "furigana": "ㄎㄨㄤ",
+        "kana": "ㄎㄨㄤ",
+        "answer": "ㄎㄨㄤ"
+      },
+      {
+        "japanese": "ㄎㄨㄥ",
+        "english": "kong",
+        "furigana": "ㄎㄨㄥ",
+        "kana": "ㄎㄨㄥ",
+        "answer": "ㄎㄨㄥ"
+      },
+      {
+        "japanese": "ㄏㄚ",
+        "english": "ha",
+        "furigana": "ㄏㄚ",
+        "kana": "ㄏㄚ",
+        "answer": "ㄏㄚ"
+      },
+      {
+        "japanese": "ㄏㄜ",
+        "english": "he",
+        "furigana": "ㄏㄜ",
+        "kana": "ㄏㄜ",
+        "answer": "ㄏㄜ"
+      },
+      {
+        "japanese": "ㄏㄞ",
+        "english": "hai",
+        "furigana": "ㄏㄞ",
+        "kana": "ㄏㄞ",
+        "answer": "ㄏㄞ"
+      },
+      {
+        "japanese": "ㄏㄟ",
+        "english": "hei",
+        "furigana": "ㄏㄟ",
+        "kana": "ㄏㄟ",
+        "answer": "ㄏㄟ"
+      },
+      {
+        "japanese": "ㄏㄠ",
+        "english": "hao",
+        "furigana": "ㄏㄠ",
+        "kana": "ㄏㄠ",
+        "answer": "ㄏㄠ"
+      },
+      {
+        "japanese": "ㄏㄡ",
+        "english": "hou",
+        "furigana": "ㄏㄡ",
+        "kana": "ㄏㄡ",
+        "answer": "ㄏㄡ"
+      },
+      {
+        "japanese": "ㄏㄢ",
+        "english": "han",
+        "furigana": "ㄏㄢ",
+        "kana": "ㄏㄢ",
+        "answer": "ㄏㄢ"
+      },
+      {
+        "japanese": "ㄏㄣ",
+        "english": "hen",
+        "furigana": "ㄏㄣ",
+        "kana": "ㄏㄣ",
+        "answer": "ㄏㄣ"
+      },
+      {
+        "japanese": "ㄏㄤ",
+        "english": "hang",
+        "furigana": "ㄏㄤ",
+        "kana": "ㄏㄤ",
+        "answer": "ㄏㄤ"
+      },
+      {
+        "japanese": "ㄏㄥ",
+        "english": "heng",
+        "furigana": "ㄏㄥ",
+        "kana": "ㄏㄥ",
+        "answer": "ㄏㄥ"
+      },
+      {
+        "japanese": "ㄏㄨ",
+        "english": "hu",
+        "furigana": "ㄏㄨ",
+        "kana": "ㄏㄨ",
+        "answer": "ㄏㄨ"
+      },
+      {
+        "japanese": "ㄏㄨㄚ",
+        "english": "hua",
+        "furigana": "ㄏㄨㄚ",
+        "kana": "ㄏㄨㄚ",
+        "answer": "ㄏㄨㄚ"
+      },
+      {
+        "japanese": "ㄏㄨㄛ",
+        "english": "huo",
+        "furigana": "ㄏㄨㄛ",
+        "kana": "ㄏㄨㄛ",
+        "answer": "ㄏㄨㄛ"
+      },
+      {
+        "japanese": "ㄏㄨㄞ",
+        "english": "huai",
+        "furigana": "ㄏㄨㄞ",
+        "kana": "ㄏㄨㄞ",
+        "answer": "ㄏㄨㄞ"
+      },
+      {
+        "japanese": "ㄏㄨㄟ",
+        "english": "hui",
+        "furigana": "ㄏㄨㄟ",
+        "kana": "ㄏㄨㄟ",
+        "answer": "ㄏㄨㄟ"
+      },
+      {
+        "japanese": "ㄏㄨㄢ",
+        "english": "huan",
+        "furigana": "ㄏㄨㄢ",
+        "kana": "ㄏㄨㄢ",
+        "answer": "ㄏㄨㄢ"
+      },
+      {
+        "japanese": "ㄏㄨㄣ",
+        "english": "hun",
+        "furigana": "ㄏㄨㄣ",
+        "kana": "ㄏㄨㄣ",
+        "answer": "ㄏㄨㄣ"
+      },
+      {
+        "japanese": "ㄏㄨㄤ",
+        "english": "huang",
+        "furigana": "ㄏㄨㄤ",
+        "kana": "ㄏㄨㄤ",
+        "answer": "ㄏㄨㄤ"
+      },
+      {
+        "japanese": "ㄏㄨㄥ",
+        "english": "hong",
+        "furigana": "ㄏㄨㄥ",
+        "kana": "ㄏㄨㄥ",
+        "answer": "ㄏㄨㄥ"
+      },
+      {
+        "japanese": "ㄐㄧ",
+        "english": "ji",
+        "furigana": "ㄐㄧ",
+        "kana": "ㄐㄧ",
+        "answer": "ㄐㄧ"
+      },
+      {
+        "japanese": "ㄐㄧㄚ",
+        "english": "jia",
+        "furigana": "ㄐㄧㄚ",
+        "kana": "ㄐㄧㄚ",
+        "answer": "ㄐㄧㄚ"
+      },
+      {
+        "japanese": "ㄐㄧㄝ",
+        "english": "jie",
+        "furigana": "ㄐㄧㄝ",
+        "kana": "ㄐㄧㄝ",
+        "answer": "ㄐㄧㄝ"
+      },
+      {
+        "japanese": "ㄐㄧㄠ",
+        "english": "jiao",
+        "furigana": "ㄐㄧㄠ",
+        "kana": "ㄐㄧㄠ",
+        "answer": "ㄐㄧㄠ"
+      },
+      {
+        "japanese": "ㄐㄧㄡ",
+        "english": "jiu",
+        "furigana": "ㄐㄧㄡ",
+        "kana": "ㄐㄧㄡ",
+        "answer": "ㄐㄧㄡ"
+      },
+      {
+        "japanese": "ㄐㄧㄢ",
+        "english": "jian",
+        "furigana": "ㄐㄧㄢ",
+        "kana": "ㄐㄧㄢ",
+        "answer": "ㄐㄧㄢ"
+      },
+      {
+        "japanese": "ㄐㄧㄣ",
+        "english": "jin",
+        "furigana": "ㄐㄧㄣ",
+        "kana": "ㄐㄧㄣ",
+        "answer": "ㄐㄧㄣ"
+      },
+      {
+        "japanese": "ㄐㄧㄤ",
+        "english": "jiang",
+        "furigana": "ㄐㄧㄤ",
+        "kana": "ㄐㄧㄤ",
+        "answer": "ㄐㄧㄤ"
+      },
+      {
+        "japanese": "ㄐㄧㄥ",
+        "english": "jing",
+        "furigana": "ㄐㄧㄥ",
+        "kana": "ㄐㄧㄥ",
+        "answer": "ㄐㄧㄥ"
+      },
+      {
+        "japanese": "ㄐㄩ",
+        "english": "ju",
+        "furigana": "ㄐㄩ",
+        "kana": "ㄐㄩ",
+        "answer": "ㄐㄩ"
+      },
+      {
+        "japanese": "ㄐㄩㄝ",
+        "english": "jue",
+        "furigana": "ㄐㄩㄝ",
+        "kana": "ㄐㄩㄝ",
+        "answer": "ㄐㄩㄝ"
+      },
+      {
+        "japanese": "ㄐㄩㄢ",
+        "english": "juan",
+        "furigana": "ㄐㄩㄢ",
+        "kana": "ㄐㄩㄢ",
+        "answer": "ㄐㄩㄢ"
+      },
+      {
+        "japanese": "ㄐㄩㄣ",
+        "english": "jun",
+        "furigana": "ㄐㄩㄣ",
+        "kana": "ㄐㄩㄣ",
+        "answer": "ㄐㄩㄣ"
+      },
+      {
+        "japanese": "ㄐㄩㄥ",
+        "english": "jiong",
+        "furigana": "ㄐㄩㄥ",
+        "kana": "ㄐㄩㄥ",
+        "answer": "ㄐㄩㄥ"
+      },
+      {
+        "japanese": "ㄑㄧ",
+        "english": "qi",
+        "furigana": "ㄑㄧ",
+        "kana": "ㄑㄧ",
+        "answer": "ㄑㄧ"
+      },
+      {
+        "japanese": "ㄑㄧㄚ",
+        "english": "qia",
+        "furigana": "ㄑㄧㄚ",
+        "kana": "ㄑㄧㄚ",
+        "answer": "ㄑㄧㄚ"
+      },
+      {
+        "japanese": "ㄑㄧㄝ",
+        "english": "qie",
+        "furigana": "ㄑㄧㄝ",
+        "kana": "ㄑㄧㄝ",
+        "answer": "ㄑㄧㄝ"
+      },
+      {
+        "japanese": "ㄑㄧㄠ",
+        "english": "qiao",
+        "furigana": "ㄑㄧㄠ",
+        "kana": "ㄑㄧㄠ",
+        "answer": "ㄑㄧㄠ"
+      },
+      {
+        "japanese": "ㄑㄧㄡ",
+        "english": "qiu",
+        "furigana": "ㄑㄧㄡ",
+        "kana": "ㄑㄧㄡ",
+        "answer": "ㄑㄧㄡ"
+      },
+      {
+        "japanese": "ㄑㄧㄢ",
+        "english": "qian",
+        "furigana": "ㄑㄧㄢ",
+        "kana": "ㄑㄧㄢ",
+        "answer": "ㄑㄧㄢ"
+      },
+      {
+        "japanese": "ㄑㄧㄣ",
+        "english": "qin",
+        "furigana": "ㄑㄧㄣ",
+        "kana": "ㄑㄧㄣ",
+        "answer": "ㄑㄧㄣ"
+      },
+      {
+        "japanese": "ㄑㄧㄤ",
+        "english": "qiang",
+        "furigana": "ㄑㄧㄤ",
+        "kana": "ㄑㄧㄤ",
+        "answer": "ㄑㄧㄤ"
+      },
+      {
+        "japanese": "ㄑㄧㄥ",
+        "english": "qing",
+        "furigana": "ㄑㄧㄥ",
+        "kana": "ㄑㄧㄥ",
+        "answer": "ㄑㄧㄥ"
+      },
+      {
+        "japanese": "ㄑㄩ",
+        "english": "qu",
+        "furigana": "ㄑㄩ",
+        "kana": "ㄑㄩ",
+        "answer": "ㄑㄩ"
+      },
+      {
+        "japanese": "ㄑㄩㄝ",
+        "english": "que",
+        "furigana": "ㄑㄩㄝ",
+        "kana": "ㄑㄩㄝ",
+        "answer": "ㄑㄩㄝ"
+      },
+      {
+        "japanese": "ㄑㄩㄢ",
+        "english": "quan",
+        "furigana": "ㄑㄩㄢ",
+        "kana": "ㄑㄩㄢ",
+        "answer": "ㄑㄩㄢ"
+      },
+      {
+        "japanese": "ㄑㄩㄣ",
+        "english": "qun",
+        "furigana": "ㄑㄩㄣ",
+        "kana": "ㄑㄩㄣ",
+        "answer": "ㄑㄩㄣ"
+      },
+      {
+        "japanese": "ㄑㄩㄥ",
+        "english": "qiong",
+        "furigana": "ㄑㄩㄥ",
+        "kana": "ㄑㄩㄥ",
+        "answer": "ㄑㄩㄥ"
+      },
+      {
+        "japanese": "ㄒㄧ",
+        "english": "xi",
+        "furigana": "ㄒㄧ",
+        "kana": "ㄒㄧ",
+        "answer": "ㄒㄧ"
+      },
+      {
+        "japanese": "ㄒㄧㄚ",
+        "english": "xia",
+        "furigana": "ㄒㄧㄚ",
+        "kana": "ㄒㄧㄚ",
+        "answer": "ㄒㄧㄚ"
+      },
+      {
+        "japanese": "ㄒㄧㄝ",
+        "english": "xie",
+        "furigana": "ㄒㄧㄝ",
+        "kana": "ㄒㄧㄝ",
+        "answer": "ㄒㄧㄝ"
+      },
+      {
+        "japanese": "ㄒㄧㄠ",
+        "english": "xiao",
+        "furigana": "ㄒㄧㄠ",
+        "kana": "ㄒㄧㄠ",
+        "answer": "ㄒㄧㄠ"
+      },
+      {
+        "japanese": "ㄒㄧㄡ",
+        "english": "xiu",
+        "furigana": "ㄒㄧㄡ",
+        "kana": "ㄒㄧㄡ",
+        "answer": "ㄒㄧㄡ"
+      },
+      {
+        "japanese": "ㄒㄧㄢ",
+        "english": "xian",
+        "furigana": "ㄒㄧㄢ",
+        "kana": "ㄒㄧㄢ",
+        "answer": "ㄒㄧㄢ"
+      },
+      {
+        "japanese": "ㄒㄧㄣ",
+        "english": "xin",
+        "furigana": "ㄒㄧㄣ",
+        "kana": "ㄒㄧㄣ",
+        "answer": "ㄒㄧㄣ"
+      },
+      {
+        "japanese": "ㄒㄧㄤ",
+        "english": "xiang",
+        "furigana": "ㄒㄧㄤ",
+        "kana": "ㄒㄧㄤ",
+        "answer": "ㄒㄧㄤ"
+      },
+      {
+        "japanese": "ㄒㄧㄥ",
+        "english": "xing",
+        "furigana": "ㄒㄧㄥ",
+        "kana": "ㄒㄧㄥ",
+        "answer": "ㄒㄧㄥ"
+      },
+      {
+        "japanese": "ㄒㄩ",
+        "english": "xu",
+        "furigana": "ㄒㄩ",
+        "kana": "ㄒㄩ",
+        "answer": "ㄒㄩ"
+      },
+      {
+        "japanese": "ㄒㄩㄝ",
+        "english": "xue",
+        "furigana": "ㄒㄩㄝ",
+        "kana": "ㄒㄩㄝ",
+        "answer": "ㄒㄩㄝ"
+      },
+      {
+        "japanese": "ㄒㄩㄢ",
+        "english": "xuan",
+        "furigana": "ㄒㄩㄢ",
+        "kana": "ㄒㄩㄢ",
+        "answer": "ㄒㄩㄢ"
+      },
+      {
+        "japanese": "ㄒㄩㄣ",
+        "english": "xun",
+        "furigana": "ㄒㄩㄣ",
+        "kana": "ㄒㄩㄣ",
+        "answer": "ㄒㄩㄣ"
+      },
+      {
+        "japanese": "ㄒㄩㄥ",
+        "english": "xiong",
+        "furigana": "ㄒㄩㄥ",
+        "kana": "ㄒㄩㄥ",
+        "answer": "ㄒㄩㄥ"
+      },
+      {
+        "japanese": "ㄓ",
+        "english": "zhi",
+        "furigana": "ㄓ",
+        "kana": "ㄓ",
+        "answer": "ㄓ"
+      },
+      {
+        "japanese": "ㄓㄚ",
+        "english": "zha",
+        "furigana": "ㄓㄚ",
+        "kana": "ㄓㄚ",
+        "answer": "ㄓㄚ"
+      },
+      {
+        "japanese": "ㄓㄜ",
+        "english": "zhe",
+        "furigana": "ㄓㄜ",
+        "kana": "ㄓㄜ",
+        "answer": "ㄓㄜ"
+      },
+      {
+        "japanese": "ㄓㄞ",
+        "english": "zhai",
+        "furigana": "ㄓㄞ",
+        "kana": "ㄓㄞ",
+        "answer": "ㄓㄞ"
+      },
+      {
+        "japanese": "ㄓㄟ",
+        "english": "zhei",
+        "furigana": "ㄓㄟ",
+        "kana": "ㄓㄟ",
+        "answer": "ㄓㄟ"
+      },
+      {
+        "japanese": "ㄓㄠ",
+        "english": "zhao",
+        "furigana": "ㄓㄠ",
+        "kana": "ㄓㄠ",
+        "answer": "ㄓㄠ"
+      },
+      {
+        "japanese": "ㄓㄡ",
+        "english": "zhou",
+        "furigana": "ㄓㄡ",
+        "kana": "ㄓㄡ",
+        "answer": "ㄓㄡ"
+      },
+      {
+        "japanese": "ㄓㄢ",
+        "english": "zhan",
+        "furigana": "ㄓㄢ",
+        "kana": "ㄓㄢ",
+        "answer": "ㄓㄢ"
+      },
+      {
+        "japanese": "ㄓㄣ",
+        "english": "zhen",
+        "furigana": "ㄓㄣ",
+        "kana": "ㄓㄣ",
+        "answer": "ㄓㄣ"
+      },
+      {
+        "japanese": "ㄓㄤ",
+        "english": "zhang",
+        "furigana": "ㄓㄤ",
+        "kana": "ㄓㄤ",
+        "answer": "ㄓㄤ"
+      },
+      {
+        "japanese": "ㄓㄥ",
+        "english": "zheng",
+        "furigana": "ㄓㄥ",
+        "kana": "ㄓㄥ",
+        "answer": "ㄓㄥ"
+      },
+      {
+        "japanese": "ㄓㄨ",
+        "english": "zhu",
+        "furigana": "ㄓㄨ",
+        "kana": "ㄓㄨ",
+        "answer": "ㄓㄨ"
+      },
+      {
+        "japanese": "ㄓㄨㄚ",
+        "english": "zhua",
+        "furigana": "ㄓㄨㄚ",
+        "kana": "ㄓㄨㄚ",
+        "answer": "ㄓㄨㄚ"
+      },
+      {
+        "japanese": "ㄓㄨㄛ",
+        "english": "zhuo",
+        "furigana": "ㄓㄨㄛ",
+        "kana": "ㄓㄨㄛ",
+        "answer": "ㄓㄨㄛ"
+      },
+      {
+        "japanese": "ㄓㄨㄞ",
+        "english": "zhuai",
+        "furigana": "ㄓㄨㄞ",
+        "kana": "ㄓㄨㄞ",
+        "answer": "ㄓㄨㄞ"
+      },
+      {
+        "japanese": "ㄓㄨㄟ",
+        "english": "zhui",
+        "furigana": "ㄓㄨㄟ",
+        "kana": "ㄓㄨㄟ",
+        "answer": "ㄓㄨㄟ"
+      },
+      {
+        "japanese": "ㄓㄨㄢ",
+        "english": "zhuan",
+        "furigana": "ㄓㄨㄢ",
+        "kana": "ㄓㄨㄢ",
+        "answer": "ㄓㄨㄢ"
+      },
+      {
+        "japanese": "ㄓㄨㄣ",
+        "english": "zhun",
+        "furigana": "ㄓㄨㄣ",
+        "kana": "ㄓㄨㄣ",
+        "answer": "ㄓㄨㄣ"
+      },
+      {
+        "japanese": "ㄓㄨㄤ",
+        "english": "zhuang",
+        "furigana": "ㄓㄨㄤ",
+        "kana": "ㄓㄨㄤ",
+        "answer": "ㄓㄨㄤ"
+      },
+      {
+        "japanese": "ㄓㄨㄥ",
+        "english": "zhong",
+        "furigana": "ㄓㄨㄥ",
+        "kana": "ㄓㄨㄥ",
+        "answer": "ㄓㄨㄥ"
+      },
+      {
+        "japanese": "ㄔ",
+        "english": "chi",
+        "furigana": "ㄔ",
+        "kana": "ㄔ",
+        "answer": "ㄔ"
+      },
+      {
+        "japanese": "ㄔㄚ",
+        "english": "cha",
+        "furigana": "ㄔㄚ",
+        "kana": "ㄔㄚ",
+        "answer": "ㄔㄚ"
+      },
+      {
+        "japanese": "ㄔㄜ",
+        "english": "che",
+        "furigana": "ㄔㄜ",
+        "kana": "ㄔㄜ",
+        "answer": "ㄔㄜ"
+      },
+      {
+        "japanese": "ㄔㄞ",
+        "english": "chai",
+        "furigana": "ㄔㄞ",
+        "kana": "ㄔㄞ",
+        "answer": "ㄔㄞ"
+      },
+      {
+        "japanese": "ㄔㄠ",
+        "english": "chao",
+        "furigana": "ㄔㄠ",
+        "kana": "ㄔㄠ",
+        "answer": "ㄔㄠ"
+      },
+      {
+        "japanese": "ㄔㄡ",
+        "english": "chou",
+        "furigana": "ㄔㄡ",
+        "kana": "ㄔㄡ",
+        "answer": "ㄔㄡ"
+      },
+      {
+        "japanese": "ㄔㄢ",
+        "english": "chan",
+        "furigana": "ㄔㄢ",
+        "kana": "ㄔㄢ",
+        "answer": "ㄔㄢ"
+      },
+      {
+        "japanese": "ㄔㄣ",
+        "english": "chen",
+        "furigana": "ㄔㄣ",
+        "kana": "ㄔㄣ",
+        "answer": "ㄔㄣ"
+      },
+      {
+        "japanese": "ㄔㄤ",
+        "english": "chang",
+        "furigana": "ㄔㄤ",
+        "kana": "ㄔㄤ",
+        "answer": "ㄔㄤ"
+      },
+      {
+        "japanese": "ㄔㄥ",
+        "english": "cheng",
+        "furigana": "ㄔㄥ",
+        "kana": "ㄔㄥ",
+        "answer": "ㄔㄥ"
+      },
+      {
+        "japanese": "ㄔㄨ",
+        "english": "chu",
+        "furigana": "ㄔㄨ",
+        "kana": "ㄔㄨ",
+        "answer": "ㄔㄨ"
+      },
+      {
+        "japanese": "ㄔㄨㄚ",
+        "english": "chua",
+        "furigana": "ㄔㄨㄚ",
+        "kana": "ㄔㄨㄚ",
+        "answer": "ㄔㄨㄚ"
+      },
+      {
+        "japanese": "ㄔㄨㄛ",
+        "english": "chuo",
+        "furigana": "ㄔㄨㄛ",
+        "kana": "ㄔㄨㄛ",
+        "answer": "ㄔㄨㄛ"
+      },
+      {
+        "japanese": "ㄔㄨㄞ",
+        "english": "chuai",
+        "furigana": "ㄔㄨㄞ",
+        "kana": "ㄔㄨㄞ",
+        "answer": "ㄔㄨㄞ"
+      },
+      {
+        "japanese": "ㄔㄨㄟ",
+        "english": "chui",
+        "furigana": "ㄔㄨㄟ",
+        "kana": "ㄔㄨㄟ",
+        "answer": "ㄔㄨㄟ"
+      },
+      {
+        "japanese": "ㄔㄨㄢ",
+        "english": "chuan",
+        "furigana": "ㄔㄨㄢ",
+        "kana": "ㄔㄨㄢ",
+        "answer": "ㄔㄨㄢ"
+      },
+      {
+        "japanese": "ㄔㄨㄣ",
+        "english": "chun",
+        "furigana": "ㄔㄨㄣ",
+        "kana": "ㄔㄨㄣ",
+        "answer": "ㄔㄨㄣ"
+      },
+      {
+        "japanese": "ㄔㄨㄤ",
+        "english": "chuang",
+        "furigana": "ㄔㄨㄤ",
+        "kana": "ㄔㄨㄤ",
+        "answer": "ㄔㄨㄤ"
+      },
+      {
+        "japanese": "ㄔㄨㄥ",
+        "english": "chong",
+        "furigana": "ㄔㄨㄥ",
+        "kana": "ㄔㄨㄥ",
+        "answer": "ㄔㄨㄥ"
+      },
+      {
+        "japanese": "ㄕ",
+        "english": "shi",
+        "furigana": "ㄕ",
+        "kana": "ㄕ",
+        "answer": "ㄕ"
+      },
+      {
+        "japanese": "ㄕㄚ",
+        "english": "sha",
+        "furigana": "ㄕㄚ",
+        "kana": "ㄕㄚ",
+        "answer": "ㄕㄚ"
+      },
+      {
+        "japanese": "ㄕㄜ",
+        "english": "she",
+        "furigana": "ㄕㄜ",
+        "kana": "ㄕㄜ",
+        "answer": "ㄕㄜ"
+      },
+      {
+        "japanese": "ㄕㄞ",
+        "english": "shai",
+        "furigana": "ㄕㄞ",
+        "kana": "ㄕㄞ",
+        "answer": "ㄕㄞ"
+      },
+      {
+        "japanese": "ㄕㄟ",
+        "english": "shei",
+        "furigana": "ㄕㄟ",
+        "kana": "ㄕㄟ",
+        "answer": "ㄕㄟ"
+      },
+      {
+        "japanese": "ㄕㄠ",
+        "english": "shao",
+        "furigana": "ㄕㄠ",
+        "kana": "ㄕㄠ",
+        "answer": "ㄕㄠ"
+      },
+      {
+        "japanese": "ㄕㄡ",
+        "english": "shou",
+        "furigana": "ㄕㄡ",
+        "kana": "ㄕㄡ",
+        "answer": "ㄕㄡ"
+      },
+      {
+        "japanese": "ㄕㄢ",
+        "english": "shan",
+        "furigana": "ㄕㄢ",
+        "kana": "ㄕㄢ",
+        "answer": "ㄕㄢ"
+      },
+      {
+        "japanese": "ㄕㄣ",
+        "english": "shen",
+        "furigana": "ㄕㄣ",
+        "kana": "ㄕㄣ",
+        "answer": "ㄕㄣ"
+      },
+      {
+        "japanese": "ㄕㄤ",
+        "english": "shang",
+        "furigana": "ㄕㄤ",
+        "kana": "ㄕㄤ",
+        "answer": "ㄕㄤ"
+      },
+      {
+        "japanese": "ㄕㄥ",
+        "english": "sheng",
+        "furigana": "ㄕㄥ",
+        "kana": "ㄕㄥ",
+        "answer": "ㄕㄥ"
+      },
+      {
+        "japanese": "ㄕㄨ",
+        "english": "shu",
+        "furigana": "ㄕㄨ",
+        "kana": "ㄕㄨ",
+        "answer": "ㄕㄨ"
+      },
+      {
+        "japanese": "ㄕㄨㄚ",
+        "english": "shua",
+        "furigana": "ㄕㄨㄚ",
+        "kana": "ㄕㄨㄚ",
+        "answer": "ㄕㄨㄚ"
+      },
+      {
+        "japanese": "ㄕㄨㄛ",
+        "english": "shuo",
+        "furigana": "ㄕㄨㄛ",
+        "kana": "ㄕㄨㄛ",
+        "answer": "ㄕㄨㄛ"
+      },
+      {
+        "japanese": "ㄕㄨㄞ",
+        "english": "shuai",
+        "furigana": "ㄕㄨㄞ",
+        "kana": "ㄕㄨㄞ",
+        "answer": "ㄕㄨㄞ"
+      },
+      {
+        "japanese": "ㄕㄨㄟ",
+        "english": "shui",
+        "furigana": "ㄕㄨㄟ",
+        "kana": "ㄕㄨㄟ",
+        "answer": "ㄕㄨㄟ"
+      },
+      {
+        "japanese": "ㄕㄨㄢ",
+        "english": "shuan",
+        "furigana": "ㄕㄨㄢ",
+        "kana": "ㄕㄨㄢ",
+        "answer": "ㄕㄨㄢ"
+      },
+      {
+        "japanese": "ㄕㄨㄣ",
+        "english": "shun",
+        "furigana": "ㄕㄨㄣ",
+        "kana": "ㄕㄨㄣ",
+        "answer": "ㄕㄨㄣ"
+      },
+      {
+        "japanese": "ㄕㄨㄤ",
+        "english": "shuang",
+        "furigana": "ㄕㄨㄤ",
+        "kana": "ㄕㄨㄤ",
+        "answer": "ㄕㄨㄤ"
+      },
+      {
+        "japanese": "ㄕㄨㄥ",
+        "english": "shong",
+        "furigana": "ㄕㄨㄥ",
+        "kana": "ㄕㄨㄥ",
+        "answer": "ㄕㄨㄥ"
+      },
+      {
+        "japanese": "ㄖ",
+        "english": "ri",
+        "furigana": "ㄖ",
+        "kana": "ㄖ",
+        "answer": "ㄖ"
+      },
+      {
+        "japanese": "ㄖㄜ",
+        "english": "re",
+        "furigana": "ㄖㄜ",
+        "kana": "ㄖㄜ",
+        "answer": "ㄖㄜ"
+      },
+      {
+        "japanese": "ㄖㄠ",
+        "english": "rao",
+        "furigana": "ㄖㄠ",
+        "kana": "ㄖㄠ",
+        "answer": "ㄖㄠ"
+      },
+      {
+        "japanese": "ㄖㄡ",
+        "english": "rou",
+        "furigana": "ㄖㄡ",
+        "kana": "ㄖㄡ",
+        "answer": "ㄖㄡ"
+      },
+      {
+        "japanese": "ㄖㄢ",
+        "english": "ran",
+        "furigana": "ㄖㄢ",
+        "kana": "ㄖㄢ",
+        "answer": "ㄖㄢ"
+      },
+      {
+        "japanese": "ㄖㄣ",
+        "english": "ren",
+        "furigana": "ㄖㄣ",
+        "kana": "ㄖㄣ",
+        "answer": "ㄖㄣ"
+      },
+      {
+        "japanese": "ㄖㄤ",
+        "english": "rang",
+        "furigana": "ㄖㄤ",
+        "kana": "ㄖㄤ",
+        "answer": "ㄖㄤ"
+      },
+      {
+        "japanese": "ㄖㄥ",
+        "english": "reng",
+        "furigana": "ㄖㄥ",
+        "kana": "ㄖㄥ",
+        "answer": "ㄖㄥ"
+      },
+      {
+        "japanese": "ㄖㄨ",
+        "english": "ru",
+        "furigana": "ㄖㄨ",
+        "kana": "ㄖㄨ",
+        "answer": "ㄖㄨ"
+      },
+      {
+        "japanese": "ㄖㄨㄛ",
+        "english": "ruo",
+        "furigana": "ㄖㄨㄛ",
+        "kana": "ㄖㄨㄛ",
+        "answer": "ㄖㄨㄛ"
+      },
+      {
+        "japanese": "ㄖㄨㄟ",
+        "english": "rui",
+        "furigana": "ㄖㄨㄟ",
+        "kana": "ㄖㄨㄟ",
+        "answer": "ㄖㄨㄟ"
+      },
+      {
+        "japanese": "ㄖㄨㄢ",
+        "english": "ruan",
+        "furigana": "ㄖㄨㄢ",
+        "kana": "ㄖㄨㄢ",
+        "answer": "ㄖㄨㄢ"
+      },
+      {
+        "japanese": "ㄖㄨㄣ",
+        "english": "run",
+        "furigana": "ㄖㄨㄣ",
+        "kana": "ㄖㄨㄣ",
+        "answer": "ㄖㄨㄣ"
+      },
+      {
+        "japanese": "ㄖㄨㄥ",
+        "english": "rong",
+        "furigana": "ㄖㄨㄥ",
+        "kana": "ㄖㄨㄥ",
+        "answer": "ㄖㄨㄥ"
+      },
+      {
+        "japanese": "ㄗ",
+        "english": "zi",
+        "furigana": "ㄗ",
+        "kana": "ㄗ",
+        "answer": "ㄗ"
+      },
+      {
+        "japanese": "ㄗㄚ",
+        "english": "za",
+        "furigana": "ㄗㄚ",
+        "kana": "ㄗㄚ",
+        "answer": "ㄗㄚ"
+      },
+      {
+        "japanese": "ㄗㄜ",
+        "english": "ze",
+        "furigana": "ㄗㄜ",
+        "kana": "ㄗㄜ",
+        "answer": "ㄗㄜ"
+      },
+      {
+        "japanese": "ㄗㄞ",
+        "english": "zai",
+        "furigana": "ㄗㄞ",
+        "kana": "ㄗㄞ",
+        "answer": "ㄗㄞ"
+      },
+      {
+        "japanese": "ㄗㄟ",
+        "english": "zei",
+        "furigana": "ㄗㄟ",
+        "kana": "ㄗㄟ",
+        "answer": "ㄗㄟ"
+      },
+      {
+        "japanese": "ㄗㄠ",
+        "english": "zao",
+        "furigana": "ㄗㄠ",
+        "kana": "ㄗㄠ",
+        "answer": "ㄗㄠ"
+      },
+      {
+        "japanese": "ㄗㄡ",
+        "english": "zou",
+        "furigana": "ㄗㄡ",
+        "kana": "ㄗㄡ",
+        "answer": "ㄗㄡ"
+      },
+      {
+        "japanese": "ㄗㄢ",
+        "english": "zan",
+        "furigana": "ㄗㄢ",
+        "kana": "ㄗㄢ",
+        "answer": "ㄗㄢ"
+      },
+      {
+        "japanese": "ㄗㄣ",
+        "english": "zen",
+        "furigana": "ㄗㄣ",
+        "kana": "ㄗㄣ",
+        "answer": "ㄗㄣ"
+      },
+      {
+        "japanese": "ㄗㄤ",
+        "english": "zang",
+        "furigana": "ㄗㄤ",
+        "kana": "ㄗㄤ",
+        "answer": "ㄗㄤ"
+      },
+      {
+        "japanese": "ㄗㄥ",
+        "english": "zeng",
+        "furigana": "ㄗㄥ",
+        "kana": "ㄗㄥ",
+        "answer": "ㄗㄥ"
+      },
+      {
+        "japanese": "ㄗㄨ",
+        "english": "zu",
+        "furigana": "ㄗㄨ",
+        "kana": "ㄗㄨ",
+        "answer": "ㄗㄨ"
+      },
+      {
+        "japanese": "ㄗㄨㄛ",
+        "english": "zuo",
+        "furigana": "ㄗㄨㄛ",
+        "kana": "ㄗㄨㄛ",
+        "answer": "ㄗㄨㄛ"
+      },
+      {
+        "japanese": "ㄗㄨㄟ",
+        "english": "zui",
+        "furigana": "ㄗㄨㄟ",
+        "kana": "ㄗㄨㄟ",
+        "answer": "ㄗㄨㄟ"
+      },
+      {
+        "japanese": "ㄗㄨㄢ",
+        "english": "zuan",
+        "furigana": "ㄗㄨㄢ",
+        "kana": "ㄗㄨㄢ",
+        "answer": "ㄗㄨㄢ"
+      },
+      {
+        "japanese": "ㄗㄨㄣ",
+        "english": "zun",
+        "furigana": "ㄗㄨㄣ",
+        "kana": "ㄗㄨㄣ",
+        "answer": "ㄗㄨㄣ"
+      },
+      {
+        "japanese": "ㄗㄨㄥ",
+        "english": "zong",
+        "furigana": "ㄗㄨㄥ",
+        "kana": "ㄗㄨㄥ",
+        "answer": "ㄗㄨㄥ"
+      },
+      {
+        "japanese": "ㄘ",
+        "english": "ci",
+        "furigana": "ㄘ",
+        "kana": "ㄘ",
+        "answer": "ㄘ"
+      },
+      {
+        "japanese": "ㄘㄚ",
+        "english": "ca",
+        "furigana": "ㄘㄚ",
+        "kana": "ㄘㄚ",
+        "answer": "ㄘㄚ"
+      },
+      {
+        "japanese": "ㄘㄜ",
+        "english": "ce",
+        "furigana": "ㄘㄜ",
+        "kana": "ㄘㄜ",
+        "answer": "ㄘㄜ"
+      },
+      {
+        "japanese": "ㄘㄞ",
+        "english": "cai",
+        "furigana": "ㄘㄞ",
+        "kana": "ㄘㄞ",
+        "answer": "ㄘㄞ"
+      },
+      {
+        "japanese": "ㄘㄠ",
+        "english": "cao",
+        "furigana": "ㄘㄠ",
+        "kana": "ㄘㄠ",
+        "answer": "ㄘㄠ"
+      },
+      {
+        "japanese": "ㄘㄡ",
+        "english": "cou",
+        "furigana": "ㄘㄡ",
+        "kana": "ㄘㄡ",
+        "answer": "ㄘㄡ"
+      },
+      {
+        "japanese": "ㄘㄢ",
+        "english": "can",
+        "furigana": "ㄘㄢ",
+        "kana": "ㄘㄢ",
+        "answer": "ㄘㄢ"
+      },
+      {
+        "japanese": "ㄘㄣ",
+        "english": "cen",
+        "furigana": "ㄘㄣ",
+        "kana": "ㄘㄣ",
+        "answer": "ㄘㄣ"
+      },
+      {
+        "japanese": "ㄘㄤ",
+        "english": "cang",
+        "furigana": "ㄘㄤ",
+        "kana": "ㄘㄤ",
+        "answer": "ㄘㄤ"
+      },
+      {
+        "japanese": "ㄘㄥ",
+        "english": "ceng",
+        "furigana": "ㄘㄥ",
+        "kana": "ㄘㄥ",
+        "answer": "ㄘㄥ"
+      },
+      {
+        "japanese": "ㄘㄨ",
+        "english": "cu",
+        "furigana": "ㄘㄨ",
+        "kana": "ㄘㄨ",
+        "answer": "ㄘㄨ"
+      },
+      {
+        "japanese": "ㄘㄨㄛ",
+        "english": "cuo",
+        "furigana": "ㄘㄨㄛ",
+        "kana": "ㄘㄨㄛ",
+        "answer": "ㄘㄨㄛ"
+      },
+      {
+        "japanese": "ㄘㄨㄟ",
+        "english": "cui",
+        "furigana": "ㄘㄨㄟ",
+        "kana": "ㄘㄨㄟ",
+        "answer": "ㄘㄨㄟ"
+      },
+      {
+        "japanese": "ㄘㄨㄢ",
+        "english": "cuan",
+        "furigana": "ㄘㄨㄢ",
+        "kana": "ㄘㄨㄢ",
+        "answer": "ㄘㄨㄢ"
+      },
+      {
+        "japanese": "ㄘㄨㄣ",
+        "english": "cun",
+        "furigana": "ㄘㄨㄣ",
+        "kana": "ㄘㄨㄣ",
+        "answer": "ㄘㄨㄣ"
+      },
+      {
+        "japanese": "ㄘㄨㄥ",
+        "english": "cong",
+        "furigana": "ㄘㄨㄥ",
+        "kana": "ㄘㄨㄥ",
+        "answer": "ㄘㄨㄥ"
+      },
+      {
+        "japanese": "ㄙ",
+        "english": "si",
+        "furigana": "ㄙ",
+        "kana": "ㄙ",
+        "answer": "ㄙ"
+      },
+      {
+        "japanese": "ㄙㄚ",
+        "english": "sa",
+        "furigana": "ㄙㄚ",
+        "kana": "ㄙㄚ",
+        "answer": "ㄙㄚ"
+      },
+      {
+        "japanese": "ㄙㄜ",
+        "english": "se",
+        "furigana": "ㄙㄜ",
+        "kana": "ㄙㄜ",
+        "answer": "ㄙㄜ"
+      },
+      {
+        "japanese": "ㄙㄞ",
+        "english": "sai",
+        "furigana": "ㄙㄞ",
+        "kana": "ㄙㄞ",
+        "answer": "ㄙㄞ"
+      },
+      {
+        "japanese": "ㄙㄟ",
+        "english": "sei",
+        "furigana": "ㄙㄟ",
+        "kana": "ㄙㄟ",
+        "answer": "ㄙㄟ"
+      },
+      {
+        "japanese": "ㄙㄠ",
+        "english": "sao",
+        "furigana": "ㄙㄠ",
+        "kana": "ㄙㄠ",
+        "answer": "ㄙㄠ"
+      },
+      {
+        "japanese": "ㄙㄡ",
+        "english": "sou",
+        "furigana": "ㄙㄡ",
+        "kana": "ㄙㄡ",
+        "answer": "ㄙㄡ"
+      },
+      {
+        "japanese": "ㄙㄢ",
+        "english": "san",
+        "furigana": "ㄙㄢ",
+        "kana": "ㄙㄢ",
+        "answer": "ㄙㄢ"
+      },
+      {
+        "japanese": "ㄙㄣ",
+        "english": "sen",
+        "furigana": "ㄙㄣ",
+        "kana": "ㄙㄣ",
+        "answer": "ㄙㄣ"
+      },
+      {
+        "japanese": "ㄙㄤ",
+        "english": "sang",
+        "furigana": "ㄙㄤ",
+        "kana": "ㄙㄤ",
+        "answer": "ㄙㄤ"
+      },
+      {
+        "japanese": "ㄙㄥ",
+        "english": "seng",
+        "furigana": "ㄙㄥ",
+        "kana": "ㄙㄥ",
+        "answer": "ㄙㄥ"
+      },
+      {
+        "japanese": "ㄙㄨ",
+        "english": "su",
+        "furigana": "ㄙㄨ",
+        "kana": "ㄙㄨ",
+        "answer": "ㄙㄨ"
+      },
+      {
+        "japanese": "ㄙㄨㄛ",
+        "english": "suo",
+        "furigana": "ㄙㄨㄛ",
+        "kana": "ㄙㄨㄛ",
+        "answer": "ㄙㄨㄛ"
+      },
+      {
+        "japanese": "ㄙㄨㄟ",
+        "english": "sui",
+        "furigana": "ㄙㄨㄟ",
+        "kana": "ㄙㄨㄟ",
+        "answer": "ㄙㄨㄟ"
+      },
+      {
+        "japanese": "ㄙㄨㄢ",
+        "english": "suan",
+        "furigana": "ㄙㄨㄢ",
+        "kana": "ㄙㄨㄢ",
+        "answer": "ㄙㄨㄢ"
+      },
+      {
+        "japanese": "ㄙㄨㄣ",
+        "english": "sun",
+        "furigana": "ㄙㄨㄣ",
+        "kana": "ㄙㄨㄣ",
+        "answer": "ㄙㄨㄣ"
+      },
+      {
+        "japanese": "ㄙㄨㄥ",
+        "english": "song",
+        "furigana": "ㄙㄨㄥ",
+        "kana": "ㄙㄨㄥ",
+        "answer": "ㄙㄨㄥ"
+      },
+      {
+        "japanese": "ㄚ",
+        "english": "a",
+        "furigana": "ㄚ",
+        "kana": "ㄚ",
+        "answer": "ㄚ"
+      },
+      {
+        "japanese": "ㄜ",
+        "english": "e",
+        "furigana": "ㄜ",
+        "kana": "ㄜ",
+        "answer": "ㄜ"
+      },
+      {
+        "japanese": "ㄞ",
+        "english": "ai",
+        "furigana": "ㄞ",
+        "kana": "ㄞ",
+        "answer": "ㄞ"
+      },
+      {
+        "japanese": "ㄟ",
+        "english": "ei",
+        "furigana": "ㄟ",
+        "kana": "ㄟ",
+        "answer": "ㄟ"
+      },
+      {
+        "japanese": "ㄠ",
+        "english": "ao",
+        "furigana": "ㄠ",
+        "kana": "ㄠ",
+        "answer": "ㄠ"
+      },
+      {
+        "japanese": "ㄡ",
+        "english": "ou",
+        "furigana": "ㄡ",
+        "kana": "ㄡ",
+        "answer": "ㄡ"
+      },
+      {
+        "japanese": "ㄢ",
+        "english": "an",
+        "furigana": "ㄢ",
+        "kana": "ㄢ",
+        "answer": "ㄢ"
+      },
+      {
+        "japanese": "ㄣ",
+        "english": "en",
+        "furigana": "ㄣ",
+        "kana": "ㄣ",
+        "answer": "ㄣ"
+      },
+      {
+        "japanese": "ㄤ",
+        "english": "ang",
+        "furigana": "ㄤ",
+        "kana": "ㄤ",
+        "answer": "ㄤ"
+      },
+      {
+        "japanese": "ㄦ",
+        "english": "er",
+        "furigana": "ㄦ",
+        "kana": "ㄦ",
+        "answer": "ㄦ"
+      },
+      {
+        "japanese": "ㄧ",
+        "english": "yi",
+        "furigana": "ㄧ",
+        "kana": "ㄧ",
+        "answer": "ㄧ"
+      },
+      {
+        "japanese": "ㄧㄚ",
+        "english": "ya",
+        "furigana": "ㄧㄚ",
+        "kana": "ㄧㄚ",
+        "answer": "ㄧㄚ"
+      },
+      {
+        "japanese": "ㄧㄝ",
+        "english": "ye",
+        "furigana": "ㄧㄝ",
+        "kana": "ㄧㄝ",
+        "answer": "ㄧㄝ"
+      },
+      {
+        "japanese": "ㄧㄠ",
+        "english": "yao",
+        "furigana": "ㄧㄠ",
+        "kana": "ㄧㄠ",
+        "answer": "ㄧㄠ"
+      },
+      {
+        "japanese": "ㄧㄡ",
+        "english": "you",
+        "furigana": "ㄧㄡ",
+        "kana": "ㄧㄡ",
+        "answer": "ㄧㄡ"
+      },
+      {
+        "japanese": "ㄧㄢ",
+        "english": "yan",
+        "furigana": "ㄧㄢ",
+        "kana": "ㄧㄢ",
+        "answer": "ㄧㄢ"
+      },
+      {
+        "japanese": "ㄧㄣ",
+        "english": "yin",
+        "furigana": "ㄧㄣ",
+        "kana": "ㄧㄣ",
+        "answer": "ㄧㄣ"
+      },
+      {
+        "japanese": "ㄧㄤ",
+        "english": "yang",
+        "furigana": "ㄧㄤ",
+        "kana": "ㄧㄤ",
+        "answer": "ㄧㄤ"
+      },
+      {
+        "japanese": "ㄧㄥ",
+        "english": "ying",
+        "furigana": "ㄧㄥ",
+        "kana": "ㄧㄥ",
+        "answer": "ㄧㄥ"
+      },
+      {
+        "japanese": "ㄨ",
+        "english": "wu",
+        "furigana": "ㄨ",
+        "kana": "ㄨ",
+        "answer": "ㄨ"
+      },
+      {
+        "japanese": "ㄨㄚ",
+        "english": "wa",
+        "furigana": "ㄨㄚ",
+        "kana": "ㄨㄚ",
+        "answer": "ㄨㄚ"
+      },
+      {
+        "japanese": "ㄨㄛ",
+        "english": "wo",
+        "furigana": "ㄨㄛ",
+        "kana": "ㄨㄛ",
+        "answer": "ㄨㄛ"
+      },
+      {
+        "japanese": "ㄨㄞ",
+        "english": "wai",
+        "furigana": "ㄨㄞ",
+        "kana": "ㄨㄞ",
+        "answer": "ㄨㄞ"
+      },
+      {
+        "japanese": "ㄨㄟ",
+        "english": "wei",
+        "furigana": "ㄨㄟ",
+        "kana": "ㄨㄟ",
+        "answer": "ㄨㄟ"
+      },
+      {
+        "japanese": "ㄨㄢ",
+        "english": "wan",
+        "furigana": "ㄨㄢ",
+        "kana": "ㄨㄢ",
+        "answer": "ㄨㄢ"
+      },
+      {
+        "japanese": "ㄨㄣ",
+        "english": "wen",
+        "furigana": "ㄨㄣ",
+        "kana": "ㄨㄣ",
+        "answer": "ㄨㄣ"
+      },
+      {
+        "japanese": "ㄨㄤ",
+        "english": "wang",
+        "furigana": "ㄨㄤ",
+        "kana": "ㄨㄤ",
+        "answer": "ㄨㄤ"
+      },
+      {
+        "japanese": "ㄨㄥ",
+        "english": "weng",
+        "furigana": "ㄨㄥ",
+        "kana": "ㄨㄥ",
+        "answer": "ㄨㄥ"
+      },
+      {
+        "japanese": "ㄩ",
+        "english": "yu",
+        "furigana": "ㄩ",
+        "kana": "ㄩ",
+        "answer": "ㄩ"
+      },
+      {
+        "japanese": "ㄩㄝ",
+        "english": "yue",
+        "furigana": "ㄩㄝ",
+        "kana": "ㄩㄝ",
+        "answer": "ㄩㄝ"
+      },
+      {
+        "japanese": "ㄩㄢ",
+        "english": "yuan",
+        "furigana": "ㄩㄢ",
+        "kana": "ㄩㄢ",
+        "answer": "ㄩㄢ"
+      },
+      {
+        "japanese": "ㄩㄣ",
+        "english": "yun",
+        "furigana": "ㄩㄣ",
+        "kana": "ㄩㄣ",
+        "answer": "ㄩㄣ"
+      },
+      {
+        "japanese": "ㄩㄥ",
+        "english": "yon",
+        "furigana": "ㄩㄥ",
+        "kana": "ㄩㄥ",
+        "answer": "ㄩㄥ"
       }
     ]
   },
