@@ -1,7 +1,717 @@
 /*
-<option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
+<option value="100_radicals">100_radicals (100)</option><option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
 */
 var decks = {
+  "100_radicals": {
+    "config": {
+      "file_path": "decks/100_radicals.csv",
+      "stroke_order_font": true,
+      "focus_input": false,
+      "prompt": "english"
+    },
+    "cards": [
+      {
+        "japanese": "人;亻",
+        "english": "human, person, people",
+        "furigana": "人",
+        "kana": "ㄖㄣˊ",
+        "answer": "ㄖㄣˊ"
+      },
+      {
+        "japanese": "口",
+        "english": "mouth, opening",
+        "furigana": "口",
+        "kana": "ㄎㄡˇ",
+        "answer": "ㄎㄡˇ"
+      },
+      {
+        "japanese": "土",
+        "english": "earth",
+        "furigana": "土",
+        "kana": "ㄊㄨˇ",
+        "answer": "ㄊㄨˇ"
+      },
+      {
+        "japanese": "女",
+        "english": "woman, female",
+        "furigana": "女",
+        "kana": "ㄋㄩˇ",
+        "answer": "ㄋㄩˇ"
+      },
+      {
+        "japanese": "心;忄;⺗",
+        "english": "heart",
+        "furigana": "心",
+        "kana": "ㄒㄧㄣ",
+        "answer": "ㄒㄧㄣ"
+      },
+      {
+        "japanese": "手;扌;龵",
+        "english": "hand",
+        "furigana": "手",
+        "kana": "ㄕㄡˇ",
+        "answer": "ㄕㄡˇ"
+      },
+      {
+        "japanese": "日",
+        "english": "sun, day",
+        "furigana": "日",
+        "kana": "ㄖˋ",
+        "answer": "ㄖˋ"
+      },
+      {
+        "japanese": "月",
+        "english": "moon, month",
+        "furigana": "月",
+        "kana": "ㄩㄝˋ",
+        "answer": "ㄩㄝˋ"
+      },
+      {
+        "japanese": "木",
+        "english": "tree",
+        "furigana": "木",
+        "kana": "ㄇㄨˋ",
+        "answer": "ㄇㄨˋ"
+      },
+      {
+        "japanese": "氵;水;氺",
+        "english": "water",
+        "furigana": "氵",
+        "kana": "ㄕㄨㄟˇ",
+        "answer": "ㄕㄨㄟˇ"
+      },
+      {
+        "japanese": "火;灬",
+        "english": "fire",
+        "furigana": "火",
+        "kana": "ㄏㄨㄛˇ",
+        "answer": "ㄏㄨㄛˇ"
+      },
+      {
+        "japanese": "糹;糸",
+        "english": "silk",
+        "furigana": "糹",
+        "kana": "ㄇㄧˋ",
+        "answer": "ㄇㄧˋ"
+      },
+      {
+        "japanese": "艹;艸",
+        "english": "grass",
+        "furigana": "艹",
+        "kana": "ㄘㄠˇ",
+        "answer": "ㄘㄠˇ"
+      },
+      {
+        "japanese": "訁;言",
+        "english": "speech",
+        "furigana": "訁",
+        "kana": "ㄧㄢˊ",
+        "answer": "ㄧㄢˊ"
+      },
+      {
+        "japanese": "辶;⻍",
+        "english": "walk",
+        "furigana": "辶",
+        "kana": "ㄔㄨㄛˋ",
+        "answer": "ㄔㄨㄛˋ"
+      },
+      {
+        "japanese": "釒;金",
+        "english": "gold, metal",
+        "furigana": "釒",
+        "kana": "ㄐㄧㄣ",
+        "answer": "ㄐㄧㄣ"
+      },
+      {
+        "japanese": "刂;刀",
+        "english": "knife, sword",
+        "furigana": "刂",
+        "kana": "ㄉㄠ",
+        "answer": "ㄉㄠ"
+      },
+      {
+        "japanese": "宀",
+        "english": "roof",
+        "furigana": "宀",
+        "kana": "ㄇㄧㄢˊ",
+        "answer": "ㄇㄧㄢˊ"
+      },
+      {
+        "japanese": "貝",
+        "english": "shell",
+        "furigana": "貝",
+        "kana": "ㄅㄟˋ",
+        "answer": "ㄅㄟˋ"
+      },
+      {
+        "japanese": "一",
+        "english": "one",
+        "furigana": "一",
+        "kana": "ㄧ",
+        "answer": "ㄧ"
+      },
+      {
+        "japanese": "力",
+        "english": "power, force",
+        "furigana": "力",
+        "kana": "ㄌㄧˋ",
+        "answer": "ㄌㄧˋ"
+      },
+      {
+        "japanese": "又",
+        "english": "right hand",
+        "furigana": "又",
+        "kana": "ㄧㄡˋ",
+        "answer": "ㄧㄡˋ"
+      },
+      {
+        "japanese": "犭;犬",
+        "english": "dog",
+        "furigana": "犭",
+        "kana": "ㄑㄩㄢˇ",
+        "answer": "ㄑㄩㄢˇ"
+      },
+      {
+        "japanese": "禾",
+        "english": "grain",
+        "furigana": "禾",
+        "kana": "ㄏㄜ˙",
+        "answer": "ㄏㄜ˙"
+      },
+      {
+        "japanese": "⺮;竹",
+        "english": "bamboo",
+        "furigana": "⺮",
+        "kana": "ㄓㄨˊ",
+        "answer": "ㄓㄨˊ"
+      },
+      {
+        "japanese": "虫",
+        "english": "insect",
+        "furigana": "虫",
+        "kana": "ㄔㄨㄥˊ",
+        "answer": "ㄔㄨㄥˊ"
+      },
+      {
+        "japanese": "阝left;阜",
+        "english": "mound, dam",
+        "furigana": "阝",
+        "kana": "ㄈㄨˋ",
+        "answer": "ㄈㄨˋ"
+      },
+      {
+        "japanese": "大",
+        "english": "big, very",
+        "furigana": "大",
+        "kana": "ㄉㄚˋ",
+        "answer": "ㄉㄚˋ"
+      },
+      {
+        "japanese": "广",
+        "english": "house on cliff",
+        "furigana": "广",
+        "kana": "ㄍㄨㄤˇ",
+        "answer": "ㄍㄨㄤˇ"
+      },
+      {
+        "japanese": "田",
+        "english": "field",
+        "furigana": "田",
+        "kana": "ㄊㄧㄢˊ",
+        "answer": "ㄊㄧㄢˊ"
+      },
+      {
+        "japanese": "目;罒",
+        "english": "eye",
+        "furigana": "目",
+        "kana": "ㄇㄨˋ",
+        "answer": "ㄇㄨˋ"
+      },
+      {
+        "japanese": "石",
+        "english": "stone",
+        "furigana": "石",
+        "kana": "ㄕˊ",
+        "answer": "ㄕˊ"
+      },
+      {
+        "japanese": "衤;衣",
+        "english": "clothes",
+        "furigana": "衤",
+        "kana": "ㄧ",
+        "answer": "ㄧ"
+      },
+      {
+        "japanese": "足;⻊",
+        "english": "foot",
+        "furigana": "足",
+        "kana": "ㄗㄨˊ",
+        "answer": "ㄗㄨˊ"
+      },
+      {
+        "japanese": "馬",
+        "english": "horse",
+        "furigana": "馬",
+        "kana": "ㄇㄚˇ",
+        "answer": "ㄇㄚˇ"
+      },
+      {
+        "japanese": "頁",
+        "english": "leaf",
+        "furigana": "頁",
+        "kana": "ㄧㄝˋ",
+        "answer": "ㄧㄝˋ"
+      },
+      {
+        "japanese": "巾",
+        "english": "turban, scarf",
+        "furigana": "巾",
+        "kana": "ㄐㄧㄣ",
+        "answer": "ㄐㄧㄣ"
+      },
+      {
+        "japanese": "米",
+        "english": "rice",
+        "furigana": "米",
+        "kana": "ㄇㄧˇ",
+        "answer": "ㄇㄧˇ"
+      },
+      {
+        "japanese": "車",
+        "english": "cart, vehicle",
+        "furigana": "車",
+        "kana": "ㄔㄜ",
+        "answer": "ㄔㄜ"
+      },
+      {
+        "japanese": "八",
+        "english": "eight",
+        "furigana": "八",
+        "kana": "ㄅㄚ",
+        "answer": "ㄅㄚ"
+      },
+      {
+        "japanese": "尸",
+        "english": "corpse",
+        "furigana": "尸",
+        "kana": "ㄕ",
+        "answer": "ㄕ"
+      },
+      {
+        "japanese": "寸",
+        "english": "thumb, inch",
+        "furigana": "寸",
+        "kana": "ㄘㄨㄣˋ",
+        "answer": "ㄘㄨㄣˋ"
+      },
+      {
+        "japanese": "山",
+        "english": "mountain",
+        "furigana": "山",
+        "kana": "ㄕㄢ",
+        "answer": "ㄕㄢ"
+      },
+      {
+        "japanese": "攵;攴",
+        "english": "knock, tap",
+        "furigana": "攵",
+        "kana": "ㄆㄨ",
+        "answer": "ㄆㄨ"
+      },
+      {
+        "japanese": "彳",
+        "english": "small step",
+        "furigana": "彳",
+        "kana": "ㄔˊ",
+        "answer": "ㄔˊ"
+      },
+      {
+        "japanese": "十",
+        "english": "ten",
+        "furigana": "十",
+        "kana": "ㄕˊ",
+        "answer": "ㄕˊ"
+      },
+      {
+        "japanese": "工",
+        "english": "work",
+        "furigana": "工",
+        "kana": "ㄍㄨㄥ",
+        "answer": "ㄍㄨㄥ"
+      },
+      {
+        "japanese": "方",
+        "english": "square, raft",
+        "furigana": "方",
+        "kana": "ㄈㄤ",
+        "answer": "ㄈㄤ"
+      },
+      {
+        "japanese": "門",
+        "english": "gate",
+        "furigana": "門",
+        "kana": "ㄇㄣˊ",
+        "answer": "ㄇㄣˊ"
+      },
+      {
+        "japanese": "飠;食",
+        "english": "eat, food",
+        "furigana": "飠",
+        "kana": "ㄕˊ",
+        "answer": "ㄕˊ"
+      },
+      {
+        "japanese": "欠",
+        "english": "lack, yawn",
+        "furigana": "欠",
+        "kana": "ㄑㄧㄢˋ",
+        "answer": "ㄑㄧㄢˋ"
+      },
+      {
+        "japanese": "儿",
+        "english": "human, legs",
+        "furigana": "儿",
+        "kana": "ㄦˊ",
+        "answer": "ㄦˊ"
+      },
+      {
+        "japanese": "冫",
+        "english": "ice",
+        "furigana": "冫",
+        "kana": "ㄅㄧㄥ",
+        "answer": "ㄅㄧㄥ"
+      },
+      {
+        "japanese": "子",
+        "english": "child, seed",
+        "furigana": "子",
+        "kana": "ㄗˇ",
+        "answer": "ㄗˇ"
+      },
+      {
+        "japanese": "疒",
+        "english": "sickness",
+        "furigana": "疒",
+        "kana": "ㄋㄜˋ",
+        "answer": "ㄋㄜˋ"
+      },
+      {
+        "japanese": "隹",
+        "english": "short-tailed bird",
+        "furigana": "隹",
+        "kana": "ㄓㄨㄟ",
+        "answer": "ㄓㄨㄟ"
+      },
+      {
+        "japanese": "斤",
+        "english": "axe",
+        "furigana": "斤",
+        "kana": "ㄐㄧㄣ",
+        "answer": "ㄐㄧㄣ"
+      },
+      {
+        "japanese": "亠",
+        "english": "lid",
+        "furigana": "亠",
+        "kana": "ㄊㄡˊ",
+        "answer": "ㄊㄡˊ"
+      },
+      {
+        "japanese": "王;玉",
+        "english": "jade, king",
+        "furigana": "王",
+        "kana": "ㄩˋ, ㄨㄤˊ",
+        "answer": "ㄩˋ, ㄨㄤˊ"
+      },
+      {
+        "japanese": "白",
+        "english": "white",
+        "furigana": "白",
+        "kana": "ㄅㄞˊ",
+        "answer": "ㄅㄞˊ"
+      },
+      {
+        "japanese": "立",
+        "english": "stand, erect",
+        "furigana": "立",
+        "kana": "ㄌㄧˋ",
+        "answer": "ㄌㄧˋ"
+      },
+      {
+        "japanese": "羊;⺶;⺷",
+        "english": "sheep",
+        "furigana": "羊",
+        "kana": "ㄧㄤˊ",
+        "answer": "ㄧㄤˊ"
+      },
+      {
+        "japanese": "艮",
+        "english": "stopping",
+        "furigana": "艮",
+        "kana": "ㄍㄣˋ",
+        "answer": "ㄍㄣˋ"
+      },
+      {
+        "japanese": "冖",
+        "english": "cover",
+        "furigana": "冖",
+        "kana": "ㄇㄧˋ",
+        "answer": "ㄇㄧˋ"
+      },
+      {
+        "japanese": "厂",
+        "english": "cliff",
+        "furigana": "厂",
+        "kana": "ㄏㄢˋ",
+        "answer": "ㄏㄢˋ"
+      },
+      {
+        "japanese": "皿",
+        "english": "dish",
+        "furigana": "皿",
+        "kana": "ㄇㄧㄣˇ",
+        "answer": "ㄇㄧㄣˇ"
+      },
+      {
+        "japanese": "礻;示",
+        "english": "sign, spirit, show",
+        "furigana": "礻",
+        "kana": "ㄕˋ",
+        "answer": "ㄕˋ"
+      },
+      {
+        "japanese": "穴",
+        "english": "cave",
+        "furigana": "穴",
+        "kana": "ㄒㄩㄝˋ",
+        "answer": "ㄒㄩㄝˋ"
+      },
+      {
+        "japanese": "走",
+        "english": "run, walk",
+        "furigana": "走",
+        "kana": "ㄗㄡˇ",
+        "answer": "ㄗㄡˇ"
+      },
+      {
+        "japanese": "雨",
+        "english": "rain",
+        "furigana": "雨",
+        "kana": "ㄩˇ",
+        "answer": "ㄩˇ"
+      },
+      {
+        "japanese": "囗",
+        "english": "enclosure",
+        "furigana": "囗",
+        "kana": "ㄨㄟˊ",
+        "answer": "ㄨㄟˊ"
+      },
+      {
+        "japanese": "小;⺌⺍",
+        "english": "small",
+        "furigana": "小",
+        "kana": "ㄒㄧㄠˇ",
+        "answer": "ㄒㄧㄠˇ"
+      },
+      {
+        "japanese": "戈",
+        "english": "halberd",
+        "furigana": "戈",
+        "kana": "ㄍㄜ",
+        "answer": "ㄍㄜ"
+      },
+      {
+        "japanese": "几",
+        "english": "table",
+        "furigana": "几",
+        "kana": "ㄐㄧ",
+        "answer": "ㄐㄧ"
+      },
+      {
+        "japanese": "舌",
+        "english": "tongue",
+        "furigana": "舌",
+        "kana": "ㄕㄜˊ",
+        "answer": "ㄕㄜˊ"
+      },
+      {
+        "japanese": "干",
+        "english": "dry",
+        "furigana": "干",
+        "kana": "ㄍㄢ",
+        "answer": "ㄍㄢ"
+      },
+      {
+        "japanese": "殳",
+        "english": "weapon",
+        "furigana": "殳",
+        "kana": "ㄕㄨ",
+        "answer": "ㄕㄨ"
+      },
+      {
+        "japanese": "夕",
+        "english": "evening, sunset",
+        "furigana": "夕",
+        "kana": "ㄒㄧ",
+        "answer": "ㄒㄧ"
+      },
+      {
+        "japanese": "止",
+        "english": "stop",
+        "furigana": "止",
+        "kana": "ㄓˇ",
+        "answer": "ㄓˇ"
+      },
+      {
+        "japanese": "牜;牛;⺧",
+        "english": "cow",
+        "furigana": "牜",
+        "kana": "ㄋㄧㄡˊ",
+        "answer": "ㄋㄧㄡˊ"
+      },
+      {
+        "japanese": "皮",
+        "english": "skin",
+        "furigana": "皮",
+        "kana": "ㄆㄧˊ",
+        "answer": "ㄆㄧˊ"
+      },
+      {
+        "japanese": "耳",
+        "english": "ear",
+        "furigana": "耳",
+        "kana": "ㄦˇ",
+        "answer": "ㄦˇ"
+      },
+      {
+        "japanese": "辛",
+        "english": "bitter",
+        "furigana": "辛",
+        "kana": "ㄒㄧㄣ",
+        "answer": "ㄒㄧㄣ"
+      },
+      {
+        "japanese": "阝right;邑",
+        "english": "city",
+        "furigana": "阝",
+        "kana": "ㄧˋ",
+        "answer": "ㄧˋ"
+      },
+      {
+        "japanese": "酉",
+        "english": "wine",
+        "furigana": "酉",
+        "kana": "ㄧㄡˇ",
+        "answer": "ㄧㄡˇ"
+      },
+      {
+        "japanese": "青",
+        "english": "green/blue",
+        "furigana": "青",
+        "kana": "ㄑㄧㄥ",
+        "answer": "ㄑㄧㄥ"
+      },
+      {
+        "japanese": "鳥",
+        "english": "bird",
+        "furigana": "鳥",
+        "kana": "ㄋㄧㄠˇ",
+        "answer": "ㄋㄧㄠˇ"
+      },
+      {
+        "japanese": "弓",
+        "english": "bow",
+        "furigana": "弓",
+        "kana": "ㄍㄨㄥ",
+        "answer": "ㄍㄨㄥ"
+      },
+      {
+        "japanese": "厶",
+        "english": "private",
+        "furigana": "厶",
+        "kana": "ㄙ",
+        "answer": "ㄙ"
+      },
+      {
+        "japanese": "户;戶",
+        "english": "door, house",
+        "furigana": "户",
+        "kana": "ㄏㄨˋ",
+        "answer": "ㄏㄨˋ"
+      },
+      {
+        "japanese": "羽",
+        "english": "feather",
+        "furigana": "羽",
+        "kana": "ㄩˇ",
+        "answer": "ㄩˇ"
+      },
+      {
+        "japanese": "舟",
+        "english": "boat",
+        "furigana": "舟",
+        "kana": "ㄔㄨㄢˊ",
+        "answer": "ㄔㄨㄢˊ"
+      },
+      {
+        "japanese": "里",
+        "english": "village, mile",
+        "furigana": "里",
+        "kana": "ㄌㄧˇ",
+        "answer": "ㄌㄧˇ"
+      },
+      {
+        "japanese": "匕",
+        "english": "spoon",
+        "furigana": "匕",
+        "kana": "ㄅㄧˇ",
+        "answer": "ㄅㄧˇ"
+      },
+      {
+        "japanese": "夂",
+        "english": "go slowly",
+        "furigana": "夂",
+        "kana": "ㄙㄨㄟ",
+        "answer": "ㄙㄨㄟ"
+      },
+      {
+        "japanese": "見",
+        "english": "see",
+        "furigana": "見",
+        "kana": "ㄐㄧㄢˋ",
+        "answer": "ㄐㄧㄢˋ"
+      },
+      {
+        "japanese": "卩",
+        "english": "seal",
+        "furigana": "卩",
+        "kana": "ㄐㄧㄝˊ",
+        "answer": "ㄐㄧㄝˊ"
+      },
+      {
+        "japanese": "罒;网",
+        "english": "net",
+        "furigana": "罒",
+        "kana": "ㄨㄤˇ",
+        "answer": "ㄨㄤˇ"
+      },
+      {
+        "japanese": "士",
+        "english": "scholar",
+        "furigana": "士",
+        "kana": "ㄕˋ",
+        "answer": "ㄕˋ"
+      },
+      {
+        "japanese": "勹",
+        "english": "embrace, wrap",
+        "furigana": "勹",
+        "kana": "ㄅㄠ",
+        "answer": "ㄅㄠ"
+      }
+    ]
+  },
   "pimsleur_mandarin_1_rtk": {
     "config": {
       "file_path": "decks/pimsleur_mandarin_1.csv",
