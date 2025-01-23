@@ -722,21245 +722,21245 @@ var decks = {
     "cards": [
       {
         "japanese": "一",
-        "english": "ㄧ",
+        "english": "one",
         "furigana": "一",
         "kana": "ㄧ",
         "answer": "ㄧ"
       },
       {
         "japanese": "二",
-        "english": "ㄦˋ",
+        "english": "two",
         "furigana": "二",
         "kana": "ㄦˋ",
         "answer": "ㄦˋ"
       },
       {
         "japanese": "三",
-        "english": "ㄙㄢ",
+        "english": "three",
         "furigana": "三",
         "kana": "ㄙㄢ",
         "answer": "ㄙㄢ"
       },
       {
         "japanese": "四",
-        "english": "ㄙˋ",
+        "english": "four",
         "furigana": "四",
         "kana": "ㄙˋ",
         "answer": "ㄙˋ"
       },
       {
         "japanese": "五",
-        "english": "ㄨˇ",
+        "english": "five",
         "furigana": "五",
         "kana": "ㄨˇ",
         "answer": "ㄨˇ"
       },
       {
         "japanese": "六",
-        "english": "ㄌㄧㄡˋ",
+        "english": "six",
         "furigana": "六",
         "kana": "ㄌㄧㄡˋ",
         "answer": "ㄌㄧㄡˋ"
       },
       {
         "japanese": "七",
-        "english": "ㄑㄧ",
+        "english": "seven",
         "furigana": "七",
         "kana": "ㄑㄧ",
         "answer": "ㄑㄧ"
       },
       {
         "japanese": "八",
-        "english": "ㄅㄚ",
+        "english": "eight",
         "furigana": "八",
         "kana": "ㄅㄚ",
         "answer": "ㄅㄚ"
       },
       {
         "japanese": "九",
-        "english": "ㄐㄧㄡˇ",
+        "english": "nine",
         "furigana": "九",
         "kana": "ㄐㄧㄡˇ",
         "answer": "ㄐㄧㄡˇ"
       },
       {
         "japanese": "十",
-        "english": "ㄕˊ",
+        "english": "ten",
         "furigana": "十",
         "kana": "ㄕˊ",
         "answer": "ㄕˊ"
       },
       {
         "japanese": "口",
-        "english": "ㄎㄡˇ",
+        "english": "mouth",
         "furigana": "口",
         "kana": "ㄎㄡˇ",
         "answer": "ㄎㄡˇ"
       },
       {
         "japanese": "日",
-        "english": "ㄖˋ",
+        "english": "day",
         "furigana": "日",
         "kana": "ㄖˋ",
         "answer": "ㄖˋ"
       },
       {
         "japanese": "月",
-        "english": "ㄩㄝˋ",
+        "english": "month",
         "furigana": "月",
         "kana": "ㄩㄝˋ",
         "answer": "ㄩㄝˋ"
       },
       {
         "japanese": "田",
-        "english": "ㄊㄧㄢˊ",
+        "english": "rice field",
         "furigana": "田",
         "kana": "ㄊㄧㄢˊ",
         "answer": "ㄊㄧㄢˊ"
       },
       {
         "japanese": "目",
-        "english": "ㄇㄨˋ",
+        "english": "eye",
         "furigana": "目",
         "kana": "ㄇㄨˋ",
         "answer": "ㄇㄨˋ"
       },
       {
         "japanese": "古",
-        "english": "ㄍㄨˇ",
+        "english": "ancient",
         "furigana": "古",
         "kana": "ㄍㄨˇ",
         "answer": "ㄍㄨˇ"
       },
       {
         "japanese": "胡",
-        "english": "ㄏㄨˊ",
+        "english": "recklessly",
         "furigana": "胡",
         "kana": "ㄏㄨˊ",
         "answer": "ㄏㄨˊ"
       },
       {
         "japanese": "吾",
-        "english": "ㄨˊ",
+        "english": "I  [literary]",
         "furigana": "吾",
         "kana": "ㄨˊ",
         "answer": "ㄨˊ"
       },
       {
         "japanese": "朋",
-        "english": "ㄆㄥˊ",
+        "english": "companion",
         "furigana": "朋",
         "kana": "ㄆㄥˊ",
         "answer": "ㄆㄥˊ"
       },
       {
         "japanese": "明",
-        "english": "ㄇㄧㄥˊ",
+        "english": "bright",
         "furigana": "明",
         "kana": "ㄇㄧㄥˊ",
         "answer": "ㄇㄧㄥˊ"
       },
       {
         "japanese": "唱",
-        "english": "ㄔㄤˋ",
+        "english": "to sing",
         "furigana": "唱",
         "kana": "ㄔㄤˋ",
         "answer": "ㄔㄤˋ"
       },
       {
         "japanese": "晶",
-        "english": "ㄐㄧㄥ",
+        "english": "sparkling",
         "furigana": "晶",
         "kana": "ㄐㄧㄥ",
         "answer": "ㄐㄧㄥ"
       },
       {
         "japanese": "品",
-        "english": "ㄆㄧㄣˇ",
+        "english": "goods",
         "furigana": "品",
         "kana": "ㄆㄧㄣˇ",
         "answer": "ㄆㄧㄣˇ"
       },
       {
         "japanese": "昌",
-        "english": "ㄔㄤ",
+        "english": "prosperous",
         "furigana": "昌",
         "kana": "ㄔㄤ",
         "answer": "ㄔㄤ"
       },
       {
         "japanese": "早",
-        "english": "ㄗㄠˇ",
+        "english": "early",
         "furigana": "早",
         "kana": "ㄗㄠˇ",
         "answer": "ㄗㄠˇ"
       },
       {
         "japanese": "旭",
-        "english": "ㄒㄩˋ",
+        "english": "rising sun",
         "furigana": "旭",
         "kana": "ㄒㄩˋ",
         "answer": "ㄒㄩˋ"
       },
       {
         "japanese": "世",
-        "english": "ㄕˋ",
+        "english": "generation",
         "furigana": "世",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "胃",
-        "english": "ㄨㄟˋ",
+        "english": "stomach",
         "furigana": "胃",
         "kana": "ㄨㄟˋ",
         "answer": "ㄨㄟˋ"
       },
       {
         "japanese": "旦",
-        "english": "ㄉㄢˋ",
+        "english": "daybreak",
         "furigana": "旦",
         "kana": "ㄉㄢˋ",
         "answer": "ㄉㄢˋ"
       },
       {
         "japanese": "凹",
-        "english": "ㄠ",
+        "english": "concave",
         "furigana": "凹",
         "kana": "ㄠ",
         "answer": "ㄠ"
       },
       {
         "japanese": "凸",
-        "english": "ㄊㄨˊ",
+        "english": "convex",
         "furigana": "凸",
         "kana": "ㄊㄨˊ",
         "answer": "ㄊㄨˊ"
       },
       {
         "japanese": "自",
-        "english": "ㄗˋ",
+        "english": "oneself",
         "furigana": "自",
         "kana": "ㄗˋ",
         "answer": "ㄗˋ"
       },
       {
         "japanese": "白",
-        "english": "ㄅㄞˊ",
+        "english": "white",
         "furigana": "白",
         "kana": "ㄅㄞˊ",
         "answer": "ㄅㄞˊ"
       },
       {
         "japanese": "百",
-        "english": "ㄅㄞˇ",
+        "english": "hundred",
         "furigana": "百",
         "kana": "ㄅㄞˇ",
         "answer": "ㄅㄞˇ"
       },
       {
         "japanese": "皂",
-        "english": "ㄗㄠˋ",
+        "english": "soap",
         "furigana": "皂",
         "kana": "ㄗㄠˋ",
         "answer": "ㄗㄠˋ"
       },
       {
         "japanese": "中",
-        "english": "ㄓㄨㄥ",
+        "english": "middle",
         "furigana": "中",
         "kana": "ㄓㄨㄥ",
         "answer": "ㄓㄨㄥ"
       },
       {
         "japanese": "千",
-        "english": "ㄑㄧㄢ",
+        "english": "thousand",
         "furigana": "千",
         "kana": "ㄑㄧㄢ",
         "answer": "ㄑㄧㄢ"
       },
       {
         "japanese": "舌",
-        "english": "ㄕㄜˊ",
+        "english": "tongue",
         "furigana": "舌",
         "kana": "ㄕㄜˊ",
         "answer": "ㄕㄜˊ"
       },
       {
         "japanese": "升",
-        "english": "ㄕㄥ",
+        "english": "liter",
         "furigana": "升",
         "kana": "ㄕㄥ",
         "answer": "ㄕㄥ"
       },
       {
         "japanese": "昇",
-        "english": "ㄕㄥ",
+        "english": "to rise up",
         "furigana": "昇",
         "kana": "ㄕㄥ",
         "answer": "ㄕㄥ"
       },
       {
         "japanese": "丸",
-        "english": "ㄨㄢˊ",
+        "english": "pill",
         "furigana": "丸",
         "kana": "ㄨㄢˊ",
         "answer": "ㄨㄢˊ"
       },
       {
         "japanese": "卜",
-        "english": "ㄅㄨˇ",
+        "english": "divination",
         "furigana": "卜",
         "kana": "ㄅㄨˇ",
         "answer": "ㄅㄨˇ"
       },
       {
         "japanese": "占",
-        "english": "ㄓㄢ",
+        "english": "to tell fortunes",
         "furigana": "占",
         "kana": "ㄓㄢ",
         "answer": "ㄓㄢ"
       },
       {
         "japanese": "上",
-        "english": "ㄕㄤˋ",
+        "english": "above",
         "furigana": "上",
         "kana": "ㄕㄤˋ",
         "answer": "ㄕㄤˋ"
       },
       {
         "japanese": "下",
-        "english": "ㄒㄧㄚˋ",
+        "english": "below",
         "furigana": "下",
         "kana": "ㄒㄧㄚˋ",
         "answer": "ㄒㄧㄚˋ"
       },
       {
         "japanese": "卡",
-        "english": "ㄎㄚˇ",
+        "english": "card",
         "furigana": "卡",
         "kana": "ㄎㄚˇ",
         "answer": "ㄎㄚˇ"
       },
       {
         "japanese": "卓",
-        "english": "ㄓㄨㄛˊ",
+        "english": "eminent",
         "furigana": "卓",
         "kana": "ㄓㄨㄛˊ",
         "answer": "ㄓㄨㄛˊ"
       },
       {
         "japanese": "朝",
-        "english": "ㄔㄠˊ",
+        "english": "dynasty",
         "furigana": "朝",
         "kana": "ㄔㄠˊ",
         "answer": "ㄔㄠˊ"
       },
       {
         "japanese": "嘲",
-        "english": "ㄔㄠˊ",
+        "english": "to ridicule",
         "furigana": "嘲",
         "kana": "ㄔㄠˊ",
         "answer": "ㄔㄠˊ"
       },
       {
         "japanese": "只",
-        "english": "ㄓˇ",
+        "english": "only",
         "furigana": "只",
         "kana": "ㄓˇ",
         "answer": "ㄓˇ"
       },
       {
         "japanese": "貝",
-        "english": "ㄅㄟˋ",
+        "english": "shellfish",
         "furigana": "貝",
         "kana": "ㄅㄟˋ",
         "answer": "ㄅㄟˋ"
       },
       {
         "japanese": "貼",
-        "english": "ㄊㄧㄝ",
+        "english": "to paste",
         "furigana": "貼",
         "kana": "ㄊㄧㄝ",
         "answer": "ㄊㄧㄝ"
       },
       {
         "japanese": "貞",
-        "english": "ㄓㄣ",
+        "english": "chaste",
         "furigana": "貞",
         "kana": "ㄓㄣ",
         "answer": "ㄓㄣ"
       },
       {
         "japanese": "員",
-        "english": "ㄩㄢˊ",
+        "english": "employee",
         "furigana": "員",
         "kana": "ㄩㄢˊ",
         "answer": "ㄩㄢˊ"
       },
       {
         "japanese": "見",
-        "english": "ㄐㄧㄢˋ",
+        "english": "to see",
         "furigana": "見",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "元",
-        "english": "ㄩㄢˊ",
+        "english": "beginning",
         "furigana": "元",
         "kana": "ㄩㄢˊ",
         "answer": "ㄩㄢˊ"
       },
       {
         "japanese": "頁",
-        "english": "ㄧㄝˋ",
+        "english": "page",
         "furigana": "頁",
         "kana": "ㄧㄝˋ",
         "answer": "ㄧㄝˋ"
       },
       {
         "japanese": "頑",
-        "english": "ㄨㄢˊ",
+        "english": "stubborn",
         "furigana": "頑",
         "kana": "ㄨㄢˊ",
         "answer": "ㄨㄢˊ"
       },
       {
         "japanese": "凡",
-        "english": "ㄈㄢˊ",
+        "english": "ordinary",
         "furigana": "凡",
         "kana": "ㄈㄢˊ",
         "answer": "ㄈㄢˊ"
       },
       {
         "japanese": "肌",
-        "english": "ㄐㄧ",
+        "english": "muscle",
         "furigana": "肌",
         "kana": "ㄐㄧ",
         "answer": "ㄐㄧ"
       },
       {
         "japanese": "負",
-        "english": "ㄈㄨˋ",
+        "english": "defeated",
         "furigana": "負",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "勻",
-        "english": "ㄩㄣˊ",
+        "english": "uniform",
         "furigana": "勻",
         "kana": "ㄩㄣˊ",
         "answer": "ㄩㄣˊ"
       },
       {
         "japanese": "句",
-        "english": "ㄐㄩˋ",
+        "english": "sentence",
         "furigana": "句",
         "kana": "ㄐㄩˋ",
         "answer": "ㄐㄩˋ"
       },
       {
         "japanese": "旬",
-        "english": "ㄒㄩㄣˊ",
+        "english": "decameron",
         "furigana": "旬",
         "kana": "ㄒㄩㄣˊ",
         "answer": "ㄒㄩㄣˊ"
       },
       {
         "japanese": "勺",
-        "english": "ㄕㄠˊ",
+        "english": "ladle",
         "furigana": "勺",
         "kana": "ㄕㄠˊ",
         "answer": "ㄕㄠˊ"
       },
       {
         "japanese": "的",
-        "english": "ㄉㄧˋ",
+        "english": "bull’s eye",
         "furigana": "的",
         "kana": "ㄉㄧˋ",
         "answer": "ㄉㄧˋ"
       },
       {
         "japanese": "首",
-        "english": "ㄕㄡˇ",
+        "english": "heads",
         "furigana": "首",
         "kana": "ㄕㄡˇ",
         "answer": "ㄕㄡˇ"
       },
       {
         "japanese": "直",
-        "english": "ㄓˊ",
+        "english": "straight",
         "furigana": "直",
         "kana": "ㄓˊ",
         "answer": "ㄓˊ"
       },
       {
         "japanese": "置",
-        "english": "ㄓˋ",
+        "english": "to set up",
         "furigana": "置",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "具",
-        "english": "ㄐㄩˋ",
+        "english": "tool",
         "furigana": "具",
         "kana": "ㄐㄩˋ",
         "answer": "ㄐㄩˋ"
       },
       {
         "japanese": "真",
-        "english": "ㄓㄣ",
+        "english": "true",
         "furigana": "真",
         "kana": "ㄓㄣ",
         "answer": "ㄓㄣ"
       },
       {
         "japanese": "工",
-        "english": "ㄍㄨㄥ",
+        "english": "the work",
         "furigana": "工",
         "kana": "ㄍㄨㄥ",
         "answer": "ㄍㄨㄥ"
       },
       {
         "japanese": "左",
-        "english": "ㄗㄨㄛˇ",
+        "english": "left",
         "furigana": "左",
         "kana": "ㄗㄨㄛˇ",
         "answer": "ㄗㄨㄛˇ"
       },
       {
         "japanese": "右",
-        "english": "ㄧㄡˋ",
+        "english": "right",
         "furigana": "右",
         "kana": "ㄧㄡˋ",
         "answer": "ㄧㄡˋ"
       },
       {
         "japanese": "有",
-        "english": "ㄧㄡˇ",
+        "english": "to possess",
         "furigana": "有",
         "kana": "ㄧㄡˇ",
         "answer": "ㄧㄡˇ"
       },
       {
         "japanese": "賄",
-        "english": "ㄏㄨㄟˋ",
+        "english": "bribe",
         "furigana": "賄",
         "kana": "ㄏㄨㄟˋ",
         "answer": "ㄏㄨㄟˋ"
       },
       {
         "japanese": "貢",
-        "english": "ㄍㄨㄥˋ",
+        "english": "tribute",
         "furigana": "貢",
         "kana": "ㄍㄨㄥˋ",
         "answer": "ㄍㄨㄥˋ"
       },
       {
         "japanese": "項",
-        "english": "ㄒㄧㄤˋ",
+        "english": "item",
         "furigana": "項",
         "kana": "ㄒㄧㄤˋ",
         "answer": "ㄒㄧㄤˋ"
       },
       {
         "japanese": "刀",
-        "english": "ㄉㄠ",
+        "english": "sword",
         "furigana": "刀",
         "kana": "ㄉㄠ",
         "answer": "ㄉㄠ"
       },
       {
         "japanese": "刃",
-        "english": "ㄖㄣˋ",
+        "english": "blade",
         "furigana": "刃",
         "kana": "ㄖㄣˋ",
         "answer": "ㄖㄣˋ"
       },
       {
         "japanese": "切",
-        "english": "ㄑㄧㄝ",
+        "english": "to cut",
         "furigana": "切",
         "kana": "ㄑㄧㄝ",
         "answer": "ㄑㄧㄝ"
       },
       {
         "japanese": "召",
-        "english": "ㄓㄠˋ",
+        "english": "to summon",
         "furigana": "召",
         "kana": "ㄓㄠˋ",
         "answer": "ㄓㄠˋ"
       },
       {
         "japanese": "昭",
-        "english": "ㄓㄠ",
+        "english": "evident",
         "furigana": "昭",
         "kana": "ㄓㄠ",
         "answer": "ㄓㄠ"
       },
       {
         "japanese": "則",
-        "english": "ㄗㄜˊ",
+        "english": "rule",
         "furigana": "則",
         "kana": "ㄗㄜˊ",
         "answer": "ㄗㄜˊ"
       },
       {
         "japanese": "副",
-        "english": "ㄈㄨˋ",
+        "english": "vice—",
         "furigana": "副",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "丁",
-        "english": "ㄉㄧㄥ",
+        "english": "fourth",
         "furigana": "丁",
         "kana": "ㄉㄧㄥ",
         "answer": "ㄉㄧㄥ"
       },
       {
         "japanese": "叮",
-        "english": "ㄉㄧㄥ",
+        "english": "to sting",
         "furigana": "叮",
         "kana": "ㄉㄧㄥ",
         "answer": "ㄉㄧㄥ"
       },
       {
         "japanese": "可",
-        "english": "ㄎㄜˇ",
+        "english": "can",
         "furigana": "可",
         "kana": "ㄎㄜˇ",
         "answer": "ㄎㄜˇ"
       },
       {
         "japanese": "哥",
-        "english": "ㄍㄜ",
+        "english": "older brother",
         "furigana": "哥",
         "kana": "ㄍㄜ",
         "answer": "ㄍㄜ"
       },
       {
         "japanese": "頂",
-        "english": "ㄉㄧㄥˇ",
+        "english": "crest",
         "furigana": "頂",
         "kana": "ㄉㄧㄥˇ",
         "answer": "ㄉㄧㄥˇ"
       },
       {
         "japanese": "乙",
-        "english": "ㄧˇ",
+        "english": "second",
         "furigana": "乙",
         "kana": "ㄧˇ",
         "answer": "ㄧˇ"
       },
       {
         "japanese": "子",
-        "english": "ㄗˇ",
+        "english": "child",
         "furigana": "子",
         "kana": "ㄗˇ",
         "answer": "ㄗˇ"
       },
       {
         "japanese": "孔",
-        "english": "ㄎㄨㄥˇ",
+        "english": "cavity",
         "furigana": "孔",
         "kana": "ㄎㄨㄥˇ",
         "answer": "ㄎㄨㄥˇ"
       },
       {
         "japanese": "吼",
-        "english": "ㄏㄡˇ",
+        "english": "to roar",
         "furigana": "吼",
         "kana": "ㄏㄡˇ",
         "answer": "ㄏㄡˇ"
       },
       {
         "japanese": "了",
-        "english": "ㄌㄜ˙",
+        "english": "—ed",
         "furigana": "了",
         "kana": "ㄌㄜ˙",
         "answer": "ㄌㄜ˙"
       },
       {
         "japanese": "女",
-        "english": "ㄋㄩˇ",
+        "english": "woman",
         "furigana": "女",
         "kana": "ㄋㄩˇ",
         "answer": "ㄋㄩˇ"
       },
       {
         "japanese": "好",
-        "english": "ㄏㄠˇ",
+        "english": "good",
         "furigana": "好",
         "kana": "ㄏㄠˇ",
         "answer": "ㄏㄠˇ"
       },
       {
         "japanese": "如",
-        "english": "ㄖㄨˊ",
+        "english": "to be like",
         "furigana": "如",
         "kana": "ㄖㄨˊ",
         "answer": "ㄖㄨˊ"
       },
       {
         "japanese": "母",
-        "english": "ㄇㄨˇ",
+        "english": "mother",
         "furigana": "母",
         "kana": "ㄇㄨˇ",
         "answer": "ㄇㄨˇ"
       },
       {
         "japanese": "貫",
-        "english": "ㄍㄨㄢˋ",
+        "english": "to pierce",
         "furigana": "貫",
         "kana": "ㄍㄨㄢˋ",
         "answer": "ㄍㄨㄢˋ"
       },
       {
         "japanese": "兄",
-        "english": "ㄒㄩㄥ",
+        "english": "elder brother",
         "furigana": "兄",
         "kana": "ㄒㄩㄥ",
         "answer": "ㄒㄩㄥ"
       },
       {
         "japanese": "克",
-        "english": "ㄎㄜˋ",
+        "english": "to overcome",
         "furigana": "克",
         "kana": "ㄎㄜˋ",
         "answer": "ㄎㄜˋ"
       },
       {
         "japanese": "小",
-        "english": "ㄒㄧㄠˇ",
+        "english": "small",
         "furigana": "小",
         "kana": "ㄒㄧㄠˇ",
         "answer": "ㄒㄧㄠˇ"
       },
       {
         "japanese": "少",
-        "english": "ㄕㄠˇ",
+        "english": "few",
         "furigana": "少",
         "kana": "ㄕㄠˇ",
         "answer": "ㄕㄠˇ"
       },
       {
         "japanese": "吵",
-        "english": "ㄔㄠˇ",
+        "english": "noisy",
         "furigana": "吵",
         "kana": "ㄔㄠˇ",
         "answer": "ㄔㄠˇ"
       },
       {
         "japanese": "大",
-        "english": "ㄉㄚˋ",
+        "english": "large",
         "furigana": "大",
         "kana": "ㄉㄚˋ",
         "answer": "ㄉㄚˋ"
       },
       {
         "japanese": "尖",
-        "english": "ㄐㄧㄢ",
+        "english": "tip",
         "furigana": "尖",
         "kana": "ㄐㄧㄢ",
         "answer": "ㄐㄧㄢ"
       },
       {
         "japanese": "夕",
-        "english": "ㄒㄧˋ",
+        "english": "evening",
         "furigana": "夕",
         "kana": "ㄒㄧˋ",
         "answer": "ㄒㄧˋ"
       },
       {
         "japanese": "多",
-        "english": "ㄉㄨㄛ",
+        "english": "many",
         "furigana": "多",
         "kana": "ㄉㄨㄛ",
         "answer": "ㄉㄨㄛ"
       },
       {
         "japanese": "夠",
-        "english": "ㄍㄡˋ",
+        "english": "enough",
         "furigana": "夠",
         "kana": "ㄍㄡˋ",
         "answer": "ㄍㄡˋ"
       },
       {
         "japanese": "外",
-        "english": "ㄨㄞˋ",
+        "english": "outside",
         "furigana": "外",
         "kana": "ㄨㄞˋ",
         "answer": "ㄨㄞˋ"
       },
       {
         "japanese": "名",
-        "english": "ㄇㄧㄥˊ",
+        "english": "a name",
         "furigana": "名",
         "kana": "ㄇㄧㄥˊ",
         "answer": "ㄇㄧㄥˊ"
       },
       {
         "japanese": "厚",
-        "english": "ㄏㄡˋ",
+        "english": "thick",
         "furigana": "厚",
         "kana": "ㄏㄡˋ",
         "answer": "ㄏㄡˋ"
       },
       {
         "japanese": "石",
-        "english": "ㄕˊ",
+        "english": "stone",
         "furigana": "石",
         "kana": "ㄕˊ",
         "answer": "ㄕˊ"
       },
       {
         "japanese": "砂",
-        "english": "ㄕㄚ",
+        "english": "gravel",
         "furigana": "砂",
         "kana": "ㄕㄚ",
         "answer": "ㄕㄚ"
       },
       {
         "japanese": "妙",
-        "english": "ㄇㄧㄠˋ",
+        "english": "wonderful",
         "furigana": "妙",
         "kana": "ㄇㄧㄠˋ",
         "answer": "ㄇㄧㄠˋ"
       },
       {
         "japanese": "肖",
-        "english": "ㄒㄧㄠˋ",
+        "english": "to resemble",
         "furigana": "肖",
         "kana": "ㄒㄧㄠˋ",
         "answer": "ㄒㄧㄠˋ"
       },
       {
         "japanese": "削",
-        "english": "ㄒㄩㄝˋ",
+        "english": "to peel",
         "furigana": "削",
         "kana": "ㄒㄩㄝˋ",
         "answer": "ㄒㄩㄝˋ"
       },
       {
         "japanese": "光",
-        "english": "ㄍㄨㄤ",
+        "english": "ray",
         "furigana": "光",
         "kana": "ㄍㄨㄤ",
         "answer": "ㄍㄨㄤ"
       },
       {
         "japanese": "太",
-        "english": "ㄊㄞˋ",
+        "english": "overly",
         "furigana": "太",
         "kana": "ㄊㄞˋ",
         "answer": "ㄊㄞˋ"
       },
       {
         "japanese": "省",
-        "english": "ㄕㄥˇ",
+        "english": "to economize",
         "furigana": "省",
         "kana": "ㄕㄥˇ",
         "answer": "ㄕㄥˇ"
       },
       {
         "japanese": "奇",
-        "english": "ㄑㄧˊ",
+        "english": "strange",
         "furigana": "奇",
         "kana": "ㄑㄧˊ",
         "answer": "ㄑㄧˊ"
       },
       {
         "japanese": "川",
-        "english": "ㄔㄨㄢ",
+        "english": "stream",
         "furigana": "川",
         "kana": "ㄔㄨㄢ",
         "answer": "ㄔㄨㄢ"
       },
       {
         "japanese": "州",
-        "english": "ㄓㄡ",
+        "english": "a state",
         "furigana": "州",
         "kana": "ㄓㄡ",
         "answer": "ㄓㄡ"
       },
       {
         "japanese": "順",
-        "english": "ㄕㄨㄣˋ",
+        "english": "to obey",
         "furigana": "順",
         "kana": "ㄕㄨㄣˋ",
         "answer": "ㄕㄨㄣˋ"
       },
       {
         "japanese": "水",
-        "english": "ㄕㄨㄟˇ",
+        "english": "water",
         "furigana": "水",
         "kana": "ㄕㄨㄟˇ",
         "answer": "ㄕㄨㄟˇ"
       },
       {
         "japanese": "永",
-        "english": "ㄩㄥˇ",
+        "english": "eternity",
         "furigana": "永",
         "kana": "ㄩㄥˇ",
         "answer": "ㄩㄥˇ"
       },
       {
         "japanese": "求",
-        "english": "ㄑㄧㄡˊ",
+        "english": "to request",
         "furigana": "求",
         "kana": "ㄑㄧㄡˊ",
         "answer": "ㄑㄧㄡˊ"
       },
       {
         "japanese": "泉",
-        "english": "ㄑㄩㄢˊ",
+        "english": "a spring  [ie: well]",
         "furigana": "泉",
         "kana": "ㄑㄩㄢˊ",
         "answer": "ㄑㄩㄢˊ"
       },
       {
         "japanese": "原",
-        "english": "ㄩㄢˊ",
+        "english": "flatlands",
         "furigana": "原",
         "kana": "ㄩㄢˊ",
         "answer": "ㄩㄢˊ"
       },
       {
         "japanese": "願",
-        "english": "ㄩㄢˋ",
+        "english": "a wish",
         "furigana": "願",
         "kana": "ㄩㄢˋ",
         "answer": "ㄩㄢˋ"
       },
       {
         "japanese": "沖",
-        "english": "ㄔㄨㄥ",
+        "english": "to wash away",
         "furigana": "沖",
         "kana": "ㄔㄨㄥ",
         "answer": "ㄔㄨㄥ"
       },
       {
         "japanese": "泳",
-        "english": "ㄩㄥˇ",
+        "english": "to swim",
         "furigana": "泳",
         "kana": "ㄩㄥˇ",
         "answer": "ㄩㄥˇ"
       },
       {
         "japanese": "洲",
-        "english": "ㄓㄡ",
+        "english": "continent",
         "furigana": "洲",
         "kana": "ㄓㄡ",
         "answer": "ㄓㄡ"
       },
       {
         "japanese": "沼",
-        "english": "ㄓㄠˇ",
+        "english": "marsh",
         "furigana": "沼",
         "kana": "ㄓㄠˇ",
         "answer": "ㄓㄠˇ"
       },
       {
         "japanese": "沙",
-        "english": "ㄕㄚ",
+        "english": "sand",
         "furigana": "沙",
         "kana": "ㄕㄚ",
         "answer": "ㄕㄚ"
       },
       {
         "japanese": "江",
-        "english": "ㄐㄧㄤ",
+        "english": "yangtze",
         "furigana": "江",
         "kana": "ㄐㄧㄤ",
         "answer": "ㄐㄧㄤ"
       },
       {
         "japanese": "汁",
-        "english": "ㄓ",
+        "english": "juice",
         "furigana": "汁",
         "kana": "ㄓ",
         "answer": "ㄓ"
       },
       {
         "japanese": "潮",
-        "english": "ㄔㄠˊ",
+        "english": "tide",
         "furigana": "潮",
         "kana": "ㄔㄠˊ",
         "answer": "ㄔㄠˊ"
       },
       {
         "japanese": "源",
-        "english": "ㄩㄢˊ",
+        "english": "source",
         "furigana": "源",
         "kana": "ㄩㄢˊ",
         "answer": "ㄩㄢˊ"
       },
       {
         "japanese": "活",
-        "english": "ㄏㄨㄛˊ",
+        "english": "lively",
         "furigana": "活",
         "kana": "ㄏㄨㄛˊ",
         "answer": "ㄏㄨㄛˊ"
       },
       {
         "japanese": "消",
-        "english": "ㄒㄧㄠ",
+        "english": "to extinguish",
         "furigana": "消",
         "kana": "ㄒㄧㄠ",
         "answer": "ㄒㄧㄠ"
       },
       {
         "japanese": "況",
-        "english": "ㄎㄨㄤˋ",
+        "english": "situation",
         "furigana": "況",
         "kana": "ㄎㄨㄤˋ",
         "answer": "ㄎㄨㄤˋ"
       },
       {
         "japanese": "河",
-        "english": "ㄏㄜˊ",
+        "english": "river",
         "furigana": "河",
         "kana": "ㄏㄜˊ",
         "answer": "ㄏㄜˊ"
       },
       {
         "japanese": "湖",
-        "english": "ㄏㄨˊ",
+        "english": "lake",
         "furigana": "湖",
         "kana": "ㄏㄨˊ",
         "answer": "ㄏㄨˊ"
       },
       {
         "japanese": "測",
-        "english": "ㄘㄜˋ",
+        "english": "to fathom",
         "furigana": "測",
         "kana": "ㄘㄜˋ",
         "answer": "ㄘㄜˋ"
       },
       {
         "japanese": "土",
-        "english": "ㄊㄨˇ",
+        "english": "soil",
         "furigana": "土",
         "kana": "ㄊㄨˇ",
         "answer": "ㄊㄨˇ"
       },
       {
         "japanese": "均",
-        "english": "ㄐㄩㄣ",
+        "english": "to equal",
         "furigana": "均",
         "kana": "ㄐㄩㄣ",
         "answer": "ㄐㄩㄣ"
       },
       {
         "japanese": "肚",
-        "english": "ㄉㄨˋ",
+        "english": "belly",
         "furigana": "肚",
         "kana": "ㄉㄨˋ",
         "answer": "ㄉㄨˋ"
       },
       {
         "japanese": "填",
-        "english": "ㄊㄧㄢˊ",
+        "english": "to fill in",
         "furigana": "填",
         "kana": "ㄊㄧㄢˊ",
         "answer": "ㄊㄧㄢˊ"
       },
       {
         "japanese": "吐",
-        "english": "ㄊㄨˇ",
+        "english": "to spit",
         "furigana": "吐",
         "kana": "ㄊㄨˇ",
         "answer": "ㄊㄨˇ"
       },
       {
         "japanese": "哇",
-        "english": "ㄨㄚ˙",
+        "english": "waaah!",
         "furigana": "哇",
         "kana": "ㄨㄚ˙",
         "answer": "ㄨㄚ˙"
       },
       {
         "japanese": "寸",
-        "english": "ㄘㄨㄣˋ",
+        "english": "chinese inch",
         "furigana": "寸",
         "kana": "ㄘㄨㄣˋ",
         "answer": "ㄘㄨㄣˋ"
       },
       {
         "japanese": "封",
-        "english": "ㄈㄥ",
+        "english": "to seal",
         "furigana": "封",
         "kana": "ㄈㄥ",
         "answer": "ㄈㄥ"
       },
       {
         "japanese": "寺",
-        "english": "ㄙˋ",
+        "english": "buddhist temple",
         "furigana": "寺",
         "kana": "ㄙˋ",
         "answer": "ㄙˋ"
       },
       {
         "japanese": "時",
-        "english": "ㄕˊ",
+        "english": "time",
         "furigana": "時",
         "kana": "ㄕˊ",
         "answer": "ㄕˊ"
       },
       {
         "japanese": "火",
-        "english": "ㄏㄨㄛˇ",
+        "english": "fire",
         "furigana": "火",
         "kana": "ㄏㄨㄛˇ",
         "answer": "ㄏㄨㄛˇ"
       },
       {
         "japanese": "灰",
-        "english": "ㄏㄨㄟ",
+        "english": "ashes",
         "furigana": "灰",
         "kana": "ㄏㄨㄟ",
         "answer": "ㄏㄨㄟ"
       },
       {
         "japanese": "煩",
-        "english": "ㄈㄢˊ",
+        "english": "vexed",
         "furigana": "煩",
         "kana": "ㄈㄢˊ",
         "answer": "ㄈㄢˊ"
       },
       {
         "japanese": "炎",
-        "english": "ㄧㄢˊ",
+        "english": "inflammation",
         "furigana": "炎",
         "kana": "ㄧㄢˊ",
         "answer": "ㄧㄢˊ"
       },
       {
         "japanese": "淡",
-        "english": "ㄉㄢˋ",
+        "english": "thin",
         "furigana": "淡",
         "kana": "ㄉㄢˋ",
         "answer": "ㄉㄢˋ"
       },
       {
         "japanese": "災",
-        "english": "ㄗㄞ",
+        "english": "disaster",
         "furigana": "災",
         "kana": "ㄗㄞ",
         "answer": "ㄗㄞ"
       },
       {
         "japanese": "照",
-        "english": "ㄓㄠˋ",
+        "english": "to illuminate",
         "furigana": "照",
         "kana": "ㄓㄠˋ",
         "answer": "ㄓㄠˋ"
       },
       {
         "japanese": "魚",
-        "english": "ㄩˊ",
+        "english": "a fish",
         "furigana": "魚",
         "kana": "ㄩˊ",
         "answer": "ㄩˊ"
       },
       {
         "japanese": "漁",
-        "english": "ㄩˊ",
+        "english": "fishing",
         "furigana": "漁",
         "kana": "ㄩˊ",
         "answer": "ㄩˊ"
       },
       {
         "japanese": "堯",
-        "english": "ㄧㄠˊ",
+        "english": "yao",
         "furigana": "堯",
         "kana": "ㄧㄠˊ",
         "answer": "ㄧㄠˊ"
       },
       {
         "japanese": "燒",
-        "english": "ㄕㄠ",
+        "english": "fever",
         "furigana": "燒",
         "kana": "ㄕㄠ",
         "answer": "ㄕㄠ"
       },
       {
         "japanese": "曉",
-        "english": "ㄒㄧㄠˇ",
+        "english": "dawn",
         "furigana": "曉",
         "kana": "ㄒㄧㄠˇ",
         "answer": "ㄒㄧㄠˇ"
       },
       {
         "japanese": "里",
-        "english": "ㄌㄧˇ",
+        "english": "a li  [measurement]",
         "furigana": "里",
         "kana": "ㄌㄧˇ",
         "answer": "ㄌㄧˇ"
       },
       {
         "japanese": "量",
-        "english": "ㄌㄧㄤˋ",
+        "english": "quantity",
         "furigana": "量",
         "kana": "ㄌㄧㄤˋ",
         "answer": "ㄌㄧㄤˋ"
       },
       {
         "japanese": "埋",
-        "english": "ㄇㄞˊ",
+        "english": "to bury",
         "furigana": "埋",
         "kana": "ㄇㄞˊ",
         "answer": "ㄇㄞˊ"
       },
       {
         "japanese": "黑",
-        "english": "ㄏㄟ",
+        "english": "black",
         "furigana": "黑",
         "kana": "ㄏㄟ",
         "answer": "ㄏㄟ"
       },
       {
         "japanese": "點",
-        "english": "ㄉㄧㄢˇ",
+        "english": "spot",
         "furigana": "點",
         "kana": "ㄉㄧㄢˇ",
         "answer": "ㄉㄧㄢˇ"
       },
       {
         "japanese": "墨",
-        "english": "ㄇㄛˋ",
+        "english": "black ink",
         "furigana": "墨",
         "kana": "ㄇㄛˋ",
         "answer": "ㄇㄛˋ"
       },
       {
         "japanese": "冒",
-        "english": "ㄇㄠˋ",
+        "english": "to risk",
         "furigana": "冒",
         "kana": "ㄇㄠˋ",
         "answer": "ㄇㄠˋ"
       },
       {
         "japanese": "同",
-        "english": "ㄊㄨㄥˊ",
+        "english": "same",
         "furigana": "同",
         "kana": "ㄊㄨㄥˊ",
         "answer": "ㄊㄨㄥˊ"
       },
       {
         "japanese": "洞",
-        "english": "ㄉㄨㄥˋ",
+        "english": "cave",
         "furigana": "洞",
         "kana": "ㄉㄨㄥˋ",
         "answer": "ㄉㄨㄥˋ"
       },
       {
         "japanese": "向",
-        "english": "ㄒㄧㄤˋ",
+        "english": "orientation",
         "furigana": "向",
         "kana": "ㄒㄧㄤˋ",
         "answer": "ㄒㄧㄤˋ"
       },
       {
         "japanese": "尚",
-        "english": "ㄕㄤˋ",
+        "english": "to esteem",
         "furigana": "尚",
         "kana": "ㄕㄤˋ",
         "answer": "ㄕㄤˋ"
       },
       {
         "japanese": "字",
-        "english": "ㄗˋ",
+        "english": "character",
         "furigana": "字",
         "kana": "ㄗˋ",
         "answer": "ㄗˋ"
       },
       {
         "japanese": "守",
-        "english": "ㄕㄡˇ",
+        "english": "to guard",
         "furigana": "守",
         "kana": "ㄕㄡˇ",
         "answer": "ㄕㄡˇ"
       },
       {
         "japanese": "完",
-        "english": "ㄨㄢˊ",
+        "english": "to finish",
         "furigana": "完",
         "kana": "ㄨㄢˊ",
         "answer": "ㄨㄢˊ"
       },
       {
         "japanese": "實",
-        "english": "ㄕˊ",
+        "english": "reality",
         "furigana": "實",
         "kana": "ㄕˊ",
         "answer": "ㄕˊ"
       },
       {
         "japanese": "宣",
-        "english": "ㄒㄩㄢ",
+        "english": "to proclaim",
         "furigana": "宣",
         "kana": "ㄒㄩㄢ",
         "answer": "ㄒㄩㄢ"
       },
       {
         "japanese": "宵",
-        "english": "ㄒㄧㄠ",
+        "english": "nighttime",
         "furigana": "宵",
         "kana": "ㄒㄧㄠ",
         "answer": "ㄒㄧㄠ"
       },
       {
         "japanese": "安",
-        "english": "ㄢ",
+        "english": "peaceful",
         "furigana": "安",
         "kana": "ㄢ",
         "answer": "ㄢ"
       },
       {
         "japanese": "宴",
-        "english": "ㄧㄢˋ",
+        "english": "banquet",
         "furigana": "宴",
         "kana": "ㄧㄢˋ",
         "answer": "ㄧㄢˋ"
       },
       {
         "japanese": "寄",
-        "english": "ㄐㄧˋ",
+        "english": "to mail",
         "furigana": "寄",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "富",
-        "english": "ㄈㄨˋ",
+        "english": "wealthy",
         "furigana": "富",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "貯",
-        "english": "ㄓㄨˇ",
+        "english": "to store up",
         "furigana": "貯",
         "kana": "ㄓㄨˇ",
         "answer": "ㄓㄨˇ"
       },
       {
         "japanese": "木",
-        "english": "ㄇㄨˋ",
+        "english": "tree",
         "furigana": "木",
         "kana": "ㄇㄨˋ",
         "answer": "ㄇㄨˋ"
       },
       {
         "japanese": "林",
-        "english": "ㄌㄧㄣˊ",
+        "english": "woods",
         "furigana": "林",
         "kana": "ㄌㄧㄣˊ",
         "answer": "ㄌㄧㄣˊ"
       },
       {
         "japanese": "森",
-        "english": "ㄙㄣ",
+        "english": "forest",
         "furigana": "森",
         "kana": "ㄙㄣ",
         "answer": "ㄙㄣ"
       },
       {
         "japanese": "植",
-        "english": "ㄓˊ",
+        "english": "to plant",
         "furigana": "植",
         "kana": "ㄓˊ",
         "answer": "ㄓˊ"
       },
       {
         "japanese": "杏",
-        "english": "ㄒㄧㄥˋ",
+        "english": "apricot",
         "furigana": "杏",
         "kana": "ㄒㄧㄥˋ",
         "answer": "ㄒㄧㄥˋ"
       },
       {
         "japanese": "呆",
-        "english": "ㄉㄞ",
+        "english": "dim-witted",
         "furigana": "呆",
         "kana": "ㄉㄞ",
         "answer": "ㄉㄞ"
       },
       {
         "japanese": "枯",
-        "english": "ㄎㄨ",
+        "english": "withered",
         "furigana": "枯",
         "kana": "ㄎㄨ",
         "answer": "ㄎㄨ"
       },
       {
         "japanese": "村",
-        "english": "ㄘㄨㄣ",
+        "english": "village",
         "furigana": "村",
         "kana": "ㄘㄨㄣ",
         "answer": "ㄘㄨㄣ"
       },
       {
         "japanese": "相",
-        "english": "ㄒㄧㄤ",
+        "english": "one another",
         "furigana": "相",
         "kana": "ㄒㄧㄤ",
         "answer": "ㄒㄧㄤ"
       },
       {
         "japanese": "本",
-        "english": "ㄅㄣˇ",
+        "english": "notebook",
         "furigana": "本",
         "kana": "ㄅㄣˇ",
         "answer": "ㄅㄣˇ"
       },
       {
         "japanese": "案",
-        "english": "ㄢˋ",
+        "english": "legal case",
         "furigana": "案",
         "kana": "ㄢˋ",
         "answer": "ㄢˋ"
       },
       {
         "japanese": "未",
-        "english": "ㄨㄟˋ",
+        "english": "not yet",
         "furigana": "未",
         "kana": "ㄨㄟˋ",
         "answer": "ㄨㄟˋ"
       },
       {
         "japanese": "末",
-        "english": "ㄇㄛˋ",
+        "english": "last",
         "furigana": "末",
         "kana": "ㄇㄛˋ",
         "answer": "ㄇㄛˋ"
       },
       {
         "japanese": "沫",
-        "english": "ㄇㄛˋ",
+        "english": "foam",
         "furigana": "沫",
         "kana": "ㄇㄛˋ",
         "answer": "ㄇㄛˋ"
       },
       {
         "japanese": "味",
-        "english": "ㄨㄟˋ",
+        "english": "flavor",
         "furigana": "味",
         "kana": "ㄨㄟˋ",
         "answer": "ㄨㄟˋ"
       },
       {
         "japanese": "妹",
-        "english": "ㄇㄟˋ",
+        "english": "younger sister",
         "furigana": "妹",
         "kana": "ㄇㄟˋ",
         "answer": "ㄇㄟˋ"
       },
       {
         "japanese": "查",
-        "english": "ㄔㄚˊ",
+        "english": "to investigate",
         "furigana": "查",
         "kana": "ㄔㄚˊ",
         "answer": "ㄔㄚˊ"
       },
       {
         "japanese": "渣",
-        "english": "ㄓㄚ",
+        "english": "sediment",
         "furigana": "渣",
         "kana": "ㄓㄚ",
         "answer": "ㄓㄚ"
       },
       {
         "japanese": "染",
-        "english": "ㄖㄢˇ",
+        "english": "to dye",
         "furigana": "染",
         "kana": "ㄖㄢˇ",
         "answer": "ㄖㄢˇ"
       },
       {
         "japanese": "李",
-        "english": "ㄌㄧˇ",
+        "english": "plum",
         "furigana": "李",
         "kana": "ㄌㄧˇ",
         "answer": "ㄌㄧˇ"
       },
       {
         "japanese": "桌",
-        "english": "ㄓㄨㄛ",
+        "english": "table",
         "furigana": "桌",
         "kana": "ㄓㄨㄛ",
         "answer": "ㄓㄨㄛ"
       },
       {
         "japanese": "若",
-        "english": "ㄖㄨㄛˋ",
+        "english": "as if",
         "furigana": "若",
         "kana": "ㄖㄨㄛˋ",
         "answer": "ㄖㄨㄛˋ"
       },
       {
         "japanese": "草",
-        "english": "ㄘㄠˇ",
+        "english": "grass",
         "furigana": "草",
         "kana": "ㄘㄠˇ",
         "answer": "ㄘㄠˇ"
       },
       {
         "japanese": "苦",
-        "english": "ㄎㄨˇ",
+        "english": "suffering",
         "furigana": "苦",
         "kana": "ㄎㄨˇ",
         "answer": "ㄎㄨˇ"
       },
       {
         "japanese": "寬",
-        "english": "ㄎㄨㄢ",
+        "english": "wide",
         "furigana": "寬",
         "kana": "ㄎㄨㄢ",
         "answer": "ㄎㄨㄢ"
       },
       {
         "japanese": "葉",
-        "english": "ㄧㄝˋ",
+        "english": "leaf",
         "furigana": "葉",
         "kana": "ㄧㄝˋ",
         "answer": "ㄧㄝˋ"
       },
       {
         "japanese": "莫",
-        "english": "ㄇㄛˋ",
+        "english": "nobody",
         "furigana": "莫",
         "kana": "ㄇㄛˋ",
         "answer": "ㄇㄛˋ"
       },
       {
         "japanese": "模",
-        "english": "ㄇㄛˊ",
+        "english": "to imitate",
         "furigana": "模",
         "kana": "ㄇㄛˊ",
         "answer": "ㄇㄛˊ"
       },
       {
         "japanese": "漠",
-        "english": "ㄇㄛˋ",
+        "english": "desert",
         "furigana": "漠",
         "kana": "ㄇㄛˋ",
         "answer": "ㄇㄛˋ"
       },
       {
         "japanese": "墓",
-        "english": "ㄇㄨˋ",
+        "english": "a grave",
         "furigana": "墓",
         "kana": "ㄇㄨˋ",
         "answer": "ㄇㄨˋ"
       },
       {
         "japanese": "苗",
-        "english": "ㄇㄧㄠˊ",
+        "english": "seedling",
         "furigana": "苗",
         "kana": "ㄇㄧㄠˊ",
         "answer": "ㄇㄧㄠˊ"
       },
       {
         "japanese": "瞄",
-        "english": "ㄇㄧㄠˊ",
+        "english": "to aim",
         "furigana": "瞄",
         "kana": "ㄇㄧㄠˊ",
         "answer": "ㄇㄧㄠˊ"
       },
       {
         "japanese": "兆",
-        "english": "ㄓㄠˋ",
+        "english": "portent",
         "furigana": "兆",
         "kana": "ㄓㄠˋ",
         "answer": "ㄓㄠˋ"
       },
       {
         "japanese": "桃",
-        "english": "ㄊㄠˊ",
+        "english": "peach",
         "furigana": "桃",
         "kana": "ㄊㄠˊ",
         "answer": "ㄊㄠˊ"
       },
       {
         "japanese": "犬",
-        "english": "ㄑㄩㄢˇ",
+        "english": "pooch",
         "furigana": "犬",
         "kana": "ㄑㄩㄢˇ",
         "answer": "ㄑㄩㄢˇ"
       },
       {
         "japanese": "尤",
-        "english": "ㄧㄡˊ",
+        "english": "remarkable",
         "furigana": "尤",
         "kana": "ㄧㄡˊ",
         "answer": "ㄧㄡˊ"
       },
       {
         "japanese": "默",
-        "english": "ㄇㄛˋ",
+        "english": "silence",
         "furigana": "默",
         "kana": "ㄇㄛˋ",
         "answer": "ㄇㄛˋ"
       },
       {
         "japanese": "然",
-        "english": "ㄖㄢˊ",
+        "english": "sort of thing",
         "furigana": "然",
         "kana": "ㄖㄢˊ",
         "answer": "ㄖㄢˊ"
       },
       {
         "japanese": "哭",
-        "english": "ㄎㄨ",
+        "english": "to cry",
         "furigana": "哭",
         "kana": "ㄎㄨ",
         "answer": "ㄎㄨ"
       },
       {
         "japanese": "器",
-        "english": "ㄑㄧˋ",
+        "english": "utensil",
         "furigana": "器",
         "kana": "ㄑㄧˋ",
         "answer": "ㄑㄧˋ"
       },
       {
         "japanese": "臭",
-        "english": "ㄔㄡˋ",
+        "english": "stinking",
         "furigana": "臭",
         "kana": "ㄔㄡˋ",
         "answer": "ㄔㄡˋ"
       },
       {
         "japanese": "狗",
-        "english": "ㄍㄡˇ",
+        "english": "dog",
         "furigana": "狗",
         "kana": "ㄍㄡˇ",
         "answer": "ㄍㄡˇ"
       },
       {
         "japanese": "厭",
-        "english": "ㄧㄢˋ",
+        "english": "to detest",
         "furigana": "厭",
         "kana": "ㄧㄢˋ",
         "answer": "ㄧㄢˋ"
       },
       {
         "japanese": "壓",
-        "english": "ㄧㄚ",
+        "english": "pressure",
         "furigana": "壓",
         "kana": "ㄧㄚ",
         "answer": "ㄧㄚ"
       },
       {
         "japanese": "牛",
-        "english": "ㄋㄧㄡˊ",
+        "english": "cow",
         "furigana": "牛",
         "kana": "ㄋㄧㄡˊ",
         "answer": "ㄋㄧㄡˊ"
       },
       {
         "japanese": "特",
-        "english": "ㄊㄜˋ",
+        "english": "special",
         "furigana": "特",
         "kana": "ㄊㄜˋ",
         "answer": "ㄊㄜˋ"
       },
       {
         "japanese": "告",
-        "english": "ㄍㄠˋ",
+        "english": "to declare",
         "furigana": "告",
         "kana": "ㄍㄠˋ",
         "answer": "ㄍㄠˋ"
       },
       {
         "japanese": "浩",
-        "english": "ㄏㄠˋ",
+        "english": "vast",
         "furigana": "浩",
         "kana": "ㄏㄠˋ",
         "answer": "ㄏㄠˋ"
       },
       {
         "japanese": "先",
-        "english": "ㄒㄧㄢ",
+        "english": "before",
         "furigana": "先",
         "kana": "ㄒㄧㄢ",
         "answer": "ㄒㄧㄢ"
       },
       {
         "japanese": "洗",
-        "english": "ㄒㄧˇ",
+        "english": "to wash",
         "furigana": "洗",
         "kana": "ㄒㄧˇ",
         "answer": "ㄒㄧˇ"
       },
       {
         "japanese": "介",
-        "english": "ㄐㄧㄝˋ",
+        "english": "to introduce",
         "furigana": "介",
         "kana": "ㄐㄧㄝˋ",
         "answer": "ㄐㄧㄝˋ"
       },
       {
         "japanese": "界",
-        "english": "ㄐㄧㄝˋ",
+        "english": "world",
         "furigana": "界",
         "kana": "ㄐㄧㄝˋ",
         "answer": "ㄐㄧㄝˋ"
       },
       {
         "japanese": "茶",
-        "english": "ㄔㄚˊ",
+        "english": "tea",
         "furigana": "茶",
         "kana": "ㄔㄚˊ",
         "answer": "ㄔㄚˊ"
       },
       {
         "japanese": "會",
-        "english": "ㄏㄨㄟˋ",
+        "english": "meeting",
         "furigana": "會",
         "kana": "ㄏㄨㄟˋ",
         "answer": "ㄏㄨㄟˋ"
       },
       {
         "japanese": "合",
-        "english": "ㄏㄜˊ",
+        "english": "to fit",
         "furigana": "合",
         "kana": "ㄏㄜˊ",
         "answer": "ㄏㄜˊ"
       },
       {
         "japanese": "哈",
-        "english": "ㄏㄚ",
+        "english": "ha!",
         "furigana": "哈",
         "kana": "ㄏㄚ",
         "answer": "ㄏㄚ"
       },
       {
         "japanese": "塔",
-        "english": "ㄊㄚˇ",
+        "english": "pagoda",
         "furigana": "塔",
         "kana": "ㄊㄚˇ",
         "answer": "ㄊㄚˇ"
       },
       {
         "japanese": "王",
-        "english": "ㄨㄤˊ",
+        "english": "king",
         "furigana": "王",
         "kana": "ㄨㄤˊ",
         "answer": "ㄨㄤˊ"
       },
       {
         "japanese": "玉",
-        "english": "ㄩˋ",
+        "english": "jade",
         "furigana": "玉",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "球",
-        "english": "ㄑㄧㄡˊ",
+        "english": "balls",
         "furigana": "球",
         "kana": "ㄑㄧㄡˊ",
         "answer": "ㄑㄧㄡˊ"
       },
       {
         "japanese": "現",
-        "english": "ㄒㄧㄢˋ",
+        "english": "present",
         "furigana": "現",
         "kana": "ㄒㄧㄢˋ",
         "answer": "ㄒㄧㄢˋ"
       },
       {
         "japanese": "玩",
-        "english": "ㄨㄢˊ",
+        "english": "to play",
         "furigana": "玩",
         "kana": "ㄨㄢˊ",
         "answer": "ㄨㄢˊ"
       },
       {
         "japanese": "狂",
-        "english": "ㄎㄨㄤˊ",
+        "english": "crazy",
         "furigana": "狂",
         "kana": "ㄎㄨㄤˊ",
         "answer": "ㄎㄨㄤˊ"
       },
       {
         "japanese": "皇",
-        "english": "ㄏㄨㄤˊ",
+        "english": "emperor",
         "furigana": "皇",
         "kana": "ㄏㄨㄤˊ",
         "answer": "ㄏㄨㄤˊ"
       },
       {
         "japanese": "煌",
-        "english": "ㄏㄨㄤˊ",
+        "english": "resplendent",
         "furigana": "煌",
         "kana": "ㄏㄨㄤˊ",
         "answer": "ㄏㄨㄤˊ"
       },
       {
         "japanese": "呈",
-        "english": "ㄔㄥˊ",
+        "english": "to submit",
         "furigana": "呈",
         "kana": "ㄔㄥˊ",
         "answer": "ㄔㄥˊ"
       },
       {
         "japanese": "全",
-        "english": "ㄑㄩㄢˊ",
+        "english": "whole",
         "furigana": "全",
         "kana": "ㄑㄩㄢˊ",
         "answer": "ㄑㄩㄢˊ"
       },
       {
         "japanese": "理",
-        "english": "ㄌㄧˇ",
+        "english": "logic",
         "furigana": "理",
         "kana": "ㄌㄧˇ",
         "answer": "ㄌㄧˇ"
       },
       {
         "japanese": "主",
-        "english": "ㄓㄨˇ",
+        "english": "lord",
         "furigana": "主",
         "kana": "ㄓㄨˇ",
         "answer": "ㄓㄨˇ"
       },
       {
         "japanese": "注",
-        "english": "ㄓㄨˋ",
+        "english": "to pour",
         "furigana": "注",
         "kana": "ㄓㄨˋ",
         "answer": "ㄓㄨˋ"
       },
       {
         "japanese": "金",
-        "english": "ㄐㄧㄣ",
+        "english": "the gold",
         "furigana": "金",
         "kana": "ㄐㄧㄣ",
         "answer": "ㄐㄧㄣ"
       },
       {
         "japanese": "銅",
-        "english": "ㄊㄨㄥˊ",
+        "english": "copper",
         "furigana": "銅",
         "kana": "ㄊㄨㄥˊ",
         "answer": "ㄊㄨㄥˊ"
       },
       {
         "japanese": "釣",
-        "english": "ㄉㄧㄠˋ",
+        "english": "to go fishin’",
         "furigana": "釣",
         "kana": "ㄉㄧㄠˋ",
         "answer": "ㄉㄧㄠˋ"
       },
       {
         "japanese": "針",
-        "english": "ㄓㄣ",
+        "english": "needle",
         "furigana": "針",
         "kana": "ㄓㄣ",
         "answer": "ㄓㄣ"
       },
       {
         "japanese": "釘",
-        "english": "ㄉㄧㄥ",
+        "english": "nail",
         "furigana": "釘",
         "kana": "ㄉㄧㄥ",
         "answer": "ㄉㄧㄥ"
       },
       {
         "japanese": "銘",
-        "english": "ㄇㄧㄥˊ",
+        "english": "inscription",
         "furigana": "銘",
         "kana": "ㄇㄧㄥˊ",
         "answer": "ㄇㄧㄥˊ"
       },
       {
         "japanese": "鎮",
-        "english": "ㄓㄣˋ",
+        "english": "at ease",
         "furigana": "鎮",
         "kana": "ㄓㄣˋ",
         "answer": "ㄓㄣˋ"
       },
       {
         "japanese": "道",
-        "english": "ㄉㄠˋ",
+        "english": "way",
         "furigana": "道",
         "kana": "ㄉㄠˋ",
         "answer": "ㄉㄠˋ"
       },
       {
         "japanese": "導",
-        "english": "ㄉㄠˇ",
+        "english": "to guide",
         "furigana": "導",
         "kana": "ㄉㄠˇ",
         "answer": "ㄉㄠˇ"
       },
       {
         "japanese": "迅",
-        "english": "ㄒㄩㄣˋ",
+        "english": "speedy",
         "furigana": "迅",
         "kana": "ㄒㄩㄣˋ",
         "answer": "ㄒㄩㄣˋ"
       },
       {
         "japanese": "造",
-        "english": "ㄗㄠˋ",
+        "english": "to create",
         "furigana": "造",
         "kana": "ㄗㄠˋ",
         "answer": "ㄗㄠˋ"
       },
       {
         "japanese": "巡",
-        "english": "ㄒㄩㄣˊ",
+        "english": "to patrol",
         "furigana": "巡",
         "kana": "ㄒㄩㄣˊ",
         "answer": "ㄒㄩㄣˊ"
       },
       {
         "japanese": "逛",
-        "english": "ㄍㄨㄤˋ",
+        "english": "to stroll",
         "furigana": "逛",
         "kana": "ㄍㄨㄤˋ",
         "answer": "ㄍㄨㄤˋ"
       },
       {
         "japanese": "車",
-        "english": "ㄔㄜ",
+        "english": "car",
         "furigana": "車",
         "kana": "ㄔㄜ",
         "answer": "ㄔㄜ"
       },
       {
         "japanese": "連",
-        "english": "ㄌㄧㄢˊ",
+        "english": "one after another",
         "furigana": "連",
         "kana": "ㄌㄧㄢˊ",
         "answer": "ㄌㄧㄢˊ"
       },
       {
         "japanese": "蓮",
-        "english": "ㄌㄧㄢˊ",
+        "english": "lotus",
         "furigana": "蓮",
         "kana": "ㄌㄧㄢˊ",
         "answer": "ㄌㄧㄢˊ"
       },
       {
         "japanese": "前",
-        "english": "ㄑㄧㄢˊ",
+        "english": "in front",
         "furigana": "前",
         "kana": "ㄑㄧㄢˊ",
         "answer": "ㄑㄧㄢˊ"
       },
       {
         "japanese": "剪",
-        "english": "ㄐㄧㄢˇ",
+        "english": "shears",
         "furigana": "剪",
         "kana": "ㄐㄧㄢˇ",
         "answer": "ㄐㄧㄢˇ"
       },
       {
         "japanese": "輸",
-        "english": "ㄕㄨ",
+        "english": "to transport",
         "furigana": "輸",
         "kana": "ㄕㄨ",
         "answer": "ㄕㄨ"
       },
       {
         "japanese": "逾",
-        "english": "ㄩˊ",
+        "english": "to exceed",
         "furigana": "逾",
         "kana": "ㄩˊ",
         "answer": "ㄩˊ"
       },
       {
         "japanese": "各",
-        "english": "ㄍㄜˋ",
+        "english": "each",
         "furigana": "各",
         "kana": "ㄍㄜˋ",
         "answer": "ㄍㄜˋ"
       },
       {
         "japanese": "格",
-        "english": "ㄍㄜˊ",
+        "english": "pattern",
         "furigana": "格",
         "kana": "ㄍㄜˊ",
         "answer": "ㄍㄜˊ"
       },
       {
         "japanese": "客",
-        "english": "ㄎㄜˋ",
+        "english": "guest",
         "furigana": "客",
         "kana": "ㄎㄜˋ",
         "answer": "ㄎㄜˋ"
       },
       {
         "japanese": "額",
-        "english": "ㄜˊ",
+        "english": "forehead",
         "furigana": "額",
         "kana": "ㄜˊ",
         "answer": "ㄜˊ"
       },
       {
         "japanese": "夏",
-        "english": "ㄒㄧㄚˋ",
+        "english": "summer",
         "furigana": "夏",
         "kana": "ㄒㄧㄚˋ",
         "answer": "ㄒㄧㄚˋ"
       },
       {
         "japanese": "洛",
-        "english": "ㄌㄨㄛˋ",
+        "english": "l.a.",
         "furigana": "洛",
         "kana": "ㄌㄨㄛˋ",
         "answer": "ㄌㄨㄛˋ"
       },
       {
         "japanese": "落",
-        "english": "ㄌㄨㄛˋ",
+        "english": "to fall",
         "furigana": "落",
         "kana": "ㄌㄨㄛˋ",
         "answer": "ㄌㄨㄛˋ"
       },
       {
         "japanese": "冗",
-        "english": "ㄖㄨㄥˇ",
+        "english": "superfluous",
         "furigana": "冗",
         "kana": "ㄖㄨㄥˇ",
         "answer": "ㄖㄨㄥˇ"
       },
       {
         "japanese": "沉",
-        "english": "ㄔㄣˊ",
+        "english": "profound",
         "furigana": "沉",
         "kana": "ㄔㄣˊ",
         "answer": "ㄔㄣˊ"
       },
       {
         "japanese": "軍",
-        "english": "ㄐㄩㄣ",
+        "english": "army",
         "furigana": "軍",
         "kana": "ㄐㄩㄣ",
         "answer": "ㄐㄩㄣ"
       },
       {
         "japanese": "輝",
-        "english": "ㄏㄨㄟ",
+        "english": "radiance",
         "furigana": "輝",
         "kana": "ㄏㄨㄟ",
         "answer": "ㄏㄨㄟ"
       },
       {
         "japanese": "運",
-        "english": "ㄩㄣˋ",
+        "english": "to carry",
         "furigana": "運",
         "kana": "ㄩㄣˋ",
         "answer": "ㄩㄣˋ"
       },
       {
         "japanese": "冠",
-        "english": "ㄍㄨㄢ",
+        "english": "crown",
         "furigana": "冠",
         "kana": "ㄍㄨㄢ",
         "answer": "ㄍㄨㄢ"
       },
       {
         "japanese": "夢",
-        "english": "ㄇㄥˋ",
+        "english": "a dream",
         "furigana": "夢",
         "kana": "ㄇㄥˋ",
         "answer": "ㄇㄥˋ"
       },
       {
         "japanese": "坑",
-        "english": "ㄎㄥ",
+        "english": "pit",
         "furigana": "坑",
         "kana": "ㄎㄥ",
         "answer": "ㄎㄥ"
       },
       {
         "japanese": "高",
-        "english": "ㄍㄠ",
+        "english": "tall",
         "furigana": "高",
         "kana": "ㄍㄠ",
         "answer": "ㄍㄠ"
       },
       {
         "japanese": "享",
-        "english": "ㄒㄧㄤˇ",
+        "english": "to enjoy",
         "furigana": "享",
         "kana": "ㄒㄧㄤˇ",
         "answer": "ㄒㄧㄤˇ"
       },
       {
         "japanese": "熟",
-        "english": "ㄕㄨˊ",
+        "english": "ripe",
         "furigana": "熟",
         "kana": "ㄕㄨˊ",
         "answer": "ㄕㄨˊ"
       },
       {
         "japanese": "亭",
-        "english": "ㄊㄧㄥˊ",
+        "english": "pavilion",
         "furigana": "亭",
         "kana": "ㄊㄧㄥˊ",
         "answer": "ㄊㄧㄥˊ"
       },
       {
         "japanese": "亮",
-        "english": "ㄌㄧㄤˋ",
+        "english": "shining",
         "furigana": "亮",
         "kana": "ㄌㄧㄤˋ",
         "answer": "ㄌㄧㄤˋ"
       },
       {
         "japanese": "京",
-        "english": "ㄐㄧㄥ",
+        "english": "capital",
         "furigana": "京",
         "kana": "ㄐㄧㄥ",
         "answer": "ㄐㄧㄥ"
       },
       {
         "japanese": "涼",
-        "english": "ㄌㄧㄤˊ",
+        "english": "cool",
         "furigana": "涼",
         "kana": "ㄌㄧㄤˊ",
         "answer": "ㄌㄧㄤˊ"
       },
       {
         "japanese": "景",
-        "english": "ㄐㄧㄥˇ",
+        "english": "scenery",
         "furigana": "景",
         "kana": "ㄐㄧㄥˇ",
         "answer": "ㄐㄧㄥˇ"
       },
       {
         "japanese": "就",
-        "english": "ㄐㄧㄡˋ",
+        "english": "at once",
         "furigana": "就",
         "kana": "ㄐㄧㄡˋ",
         "answer": "ㄐㄧㄡˋ"
       },
       {
         "japanese": "周",
-        "english": "ㄓㄡ",
+        "english": "circumference",
         "furigana": "周",
         "kana": "ㄓㄡ",
         "answer": "ㄓㄡ"
       },
       {
         "japanese": "週",
-        "english": "ㄓㄡ",
+        "english": "week",
         "furigana": "週",
         "kana": "ㄓㄡ",
         "answer": "ㄓㄡ"
       },
       {
         "japanese": "士",
-        "english": "ㄕˋ",
+        "english": "soldier",
         "furigana": "士",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "吉",
-        "english": "ㄐㄧˊ",
+        "english": "lucky",
         "furigana": "吉",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "買",
-        "english": "ㄇㄞˇ",
+        "english": "to buy",
         "furigana": "買",
         "kana": "ㄇㄞˇ",
         "answer": "ㄇㄞˇ"
       },
       {
         "japanese": "賣",
-        "english": "ㄇㄞˋ",
+        "english": "to sell",
         "furigana": "賣",
         "kana": "ㄇㄞˋ",
         "answer": "ㄇㄞˋ"
       },
       {
         "japanese": "書",
-        "english": "ㄕㄨ",
+        "english": "book",
         "furigana": "書",
         "kana": "ㄕㄨ",
         "answer": "ㄕㄨ"
       },
       {
         "japanese": "畫",
-        "english": "ㄏㄨㄚˋ",
+        "english": "a drawing",
         "furigana": "畫",
         "kana": "ㄏㄨㄚˋ",
         "answer": "ㄏㄨㄚˋ"
       },
       {
         "japanese": "劃",
-        "english": "ㄏㄨㄚˊ",
+        "english": "to scratch",
         "furigana": "劃",
         "kana": "ㄏㄨㄚˊ",
         "answer": "ㄏㄨㄚˊ"
       },
       {
         "japanese": "攻",
-        "english": "ㄍㄨㄥ",
+        "english": "to attack",
         "furigana": "攻",
         "kana": "ㄍㄨㄥ",
         "answer": "ㄍㄨㄥ"
       },
       {
         "japanese": "敗",
-        "english": "ㄅㄞˋ",
+        "english": "to fail",
         "furigana": "敗",
         "kana": "ㄅㄞˋ",
         "answer": "ㄅㄞˋ"
       },
       {
         "japanese": "故",
-        "english": "ㄍㄨˋ",
+        "english": "deliberately",
         "furigana": "故",
         "kana": "ㄍㄨˋ",
         "answer": "ㄍㄨˋ"
       },
       {
         "japanese": "救",
-        "english": "ㄐㄧㄡˋ",
+        "english": "to rescue",
         "furigana": "救",
         "kana": "ㄐㄧㄡˋ",
         "answer": "ㄐㄧㄡˋ"
       },
       {
         "japanese": "敬",
-        "english": "ㄐㄧㄥˋ",
+        "english": "to revere",
         "furigana": "敬",
         "kana": "ㄐㄧㄥˋ",
         "answer": "ㄐㄧㄥˋ"
       },
       {
         "japanese": "敞",
-        "english": "ㄔㄤˇ",
+        "english": "spacious",
         "furigana": "敞",
         "kana": "ㄔㄤˇ",
         "answer": "ㄔㄤˇ"
       },
       {
         "japanese": "言",
-        "english": "ㄧㄢˊ",
+        "english": "to say",
         "furigana": "言",
         "kana": "ㄧㄢˊ",
         "answer": "ㄧㄢˊ"
       },
       {
         "japanese": "警",
-        "english": "ㄐㄧㄥˇ",
+        "english": "police",
         "furigana": "警",
         "kana": "ㄐㄧㄥˇ",
         "answer": "ㄐㄧㄥˇ"
       },
       {
         "japanese": "計",
-        "english": "ㄐㄧˋ",
+        "english": "a plan",
         "furigana": "計",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "獄",
-        "english": "ㄩˋ",
+        "english": "prison",
         "furigana": "獄",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "討",
-        "english": "ㄊㄠˇ",
+        "english": "to condemn",
         "furigana": "討",
         "kana": "ㄊㄠˇ",
         "answer": "ㄊㄠˇ"
       },
       {
         "japanese": "訓",
-        "english": "ㄒㄩㄣˋ",
+        "english": "instruction",
         "furigana": "訓",
         "kana": "ㄒㄩㄣˋ",
         "answer": "ㄒㄩㄣˋ"
       },
       {
         "japanese": "話",
-        "english": "ㄏㄨㄚˋ",
+        "english": "the talk",
         "furigana": "話",
         "kana": "ㄏㄨㄚˋ",
         "answer": "ㄏㄨㄚˋ"
       },
       {
         "japanese": "詩",
-        "english": "ㄕ",
+        "english": "poem",
         "furigana": "詩",
         "kana": "ㄕ",
         "answer": "ㄕ"
       },
       {
         "japanese": "語",
-        "english": "ㄩˇ",
+        "english": "language",
         "furigana": "語",
         "kana": "ㄩˇ",
         "answer": "ㄩˇ"
       },
       {
         "japanese": "讀",
-        "english": "ㄉㄨˊ",
+        "english": "to read",
         "furigana": "讀",
         "kana": "ㄉㄨˊ",
         "answer": "ㄉㄨˊ"
       },
       {
         "japanese": "調",
-        "english": "ㄉㄧㄠˋ",
+        "english": "tune",
         "furigana": "調",
         "kana": "ㄉㄧㄠˋ",
         "answer": "ㄉㄧㄠˋ"
       },
       {
         "japanese": "談",
-        "english": "ㄊㄢˊ",
+        "english": "to discuss",
         "furigana": "談",
         "kana": "ㄊㄢˊ",
         "answer": "ㄊㄢˊ"
       },
       {
         "japanese": "這",
-        "english": "ㄓㄜˋ",
+        "english": "this",
         "furigana": "這",
         "kana": "ㄓㄜˋ",
         "answer": "ㄓㄜˋ"
       },
       {
         "japanese": "式",
-        "english": "ㄕˋ",
+        "english": "style",
         "furigana": "式",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "試",
-        "english": "ㄕˋ",
+        "english": "test",
         "furigana": "試",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "戈",
-        "english": "ㄍㄜ",
+        "english": "halberd",
         "furigana": "戈",
         "kana": "ㄍㄜ",
         "answer": "ㄍㄜ"
       },
       {
         "japanese": "或",
-        "english": "ㄏㄨㄛˋ",
+        "english": "or",
         "furigana": "或",
         "kana": "ㄏㄨㄛˋ",
         "answer": "ㄏㄨㄛˋ"
       },
       {
         "japanese": "賊",
-        "english": "ㄗㄟˊ",
+        "english": "burglar",
         "furigana": "賊",
         "kana": "ㄗㄟˊ",
         "answer": "ㄗㄟˊ"
       },
       {
         "japanese": "載",
-        "english": "ㄗㄞˋ",
+        "english": "laden",
         "furigana": "載",
         "kana": "ㄗㄞˋ",
         "answer": "ㄗㄞˋ"
       },
       {
         "japanese": "鐵",
-        "english": "ㄊㄧㄝˇ",
+        "english": "iron",
         "furigana": "鐵",
         "kana": "ㄊㄧㄝˇ",
         "answer": "ㄊㄧㄝˇ"
       },
       {
         "japanese": "茂",
-        "english": "ㄇㄠˋ",
+        "english": "lush",
         "furigana": "茂",
         "kana": "ㄇㄠˋ",
         "answer": "ㄇㄠˋ"
       },
       {
         "japanese": "成",
-        "english": "ㄔㄥˊ",
+        "english": "to turn into",
         "furigana": "成",
         "kana": "ㄔㄥˊ",
         "answer": "ㄔㄥˊ"
       },
       {
         "japanese": "城",
-        "english": "ㄔㄥˊ",
+        "english": "city",
         "furigana": "城",
         "kana": "ㄔㄥˊ",
         "answer": "ㄔㄥˊ"
       },
       {
         "japanese": "誠",
-        "english": "ㄔㄥˊ",
+        "english": "sincere",
         "furigana": "誠",
         "kana": "ㄔㄥˊ",
         "answer": "ㄔㄥˊ"
       },
       {
         "japanese": "威",
-        "english": "ㄨㄟ",
+        "english": "might  [ie: power]",
         "furigana": "威",
         "kana": "ㄨㄟ",
         "answer": "ㄨㄟ"
       },
       {
         "japanese": "滅",
-        "english": "ㄇㄧㄝˋ",
+        "english": "to destroy",
         "furigana": "滅",
         "kana": "ㄇㄧㄝˋ",
         "answer": "ㄇㄧㄝˋ"
       },
       {
         "japanese": "咸",
-        "english": "ㄒㄧㄢˊ",
+        "english": "everybody",
         "furigana": "咸",
         "kana": "ㄒㄧㄢˊ",
         "answer": "ㄒㄧㄢˊ"
       },
       {
         "japanese": "減",
-        "english": "ㄐㄧㄢˇ",
+        "english": "to reduce",
         "furigana": "減",
         "kana": "ㄐㄧㄢˇ",
         "answer": "ㄐㄧㄢˇ"
       },
       {
         "japanese": "單",
-        "english": "ㄉㄢ",
+        "english": "a list",
         "furigana": "單",
         "kana": "ㄉㄢ",
         "answer": "ㄉㄢ"
       },
       {
         "japanese": "戰",
-        "english": "ㄓㄢˋ",
+        "english": "war",
         "furigana": "戰",
         "kana": "ㄓㄢˋ",
         "answer": "ㄓㄢˋ"
       },
       {
         "japanese": "錢",
-        "english": "ㄑㄧㄢˊ",
+        "english": "coin",
         "furigana": "錢",
         "kana": "ㄑㄧㄢˊ",
         "answer": "ㄑㄧㄢˊ"
       },
       {
         "japanese": "淺",
-        "english": "ㄑㄧㄢˇ",
+        "english": "shallow",
         "furigana": "淺",
         "kana": "ㄑㄧㄢˇ",
         "answer": "ㄑㄧㄢˇ"
       },
       {
         "japanese": "賤",
-        "english": "ㄐㄧㄢˋ",
+        "english": "cheap",
         "furigana": "賤",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "止",
-        "english": "ㄓˇ",
+        "english": "to stop",
         "furigana": "止",
         "kana": "ㄓˇ",
         "answer": "ㄓˇ"
       },
       {
         "japanese": "步",
-        "english": "ㄅㄨˋ",
+        "english": "footstep",
         "furigana": "步",
         "kana": "ㄅㄨˋ",
         "answer": "ㄅㄨˋ"
       },
       {
         "japanese": "涉",
-        "english": "ㄕㄜˋ",
+        "english": "to ford",
         "furigana": "涉",
         "kana": "ㄕㄜˋ",
         "answer": "ㄕㄜˋ"
       },
       {
         "japanese": "頻",
-        "english": "ㄆㄧㄣˊ",
+        "english": "repeatedly",
         "furigana": "頻",
         "kana": "ㄆㄧㄣˊ",
         "answer": "ㄆㄧㄣˊ"
       },
       {
         "japanese": "肯",
-        "english": "ㄎㄣˇ",
+        "english": "to agree",
         "furigana": "肯",
         "kana": "ㄎㄣˇ",
         "answer": "ㄎㄣˇ"
       },
       {
         "japanese": "企",
-        "english": "ㄑㄧˋ",
+        "english": "to look forward to",
         "furigana": "企",
         "kana": "ㄑㄧˋ",
         "answer": "ㄑㄧˋ"
       },
       {
         "japanese": "歲",
-        "english": "ㄙㄨㄟˋ",
+        "english": "years of age",
         "furigana": "歲",
         "kana": "ㄙㄨㄟˋ",
         "answer": "ㄙㄨㄟˋ"
       },
       {
         "japanese": "武",
-        "english": "ㄨˇ",
+        "english": "military",
         "furigana": "武",
         "kana": "ㄨˇ",
         "answer": "ㄨˇ"
       },
       {
         "japanese": "賦",
-        "english": "ㄈㄨˋ",
+        "english": "levy",
         "furigana": "賦",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "正",
-        "english": "ㄓㄥˋ",
+        "english": "correct",
         "furigana": "正",
         "kana": "ㄓㄥˋ",
         "answer": "ㄓㄥˋ"
       },
       {
         "japanese": "政",
-        "english": "ㄓㄥˋ",
+        "english": "politics",
         "furigana": "政",
         "kana": "ㄓㄥˋ",
         "answer": "ㄓㄥˋ"
       },
       {
         "japanese": "定",
-        "english": "ㄉㄧㄥˋ",
+        "english": "to settle on",
         "furigana": "定",
         "kana": "ㄉㄧㄥˋ",
         "answer": "ㄉㄧㄥˋ"
       },
       {
         "japanese": "走",
-        "english": "ㄗㄡˇ",
+        "english": "to walk",
         "furigana": "走",
         "kana": "ㄗㄡˇ",
         "answer": "ㄗㄡˇ"
       },
       {
         "japanese": "超",
-        "english": "ㄔㄠ",
+        "english": "to transcend",
         "furigana": "超",
         "kana": "ㄔㄠ",
         "answer": "ㄔㄠ"
       },
       {
         "japanese": "越",
-        "english": "ㄩㄝˋ",
+        "english": "to surpass",
         "furigana": "越",
         "kana": "ㄩㄝˋ",
         "answer": "ㄩㄝˋ"
       },
       {
         "japanese": "是",
-        "english": "ㄕˋ",
+        "english": "to be",
         "furigana": "是",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "題",
-        "english": "ㄊㄧˊ",
+        "english": "topic",
         "furigana": "題",
         "kana": "ㄊㄧˊ",
         "answer": "ㄊㄧˊ"
       },
       {
         "japanese": "建",
-        "english": "ㄐㄧㄢˋ",
+        "english": "to build",
         "furigana": "建",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "延",
-        "english": "ㄧㄢˊ",
+        "english": "to prolong",
         "furigana": "延",
         "kana": "ㄧㄢˊ",
         "answer": "ㄧㄢˊ"
       },
       {
         "japanese": "誕",
-        "english": "ㄉㄢˋ",
+        "english": "nativity",
         "furigana": "誕",
         "kana": "ㄉㄢˋ",
         "answer": "ㄉㄢˋ"
       },
       {
         "japanese": "楚",
-        "english": "ㄔㄨˇ",
+        "english": "clear",
         "furigana": "楚",
         "kana": "ㄔㄨˇ",
         "answer": "ㄔㄨˇ"
       },
       {
         "japanese": "礎",
-        "english": "ㄔㄨˇ",
+        "english": "foundation",
         "furigana": "礎",
         "kana": "ㄔㄨˇ",
         "answer": "ㄔㄨˇ"
       },
       {
         "japanese": "衣",
-        "english": "ㄧ",
+        "english": "clothing",
         "furigana": "衣",
         "kana": "ㄧ",
         "answer": "ㄧ"
       },
       {
         "japanese": "裡",
-        "english": "ㄌㄧˇ",
+        "english": "inside",
         "furigana": "裡",
         "kana": "ㄌㄧˇ",
         "answer": "ㄌㄧˇ"
       },
       {
         "japanese": "哀",
-        "english": "ㄞ",
+        "english": "grief",
         "furigana": "哀",
         "kana": "ㄞ",
         "answer": "ㄞ"
       },
       {
         "japanese": "袁",
-        "english": "ㄩㄢˊ",
+        "english": "yuan",
         "furigana": "袁",
         "kana": "ㄩㄢˊ",
         "answer": "ㄩㄢˊ"
       },
       {
         "japanese": "遠",
-        "english": "ㄩㄢˇ",
+        "english": "distant",
         "furigana": "遠",
         "kana": "ㄩㄢˇ",
         "answer": "ㄩㄢˇ"
       },
       {
         "japanese": "壞",
-        "english": "ㄏㄨㄞˋ",
+        "english": "bad",
         "furigana": "壞",
         "kana": "ㄏㄨㄞˋ",
         "answer": "ㄏㄨㄞˋ"
       },
       {
         "japanese": "初",
-        "english": "ㄔㄨ",
+        "english": "elementary",
         "furigana": "初",
         "kana": "ㄔㄨ",
         "answer": "ㄔㄨ"
       },
       {
         "japanese": "巾",
-        "english": "ㄐㄧㄣ",
+        "english": "towel",
         "furigana": "巾",
         "kana": "ㄐㄧㄣ",
         "answer": "ㄐㄧㄣ"
       },
       {
         "japanese": "布",
-        "english": "ㄅㄨˋ",
+        "english": "cloth",
         "furigana": "布",
         "kana": "ㄅㄨˋ",
         "answer": "ㄅㄨˋ"
       },
       {
         "japanese": "帽",
-        "english": "ㄇㄠˋ",
+        "english": "hat",
         "furigana": "帽",
         "kana": "ㄇㄠˋ",
         "answer": "ㄇㄠˋ"
       },
       {
         "japanese": "幕",
-        "english": "ㄇㄨˋ",
+        "english": "curtain",
         "furigana": "幕",
         "kana": "ㄇㄨˋ",
         "answer": "ㄇㄨˋ"
       },
       {
         "japanese": "棉",
-        "english": "ㄇㄧㄢˊ",
+        "english": "cotton",
         "furigana": "棉",
         "kana": "ㄇㄧㄢˊ",
         "answer": "ㄇㄧㄢˊ"
       },
       {
         "japanese": "幫",
-        "english": "ㄅㄤ",
+        "english": "to help",
         "furigana": "幫",
         "kana": "ㄅㄤ",
         "answer": "ㄅㄤ"
       },
       {
         "japanese": "市",
-        "english": "ㄕˋ",
+        "english": "market",
         "furigana": "市",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "肺",
-        "english": "ㄈㄟˋ",
+        "english": "lungs",
         "furigana": "肺",
         "kana": "ㄈㄟˋ",
         "answer": "ㄈㄟˋ"
       },
       {
         "japanese": "帶",
-        "english": "ㄉㄞˋ",
+        "english": "sash",
         "furigana": "帶",
         "kana": "ㄉㄞˋ",
         "answer": "ㄉㄞˋ"
       },
       {
         "japanese": "滯",
-        "english": "ㄓˋ",
+        "english": "stagnant",
         "furigana": "滯",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "刺",
-        "english": "ㄘˋ",
+        "english": "thorn",
         "furigana": "刺",
         "kana": "ㄘˋ",
         "answer": "ㄘˋ"
       },
       {
         "japanese": "制",
-        "english": "ㄓˋ",
+        "english": "system",
         "furigana": "制",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "製",
-        "english": "ㄓˋ",
+        "english": "to manufacture",
         "furigana": "製",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "云",
-        "english": "ㄩㄣˊ",
+        "english": "to utter",
         "furigana": "云",
         "kana": "ㄩㄣˊ",
         "answer": "ㄩㄣˊ"
       },
       {
         "japanese": "雨",
-        "english": "ㄩˇ",
+        "english": "the rain",
         "furigana": "雨",
         "kana": "ㄩˇ",
         "answer": "ㄩˇ"
       },
       {
         "japanese": "雲",
-        "english": "ㄩㄣˊ",
+        "english": "cloud",
         "furigana": "雲",
         "kana": "ㄩㄣˊ",
         "answer": "ㄩㄣˊ"
       },
       {
         "japanese": "雷",
-        "english": "ㄌㄟˊ",
+        "english": "thunder",
         "furigana": "雷",
         "kana": "ㄌㄟˊ",
         "answer": "ㄌㄟˊ"
       },
       {
         "japanese": "電",
-        "english": "ㄉㄧㄢˋ",
+        "english": "electricity",
         "furigana": "電",
         "kana": "ㄉㄧㄢˋ",
         "answer": "ㄉㄧㄢˋ"
       },
       {
         "japanese": "霜",
-        "english": "ㄕㄨㄤ",
+        "english": "frost",
         "furigana": "霜",
         "kana": "ㄕㄨㄤ",
         "answer": "ㄕㄨㄤ"
       },
       {
         "japanese": "冰",
-        "english": "ㄅㄧㄥ",
+        "english": "ice",
         "furigana": "冰",
         "kana": "ㄅㄧㄥ",
         "answer": "ㄅㄧㄥ"
       },
       {
         "japanese": "冬",
-        "english": "ㄉㄨㄥ",
+        "english": "winter",
         "furigana": "冬",
         "kana": "ㄉㄨㄥ",
         "answer": "ㄉㄨㄥ"
       },
       {
         "japanese": "天",
-        "english": "ㄊㄧㄢ",
+        "english": "heavens",
         "furigana": "天",
         "kana": "ㄊㄧㄢ",
         "answer": "ㄊㄧㄢ"
       },
       {
         "japanese": "夭",
-        "english": "ㄧㄠˇ",
+        "english": "to die young",
         "furigana": "夭",
         "kana": "ㄧㄠˇ",
         "answer": "ㄧㄠˇ"
       },
       {
         "japanese": "喬",
-        "english": "ㄑㄧㄠˊ",
+        "english": "to pretend",
         "furigana": "喬",
         "kana": "ㄑㄧㄠˊ",
         "answer": "ㄑㄧㄠˊ"
       },
       {
         "japanese": "橋",
-        "english": "ㄑㄧㄠˊ",
+        "english": "bridge",
         "furigana": "橋",
         "kana": "ㄑㄧㄠˊ",
         "answer": "ㄑㄧㄠˊ"
       },
       {
         "japanese": "嬌",
-        "english": "ㄐㄧㄠ",
+        "english": "attractive",
         "furigana": "嬌",
         "kana": "ㄐㄧㄠ",
         "answer": "ㄐㄧㄠ"
       },
       {
         "japanese": "立",
-        "english": "ㄌㄧˋ",
+        "english": "standing up",
         "furigana": "立",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "泣",
-        "english": "ㄑㄧˋ",
+        "english": "to weep",
         "furigana": "泣",
         "kana": "ㄑㄧˋ",
         "answer": "ㄑㄧˋ"
       },
       {
         "japanese": "站",
-        "english": "ㄓㄢˋ",
+        "english": "station",
         "furigana": "站",
         "kana": "ㄓㄢˋ",
         "answer": "ㄓㄢˋ"
       },
       {
         "japanese": "章",
-        "english": "ㄓㄤ",
+        "english": "chapter",
         "furigana": "章",
         "kana": "ㄓㄤ",
         "answer": "ㄓㄤ"
       },
       {
         "japanese": "競",
-        "english": "ㄐㄧㄥˋ",
+        "english": "to compete",
         "furigana": "競",
         "kana": "ㄐㄧㄥˋ",
         "answer": "ㄐㄧㄥˋ"
       },
       {
         "japanese": "帝",
-        "english": "ㄉㄧˋ",
+        "english": "sovereign",
         "furigana": "帝",
         "kana": "ㄉㄧˋ",
         "answer": "ㄉㄧˋ"
       },
       {
         "japanese": "童",
-        "english": "ㄊㄨㄥˊ",
+        "english": "juvenile",
         "furigana": "童",
         "kana": "ㄊㄨㄥˊ",
         "answer": "ㄊㄨㄥˊ"
       },
       {
         "japanese": "鐘",
-        "english": "ㄓㄨㄥ",
+        "english": "bell",
         "furigana": "鐘",
         "kana": "ㄓㄨㄥ",
         "answer": "ㄓㄨㄥ"
       },
       {
         "japanese": "商",
-        "english": "ㄕㄤ",
+        "english": "salesman",
         "furigana": "商",
         "kana": "ㄕㄤ",
         "answer": "ㄕㄤ"
       },
       {
         "japanese": "適",
-        "english": "ㄕˋ",
+        "english": "suitable",
         "furigana": "適",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "敵",
-        "english": "ㄉㄧˊ",
+        "english": "enemy",
         "furigana": "敵",
         "kana": "ㄉㄧˊ",
         "answer": "ㄉㄧˊ"
       },
       {
         "japanese": "匕",
-        "english": "ㄅㄧˇ",
+        "english": "ancient spoon",
         "furigana": "匕",
         "kana": "ㄅㄧˇ",
         "answer": "ㄅㄧˇ"
       },
       {
         "japanese": "北",
-        "english": "ㄅㄟˇ",
+        "english": "north",
         "furigana": "北",
         "kana": "ㄅㄟˇ",
         "answer": "ㄅㄟˇ"
       },
       {
         "japanese": "背",
-        "english": "ㄅㄟˋ",
+        "english": "back",
         "furigana": "背",
         "kana": "ㄅㄟˋ",
         "answer": "ㄅㄟˋ"
       },
       {
         "japanese": "比",
-        "english": "ㄅㄧˇ",
+        "english": "to compare",
         "furigana": "比",
         "kana": "ㄅㄧˇ",
         "answer": "ㄅㄧˇ"
       },
       {
         "japanese": "昆",
-        "english": "ㄎㄨㄣ",
+        "english": "descendants",
         "furigana": "昆",
         "kana": "ㄎㄨㄣ",
         "answer": "ㄎㄨㄣ"
       },
       {
         "japanese": "混",
-        "english": "ㄏㄨㄣˋ",
+        "english": "to mix",
         "furigana": "混",
         "kana": "ㄏㄨㄣˋ",
         "answer": "ㄏㄨㄣˋ"
       },
       {
         "japanese": "皆",
-        "english": "ㄐㄧㄝ",
+        "english": "all",
         "furigana": "皆",
         "kana": "ㄐㄧㄝ",
         "answer": "ㄐㄧㄝ"
       },
       {
         "japanese": "此",
-        "english": "ㄘˇ",
+        "english": "this  [literary]",
         "furigana": "此",
         "kana": "ㄘˇ",
         "answer": "ㄘˇ"
       },
       {
         "japanese": "些",
-        "english": "ㄒㄧㄝ",
+        "english": "somewhat",
         "furigana": "些",
         "kana": "ㄒㄧㄝ",
         "answer": "ㄒㄧㄝ"
       },
       {
         "japanese": "它",
-        "english": "ㄊㄚ",
+        "english": "it",
         "furigana": "它",
         "kana": "ㄊㄚ",
         "answer": "ㄊㄚ"
       },
       {
         "japanese": "旨",
-        "english": "ㄓˇ",
+        "english": "purpose",
         "furigana": "旨",
         "kana": "ㄓˇ",
         "answer": "ㄓˇ"
       },
       {
         "japanese": "脂",
-        "english": "ㄓ",
+        "english": "grease",
         "furigana": "脂",
         "kana": "ㄓ",
         "answer": "ㄓ"
       },
       {
         "japanese": "每",
-        "english": "ㄇㄟˇ",
+        "english": "every",
         "furigana": "每",
         "kana": "ㄇㄟˇ",
         "answer": "ㄇㄟˇ"
       },
       {
         "japanese": "梅",
-        "english": "ㄇㄟˊ",
+        "english": "small plum",
         "furigana": "梅",
         "kana": "ㄇㄟˊ",
         "answer": "ㄇㄟˊ"
       },
       {
         "japanese": "海",
-        "english": "ㄏㄞˇ",
+        "english": "sea",
         "furigana": "海",
         "kana": "ㄏㄞˇ",
         "answer": "ㄏㄞˇ"
       },
       {
         "japanese": "乞",
-        "english": "ㄑㄧˇ",
+        "english": "to beg",
         "furigana": "乞",
         "kana": "ㄑㄧˇ",
         "answer": "ㄑㄧˇ"
       },
       {
         "japanese": "吃",
-        "english": "ㄔ",
+        "english": "to eat",
         "furigana": "吃",
         "kana": "ㄔ",
         "answer": "ㄔ"
       },
       {
         "japanese": "乾",
-        "english": "ㄍㄢ",
+        "english": "dry",
         "furigana": "乾",
         "kana": "ㄍㄢ",
         "answer": "ㄍㄢ"
       },
       {
         "japanese": "複",
-        "english": "ㄈㄨˋ",
+        "english": "to duplicate",
         "furigana": "複",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "腹",
-        "english": "ㄈㄨˋ",
+        "english": "abdomen",
         "furigana": "腹",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "欠",
-        "english": "ㄑㄧㄢˋ",
+        "english": "to lack",
         "furigana": "欠",
         "kana": "ㄑㄧㄢˋ",
         "answer": "ㄑㄧㄢˋ"
       },
       {
         "japanese": "吹",
-        "english": "ㄔㄨㄟ",
+        "english": "to blow",
         "furigana": "吹",
         "kana": "ㄔㄨㄟ",
         "answer": "ㄔㄨㄟ"
       },
       {
         "japanese": "歌",
-        "english": "ㄍㄜ",
+        "english": "song",
         "furigana": "歌",
         "kana": "ㄍㄜ",
         "answer": "ㄍㄜ"
       },
       {
         "japanese": "軟",
-        "english": "ㄖㄨㄢˇ",
+        "english": "soft",
         "furigana": "軟",
         "kana": "ㄖㄨㄢˇ",
         "answer": "ㄖㄨㄢˇ"
       },
       {
         "japanese": "次",
-        "english": "ㄘˋ",
+        "english": "next",
         "furigana": "次",
         "kana": "ㄘˋ",
         "answer": "ㄘˋ"
       },
       {
         "japanese": "資",
-        "english": "ㄗ",
+        "english": "assets",
         "furigana": "資",
         "kana": "ㄗ",
         "answer": "ㄗ"
       },
       {
         "japanese": "姿",
-        "english": "ㄗ",
+        "english": "looks",
         "furigana": "姿",
         "kana": "ㄗ",
         "answer": "ㄗ"
       },
       {
         "japanese": "諮",
-        "english": "ㄗ",
+        "english": "to consult with",
         "furigana": "諮",
         "kana": "ㄗ",
         "answer": "ㄗ"
       },
       {
         "japanese": "賠",
-        "english": "ㄆㄟˊ",
+        "english": "to compensate",
         "furigana": "賠",
         "kana": "ㄆㄟˊ",
         "answer": "ㄆㄟˊ"
       },
       {
         "japanese": "培",
-        "english": "ㄆㄟˊ",
+        "english": "to cultivate",
         "furigana": "培",
         "kana": "ㄆㄟˊ",
         "answer": "ㄆㄟˊ"
       },
       {
         "japanese": "音",
-        "english": "ㄧㄣ",
+        "english": "sound",
         "furigana": "音",
         "kana": "ㄧㄣ",
         "answer": "ㄧㄣ"
       },
       {
         "japanese": "暗",
-        "english": "ㄢˋ",
+        "english": "dark",
         "furigana": "暗",
         "kana": "ㄢˋ",
         "answer": "ㄢˋ"
       },
       {
         "japanese": "韻",
-        "english": "ㄩㄣˋ",
+        "english": "rhyme",
         "furigana": "韻",
         "kana": "ㄩㄣˋ",
         "answer": "ㄩㄣˋ"
       },
       {
         "japanese": "識",
-        "english": "ㄕˋ",
+        "english": "knowledge",
         "furigana": "識",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "幟",
-        "english": "ㄓˋ",
+        "english": "streamer",
         "furigana": "幟",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "竟",
-        "english": "ㄐㄧㄥˋ",
+        "english": "unexpectedly",
         "furigana": "竟",
         "kana": "ㄐㄧㄥˋ",
         "answer": "ㄐㄧㄥˋ"
       },
       {
         "japanese": "鏡",
-        "english": "ㄐㄧㄥˋ",
+        "english": "mirror",
         "furigana": "鏡",
         "kana": "ㄐㄧㄥˋ",
         "answer": "ㄐㄧㄥˋ"
       },
       {
         "japanese": "境",
-        "english": "ㄐㄧㄥˋ",
+        "english": "boundary",
         "furigana": "境",
         "kana": "ㄐㄧㄥˋ",
         "answer": "ㄐㄧㄥˋ"
       },
       {
         "japanese": "亡",
-        "english": "ㄨㄤˊ",
+        "english": "deceased",
         "furigana": "亡",
         "kana": "ㄨㄤˊ",
         "answer": "ㄨㄤˊ"
       },
       {
         "japanese": "盲",
-        "english": "ㄇㄤˊ",
+        "english": "blind",
         "furigana": "盲",
         "kana": "ㄇㄤˊ",
         "answer": "ㄇㄤˊ"
       },
       {
         "japanese": "妄",
-        "english": "ㄨㄤˋ",
+        "english": "absurd",
         "furigana": "妄",
         "kana": "ㄨㄤˋ",
         "answer": "ㄨㄤˋ"
       },
       {
         "japanese": "望",
-        "english": "ㄨㄤˋ",
+        "english": "to expect",
         "furigana": "望",
         "kana": "ㄨㄤˋ",
         "answer": "ㄨㄤˋ"
       },
       {
         "japanese": "方",
-        "english": "ㄈㄤ",
+        "english": "direction",
         "furigana": "方",
         "kana": "ㄈㄤ",
         "answer": "ㄈㄤ"
       },
       {
         "japanese": "妨",
-        "english": "ㄈㄤˊ",
+        "english": "to hinder",
         "furigana": "妨",
         "kana": "ㄈㄤˊ",
         "answer": "ㄈㄤˊ"
       },
       {
         "japanese": "放",
-        "english": "ㄈㄤˋ",
+        "english": "to release",
         "furigana": "放",
         "kana": "ㄈㄤˋ",
         "answer": "ㄈㄤˋ"
       },
       {
         "japanese": "激",
-        "english": "ㄐㄧ",
+        "english": "to excite",
         "furigana": "激",
         "kana": "ㄐㄧ",
         "answer": "ㄐㄧ"
       },
       {
         "japanese": "於",
-        "english": "ㄩˊ",
+        "english": "[all-purpose preposition]",
         "furigana": "於",
         "kana": "ㄩˊ",
         "answer": "ㄩˊ"
       },
       {
         "japanese": "旁",
-        "english": "ㄆㄤˊ",
+        "english": "side",
         "furigana": "旁",
         "kana": "ㄆㄤˊ",
         "answer": "ㄆㄤˊ"
       },
       {
         "japanese": "兌",
-        "english": "ㄉㄨㄟˋ",
+        "english": "to convert",
         "furigana": "兌",
         "kana": "ㄉㄨㄟˋ",
         "answer": "ㄉㄨㄟˋ"
       },
       {
         "japanese": "脫",
-        "english": "ㄊㄨㄛ",
+        "english": "to undress",
         "furigana": "脫",
         "kana": "ㄊㄨㄛ",
         "answer": "ㄊㄨㄛ"
       },
       {
         "japanese": "說",
-        "english": "ㄕㄨㄛ",
+        "english": "to speak",
         "furigana": "說",
         "kana": "ㄕㄨㄛ",
         "answer": "ㄕㄨㄛ"
       },
       {
         "japanese": "曾",
-        "english": "ㄘㄥˊ",
+        "english": "formerly",
         "furigana": "曾",
         "kana": "ㄘㄥˊ",
         "answer": "ㄘㄥˊ"
       },
       {
         "japanese": "增",
-        "english": "ㄗㄥ",
+        "english": "to increase",
         "furigana": "增",
         "kana": "ㄗㄥ",
         "answer": "ㄗㄥ"
       },
       {
         "japanese": "贈",
-        "english": "ㄗㄥˋ",
+        "english": "to make a present of",
         "furigana": "贈",
         "kana": "ㄗㄥˋ",
         "answer": "ㄗㄥˋ"
       },
       {
         "japanese": "東",
-        "english": "ㄉㄨㄥ",
+        "english": "east",
         "furigana": "東",
         "kana": "ㄉㄨㄥ",
         "answer": "ㄉㄨㄥ"
       },
       {
         "japanese": "棟",
-        "english": "ㄉㄨㄥˋ",
+        "english": "building",
         "furigana": "棟",
         "kana": "ㄉㄨㄥˋ",
         "answer": "ㄉㄨㄥˋ"
       },
       {
         "japanese": "凍",
-        "english": "ㄉㄨㄥˋ",
+        "english": "to freeze",
         "furigana": "凍",
         "kana": "ㄉㄨㄥˋ",
         "answer": "ㄉㄨㄥˋ"
       },
       {
         "japanese": "也",
-        "english": "ㄧㄝˇ",
+        "english": "also",
         "furigana": "也",
         "kana": "ㄧㄝˇ",
         "answer": "ㄧㄝˇ"
       },
       {
         "japanese": "她",
-        "english": "ㄊㄚ",
+        "english": "she",
         "furigana": "她",
         "kana": "ㄊㄚ",
         "answer": "ㄊㄚ"
       },
       {
         "japanese": "地",
-        "english": "ㄉㄧˋ",
+        "english": "ground",
         "furigana": "地",
         "kana": "ㄉㄧˋ",
         "answer": "ㄉㄧˋ"
       },
       {
         "japanese": "池",
-        "english": "ㄔˊ",
+        "english": "pond",
         "furigana": "池",
         "kana": "ㄔˊ",
         "answer": "ㄔˊ"
       },
       {
         "japanese": "蟲",
-        "english": "ㄔㄨㄥˊ",
+        "english": "insects",
         "furigana": "蟲",
         "kana": "ㄔㄨㄥˊ",
         "answer": "ㄔㄨㄥˊ"
       },
       {
         "japanese": "蛇",
-        "english": "ㄕㄜˊ",
+        "english": "serpent",
         "furigana": "蛇",
         "kana": "ㄕㄜˊ",
         "answer": "ㄕㄜˊ"
       },
       {
         "japanese": "蛋",
-        "english": "ㄉㄢˋ",
+        "english": "egg",
         "furigana": "蛋",
         "kana": "ㄉㄢˋ",
         "answer": "ㄉㄢˋ"
       },
       {
         "japanese": "風",
-        "english": "ㄈㄥ",
+        "english": "the wind",
         "furigana": "風",
         "kana": "ㄈㄥ",
         "answer": "ㄈㄥ"
       },
       {
         "japanese": "諷",
-        "english": "ㄈㄥˋ",
+        "english": "to mock",
         "furigana": "諷",
         "kana": "ㄈㄥˋ",
         "answer": "ㄈㄥˋ"
       },
       {
         "japanese": "己",
-        "english": "ㄐㄧˇ",
+        "english": "self",
         "furigana": "己",
         "kana": "ㄐㄧˇ",
         "answer": "ㄐㄧˇ"
       },
       {
         "japanese": "改",
-        "english": "ㄍㄞˇ",
+        "english": "to alter",
         "furigana": "改",
         "kana": "ㄍㄞˇ",
         "answer": "ㄍㄞˇ"
       },
       {
         "japanese": "記",
-        "english": "ㄐㄧˋ",
+        "english": "to remember",
         "furigana": "記",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "已",
-        "english": "ㄧˇ",
+        "english": "already",
         "furigana": "已",
         "kana": "ㄧˇ",
         "answer": "ㄧˇ"
       },
       {
         "japanese": "包",
-        "english": "ㄅㄠ",
+        "english": "to wrap",
         "furigana": "包",
         "kana": "ㄅㄠ",
         "answer": "ㄅㄠ"
       },
       {
         "japanese": "泡",
-        "english": "ㄆㄠˋ",
+        "english": "bubbles",
         "furigana": "泡",
         "kana": "ㄆㄠˋ",
         "answer": "ㄆㄠˋ"
       },
       {
         "japanese": "起",
-        "english": "ㄑㄧˇ",
+        "english": "to begin",
         "furigana": "起",
         "kana": "ㄑㄧˇ",
         "answer": "ㄑㄧˇ"
       },
       {
         "japanese": "家",
-        "english": "ㄐㄧㄚ",
+        "english": "house",
         "furigana": "家",
         "kana": "ㄐㄧㄚ",
         "answer": "ㄐㄧㄚ"
       },
       {
         "japanese": "場",
-        "english": "ㄔㄤˊ",
+        "english": "site",
         "furigana": "場",
         "kana": "ㄔㄤˊ",
         "answer": "ㄔㄤˊ"
       },
       {
         "japanese": "湯",
-        "english": "ㄊㄤ",
+        "english": "soup",
         "furigana": "湯",
         "kana": "ㄊㄤ",
         "answer": "ㄊㄤ"
       },
       {
         "japanese": "羊",
-        "english": "ㄧㄤˊ",
+        "english": "sheep",
         "furigana": "羊",
         "kana": "ㄧㄤˊ",
         "answer": "ㄧㄤˊ"
       },
       {
         "japanese": "美",
-        "english": "ㄇㄟˇ",
+        "english": "beautiful",
         "furigana": "美",
         "kana": "ㄇㄟˇ",
         "answer": "ㄇㄟˇ"
       },
       {
         "japanese": "洋",
-        "english": "ㄧㄤˊ",
+        "english": "ocean",
         "furigana": "洋",
         "kana": "ㄧㄤˊ",
         "answer": "ㄧㄤˊ"
       },
       {
         "japanese": "鮮",
-        "english": "ㄒㄧㄢ",
+        "english": "fresh",
         "furigana": "鮮",
         "kana": "ㄒㄧㄢ",
         "answer": "ㄒㄧㄢ"
       },
       {
         "japanese": "達",
-        "english": "ㄉㄚˊ",
+        "english": "to reach",
         "furigana": "達",
         "kana": "ㄉㄚˊ",
         "answer": "ㄉㄚˊ"
       },
       {
         "japanese": "樣",
-        "english": "ㄧㄤˋ",
+        "english": "appearance",
         "furigana": "樣",
         "kana": "ㄧㄤˋ",
         "answer": "ㄧㄤˋ"
       },
       {
         "japanese": "差",
-        "english": "ㄔㄚ",
+        "english": "to fall short of",
         "furigana": "差",
         "kana": "ㄔㄚ",
         "answer": "ㄔㄚ"
       },
       {
         "japanese": "集",
-        "english": "ㄐㄧˊ",
+        "english": "to gather",
         "furigana": "集",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "進",
-        "english": "ㄐㄧㄣˋ",
+        "english": "to advance",
         "furigana": "進",
         "kana": "ㄐㄧㄣˋ",
         "answer": "ㄐㄧㄣˋ"
       },
       {
         "japanese": "準",
-        "english": "ㄓㄨㄣˇ",
+        "english": "standard",
         "furigana": "準",
         "kana": "ㄓㄨㄣˇ",
         "answer": "ㄓㄨㄣˇ"
       },
       {
         "japanese": "誰",
-        "english": "ㄕㄟˊ",
+        "english": "who?",
         "furigana": "誰",
         "kana": "ㄕㄟˊ",
         "answer": "ㄕㄟˊ"
       },
       {
         "japanese": "售",
-        "english": "ㄕㄡˋ",
+        "english": "to vend",
         "furigana": "售",
         "kana": "ㄕㄡˋ",
         "answer": "ㄕㄡˋ"
       },
       {
         "japanese": "雖",
-        "english": "ㄙㄨㄟ",
+        "english": "although",
         "furigana": "雖",
         "kana": "ㄙㄨㄟ",
         "answer": "ㄙㄨㄟ"
       },
       {
         "japanese": "確",
-        "english": "ㄑㄩㄝˋ",
+        "english": "reliable",
         "furigana": "確",
         "kana": "ㄑㄩㄝˋ",
         "answer": "ㄑㄩㄝˋ"
       },
       {
         "japanese": "午",
-        "english": "ㄨˇ",
+        "english": "noon",
         "furigana": "午",
         "kana": "ㄨˇ",
         "answer": "ㄨˇ"
       },
       {
         "japanese": "許",
-        "english": "ㄒㄩˇ",
+        "english": "to permit",
         "furigana": "許",
         "kana": "ㄒㄩˇ",
         "answer": "ㄒㄩˇ"
       },
       {
         "japanese": "羽",
-        "english": "ㄩˇ",
+        "english": "feathers",
         "furigana": "羽",
         "kana": "ㄩˇ",
         "answer": "ㄩˇ"
       },
       {
         "japanese": "習",
-        "english": "ㄒㄧˊ",
+        "english": "to learn",
         "furigana": "習",
         "kana": "ㄒㄧˊ",
         "answer": "ㄒㄧˊ"
       },
       {
         "japanese": "翔",
-        "english": "ㄒㄧㄤˊ",
+        "english": "to soar",
         "furigana": "翔",
         "kana": "ㄒㄧㄤˊ",
         "answer": "ㄒㄧㄤˊ"
       },
       {
         "japanese": "困",
-        "english": "ㄎㄨㄣˋ",
+        "english": "trapped",
         "furigana": "困",
         "kana": "ㄎㄨㄣˋ",
         "answer": "ㄎㄨㄣˋ"
       },
       {
         "japanese": "固",
-        "english": "ㄍㄨˋ",
+        "english": "solid",
         "furigana": "固",
         "kana": "ㄍㄨˋ",
         "answer": "ㄍㄨˋ"
       },
       {
         "japanese": "國",
-        "english": "ㄍㄨㄛˊ",
+        "english": "country",
         "furigana": "國",
         "kana": "ㄍㄨㄛˊ",
         "answer": "ㄍㄨㄛˊ"
       },
       {
         "japanese": "圓",
-        "english": "ㄩㄢˊ",
+        "english": "round",
         "furigana": "圓",
         "kana": "ㄩㄢˊ",
         "answer": "ㄩㄢˊ"
       },
       {
         "japanese": "因",
-        "english": "ㄧㄣ",
+        "english": "a cause",
         "furigana": "因",
         "kana": "ㄧㄣ",
         "answer": "ㄧㄣ"
       },
       {
         "japanese": "園",
-        "english": "ㄩㄢˊ",
+        "english": "park",
         "furigana": "園",
         "kana": "ㄩㄢˊ",
         "answer": "ㄩㄢˊ"
       },
       {
         "japanese": "回",
-        "english": "ㄏㄨㄟˊ",
+        "english": "to return",
         "furigana": "回",
         "kana": "ㄏㄨㄟˊ",
         "answer": "ㄏㄨㄟˊ"
       },
       {
         "japanese": "迴",
-        "english": "ㄏㄨㄟˊ",
+        "english": "to revolve",
         "furigana": "迴",
         "kana": "ㄏㄨㄟˊ",
         "answer": "ㄏㄨㄟˊ"
       },
       {
         "japanese": "圖",
-        "english": "ㄊㄨˊ",
+        "english": "picture",
         "furigana": "圖",
         "kana": "ㄊㄨˊ",
         "answer": "ㄊㄨˊ"
       },
       {
         "japanese": "店",
-        "english": "ㄉㄧㄢˋ",
+        "english": "a store",
         "furigana": "店",
         "kana": "ㄉㄧㄢˋ",
         "answer": "ㄉㄧㄢˋ"
       },
       {
         "japanese": "庫",
-        "english": "ㄎㄨˋ",
+        "english": "warehouse",
         "furigana": "庫",
         "kana": "ㄎㄨˋ",
         "answer": "ㄎㄨˋ"
       },
       {
         "japanese": "褲",
-        "english": "ㄎㄨˋ",
+        "english": "trousers",
         "furigana": "褲",
         "kana": "ㄎㄨˋ",
         "answer": "ㄎㄨˋ"
       },
       {
         "japanese": "廠",
-        "english": "ㄔㄤˇ",
+        "english": "factory",
         "furigana": "廠",
         "kana": "ㄔㄤˇ",
         "answer": "ㄔㄤˇ"
       },
       {
         "japanese": "床",
-        "english": "ㄔㄨㄤˊ",
+        "english": "bed",
         "furigana": "床",
         "kana": "ㄔㄨㄤˊ",
         "answer": "ㄔㄨㄤˊ"
       },
       {
         "japanese": "麻",
-        "english": "ㄇㄚˊ",
+        "english": "hemp",
         "furigana": "麻",
         "kana": "ㄇㄚˊ",
         "answer": "ㄇㄚˊ"
       },
       {
         "japanese": "心",
-        "english": "ㄒㄧㄣ",
+        "english": "heart",
         "furigana": "心",
         "kana": "ㄒㄧㄣ",
         "answer": "ㄒㄧㄣ"
       },
       {
         "japanese": "忘",
-        "english": "ㄨㄤˋ",
+        "english": "to forget",
         "furigana": "忘",
         "kana": "ㄨㄤˋ",
         "answer": "ㄨㄤˋ"
       },
       {
         "japanese": "忍",
-        "english": "ㄖㄣˇ",
+        "english": "to endure",
         "furigana": "忍",
         "kana": "ㄖㄣˇ",
         "answer": "ㄖㄣˇ"
       },
       {
         "japanese": "認",
-        "english": "ㄖㄣˋ",
+        "english": "to recognize",
         "furigana": "認",
         "kana": "ㄖㄣˋ",
         "answer": "ㄖㄣˋ"
       },
       {
         "japanese": "志",
-        "english": "ㄓˋ",
+        "english": "aspiration",
         "furigana": "志",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "誌",
-        "english": "ㄓˋ",
+        "english": "annals",
         "furigana": "誌",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "思",
-        "english": "ㄙ",
+        "english": "to consider",
         "furigana": "思",
         "kana": "ㄙ",
         "answer": "ㄙ"
       },
       {
         "japanese": "意",
-        "english": "ㄧˋ",
+        "english": "idea",
         "furigana": "意",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "想",
-        "english": "ㄒㄧㄤˇ",
+        "english": "to think",
         "furigana": "想",
         "kana": "ㄒㄧㄤˇ",
         "answer": "ㄒㄧㄤˇ"
       },
       {
         "japanese": "息",
-        "english": "ㄒㄧˊ",
+        "english": "breath",
         "furigana": "息",
         "kana": "ㄒㄧˊ",
         "answer": "ㄒㄧˊ"
       },
       {
         "japanese": "恐",
-        "english": "ㄎㄨㄥˇ",
+        "english": "to fear",
         "furigana": "恐",
         "kana": "ㄎㄨㄥˇ",
         "answer": "ㄎㄨㄥˇ"
       },
       {
         "japanese": "感",
-        "english": "ㄍㄢˇ",
+        "english": "to feel",
         "furigana": "感",
         "kana": "ㄍㄢˇ",
         "answer": "ㄍㄢˇ"
       },
       {
         "japanese": "憾",
-        "english": "ㄏㄢˋ",
+        "english": "a regret",
         "furigana": "憾",
         "kana": "ㄏㄢˋ",
         "answer": "ㄏㄢˋ"
       },
       {
         "japanese": "憂",
-        "english": "ㄧㄡ",
+        "english": "worried",
         "furigana": "憂",
         "kana": "ㄧㄡ",
         "answer": "ㄧㄡ"
       },
       {
         "japanese": "怕",
-        "english": "ㄆㄚˋ",
+        "english": "to dread",
         "furigana": "怕",
         "kana": "ㄆㄚˋ",
         "answer": "ㄆㄚˋ"
       },
       {
         "japanese": "忙",
-        "english": "ㄇㄤˊ",
+        "english": "busy",
         "furigana": "忙",
         "kana": "ㄇㄤˊ",
         "answer": "ㄇㄤˊ"
       },
       {
         "japanese": "慣",
-        "english": "ㄍㄨㄢˋ",
+        "english": "accustomed to",
         "furigana": "慣",
         "kana": "ㄍㄨㄢˋ",
         "answer": "ㄍㄨㄢˋ"
       },
       {
         "japanese": "懷",
-        "english": "ㄏㄨㄞˊ",
+        "english": "to cherish",
         "furigana": "懷",
         "kana": "ㄏㄨㄞˊ",
         "answer": "ㄏㄨㄞˊ"
       },
       {
         "japanese": "必",
-        "english": "ㄅㄧˋ",
+        "english": "certainly",
         "furigana": "必",
         "kana": "ㄅㄧˋ",
         "answer": "ㄅㄧˋ"
       },
       {
         "japanese": "手",
-        "english": "ㄕㄡˇ",
+        "english": "hand",
         "furigana": "手",
         "kana": "ㄕㄡˇ",
         "answer": "ㄕㄡˇ"
       },
       {
         "japanese": "看",
-        "english": "ㄎㄢˋ",
+        "english": "to look at",
         "furigana": "看",
         "kana": "ㄎㄢˋ",
         "answer": "ㄎㄢˋ"
       },
       {
         "japanese": "拿",
-        "english": "ㄋㄚˊ",
+        "english": "to hold",
         "furigana": "拿",
         "kana": "ㄋㄚˊ",
         "answer": "ㄋㄚˊ"
       },
       {
         "japanese": "我",
-        "english": "ㄨㄛˇ",
+        "english": "i",
         "furigana": "我",
         "kana": "ㄨㄛˇ",
         "answer": "ㄨㄛˇ"
       },
       {
         "japanese": "義",
-        "english": "ㄧˋ",
+        "english": "righteousness",
         "furigana": "義",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "議",
-        "english": "ㄧˋ",
+        "english": "to deliberate",
         "furigana": "議",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "蟻",
-        "english": "ㄧˇ",
+        "english": "ant",
         "furigana": "蟻",
         "kana": "ㄧˇ",
         "answer": "ㄧˇ"
       },
       {
         "japanese": "抱",
-        "english": "ㄅㄠˋ",
+        "english": "to embrace",
         "furigana": "抱",
         "kana": "ㄅㄠˋ",
         "answer": "ㄅㄠˋ"
       },
       {
         "japanese": "抗",
-        "english": "ㄎㄤˋ",
+        "english": "to combat",
         "furigana": "抗",
         "kana": "ㄎㄤˋ",
         "answer": "ㄎㄤˋ"
       },
       {
         "japanese": "批",
-        "english": "ㄆㄧ",
+        "english": "to criticize",
         "furigana": "批",
         "kana": "ㄆㄧ",
         "answer": "ㄆㄧ"
       },
       {
         "japanese": "招",
-        "english": "ㄓㄠ",
+        "english": "to beckon",
         "furigana": "招",
         "kana": "ㄓㄠ",
         "answer": "ㄓㄠ"
       },
       {
         "japanese": "打",
-        "english": "ㄉㄚˇ",
+        "english": "to strike",
         "furigana": "打",
         "kana": "ㄉㄚˇ",
         "answer": "ㄉㄚˇ"
       },
       {
         "japanese": "指",
-        "english": "ㄓˇ",
+        "english": "finger",
         "furigana": "指",
         "kana": "ㄓˇ",
         "answer": "ㄓˇ"
       },
       {
         "japanese": "持",
-        "english": "ㄔˊ",
+        "english": "to support",
         "furigana": "持",
         "kana": "ㄔˊ",
         "answer": "ㄔˊ"
       },
       {
         "japanese": "括",
-        "english": "ㄍㄨㄚ",
+        "english": "to include",
         "furigana": "括",
         "kana": "ㄍㄨㄚ",
         "answer": "ㄍㄨㄚ"
       },
       {
         "japanese": "提",
-        "english": "ㄊㄧˊ",
+        "english": "to bring up",
         "furigana": "提",
         "kana": "ㄊㄧˊ",
         "answer": "ㄊㄧˊ"
       },
       {
         "japanese": "揮",
-        "english": "ㄏㄨㄟ",
+        "english": "to brandish",
         "furigana": "揮",
         "kana": "ㄏㄨㄟ",
         "answer": "ㄏㄨㄟ"
       },
       {
         "japanese": "推",
-        "english": "ㄊㄨㄟ",
+        "english": "to push",
         "furigana": "推",
         "kana": "ㄊㄨㄟ",
         "answer": "ㄊㄨㄟ"
       },
       {
         "japanese": "接",
-        "english": "ㄐㄧㄝ",
+        "english": "to welcome",
         "furigana": "接",
         "kana": "ㄐㄧㄝ",
         "answer": "ㄐㄧㄝ"
       },
       {
         "japanese": "掛",
-        "english": "ㄍㄨㄚˋ",
+        "english": "to hang",
         "furigana": "掛",
         "kana": "ㄍㄨㄚˋ",
         "answer": "ㄍㄨㄚˋ"
       },
       {
         "japanese": "按",
-        "english": "ㄢˋ",
+        "english": "to press down on",
         "furigana": "按",
         "kana": "ㄢˋ",
         "answer": "ㄢˋ"
       },
       {
         "japanese": "掉",
-        "english": "ㄉㄧㄠˋ",
+        "english": "to drop",
         "furigana": "掉",
         "kana": "ㄉㄧㄠˋ",
         "answer": "ㄉㄧㄠˋ"
       },
       {
         "japanese": "拉",
-        "english": "ㄌㄚ",
+        "english": "to pull",
         "furigana": "拉",
         "kana": "ㄌㄚ",
         "answer": "ㄌㄚ"
       },
       {
         "japanese": "啦",
-        "english": "ㄌㄚ˙",
+        "english": "!!",
         "furigana": "啦",
         "kana": "ㄌㄚ˙",
         "answer": "ㄌㄚ˙"
       },
       {
         "japanese": "找",
-        "english": "ㄓㄠˇ",
+        "english": "to look for",
         "furigana": "找",
         "kana": "ㄓㄠˇ",
         "answer": "ㄓㄠˇ"
       },
       {
         "japanese": "研",
-        "english": "ㄧㄢˊ",
+        "english": "to grind away",
         "furigana": "研",
         "kana": "ㄧㄢˊ",
         "answer": "ㄧㄢˊ"
       },
       {
         "japanese": "弄",
-        "english": "ㄋㄨㄥˋ",
+        "english": "to play with",
         "furigana": "弄",
         "kana": "ㄋㄨㄥˋ",
         "answer": "ㄋㄨㄥˋ"
       },
       {
         "japanese": "鼻",
-        "english": "ㄅㄧˊ",
+        "english": "nose",
         "furigana": "鼻",
         "kana": "ㄅㄧˊ",
         "answer": "ㄅㄧˊ"
       },
       {
         "japanese": "刑",
-        "english": "ㄒㄧㄥˊ",
+        "english": "punishment",
         "furigana": "刑",
         "kana": "ㄒㄧㄥˊ",
         "answer": "ㄒㄧㄥˊ"
       },
       {
         "japanese": "型",
-        "english": "ㄒㄧㄥˊ",
+        "english": "mold",
         "furigana": "型",
         "kana": "ㄒㄧㄥˊ",
         "answer": "ㄒㄧㄥˊ"
       },
       {
         "japanese": "才",
-        "english": "ㄘㄞˊ",
+        "english": "genius",
         "furigana": "才",
         "kana": "ㄘㄞˊ",
         "answer": "ㄘㄞˊ"
       },
       {
         "japanese": "財",
-        "english": "ㄘㄞˊ",
+        "english": "riches",
         "furigana": "財",
         "kana": "ㄘㄞˊ",
         "answer": "ㄘㄞˊ"
       },
       {
         "japanese": "存",
-        "english": "ㄘㄨㄣˊ",
+        "english": "to deposit",
         "furigana": "存",
         "kana": "ㄘㄨㄣˊ",
         "answer": "ㄘㄨㄣˊ"
       },
       {
         "japanese": "在",
-        "english": "ㄗㄞˋ",
+        "english": "at",
         "furigana": "在",
         "kana": "ㄗㄞˋ",
         "answer": "ㄗㄞˋ"
       },
       {
         "japanese": "乃",
-        "english": "ㄋㄞˇ",
+        "english": "only then",
         "furigana": "乃",
         "kana": "ㄋㄞˇ",
         "answer": "ㄋㄞˇ"
       },
       {
         "japanese": "奶",
-        "english": "ㄋㄞˇ",
+        "english": "milk",
         "furigana": "奶",
         "kana": "ㄋㄞˇ",
         "answer": "ㄋㄞˇ"
       },
       {
         "japanese": "及",
-        "english": "ㄐㄧˊ",
+        "english": "to catch up with",
         "furigana": "及",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "吸",
-        "english": "ㄒㄧ",
+        "english": "to suck in",
         "furigana": "吸",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "史",
-        "english": "ㄕˇ",
+        "english": "history",
         "furigana": "史",
         "kana": "ㄕˇ",
         "answer": "ㄕˇ"
       },
       {
         "japanese": "更",
-        "english": "ㄍㄥˋ",
+        "english": "even more",
         "furigana": "更",
         "kana": "ㄍㄥˋ",
         "answer": "ㄍㄥˋ"
       },
       {
         "japanese": "硬",
-        "english": "ㄧㄥˋ",
+        "english": "hard",
         "furigana": "硬",
         "kana": "ㄧㄥˋ",
         "answer": "ㄧㄥˋ"
       },
       {
         "japanese": "又",
-        "english": "ㄧㄡˋ",
+        "english": "again",
         "furigana": "又",
         "kana": "ㄧㄡˋ",
         "answer": "ㄧㄡˋ"
       },
       {
         "japanese": "友",
-        "english": "ㄧㄡˇ",
+        "english": "friend",
         "furigana": "友",
         "kana": "ㄧㄡˇ",
         "answer": "ㄧㄡˇ"
       },
       {
         "japanese": "雙",
-        "english": "ㄕㄨㄤ",
+        "english": "pair",
         "furigana": "雙",
         "kana": "ㄕㄨㄤ",
         "answer": "ㄕㄨㄤ"
       },
       {
         "japanese": "隻",
-        "english": "ㄓ",
+        "english": "one of a pair",
         "furigana": "隻",
         "kana": "ㄓ",
         "answer": "ㄓ"
       },
       {
         "japanese": "護",
-        "english": "ㄏㄨˋ",
+        "english": "to protect",
         "furigana": "護",
         "kana": "ㄏㄨˋ",
         "answer": "ㄏㄨˋ"
       },
       {
         "japanese": "獲",
-        "english": "ㄏㄨㄛˋ",
+        "english": "to seize",
         "furigana": "獲",
         "kana": "ㄏㄨㄛˋ",
         "answer": "ㄏㄨㄛˋ"
       },
       {
         "japanese": "觀",
-        "english": "ㄍㄨㄢ",
+        "english": "to observe",
         "furigana": "觀",
         "kana": "ㄍㄨㄢ",
         "answer": "ㄍㄨㄢ"
       },
       {
         "japanese": "歡",
-        "english": "ㄏㄨㄢ",
+        "english": "joyous",
         "furigana": "歡",
         "kana": "ㄏㄨㄢ",
         "answer": "ㄏㄨㄢ"
       },
       {
         "japanese": "投",
-        "english": "ㄊㄡˊ",
+        "english": "to throw",
         "furigana": "投",
         "kana": "ㄊㄡˊ",
         "answer": "ㄊㄡˊ"
       },
       {
         "japanese": "沒",
-        "english": "ㄇㄟˊ",
+        "english": "to not have",
         "furigana": "沒",
         "kana": "ㄇㄟˊ",
         "answer": "ㄇㄟˊ"
       },
       {
         "japanese": "設",
-        "english": "ㄕㄜˋ",
+        "english": "to establish",
         "furigana": "設",
         "kana": "ㄕㄜˋ",
         "answer": "ㄕㄜˋ"
       },
       {
         "japanese": "股",
-        "english": "ㄍㄨˇ",
+        "english": "thigh",
         "furigana": "股",
         "kana": "ㄍㄨˇ",
         "answer": "ㄍㄨˇ"
       },
       {
         "japanese": "支",
-        "english": "ㄓ",
+        "english": "offshoot",
         "furigana": "支",
         "kana": "ㄓ",
         "answer": "ㄓ"
       },
       {
         "japanese": "技",
-        "english": "ㄐㄧˋ",
+        "english": "skill",
         "furigana": "技",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "枝",
-        "english": "ㄓ",
+        "english": "branch",
         "furigana": "枝",
         "kana": "ㄓ",
         "answer": "ㄓ"
       },
       {
         "japanese": "叔",
-        "english": "ㄕㄨˊ",
+        "english": "(paternal older) uncle",
         "furigana": "叔",
         "kana": "ㄕㄨˊ",
         "answer": "ㄕㄨˊ"
       },
       {
         "japanese": "督",
-        "english": "ㄉㄨ",
+        "english": "superintend",
         "furigana": "督",
         "kana": "ㄉㄨ",
         "answer": "ㄉㄨ"
       },
       {
         "japanese": "寂",
-        "english": "ㄐㄧˊ",
+        "english": "lonely",
         "furigana": "寂",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "反",
-        "english": "ㄈㄢˇ",
+        "english": "against",
         "furigana": "反",
         "kana": "ㄈㄢˇ",
         "answer": "ㄈㄢˇ"
       },
       {
         "japanese": "板",
-        "english": "ㄅㄢˇ",
+        "english": "plank",
         "furigana": "板",
         "kana": "ㄅㄢˇ",
         "answer": "ㄅㄢˇ"
       },
       {
         "japanese": "返",
-        "english": "ㄈㄢˇ",
+        "english": "to go back",
         "furigana": "返",
         "kana": "ㄈㄢˇ",
         "answer": "ㄈㄢˇ"
       },
       {
         "japanese": "派",
-        "english": "ㄆㄞˋ",
+        "english": "faction",
         "furigana": "派",
         "kana": "ㄆㄞˋ",
         "answer": "ㄆㄞˋ"
       },
       {
         "japanese": "脈",
-        "english": "ㄇㄞˋ",
+        "english": "blood vessels",
         "furigana": "脈",
         "kana": "ㄇㄞˋ",
         "answer": "ㄇㄞˋ"
       },
       {
         "japanese": "爪",
-        "english": "ㄓㄠˇ",
+        "english": "a claw",
         "furigana": "爪",
         "kana": "ㄓㄠˇ",
         "answer": "ㄓㄠˇ"
       },
       {
         "japanese": "抓",
-        "english": "ㄓㄨㄚ",
+        "english": "to grab",
         "furigana": "抓",
         "kana": "ㄓㄨㄚ",
         "answer": "ㄓㄨㄚ"
       },
       {
         "japanese": "采",
-        "english": "ㄘㄞˇ",
+        "english": "to pluck",
         "furigana": "采",
         "kana": "ㄘㄞˇ",
         "answer": "ㄘㄞˇ"
       },
       {
         "japanese": "採",
-        "english": "ㄘㄞˇ",
+        "english": "to pick",
         "furigana": "採",
         "kana": "ㄘㄞˇ",
         "answer": "ㄘㄞˇ"
       },
       {
         "japanese": "菜",
-        "english": "ㄘㄞˋ",
+        "english": "vegetable",
         "furigana": "菜",
         "kana": "ㄘㄞˋ",
         "answer": "ㄘㄞˋ"
       },
       {
         "japanese": "受",
-        "english": "ㄕㄡˋ",
+        "english": "to accept",
         "furigana": "受",
         "kana": "ㄕㄡˋ",
         "answer": "ㄕㄡˋ"
       },
       {
         "japanese": "授",
-        "english": "ㄕㄡˋ",
+        "english": "to confer",
         "furigana": "授",
         "kana": "ㄕㄡˋ",
         "answer": "ㄕㄡˋ"
       },
       {
         "japanese": "愛",
-        "english": "ㄞˋ",
+        "english": "love",
         "furigana": "愛",
         "kana": "ㄞˋ",
         "answer": "ㄞˋ"
       },
       {
         "japanese": "雄",
-        "english": "ㄒㄩㄥˊ",
+        "english": "grand",
         "furigana": "雄",
         "kana": "ㄒㄩㄥˊ",
         "answer": "ㄒㄩㄥˊ"
       },
       {
         "japanese": "台",
-        "english": "ㄊㄞˊ",
+        "english": "platform",
         "furigana": "台",
         "kana": "ㄊㄞˊ",
         "answer": "ㄊㄞˊ"
       },
       {
         "japanese": "治",
-        "english": "ㄓˋ",
+        "english": "to govern",
         "furigana": "治",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "始",
-        "english": "ㄕˇ",
+        "english": "to commence",
         "furigana": "始",
         "kana": "ㄕˇ",
         "answer": "ㄕˇ"
       },
       {
         "japanese": "去",
-        "english": "ㄑㄩˋ",
+        "english": "to go",
         "furigana": "去",
         "kana": "ㄑㄩˋ",
         "answer": "ㄑㄩˋ"
       },
       {
         "japanese": "法",
-        "english": "ㄈㄚˇ",
+        "english": "method",
         "furigana": "法",
         "kana": "ㄈㄚˇ",
         "answer": "ㄈㄚˇ"
       },
       {
         "japanese": "至",
-        "english": "ㄓˋ",
+        "english": "until",
         "furigana": "至",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "室",
-        "english": "ㄕˋ",
+        "english": "room",
         "furigana": "室",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "到",
-        "english": "ㄉㄠˋ",
+        "english": "to arrive",
         "furigana": "到",
         "kana": "ㄉㄠˋ",
         "answer": "ㄉㄠˋ"
       },
       {
         "japanese": "互",
-        "english": "ㄏㄨˋ",
+        "english": "mutual",
         "furigana": "互",
         "kana": "ㄏㄨˋ",
         "answer": "ㄏㄨˋ"
       },
       {
         "japanese": "充",
-        "english": "ㄔㄨㄥ",
+        "english": "sufficient",
         "furigana": "充",
         "kana": "ㄔㄨㄥ",
         "answer": "ㄔㄨㄥ"
       },
       {
         "japanese": "育",
-        "english": "ㄩˋ",
+        "english": "education",
         "furigana": "育",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "流",
-        "english": "ㄌㄧㄡˊ",
+        "english": "to flow",
         "furigana": "流",
         "kana": "ㄌㄧㄡˊ",
         "answer": "ㄌㄧㄡˊ"
       },
       {
         "japanese": "梳",
-        "english": "ㄕㄨ",
+        "english": "comb",
         "furigana": "梳",
         "kana": "ㄕㄨ",
         "answer": "ㄕㄨ"
       },
       {
         "japanese": "山",
-        "english": "ㄕㄢ",
+        "english": "mountain",
         "furigana": "山",
         "kana": "ㄕㄢ",
         "answer": "ㄕㄢ"
       },
       {
         "japanese": "出",
-        "english": "ㄔㄨ",
+        "english": "to exit",
         "furigana": "出",
         "kana": "ㄔㄨ",
         "answer": "ㄔㄨ"
       },
       {
         "japanese": "擊",
-        "english": "ㄐㄧˊ",
+        "english": "to beat",
         "furigana": "擊",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "密",
-        "english": "ㄇㄧˋ",
+        "english": "secret",
         "furigana": "密",
         "kana": "ㄇㄧˋ",
         "answer": "ㄇㄧˋ"
       },
       {
         "japanese": "入",
-        "english": "ㄖㄨˋ",
+        "english": "to enter",
         "furigana": "入",
         "kana": "ㄖㄨˋ",
         "answer": "ㄖㄨˋ"
       },
       {
         "japanese": "內",
-        "english": "ㄋㄟˋ",
+        "english": "internal",
         "furigana": "內",
         "kana": "ㄋㄟˋ",
         "answer": "ㄋㄟˋ"
       },
       {
         "japanese": "吶",
-        "english": "ㄋㄚˋ",
+        "english": "to holler",
         "furigana": "吶",
         "kana": "ㄋㄚˋ",
         "answer": "ㄋㄚˋ"
       },
       {
         "japanese": "分",
-        "english": "ㄈㄣ",
+        "english": "part",
         "furigana": "分",
         "kana": "ㄈㄣ",
         "answer": "ㄈㄣ"
       },
       {
         "japanese": "貧",
-        "english": "ㄆㄧㄣˊ",
+        "english": "impoverished",
         "furigana": "貧",
         "kana": "ㄆㄧㄣˊ",
         "answer": "ㄆㄧㄣˊ"
       },
       {
         "japanese": "公",
-        "english": "ㄍㄨㄥ",
+        "english": "public",
         "furigana": "公",
         "kana": "ㄍㄨㄥ",
         "answer": "ㄍㄨㄥ"
       },
       {
         "japanese": "松",
-        "english": "ㄙㄨㄥ",
+        "english": "pine tree",
         "furigana": "松",
         "kana": "ㄙㄨㄥ",
         "answer": "ㄙㄨㄥ"
       },
       {
         "japanese": "谷",
-        "english": "ㄍㄨˇ",
+        "english": "valley",
         "furigana": "谷",
         "kana": "ㄍㄨˇ",
         "answer": "ㄍㄨˇ"
       },
       {
         "japanese": "浴",
-        "english": "ㄩˋ",
+        "english": "to bathe",
         "furigana": "浴",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "欲",
-        "english": "ㄩˋ",
+        "english": "to desire",
         "furigana": "欲",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "慾",
-        "english": "ㄩˋ",
+        "english": "the lust",
         "furigana": "慾",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "容",
-        "english": "ㄖㄨㄥˊ",
+        "english": "to contain",
         "furigana": "容",
         "kana": "ㄖㄨㄥˊ",
         "answer": "ㄖㄨㄥˊ"
       },
       {
         "japanese": "溶",
-        "english": "ㄖㄨㄥˊ",
+        "english": "to dissolve",
         "furigana": "溶",
         "kana": "ㄖㄨㄥˊ",
         "answer": "ㄖㄨㄥˊ"
       },
       {
         "japanese": "當",
-        "english": "ㄉㄤ",
+        "english": "to work as",
         "furigana": "當",
         "kana": "ㄉㄤ",
         "answer": "ㄉㄤ"
       },
       {
         "japanese": "檔",
-        "english": "ㄉㄤˇ",
+        "english": "files",
         "furigana": "檔",
         "kana": "ㄉㄤˇ",
         "answer": "ㄉㄤˇ"
       },
       {
         "japanese": "黨",
-        "english": "ㄉㄤˇ",
+        "english": "political party",
         "furigana": "黨",
         "kana": "ㄉㄤˇ",
         "answer": "ㄉㄤˇ"
       },
       {
         "japanese": "常",
-        "english": "ㄔㄤˊ",
+        "english": "often",
         "furigana": "常",
         "kana": "ㄔㄤˊ",
         "answer": "ㄔㄤˊ"
       },
       {
         "japanese": "堂",
-        "english": "ㄊㄤˊ",
+        "english": "main room",
         "furigana": "堂",
         "kana": "ㄊㄤˊ",
         "answer": "ㄊㄤˊ"
       },
       {
         "japanese": "皮",
-        "english": "ㄆㄧˊ",
+        "english": "covering",
         "furigana": "皮",
         "kana": "ㄆㄧˊ",
         "answer": "ㄆㄧˊ"
       },
       {
         "japanese": "波",
-        "english": "ㄅㄛ",
+        "english": "waves",
         "furigana": "波",
         "kana": "ㄅㄛ",
         "answer": "ㄅㄛ"
       },
       {
         "japanese": "婆",
-        "english": "ㄆㄛˊ",
+        "english": "old woman",
         "furigana": "婆",
         "kana": "ㄆㄛˊ",
         "answer": "ㄆㄛˊ"
       },
       {
         "japanese": "破",
-        "english": "ㄆㄛˋ",
+        "english": "to break",
         "furigana": "破",
         "kana": "ㄆㄛˋ",
         "answer": "ㄆㄛˋ"
       },
       {
         "japanese": "被",
-        "english": "ㄅㄟˋ",
+        "english": "a quilt",
         "furigana": "被",
         "kana": "ㄅㄟˋ",
         "answer": "ㄅㄟˋ"
       },
       {
         "japanese": "歹",
-        "english": "ㄉㄞˇ",
+        "english": "malicious",
         "furigana": "歹",
         "kana": "ㄉㄞˇ",
         "answer": "ㄉㄞˇ"
       },
       {
         "japanese": "列",
-        "english": "ㄌㄧㄝˋ",
+        "english": "to line up",
         "furigana": "列",
         "kana": "ㄌㄧㄝˋ",
         "answer": "ㄌㄧㄝˋ"
       },
       {
         "japanese": "烈",
-        "english": "ㄌㄧㄝˋ",
+        "english": "intense",
         "furigana": "烈",
         "kana": "ㄌㄧㄝˋ",
         "answer": "ㄌㄧㄝˋ"
       },
       {
         "japanese": "死",
-        "english": "ㄙˇ",
+        "english": "death",
         "furigana": "死",
         "kana": "ㄙˇ",
         "answer": "ㄙˇ"
       },
       {
         "japanese": "葬",
-        "english": "ㄗㄤˋ",
+        "english": "to inter",
         "furigana": "葬",
         "kana": "ㄗㄤˋ",
         "answer": "ㄗㄤˋ"
       },
       {
         "japanese": "耳",
-        "english": "ㄦˇ",
+        "english": "ear",
         "furigana": "耳",
         "kana": "ㄦˇ",
         "answer": "ㄦˇ"
       },
       {
         "japanese": "取",
-        "english": "ㄑㄩˇ",
+        "english": "to take",
         "furigana": "取",
         "kana": "ㄑㄩˇ",
         "answer": "ㄑㄩˇ"
       },
       {
         "japanese": "趣",
-        "english": "ㄑㄩˋ",
+        "english": "an interest",
         "furigana": "趣",
         "kana": "ㄑㄩˋ",
         "answer": "ㄑㄩˋ"
       },
       {
         "japanese": "最",
-        "english": "ㄗㄨㄟˋ",
+        "english": "most",
         "furigana": "最",
         "kana": "ㄗㄨㄟˋ",
         "answer": "ㄗㄨㄟˋ"
       },
       {
         "japanese": "職",
-        "english": "ㄓˊ",
+        "english": "job",
         "furigana": "職",
         "kana": "ㄓˊ",
         "answer": "ㄓˊ"
       },
       {
         "japanese": "聖",
-        "english": "ㄕㄥˋ",
+        "english": "holy",
         "furigana": "聖",
         "kana": "ㄕㄥˋ",
         "answer": "ㄕㄥˋ"
       },
       {
         "japanese": "敢",
-        "english": "ㄍㄢˇ",
+        "english": "brave",
         "furigana": "敢",
         "kana": "ㄍㄢˇ",
         "answer": "ㄍㄢˇ"
       },
       {
         "japanese": "嚴",
-        "english": "ㄧㄢˊ",
+        "english": "strict",
         "furigana": "嚴",
         "kana": "ㄧㄢˊ",
         "answer": "ㄧㄢˊ"
       },
       {
         "japanese": "曼",
-        "english": "ㄇㄢˋ",
+        "english": "drawn out",
         "furigana": "曼",
         "kana": "ㄇㄢˋ",
         "answer": "ㄇㄢˋ"
       },
       {
         "japanese": "慢",
-        "english": "ㄇㄢˋ",
+        "english": "slow",
         "furigana": "慢",
         "kana": "ㄇㄢˋ",
         "answer": "ㄇㄢˋ"
       },
       {
         "japanese": "漫",
-        "english": "ㄇㄢˋ",
+        "english": "to overflow",
         "furigana": "漫",
         "kana": "ㄇㄢˋ",
         "answer": "ㄇㄢˋ"
       },
       {
         "japanese": "環",
-        "english": "ㄏㄨㄢˊ",
+        "english": "a ring",
         "furigana": "環",
         "kana": "ㄏㄨㄢˊ",
         "answer": "ㄏㄨㄢˊ"
       },
       {
         "japanese": "還",
-        "english": "ㄏㄨㄢˊ",
+        "english": "to give back",
         "furigana": "還",
         "kana": "ㄏㄨㄢˊ",
         "answer": "ㄏㄨㄢˊ"
       },
       {
         "japanese": "夫",
-        "english": "ㄈㄨ",
+        "english": "husband",
         "furigana": "夫",
         "kana": "ㄈㄨ",
         "answer": "ㄈㄨ"
       },
       {
         "japanese": "規",
-        "english": "ㄍㄨㄟ",
+        "english": "regulations",
         "furigana": "規",
         "kana": "ㄍㄨㄟ",
         "answer": "ㄍㄨㄟ"
       },
       {
         "japanese": "替",
-        "english": "ㄊㄧˋ",
+        "english": "to replace",
         "furigana": "替",
         "kana": "ㄊㄧˋ",
         "answer": "ㄊㄧˋ"
       },
       {
         "japanese": "失",
-        "english": "ㄕ",
+        "english": "to lose",
         "furigana": "失",
         "kana": "ㄕ",
         "answer": "ㄕ"
       },
       {
         "japanese": "臣",
-        "english": "ㄔㄣˊ",
+        "english": "feudal official",
         "furigana": "臣",
         "kana": "ㄔㄣˊ",
         "answer": "ㄔㄣˊ"
       },
       {
         "japanese": "臨",
-        "english": "ㄌㄧㄣˊ",
+        "english": "to be about to",
         "furigana": "臨",
         "kana": "ㄌㄧㄣˊ",
         "answer": "ㄌㄧㄣˊ"
       },
       {
         "japanese": "賢",
-        "english": "ㄒㄧㄢˊ",
+        "english": "worthy",
         "furigana": "賢",
         "kana": "ㄒㄧㄢˊ",
         "answer": "ㄒㄧㄢˊ"
       },
       {
         "japanese": "堅",
-        "english": "ㄐㄧㄢ",
+        "english": "firm",
         "furigana": "堅",
         "kana": "ㄐㄧㄢ",
         "answer": "ㄐㄧㄢ"
       },
       {
         "japanese": "力",
-        "english": "ㄌㄧˋ",
+        "english": "power",
         "furigana": "力",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "另",
-        "english": "ㄌㄧㄥˋ",
+        "english": "another",
         "furigana": "另",
         "kana": "ㄌㄧㄥˋ",
         "answer": "ㄌㄧㄥˋ"
       },
       {
         "japanese": "別",
-        "english": "ㄅㄧㄝˊ",
+        "english": "don’t",
         "furigana": "別",
         "kana": "ㄅㄧㄝˊ",
         "answer": "ㄅㄧㄝˊ"
       },
       {
         "japanese": "拐",
-        "english": "ㄍㄨㄞˇ",
+        "english": "to turn",
         "furigana": "拐",
         "kana": "ㄍㄨㄞˇ",
         "answer": "ㄍㄨㄞˇ"
       },
       {
         "japanese": "男",
-        "english": "ㄋㄢˊ",
+        "english": "male",
         "furigana": "男",
         "kana": "ㄋㄢˊ",
         "answer": "ㄋㄢˊ"
       },
       {
         "japanese": "功",
-        "english": "ㄍㄨㄥ",
+        "english": "achievement",
         "furigana": "功",
         "kana": "ㄍㄨㄥ",
         "answer": "ㄍㄨㄥ"
       },
       {
         "japanese": "奴",
-        "english": "ㄋㄨˊ",
+        "english": "slave",
         "furigana": "奴",
         "kana": "ㄋㄨˊ",
         "answer": "ㄋㄨˊ"
       },
       {
         "japanese": "努",
-        "english": "ㄋㄨˇ",
+        "english": "to toil",
         "furigana": "努",
         "kana": "ㄋㄨˇ",
         "answer": "ㄋㄨˇ"
       },
       {
         "japanese": "加",
-        "english": "ㄐㄧㄚ",
+        "english": "to add",
         "furigana": "加",
         "kana": "ㄐㄧㄚ",
         "answer": "ㄐㄧㄚ"
       },
       {
         "japanese": "賀",
-        "english": "ㄏㄜˋ",
+        "english": "to congratulate",
         "furigana": "賀",
         "kana": "ㄏㄜˋ",
         "answer": "ㄏㄜˋ"
       },
       {
         "japanese": "架",
-        "english": "ㄐㄧㄚˋ",
+        "english": "shelf",
         "furigana": "架",
         "kana": "ㄐㄧㄚˋ",
         "answer": "ㄐㄧㄚˋ"
       },
       {
         "japanese": "協",
-        "english": "ㄒㄧㄝˊ",
+        "english": "to cooperate",
         "furigana": "協",
         "kana": "ㄒㄧㄝˊ",
         "answer": "ㄒㄧㄝˊ"
       },
       {
         "japanese": "行",
-        "english": "ㄏㄤˊ",
+        "english": "line of business",
         "furigana": "行",
         "kana": "ㄏㄤˊ",
         "answer": "ㄏㄤˊ"
       },
       {
         "japanese": "律",
-        "english": "ㄌㄩˋ",
+        "english": "law",
         "furigana": "律",
         "kana": "ㄌㄩˋ",
         "answer": "ㄌㄩˋ"
       },
       {
         "japanese": "復",
-        "english": "ㄈㄨˋ",
+        "english": "to recover",
         "furigana": "復",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "得",
-        "english": "ㄉㄟˇ",
+        "english": "must",
         "furigana": "得",
         "kana": "ㄉㄟˇ",
         "answer": "ㄉㄟˇ"
       },
       {
         "japanese": "待",
-        "english": "ㄉㄞˋ",
+        "english": "to treat",
         "furigana": "待",
         "kana": "ㄉㄞˋ",
         "answer": "ㄉㄞˋ"
       },
       {
         "japanese": "往",
-        "english": "ㄨㄤˇ",
+        "english": "toward",
         "furigana": "往",
         "kana": "ㄨㄤˇ",
         "answer": "ㄨㄤˇ"
       },
       {
         "japanese": "德",
-        "english": "ㄉㄜˊ",
+        "english": "morality",
         "furigana": "德",
         "kana": "ㄉㄜˊ",
         "answer": "ㄉㄜˊ"
       },
       {
         "japanese": "聽",
-        "english": "ㄊㄧㄥ",
+        "english": "to listen",
         "furigana": "聽",
         "kana": "ㄊㄧㄥ",
         "answer": "ㄊㄧㄥ"
       },
       {
         "japanese": "廳",
-        "english": "ㄊㄧㄥ",
+        "english": "hall",
         "furigana": "廳",
         "kana": "ㄊㄧㄥ",
         "answer": "ㄊㄧㄥ"
       },
       {
         "japanese": "微",
-        "english": "ㄨㄟˊ",
+        "english": "tiny",
         "furigana": "微",
         "kana": "ㄨㄟˊ",
         "answer": "ㄨㄟˊ"
       },
       {
         "japanese": "街",
-        "english": "ㄐㄧㄝ",
+        "english": "street",
         "furigana": "街",
         "kana": "ㄐㄧㄝ",
         "answer": "ㄐㄧㄝ"
       },
       {
         "japanese": "禾",
-        "english": "ㄏㄜˊ",
+        "english": "standing grain",
         "furigana": "禾",
         "kana": "ㄏㄜˊ",
         "answer": "ㄏㄜˊ"
       },
       {
         "japanese": "程",
-        "english": "ㄔㄥˊ",
+        "english": "journey",
         "furigana": "程",
         "kana": "ㄔㄥˊ",
         "answer": "ㄔㄥˊ"
       },
       {
         "japanese": "和",
-        "english": "ㄏㄜˊ",
+        "english": "harmony",
         "furigana": "和",
         "kana": "ㄏㄜˊ",
         "answer": "ㄏㄜˊ"
       },
       {
         "japanese": "移",
-        "english": "ㄧˊ",
+        "english": "to shift",
         "furigana": "移",
         "kana": "ㄧˊ",
         "answer": "ㄧˊ"
       },
       {
         "japanese": "秋",
-        "english": "ㄑㄧㄡ",
+        "english": "autumn",
         "furigana": "秋",
         "kana": "ㄑㄧㄡ",
         "answer": "ㄑㄧㄡ"
       },
       {
         "japanese": "愁",
-        "english": "ㄔㄡˊ",
+        "english": "gloomy",
         "furigana": "愁",
         "kana": "ㄔㄡˊ",
         "answer": "ㄔㄡˊ"
       },
       {
         "japanese": "利",
-        "english": "ㄌㄧˋ",
+        "english": "a profit",
         "furigana": "利",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "香",
-        "english": "ㄒㄧㄤ",
+        "english": "perfume",
         "furigana": "香",
         "kana": "ㄒㄧㄤ",
         "answer": "ㄒㄧㄤ"
       },
       {
         "japanese": "季",
-        "english": "ㄐㄧˋ",
+        "english": "seasons",
         "furigana": "季",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "委",
-        "english": "ㄨㄟˇ",
+        "english": "committee",
         "furigana": "委",
         "kana": "ㄨㄟˇ",
         "answer": "ㄨㄟˇ"
       },
       {
         "japanese": "秀",
-        "english": "ㄒㄧㄡˋ",
+        "english": "elegant",
         "furigana": "秀",
         "kana": "ㄒㄧㄡˋ",
         "answer": "ㄒㄧㄡˋ"
       },
       {
         "japanese": "透",
-        "english": "ㄊㄡˋ",
+        "english": "to penetrate",
         "furigana": "透",
         "kana": "ㄊㄡˋ",
         "answer": "ㄊㄡˋ"
       },
       {
         "japanese": "誘",
-        "english": "ㄧㄡˋ",
+        "english": "to entice",
         "furigana": "誘",
         "kana": "ㄧㄡˋ",
         "answer": "ㄧㄡˋ"
       },
       {
         "japanese": "歷",
-        "english": "ㄌㄧˋ",
+        "english": "experience",
         "furigana": "歷",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "米",
-        "english": "ㄇㄧˇ",
+        "english": "rice",
         "furigana": "米",
         "kana": "ㄇㄧˇ",
         "answer": "ㄇㄧˇ"
       },
       {
         "japanese": "迷",
-        "english": "ㄇㄧˊ",
+        "english": "lost",
         "furigana": "迷",
         "kana": "ㄇㄧˊ",
         "answer": "ㄇㄧˊ"
       },
       {
         "japanese": "謎",
-        "english": "ㄇㄧˊ",
+        "english": "riddle",
         "furigana": "謎",
         "kana": "ㄇㄧˊ",
         "answer": "ㄇㄧˊ"
       },
       {
         "japanese": "類",
-        "english": "ㄌㄟˋ",
+        "english": "the kind",
         "furigana": "類",
         "kana": "ㄌㄟˋ",
         "answer": "ㄌㄟˋ"
       },
       {
         "japanese": "竹",
-        "english": "ㄓㄨˊ",
+        "english": "bamboo",
         "furigana": "竹",
         "kana": "ㄓㄨˊ",
         "answer": "ㄓㄨˊ"
       },
       {
         "japanese": "笑",
-        "english": "ㄒㄧㄠˋ",
+        "english": "to laugh",
         "furigana": "笑",
         "kana": "ㄒㄧㄠˋ",
         "answer": "ㄒㄧㄠˋ"
       },
       {
         "japanese": "箱",
-        "english": "ㄒㄧㄤ",
+        "english": "box",
         "furigana": "箱",
         "kana": "ㄒㄧㄤ",
         "answer": "ㄒㄧㄤ"
       },
       {
         "japanese": "筆",
-        "english": "ㄅㄧˇ",
+        "english": "pen",
         "furigana": "筆",
         "kana": "ㄅㄧˇ",
         "answer": "ㄅㄧˇ"
       },
       {
         "japanese": "等",
-        "english": "ㄉㄥˇ",
+        "english": "etc.",
         "furigana": "等",
         "kana": "ㄉㄥˇ",
         "answer": "ㄉㄥˇ"
       },
       {
         "japanese": "算",
-        "english": "ㄙㄨㄢˋ",
+        "english": "to calculate",
         "furigana": "算",
         "kana": "ㄙㄨㄢˋ",
         "answer": "ㄙㄨㄢˋ"
       },
       {
         "japanese": "答",
-        "english": "ㄉㄚˊ",
+        "english": "to answer",
         "furigana": "答",
         "kana": "ㄉㄚˊ",
         "answer": "ㄉㄚˊ"
       },
       {
         "japanese": "策",
-        "english": "ㄘㄜˋ",
+        "english": "strategy",
         "furigana": "策",
         "kana": "ㄘㄜˋ",
         "answer": "ㄘㄜˋ"
       },
       {
         "japanese": "人",
-        "english": "ㄖㄣˊ",
+        "english": "person",
         "furigana": "人",
         "kana": "ㄖㄣˊ",
         "answer": "ㄖㄣˊ"
       },
       {
         "japanese": "囚",
-        "english": "ㄑㄧㄡˊ",
+        "english": "prisoner",
         "furigana": "囚",
         "kana": "ㄑㄧㄡˊ",
         "answer": "ㄑㄧㄡˊ"
       },
       {
         "japanese": "份",
-        "english": "ㄈㄣˋ",
+        "english": "portion",
         "furigana": "份",
         "kana": "ㄈㄣˋ",
         "answer": "ㄈㄣˋ"
       },
       {
         "japanese": "佔",
-        "english": "ㄓㄢˋ",
+        "english": "to occupy",
         "furigana": "佔",
         "kana": "ㄓㄢˋ",
         "answer": "ㄓㄢˋ"
       },
       {
         "japanese": "傢",
-        "english": "ㄐㄧㄚ",
+        "english": "furniture",
         "furigana": "傢",
         "kana": "ㄐㄧㄚ",
         "answer": "ㄐㄧㄚ"
       },
       {
         "japanese": "你",
-        "english": "ㄋㄧˇ",
+        "english": "you",
         "furigana": "你",
         "kana": "ㄋㄧˇ",
         "answer": "ㄋㄧˇ"
       },
       {
         "japanese": "您",
-        "english": "ㄋㄧㄣˊ",
+        "english": "you  [respectful]",
         "furigana": "您",
         "kana": "ㄋㄧㄣˊ",
         "answer": "ㄋㄧㄣˊ"
       },
       {
         "japanese": "什",
-        "english": "ㄕㄣˊ",
+        "english": "what?",
         "furigana": "什",
         "kana": "ㄕㄣˊ",
         "answer": "ㄕㄣˊ"
       },
       {
         "japanese": "條",
-        "english": "ㄊㄧㄠˊ",
+        "english": "a strip 修",
         "furigana": "條",
         "kana": "ㄊㄧㄠˊ",
         "answer": "ㄊㄧㄠˊ"
       },
       {
         "japanese": "值",
-        "english": "ㄓˊ",
+        "english": "value",
         "furigana": "值",
         "kana": "ㄓˊ",
         "answer": "ㄓˊ"
       },
       {
         "japanese": "做",
-        "english": "ㄗㄨㄛˋ",
+        "english": "to make",
         "furigana": "做",
         "kana": "ㄗㄨㄛˋ",
         "answer": "ㄗㄨㄛˋ"
       },
       {
         "japanese": "但",
-        "english": "ㄉㄢˋ",
+        "english": "however",
         "furigana": "但",
         "kana": "ㄉㄢˋ",
         "answer": "ㄉㄢˋ"
       },
       {
         "japanese": "住",
-        "english": "ㄓㄨˋ",
+        "english": "to dwell",
         "furigana": "住",
         "kana": "ㄓㄨˋ",
         "answer": "ㄓㄨˋ"
       },
       {
         "japanese": "位",
-        "english": "ㄨㄟˋ",
+        "english": "position",
         "furigana": "位",
         "kana": "ㄨㄟˋ",
         "answer": "ㄨㄟˋ"
       },
       {
         "japanese": "件",
-        "english": "ㄐㄧㄢˋ",
+        "english": "piece",
         "furigana": "件",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "仍",
-        "english": "ㄖㄥˊ",
+        "english": "still",
         "furigana": "仍",
         "kana": "ㄖㄥˊ",
         "answer": "ㄖㄥˊ"
       },
       {
         "japanese": "他",
-        "english": "ㄊㄚ",
+        "english": "he",
         "furigana": "他",
         "kana": "ㄊㄚ",
         "answer": "ㄊㄚ"
       },
       {
         "japanese": "休",
-        "english": "ㄒㄧㄡ",
+        "english": "to rest",
         "furigana": "休",
         "kana": "ㄒㄧㄡ",
         "answer": "ㄒㄧㄡ"
       },
       {
         "japanese": "信",
-        "english": "ㄒㄧㄣˋ",
+        "english": "faith",
         "furigana": "信",
         "kana": "ㄒㄧㄣˋ",
         "answer": "ㄒㄧㄣˋ"
       },
       {
         "japanese": "依",
-        "english": "ㄧ",
+        "english": "to depend on",
         "furigana": "依",
         "kana": "ㄧ",
         "answer": "ㄧ"
       },
       {
         "japanese": "例",
-        "english": "ㄌㄧˋ",
+        "english": "example",
         "furigana": "例",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "個",
-        "english": "ㄍㄜˋ",
+        "english": "individual",
         "furigana": "個",
         "kana": "ㄍㄜˋ",
         "answer": "ㄍㄜˋ"
       },
       {
         "japanese": "健",
-        "english": "ㄐㄧㄢˋ",
+        "english": "healthy",
         "furigana": "健",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "停",
-        "english": "ㄊㄧㄥˊ",
+        "english": "to halt",
         "furigana": "停",
         "kana": "ㄊㄧㄥˊ",
         "answer": "ㄊㄧㄥˊ"
       },
       {
         "japanese": "倒",
-        "english": "ㄉㄠˋ",
+        "english": "upside down",
         "furigana": "倒",
         "kana": "ㄉㄠˋ",
         "answer": "ㄉㄠˋ"
       },
       {
         "japanese": "仁",
-        "english": "ㄖㄣˊ",
+        "english": "benevolence",
         "furigana": "仁",
         "kana": "ㄖㄣˊ",
         "answer": "ㄖㄣˊ"
       },
       {
         "japanese": "優",
-        "english": "ㄧㄡ",
+        "english": "excellent",
         "furigana": "優",
         "kana": "ㄧㄡ",
         "answer": "ㄧㄡ"
       },
       {
         "japanese": "傷",
-        "english": "ㄕㄤ",
+        "english": "a wound",
         "furigana": "傷",
         "kana": "ㄕㄤ",
         "answer": "ㄕㄤ"
       },
       {
         "japanese": "保",
-        "english": "ㄅㄠˇ",
+        "english": "to safeguard",
         "furigana": "保",
         "kana": "ㄅㄠˇ",
         "answer": "ㄅㄠˇ"
       },
       {
         "japanese": "堡",
-        "english": "ㄅㄠˇ",
+        "english": "fort",
         "furigana": "堡",
         "kana": "ㄅㄠˇ",
         "answer": "ㄅㄠˇ"
       },
       {
         "japanese": "付",
-        "english": "ㄈㄨˋ",
+        "english": "to pay",
         "furigana": "付",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "府",
-        "english": "ㄈㄨˇ",
+        "english": "government office",
         "furigana": "府",
         "kana": "ㄈㄨˇ",
         "answer": "ㄈㄨˇ"
       },
       {
         "japanese": "俯",
-        "english": "ㄈㄨˇ",
+        "english": "to bow one’s head",
         "furigana": "俯",
         "kana": "ㄈㄨˇ",
         "answer": "ㄈㄨˇ"
       },
       {
         "japanese": "代",
-        "english": "ㄉㄞˋ",
+        "english": "to substitute for",
         "furigana": "代",
         "kana": "ㄉㄞˋ",
         "answer": "ㄉㄞˋ"
       },
       {
         "japanese": "袋",
-        "english": "ㄉㄞˋ",
+        "english": "bag",
         "furigana": "袋",
         "kana": "ㄉㄞˋ",
         "answer": "ㄉㄞˋ"
       },
       {
         "japanese": "化",
-        "english": "ㄏㄨㄚˋ",
+        "english": "to transform",
         "furigana": "化",
         "kana": "ㄏㄨㄚˋ",
         "answer": "ㄏㄨㄚˋ"
       },
       {
         "japanese": "花",
-        "english": "ㄏㄨㄚ",
+        "english": "flower",
         "furigana": "花",
         "kana": "ㄏㄨㄚ",
         "answer": "ㄏㄨㄚ"
       },
       {
         "japanese": "貨",
-        "english": "ㄏㄨㄛˋ",
+        "english": "commodities",
         "furigana": "貨",
         "kana": "ㄏㄨㄛˋ",
         "answer": "ㄏㄨㄛˋ"
       },
       {
         "japanese": "何",
-        "english": "ㄏㄜˊ",
+        "english": "whatwhichwhowherewhy?",
         "furigana": "何",
         "kana": "ㄏㄜˊ",
         "answer": "ㄏㄜˊ"
       },
       {
         "japanese": "便",
-        "english": "ㄅㄧㄢˋ",
+        "english": "convenient",
         "furigana": "便",
         "kana": "ㄅㄧㄢˋ",
         "answer": "ㄅㄧㄢˋ"
       },
       {
         "japanese": "丈",
-        "english": "ㄓㄤˋ",
+        "english": "100 chinese inches",
         "furigana": "丈",
         "kana": "ㄓㄤˋ",
         "answer": "ㄓㄤˋ"
       },
       {
         "japanese": "使",
-        "english": "ㄕˇ",
+        "english": "to use",
         "furigana": "使",
         "kana": "ㄕˇ",
         "answer": "ㄕˇ"
       },
       {
         "japanese": "久",
-        "english": "ㄐㄧㄡˇ",
+        "english": "long time",
         "furigana": "久",
         "kana": "ㄐㄧㄡˇ",
         "answer": "ㄐㄧㄡˇ"
       },
       {
         "japanese": "畝",
-        "english": "ㄇㄨˇ",
+        "english": "chinese acre",
         "furigana": "畝",
         "kana": "ㄇㄨˇ",
         "answer": "ㄇㄨˇ"
       },
       {
         "japanese": "丙",
-        "english": "ㄅㄧㄥˇ",
+        "english": "third",
         "furigana": "丙",
         "kana": "ㄅㄧㄥˇ",
         "answer": "ㄅㄧㄥˇ"
       },
       {
         "japanese": "柄",
-        "english": "ㄅㄧㄥˇ",
+        "english": "a handle",
         "furigana": "柄",
         "kana": "ㄅㄧㄥˇ",
         "answer": "ㄅㄧㄥˇ"
       },
       {
         "japanese": "肉",
-        "english": "ㄖㄡˋ",
+        "english": "meat",
         "furigana": "肉",
         "kana": "ㄖㄡˋ",
         "answer": "ㄖㄡˋ"
       },
       {
         "japanese": "腐",
-        "english": "ㄈㄨˇ",
+        "english": "rotten",
         "furigana": "腐",
         "kana": "ㄈㄨˇ",
         "answer": "ㄈㄨˇ"
       },
       {
         "japanese": "眾",
-        "english": "ㄓㄨㄥˋ",
+        "english": "multitude",
         "furigana": "眾",
         "kana": "ㄓㄨㄥˋ",
         "answer": "ㄓㄨㄥˋ"
       },
       {
         "japanese": "坐",
-        "english": "ㄗㄨㄛˋ",
+        "english": "to sit",
         "furigana": "坐",
         "kana": "ㄗㄨㄛˋ",
         "answer": "ㄗㄨㄛˋ"
       },
       {
         "japanese": "座",
-        "english": "ㄗㄨㄛˋ",
+        "english": "seat",
         "furigana": "座",
         "kana": "ㄗㄨㄛˋ",
         "answer": "ㄗㄨㄛˋ"
       },
       {
         "japanese": "檢",
-        "english": "ㄐㄧㄢˇ",
+        "english": "to examine",
         "furigana": "檢",
         "kana": "ㄐㄧㄢˇ",
         "answer": "ㄐㄧㄢˇ"
       },
       {
         "japanese": "臉",
-        "english": "ㄌㄧㄢˇ",
+        "english": "a face",
         "furigana": "臉",
         "kana": "ㄌㄧㄢˇ",
         "answer": "ㄌㄧㄢˇ"
       },
       {
         "japanese": "來",
-        "english": "ㄌㄞˊ",
+        "english": "to come",
         "furigana": "來",
         "kana": "ㄌㄞˊ",
         "answer": "ㄌㄞˊ"
       },
       {
         "japanese": "麥",
-        "english": "ㄇㄞˋ",
+        "english": "wheat",
         "furigana": "麥",
         "kana": "ㄇㄞˋ",
         "answer": "ㄇㄞˋ"
       },
       {
         "japanese": "喝",
-        "english": "ㄏㄜ",
+        "english": "to drink",
         "furigana": "喝",
         "kana": "ㄏㄜ",
         "answer": "ㄏㄜ"
       },
       {
         "japanese": "渴",
-        "english": "ㄎㄜˇ",
+        "english": "thirsty",
         "furigana": "渴",
         "kana": "ㄎㄜˇ",
         "answer": "ㄎㄜˇ"
       },
       {
         "japanese": "任",
-        "english": "ㄖㄣˋ",
+        "english": "to appoint",
         "furigana": "任",
         "kana": "ㄖㄣˋ",
         "answer": "ㄖㄣˋ"
       },
       {
         "japanese": "廷",
-        "english": "ㄊㄧㄥˊ",
+        "english": "royal court",
         "furigana": "廷",
         "kana": "ㄊㄧㄥˊ",
         "answer": "ㄊㄧㄥˊ"
       },
       {
         "japanese": "庭",
-        "english": "ㄊㄧㄥˊ",
+        "english": "court of law",
         "furigana": "庭",
         "kana": "ㄊㄧㄥˊ",
         "answer": "ㄊㄧㄥˊ"
       },
       {
         "japanese": "以",
-        "english": "ㄧˇ",
+        "english": "by means of",
         "furigana": "以",
         "kana": "ㄧˇ",
         "answer": "ㄧˇ"
       },
       {
         "japanese": "似",
-        "english": "ㄙˋ",
+        "english": "similar",
         "furigana": "似",
         "kana": "ㄙˋ",
         "answer": "ㄙˋ"
       },
       {
         "japanese": "併",
-        "english": "ㄅㄧㄥˋ",
+        "english": "to combine",
         "furigana": "併",
         "kana": "ㄅㄧㄥˋ",
         "answer": "ㄅㄧㄥˋ"
       },
       {
         "japanese": "拼",
-        "english": "ㄆㄧㄣ",
+        "english": "to piece together",
         "furigana": "拼",
         "kana": "ㄆㄧㄣ",
         "answer": "ㄆㄧㄣ"
       },
       {
         "japanese": "呂",
-        "english": "ㄌㄩˇ",
+        "english": "spine",
         "furigana": "呂",
         "kana": "ㄌㄩˇ",
         "answer": "ㄌㄩˇ"
       },
       {
         "japanese": "侶",
-        "english": "ㄌㄩˇ",
+        "english": "an associate",
         "furigana": "侶",
         "kana": "ㄌㄩˇ",
         "answer": "ㄌㄩˇ"
       },
       {
         "japanese": "榮",
-        "english": "ㄖㄨㄥˊ",
+        "english": "glory",
         "furigana": "榮",
         "kana": "ㄖㄨㄥˊ",
         "answer": "ㄖㄨㄥˊ"
       },
       {
         "japanese": "勞",
-        "english": "ㄌㄠˊ",
+        "english": "labor",
         "furigana": "勞",
         "kana": "ㄌㄠˊ",
         "answer": "ㄌㄠˊ"
       },
       {
         "japanese": "營",
-        "english": "ㄧㄥˊ",
+        "english": "a camp",
         "furigana": "營",
         "kana": "ㄧㄥˊ",
         "answer": "ㄧㄥˊ"
       },
       {
         "japanese": "善",
-        "english": "ㄕㄢˋ",
+        "english": "virtuous",
         "furigana": "善",
         "kana": "ㄕㄢˋ",
         "answer": "ㄕㄢˋ"
       },
       {
         "japanese": "年",
-        "english": "ㄋㄧㄢˊ",
+        "english": "year",
         "furigana": "年",
         "kana": "ㄋㄧㄢˊ",
         "answer": "ㄋㄧㄢˊ"
       },
       {
         "japanese": "夜",
-        "english": "ㄧㄝˋ",
+        "english": "night",
         "furigana": "夜",
         "kana": "ㄧㄝˋ",
         "answer": "ㄧㄝˋ"
       },
       {
         "japanese": "液",
-        "english": "ㄧㄝˋ",
+        "english": "liquid",
         "furigana": "液",
         "kana": "ㄧㄝˋ",
         "answer": "ㄧㄝˋ"
       },
       {
         "japanese": "喚",
-        "english": "ㄏㄨㄢˋ",
+        "english": "to call out",
         "furigana": "喚",
         "kana": "ㄏㄨㄢˋ",
         "answer": "ㄏㄨㄢˋ"
       },
       {
         "japanese": "換",
-        "english": "ㄏㄨㄢˋ",
+        "english": "to exchange",
         "furigana": "換",
         "kana": "ㄏㄨㄢˋ",
         "answer": "ㄏㄨㄢˋ"
       },
       {
         "japanese": "旅",
-        "english": "ㄌㄩˇ",
+        "english": "to travel",
         "furigana": "旅",
         "kana": "ㄌㄩˇ",
         "answer": "ㄌㄩˇ"
       },
       {
         "japanese": "施",
-        "english": "ㄕ",
+        "english": "to execute",
         "furigana": "施",
         "kana": "ㄕ",
         "answer": "ㄕ"
       },
       {
         "japanese": "游",
-        "english": "ㄧㄡˊ",
+        "english": "to go swimming",
         "furigana": "游",
         "kana": "ㄧㄡˊ",
         "answer": "ㄧㄡˊ"
       },
       {
         "japanese": "遊",
-        "english": "ㄧㄡˊ",
+        "english": "to tour",
         "furigana": "遊",
         "kana": "ㄧㄡˊ",
         "answer": "ㄧㄡˊ"
       },
       {
         "japanese": "勿",
-        "english": "ㄨˋ",
+        "english": "not",
         "furigana": "勿",
         "kana": "ㄨˋ",
         "answer": "ㄨˋ"
       },
       {
         "japanese": "忽",
-        "english": "ㄏㄨ",
+        "english": "suddenly",
         "furigana": "忽",
         "kana": "ㄏㄨ",
         "answer": "ㄏㄨ"
       },
       {
         "japanese": "物",
-        "english": "ㄨˋ",
+        "english": "thing",
         "furigana": "物",
         "kana": "ㄨˋ",
         "answer": "ㄨˋ"
       },
       {
         "japanese": "易",
-        "english": "ㄧˋ",
+        "english": "easy",
         "furigana": "易",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "賜",
-        "english": "ㄙˋ",
+        "english": "to grant",
         "furigana": "賜",
         "kana": "ㄙˋ",
         "answer": "ㄙˋ"
       },
       {
         "japanese": "屍",
-        "english": "ㄕ",
+        "english": "corpse",
         "furigana": "屍",
         "kana": "ㄕ",
         "answer": "ㄕ"
       },
       {
         "japanese": "尼",
-        "english": "ㄋㄧˊ",
+        "english": "nun",
         "furigana": "尼",
         "kana": "ㄋㄧˊ",
         "answer": "ㄋㄧˊ"
       },
       {
         "japanese": "呢",
-        "english": "ㄋㄧˊ",
+        "english": "woolen cloth",
         "furigana": "呢",
         "kana": "ㄋㄧˊ",
         "answer": "ㄋㄧˊ"
       },
       {
         "japanese": "泥",
-        "english": "ㄋㄧˊ",
+        "english": "mud",
         "furigana": "泥",
         "kana": "ㄋㄧˊ",
         "answer": "ㄋㄧˊ"
       },
       {
         "japanese": "屋",
-        "english": "ㄨ",
+        "english": "habitation",
         "furigana": "屋",
         "kana": "ㄨ",
         "answer": "ㄨ"
       },
       {
         "japanese": "握",
-        "english": "ㄨㄛˋ",
+        "english": "to grip",
         "furigana": "握",
         "kana": "ㄨㄛˋ",
         "answer": "ㄨㄛˋ"
       },
       {
         "japanese": "居",
-        "english": "ㄐㄩ",
+        "english": "to reside",
         "furigana": "居",
         "kana": "ㄐㄩ",
         "answer": "ㄐㄩ"
       },
       {
         "japanese": "鋸",
-        "english": "ㄐㄩˋ",
+        "english": "a saw",
         "furigana": "鋸",
         "kana": "ㄐㄩˋ",
         "answer": "ㄐㄩˋ"
       },
       {
         "japanese": "層",
-        "english": "ㄘㄥˊ",
+        "english": "story",
         "furigana": "層",
         "kana": "ㄘㄥˊ",
         "answer": "ㄘㄥˊ"
       },
       {
         "japanese": "局",
-        "english": "ㄐㄩˊ",
+        "english": "bureau",
         "furigana": "局",
         "kana": "ㄐㄩˊ",
         "answer": "ㄐㄩˊ"
       },
       {
         "japanese": "戶",
-        "english": "ㄏㄨˋ",
+        "english": "door",
         "furigana": "戶",
         "kana": "ㄏㄨˋ",
         "answer": "ㄏㄨˋ"
       },
       {
         "japanese": "房",
-        "english": "ㄈㄤˊ",
+        "english": "domicile",
         "furigana": "房",
         "kana": "ㄈㄤˊ",
         "answer": "ㄈㄤˊ"
       },
       {
         "japanese": "雇",
-        "english": "ㄍㄨˋ",
+        "english": "to hire",
         "furigana": "雇",
         "kana": "ㄍㄨˋ",
         "answer": "ㄍㄨˋ"
       },
       {
         "japanese": "顧",
-        "english": "ㄍㄨˋ",
+        "english": "to look back",
         "furigana": "顧",
         "kana": "ㄍㄨˋ",
         "answer": "ㄍㄨˋ"
       },
       {
         "japanese": "示",
-        "english": "ㄕˋ",
+        "english": "to show",
         "furigana": "示",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "社",
-        "english": "ㄕㄜˋ",
+        "english": "society",
         "furigana": "社",
         "kana": "ㄕㄜˋ",
         "answer": "ㄕㄜˋ"
       },
       {
         "japanese": "視",
-        "english": "ㄕˋ",
+        "english": "to inspect",
         "furigana": "視",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "福",
-        "english": "ㄈㄨˊ",
+        "english": "happiness",
         "furigana": "福",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "禁",
-        "english": "ㄐㄧㄣˋ",
+        "english": "to prohibit",
         "furigana": "禁",
         "kana": "ㄐㄧㄣˋ",
         "answer": "ㄐㄧㄣˋ"
       },
       {
         "japanese": "襟",
-        "english": "ㄐㄧㄣ",
+        "english": "front of a garment",
         "furigana": "襟",
         "kana": "ㄐㄧㄣ",
         "answer": "ㄐㄧㄣ"
       },
       {
         "japanese": "宗",
-        "english": "ㄗㄨㄥ",
+        "english": "religion",
         "furigana": "宗",
         "kana": "ㄗㄨㄥ",
         "answer": "ㄗㄨㄥ"
       },
       {
         "japanese": "崇",
-        "english": "ㄔㄨㄥˊ",
+        "english": "to worship",
         "furigana": "崇",
         "kana": "ㄔㄨㄥˊ",
         "answer": "ㄔㄨㄥˊ"
       },
       {
         "japanese": "祭",
-        "english": "ㄐㄧˋ",
+        "english": "to offer sacrifice",
         "furigana": "祭",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "察",
-        "english": "ㄔㄚˊ",
+        "english": "to scrutinize",
         "furigana": "察",
         "kana": "ㄔㄚˊ",
         "answer": "ㄔㄚˊ"
       },
       {
         "japanese": "擦",
-        "english": "ㄘㄚ",
+        "english": "to scrub",
         "furigana": "擦",
         "kana": "ㄘㄚ",
         "answer": "ㄘㄚ"
       },
       {
         "japanese": "由",
-        "english": "ㄧㄡˊ",
+        "english": "wherefore",
         "furigana": "由",
         "kana": "ㄧㄡˊ",
         "answer": "ㄧㄡˊ"
       },
       {
         "japanese": "抽",
-        "english": "ㄔㄡ",
+        "english": "to draw out",
         "furigana": "抽",
         "kana": "ㄔㄡ",
         "answer": "ㄔㄡ"
       },
       {
         "japanese": "油",
-        "english": "ㄧㄡˊ",
+        "english": "oil",
         "furigana": "油",
         "kana": "ㄧㄡˊ",
         "answer": "ㄧㄡˊ"
       },
       {
         "japanese": "甲",
-        "english": "ㄐㄧㄚˇ",
+        "english": "first",
         "furigana": "甲",
         "kana": "ㄐㄧㄚˇ",
         "answer": "ㄐㄧㄚˇ"
       },
       {
         "japanese": "押",
-        "english": "ㄧㄚ",
+        "english": "to pawn",
         "furigana": "押",
         "kana": "ㄧㄚ",
         "answer": "ㄧㄚ"
       },
       {
         "japanese": "申",
-        "english": "ㄕㄣ",
+        "english": "to express",
         "furigana": "申",
         "kana": "ㄕㄣ",
         "answer": "ㄕㄣ"
       },
       {
         "japanese": "伸",
-        "english": "ㄕㄣ",
+        "english": "to extend",
         "furigana": "伸",
         "kana": "ㄕㄣ",
         "answer": "ㄕㄣ"
       },
       {
         "japanese": "神",
-        "english": "ㄕㄣˊ",
+        "english": "gods",
         "furigana": "神",
         "kana": "ㄕㄣˊ",
         "answer": "ㄕㄣˊ"
       },
       {
         "japanese": "果",
-        "english": "ㄍㄨㄛˇ",
+        "english": "fruit",
         "furigana": "果",
         "kana": "ㄍㄨㄛˇ",
         "answer": "ㄍㄨㄛˇ"
       },
       {
         "japanese": "課",
-        "english": "ㄎㄜˋ",
+        "english": "lesson",
         "furigana": "課",
         "kana": "ㄎㄜˋ",
         "answer": "ㄎㄜˋ"
       },
       {
         "japanese": "顆",
-        "english": "ㄎㄜ",
+        "english": "granule",
         "furigana": "顆",
         "kana": "ㄎㄜ",
         "answer": "ㄎㄜ"
       },
       {
         "japanese": "斤",
-        "english": "ㄐㄧㄣ",
+        "english": "a catty  [unit of wgt]",
         "furigana": "斤",
         "kana": "ㄐㄧㄣ",
         "answer": "ㄐㄧㄣ"
       },
       {
         "japanese": "所",
-        "english": "ㄙㄨㄛˇ",
+        "english": "a place",
         "furigana": "所",
         "kana": "ㄙㄨㄛˇ",
         "answer": "ㄙㄨㄛˇ"
       },
       {
         "japanese": "近",
-        "english": "ㄐㄧㄣˋ",
+        "english": "near",
         "furigana": "近",
         "kana": "ㄐㄧㄣˋ",
         "answer": "ㄐㄧㄣˋ"
       },
       {
         "japanese": "斬",
-        "english": "ㄓㄢˇ",
+        "english": "to behead",
         "furigana": "斬",
         "kana": "ㄓㄢˇ",
         "answer": "ㄓㄢˇ"
       },
       {
         "japanese": "暫",
-        "english": "ㄓㄢˋ",
+        "english": "temporary",
         "furigana": "暫",
         "kana": "ㄓㄢˋ",
         "answer": "ㄓㄢˋ"
       },
       {
         "japanese": "漸",
-        "english": "ㄐㄧㄢˋ",
+        "english": "gradually",
         "furigana": "漸",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "質",
-        "english": "ㄓˊ",
+        "english": "quality",
         "furigana": "質",
         "kana": "ㄓˊ",
         "answer": "ㄓˊ"
       },
       {
         "japanese": "斥",
-        "english": "ㄔˋ",
+        "english": "to reprimand",
         "furigana": "斥",
         "kana": "ㄔˋ",
         "answer": "ㄔˋ"
       },
       {
         "japanese": "訴",
-        "english": "ㄙㄨˋ",
+        "english": "to accuse",
         "furigana": "訴",
         "kana": "ㄙㄨˋ",
         "answer": "ㄙㄨˋ"
       },
       {
         "japanese": "乍",
-        "english": "ㄓㄚˋ",
+        "english": "for the first time",
         "furigana": "乍",
         "kana": "ㄓㄚˋ",
         "answer": "ㄓㄚˋ"
       },
       {
         "japanese": "怎",
-        "english": "ㄗㄣˇ",
+        "english": "how?",
         "furigana": "怎",
         "kana": "ㄗㄣˇ",
         "answer": "ㄗㄣˇ"
       },
       {
         "japanese": "昨",
-        "english": "ㄗㄨㄛˊ",
+        "english": "yesterday",
         "furigana": "昨",
         "kana": "ㄗㄨㄛˊ",
         "answer": "ㄗㄨㄛˊ"
       },
       {
         "japanese": "作",
-        "english": "ㄗㄨㄛˋ",
+        "english": "to do",
         "furigana": "作",
         "kana": "ㄗㄨㄛˋ",
         "answer": "ㄗㄨㄛˋ"
       },
       {
         "japanese": "雪",
-        "english": "ㄒㄩㄝˇ",
+        "english": "the snow",
         "furigana": "雪",
         "kana": "ㄒㄩㄝˇ",
         "answer": "ㄒㄩㄝˇ"
       },
       {
         "japanese": "急",
-        "english": "ㄐㄧˊ",
+        "english": "anxious",
         "furigana": "急",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "尋",
-        "english": "ㄒㄩㄣˊ",
+        "english": "to seek",
         "furigana": "尋",
         "kana": "ㄒㄩㄣˊ",
         "answer": "ㄒㄩㄣˊ"
       },
       {
         "japanese": "婦",
-        "english": "ㄈㄨˋ",
+        "english": "married woman",
         "furigana": "婦",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "掃",
-        "english": "ㄙㄠˇ",
+        "english": "to sweep",
         "furigana": "掃",
         "kana": "ㄙㄠˇ",
         "answer": "ㄙㄠˇ"
       },
       {
         "japanese": "錄",
-        "english": "ㄌㄨˋ",
+        "english": "to record",
         "furigana": "錄",
         "kana": "ㄌㄨˋ",
         "answer": "ㄌㄨˋ"
       },
       {
         "japanese": "碌",
-        "english": "ㄌㄨˋ",
+        "english": "commonplace",
         "furigana": "碌",
         "kana": "ㄌㄨˋ",
         "answer": "ㄌㄨˋ"
       },
       {
         "japanese": "爭",
-        "english": "ㄓㄥ",
+        "english": "to contend",
         "furigana": "爭",
         "kana": "ㄓㄥ",
         "answer": "ㄓㄥ"
       },
       {
         "japanese": "淨",
-        "english": "ㄐㄧㄥˋ",
+        "english": "clean",
         "furigana": "淨",
         "kana": "ㄐㄧㄥˋ",
         "answer": "ㄐㄧㄥˋ"
       },
       {
         "japanese": "事",
-        "english": "ㄕˋ",
+        "english": "matter",
         "furigana": "事",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "唐",
-        "english": "ㄊㄤˊ",
+        "english": "tang",
         "furigana": "唐",
         "kana": "ㄊㄤˊ",
         "answer": "ㄊㄤˊ"
       },
       {
         "japanese": "糖",
-        "english": "ㄊㄤˊ",
+        "english": "sugar",
         "furigana": "糖",
         "kana": "ㄊㄤˊ",
         "answer": "ㄊㄤˊ"
       },
       {
         "japanese": "康",
-        "english": "ㄎㄤ",
+        "english": "hale",
         "furigana": "康",
         "kana": "ㄎㄤ",
         "answer": "ㄎㄤ"
       },
       {
         "japanese": "尹",
-        "english": "ㄧㄣˇ",
+        "english": "overseer",
         "furigana": "尹",
         "kana": "ㄧㄣˇ",
         "answer": "ㄧㄣˇ"
       },
       {
         "japanese": "伊",
-        "english": "ㄧ",
+        "english": "iran",
         "furigana": "伊",
         "kana": "ㄧ",
         "answer": "ㄧ"
       },
       {
         "japanese": "君",
-        "english": "ㄐㄩㄣ",
+        "english": "monarch",
         "furigana": "君",
         "kana": "ㄐㄩㄣ",
         "answer": "ㄐㄩㄣ"
       },
       {
         "japanese": "裙",
-        "english": "ㄑㄩㄣˊ",
+        "english": "skirt",
         "furigana": "裙",
         "kana": "ㄑㄩㄣˊ",
         "answer": "ㄑㄩㄣˊ"
       },
       {
         "japanese": "群",
-        "english": "ㄑㄩㄣˊ",
+        "english": "crowd",
         "furigana": "群",
         "kana": "ㄑㄩㄣˊ",
         "answer": "ㄑㄩㄣˊ"
       },
       {
         "japanese": "而",
-        "english": "ㄦˊ",
+        "english": "and",
         "furigana": "而",
         "kana": "ㄦˊ",
         "answer": "ㄦˊ"
       },
       {
         "japanese": "需",
-        "english": "ㄒㄩ",
+        "english": "to need",
         "furigana": "需",
         "kana": "ㄒㄩ",
         "answer": "ㄒㄩ"
       },
       {
         "japanese": "儒",
-        "english": "ㄖㄨˊ",
+        "english": "confucian",
         "furigana": "儒",
         "kana": "ㄖㄨˊ",
         "answer": "ㄖㄨˊ"
       },
       {
         "japanese": "瑞",
-        "english": "ㄖㄨㄟˋ",
+        "english": "auspicious",
         "furigana": "瑞",
         "kana": "ㄖㄨㄟˋ",
         "answer": "ㄖㄨㄟˋ"
       },
       {
         "japanese": "端",
-        "english": "ㄉㄨㄢ",
+        "english": "upright",
         "furigana": "端",
         "kana": "ㄉㄨㄢ",
         "answer": "ㄉㄨㄢ"
       },
       {
         "japanese": "曲",
-        "english": "ㄑㄩ",
+        "english": "bent",
         "furigana": "曲",
         "kana": "ㄑㄩ",
         "answer": "ㄑㄩ"
       },
       {
         "japanese": "斗",
-        "english": "ㄉㄡˇ",
+        "english": "big dipper",
         "furigana": "斗",
         "kana": "ㄉㄡˇ",
         "answer": "ㄉㄡˇ"
       },
       {
         "japanese": "料",
-        "english": "ㄌㄧㄠˋ",
+        "english": "material",
         "furigana": "料",
         "kana": "ㄌㄧㄠˋ",
         "answer": "ㄌㄧㄠˋ"
       },
       {
         "japanese": "科",
-        "english": "ㄎㄜ",
+        "english": "academic discipline",
         "furigana": "科",
         "kana": "ㄎㄜ",
         "answer": "ㄎㄜ"
       },
       {
         "japanese": "用",
-        "english": "ㄩㄥˋ",
+        "english": "to utilize",
         "furigana": "用",
         "kana": "ㄩㄥˋ",
         "answer": "ㄩㄥˋ"
       },
       {
         "japanese": "昔",
-        "english": "ㄒㄧˊ",
+        "english": "times past",
         "furigana": "昔",
         "kana": "ㄒㄧˊ",
         "answer": "ㄒㄧˊ"
       },
       {
         "japanese": "借",
-        "english": "ㄐㄧㄝˋ",
+        "english": "to borrow",
         "furigana": "借",
         "kana": "ㄐㄧㄝˋ",
         "answer": "ㄐㄧㄝˋ"
       },
       {
         "japanese": "錯",
-        "english": "ㄘㄨㄛˋ",
+        "english": "mistaken",
         "furigana": "錯",
         "kana": "ㄘㄨㄛˋ",
         "answer": "ㄘㄨㄛˋ"
       },
       {
         "japanese": "散",
-        "english": "ㄙㄢˇ",
+        "english": "scattered",
         "furigana": "散",
         "kana": "ㄙㄢˇ",
         "answer": "ㄙㄢˇ"
       },
       {
         "japanese": "撒",
-        "english": "ㄙㄚˇ",
+        "english": "to scatter",
         "furigana": "撒",
         "kana": "ㄙㄚˇ",
         "answer": "ㄙㄚˇ"
       },
       {
         "japanese": "備",
-        "english": "ㄅㄟˋ",
+        "english": "to prepare",
         "furigana": "備",
         "kana": "ㄅㄟˋ",
         "answer": "ㄅㄟˋ"
       },
       {
         "japanese": "廿",
-        "english": "ㄋㄧㄢˋ",
+        "english": "twenty",
         "furigana": "廿",
         "kana": "ㄋㄧㄢˋ",
         "answer": "ㄋㄧㄢˋ"
       },
       {
         "japanese": "席",
-        "english": "ㄒㄧˊ",
+        "english": "a banquet seat",
         "furigana": "席",
         "kana": "ㄒㄧˊ",
         "answer": "ㄒㄧˊ"
       },
       {
         "japanese": "度",
-        "english": "ㄉㄨˋ",
+        "english": "degrees",
         "furigana": "度",
         "kana": "ㄉㄨˋ",
         "answer": "ㄉㄨˋ"
       },
       {
         "japanese": "渡",
-        "english": "ㄉㄨˋ",
+        "english": "ferry",
         "furigana": "渡",
         "kana": "ㄉㄨˋ",
         "answer": "ㄉㄨˋ"
       },
       {
         "japanese": "半",
-        "english": "ㄅㄢˋ",
+        "english": "half",
         "furigana": "半",
         "kana": "ㄅㄢˋ",
         "answer": "ㄅㄢˋ"
       },
       {
         "japanese": "伴",
-        "english": "ㄅㄢˋ",
+        "english": "partner",
         "furigana": "伴",
         "kana": "ㄅㄢˋ",
         "answer": "ㄅㄢˋ"
       },
       {
         "japanese": "胖",
-        "english": "ㄆㄤˋ",
+        "english": "fat",
         "furigana": "胖",
         "kana": "ㄆㄤˋ",
         "answer": "ㄆㄤˋ"
       },
       {
         "japanese": "判",
-        "english": "ㄆㄢˋ",
+        "english": "to judge",
         "furigana": "判",
         "kana": "ㄆㄢˋ",
         "answer": "ㄆㄢˋ"
       },
       {
         "japanese": "眷",
-        "english": "ㄐㄩㄢˋ",
+        "english": "dependents",
         "furigana": "眷",
         "kana": "ㄐㄩㄢˋ",
         "answer": "ㄐㄩㄢˋ"
       },
       {
         "japanese": "拳",
-        "english": "ㄑㄩㄢˊ",
+        "english": "boxing",
         "furigana": "拳",
         "kana": "ㄑㄩㄢˊ",
         "answer": "ㄑㄩㄢˊ"
       },
       {
         "japanese": "勝",
-        "english": "ㄕㄥˋ",
+        "english": "victory",
         "furigana": "勝",
         "kana": "ㄕㄥˋ",
         "answer": "ㄕㄥˋ"
       },
       {
         "japanese": "片",
-        "english": "ㄆㄧㄢˋ",
+        "english": "a slice",
         "furigana": "片",
         "kana": "ㄆㄧㄢˋ",
         "answer": "ㄆㄧㄢˋ"
       },
       {
         "japanese": "版",
-        "english": "ㄅㄢˇ",
+        "english": "printing plate",
         "furigana": "版",
         "kana": "ㄅㄢˇ",
         "answer": "ㄅㄢˇ"
       },
       {
         "japanese": "妝",
-        "english": "ㄓㄨㄤ",
+        "english": "to put on makeup",
         "furigana": "妝",
         "kana": "ㄓㄨㄤ",
         "answer": "ㄓㄨㄤ"
       },
       {
         "japanese": "壯",
-        "english": "ㄓㄨㄤˋ",
+        "english": "robust",
         "furigana": "壯",
         "kana": "ㄓㄨㄤˋ",
         "answer": "ㄓㄨㄤˋ"
       },
       {
         "japanese": "莊",
-        "english": "ㄓㄨㄤ",
+        "english": "hamlet",
         "furigana": "莊",
         "kana": "ㄓㄨㄤ",
         "answer": "ㄓㄨㄤ"
       },
       {
         "japanese": "裝",
-        "english": "ㄓㄨㄤ",
+        "english": "attire",
         "furigana": "裝",
         "kana": "ㄓㄨㄤ",
         "answer": "ㄓㄨㄤ"
       },
       {
         "japanese": "將",
-        "english": "ㄐㄧㄤˋ",
+        "english": "a general  [rank]",
         "furigana": "將",
         "kana": "ㄐㄧㄤˋ",
         "answer": "ㄐㄧㄤˋ"
       },
       {
         "japanese": "之",
-        "english": "ㄓ",
+        "english": "of",
         "furigana": "之",
         "kana": "ㄓ",
         "answer": "ㄓ"
       },
       {
         "japanese": "乏",
-        "english": "ㄈㄚˊ",
+        "english": "weary",
         "furigana": "乏",
         "kana": "ㄈㄚˊ",
         "answer": "ㄈㄚˊ"
       },
       {
         "japanese": "眨",
-        "english": "ㄓㄚˇ",
+        "english": "to blink",
         "furigana": "眨",
         "kana": "ㄓㄚˇ",
         "answer": "ㄓㄚˇ"
       },
       {
         "japanese": "不",
-        "english": "ㄅㄨˋ",
+        "english": "no",
         "furigana": "不",
         "kana": "ㄅㄨˋ",
         "answer": "ㄅㄨˋ"
       },
       {
         "japanese": "否",
-        "english": "ㄈㄡˇ",
+        "english": "to negate",
         "furigana": "否",
         "kana": "ㄈㄡˇ",
         "answer": "ㄈㄡˇ"
       },
       {
         "japanese": "杯",
-        "english": "ㄅㄟ",
+        "english": "cup",
         "furigana": "杯",
         "kana": "ㄅㄟ",
         "answer": "ㄅㄟ"
       },
       {
         "japanese": "矢",
-        "english": "ㄕˇ",
+        "english": "dart",
         "furigana": "矢",
         "kana": "ㄕˇ",
         "answer": "ㄕˇ"
       },
       {
         "japanese": "族",
-        "english": "ㄗㄨˊ",
+        "english": "tribe",
         "furigana": "族",
         "kana": "ㄗㄨˊ",
         "answer": "ㄗㄨˊ"
       },
       {
         "japanese": "知",
-        "english": "ㄓ",
+        "english": "to know",
         "furigana": "知",
         "kana": "ㄓ",
         "answer": "ㄓ"
       },
       {
         "japanese": "智",
-        "english": "ㄓˋ",
+        "english": "wisdom",
         "furigana": "智",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "矛",
-        "english": "ㄇㄠˊ",
+        "english": "spear",
         "furigana": "矛",
         "kana": "ㄇㄠˊ",
         "answer": "ㄇㄠˊ"
       },
       {
         "japanese": "柔",
-        "english": "ㄖㄡˊ",
+        "english": "gentle",
         "furigana": "柔",
         "kana": "ㄖㄡˊ",
         "answer": "ㄖㄡˊ"
       },
       {
         "japanese": "揉",
-        "english": "ㄖㄡˊ",
+        "english": "to knead",
         "furigana": "揉",
         "kana": "ㄖㄡˊ",
         "answer": "ㄖㄡˊ"
       },
       {
         "japanese": "務",
-        "english": "ㄨˋ",
+        "english": "tasks",
         "furigana": "務",
         "kana": "ㄨˋ",
         "answer": "ㄨˋ"
       },
       {
         "japanese": "霧",
-        "english": "ㄨˋ",
+        "english": "fog",
         "furigana": "霧",
         "kana": "ㄨˋ",
         "answer": "ㄨˋ"
       },
       {
         "japanese": "予",
-        "english": "ㄩˇ",
+        "english": "to bestow",
         "furigana": "予",
         "kana": "ㄩˇ",
         "answer": "ㄩˇ"
       },
       {
         "japanese": "序",
-        "english": "ㄒㄩˋ",
+        "english": "preface",
         "furigana": "序",
         "kana": "ㄒㄩˋ",
         "answer": "ㄒㄩˋ"
       },
       {
         "japanese": "預",
-        "english": "ㄩˋ",
+        "english": "beforehand",
         "furigana": "預",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "野",
-        "english": "ㄧㄝˇ",
+        "english": "wild",
         "furigana": "野",
         "kana": "ㄧㄝˇ",
         "answer": "ㄧㄝˇ"
       },
       {
         "japanese": "班",
-        "english": "ㄅㄢ",
+        "english": "class",
         "furigana": "班",
         "kana": "ㄅㄢ",
         "answer": "ㄅㄢ"
       },
       {
         "japanese": "弓",
-        "english": "ㄍㄨㄥ",
+        "english": "a bow  [for arrows]",
         "furigana": "弓",
         "kana": "ㄍㄨㄥ",
         "answer": "ㄍㄨㄥ"
       },
       {
         "japanese": "引",
-        "english": "ㄧㄣˇ",
+        "english": "to draw",
         "furigana": "引",
         "kana": "ㄧㄣˇ",
         "answer": "ㄧㄣˇ"
       },
       {
         "japanese": "強",
-        "english": "ㄑㄧㄤˊ",
+        "english": "strong",
         "furigana": "強",
         "kana": "ㄑㄧㄤˊ",
         "answer": "ㄑㄧㄤˊ"
       },
       {
         "japanese": "弱",
-        "english": "ㄖㄨㄛˋ",
+        "english": "weak",
         "furigana": "弱",
         "kana": "ㄖㄨㄛˋ",
         "answer": "ㄖㄨㄛˋ"
       },
       {
         "japanese": "彈",
-        "english": "ㄉㄢˋ",
+        "english": "bullet",
         "furigana": "彈",
         "kana": "ㄉㄢˋ",
         "answer": "ㄉㄢˋ"
       },
       {
         "japanese": "佛",
-        "english": "ㄈㄛˊ",
+        "english": "buddha",
         "furigana": "佛",
         "kana": "ㄈㄛˊ",
         "answer": "ㄈㄛˊ"
       },
       {
         "japanese": "費",
-        "english": "ㄈㄟˋ",
+        "english": "expense",
         "furigana": "費",
         "kana": "ㄈㄟˋ",
         "answer": "ㄈㄟˋ"
       },
       {
         "japanese": "弟",
-        "english": "ㄉㄧˋ",
+        "english": "younger brother",
         "furigana": "弟",
         "kana": "ㄉㄧˋ",
         "answer": "ㄉㄧˋ"
       },
       {
         "japanese": "第",
-        "english": "ㄉㄧˋ",
+        "english": "no#  [number]",
         "furigana": "第",
         "kana": "ㄉㄧˋ",
         "answer": "ㄉㄧˋ"
       },
       {
         "japanese": "巧",
-        "english": "ㄑㄧㄠˇ",
+        "english": "adroit",
         "furigana": "巧",
         "kana": "ㄑㄧㄠˇ",
         "answer": "ㄑㄧㄠˇ"
       },
       {
         "japanese": "身",
-        "english": "ㄕㄣ",
+        "english": "somebody",
         "furigana": "身",
         "kana": "ㄕㄣ",
         "answer": "ㄕㄣ"
       },
       {
         "japanese": "射",
-        "english": "ㄕㄜˋ",
+        "english": "to shoot",
         "furigana": "射",
         "kana": "ㄕㄜˋ",
         "answer": "ㄕㄜˋ"
       },
       {
         "japanese": "謝",
-        "english": "ㄒㄧㄝˋ",
+        "english": "to thank",
         "furigana": "謝",
         "kana": "ㄒㄧㄝˋ",
         "answer": "ㄒㄧㄝˋ"
       },
       {
         "japanese": "老",
-        "english": "ㄌㄠˇ",
+        "english": "old man",
         "furigana": "老",
         "kana": "ㄌㄠˇ",
         "answer": "ㄌㄠˇ"
       },
       {
         "japanese": "考",
-        "english": "ㄎㄠˇ",
+        "english": "to take an exam",
         "furigana": "考",
         "kana": "ㄎㄠˇ",
         "answer": "ㄎㄠˇ"
       },
       {
         "japanese": "烤",
-        "english": "ㄎㄠˇ",
+        "english": "to roast",
         "furigana": "烤",
         "kana": "ㄎㄠˇ",
         "answer": "ㄎㄠˇ"
       },
       {
         "japanese": "孝",
-        "english": "ㄒㄧㄠˋ",
+        "english": "filial piety",
         "furigana": "孝",
         "kana": "ㄒㄧㄠˋ",
         "answer": "ㄒㄧㄠˋ"
       },
       {
         "japanese": "教",
-        "english": "ㄐㄧㄠ",
+        "english": "to teach",
         "furigana": "教",
         "kana": "ㄐㄧㄠ",
         "answer": "ㄐㄧㄠ"
       },
       {
         "japanese": "者",
-        "english": "ㄓㄜˇ",
+        "english": "someone",
         "furigana": "者",
         "kana": "ㄓㄜˇ",
         "answer": "ㄓㄜˇ"
       },
       {
         "japanese": "著",
-        "english": "ㄓㄜ˙",
+        "english": "—ing",
         "furigana": "著",
         "kana": "ㄓㄜ˙",
         "answer": "ㄓㄜ˙"
       },
       {
         "japanese": "豬",
-        "english": "ㄓㄨ",
+        "english": "pig",
         "furigana": "豬",
         "kana": "ㄓㄨ",
         "answer": "ㄓㄨ"
       },
       {
         "japanese": "追",
-        "english": "ㄓㄨㄟ",
+        "english": "to chase",
         "furigana": "追",
         "kana": "ㄓㄨㄟ",
         "answer": "ㄓㄨㄟ"
       },
       {
         "japanese": "帥",
-        "english": "ㄕㄨㄞˋ",
+        "english": "commander",
         "furigana": "帥",
         "kana": "ㄕㄨㄞˋ",
         "answer": "ㄕㄨㄞˋ"
       },
       {
         "japanese": "師",
-        "english": "ㄕ",
+        "english": "teacher",
         "furigana": "師",
         "kana": "ㄕ",
         "answer": "ㄕ"
       },
       {
         "japanese": "獅",
-        "english": "ㄕ",
+        "english": "lion",
         "furigana": "獅",
         "kana": "ㄕ",
         "answer": "ㄕ"
       },
       {
         "japanese": "官",
-        "english": "ㄍㄨㄢ",
+        "english": "bureaucrat",
         "furigana": "官",
         "kana": "ㄍㄨㄢ",
         "answer": "ㄍㄨㄢ"
       },
       {
         "japanese": "管",
-        "english": "ㄍㄨㄢˇ",
+        "english": "pipe",
         "furigana": "管",
         "kana": "ㄍㄨㄢˇ",
         "answer": "ㄍㄨㄢˇ"
       },
       {
         "japanese": "父",
-        "english": "ㄈㄨˋ",
+        "english": "father",
         "furigana": "父",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "交",
-        "english": "ㄐㄧㄠ",
+        "english": "to mingle",
         "furigana": "交",
         "kana": "ㄐㄧㄠ",
         "answer": "ㄐㄧㄠ"
       },
       {
         "japanese": "效",
-        "english": "ㄒㄧㄠˋ",
+        "english": "effect",
         "furigana": "效",
         "kana": "ㄒㄧㄠˋ",
         "answer": "ㄒㄧㄠˋ"
       },
       {
         "japanese": "較",
-        "english": "ㄐㄧㄠˋ",
+        "english": "relatively",
         "furigana": "較",
         "kana": "ㄐㄧㄠˋ",
         "answer": "ㄐㄧㄠˋ"
       },
       {
         "japanese": "校",
-        "english": "ㄒㄧㄠˋ",
+        "english": "school",
         "furigana": "校",
         "kana": "ㄒㄧㄠˋ",
         "answer": "ㄒㄧㄠˋ"
       },
       {
         "japanese": "足",
-        "english": "ㄗㄨˊ",
+        "english": "lower leg",
         "furigana": "足",
         "kana": "ㄗㄨˊ",
         "answer": "ㄗㄨˊ"
       },
       {
         "japanese": "跑",
-        "english": "ㄆㄠˇ",
+        "english": "to run",
         "furigana": "跑",
         "kana": "ㄆㄠˇ",
         "answer": "ㄆㄠˇ"
       },
       {
         "japanese": "跳",
-        "english": "ㄊㄧㄠˋ",
+        "english": "to jump",
         "furigana": "跳",
         "kana": "ㄊㄧㄠˋ",
         "answer": "ㄊㄧㄠˋ"
       },
       {
         "japanese": "路",
-        "english": "ㄌㄨˋ",
+        "english": "path",
         "furigana": "路",
         "kana": "ㄌㄨˋ",
         "answer": "ㄌㄨˋ"
       },
       {
         "japanese": "露",
-        "english": "ㄌㄨˋ",
+        "english": "dew",
         "furigana": "露",
         "kana": "ㄌㄨˋ",
         "answer": "ㄌㄨˋ"
       },
       {
         "japanese": "骨",
-        "english": "ㄍㄨˇ",
+        "english": "skeleton",
         "furigana": "骨",
         "kana": "ㄍㄨˇ",
         "answer": "ㄍㄨˇ"
       },
       {
         "japanese": "滑",
-        "english": "ㄏㄨㄚˊ",
+        "english": "slippery",
         "furigana": "滑",
         "kana": "ㄏㄨㄚˊ",
         "answer": "ㄏㄨㄚˊ"
       },
       {
         "japanese": "過",
-        "english": "ㄍㄨㄛˋ",
+        "english": "to cross",
         "furigana": "過",
         "kana": "ㄍㄨㄛˋ",
         "answer": "ㄍㄨㄛˋ"
       },
       {
         "japanese": "阿",
-        "english": "ㄚ",
+        "english": "apollo",
         "furigana": "阿",
         "kana": "ㄚ",
         "answer": "ㄚ"
       },
       {
         "japanese": "啊",
-        "english": "ㄚ˙",
+        "english": "aah!",
         "furigana": "啊",
         "kana": "ㄚ˙",
         "answer": "ㄚ˙"
       },
       {
         "japanese": "際",
-        "english": "ㄐㄧˋ",
+        "english": "occasion",
         "furigana": "際",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "險",
-        "english": "ㄒㄧㄢˇ",
+        "english": "perilous",
         "furigana": "險",
         "kana": "ㄒㄧㄢˇ",
         "answer": "ㄒㄧㄢˇ"
       },
       {
         "japanese": "隨",
-        "english": "ㄙㄨㄟˊ",
+        "english": "as you wish",
         "furigana": "隨",
         "kana": "ㄙㄨㄟˊ",
         "answer": "ㄙㄨㄟˊ"
       },
       {
         "japanese": "陽",
-        "english": "ㄧㄤˊ",
+        "english": "yang",
         "furigana": "陽",
         "kana": "ㄧㄤˊ",
         "answer": "ㄧㄤˊ"
       },
       {
         "japanese": "陳",
-        "english": "ㄔㄣˊ",
+        "english": "to exhibit",
         "furigana": "陳",
         "kana": "ㄔㄣˊ",
         "answer": "ㄔㄣˊ"
       },
       {
         "japanese": "防",
-        "english": "ㄈㄤˊ",
+        "english": "to ward off",
         "furigana": "防",
         "kana": "ㄈㄤˊ",
         "answer": "ㄈㄤˊ"
       },
       {
         "japanese": "附",
-        "english": "ㄈㄨˋ",
+        "english": "to attach",
         "furigana": "附",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "院",
-        "english": "ㄩㄢˋ",
+        "english": "inst.",
         "furigana": "院",
         "kana": "ㄩㄢˋ",
         "answer": "ㄩㄢˋ"
       },
       {
         "japanese": "陣",
-        "english": "ㄓㄣˋ",
+        "english": "battle formation",
         "furigana": "陣",
         "kana": "ㄓㄣˋ",
         "answer": "ㄓㄣˋ"
       },
       {
         "japanese": "隊",
-        "english": "ㄉㄨㄟˋ",
+        "english": "team",
         "furigana": "隊",
         "kana": "ㄉㄨㄟˋ",
         "answer": "ㄉㄨㄟˋ"
       },
       {
         "japanese": "降",
-        "english": "ㄐㄧㄤˋ",
+        "english": "to descend",
         "furigana": "降",
         "kana": "ㄐㄧㄤˋ",
         "answer": "ㄐㄧㄤˋ"
       },
       {
         "japanese": "階",
-        "english": "ㄐㄧㄝ",
+        "english": "stairs",
         "furigana": "階",
         "kana": "ㄐㄧㄝ",
         "answer": "ㄐㄧㄝ"
       },
       {
         "japanese": "穴",
-        "english": "ㄒㄩㄝˋ",
+        "english": "hole",
         "furigana": "穴",
         "kana": "ㄒㄩㄝˋ",
         "answer": "ㄒㄩㄝˋ"
       },
       {
         "japanese": "究",
-        "english": "ㄐㄧㄡˋ",
+        "english": "research",
         "furigana": "究",
         "kana": "ㄐㄧㄡˋ",
         "answer": "ㄐㄧㄡˋ"
       },
       {
         "japanese": "突",
-        "english": "ㄊㄨˊ",
+        "english": "abruptly",
         "furigana": "突",
         "kana": "ㄊㄨˊ",
         "answer": "ㄊㄨˊ"
       },
       {
         "japanese": "空",
-        "english": "ㄎㄨㄥ",
+        "english": "empty",
         "furigana": "空",
         "kana": "ㄎㄨㄥ",
         "answer": "ㄎㄨㄥ"
       },
       {
         "japanese": "控",
-        "english": "ㄎㄨㄥˋ",
+        "english": "to control",
         "furigana": "控",
         "kana": "ㄎㄨㄥˋ",
         "answer": "ㄎㄨㄥˋ"
       },
       {
         "japanese": "邊",
-        "english": "ㄅㄧㄢ",
+        "english": "border",
         "furigana": "邊",
         "kana": "ㄅㄧㄢ",
         "answer": "ㄅㄧㄢ"
       },
       {
         "japanese": "深",
-        "english": "ㄕㄣ",
+        "english": "deep",
         "furigana": "深",
         "kana": "ㄕㄣ",
         "answer": "ㄕㄣ"
       },
       {
         "japanese": "探",
-        "english": "ㄊㄢˋ",
+        "english": "a spy",
         "furigana": "探",
         "kana": "ㄊㄢˋ",
         "answer": "ㄊㄢˋ"
       },
       {
         "japanese": "丘",
-        "english": "ㄑㄧㄡ",
+        "english": "hill",
         "furigana": "丘",
         "kana": "ㄑㄧㄡ",
         "answer": "ㄑㄧㄡ"
       },
       {
         "japanese": "兵",
-        "english": "ㄅㄧㄥ",
+        "english": "troops",
         "furigana": "兵",
         "kana": "ㄅㄧㄥ",
         "answer": "ㄅㄧㄥ"
       },
       {
         "japanese": "絲",
-        "english": "ㄙ",
+        "english": "silk",
         "furigana": "絲",
         "kana": "ㄙ",
         "answer": "ㄙ"
       },
       {
         "japanese": "線",
-        "english": "ㄒㄧㄢˋ",
+        "english": "line",
         "furigana": "線",
         "kana": "ㄒㄧㄢˋ",
         "answer": "ㄒㄧㄢˋ"
       },
       {
         "japanese": "維",
-        "english": "ㄨㄟˊ",
+        "english": "to maintain",
         "furigana": "維",
         "kana": "ㄨㄟˊ",
         "answer": "ㄨㄟˊ"
       },
       {
         "japanese": "羅",
-        "english": "ㄌㄨㄛˊ",
+        "english": "silk gauze",
         "furigana": "羅",
         "kana": "ㄌㄨㄛˊ",
         "answer": "ㄌㄨㄛˊ"
       },
       {
         "japanese": "續",
-        "english": "ㄒㄩˋ",
+        "english": "to continue",
         "furigana": "續",
         "kana": "ㄒㄩˋ",
         "answer": "ㄒㄩˋ"
       },
       {
         "japanese": "統",
-        "english": "ㄊㄨㄥˇ",
+        "english": "overall",
         "furigana": "統",
         "kana": "ㄊㄨㄥˇ",
         "answer": "ㄊㄨㄥˇ"
       },
       {
         "japanese": "給",
-        "english": "ㄍㄟˇ",
+        "english": "to give",
         "furigana": "給",
         "kana": "ㄍㄟˇ",
         "answer": "ㄍㄟˇ"
       },
       {
         "japanese": "結",
-        "english": "ㄐㄧㄝˊ",
+        "english": "to tie",
         "furigana": "結",
         "kana": "ㄐㄧㄝˊ",
         "answer": "ㄐㄧㄝˊ"
       },
       {
         "japanese": "終",
-        "english": "ㄓㄨㄥ",
+        "english": "end",
         "furigana": "終",
         "kana": "ㄓㄨㄥ",
         "answer": "ㄓㄨㄥ"
       },
       {
         "japanese": "級",
-        "english": "ㄐㄧˊ",
+        "english": "a rank",
         "furigana": "級",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "紀",
-        "english": "ㄐㄧˋ",
+        "english": "epoch",
         "furigana": "紀",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "紅",
-        "english": "ㄏㄨㄥˊ",
+        "english": "red",
         "furigana": "紅",
         "kana": "ㄏㄨㄥˊ",
         "answer": "ㄏㄨㄥˊ"
       },
       {
         "japanese": "約",
-        "english": "ㄩㄝ",
+        "english": "to make an appointment",
         "furigana": "約",
         "kana": "ㄩㄝ",
         "answer": "ㄩㄝ"
       },
       {
         "japanese": "細",
-        "english": "ㄒㄧˋ",
+        "english": "fine",
         "furigana": "細",
         "kana": "ㄒㄧˋ",
         "answer": "ㄒㄧˋ"
       },
       {
         "japanese": "緊",
-        "english": "ㄐㄧㄣˇ",
+        "english": "tight",
         "furigana": "緊",
         "kana": "ㄐㄧㄣˇ",
         "answer": "ㄐㄧㄣˇ"
       },
       {
         "japanese": "織",
-        "english": "ㄓ",
+        "english": "to weave",
         "furigana": "織",
         "kana": "ㄓ",
         "answer": "ㄓ"
       },
       {
         "japanese": "網",
-        "english": "ㄨㄤˇ",
+        "english": "net",
         "furigana": "網",
         "kana": "ㄨㄤˇ",
         "answer": "ㄨㄤˇ"
       },
       {
         "japanese": "綠",
-        "english": "ㄌㄩˋ",
+        "english": "green",
         "furigana": "綠",
         "kana": "ㄌㄩˋ",
         "answer": "ㄌㄩˋ"
       },
       {
         "japanese": "彎",
-        "english": "ㄨㄢ",
+        "english": "curved",
         "furigana": "彎",
         "kana": "ㄨㄢ",
         "answer": "ㄨㄢ"
       },
       {
         "japanese": "灣",
-        "english": "ㄨㄢ",
+        "english": "bay",
         "furigana": "灣",
         "kana": "ㄨㄢ",
         "answer": "ㄨㄢ"
       },
       {
         "japanese": "戀",
-        "english": "ㄌㄧㄢˋ",
+        "english": "to be enamored of",
         "furigana": "戀",
         "kana": "ㄌㄧㄢˋ",
         "answer": "ㄌㄧㄢˋ"
       },
       {
         "japanese": "變",
-        "english": "ㄅㄧㄢˋ",
+        "english": "to change",
         "furigana": "變",
         "kana": "ㄅㄧㄢˋ",
         "answer": "ㄅㄧㄢˋ"
       },
       {
         "japanese": "經",
-        "english": "ㄐㄧㄥ",
+        "english": "scripture",
         "furigana": "經",
         "kana": "ㄐㄧㄥ",
         "answer": "ㄐㄧㄥ"
       },
       {
         "japanese": "輕",
-        "english": "ㄑㄧㄥ",
+        "english": "lightweight",
         "furigana": "輕",
         "kana": "ㄑㄧㄥ",
         "answer": "ㄑㄧㄥ"
       },
       {
         "japanese": "後",
-        "english": "ㄏㄡˋ",
+        "english": "behind",
         "furigana": "後",
         "kana": "ㄏㄡˋ",
         "answer": "ㄏㄡˋ"
       },
       {
         "japanese": "幾",
-        "english": "ㄐㄧˇ",
+        "english": "how many?",
         "furigana": "幾",
         "kana": "ㄐㄧˇ",
         "answer": "ㄐㄧˇ"
       },
       {
         "japanese": "機",
-        "english": "ㄐㄧ",
+        "english": "machine",
         "furigana": "機",
         "kana": "ㄐㄧ",
         "answer": "ㄐㄧ"
       },
       {
         "japanese": "斷",
-        "english": "ㄉㄨㄢˋ",
+        "english": "to sever",
         "furigana": "斷",
         "kana": "ㄉㄨㄢˋ",
         "answer": "ㄉㄨㄢˋ"
       },
       {
         "japanese": "繼",
-        "english": "ㄐㄧˋ",
+        "english": "to carry on",
         "furigana": "繼",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "顯",
-        "english": "ㄒㄧㄢˇ",
+        "english": "obvious",
         "furigana": "顯",
         "kana": "ㄒㄧㄢˇ",
         "answer": "ㄒㄧㄢˇ"
       },
       {
         "japanese": "樂",
-        "english": "ㄩㄝˋ",
+        "english": "music",
         "furigana": "樂",
         "kana": "ㄩㄝˋ",
         "answer": "ㄩㄝˋ"
       },
       {
         "japanese": "藥",
-        "english": "ㄧㄠˋ",
+        "english": "medicine",
         "furigana": "藥",
         "kana": "ㄧㄠˋ",
         "answer": "ㄧㄠˋ"
       },
       {
         "japanese": "雞",
-        "english": "ㄐㄧ",
+        "english": "chicken",
         "furigana": "雞",
         "kana": "ㄐㄧ",
         "answer": "ㄐㄧ"
       },
       {
         "japanese": "麼",
-        "english": "ㄇㄜ˙",
+        "english": "[suffix]; [pause marker]",
         "furigana": "麼",
         "kana": "ㄇㄜ˙",
         "answer": "ㄇㄜ˙"
       },
       {
         "japanese": "系",
-        "english": "ㄒㄧˋ",
+        "english": "lineage",
         "furigana": "系",
         "kana": "ㄒㄧˋ",
         "answer": "ㄒㄧˋ"
       },
       {
         "japanese": "係",
-        "english": "ㄒㄧˋ",
+        "english": "related to",
         "furigana": "係",
         "kana": "ㄒㄧˋ",
         "answer": "ㄒㄧˋ"
       },
       {
         "japanese": "孫",
-        "english": "ㄙㄨㄣ",
+        "english": "grandchild",
         "furigana": "孫",
         "kana": "ㄙㄨㄣ",
         "answer": "ㄙㄨㄣ"
       },
       {
         "japanese": "卻",
-        "english": "ㄑㄩㄝˋ",
+        "english": "to withdraw",
         "furigana": "卻",
         "kana": "ㄑㄩㄝˋ",
         "answer": "ㄑㄩㄝˋ"
       },
       {
         "japanese": "腳",
-        "english": "ㄐㄧㄠˇ",
+        "english": "foot",
         "furigana": "腳",
         "kana": "ㄐㄧㄠˇ",
         "answer": "ㄐㄧㄠˇ"
       },
       {
         "japanese": "服",
-        "english": "ㄈㄨˊ",
+        "english": "apparel",
         "furigana": "服",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "命",
-        "english": "ㄇㄧㄥˋ",
+        "english": "fate",
         "furigana": "命",
         "kana": "ㄇㄧㄥˋ",
         "answer": "ㄇㄧㄥˋ"
       },
       {
         "japanese": "留",
-        "english": "ㄌㄧㄡˊ",
+        "english": "to stay",
         "furigana": "留",
         "kana": "ㄌㄧㄡˊ",
         "answer": "ㄌㄧㄡˊ"
       },
       {
         "japanese": "溜",
-        "english": "ㄌㄧㄡ",
+        "english": "to slide",
         "furigana": "溜",
         "kana": "ㄌㄧㄡ",
         "answer": "ㄌㄧㄡ"
       },
       {
         "japanese": "聊",
-        "english": "ㄌㄧㄠˊ",
+        "english": "to chat",
         "furigana": "聊",
         "kana": "ㄌㄧㄠˊ",
         "answer": "ㄌㄧㄠˊ"
       },
       {
         "japanese": "柳",
-        "english": "ㄌㄧㄡˇ",
+        "english": "willow",
         "furigana": "柳",
         "kana": "ㄌㄧㄡˇ",
         "answer": "ㄌㄧㄡˇ"
       },
       {
         "japanese": "令",
-        "english": "ㄌㄧㄥˋ",
+        "english": "orders",
         "furigana": "令",
         "kana": "ㄌㄧㄥˋ",
         "answer": "ㄌㄧㄥˋ"
       },
       {
         "japanese": "冷",
-        "english": "ㄌㄥˇ",
+        "english": "cold",
         "furigana": "冷",
         "kana": "ㄌㄥˇ",
         "answer": "ㄌㄥˇ"
       },
       {
         "japanese": "零",
-        "english": "ㄌㄧㄥˊ",
+        "english": "zero",
         "furigana": "零",
         "kana": "ㄌㄧㄥˊ",
         "answer": "ㄌㄧㄥˊ"
       },
       {
         "japanese": "領",
-        "english": "ㄌㄧㄥˇ",
+        "english": "collar",
         "furigana": "領",
         "kana": "ㄌㄧㄥˇ",
         "answer": "ㄌㄧㄥˇ"
       },
       {
         "japanese": "通",
-        "english": "ㄊㄨㄥ",
+        "english": "to communicate",
         "furigana": "通",
         "kana": "ㄊㄨㄥ",
         "answer": "ㄊㄨㄥ"
       },
       {
         "japanese": "勇",
-        "english": "ㄩㄥˇ",
+        "english": "courageous",
         "furigana": "勇",
         "kana": "ㄩㄥˇ",
         "answer": "ㄩㄥˇ"
       },
       {
         "japanese": "犯",
-        "english": "ㄈㄢˋ",
+        "english": "criminal",
         "furigana": "犯",
         "kana": "ㄈㄢˋ",
         "answer": "ㄈㄢˋ"
       },
       {
         "japanese": "危",
-        "english": "ㄨㄟˊ",
+        "english": "danger",
         "furigana": "危",
         "kana": "ㄨㄟˊ",
         "answer": "ㄨㄟˊ"
       },
       {
         "japanese": "脆",
-        "english": "ㄘㄨㄟˋ",
+        "english": "fragile",
         "furigana": "脆",
         "kana": "ㄘㄨㄟˋ",
         "answer": "ㄘㄨㄟˋ"
       },
       {
         "japanese": "印",
-        "english": "ㄧㄣˋ",
+        "english": "print",
         "furigana": "印",
         "kana": "ㄧㄣˋ",
         "answer": "ㄧㄣˋ"
       },
       {
         "japanese": "興",
-        "english": "ㄒㄧㄥˋ",
+        "english": "excitement",
         "furigana": "興",
         "kana": "ㄒㄧㄥˋ",
         "answer": "ㄒㄧㄥˋ"
       },
       {
         "japanese": "酒",
-        "english": "ㄐㄧㄡˇ",
+        "english": "liquor",
         "furigana": "酒",
         "kana": "ㄐㄧㄡˇ",
         "answer": "ㄐㄧㄡˇ"
       },
       {
         "japanese": "配",
-        "english": "ㄆㄟˋ",
+        "english": "to distribute",
         "furigana": "配",
         "kana": "ㄆㄟˋ",
         "answer": "ㄆㄟˋ"
       },
       {
         "japanese": "酋",
-        "english": "ㄑㄧㄡˊ",
+        "english": "chieftain",
         "furigana": "酋",
         "kana": "ㄑㄧㄡˊ",
         "answer": "ㄑㄧㄡˊ"
       },
       {
         "japanese": "尊",
-        "english": "ㄗㄨㄣ",
+        "english": "to venerate",
         "furigana": "尊",
         "kana": "ㄗㄨㄣ",
         "answer": "ㄗㄨㄣ"
       },
       {
         "japanese": "遵",
-        "english": "ㄗㄨㄣ",
+        "english": "to abide by",
         "furigana": "遵",
         "kana": "ㄗㄨㄣ",
         "answer": "ㄗㄨㄣ"
       },
       {
         "japanese": "豆",
-        "english": "ㄉㄡˋ",
+        "english": "beans",
         "furigana": "豆",
         "kana": "ㄉㄡˋ",
         "answer": "ㄉㄡˋ"
       },
       {
         "japanese": "頭",
-        "english": "ㄊㄡˊ",
+        "english": "head",
         "furigana": "頭",
         "kana": "ㄊㄡˊ",
         "answer": "ㄊㄡˊ"
       },
       {
         "japanese": "短",
-        "english": "ㄉㄨㄢˇ",
+        "english": "short",
         "furigana": "短",
         "kana": "ㄉㄨㄢˇ",
         "answer": "ㄉㄨㄢˇ"
       },
       {
         "japanese": "禮",
-        "english": "ㄌㄧˇ",
+        "english": "ceremony",
         "furigana": "禮",
         "kana": "ㄌㄧˇ",
         "answer": "ㄌㄧˇ"
       },
       {
         "japanese": "體",
-        "english": "ㄊㄧˇ",
+        "english": "body",
         "furigana": "體",
         "kana": "ㄊㄧˇ",
         "answer": "ㄊㄧˇ"
       },
       {
         "japanese": "鼓",
-        "english": "ㄍㄨˇ",
+        "english": "a drum",
         "furigana": "鼓",
         "kana": "ㄍㄨˇ",
         "answer": "ㄍㄨˇ"
       },
       {
         "japanese": "喜",
-        "english": "ㄒㄧˇ",
+        "english": "joyful",
         "furigana": "喜",
         "kana": "ㄒㄧˇ",
         "answer": "ㄒㄧˇ"
       },
       {
         "japanese": "廚",
-        "english": "ㄔㄨˊ",
+        "english": "kitchen",
         "furigana": "廚",
         "kana": "ㄔㄨˊ",
         "answer": "ㄔㄨˊ"
       },
       {
         "japanese": "樹",
-        "english": "ㄕㄨˋ",
+        "english": "timber",
         "furigana": "樹",
         "kana": "ㄕㄨˋ",
         "answer": "ㄕㄨˋ"
       },
       {
         "japanese": "血",
-        "english": "ㄒㄧㄝˇ",
+        "english": "blood",
         "furigana": "血",
         "kana": "ㄒㄧㄝˇ",
         "answer": "ㄒㄧㄝˇ"
       },
       {
         "japanese": "盡",
-        "english": "ㄐㄧㄣˋ",
+        "english": "exhausted",
         "furigana": "盡",
         "kana": "ㄐㄧㄣˋ",
         "answer": "ㄐㄧㄣˋ"
       },
       {
         "japanese": "儘",
-        "english": "ㄐㄧㄣˇ",
+        "english": "to the utmost",
         "furigana": "儘",
         "kana": "ㄐㄧㄣˇ",
         "answer": "ㄐㄧㄣˇ"
       },
       {
         "japanese": "蓋",
-        "english": "ㄍㄞˋ",
+        "english": "lid",
         "furigana": "蓋",
         "kana": "ㄍㄞˋ",
         "answer": "ㄍㄞˋ"
       },
       {
         "japanese": "溫",
-        "english": "ㄨㄣ",
+        "english": "warm",
         "furigana": "溫",
         "kana": "ㄨㄣ",
         "answer": "ㄨㄣ"
       },
       {
         "japanese": "監",
-        "english": "ㄐㄧㄢ",
+        "english": "to supervise",
         "furigana": "監",
         "kana": "ㄐㄧㄢ",
         "answer": "ㄐㄧㄢ"
       },
       {
         "japanese": "籃",
-        "english": "ㄌㄢˊ",
+        "english": "basket",
         "furigana": "籃",
         "kana": "ㄌㄢˊ",
         "answer": "ㄌㄢˊ"
       },
       {
         "japanese": "藍",
-        "english": "ㄌㄢˊ",
+        "english": "blue",
         "furigana": "藍",
         "kana": "ㄌㄢˊ",
         "answer": "ㄌㄢˊ"
       },
       {
         "japanese": "銀",
-        "english": "ㄧㄣˊ",
+        "english": "silver",
         "furigana": "銀",
         "kana": "ㄧㄣˊ",
         "answer": "ㄧㄣˊ"
       },
       {
         "japanese": "跟",
-        "english": "ㄍㄣ",
+        "english": "heel",
         "furigana": "跟",
         "kana": "ㄍㄣ",
         "answer": "ㄍㄣ"
       },
       {
         "japanese": "很",
-        "english": "ㄏㄣˇ",
+        "english": "very",
         "furigana": "很",
         "kana": "ㄏㄣˇ",
         "answer": "ㄏㄣˇ"
       },
       {
         "japanese": "根",
-        "english": "ㄍㄣ",
+        "english": "root",
         "furigana": "根",
         "kana": "ㄍㄣ",
         "answer": "ㄍㄣ"
       },
       {
         "japanese": "即",
-        "english": "ㄐㄧˊ",
+        "english": "immediately",
         "furigana": "即",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "節",
-        "english": "ㄐㄧㄝˊ",
+        "english": "holiday",
         "furigana": "節",
         "kana": "ㄐㄧㄝˊ",
         "answer": "ㄐㄧㄝˊ"
       },
       {
         "japanese": "退",
-        "english": "ㄊㄨㄟˋ",
+        "english": "to retreat",
         "furigana": "退",
         "kana": "ㄊㄨㄟˋ",
         "answer": "ㄊㄨㄟˋ"
       },
       {
         "japanese": "腿",
-        "english": "ㄊㄨㄟˇ",
+        "english": "leg",
         "furigana": "腿",
         "kana": "ㄊㄨㄟˇ",
         "answer": "ㄊㄨㄟˇ"
       },
       {
         "japanese": "限",
-        "english": "ㄒㄧㄢˋ",
+        "english": "limit",
         "furigana": "限",
         "kana": "ㄒㄧㄢˋ",
         "answer": "ㄒㄧㄢˋ"
       },
       {
         "japanese": "眼",
-        "english": "ㄧㄢˇ",
+        "english": "eyelet",
         "furigana": "眼",
         "kana": "ㄧㄢˇ",
         "answer": "ㄧㄢˇ"
       },
       {
         "japanese": "良",
-        "english": "ㄌㄧㄤˊ",
+        "english": "high-quality",
         "furigana": "良",
         "kana": "ㄌㄧㄤˊ",
         "answer": "ㄌㄧㄤˊ"
       },
       {
         "japanese": "浪",
-        "english": "ㄌㄤˋ",
+        "english": "breakers",
         "furigana": "浪",
         "kana": "ㄌㄤˋ",
         "answer": "ㄌㄤˋ"
       },
       {
         "japanese": "娘",
-        "english": "ㄋㄧㄤˊ",
+        "english": "mom",
         "furigana": "娘",
         "kana": "ㄋㄧㄤˊ",
         "answer": "ㄋㄧㄤˊ"
       },
       {
         "japanese": "食",
-        "english": "ㄕˊ",
+        "english": "food",
         "furigana": "食",
         "kana": "ㄕˊ",
         "answer": "ㄕˊ"
       },
       {
         "japanese": "飯",
-        "english": "ㄈㄢˋ",
+        "english": "meal",
         "furigana": "飯",
         "kana": "ㄈㄢˋ",
         "answer": "ㄈㄢˋ"
       },
       {
         "japanese": "餐",
-        "english": "ㄘㄢ",
+        "english": "to dine",
         "furigana": "餐",
         "kana": "ㄘㄢ",
         "answer": "ㄘㄢ"
       },
       {
         "japanese": "館",
-        "english": "ㄍㄨㄢˇ",
+        "english": "bldg.",
         "furigana": "館",
         "kana": "ㄍㄨㄢˇ",
         "answer": "ㄍㄨㄢˇ"
       },
       {
         "japanese": "養",
-        "english": "ㄧㄤˇ",
+        "english": "to raise",
         "furigana": "養",
         "kana": "ㄧㄤˇ",
         "answer": "ㄧㄤˇ"
       },
       {
         "japanese": "既",
-        "english": "ㄐㄧˋ",
+        "english": "since",
         "furigana": "既",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "概",
-        "english": "ㄍㄞˋ",
+        "english": "approximate",
         "furigana": "概",
         "kana": "ㄍㄞˋ",
         "answer": "ㄍㄞˋ"
       },
       {
         "japanese": "平",
-        "english": "ㄆㄧㄥˊ",
+        "english": "even**",
         "furigana": "平",
         "kana": "ㄆㄧㄥˊ",
         "answer": "ㄆㄧㄥˊ"
       },
       {
         "japanese": "評",
-        "english": "ㄆㄧㄥˊ",
+        "english": "to evaluate",
         "furigana": "評",
         "kana": "ㄆㄧㄥˊ",
         "answer": "ㄆㄧㄥˊ"
       },
       {
         "japanese": "坪",
-        "english": "ㄆㄧㄥˊ",
+        "english": "level ground",
         "furigana": "坪",
         "kana": "ㄆㄧㄥˊ",
         "answer": "ㄆㄧㄥˊ"
       },
       {
         "japanese": "乎",
-        "english": "ㄏㄨ",
+        "english": "ooh!",
         "furigana": "乎",
         "kana": "ㄏㄨ",
         "answer": "ㄏㄨ"
       },
       {
         "japanese": "呼",
-        "english": "ㄏㄨ",
+        "english": "to shout",
         "furigana": "呼",
         "kana": "ㄏㄨ",
         "answer": "ㄏㄨ"
       },
       {
         "japanese": "希",
-        "english": "ㄒㄧ",
+        "english": "to hope",
         "furigana": "希",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "稀",
-        "english": "ㄒㄧ",
+        "english": "scarce",
         "furigana": "稀",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "學",
-        "english": "ㄒㄩㄝˊ",
+        "english": "to study",
         "furigana": "學",
         "kana": "ㄒㄩㄝˊ",
         "answer": "ㄒㄩㄝˊ"
       },
       {
         "japanese": "覺",
-        "english": "ㄐㄩㄝˊ",
+        "english": "senses",
         "furigana": "覺",
         "kana": "ㄐㄩㄝˊ",
         "answer": "ㄐㄩㄝˊ"
       },
       {
         "japanese": "攪",
-        "english": "ㄐㄧㄠˇ",
+        "english": "to stir",
         "furigana": "攪",
         "kana": "ㄐㄧㄠˇ",
         "answer": "ㄐㄧㄠˇ"
       },
       {
         "japanese": "凶",
-        "english": "ㄒㄩㄥ",
+        "english": "sinister",
         "furigana": "凶",
         "kana": "ㄒㄩㄥ",
         "answer": "ㄒㄩㄥ"
       },
       {
         "japanese": "兇",
-        "english": "ㄒㄩㄥ",
+        "english": "cruel",
         "furigana": "兇",
         "kana": "ㄒㄩㄥ",
         "answer": "ㄒㄩㄥ"
       },
       {
         "japanese": "胸",
-        "english": "ㄒㄩㄥ",
+        "english": "bosom",
         "furigana": "胸",
         "kana": "ㄒㄩㄥ",
         "answer": "ㄒㄩㄥ"
       },
       {
         "japanese": "離",
-        "english": "ㄌㄧˊ",
+        "english": "to leave",
         "furigana": "離",
         "kana": "ㄌㄧˊ",
         "answer": "ㄌㄧˊ"
       },
       {
         "japanese": "禽",
-        "english": "ㄑㄧㄣˊ",
+        "english": "fowl",
         "furigana": "禽",
         "kana": "ㄑㄧㄣˊ",
         "answer": "ㄑㄧㄣˊ"
       },
       {
         "japanese": "辛",
-        "english": "ㄒㄧㄣ",
+        "english": "peppery",
         "furigana": "辛",
         "kana": "ㄒㄧㄣ",
         "answer": "ㄒㄧㄣ"
       },
       {
         "japanese": "辦",
-        "english": "ㄅㄢˋ",
+        "english": "to manage",
         "furigana": "辦",
         "kana": "ㄅㄢˋ",
         "answer": "ㄅㄢˋ"
       },
       {
         "japanese": "辯",
-        "english": "ㄅㄧㄢˋ",
+        "english": "to dispute",
         "furigana": "辯",
         "kana": "ㄅㄧㄢˋ",
         "answer": "ㄅㄧㄢˋ"
       },
       {
         "japanese": "壁",
-        "english": "ㄅㄧˋ",
+        "english": "partition",
         "furigana": "壁",
         "kana": "ㄅㄧˋ",
         "answer": "ㄅㄧˋ"
       },
       {
         "japanese": "避",
-        "english": "ㄅㄧˋ",
+        "english": "to evade",
         "furigana": "避",
         "kana": "ㄅㄧˋ",
         "answer": "ㄅㄧˋ"
       },
       {
         "japanese": "新",
-        "english": "ㄒㄧㄣ",
+        "english": "new",
         "furigana": "新",
         "kana": "ㄒㄧㄣ",
         "answer": "ㄒㄧㄣ"
       },
       {
         "japanese": "薪",
-        "english": "ㄒㄧㄣ",
+        "english": "fuel",
         "furigana": "薪",
         "kana": "ㄒㄧㄣ",
         "answer": "ㄒㄧㄣ"
       },
       {
         "japanese": "親",
-        "english": "ㄑㄧㄣ",
+        "english": "relatives",
         "furigana": "親",
         "kana": "ㄑㄧㄣ",
         "answer": "ㄑㄧㄣ"
       },
       {
         "japanese": "襯",
-        "english": "ㄔㄣˋ",
+        "english": "inner garments",
         "furigana": "襯",
         "kana": "ㄔㄣˋ",
         "answer": "ㄔㄣˋ"
       },
       {
         "japanese": "幸",
-        "english": "ㄒㄧㄥˋ",
+        "english": "good fortune",
         "furigana": "幸",
         "kana": "ㄒㄧㄥˋ",
         "answer": "ㄒㄧㄥˋ"
       },
       {
         "japanese": "執",
-        "english": "ㄓˊ",
+        "english": "to clench",
         "furigana": "執",
         "kana": "ㄓˊ",
         "answer": "ㄓˊ"
       },
       {
         "japanese": "報",
-        "english": "ㄅㄠˋ",
+        "english": "newspaper",
         "furigana": "報",
         "kana": "ㄅㄠˋ",
         "answer": "ㄅㄠˋ"
       },
       {
         "japanese": "叫",
-        "english": "ㄐㄧㄠˋ",
+        "english": "to call",
         "furigana": "叫",
         "kana": "ㄐㄧㄠˋ",
         "answer": "ㄐㄧㄠˋ"
       },
       {
         "japanese": "收",
-        "english": "ㄕㄡ",
+        "english": "to receive",
         "furigana": "收",
         "kana": "ㄕㄡ",
         "answer": "ㄕㄡ"
       },
       {
         "japanese": "陸",
-        "english": "ㄌㄨˋ",
+        "english": "land",
         "furigana": "陸",
         "kana": "ㄌㄨˋ",
         "answer": "ㄌㄨˋ"
       },
       {
         "japanese": "勢",
-        "english": "ㄕˋ",
+        "english": "force",
         "furigana": "勢",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "熱",
-        "english": "ㄖㄜˋ",
+        "english": "heat",
         "furigana": "熱",
         "kana": "ㄖㄜˋ",
         "answer": "ㄖㄜˋ"
       },
       {
         "japanese": "藝",
-        "english": "ㄧˋ",
+        "english": "technique",
         "furigana": "藝",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "亥",
-        "english": "ㄏㄞˋ",
+        "english": "sign of the hog",
         "furigana": "亥",
         "kana": "ㄏㄞˋ",
         "answer": "ㄏㄞˋ"
       },
       {
         "japanese": "核",
-        "english": "ㄏㄜˊ",
+        "english": "nucleus",
         "furigana": "核",
         "kana": "ㄏㄜˊ",
         "answer": "ㄏㄜˊ"
       },
       {
         "japanese": "孩",
-        "english": "ㄏㄞˊ",
+        "english": "tot",
         "furigana": "孩",
         "kana": "ㄏㄞˊ",
         "answer": "ㄏㄞˊ"
       },
       {
         "japanese": "刻",
-        "english": "ㄎㄜˋ",
+        "english": "to carve",
         "furigana": "刻",
         "kana": "ㄎㄜˋ",
         "answer": "ㄎㄜˋ"
       },
       {
         "japanese": "該",
-        "english": "ㄍㄞ",
+        "english": "should",
         "furigana": "該",
         "kana": "ㄍㄞ",
         "answer": "ㄍㄞ"
       },
       {
         "japanese": "述",
-        "english": "ㄕㄨˋ",
+        "english": "to narrate",
         "furigana": "述",
         "kana": "ㄕㄨˋ",
         "answer": "ㄕㄨˋ"
       },
       {
         "japanese": "術",
-        "english": "ㄕㄨˋ",
+        "english": "art",
         "furigana": "術",
         "kana": "ㄕㄨˋ",
         "answer": "ㄕㄨˋ"
       },
       {
         "japanese": "殺",
-        "english": "ㄕㄚ",
+        "english": "to kill",
         "furigana": "殺",
         "kana": "ㄕㄚ",
         "answer": "ㄕㄚ"
       },
       {
         "japanese": "襄",
-        "english": "ㄒㄧㄤ",
+        "english": "to aid",
         "furigana": "襄",
         "kana": "ㄒㄧㄤ",
         "answer": "ㄒㄧㄤ"
       },
       {
         "japanese": "讓",
-        "english": "ㄖㄤˋ",
+        "english": "to yield",
         "furigana": "讓",
         "kana": "ㄖㄤˋ",
         "answer": "ㄖㄤˋ"
       },
       {
         "japanese": "壤",
-        "english": "ㄖㄤˇ",
+        "english": "territory",
         "furigana": "壤",
         "kana": "ㄖㄤˇ",
         "answer": "ㄖㄤˇ"
       },
       {
         "japanese": "寒",
-        "english": "ㄏㄢˊ",
+        "english": "frigid",
         "furigana": "寒",
         "kana": "ㄏㄢˊ",
         "answer": "ㄏㄢˊ"
       },
       {
         "japanese": "賽",
-        "english": "ㄙㄞˋ",
+        "english": "competition",
         "furigana": "賽",
         "kana": "ㄙㄞˋ",
         "answer": "ㄙㄞˋ"
       },
       {
         "japanese": "毒",
-        "english": "ㄉㄨˊ",
+        "english": "a poison",
         "furigana": "毒",
         "kana": "ㄉㄨˊ",
         "answer": "ㄉㄨˊ"
       },
       {
         "japanese": "素",
-        "english": "ㄙㄨˋ",
+        "english": "vegetarian diet",
         "furigana": "素",
         "kana": "ㄙㄨˋ",
         "answer": "ㄙㄨˋ"
       },
       {
         "japanese": "青",
-        "english": "ㄑㄧㄥ",
+        "english": "blue or green",
         "furigana": "青",
         "kana": "ㄑㄧㄥ",
         "answer": "ㄑㄧㄥ"
       },
       {
         "japanese": "精",
-        "english": "ㄐㄧㄥ",
+        "english": "refined",
         "furigana": "精",
         "kana": "ㄐㄧㄥ",
         "answer": "ㄐㄧㄥ"
       },
       {
         "japanese": "請",
-        "english": "ㄑㄧㄥˇ",
+        "english": "to invite",
         "furigana": "請",
         "kana": "ㄑㄧㄥˇ",
         "answer": "ㄑㄧㄥˇ"
       },
       {
         "japanese": "情",
-        "english": "ㄑㄧㄥˊ",
+        "english": "feelings",
         "furigana": "情",
         "kana": "ㄑㄧㄥˊ",
         "answer": "ㄑㄧㄥˊ"
       },
       {
         "japanese": "睛",
-        "english": "ㄐㄧㄥ",
+        "english": "eyeball",
         "furigana": "睛",
         "kana": "ㄐㄧㄥ",
         "answer": "ㄐㄧㄥ"
       },
       {
         "japanese": "清",
-        "english": "ㄑㄧㄥ",
+        "english": "pure",
         "furigana": "清",
         "kana": "ㄑㄧㄥ",
         "answer": "ㄑㄧㄥ"
       },
       {
         "japanese": "靜",
-        "english": "ㄐㄧㄥˋ",
+        "english": "quiet",
         "furigana": "靜",
         "kana": "ㄐㄧㄥˋ",
         "answer": "ㄐㄧㄥˋ"
       },
       {
         "japanese": "責",
-        "english": "ㄗㄜˊ",
+        "english": "responsibility",
         "furigana": "責",
         "kana": "ㄗㄜˊ",
         "answer": "ㄗㄜˊ"
       },
       {
         "japanese": "績",
-        "english": "ㄐㄧ",
+        "english": "accomplishments",
         "furigana": "績",
         "kana": "ㄐㄧ",
         "answer": "ㄐㄧ"
       },
       {
         "japanese": "積",
-        "english": "ㄐㄧ",
+        "english": "to accumulate",
         "furigana": "積",
         "kana": "ㄐㄧ",
         "answer": "ㄐㄧ"
       },
       {
         "japanese": "表",
-        "english": "ㄅㄧㄠˇ",
+        "english": "surface",
         "furigana": "表",
         "kana": "ㄅㄧㄠˇ",
         "answer": "ㄅㄧㄠˇ"
       },
       {
         "japanese": "錶",
-        "english": "ㄅㄧㄠˇ",
+        "english": "a watch",
         "furigana": "錶",
         "kana": "ㄅㄧㄠˇ",
         "answer": "ㄅㄧㄠˇ"
       },
       {
         "japanese": "生",
-        "english": "ㄕㄥ",
+        "english": "life",
         "furigana": "生",
         "kana": "ㄕㄥ",
         "answer": "ㄕㄥ"
       },
       {
         "japanese": "星",
-        "english": "ㄒㄧㄥ",
+        "english": "star",
         "furigana": "星",
         "kana": "ㄒㄧㄥ",
         "answer": "ㄒㄧㄥ"
       },
       {
         "japanese": "姓",
-        "english": "ㄒㄧㄥˋ",
+        "english": "surname",
         "furigana": "姓",
         "kana": "ㄒㄧㄥˋ",
         "answer": "ㄒㄧㄥˋ"
       },
       {
         "japanese": "性",
-        "english": "ㄒㄧㄥˋ",
+        "english": "sex",
         "furigana": "性",
         "kana": "ㄒㄧㄥˋ",
         "answer": "ㄒㄧㄥˋ"
       },
       {
         "japanese": "害",
-        "english": "ㄏㄞˋ",
+        "english": "harm",
         "furigana": "害",
         "kana": "ㄏㄞˋ",
         "answer": "ㄏㄞˋ"
       },
       {
         "japanese": "割",
-        "english": "ㄍㄜ",
+        "english": "to cut off",
         "furigana": "割",
         "kana": "ㄍㄜ",
         "answer": "ㄍㄜ"
       },
       {
         "japanese": "慧",
-        "english": "ㄏㄨㄟˋ",
+        "english": "intelligent",
         "furigana": "慧",
         "kana": "ㄏㄨㄟˋ",
         "answer": "ㄏㄨㄟˋ"
       },
       {
         "japanese": "豐",
-        "english": "ㄈㄥ",
+        "english": "plentiful",
         "furigana": "豐",
         "kana": "ㄈㄥ",
         "answer": "ㄈㄥ"
       },
       {
         "japanese": "春",
-        "english": "ㄔㄨㄣ",
+        "english": "springtime",
         "furigana": "春",
         "kana": "ㄔㄨㄣ",
         "answer": "ㄔㄨㄣ"
       },
       {
         "japanese": "泰",
-        "english": "ㄊㄞˋ",
+        "english": "tranquil",
         "furigana": "泰",
         "kana": "ㄊㄞˋ",
         "answer": "ㄊㄞˋ"
       },
       {
         "japanese": "奉",
-        "english": "ㄈㄥˋ",
+        "english": "to proffer",
         "furigana": "奉",
         "kana": "ㄈㄥˋ",
         "answer": "ㄈㄥˋ"
       },
       {
         "japanese": "棒",
-        "english": "ㄅㄤˋ",
+        "english": "cudgel",
         "furigana": "棒",
         "kana": "ㄅㄤˋ",
         "answer": "ㄅㄤˋ"
       },
       {
         "japanese": "勤",
-        "english": "ㄑㄧㄣˊ",
+        "english": "diligent",
         "furigana": "勤",
         "kana": "ㄑㄧㄣˊ",
         "answer": "ㄑㄧㄣˊ"
       },
       {
         "japanese": "謹",
-        "english": "ㄐㄧㄣˇ",
+        "english": "careful",
         "furigana": "謹",
         "kana": "ㄐㄧㄣˇ",
         "answer": "ㄐㄧㄣˇ"
       },
       {
         "japanese": "僅",
-        "english": "ㄐㄧㄣˇ",
+        "english": "merely",
         "furigana": "僅",
         "kana": "ㄐㄧㄣˇ",
         "answer": "ㄐㄧㄣˇ"
       },
       {
         "japanese": "漢",
-        "english": "ㄏㄢˋ",
+        "english": "han",
         "furigana": "漢",
         "kana": "ㄏㄢˋ",
         "answer": "ㄏㄢˋ"
       },
       {
         "japanese": "難",
-        "english": "ㄋㄢˊ",
+        "english": "difficult",
         "furigana": "難",
         "kana": "ㄋㄢˊ",
         "answer": "ㄋㄢˊ"
       },
       {
         "japanese": "攤",
-        "english": "ㄊㄢ",
+        "english": "vendor’s stand",
         "furigana": "攤",
         "kana": "ㄊㄢ",
         "answer": "ㄊㄢ"
       },
       {
         "japanese": "華",
-        "english": "ㄏㄨㄚˊ",
+        "english": "splendor",
         "furigana": "華",
         "kana": "ㄏㄨㄚˊ",
         "answer": "ㄏㄨㄚˊ"
       },
       {
         "japanese": "嘩",
-        "english": "ㄏㄨㄚˊ",
+        "english": "clamor",
         "furigana": "嘩",
         "kana": "ㄏㄨㄚˊ",
         "answer": "ㄏㄨㄚˊ"
       },
       {
         "japanese": "垂",
-        "english": "ㄔㄨㄟˊ",
+        "english": "to droop",
         "furigana": "垂",
         "kana": "ㄔㄨㄟˊ",
         "answer": "ㄔㄨㄟˊ"
       },
       {
         "japanese": "錘",
-        "english": "ㄔㄨㄟˊ",
+        "english": "hammer",
         "furigana": "錘",
         "kana": "ㄔㄨㄟˊ",
         "answer": "ㄔㄨㄟˊ"
       },
       {
         "japanese": "睡",
-        "english": "ㄕㄨㄟˋ",
+        "english": "to sleep",
         "furigana": "睡",
         "kana": "ㄕㄨㄟˋ",
         "answer": "ㄕㄨㄟˋ"
       },
       {
         "japanese": "今",
-        "english": "ㄐㄧㄣ",
+        "english": "now",
         "furigana": "今",
         "kana": "ㄐㄧㄣ",
         "answer": "ㄐㄧㄣ"
       },
       {
         "japanese": "含",
-        "english": "ㄏㄢˊ",
+        "english": "to harbor",
         "furigana": "含",
         "kana": "ㄏㄢˊ",
         "answer": "ㄏㄢˊ"
       },
       {
         "japanese": "念",
-        "english": "ㄋㄧㄢˋ",
+        "english": "to miss",
         "furigana": "念",
         "kana": "ㄋㄧㄢˋ",
         "answer": "ㄋㄧㄢˋ"
       },
       {
         "japanese": "陰",
-        "english": "ㄧㄣ",
+        "english": "yin",
         "furigana": "陰",
         "kana": "ㄧㄣ",
         "answer": "ㄧㄣ"
       },
       {
         "japanese": "蔭",
-        "english": "ㄧㄣˋ",
+        "english": "shady",
         "furigana": "蔭",
         "kana": "ㄧㄣˋ",
         "answer": "ㄧㄣˋ"
       },
       {
         "japanese": "西",
-        "english": "ㄒㄧ",
+        "english": "west",
         "furigana": "西",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "要",
-        "english": "ㄧㄠˋ",
+        "english": "want",
         "furigana": "要",
         "kana": "ㄧㄠˋ",
         "answer": "ㄧㄠˋ"
       },
       {
         "japanese": "腰",
-        "english": "ㄧㄠ",
+        "english": "waist",
         "furigana": "腰",
         "kana": "ㄧㄠ",
         "answer": "ㄧㄠ"
       },
       {
         "japanese": "票",
-        "english": "ㄆㄧㄠˋ",
+        "english": "ticket",
         "furigana": "票",
         "kana": "ㄆㄧㄠˋ",
         "answer": "ㄆㄧㄠˋ"
       },
       {
         "japanese": "漂",
-        "english": "ㄆㄧㄠ",
+        "english": "to drift",
         "furigana": "漂",
         "kana": "ㄆㄧㄠ",
         "answer": "ㄆㄧㄠ"
       },
       {
         "japanese": "標",
-        "english": "ㄅㄧㄠ",
+        "english": "a mark",
         "furigana": "標",
         "kana": "ㄅㄧㄠ",
         "answer": "ㄅㄧㄠ"
       },
       {
         "japanese": "賈",
-        "english": "ㄍㄨˇ",
+        "english": "merchant",
         "furigana": "賈",
         "kana": "ㄍㄨˇ",
         "answer": "ㄍㄨˇ"
       },
       {
         "japanese": "價",
-        "english": "ㄐㄧㄚˋ",
+        "english": "price",
         "furigana": "價",
         "kana": "ㄐㄧㄚˋ",
         "answer": "ㄐㄧㄚˋ"
       },
       {
         "japanese": "煙",
-        "english": "ㄧㄢ",
+        "english": "the smoke",
         "furigana": "煙",
         "kana": "ㄧㄢ",
         "answer": "ㄧㄢ"
       },
       {
         "japanese": "南",
-        "english": "ㄋㄢˊ",
+        "english": "south",
         "furigana": "南",
         "kana": "ㄋㄢˊ",
         "answer": "ㄋㄢˊ"
       },
       {
         "japanese": "門",
-        "english": "ㄇㄣˊ",
+        "english": "gate",
         "furigana": "門",
         "kana": "ㄇㄣˊ",
         "answer": "ㄇㄣˊ"
       },
       {
         "japanese": "們",
-        "english": "ㄇㄣˊ",
+        "english": "[plural]",
         "furigana": "們",
         "kana": "ㄇㄣˊ",
         "answer": "ㄇㄣˊ"
       },
       {
         "japanese": "閒",
-        "english": "ㄒㄧㄢˊ",
+        "english": "leisure",
         "furigana": "閒",
         "kana": "ㄒㄧㄢˊ",
         "answer": "ㄒㄧㄢˊ"
       },
       {
         "japanese": "問",
-        "english": "ㄨㄣˋ",
+        "english": "to ask",
         "furigana": "問",
         "kana": "ㄨㄣˋ",
         "answer": "ㄨㄣˋ"
       },
       {
         "japanese": "間",
-        "english": "ㄐㄧㄢ",
+        "english": "interval",
         "furigana": "間",
         "kana": "ㄐㄧㄢ",
         "answer": "ㄐㄧㄢ"
       },
       {
         "japanese": "簡",
-        "english": "ㄐㄧㄢˇ",
+        "english": "simple",
         "furigana": "簡",
         "kana": "ㄐㄧㄢˇ",
         "answer": "ㄐㄧㄢˇ"
       },
       {
         "japanese": "開",
-        "english": "ㄎㄞ",
+        "english": "to open",
         "furigana": "開",
         "kana": "ㄎㄞ",
         "answer": "ㄎㄞ"
       },
       {
         "japanese": "聞",
-        "english": "ㄨㄣˊ",
+        "english": "to hear",
         "furigana": "聞",
         "kana": "ㄨㄣˊ",
         "answer": "ㄨㄣˊ"
       },
       {
         "japanese": "倉",
-        "english": "ㄘㄤ",
+        "english": "storehouse",
         "furigana": "倉",
         "kana": "ㄘㄤ",
         "answer": "ㄘㄤ"
       },
       {
         "japanese": "槍",
-        "english": "ㄑㄧㄤ",
+        "english": "gun",
         "furigana": "槍",
         "kana": "ㄑㄧㄤ",
         "answer": "ㄑㄧㄤ"
       },
       {
         "japanese": "創",
-        "english": "ㄔㄨㄤˋ",
+        "english": "to initiate",
         "furigana": "創",
         "kana": "ㄔㄨㄤˋ",
         "answer": "ㄔㄨㄤˋ"
       },
       {
         "japanese": "非",
-        "english": "ㄈㄟ",
+        "english": "non—",
         "furigana": "非",
         "kana": "ㄈㄟ",
         "answer": "ㄈㄟ"
       },
       {
         "japanese": "排",
-        "english": "ㄆㄞˊ",
+        "english": "row",
         "furigana": "排",
         "kana": "ㄆㄞˊ",
         "answer": "ㄆㄞˊ"
       },
       {
         "japanese": "罪",
-        "english": "ㄗㄨㄟˋ",
+        "english": "guilt",
         "furigana": "罪",
         "kana": "ㄗㄨㄟˋ",
         "answer": "ㄗㄨㄟˋ"
       },
       {
         "japanese": "靠",
-        "english": "ㄎㄠˋ",
+        "english": "to lean on",
         "furigana": "靠",
         "kana": "ㄎㄠˋ",
         "answer": "ㄎㄠˋ"
       },
       {
         "japanese": "侯",
-        "english": "ㄏㄡˊ",
+        "english": "marquis",
         "furigana": "侯",
         "kana": "ㄏㄡˊ",
         "answer": "ㄏㄡˊ"
       },
       {
         "japanese": "候",
-        "english": "ㄏㄡˋ",
+        "english": "to wait",
         "furigana": "候",
         "kana": "ㄏㄡˋ",
         "answer": "ㄏㄡˋ"
       },
       {
         "japanese": "決",
-        "english": "ㄐㄩㄝˊ",
+        "english": "to decide",
         "furigana": "決",
         "kana": "ㄐㄩㄝˊ",
         "answer": "ㄐㄩㄝˊ"
       },
       {
         "japanese": "快",
-        "english": "ㄎㄨㄞˋ",
+        "english": "fast",
         "furigana": "快",
         "kana": "ㄎㄨㄞˋ",
         "answer": "ㄎㄨㄞˋ"
       },
       {
         "japanese": "筷",
-        "english": "ㄎㄨㄞˋ",
+        "english": "chopsticks",
         "furigana": "筷",
         "kana": "ㄎㄨㄞˋ",
         "answer": "ㄎㄨㄞˋ"
       },
       {
         "japanese": "韋",
-        "english": "ㄨㄟˊ",
+        "english": "tanned hide",
         "furigana": "韋",
         "kana": "ㄨㄟˊ",
         "answer": "ㄨㄟˊ"
       },
       {
         "japanese": "圍",
-        "english": "ㄨㄟˊ",
+        "english": "to surround",
         "furigana": "圍",
         "kana": "ㄨㄟˊ",
         "answer": "ㄨㄟˊ"
       },
       {
         "japanese": "偉",
-        "english": "ㄨㄟˇ",
+        "english": "great",
         "furigana": "偉",
         "kana": "ㄨㄟˇ",
         "answer": "ㄨㄟˇ"
       },
       {
         "japanese": "衛",
-        "english": "ㄨㄟˋ",
+        "english": "to defend",
         "furigana": "衛",
         "kana": "ㄨㄟˋ",
         "answer": "ㄨㄟˋ"
       },
       {
         "japanese": "干",
-        "english": "ㄍㄢ",
+        "english": "to offend",
         "furigana": "干",
         "kana": "ㄍㄢ",
         "answer": "ㄍㄢ"
       },
       {
         "japanese": "岸",
-        "english": "ㄢˋ",
+        "english": "shore",
         "furigana": "岸",
         "kana": "ㄢˋ",
         "answer": "ㄢˋ"
       },
       {
         "japanese": "幹",
-        "english": "ㄍㄢˋ",
+        "english": "trunk",
         "furigana": "幹",
         "kana": "ㄍㄢˋ",
         "answer": "ㄍㄢˋ"
       },
       {
         "japanese": "旱",
-        "english": "ㄏㄢˋ",
+        "english": "drought",
         "furigana": "旱",
         "kana": "ㄏㄢˋ",
         "answer": "ㄏㄢˋ"
       },
       {
         "japanese": "趕",
-        "english": "ㄍㄢˇ",
+        "english": "to hurry",
         "furigana": "趕",
         "kana": "ㄍㄢˇ",
         "answer": "ㄍㄢˇ"
       },
       {
         "japanese": "于",
-        "english": "ㄩˊ",
+        "english": "yu",
         "furigana": "于",
         "kana": "ㄩˊ",
         "answer": "ㄩˊ"
       },
       {
         "japanese": "宇",
-        "english": "ㄩˇ",
+        "english": "eaves",
         "furigana": "宇",
         "kana": "ㄩˇ",
         "answer": "ㄩˇ"
       },
       {
         "japanese": "余",
-        "english": "ㄩˊ",
+        "english": "moi",
         "furigana": "余",
         "kana": "ㄩˊ",
         "answer": "ㄩˊ"
       },
       {
         "japanese": "餘",
-        "english": "ㄩˊ",
+        "english": "excess",
         "furigana": "餘",
         "kana": "ㄩˊ",
         "answer": "ㄩˊ"
       },
       {
         "japanese": "除",
-        "english": "ㄔㄨˊ",
+        "english": "to eliminate",
         "furigana": "除",
         "kana": "ㄔㄨˊ",
         "answer": "ㄔㄨˊ"
       },
       {
         "japanese": "途",
-        "english": "ㄊㄨˊ",
+        "english": "route",
         "furigana": "途",
         "kana": "ㄊㄨˊ",
         "answer": "ㄊㄨˊ"
       },
       {
         "japanese": "束",
-        "english": "ㄕㄨˋ",
+        "english": "to bundle up",
         "furigana": "束",
         "kana": "ㄕㄨˋ",
         "answer": "ㄕㄨˋ"
       },
       {
         "japanese": "速",
-        "english": "ㄙㄨˋ",
+        "english": "quick",
         "furigana": "速",
         "kana": "ㄙㄨˋ",
         "answer": "ㄙㄨˋ"
       },
       {
         "japanese": "辣",
-        "english": "ㄌㄚˋ",
+        "english": "spicy hot",
         "furigana": "辣",
         "kana": "ㄌㄚˋ",
         "answer": "ㄌㄚˋ"
       },
       {
         "japanese": "整",
-        "english": "ㄓㄥˇ",
+        "english": "entire",
         "furigana": "整",
         "kana": "ㄓㄥˇ",
         "answer": "ㄓㄥˇ"
       },
       {
         "japanese": "練",
-        "english": "ㄌㄧㄢˋ",
+        "english": "to practice",
         "furigana": "練",
         "kana": "ㄌㄧㄢˋ",
         "answer": "ㄌㄧㄢˋ"
       },
       {
         "japanese": "揀",
-        "english": "ㄐㄧㄢˇ",
+        "english": "to opt for",
         "furigana": "揀",
         "kana": "ㄐㄧㄢˇ",
         "answer": "ㄐㄧㄢˇ"
       },
       {
         "japanese": "重",
-        "english": "ㄓㄨㄥˋ",
+        "english": "heavy",
         "furigana": "重",
         "kana": "ㄓㄨㄥˋ",
         "answer": "ㄓㄨㄥˋ"
       },
       {
         "japanese": "懂",
-        "english": "ㄉㄨㄥˇ",
+        "english": "to understand",
         "furigana": "懂",
         "kana": "ㄉㄨㄥˇ",
         "answer": "ㄉㄨㄥˇ"
       },
       {
         "japanese": "動",
-        "english": "ㄉㄨㄥˋ",
+        "english": "to move",
         "furigana": "動",
         "kana": "ㄉㄨㄥˋ",
         "answer": "ㄉㄨㄥˋ"
       },
       {
         "japanese": "種",
-        "english": "ㄓㄨㄥˇ",
+        "english": "species",
         "furigana": "種",
         "kana": "ㄓㄨㄥˇ",
         "answer": "ㄓㄨㄥˇ"
       },
       {
         "japanese": "衝",
-        "english": "ㄔㄨㄥ",
+        "english": "to collide",
         "furigana": "衝",
         "kana": "ㄔㄨㄥ",
         "answer": "ㄔㄨㄥ"
       },
       {
         "japanese": "病",
-        "english": "ㄅㄧㄥˋ",
+        "english": "illness",
         "furigana": "病",
         "kana": "ㄅㄧㄥˋ",
         "answer": "ㄅㄧㄥˋ"
       },
       {
         "japanese": "痛",
-        "english": "ㄊㄨㄥˋ",
+        "english": "to ache",
         "furigana": "痛",
         "kana": "ㄊㄨㄥˋ",
         "answer": "ㄊㄨㄥˋ"
       },
       {
         "japanese": "瘋",
-        "english": "ㄈㄥ",
+        "english": "insane",
         "furigana": "瘋",
         "kana": "ㄈㄥ",
         "answer": "ㄈㄥ"
       },
       {
         "japanese": "匹",
-        "english": "ㄆㄧˇ",
+        "english": "to match",
         "furigana": "匹",
         "kana": "ㄆㄧˇ",
         "answer": "ㄆㄧˇ"
       },
       {
         "japanese": "區",
-        "english": "ㄑㄩ",
+        "english": "region",
         "furigana": "區",
         "kana": "ㄑㄩ",
         "answer": "ㄑㄩ"
       },
       {
         "japanese": "樞",
-        "english": "ㄕㄨ",
+        "english": "hub",
         "furigana": "樞",
         "kana": "ㄕㄨ",
         "answer": "ㄕㄨ"
       },
       {
         "japanese": "歐",
-        "english": "ㄡ",
+        "english": "europe",
         "furigana": "歐",
         "kana": "ㄡ",
         "answer": "ㄡ"
       },
       {
         "japanese": "醫",
-        "english": "ㄧ",
+        "english": "physician",
         "furigana": "醫",
         "kana": "ㄧ",
         "answer": "ㄧ"
       },
       {
         "japanese": "仰",
-        "english": "ㄧㄤˇ",
+        "english": "to look up to",
         "furigana": "仰",
         "kana": "ㄧㄤˇ",
         "answer": "ㄧㄤˇ"
       },
       {
         "japanese": "迎",
-        "english": "ㄧㄥˊ",
+        "english": "to greet",
         "furigana": "迎",
         "kana": "ㄧㄥˊ",
         "answer": "ㄧㄥˊ"
       },
       {
         "japanese": "登",
-        "english": "ㄉㄥ",
+        "english": "to ascend",
         "furigana": "登",
         "kana": "ㄉㄥ",
         "answer": "ㄉㄥ"
       },
       {
         "japanese": "燈",
-        "english": "ㄉㄥ",
+        "english": "lamp",
         "furigana": "燈",
         "kana": "ㄉㄥ",
         "answer": "ㄉㄥ"
       },
       {
         "japanese": "證",
-        "english": "ㄓㄥˋ",
+        "english": "evidence",
         "furigana": "證",
         "kana": "ㄓㄥˋ",
         "answer": "ㄓㄥˋ"
       },
       {
         "japanese": "發",
-        "english": "ㄈㄚ",
+        "english": "to send out",
         "furigana": "發",
         "kana": "ㄈㄚ",
         "answer": "ㄈㄚ"
       },
       {
         "japanese": "廢",
-        "english": "ㄈㄟˋ",
+        "english": "to discard",
         "furigana": "廢",
         "kana": "ㄈㄟˋ",
         "answer": "ㄈㄟˋ"
       },
       {
         "japanese": "形",
-        "english": "ㄒㄧㄥˊ",
+        "english": "shape",
         "furigana": "形",
         "kana": "ㄒㄧㄥˊ",
         "answer": "ㄒㄧㄥˊ"
       },
       {
         "japanese": "影",
-        "english": "ㄧㄥˇ",
+        "english": "shadow",
         "furigana": "影",
         "kana": "ㄧㄥˇ",
         "answer": "ㄧㄥˇ"
       },
       {
         "japanese": "彩",
-        "english": "ㄘㄞˇ",
+        "english": "hue",
         "furigana": "彩",
         "kana": "ㄘㄞˇ",
         "answer": "ㄘㄞˇ"
       },
       {
         "japanese": "須",
-        "english": "ㄒㄩ",
+        "english": "to have to",
         "furigana": "須",
         "kana": "ㄒㄩ",
         "answer": "ㄒㄩ"
       },
       {
         "japanese": "珍",
-        "english": "ㄓㄣ",
+        "english": "rare",
         "furigana": "珍",
         "kana": "ㄓㄣ",
         "answer": "ㄓㄣ"
       },
       {
         "japanese": "參",
-        "english": "ㄘㄢ",
+        "english": "to participate",
         "furigana": "參",
         "kana": "ㄘㄢ",
         "answer": "ㄘㄢ"
       },
       {
         "japanese": "慘",
-        "english": "ㄘㄢˇ",
+        "english": "wretched",
         "furigana": "慘",
         "kana": "ㄘㄢˇ",
         "answer": "ㄘㄢˇ"
       },
       {
         "japanese": "修",
-        "english": "ㄒㄧㄡ",
+        "english": "to repair 条",
         "furigana": "修",
         "kana": "ㄒㄧㄡ",
         "answer": "ㄒㄧㄡ"
       },
       {
         "japanese": "文",
-        "english": "ㄨㄣˊ",
+        "english": "literature",
         "furigana": "文",
         "kana": "ㄨㄣˊ",
         "answer": "ㄨㄣˊ"
       },
       {
         "japanese": "蚊",
-        "english": "ㄨㄣˊ",
+        "english": "mosquito",
         "furigana": "蚊",
         "kana": "ㄨㄣˊ",
         "answer": "ㄨㄣˊ"
       },
       {
         "japanese": "彥",
-        "english": "ㄧㄢˋ",
+        "english": "erudite",
         "furigana": "彥",
         "kana": "ㄧㄢˋ",
         "answer": "ㄧㄢˋ"
       },
       {
         "japanese": "顏",
-        "english": "ㄧㄢˊ",
+        "english": "countenance",
         "furigana": "顏",
         "kana": "ㄧㄢˊ",
         "answer": "ㄧㄢˊ"
       },
       {
         "japanese": "產",
-        "english": "ㄔㄢˇ",
+        "english": "products",
         "furigana": "產",
         "kana": "ㄔㄢˇ",
         "answer": "ㄔㄢˇ"
       },
       {
         "japanese": "率",
-        "english": "ㄌㄩˋ",
+        "english": "a rate",
         "furigana": "率",
         "kana": "ㄌㄩˋ",
         "answer": "ㄌㄩˋ"
       },
       {
         "japanese": "摔",
-        "english": "ㄕㄨㄞ",
+        "english": "to tumble",
         "furigana": "摔",
         "kana": "ㄕㄨㄞ",
         "answer": "ㄕㄨㄞ"
       },
       {
         "japanese": "央",
-        "english": "ㄧㄤ",
+        "english": "center",
         "furigana": "央",
         "kana": "ㄧㄤ",
         "answer": "ㄧㄤ"
       },
       {
         "japanese": "英",
-        "english": "ㄧㄥ",
+        "english": "england",
         "furigana": "英",
         "kana": "ㄧㄥ",
         "answer": "ㄧㄥ"
       },
       {
         "japanese": "巴",
-        "english": "ㄅㄚ",
+        "english": "crust",
         "furigana": "巴",
         "kana": "ㄅㄚ",
         "answer": "ㄅㄚ"
       },
       {
         "japanese": "把",
-        "english": "ㄅㄚˇ",
+        "english": "to grasp",
         "furigana": "把",
         "kana": "ㄅㄚˇ",
         "answer": "ㄅㄚˇ"
       },
       {
         "japanese": "爸",
-        "english": "ㄅㄚˋ",
+        "english": "papa",
         "furigana": "爸",
         "kana": "ㄅㄚˋ",
         "answer": "ㄅㄚˋ"
       },
       {
         "japanese": "吧",
-        "english": "ㄅㄚ",
+        "english": "bar",
         "furigana": "吧",
         "kana": "ㄅㄚ",
         "answer": "ㄅㄚ"
       },
       {
         "japanese": "色",
-        "english": "ㄙㄜˋ",
+        "english": "color",
         "furigana": "色",
         "kana": "ㄙㄜˋ",
         "answer": "ㄙㄜˋ"
       },
       {
         "japanese": "絕",
-        "english": "ㄐㄩㄝˊ",
+        "english": "to discontinue",
         "furigana": "絕",
         "kana": "ㄐㄩㄝˊ",
         "answer": "ㄐㄩㄝˊ"
       },
       {
         "japanese": "甘",
-        "english": "ㄍㄢ",
+        "english": "sweet",
         "furigana": "甘",
         "kana": "ㄍㄢ",
         "answer": "ㄍㄢ"
       },
       {
         "japanese": "某",
-        "english": "ㄇㄡˇ",
+        "english": "such and such",
         "furigana": "某",
         "kana": "ㄇㄡˇ",
         "answer": "ㄇㄡˇ"
       },
       {
         "japanese": "其",
-        "english": "ㄑㄧˊ",
+        "english": "his-hers-its-theirs",
         "furigana": "其",
         "kana": "ㄑㄧˊ",
         "answer": "ㄑㄧˊ"
       },
       {
         "japanese": "期",
-        "english": "ㄑㄧˊ",
+        "english": "period of time",
         "furigana": "期",
         "kana": "ㄑㄧˊ",
         "answer": "ㄑㄧˊ"
       },
       {
         "japanese": "基",
-        "english": "ㄐㄧ",
+        "english": "base",
         "furigana": "基",
         "kana": "ㄐㄧ",
         "answer": "ㄐㄧ"
       },
       {
         "japanese": "斯",
-        "english": "ㄙ",
+        "english": "sphinx",
         "furigana": "斯",
         "kana": "ㄙ",
         "answer": "ㄙ"
       },
       {
         "japanese": "甚",
-        "english": "ㄕㄣˋ",
+        "english": "tremendously",
         "furigana": "甚",
         "kana": "ㄕㄣˋ",
         "answer": "ㄕㄣˋ"
       },
       {
         "japanese": "貴",
-        "english": "ㄍㄨㄟˋ",
+        "english": "expensive",
         "furigana": "貴",
         "kana": "ㄍㄨㄟˋ",
         "answer": "ㄍㄨㄟˋ"
       },
       {
         "japanese": "遺",
-        "english": "ㄧˊ",
+        "english": "to bequeath",
         "furigana": "遺",
         "kana": "ㄧˊ",
         "answer": "ㄧˊ"
       },
       {
         "japanese": "舞",
-        "english": "ㄨˇ",
+        "english": "dance",
         "furigana": "舞",
         "kana": "ㄨˇ",
         "answer": "ㄨˇ"
       },
       {
         "japanese": "無",
-        "english": "ㄨˊ",
+        "english": "nothing",
         "furigana": "無",
         "kana": "ㄨˊ",
         "answer": "ㄨˊ"
       },
       {
         "japanese": "撫",
-        "english": "ㄈㄨˇ",
+        "english": "to comfort",
         "furigana": "撫",
         "kana": "ㄈㄨˇ",
         "answer": "ㄈㄨˇ"
       },
       {
         "japanese": "且",
-        "english": "ㄑㄧㄝˇ",
+        "english": "moreover",
         "furigana": "且",
         "kana": "ㄑㄧㄝˇ",
         "answer": "ㄑㄧㄝˇ"
       },
       {
         "japanese": "姐",
-        "english": "ㄐㄧㄝˇ",
+        "english": "older sister",
         "furigana": "姐",
         "kana": "ㄐㄧㄝˇ",
         "answer": "ㄐㄧㄝˇ"
       },
       {
         "japanese": "組",
-        "english": "ㄗㄨˇ",
+        "english": "group",
         "furigana": "組",
         "kana": "ㄗㄨˇ",
         "answer": "ㄗㄨˇ"
       },
       {
         "japanese": "祖",
-        "english": "ㄗㄨˇ",
+        "english": "ancestor",
         "furigana": "祖",
         "kana": "ㄗㄨˇ",
         "answer": "ㄗㄨˇ"
       },
       {
         "japanese": "助",
-        "english": "ㄓㄨˋ",
+        "english": "to assist",
         "furigana": "助",
         "kana": "ㄓㄨˋ",
         "answer": "ㄓㄨˋ"
       },
       {
         "japanese": "並",
-        "english": "ㄅㄧㄥˋ",
+        "english": "side by side",
         "furigana": "並",
         "kana": "ㄅㄧㄥˋ",
         "answer": "ㄅㄧㄥˋ"
       },
       {
         "japanese": "普",
-        "english": "ㄆㄨˇ",
+        "english": "universal",
         "furigana": "普",
         "kana": "ㄆㄨˇ",
         "answer": "ㄆㄨˇ"
       },
       {
         "japanese": "業",
-        "english": "ㄧㄝˋ",
+        "english": "profession",
         "furigana": "業",
         "kana": "ㄧㄝˋ",
         "answer": "ㄧㄝˋ"
       },
       {
         "japanese": "對",
-        "english": "ㄉㄨㄟˋ",
+        "english": "that’s right",
         "furigana": "對",
         "kana": "ㄉㄨㄟˋ",
         "answer": "ㄉㄨㄟˋ"
       },
       {
         "japanese": "共",
-        "english": "ㄍㄨㄥˋ",
+        "english": "together",
         "furigana": "共",
         "kana": "ㄍㄨㄥˋ",
         "answer": "ㄍㄨㄥˋ"
       },
       {
         "japanese": "供",
-        "english": "ㄍㄨㄥ",
+        "english": "supply",
         "furigana": "供",
         "kana": "ㄍㄨㄥ",
         "answer": "ㄍㄨㄥ"
       },
       {
         "japanese": "異",
-        "english": "ㄧˋ",
+        "english": "different",
         "furigana": "異",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "巷",
-        "english": "ㄒㄧㄤˋ",
+        "english": "lane",
         "furigana": "巷",
         "kana": "ㄒㄧㄤˋ",
         "answer": "ㄒㄧㄤˋ"
       },
       {
         "japanese": "港",
-        "english": "ㄍㄤˇ",
+        "english": "port",
         "furigana": "港",
         "kana": "ㄍㄤˇ",
         "answer": "ㄍㄤˇ"
       },
       {
         "japanese": "選",
-        "english": "ㄒㄩㄢˇ",
+        "english": "to choose",
         "furigana": "選",
         "kana": "ㄒㄩㄢˇ",
         "answer": "ㄒㄩㄢˇ"
       },
       {
         "japanese": "井",
-        "english": "ㄐㄧㄥˇ",
+        "english": "a well",
         "furigana": "井",
         "kana": "ㄐㄧㄥˇ",
         "answer": "ㄐㄧㄥˇ"
       },
       {
         "japanese": "亞",
-        "english": "ㄧㄚˋ",
+        "english": "asia",
         "furigana": "亞",
         "kana": "ㄧㄚˋ",
         "answer": "ㄧㄚˋ"
       },
       {
         "japanese": "惡",
-        "english": "ㄜˋ",
+        "english": "evil",
         "furigana": "惡",
         "kana": "ㄜˋ",
         "answer": "ㄜˋ"
       },
       {
         "japanese": "角",
-        "english": "ㄐㄧㄠˇ",
+        "english": "angle",
         "furigana": "角",
         "kana": "ㄐㄧㄠˇ",
         "answer": "ㄐㄧㄠˇ"
       },
       {
         "japanese": "解",
-        "english": "ㄐㄧㄝˇ",
+        "english": "to untie",
         "furigana": "解",
         "kana": "ㄐㄧㄝˇ",
         "answer": "ㄐㄧㄝˇ"
       },
       {
         "japanese": "嘴",
-        "english": "ㄗㄨㄟˇ",
+        "english": "orifice",
         "furigana": "嘴",
         "kana": "ㄗㄨㄟˇ",
         "answer": "ㄗㄨㄟˇ"
       },
       {
         "japanese": "再",
-        "english": "ㄗㄞˋ",
+        "english": "once more",
         "furigana": "再",
         "kana": "ㄗㄞˋ",
         "answer": "ㄗㄞˋ"
       },
       {
         "japanese": "稱",
-        "english": "ㄔㄥ",
+        "english": "to weigh",
         "furigana": "稱",
         "kana": "ㄔㄥ",
         "answer": "ㄔㄥ"
       },
       {
         "japanese": "講",
-        "english": "ㄐㄧㄤˇ",
+        "english": "to lecture",
         "furigana": "講",
         "kana": "ㄐㄧㄤˇ",
         "answer": "ㄐㄧㄤˇ"
       },
       {
         "japanese": "構",
-        "english": "ㄍㄡˋ",
+        "english": "to frame",
         "furigana": "構",
         "kana": "ㄍㄡˋ",
         "answer": "ㄍㄡˋ"
       },
       {
         "japanese": "扁",
-        "english": "ㄅㄧㄢˇ",
+        "english": "flat",
         "furigana": "扁",
         "kana": "ㄅㄧㄢˇ",
         "answer": "ㄅㄧㄢˇ"
       },
       {
         "japanese": "篇",
-        "english": "ㄆㄧㄢ",
+        "english": "piece of writing",
         "furigana": "篇",
         "kana": "ㄆㄧㄢ",
         "answer": "ㄆㄧㄢ"
       },
       {
         "japanese": "編",
-        "english": "ㄅㄧㄢ",
+        "english": "to compile",
         "furigana": "編",
         "kana": "ㄅㄧㄢ",
         "answer": "ㄅㄧㄢ"
       },
       {
         "japanese": "論",
-        "english": "ㄌㄨㄣˋ",
+        "english": "theory",
         "furigana": "論",
         "kana": "ㄌㄨㄣˋ",
         "answer": "ㄌㄨㄣˋ"
       },
       {
         "japanese": "輪",
-        "english": "ㄌㄨㄣˊ",
+        "english": "wheel",
         "furigana": "輪",
         "kana": "ㄌㄨㄣˊ",
         "answer": "ㄌㄨㄣˊ"
       },
       {
         "japanese": "典",
-        "english": "ㄉㄧㄢˇ",
+        "english": "canon",
         "furigana": "典",
         "kana": "ㄉㄧㄢˇ",
         "answer": "ㄉㄧㄢˇ"
       },
       {
         "japanese": "氏",
-        "english": "ㄕˋ",
+        "english": "family name",
         "furigana": "氏",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "紙",
-        "english": "ㄓˇ",
+        "english": "paper",
         "furigana": "紙",
         "kana": "ㄓˇ",
         "answer": "ㄓˇ"
       },
       {
         "japanese": "昏",
-        "english": "ㄏㄨㄣ",
+        "english": "dusk",
         "furigana": "昏",
         "kana": "ㄏㄨㄣ",
         "answer": "ㄏㄨㄣ"
       },
       {
         "japanese": "婚",
-        "english": "ㄏㄨㄣ",
+        "english": "marriage",
         "furigana": "婚",
         "kana": "ㄏㄨㄣ",
         "answer": "ㄏㄨㄣ"
       },
       {
         "japanese": "低",
-        "english": "ㄉㄧ",
+        "english": "low",
         "furigana": "低",
         "kana": "ㄉㄧ",
         "answer": "ㄉㄧ"
       },
       {
         "japanese": "底",
-        "english": "ㄉㄧˇ",
+        "english": "bottom",
         "furigana": "底",
         "kana": "ㄉㄧˇ",
         "answer": "ㄉㄧˇ"
       },
       {
         "japanese": "民",
-        "english": "ㄇㄧㄣˊ",
+        "english": "people",
         "furigana": "民",
         "kana": "ㄇㄧㄣˊ",
         "answer": "ㄇㄧㄣˊ"
       },
       {
         "japanese": "眠",
-        "english": "ㄇㄧㄢˊ",
+        "english": "the slumber",
         "furigana": "眠",
         "kana": "ㄇㄧㄢˊ",
         "answer": "ㄇㄧㄢˊ"
       },
       {
         "japanese": "甫",
-        "english": "ㄈㄨˇ",
+        "english": "fu",
         "furigana": "甫",
         "kana": "ㄈㄨˇ",
         "answer": "ㄈㄨˇ"
       },
       {
         "japanese": "補",
-        "english": "ㄅㄨˇ",
+        "english": "to patch",
         "furigana": "補",
         "kana": "ㄅㄨˇ",
         "answer": "ㄅㄨˇ"
       },
       {
         "japanese": "博",
-        "english": "ㄅㄛˊ",
+        "english": "knowledgeable",
         "furigana": "博",
         "kana": "ㄅㄛˊ",
         "answer": "ㄅㄛˊ"
       },
       {
         "japanese": "搏",
-        "english": "ㄅㄛˊ",
+        "english": "to wrestle",
         "furigana": "搏",
         "kana": "ㄅㄛˊ",
         "answer": "ㄅㄛˊ"
       },
       {
         "japanese": "都",
-        "english": "ㄉㄨ",
+        "english": "metropolis",
         "furigana": "都",
         "kana": "ㄉㄨ",
         "answer": "ㄉㄨ"
       },
       {
         "japanese": "部",
-        "english": "ㄅㄨˋ",
+        "english": "department",
         "furigana": "部",
         "kana": "ㄅㄨˋ",
         "answer": "ㄅㄨˋ"
       },
       {
         "japanese": "郎",
-        "english": "ㄌㄤˊ",
+        "english": "young man",
         "furigana": "郎",
         "kana": "ㄌㄤˊ",
         "answer": "ㄌㄤˊ"
       },
       {
         "japanese": "鄉",
-        "english": "ㄒㄧㄤ",
+        "english": "countryside",
         "furigana": "鄉",
         "kana": "ㄒㄧㄤ",
         "answer": "ㄒㄧㄤ"
       },
       {
         "japanese": "響",
-        "english": "ㄒㄧㄤˇ",
+        "english": "an echo",
         "furigana": "響",
         "kana": "ㄒㄧㄤˇ",
         "answer": "ㄒㄧㄤˇ"
       },
       {
         "japanese": "段",
-        "english": "ㄉㄨㄢˋ",
+        "english": "section",
         "furigana": "段",
         "kana": "ㄉㄨㄢˋ",
         "answer": "ㄉㄨㄢˋ"
       },
       {
         "japanese": "鍛",
-        "english": "ㄉㄨㄢˋ",
+        "english": "to forge",
         "furigana": "鍛",
         "kana": "ㄉㄨㄢˋ",
         "answer": "ㄉㄨㄢˋ"
       },
       {
         "japanese": "幻",
-        "english": "ㄏㄨㄢˋ",
+        "english": "unreal",
         "furigana": "幻",
         "kana": "ㄏㄨㄢˋ",
         "answer": "ㄏㄨㄢˋ"
       },
       {
         "japanese": "司",
-        "english": "ㄙ",
+        "english": "to take charge of",
         "furigana": "司",
         "kana": "ㄙ",
         "answer": "ㄙ"
       },
       {
         "japanese": "詞",
-        "english": "ㄘˊ",
+        "english": "word",
         "furigana": "詞",
         "kana": "ㄘˊ",
         "answer": "ㄘˊ"
       },
       {
         "japanese": "舟",
-        "english": "ㄓㄡ",
+        "english": "boat",
         "furigana": "舟",
         "kana": "ㄓㄡ",
         "answer": "ㄓㄡ"
       },
       {
         "japanese": "船",
-        "english": "ㄔㄨㄢˊ",
+        "english": "ship",
         "furigana": "船",
         "kana": "ㄔㄨㄢˊ",
         "answer": "ㄔㄨㄢˊ"
       },
       {
         "japanese": "般",
-        "english": "ㄅㄢ",
+        "english": "the sort",
         "furigana": "般",
         "kana": "ㄅㄢ",
         "answer": "ㄅㄢ"
       },
       {
         "japanese": "盤",
-        "english": "ㄆㄢˊ",
+        "english": "tray",
         "furigana": "盤",
         "kana": "ㄆㄢˊ",
         "answer": "ㄆㄢˊ"
       },
       {
         "japanese": "搬",
-        "english": "ㄅㄢ",
+        "english": "to relocate",
         "furigana": "搬",
         "kana": "ㄅㄢ",
         "answer": "ㄅㄢ"
       },
       {
         "japanese": "瓜",
-        "english": "ㄍㄨㄚ",
+        "english": "melon",
         "furigana": "瓜",
         "kana": "ㄍㄨㄚ",
         "answer": "ㄍㄨㄚ"
       },
       {
         "japanese": "孤",
-        "english": "ㄍㄨ",
+        "english": "orphan",
         "furigana": "孤",
         "kana": "ㄍㄨ",
         "answer": "ㄍㄨ"
       },
       {
         "japanese": "益",
-        "english": "ㄧˋ",
+        "english": "a benefit",
         "furigana": "益",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "假",
-        "english": "ㄐㄧㄚˋ",
+        "english": "vacation",
         "furigana": "假",
         "kana": "ㄐㄧㄚˋ",
         "answer": "ㄐㄧㄚˋ"
       },
       {
         "japanese": "蝦",
-        "english": "ㄒㄧㄚ",
+        "english": "shrimp",
         "furigana": "蝦",
         "kana": "ㄒㄧㄚ",
         "answer": "ㄒㄧㄚ"
       },
       {
         "japanese": "氣",
-        "english": "ㄑㄧˋ",
+        "english": "air",
         "furigana": "氣",
         "kana": "ㄑㄧˋ",
         "answer": "ㄑㄧˋ"
       },
       {
         "japanese": "汽",
-        "english": "ㄑㄧˋ",
+        "english": "vapor",
         "furigana": "汽",
         "kana": "ㄑㄧˋ",
         "answer": "ㄑㄧˋ"
       },
       {
         "japanese": "飛",
-        "english": "ㄈㄟ",
+        "english": "to fly",
         "furigana": "飛",
         "kana": "ㄈㄟ",
         "answer": "ㄈㄟ"
       },
       {
         "japanese": "面",
-        "english": "ㄇㄧㄢˋ",
+        "english": "face-to-face",
         "furigana": "面",
         "kana": "ㄇㄧㄢˋ",
         "answer": "ㄇㄧㄢˋ"
       },
       {
         "japanese": "麵",
-        "english": "ㄇㄧㄢˋ",
+        "english": "noodles",
         "furigana": "麵",
         "kana": "ㄇㄧㄢˋ",
         "answer": "ㄇㄧㄢˋ"
       },
       {
         "japanese": "革",
-        "english": "ㄍㄜˊ",
+        "english": "leather 巩鞏恐",
         "furigana": "革",
         "kana": "ㄍㄜˊ",
         "answer": "ㄍㄜˊ"
       },
       {
         "japanese": "鞋",
-        "english": "ㄒㄧㄝˊ",
+        "english": "shoes",
         "furigana": "鞋",
         "kana": "ㄒㄧㄝˊ",
         "answer": "ㄒㄧㄝˊ"
       },
       {
         "japanese": "馨",
-        "english": "ㄒㄧㄣ",
+        "english": "fragrant",
         "furigana": "馨",
         "kana": "ㄒㄧㄣ",
         "answer": "ㄒㄧㄣ"
       },
       {
         "japanese": "聲",
-        "english": "ㄕㄥ",
+        "english": "voice",
         "furigana": "聲",
         "kana": "ㄕㄥ",
         "answer": "ㄕㄥ"
       },
       {
         "japanese": "吳",
-        "english": "ㄨˊ",
+        "english": "wu",
         "furigana": "吳",
         "kana": "ㄨˊ",
         "answer": "ㄨˊ"
       },
       {
         "japanese": "娛",
-        "english": "ㄩˊ",
+        "english": "amusement",
         "furigana": "娛",
         "kana": "ㄩˊ",
         "answer": "ㄩˊ"
       },
       {
         "japanese": "誤",
-        "english": "ㄨˋ",
+        "english": "error",
         "furigana": "誤",
         "kana": "ㄨˋ",
         "answer": "ㄨˋ"
       },
       {
         "japanese": "承",
-        "english": "ㄔㄥˊ",
+        "english": "to undertake",
         "furigana": "承",
         "kana": "ㄔㄥˊ",
         "answer": "ㄔㄥˊ"
       },
       {
         "japanese": "蒸",
-        "english": "ㄓㄥ",
+        "english": "to steam",
         "furigana": "蒸",
         "kana": "ㄓㄥ",
         "answer": "ㄓㄥ"
       },
       {
         "japanese": "牙",
-        "english": "ㄧㄚˊ",
+        "english": "tooth",
         "furigana": "牙",
         "kana": "ㄧㄚˊ",
         "answer": "ㄧㄚˊ"
       },
       {
         "japanese": "穿",
-        "english": "ㄔㄨㄢ",
+        "english": "to pass through",
         "furigana": "穿",
         "kana": "ㄔㄨㄢ",
         "answer": "ㄔㄨㄢ"
       },
       {
         "japanese": "呀",
-        "english": "ㄧㄚ",
+        "english": "wow!",
         "furigana": "呀",
         "kana": "ㄧㄚ",
         "answer": "ㄧㄚ"
       },
       {
         "japanese": "釋",
-        "english": "ㄕˋ",
+        "english": "to explain",
         "furigana": "釋",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "番",
-        "english": "ㄈㄢ",
+        "english": "a try",
         "furigana": "番",
         "kana": "ㄈㄢ",
         "answer": "ㄈㄢ"
       },
       {
         "japanese": "翻",
-        "english": "ㄈㄢ",
+        "english": "to turn over",
         "furigana": "翻",
         "kana": "ㄈㄢ",
         "answer": "ㄈㄢ"
       },
       {
         "japanese": "播",
-        "english": "ㄅㄛˋ",
+        "english": "to broadcast",
         "furigana": "播",
         "kana": "ㄅㄛˋ",
         "answer": "ㄅㄛˋ"
       },
       {
         "japanese": "毛",
-        "english": "ㄇㄠˊ",
+        "english": "fur",
         "furigana": "毛",
         "kana": "ㄇㄠˊ",
         "answer": "ㄇㄠˊ"
       },
       {
         "japanese": "尾",
-        "english": "ㄨㄟˇ",
+        "english": "tail",
         "furigana": "尾",
         "kana": "ㄨㄟˇ",
         "answer": "ㄨㄟˇ"
       },
       {
         "japanese": "宅",
-        "english": "ㄓㄞˊ",
+        "english": "a dwelling",
         "furigana": "宅",
         "kana": "ㄓㄞˊ",
         "answer": "ㄓㄞˊ"
       },
       {
         "japanese": "託",
-        "english": "ㄊㄨㄛ",
+        "english": "to entrust",
         "furigana": "託",
         "kana": "ㄊㄨㄛ",
         "answer": "ㄊㄨㄛ"
       },
       {
         "japanese": "為",
-        "english": "ㄨㄟˊ",
+        "english": "to act",
         "furigana": "為",
         "kana": "ㄨㄟˊ",
         "answer": "ㄨㄟˊ"
       },
       {
         "japanese": "偽",
-        "english": "ㄨㄟˋ",
+        "english": "bogus",
         "furigana": "偽",
         "kana": "ㄨㄟˋ",
         "answer": "ㄨㄟˋ"
       },
       {
         "japanese": "長",
-        "english": "ㄔㄤˊ",
+        "english": "long",
         "furigana": "長",
         "kana": "ㄔㄤˊ",
         "answer": "ㄔㄤˊ"
       },
       {
         "japanese": "張",
-        "english": "ㄓㄤ",
+        "english": "to stretch",
         "furigana": "張",
         "kana": "ㄓㄤ",
         "answer": "ㄓㄤ"
       },
       {
         "japanese": "漲",
-        "english": "ㄓㄤˋ",
+        "english": "to swell",
         "furigana": "漲",
         "kana": "ㄓㄤˋ",
         "answer": "ㄓㄤˋ"
       },
       {
         "japanese": "套",
-        "english": "ㄊㄠˋ",
+        "english": "a cover",
         "furigana": "套",
         "kana": "ㄊㄠˋ",
         "answer": "ㄊㄠˋ"
       },
       {
         "japanese": "髮",
-        "english": "ㄈㄚˇ",
+        "english": "hair of the head",
         "furigana": "髮",
         "kana": "ㄈㄚˇ",
         "answer": "ㄈㄚˇ"
       },
       {
         "japanese": "展",
-        "english": "ㄓㄢˇ",
+        "english": "to unfold",
         "furigana": "展",
         "kana": "ㄓㄢˇ",
         "answer": "ㄓㄢˇ"
       },
       {
         "japanese": "喪",
-        "english": "ㄙㄤ",
+        "english": "funeral",
         "furigana": "喪",
         "kana": "ㄙㄤ",
         "answer": "ㄙㄤ"
       },
       {
         "japanese": "雁",
-        "english": "ㄧㄢˋ",
+        "english": "wild goose",
         "furigana": "雁",
         "kana": "ㄧㄢˋ",
         "answer": "ㄧㄢˋ"
       },
       {
         "japanese": "應",
-        "english": "ㄧㄥ",
+        "english": "ought to",
         "furigana": "應",
         "kana": "ㄧㄥ",
         "answer": "ㄧㄥ"
       },
       {
         "japanese": "鳥",
-        "english": "ㄋㄧㄠˇ",
+        "english": "bird",
         "furigana": "鳥",
         "kana": "ㄋㄧㄠˇ",
         "answer": "ㄋㄧㄠˇ"
       },
       {
         "japanese": "鷹",
-        "english": "ㄧㄥ",
+        "english": "hawk",
         "furigana": "鷹",
         "kana": "ㄧㄥ",
         "answer": "ㄧㄥ"
       },
       {
         "japanese": "鴨",
-        "english": "ㄧㄚ",
+        "english": "duck",
         "furigana": "鴨",
         "kana": "ㄧㄚ",
         "answer": "ㄧㄚ"
       },
       {
         "japanese": "島",
-        "english": "ㄉㄠˇ",
+        "english": "island",
         "furigana": "島",
         "kana": "ㄉㄠˇ",
         "answer": "ㄉㄠˇ"
       },
       {
         "japanese": "遇",
-        "english": "ㄩˋ",
+        "english": "to encounter",
         "furigana": "遇",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "萬",
-        "english": "ㄨㄢˋ",
+        "english": "ten thousand",
         "furigana": "萬",
         "kana": "ㄨㄢˋ",
         "answer": "ㄨㄢˋ"
       },
       {
         "japanese": "邁",
-        "english": "ㄇㄞˋ",
+        "english": "to stride",
         "furigana": "邁",
         "kana": "ㄇㄞˋ",
         "answer": "ㄇㄞˋ"
       },
       {
         "japanese": "岡",
-        "english": "ㄍㄤ",
+        "english": "ridge of a hill",
         "furigana": "岡",
         "kana": "ㄍㄤ",
         "answer": "ㄍㄤ"
       },
       {
         "japanese": "剛",
-        "english": "ㄍㄤ",
+        "english": "just now",
         "furigana": "剛",
         "kana": "ㄍㄤ",
         "answer": "ㄍㄤ"
       },
       {
         "japanese": "缺",
-        "english": "ㄑㄩㄝ",
+        "english": "deficient",
         "furigana": "缺",
         "kana": "ㄑㄩㄝ",
         "answer": "ㄑㄩㄝ"
       },
       {
         "japanese": "寶",
-        "english": "ㄅㄠˇ",
+        "english": "treasure",
         "furigana": "寶",
         "kana": "ㄅㄠˇ",
         "answer": "ㄅㄠˇ"
       },
       {
         "japanese": "遙",
-        "english": "ㄧㄠˊ",
+        "english": "remote",
         "furigana": "遙",
         "kana": "ㄧㄠˊ",
         "answer": "ㄧㄠˊ"
       },
       {
         "japanese": "搖",
-        "english": "ㄧㄠˊ",
+        "english": "to shake",
         "furigana": "搖",
         "kana": "ㄧㄠˊ",
         "answer": "ㄧㄠˊ"
       },
       {
         "japanese": "兔",
-        "english": "ㄊㄨˋ",
+        "english": "rabbit",
         "furigana": "兔",
         "kana": "ㄊㄨˋ",
         "answer": "ㄊㄨˋ"
       },
       {
         "japanese": "逸",
-        "english": "ㄧˋ",
+        "english": "to flee",
         "furigana": "逸",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "免",
-        "english": "ㄇㄧㄢˇ",
+        "english": "to avoid",
         "furigana": "免",
         "kana": "ㄇㄧㄢˇ",
         "answer": "ㄇㄧㄢˇ"
       },
       {
         "japanese": "晚",
-        "english": "ㄨㄢˇ",
+        "english": "nightfall",
         "furigana": "晚",
         "kana": "ㄨㄢˇ",
         "answer": "ㄨㄢˇ"
       },
       {
         "japanese": "象",
-        "english": "ㄒㄧㄤˋ",
+        "english": "elephant",
         "furigana": "象",
         "kana": "ㄒㄧㄤˋ",
         "answer": "ㄒㄧㄤˋ"
       },
       {
         "japanese": "像",
-        "english": "ㄒㄧㄤˋ",
+        "english": "likeness",
         "furigana": "像",
         "kana": "ㄒㄧㄤˋ",
         "answer": "ㄒㄧㄤˋ"
       },
       {
         "japanese": "馬",
-        "english": "ㄇㄚˇ",
+        "english": "horse",
         "furigana": "馬",
         "kana": "ㄇㄚˇ",
         "answer": "ㄇㄚˇ"
       },
       {
         "japanese": "媽",
-        "english": "ㄇㄚ",
+        "english": "mama",
         "furigana": "媽",
         "kana": "ㄇㄚ",
         "answer": "ㄇㄚ"
       },
       {
         "japanese": "罵",
-        "english": "ㄇㄚˋ",
+        "english": "to scold",
         "furigana": "罵",
         "kana": "ㄇㄚˋ",
         "answer": "ㄇㄚˋ"
       },
       {
         "japanese": "嗎",
-        "english": "ㄇㄚ˙",
+        "english": "yes or no",
         "furigana": "嗎",
         "kana": "ㄇㄚ˙",
         "answer": "ㄇㄚ˙"
       },
       {
         "japanese": "驗",
-        "english": "ㄧㄢˋ",
+        "english": "to check",
         "furigana": "驗",
         "kana": "ㄧㄢˋ",
         "answer": "ㄧㄢˋ"
       },
       {
         "japanese": "騎",
-        "english": "ㄑㄧˊ",
+        "english": "to ride",
         "furigana": "騎",
         "kana": "ㄑㄧˊ",
         "answer": "ㄑㄧˊ"
       },
       {
         "japanese": "驚",
-        "english": "ㄐㄧㄥ",
+        "english": "startled",
         "furigana": "驚",
         "kana": "ㄐㄧㄥ",
         "answer": "ㄐㄧㄥ"
       },
       {
         "japanese": "虎",
-        "english": "ㄏㄨˇ",
+        "english": "tiger",
         "furigana": "虎",
         "kana": "ㄏㄨˇ",
         "answer": "ㄏㄨˇ"
       },
       {
         "japanese": "慮",
-        "english": "ㄌㄩˋ",
+        "english": "to ponder",
         "furigana": "慮",
         "kana": "ㄌㄩˋ",
         "answer": "ㄌㄩˋ"
       },
       {
         "japanese": "處",
-        "english": "ㄔㄨˋ",
+        "english": "location",
         "furigana": "處",
         "kana": "ㄔㄨˋ",
         "answer": "ㄔㄨˋ"
       },
       {
         "japanese": "戲",
-        "english": "ㄒㄧˋ",
+        "english": "to frolic",
         "furigana": "戲",
         "kana": "ㄒㄧˋ",
         "answer": "ㄒㄧˋ"
       },
       {
         "japanese": "劇",
-        "english": "ㄐㄩˋ",
+        "english": "drama",
         "furigana": "劇",
         "kana": "ㄐㄩˋ",
         "answer": "ㄐㄩˋ"
       },
       {
         "japanese": "據",
-        "english": "ㄐㄩˋ",
+        "english": "certificate",
         "furigana": "據",
         "kana": "ㄐㄩˋ",
         "answer": "ㄐㄩˋ"
       },
       {
         "japanese": "鹿",
-        "english": "ㄌㄨˋ",
+        "english": "deer",
         "furigana": "鹿",
         "kana": "ㄌㄨˋ",
         "answer": "ㄌㄨˋ"
       },
       {
         "japanese": "塵",
-        "english": "ㄔㄣˊ",
+        "english": "dust",
         "furigana": "塵",
         "kana": "ㄔㄣˊ",
         "answer": "ㄔㄣˊ"
       },
       {
         "japanese": "麗",
-        "english": "ㄌㄧˋ",
+        "english": "lovely",
         "furigana": "麗",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "熊",
-        "english": "ㄒㄩㄥˊ",
+        "english": "bear",
         "furigana": "熊",
         "kana": "ㄒㄩㄥˊ",
         "answer": "ㄒㄩㄥˊ"
       },
       {
         "japanese": "能",
-        "english": "ㄋㄥˊ",
+        "english": "ability",
         "furigana": "能",
         "kana": "ㄋㄥˊ",
         "answer": "ㄋㄥˊ"
       },
       {
         "japanese": "態",
-        "english": "ㄊㄞˋ",
+        "english": "attitude",
         "furigana": "態",
         "kana": "ㄊㄞˋ",
         "answer": "ㄊㄞˋ"
       },
       {
         "japanese": "寅",
-        "english": "ㄧㄣˊ",
+        "english": "sign of the tiger",
         "furigana": "寅",
         "kana": "ㄧㄣˊ",
         "answer": "ㄧㄣˊ"
       },
       {
         "japanese": "演",
-        "english": "ㄧㄢˇ",
+        "english": "to perform",
         "furigana": "演",
         "kana": "ㄧㄢˇ",
         "answer": "ㄧㄢˇ"
       },
       {
         "japanese": "辰",
-        "english": "ㄔㄣˊ",
+        "english": "sign of the dragon",
         "furigana": "辰",
         "kana": "ㄔㄣˊ",
         "answer": "ㄔㄣˊ"
       },
       {
         "japanese": "晨",
-        "english": "ㄔㄣˊ",
+        "english": "morning",
         "furigana": "晨",
         "kana": "ㄔㄣˊ",
         "answer": "ㄔㄣˊ"
       },
       {
         "japanese": "農",
-        "english": "ㄋㄨㄥˊ",
+        "english": "agriculture",
         "furigana": "農",
         "kana": "ㄋㄨㄥˊ",
         "answer": "ㄋㄨㄥˊ"
       },
       {
         "japanese": "濃",
-        "english": "ㄋㄨㄥˊ",
+        "english": "concentrated",
         "furigana": "濃",
         "kana": "ㄋㄨㄥˊ",
         "answer": "ㄋㄨㄥˊ"
       },
       {
         "japanese": "送",
-        "english": "ㄙㄨㄥˋ",
+        "english": "to deliver",
         "furigana": "送",
         "kana": "ㄙㄨㄥˋ",
         "answer": "ㄙㄨㄥˋ"
       },
       {
         "japanese": "鬼",
-        "english": "ㄍㄨㄟˇ",
+        "english": "ghost",
         "furigana": "鬼",
         "kana": "ㄍㄨㄟˇ",
         "answer": "ㄍㄨㄟˇ"
       },
       {
         "japanese": "魔",
-        "english": "ㄇㄛˊ",
+        "english": "demon",
         "furigana": "魔",
         "kana": "ㄇㄛˊ",
         "answer": "ㄇㄛˊ"
       },
       {
         "japanese": "塊",
-        "english": "ㄎㄨㄞˋ",
+        "english": "lump",
         "furigana": "塊",
         "kana": "ㄎㄨㄞˋ",
         "answer": "ㄎㄨㄞˋ"
       },
       {
         "japanese": "龍",
-        "english": "ㄌㄨㄥˊ",
+        "english": "dragon",
         "furigana": "龍",
         "kana": "ㄌㄨㄥˊ",
         "answer": "ㄌㄨㄥˊ"
       },
       {
         "japanese": "襲",
-        "english": "ㄒㄧˊ",
+        "english": "to raid",
         "furigana": "襲",
         "kana": "ㄒㄧˊ",
         "answer": "ㄒㄧˊ"
       },
       {
         "japanese": "兒",
-        "english": "ㄦˊ",
+        "english": "youngster",
         "furigana": "兒",
         "kana": "ㄦˊ",
         "answer": "ㄦˊ"
       },
       {
         "japanese": "舊",
-        "english": "ㄐㄧㄡˋ",
+        "english": "old",
         "furigana": "舊",
         "kana": "ㄐㄧㄡˋ",
         "answer": "ㄐㄧㄡˋ"
       },
       {
         "japanese": "寫",
-        "english": "ㄒㄧㄝˇ",
+        "english": "to write",
         "furigana": "寫",
         "kana": "ㄒㄧㄝˇ",
         "answer": "ㄒㄧㄝˇ"
       },
       {
         "japanese": "瀉",
-        "english": "ㄒㄧㄝˋ",
+        "english": "diarrhea",
         "furigana": "瀉",
         "kana": "ㄒㄧㄝˋ",
         "answer": "ㄒㄧㄝˋ"
       },
       {
         "japanese": "兩",
-        "english": "ㄌㄧㄤˇ",
+        "english": "dos",
         "furigana": "兩",
         "kana": "ㄌㄧㄤˇ",
         "answer": "ㄌㄧㄤˇ"
       },
       {
         "japanese": "倆",
-        "english": "ㄌㄧㄚˇ",
+        "english": "duo",
         "furigana": "倆",
         "kana": "ㄌㄧㄚˇ",
         "answer": "ㄌㄧㄚˇ"
       },
       {
         "japanese": "滿",
-        "english": "ㄇㄢˇ",
+        "english": "full",
         "furigana": "滿",
         "kana": "ㄇㄢˇ",
         "answer": "ㄇㄢˇ"
       },
       {
         "japanese": "爾",
-        "english": "ㄦˇ",
+        "english": "you  [literary]",
         "furigana": "爾",
         "kana": "ㄦˇ",
         "answer": "ㄦˇ"
       },
       {
         "japanese": "彌",
-        "english": "ㄇㄧˊ",
+        "english": "to fill",
         "furigana": "彌",
         "kana": "ㄇㄧˊ",
         "answer": "ㄇㄧˊ"
       },
       {
         "japanese": "虛",
-        "english": "ㄒㄩ",
+        "english": "false",
         "furigana": "虛",
         "kana": "ㄒㄩ",
         "answer": "ㄒㄩ"
       },
       {
         "japanese": "聯",
-        "english": "ㄌㄧㄢˊ",
+        "english": "to unite",
         "furigana": "聯",
         "kana": "ㄌㄧㄢˊ",
         "answer": "ㄌㄧㄢˊ"
       },
       {
         "japanese": "關",
-        "english": "ㄍㄨㄢ",
+        "english": "to shut",
         "furigana": "關",
         "kana": "ㄍㄨㄢ",
         "answer": "ㄍㄨㄢ"
       },
       {
         "japanese": "那",
-        "english": "ㄋㄚˋ",
+        "english": "that",
         "furigana": "那",
         "kana": "ㄋㄚˋ",
         "answer": "ㄋㄚˋ"
       },
       {
         "japanese": "哪",
-        "english": "ㄋㄚˇ",
+        "english": "which?",
         "furigana": "哪",
         "kana": "ㄋㄚˇ",
         "answer": "ㄋㄚˇ"
       },
       {
         "japanese": "巫",
-        "english": "ㄨ",
+        "english": "witch",
         "furigana": "巫",
         "kana": "ㄨ",
         "answer": "ㄨ"
       },
       {
         "japanese": "靈",
-        "english": "ㄌㄧㄥˊ",
+        "english": "spirit",
         "furigana": "靈",
         "kana": "ㄌㄧㄥˊ",
         "answer": "ㄌㄧㄥˊ"
       },
       {
         "japanese": "縣",
-        "english": "ㄒㄧㄢˋ",
+        "english": "county",
         "furigana": "縣",
         "kana": "ㄒㄧㄢˋ",
         "answer": "ㄒㄧㄢˋ"
       },
       {
         "japanese": "懸",
-        "english": "ㄒㄩㄢˊ",
+        "english": "to suspend",
         "furigana": "懸",
         "kana": "ㄒㄩㄢˊ",
         "answer": "ㄒㄩㄢˊ"
       },
       {
         "japanese": "與",
-        "english": "ㄩˇ",
+        "english": "to offer",
         "furigana": "與",
         "kana": "ㄩˇ",
         "answer": "ㄩˇ"
       },
       {
         "japanese": "舉",
-        "english": "ㄐㄩˇ",
+        "english": "to lift up",
         "furigana": "舉",
         "kana": "ㄐㄩˇ",
         "answer": "ㄐㄩˇ"
       },
       {
         "japanese": "腦",
-        "english": "ㄋㄠˇ",
+        "english": "brain",
         "furigana": "腦",
         "kana": "ㄋㄠˇ",
         "answer": "ㄋㄠˇ"
       },
       {
         "japanese": "惱",
-        "english": "ㄋㄠˇ",
+        "english": "annoyed",
         "furigana": "惱",
         "kana": "ㄋㄠˇ",
         "answer": "ㄋㄠˇ"
       },
       {
         "japanese": "專",
-        "english": "ㄓㄨㄢ",
+        "english": "specialty",
         "furigana": "專",
         "kana": "ㄓㄨㄢ",
         "answer": "ㄓㄨㄢ"
       },
       {
         "japanese": "傳",
-        "english": "ㄔㄨㄢˊ",
+        "english": "to spread",
         "furigana": "傳",
         "kana": "ㄔㄨㄢˊ",
         "answer": "ㄔㄨㄢˊ"
       },
       {
         "japanese": "轉",
-        "english": "ㄓㄨㄢˇ",
+        "english": "to rotate",
         "furigana": "轉",
         "kana": "ㄓㄨㄢˇ",
         "answer": "ㄓㄨㄢˇ"
       },
       {
         "japanese": "團",
-        "english": "ㄊㄨㄢˊ",
+        "english": "troupe",
         "furigana": "團",
         "kana": "ㄊㄨㄢˊ",
         "answer": "ㄊㄨㄢˊ"
       },
       {
         "japanese": "黃",
-        "english": "ㄏㄨㄤˊ",
+        "english": "yellow",
         "furigana": "黃",
         "kana": "ㄏㄨㄤˊ",
         "answer": "ㄏㄨㄤˊ"
       },
       {
         "japanese": "廣",
-        "english": "ㄍㄨㄤˇ",
+        "english": "extensive",
         "furigana": "廣",
         "kana": "ㄍㄨㄤˇ",
         "answer": "ㄍㄨㄤˇ"
       },
       {
         "japanese": "橫",
-        "english": "ㄏㄥˊ",
+        "english": "horizontal",
         "furigana": "橫",
         "kana": "ㄏㄥˊ",
         "answer": "ㄏㄥˊ"
       },
       {
         "japanese": "窗",
-        "english": "ㄔㄨㄤ",
+        "english": "window",
         "furigana": "窗",
         "kana": "ㄔㄨㄤ",
         "answer": "ㄔㄨㄤ"
       },
       {
         "japanese": "總",
-        "english": "ㄗㄨㄥˇ",
+        "english": "general",
         "furigana": "總",
         "kana": "ㄗㄨㄥˇ",
         "answer": "ㄗㄨㄥˇ"
       },
       {
         "japanese": "詹",
-        "english": "ㄓㄢ",
+        "english": "verbose",
         "furigana": "詹",
         "kana": "ㄓㄢ",
         "answer": "ㄓㄢ"
       },
       {
         "japanese": "擔",
-        "english": "ㄉㄢ",
+        "english": "to assume",
         "furigana": "擔",
         "kana": "ㄉㄢ",
         "answer": "ㄉㄢ"
       },
       {
         "japanese": "數",
-        "english": "ㄕㄨˋ",
+        "english": "number",
         "furigana": "數",
         "kana": "ㄕㄨˋ",
         "answer": "ㄕㄨˋ"
       },
       {
         "japanese": "樓",
-        "english": "ㄌㄡˊ",
+        "english": "multistory building",
         "furigana": "樓",
         "kana": "ㄌㄡˊ",
         "answer": "ㄌㄡˊ"
       },
       {
         "japanese": "獨",
-        "english": "ㄉㄨˊ",
+        "english": "alone",
         "furigana": "獨",
         "kana": "ㄉㄨˊ",
         "answer": "ㄉㄨˊ"
       },
       {
         "japanese": "屬",
-        "english": "ㄕㄨˇ",
+        "english": "to belong to",
         "furigana": "屬",
         "kana": "ㄕㄨˇ",
         "answer": "ㄕㄨˇ"
       },
       {
         "japanese": "爛",
-        "english": "ㄌㄢˋ",
+        "english": "spoiled",
         "furigana": "爛",
         "kana": "ㄌㄢˋ",
         "answer": "ㄌㄢˋ"
       },
       {
         "japanese": "蘭",
-        "english": "ㄌㄢˊ",
+        "english": "orchid",
         "furigana": "蘭",
         "kana": "ㄌㄢˊ",
         "answer": "ㄌㄢˊ"
       },
       {
         "japanese": "從",
-        "english": "ㄘㄨㄥˊ",
+        "english": "to follow",
         "furigana": "從",
         "kana": "ㄘㄨㄥˊ",
         "answer": "ㄘㄨㄥˊ"
       },
       {
         "japanese": "縱",
-        "english": "ㄗㄨㄥ",
+        "english": "vertical",
         "furigana": "縱",
         "kana": "ㄗㄨㄥ",
         "answer": "ㄗㄨㄥ"
       },
       {
         "japanese": "齊",
-        "english": "ㄑㄧˊ",
+        "english": "identical",
         "furigana": "齊",
         "kana": "ㄑㄧˊ",
         "answer": "ㄑㄧˊ"
       },
       {
         "japanese": "濟",
-        "english": "ㄐㄧˋ",
+        "english": "to relieve",
         "furigana": "濟",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "丑",
-        "english": "ㄔㄡˇ",
+        "english": "clown",
         "furigana": "丑",
         "kana": "ㄔㄡˇ",
         "answer": "ㄔㄡˇ"
       },
       {
         "japanese": "扭",
-        "english": "ㄋㄧㄡˇ",
+        "english": "to twist",
         "furigana": "扭",
         "kana": "ㄋㄧㄡˇ",
         "answer": "ㄋㄧㄡˇ"
       },
       {
         "japanese": "卑",
-        "english": "ㄅㄟ",
+        "english": "lowly",
         "furigana": "卑",
         "kana": "ㄅㄟ",
         "answer": "ㄅㄟ"
       },
       {
         "japanese": "牌",
-        "english": "ㄆㄞˊ",
+        "english": "a brand (trademark)",
         "furigana": "牌",
         "kana": "ㄆㄞˊ",
         "answer": "ㄆㄞˊ"
       },
       {
         "japanese": "號",
-        "english": "ㄏㄠˋ",
+        "english": "appellation",
         "furigana": "號",
         "kana": "ㄏㄠˋ",
         "answer": "ㄏㄠˋ"
       },
       {
         "japanese": "怪",
-        "english": "ㄍㄨㄞˋ",
+        "english": "peculiar",
         "furigana": "怪",
         "kana": "ㄍㄨㄞˋ",
         "answer": "ㄍㄨㄞˋ"
       },
       {
         "japanese": "赤",
-        "english": "ㄔˋ",
+        "english": "crimson",
         "furigana": "赤",
         "kana": "ㄔˋ",
         "answer": "ㄔˋ"
       },
       {
         "japanese": "亦",
-        "english": "ㄧˋ",
+        "english": "likewise",
         "furigana": "亦",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "極",
-        "english": "ㄐㄧˊ",
+        "english": "extreme",
         "furigana": "極",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "雜",
-        "english": "ㄗㄚˊ",
+        "english": "miscellaneous",
         "furigana": "雜",
         "kana": "ㄗㄚˊ",
         "answer": "ㄗㄚˊ"
       },
       {
         "japanese": "曰",
-        "english": "ㄩㄝ",
+        "english": "sayeth",
         "furigana": "曰",
         "kana": "ㄩㄝ",
         "answer": "ㄩㄝ"
       },
       {
         "japanese": "亂",
-        "english": "ㄌㄨㄢˋ",
+        "english": "chaos",
         "furigana": "亂",
         "kana": "ㄌㄨㄢˋ",
         "answer": "ㄌㄨㄢˋ"
       },
       {
         "japanese": "叭",
-        "english": "ㄅㄚ",
+        "english": "trumpet",
         "furigana": "叭",
         "kana": "ㄅㄚ",
         "answer": "ㄅㄚ"
       },
       {
         "japanese": "咕",
-        "english": "ㄍㄨ",
+        "english": "mutter",
         "furigana": "咕",
         "kana": "ㄍㄨ",
         "answer": "ㄍㄨ"
       },
       {
         "japanese": "咱",
-        "english": "ㄗㄢˊ",
+        "english": "we (inclusive)",
         "furigana": "咱",
         "kana": "ㄗㄢˊ",
         "answer": "ㄗㄢˊ"
       },
       {
         "japanese": "串",
-        "english": "ㄔㄨㄢˋ",
+        "english": "string together",
         "furigana": "串",
         "kana": "ㄔㄨㄢˋ",
         "answer": "ㄔㄨㄢˋ"
       },
       {
         "japanese": "罩",
-        "english": "ㄓㄠˋ",
+        "english": "overspread",
         "furigana": "罩",
         "kana": "ㄓㄠˋ",
         "answer": "ㄓㄠˋ"
       },
       {
         "japanese": "囂",
-        "english": "ㄒㄧㄠ",
+        "english": "hubbub",
         "furigana": "囂",
         "kana": "ㄒㄧㄠ",
         "answer": "ㄒㄧㄠ"
       },
       {
         "japanese": "顛",
-        "english": "ㄉㄧㄢ",
+        "english": "invert",
         "furigana": "顛",
         "kana": "ㄉㄧㄢ",
         "answer": "ㄉㄧㄢ"
       },
       {
         "japanese": "叨",
-        "english": "ㄉㄠ",
+        "english": "talkative",
         "furigana": "叨",
         "kana": "ㄉㄠ",
         "answer": "ㄉㄠ"
       },
       {
         "japanese": "刮",
-        "english": "ㄍㄨㄚ",
+        "english": "scrape",
         "furigana": "刮",
         "kana": "ㄍㄨㄚ",
         "answer": "ㄍㄨㄚ"
       },
       {
         "japanese": "盯",
-        "english": "ㄉㄧㄥ",
+        "english": "stare at",
         "furigana": "盯",
         "kana": "ㄉㄧㄥ",
         "answer": "ㄉㄧㄥ"
       },
       {
         "japanese": "呵",
-        "english": "ㄏㄜ",
+        "english": "rebuke",
         "furigana": "呵",
         "kana": "ㄏㄜ",
         "answer": "ㄏㄜ"
       },
       {
         "japanese": "姦",
-        "english": "ㄐㄧㄢ",
+        "english": "adultery",
         "furigana": "姦",
         "kana": "ㄐㄧㄢ",
         "answer": "ㄐㄧㄢ"
       },
       {
         "japanese": "嬰",
-        "english": "ㄧㄥ",
+        "english": "baby",
         "furigana": "嬰",
         "kana": "ㄧㄥ",
         "answer": "ㄧㄥ"
       },
       {
         "japanese": "姑",
-        "english": "ㄍㄨ",
+        "english": "father's sister",
         "furigana": "姑",
         "kana": "ㄍㄨ",
         "answer": "ㄍㄨ"
       },
       {
         "japanese": "姆",
-        "english": "ㄇㄨˇ",
+        "english": "nanny",
         "furigana": "姆",
         "kana": "ㄇㄨˇ",
         "answer": "ㄇㄨˇ"
       },
       {
         "japanese": "兢",
-        "english": "ㄐㄧㄥ",
+        "english": "cautious",
         "furigana": "兢",
         "kana": "ㄐㄧㄥ",
         "answer": "ㄐㄧㄥ"
       },
       {
         "japanese": "碩",
-        "english": "ㄕㄨㄛˋ",
+        "english": "big",
         "furigana": "碩",
         "kana": "ㄕㄨㄛˋ",
         "answer": "ㄕㄨㄛˋ"
       },
       {
         "japanese": "砌",
-        "english": "ㄑㄧˋ",
+        "english": "lay brick",
         "furigana": "砌",
         "kana": "ㄑㄧˋ",
         "answer": "ㄑㄧˋ"
       },
       {
         "japanese": "哨",
-        "english": "ㄕㄠˋ",
+        "english": "whistle",
         "furigana": "哨",
         "kana": "ㄕㄠˋ",
         "answer": "ㄕㄠˋ"
       },
       {
         "japanese": "晃",
-        "english": "ㄏㄨㄤˋ",
+        "english": "sway",
         "furigana": "晃",
         "kana": "ㄏㄨㄤˋ",
         "answer": "ㄏㄨㄤˋ"
       },
       {
         "japanese": "泊",
-        "english": "ㄅㄛˊ",
+        "english": "moor",
         "furigana": "泊",
         "kana": "ㄅㄛˊ",
         "answer": "ㄅㄛˊ"
       },
       {
         "japanese": "汰",
-        "english": "ㄊㄞˋ",
+        "english": "get rid of",
         "furigana": "汰",
         "kana": "ㄊㄞˋ",
         "answer": "ㄊㄞˋ"
       },
       {
         "japanese": "沾",
-        "english": "ㄓㄢ",
+        "english": "soak",
         "furigana": "沾",
         "kana": "ㄓㄢ",
         "answer": "ㄓㄢ"
       },
       {
         "japanese": "渺",
-        "english": "ㄇㄧㄠˇ",
+        "english": "insignificant",
         "furigana": "渺",
         "kana": "ㄇㄧㄠˇ",
         "answer": "ㄇㄧㄠˇ"
       },
       {
         "japanese": "腺",
-        "english": "ㄒㄧㄢˋ",
+        "english": "gland",
         "furigana": "腺",
         "kana": "ㄒㄧㄢˋ",
         "answer": "ㄒㄧㄢˋ"
       },
       {
         "japanese": "坦",
-        "english": "ㄊㄢˇ",
+        "english": "level",
         "furigana": "坦",
         "kana": "ㄊㄢˇ",
         "answer": "ㄊㄢˇ"
       },
       {
         "japanese": "娃",
-        "english": "ㄨㄚˊ",
+        "english": "newborn",
         "furigana": "娃",
         "kana": "ㄨㄚˊ",
         "answer": "ㄨㄚˊ"
       },
       {
         "japanese": "涯",
-        "english": "ㄧㄚˊ",
+        "english": "bank",
         "furigana": "涯",
         "kana": "ㄧㄚˊ",
         "answer": "ㄧㄚˊ"
       },
       {
         "japanese": "吋",
-        "english": "ㄘㄨㄣˋ",
+        "english": "inch",
         "furigana": "吋",
         "kana": "ㄘㄨㄣˋ",
         "answer": "ㄘㄨㄣˋ"
       },
       {
         "japanese": "肘",
-        "english": "ㄓㄡˇ",
+        "english": "elbow",
         "furigana": "肘",
         "kana": "ㄓㄡˇ",
         "answer": "ㄓㄡˇ"
       },
       {
         "japanese": "灼",
-        "english": "ㄓㄨㄛˊ",
+        "english": "scorch",
         "furigana": "灼",
         "kana": "ㄓㄨㄛˊ",
         "answer": "ㄓㄨㄛˊ"
       },
       {
         "japanese": "炒",
-        "english": "ㄔㄠˇ",
+        "english": "stir-fry",
         "furigana": "炒",
         "kana": "ㄔㄠˇ",
         "answer": "ㄔㄠˇ"
       },
       {
         "japanese": "澆",
-        "english": "ㄐㄧㄠ",
+        "english": "sprinkle",
         "furigana": "澆",
         "kana": "ㄐㄧㄠ",
         "answer": "ㄐㄧㄠ"
       },
       {
         "japanese": "哩",
-        "english": "ㄌㄧˇ",
+        "english": "mile",
         "furigana": "哩",
         "kana": "ㄌㄧˇ",
         "answer": "ㄌㄧˇ"
       },
       {
         "japanese": "鯉",
-        "english": "ㄌㄧˇ",
+        "english": "carp",
         "furigana": "鯉",
         "kana": "ㄌㄧˇ",
         "answer": "ㄌㄧˇ"
       },
       {
         "japanese": "嘿",
-        "english": "ㄏㄟ",
+        "english": "hey!",
         "furigana": "嘿",
         "kana": "ㄏㄟ",
         "answer": "ㄏㄟ"
       },
       {
         "japanese": "丹",
-        "english": "ㄉㄢ",
+        "english": "cinnabar red",
         "furigana": "丹",
         "kana": "ㄉㄢ",
         "answer": "ㄉㄢ"
       },
       {
         "japanese": "喧",
-        "english": "ㄒㄩㄢ",
+        "english": "boisterous",
         "furigana": "喧",
         "kana": "ㄒㄩㄢ",
         "answer": "ㄒㄩㄢ"
       },
       {
         "japanese": "賓",
-        "english": "ㄅㄧㄣ",
+        "english": "visitor",
         "furigana": "賓",
         "kana": "ㄅㄧㄣ",
         "answer": "ㄅㄧㄣ"
       },
       {
         "japanese": "濱",
-        "english": "ㄅㄧㄣ",
+        "english": "water's edge",
         "furigana": "濱",
         "kana": "ㄅㄧㄣ",
         "answer": "ㄅㄧㄣ"
       },
       {
         "japanese": "寡",
-        "english": "ㄍㄨㄚˇ",
+        "english": "widowed",
         "furigana": "寡",
         "kana": "ㄍㄨㄚˇ",
         "answer": "ㄍㄨㄚˇ"
       },
       {
         "japanese": "棚",
-        "english": "ㄆㄥˊ",
+        "english": "shed",
         "furigana": "棚",
         "kana": "ㄆㄥˊ",
         "answer": "ㄆㄥˊ"
       },
       {
         "japanese": "柏",
-        "english": "ㄅㄛˊ",
+        "english": "cypress",
         "furigana": "柏",
         "kana": "ㄅㄛˊ",
         "answer": "ㄅㄛˊ"
       },
       {
         "japanese": "槓",
-        "english": "ㄍㄤˋ",
+        "english": "thick stick",
         "furigana": "槓",
         "kana": "ㄍㄤˋ",
         "answer": "ㄍㄤˋ"
       },
       {
         "japanese": "朵",
-        "english": "ㄉㄨㄛˇ",
+        "english": "flouds",
         "furigana": "朵",
         "kana": "ㄉㄨㄛˇ",
         "answer": "ㄉㄨㄛˇ"
       },
       {
         "japanese": "杜",
-        "english": "ㄉㄨˋ",
+        "english": "prevent",
         "furigana": "杜",
         "kana": "ㄉㄨˋ",
         "answer": "ㄉㄨˋ"
       },
       {
         "japanese": "桂",
-        "english": "ㄍㄨㄟˋ",
+        "english": "cassia-bark tree",
         "furigana": "桂",
         "kana": "ㄍㄨㄟˋ",
         "answer": "ㄍㄨㄟˋ"
       },
       {
         "japanese": "椅",
-        "english": "ㄧˇ",
+        "english": "chair",
         "furigana": "椅",
         "kana": "ㄧˇ",
         "answer": "ㄧˇ"
       },
       {
         "japanese": "杰",
-        "english": "ㄐㄧㄝˊ",
+        "english": "hero",
         "furigana": "杰",
         "kana": "ㄐㄧㄝˊ",
         "answer": "ㄐㄧㄝˊ"
       },
       {
         "japanese": "櫻",
-        "english": "ㄧㄥ",
+        "english": "cherry",
         "furigana": "櫻",
         "kana": "ㄧㄥ",
         "answer": "ㄧㄥ"
       },
       {
         "japanese": "梢",
-        "english": "ㄕㄠ",
+        "english": "treetops",
         "furigana": "梢",
         "kana": "ㄕㄠ",
         "answer": "ㄕㄠ"
       },
       {
         "japanese": "桐",
-        "english": "ㄊㄨㄥˊ",
+        "english": "paulownia",
         "furigana": "桐",
         "kana": "ㄊㄨㄥˊ",
         "answer": "ㄊㄨㄥˊ"
       },
       {
         "japanese": "宋",
-        "english": "ㄙㄨㄥˋ",
+        "english": "song",
         "furigana": "宋",
         "kana": "ㄙㄨㄥˋ",
         "answer": "ㄙㄨㄥˋ"
       },
       {
         "japanese": "淋",
-        "english": "ㄌㄧㄣˊ",
+        "english": "drench",
         "furigana": "淋",
         "kana": "ㄌㄧㄣˊ",
         "answer": "ㄌㄧㄣˊ"
       },
       {
         "japanese": "焚",
-        "english": "ㄈㄣˊ",
+        "english": "burn",
         "furigana": "焚",
         "kana": "ㄈㄣˊ",
         "answer": "ㄈㄣˊ"
       },
       {
         "japanese": "昧",
-        "english": "ㄇㄟˋ",
+        "english": "obscure",
         "furigana": "昧",
         "kana": "ㄇㄟˋ",
         "answer": "ㄇㄟˋ"
       },
       {
         "japanese": "朱",
-        "english": "ㄓㄨ",
+        "english": "vermillion",
         "furigana": "朱",
         "kana": "ㄓㄨ",
         "answer": "ㄓㄨ"
       },
       {
         "japanese": "株",
-        "english": "ㄓㄨ",
+        "english": "tree trunk",
         "furigana": "株",
         "kana": "ㄓㄨ",
         "answer": "ㄓㄨ"
       },
       {
         "japanese": "樑",
-        "english": "ㄌㄧㄤˊ",
+        "english": "roof beam",
         "furigana": "樑",
         "kana": "ㄌㄧㄤˊ",
         "answer": "ㄌㄧㄤˊ"
       },
       {
         "japanese": "碟",
-        "english": "ㄉㄧㄝˊ",
+        "english": "saucer",
         "furigana": "碟",
         "kana": "ㄉㄧㄝˊ",
         "answer": "ㄉㄧㄝˊ"
       },
       {
         "japanese": "萌",
-        "english": "ㄇㄥˊ",
+        "english": "bud",
         "furigana": "萌",
         "kana": "ㄇㄥˊ",
         "answer": "ㄇㄥˊ"
       },
       {
         "japanese": "苛",
-        "english": "ㄎㄜ",
+        "english": "exacting",
         "furigana": "苛",
         "kana": "ㄎㄜ",
         "answer": "ㄎㄜ"
       },
       {
         "japanese": "膜",
-        "english": "ㄇㄛˋ",
+        "english": "membrane",
         "furigana": "膜",
         "kana": "ㄇㄛˋ",
         "answer": "ㄇㄛˋ"
       },
       {
         "japanese": "寞",
-        "english": "ㄇㄛˋ",
+        "english": "solitary",
         "furigana": "寞",
         "kana": "ㄇㄛˋ",
         "answer": "ㄇㄛˋ"
       },
       {
         "japanese": "暮",
-        "english": "ㄇㄨˋ",
+        "english": "sunset",
         "furigana": "暮",
         "kana": "ㄇㄨˋ",
         "answer": "ㄇㄨˋ"
       },
       {
         "japanese": "燃",
-        "english": "ㄖㄢˊ",
+        "english": "ignite",
         "furigana": "燃",
         "kana": "ㄖㄢˊ",
         "answer": "ㄖㄢˊ"
       },
       {
         "japanese": "咒",
-        "english": "ㄓㄡˋ",
+        "english": "curse",
         "furigana": "咒",
         "kana": "ㄓㄡˋ",
         "answer": "ㄓㄡˋ"
       },
       {
         "japanese": "獸",
-        "english": "ㄕㄡˋ",
+        "english": "beast",
         "furigana": "獸",
         "kana": "ㄕㄡˋ",
         "answer": "ㄕㄡˋ"
       },
       {
         "japanese": "狸",
-        "english": "ㄌㄧˊ",
+        "english": "raccoon dog",
         "furigana": "狸",
         "kana": "ㄌㄧˊ",
         "answer": "ㄌㄧˊ"
       },
       {
         "japanese": "嗅",
-        "english": "ㄒㄧㄡˋ",
+        "english": "sniff",
         "furigana": "嗅",
         "kana": "ㄒㄧㄡˋ",
         "answer": "ㄒㄧㄡˋ"
       },
       {
         "japanese": "牡",
-        "english": "ㄇㄨˇ",
+        "english": "dude",
         "furigana": "牡",
         "kana": "ㄇㄨˇ",
         "answer": "ㄇㄨˇ"
       },
       {
         "japanese": "牢",
-        "english": "ㄌㄠˊ",
+        "english": "jail",
         "furigana": "牢",
         "kana": "ㄌㄠˊ",
         "answer": "ㄌㄠˊ"
       },
       {
         "japanese": "贊",
-        "english": "ㄗㄢˋ",
+        "english": "succor",
         "furigana": "贊",
         "kana": "ㄗㄢˋ",
         "answer": "ㄗㄢˋ"
       },
       {
         "japanese": "舍",
-        "english": "ㄕㄜˋ",
+        "english": "abode",
         "furigana": "舍",
         "kana": "ㄕㄜˋ",
         "answer": "ㄕㄜˋ"
       },
       {
         "japanese": "啥",
-        "english": "ㄕㄚˊ",
+        "english": "wha?",
         "furigana": "啥",
         "kana": "ㄕㄚˊ",
         "answer": "ㄕㄚˊ"
       },
       {
         "japanese": "洽",
-        "english": "ㄑㄧㄚˋ",
+        "english": "in agreement",
         "furigana": "洽",
         "kana": "ㄑㄧㄚˋ",
         "answer": "ㄑㄧㄚˋ"
       },
       {
         "japanese": "旺",
-        "english": "ㄨㄤˋ",
+        "english": "thriving",
         "furigana": "旺",
         "kana": "ㄨㄤˋ",
         "answer": "ㄨㄤˋ"
       },
       {
         "japanese": "碧",
-        "english": "ㄅㄧˋ",
+        "english": "green jade",
         "furigana": "碧",
         "kana": "ㄅㄧˋ",
         "answer": "ㄅㄧˋ"
       },
       {
         "japanese": "汪",
-        "english": "ㄨㄤ",
+        "english": "tearful",
         "furigana": "汪",
         "kana": "ㄨㄤ",
         "answer": "ㄨㄤ"
       },
       {
         "japanese": "枉",
-        "english": "ㄨㄤˇ",
+        "english": "crooked",
         "furigana": "枉",
         "kana": "ㄨㄤˇ",
         "answer": "ㄨㄤˇ"
       },
       {
         "japanese": "珠",
-        "english": "ㄓㄨ",
+        "english": "pearl",
         "furigana": "珠",
         "kana": "ㄓㄨ",
         "answer": "ㄓㄨ"
       },
       {
         "japanese": "噩",
-        "english": "ㄜˋ",
+        "english": "shocking",
         "furigana": "噩",
         "kana": "ㄜˋ",
         "answer": "ㄜˋ"
       },
       {
         "japanese": "鱷",
-        "english": "ㄜˋ",
+        "english": "crocodile",
         "furigana": "鱷",
         "kana": "ㄜˋ",
         "answer": "ㄜˋ"
       },
       {
         "japanese": "鬥",
-        "english": "ㄉㄡˋ",
+        "english": "fight",
         "furigana": "鬥",
         "kana": "ㄉㄡˋ",
         "answer": "ㄉㄡˋ"
       },
       {
         "japanese": "栓",
-        "english": "ㄕㄨㄢ",
+        "english": "plug",
         "furigana": "栓",
         "kana": "ㄕㄨㄢ",
         "answer": "ㄕㄨㄢ"
       },
       {
         "japanese": "柱",
-        "english": "ㄓㄨˋ",
+        "english": "pillar",
         "furigana": "柱",
         "kana": "ㄓㄨˋ",
         "answer": "ㄓㄨˋ"
       },
       {
         "japanese": "鉤",
-        "english": "ㄍㄡ",
+        "english": "hook",
         "furigana": "鉤",
         "kana": "ㄍㄡ",
         "answer": "ㄍㄡ"
       },
       {
         "japanese": "鈔",
-        "english": "ㄔㄠ",
+        "english": "paper money",
         "furigana": "鈔",
         "kana": "ㄔㄠ",
         "answer": "ㄔㄠ"
       },
       {
         "japanese": "銷",
-        "english": "ㄒㄧㄠ",
+        "english": "put up for sale",
         "furigana": "銷",
         "kana": "ㄒㄧㄠ",
         "answer": "ㄒㄧㄠ"
       },
       {
         "japanese": "鎖",
-        "english": "ㄙㄨㄛˇ",
+        "english": "lock",
         "furigana": "鎖",
         "kana": "ㄙㄨㄛˇ",
         "answer": "ㄙㄨㄛˇ"
       },
       {
         "japanese": "鑽",
-        "english": "ㄗㄨㄢˋ",
+        "english": "drill",
         "furigana": "鑽",
         "kana": "ㄗㄨㄢˋ",
         "answer": "ㄗㄨㄢˋ"
       },
       {
         "japanese": "迫",
-        "english": "ㄆㄛˋ",
+        "english": "compel",
         "furigana": "迫",
         "kana": "ㄆㄛˋ",
         "answer": "ㄆㄛˋ"
       },
       {
         "japanese": "逼",
-        "english": "ㄅㄧ",
+        "english": "press",
         "furigana": "逼",
         "kana": "ㄅㄧ",
         "answer": "ㄅㄧ"
       },
       {
         "japanese": "逃",
-        "english": "ㄊㄠˊ",
+        "english": "escape",
         "furigana": "逃",
         "kana": "ㄊㄠˊ",
         "answer": "ㄊㄠˊ"
       },
       {
         "japanese": "逞",
-        "english": "ㄔㄥˇ",
+        "english": "flaunt",
         "furigana": "逞",
         "kana": "ㄔㄥˇ",
         "answer": "ㄔㄥˇ"
       },
       {
         "japanese": "轟",
-        "english": "ㄏㄨㄥ",
+        "english": "rumble",
         "furigana": "轟",
         "kana": "ㄏㄨㄥ",
         "answer": "ㄏㄨㄥ"
       },
       {
         "japanese": "軌",
-        "english": "ㄍㄨㄟˇ",
+        "english": "rails",
         "furigana": "軌",
         "kana": "ㄍㄨㄟˇ",
         "answer": "ㄍㄨㄟˇ"
       },
       {
         "japanese": "軋",
-        "english": "ㄓㄚˊ",
+        "english": "flatten",
         "furigana": "軋",
         "kana": "ㄓㄚˊ",
         "answer": "ㄓㄚˊ"
       },
       {
         "japanese": "輻",
-        "english": "ㄈㄨˊ",
+        "english": "spokes",
         "furigana": "輻",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "煎",
-        "english": "ㄐㄧㄢ",
+        "english": "saute",
         "furigana": "煎",
         "kana": "ㄐㄧㄢ",
         "answer": "ㄐㄧㄢ"
       },
       {
         "japanese": "喻",
-        "english": "ㄩˋ",
+        "english": "figure of speech",
         "furigana": "喻",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "榆",
-        "english": "ㄩˊ",
+        "english": "elm",
         "furigana": "榆",
         "kana": "ㄩˊ",
         "answer": "ㄩˊ"
       },
       {
         "japanese": "略",
-        "english": "ㄌㄩㄝˋ",
+        "english": "abbreviation",
         "furigana": "略",
         "kana": "ㄌㄩㄝˋ",
         "answer": "ㄌㄩㄝˋ"
       },
       {
         "japanese": "暈",
-        "english": "ㄩㄣ",
+        "english": "dizzy",
         "furigana": "暈",
         "kana": "ㄩㄣ",
         "answer": "ㄩㄣ"
       },
       {
         "japanese": "渾",
-        "english": "ㄏㄨㄣˊ",
+        "english": "muddled",
         "furigana": "渾",
         "kana": "ㄏㄨㄣˊ",
         "answer": "ㄏㄨㄣˊ"
       },
       {
         "japanese": "膏",
-        "english": "ㄍㄠ",
+        "english": "ointment",
         "furigana": "膏",
         "kana": "ㄍㄠ",
         "answer": "ㄍㄠ"
       },
       {
         "japanese": "亨",
-        "english": "ㄏㄥ",
+        "english": "go smoothly",
         "furigana": "亨",
         "kana": "ㄏㄥ",
         "answer": "ㄏㄥ"
       },
       {
         "japanese": "哼",
-        "english": "ㄏㄥ",
+        "english": "hum",
         "furigana": "哼",
         "kana": "ㄏㄥ",
         "answer": "ㄏㄥ"
       },
       {
         "japanese": "淳",
-        "english": "ㄔㄨㄣˊ",
+        "english": "honest",
         "furigana": "淳",
         "kana": "ㄔㄨㄣˊ",
         "answer": "ㄔㄨㄣˊ"
       },
       {
         "japanese": "鯨",
-        "english": "ㄐㄧㄥ",
+        "english": "whale",
         "furigana": "鯨",
         "kana": "ㄐㄧㄥ",
         "answer": "ㄐㄧㄥ"
       },
       {
         "japanese": "贖",
-        "english": "ㄕㄨˊ",
+        "english": "redeem",
         "furigana": "贖",
         "kana": "ㄕㄨˊ",
         "answer": "ㄕㄨˊ"
       },
       {
         "japanese": "晝",
-        "english": "ㄓㄡˋ",
+        "english": "daylight",
         "furigana": "晝",
         "kana": "ㄓㄡˋ",
         "answer": "ㄓㄡˋ"
       },
       {
         "japanese": "津",
-        "english": "ㄐㄧㄣ",
+        "english": "tianjin",
         "furigana": "津",
         "kana": "ㄐㄧㄣ",
         "answer": "ㄐㄧㄣ"
       },
       {
         "japanese": "釐",
-        "english": "ㄌㄧˊ",
+        "english": "smidgen",
         "furigana": "釐",
         "kana": "ㄌㄧˊ",
         "answer": "ㄌㄧˊ"
       },
       {
         "japanese": "枚",
-        "english": "ㄇㄟˊ",
+        "english": "small objects",
         "furigana": "枚",
         "kana": "ㄇㄟˊ",
         "answer": "ㄇㄟˊ"
       },
       {
         "japanese": "牧",
-        "english": "ㄇㄨˋ",
+        "english": "herd",
         "furigana": "牧",
         "kana": "ㄇㄨˋ",
         "answer": "ㄇㄨˋ"
       },
       {
         "japanese": "玫",
-        "english": "ㄇㄟˊ",
+        "english": "rose",
         "furigana": "玫",
         "kana": "ㄇㄟˊ",
         "answer": "ㄇㄟˊ"
       },
       {
         "japanese": "敦",
-        "english": "ㄉㄨㄣ",
+        "english": "candid",
         "furigana": "敦",
         "kana": "ㄉㄨㄣ",
         "answer": "ㄉㄨㄣ"
       },
       {
         "japanese": "諾",
-        "english": "ㄋㄨㄛˋ",
+        "english": "promise",
         "furigana": "諾",
         "kana": "ㄋㄨㄛˋ",
         "answer": "ㄋㄨㄛˋ"
       },
       {
         "japanese": "謂",
-        "english": "ㄨㄟˋ",
+        "english": "meaning",
         "furigana": "謂",
         "kana": "ㄨㄟˋ",
         "answer": "ㄨㄟˋ"
       },
       {
         "japanese": "詢",
-        "english": "ㄒㄩㄣˊ",
+        "english": "inquire",
         "furigana": "詢",
         "kana": "ㄒㄩㄣˊ",
         "answer": "ㄒㄩㄣˊ"
       },
       {
         "japanese": "罰",
-        "english": "ㄈㄚˊ",
+        "english": "penalize",
         "furigana": "罰",
         "kana": "ㄈㄚˊ",
         "answer": "ㄈㄚˊ"
       },
       {
         "japanese": "訂",
-        "english": "ㄉㄧㄥˋ",
+        "english": "place an order",
         "furigana": "訂",
         "kana": "ㄉㄧㄥˋ",
         "answer": "ㄉㄧㄥˋ"
       },
       {
         "japanese": "詠",
-        "english": "ㄩㄥˇ",
+        "english": "chant",
         "furigana": "詠",
         "kana": "ㄩㄥˇ",
         "answer": "ㄩㄥˇ"
       },
       {
         "japanese": "諜",
-        "english": "ㄉㄧㄝˊ",
+        "english": "espionage",
         "furigana": "諜",
         "kana": "ㄉㄧㄝˊ",
         "answer": "ㄉㄧㄝˊ"
       },
       {
         "japanese": "註",
-        "english": "ㄓㄨˋ",
+        "english": "annotate",
         "furigana": "註",
         "kana": "ㄓㄨˋ",
         "answer": "ㄓㄨˋ"
       },
       {
         "japanese": "諒",
-        "english": "ㄌㄧㄤˋ",
+        "english": "forgive",
         "furigana": "諒",
         "kana": "ㄌㄧㄤˋ",
         "answer": "ㄌㄧㄤˋ"
       },
       {
         "japanese": "讚",
-        "english": "ㄗㄢˋ",
+        "english": "praise",
         "furigana": "讚",
         "kana": "ㄗㄢˋ",
         "answer": "ㄗㄢˋ"
       },
       {
         "japanese": "貳",
-        "english": "ㄦˋ",
+        "english": "ii",
         "furigana": "貳",
         "kana": "ㄦˋ",
         "answer": "ㄦˋ"
       },
       {
         "japanese": "膩",
-        "english": "ㄋㄧˋ",
+        "english": "sick and tired of",
         "furigana": "膩",
         "kana": "ㄋㄧˋ",
         "answer": "ㄋㄧˋ"
       },
       {
         "japanese": "洩",
-        "english": "ㄒㄧㄝˋ",
+        "english": "discharge",
         "furigana": "洩",
         "kana": "ㄒㄧㄝˋ",
         "answer": "ㄒㄧㄝˋ"
       },
       {
         "japanese": "划",
-        "english": "ㄏㄨㄚˊ",
+        "english": "paddle",
         "furigana": "划",
         "kana": "ㄏㄨㄚˊ",
         "answer": "ㄏㄨㄚˊ"
       },
       {
         "japanese": "嘎",
-        "english": "ㄍㄚ",
+        "english": "caw",
         "furigana": "嘎",
         "kana": "ㄍㄚ",
         "answer": "ㄍㄚ"
       },
       {
         "japanese": "域",
-        "english": "ㄩˋ",
+        "english": "domain",
         "furigana": "域",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "栽",
-        "english": "ㄗㄞ",
+        "english": "sow",
         "furigana": "栽",
         "kana": "ㄗㄞ",
         "answer": "ㄗㄞ"
       },
       {
         "japanese": "戚",
-        "english": "ㄑㄧ",
+        "english": "kin",
         "furigana": "戚",
         "kana": "ㄑㄧ",
         "answer": "ㄑㄧ"
       },
       {
         "japanese": "蔑",
-        "english": "ㄇㄧㄝˋ",
+        "english": "despise",
         "furigana": "蔑",
         "kana": "ㄇㄧㄝˋ",
         "answer": "ㄇㄧㄝˋ"
       },
       {
         "japanese": "喊",
-        "english": "ㄏㄢˇ",
+        "english": "yell",
         "furigana": "喊",
         "kana": "ㄏㄢˇ",
         "answer": "ㄏㄢˇ"
       },
       {
         "japanese": "濺",
-        "english": "ㄐㄧㄢˋ",
+        "english": "splatter",
         "furigana": "濺",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "址",
-        "english": "ㄓˇ",
+        "english": "address",
         "furigana": "址",
         "kana": "ㄓˇ",
         "answer": "ㄓˇ"
       },
       {
         "japanese": "澀",
-        "english": "ㄙㄜˋ",
+        "english": "astringent",
         "furigana": "澀",
         "kana": "ㄙㄜˋ",
         "answer": "ㄙㄜˋ"
       },
       {
         "japanese": "蘋",
-        "english": "ㄆㄧㄥˊ",
+        "english": "apple",
         "furigana": "蘋",
         "kana": "ㄆㄧㄥˊ",
         "answer": "ㄆㄧㄥˊ"
       },
       {
         "japanese": "赴",
-        "english": "ㄈㄨˋ",
+        "english": "go to",
         "furigana": "赴",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "趟",
-        "english": "ㄊㄤˋ",
+        "english": "trip",
         "furigana": "趟",
         "kana": "ㄊㄤˋ",
         "answer": "ㄊㄤˋ"
       },
       {
         "japanese": "堤",
-        "english": "ㄊㄧˊ",
+        "english": "dike",
         "furigana": "堤",
         "kana": "ㄊㄧˊ",
         "answer": "ㄊㄧˊ"
       },
       {
         "japanese": "鍵",
-        "english": "ㄐㄧㄢˋ",
+        "english": "keyboard keys",
         "furigana": "鍵",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "婿",
-        "english": "ㄒㄩˋ",
+        "english": "son-in-law",
         "furigana": "婿",
         "kana": "ㄒㄩˋ",
         "answer": "ㄒㄩˋ"
       },
       {
         "japanese": "裁",
-        "english": "ㄘㄞˊ",
+        "english": "tailor",
         "furigana": "裁",
         "kana": "ㄘㄞˊ",
         "answer": "ㄘㄞˊ"
       },
       {
         "japanese": "襪",
-        "english": "ㄨㄚˋ",
+        "english": "socks",
         "furigana": "襪",
         "kana": "ㄨㄚˋ",
         "answer": "ㄨㄚˋ"
       },
       {
         "japanese": "滾",
-        "english": "ㄍㄨㄣˇ",
+        "english": "trundle",
         "furigana": "滾",
         "kana": "ㄍㄨㄣˇ",
         "answer": "ㄍㄨㄣˇ"
       },
       {
         "japanese": "衰",
-        "english": "ㄕㄨㄞ",
+        "english": "decline",
         "furigana": "衰",
         "kana": "ㄕㄨㄞ",
         "answer": "ㄕㄨㄞ"
       },
       {
         "japanese": "衷",
-        "english": "ㄓㄨㄥ",
+        "english": "innermost feelings",
         "furigana": "衷",
         "kana": "ㄓㄨㄥ",
         "answer": "ㄓㄨㄥ"
       },
       {
         "japanese": "禪",
-        "english": "ㄔㄢˊ",
+        "english": "meditation",
         "furigana": "禪",
         "kana": "ㄔㄢˊ",
         "answer": "ㄔㄢˊ"
       },
       {
         "japanese": "猿",
-        "english": "ㄩㄢˊ",
+        "english": "ape",
         "furigana": "猿",
         "kana": "ㄩㄢˊ",
         "answer": "ㄩㄢˊ"
       },
       {
         "japanese": "吊",
-        "english": "ㄉㄧㄠˋ",
+        "english": "dangle",
         "furigana": "吊",
         "kana": "ㄉㄧㄠˋ",
         "answer": "ㄉㄧㄠˋ"
       },
       {
         "japanese": "帕",
-        "english": "ㄆㄚˋ",
+        "english": "handkerchief",
         "furigana": "帕",
         "kana": "ㄆㄚˋ",
         "answer": "ㄆㄚˋ"
       },
       {
         "japanese": "帖",
-        "english": "ㄊㄧㄝˋ",
+        "english": "note",
         "furigana": "帖",
         "kana": "ㄊㄧㄝˋ",
         "answer": "ㄊㄧㄝˋ"
       },
       {
         "japanese": "帆",
-        "english": "ㄈㄢˊ",
+        "english": "sail",
         "furigana": "帆",
         "kana": "ㄈㄢˊ",
         "answer": "ㄈㄢˊ"
       },
       {
         "japanese": "幅",
-        "english": "ㄈㄨˊ",
+        "english": "width of cloth",
         "furigana": "幅",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "錦",
-        "english": "ㄐㄧㄣˇ",
+        "english": "brocade",
         "furigana": "錦",
         "kana": "ㄐㄧㄣˇ",
         "answer": "ㄐㄧㄣˇ"
       },
       {
         "japanese": "沛",
-        "english": "ㄆㄟˋ",
+        "english": "copious",
         "furigana": "沛",
         "kana": "ㄆㄟˋ",
         "answer": "ㄆㄟˋ"
       },
       {
         "japanese": "柿",
-        "english": "ㄕˋ",
+        "english": "persimmon",
         "furigana": "柿",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "鬧",
-        "english": "ㄋㄠˋ",
+        "english": "stir up trouble",
         "furigana": "鬧",
         "kana": "ㄋㄠˋ",
         "answer": "ㄋㄠˋ"
       },
       {
         "japanese": "棘",
-        "english": "ㄐㄧˊ",
+        "english": "thorn bushes",
         "furigana": "棘",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "棗",
-        "english": "ㄗㄠˇ",
+        "english": "jujube",
         "furigana": "棗",
         "kana": "ㄗㄠˇ",
         "answer": "ㄗㄠˇ"
       },
       {
         "japanese": "蕾",
-        "english": "ㄌㄟˇ",
+        "english": "flower bud",
         "furigana": "蕾",
         "kana": "ㄌㄟˇ",
         "answer": "ㄌㄟˇ"
       },
       {
         "japanese": "吞",
-        "english": "ㄊㄨㄣ",
+        "english": "gulp down",
         "furigana": "吞",
         "kana": "ㄊㄨㄣ",
         "answer": "ㄊㄨㄣ"
       },
       {
         "japanese": "妖",
-        "english": "ㄧㄠ",
+        "english": "bewitching",
         "furigana": "妖",
         "kana": "ㄧㄠ",
         "answer": "ㄧㄠ"
       },
       {
         "japanese": "沃",
-        "english": "ㄨㄛˋ",
+        "english": "fertile",
         "furigana": "沃",
         "kana": "ㄨㄛˋ",
         "answer": "ㄨㄛˋ"
       },
       {
         "japanese": "轎",
-        "english": "ㄐㄧㄠˋ",
+        "english": "sedan chair",
         "furigana": "轎",
         "kana": "ㄐㄧㄠˋ",
         "answer": "ㄐㄧㄠˋ"
       },
       {
         "japanese": "垃",
-        "english": "ㄌㄜˋ",
+        "english": "garbage",
         "furigana": "垃",
         "kana": "ㄌㄜˋ",
         "answer": "ㄌㄜˋ"
       },
       {
         "japanese": "啼",
-        "english": "ㄊㄧˊ",
+        "english": "weep aloud",
         "furigana": "啼",
         "kana": "ㄊㄧˊ",
         "answer": "ㄊㄧˊ"
       },
       {
         "japanese": "蒂",
-        "english": "ㄉㄧˋ",
+        "english": "fruit stem",
         "furigana": "蒂",
         "kana": "ㄉㄧˋ",
         "answer": "ㄉㄧˋ"
       },
       {
         "japanese": "滴",
-        "english": "ㄉㄧ",
+        "english": "drip",
         "furigana": "滴",
         "kana": "ㄉㄧ",
         "answer": "ㄉㄧ"
       },
       {
         "japanese": "頃",
-        "english": "ㄑㄧㄥˇ",
+        "english": "100 chinese acres",
         "furigana": "頃",
         "kana": "ㄑㄧㄥˇ",
         "answer": "ㄑㄧㄥˇ"
       },
       {
         "japanese": "匙",
-        "english": "ㄔˊ",
+        "english": "spoon",
         "furigana": "匙",
         "kana": "ㄔˊ",
         "answer": "ㄔˊ"
       },
       {
         "japanese": "乖",
-        "english": "ㄍㄨㄞ",
+        "english": "well-behaved",
         "furigana": "乖",
         "kana": "ㄍㄨㄞ",
         "answer": "ㄍㄨㄞ"
       },
       {
         "japanese": "乘",
-        "english": "ㄔㄥˊ",
+        "english": "hitch a ride",
         "furigana": "乘",
         "kana": "ㄔㄥˊ",
         "answer": "ㄔㄥˊ"
       },
       {
         "japanese": "剩",
-        "english": "ㄕㄥˋ",
+        "english": "leftover",
         "furigana": "剩",
         "kana": "ㄕㄥˋ",
         "answer": "ㄕㄥˋ"
       },
       {
         "japanese": "棍",
-        "english": "ㄍㄨㄣˋ",
+        "english": "club",
         "furigana": "棍",
         "kana": "ㄍㄨㄣˋ",
         "answer": "ㄍㄨㄣˋ"
       },
       {
         "japanese": "諧",
-        "english": "ㄒㄧㄝˊ",
+        "english": "in accord",
         "furigana": "諧",
         "kana": "ㄒㄧㄝˊ",
         "answer": "ㄒㄧㄝˊ"
       },
       {
         "japanese": "柴",
-        "english": "ㄔㄞˊ",
+        "english": "firewood",
         "furigana": "柴",
         "kana": "ㄔㄞˊ",
         "answer": "ㄔㄞˊ"
       },
       {
         "japanese": "敏",
-        "english": "ㄇㄧㄣˇ",
+        "english": "quick-witted",
         "furigana": "敏",
         "kana": "ㄇㄧㄣˇ",
         "answer": "ㄇㄧㄣˇ"
       },
       {
         "japanese": "霉",
-        "english": "ㄇㄟˊ",
+        "english": "mildew",
         "furigana": "霉",
         "kana": "ㄇㄟˊ",
         "answer": "ㄇㄟˊ"
       },
       {
         "japanese": "迄",
-        "english": "ㄑㄧˋ",
+        "english": "so far",
         "furigana": "迄",
         "kana": "ㄑㄧˋ",
         "answer": "ㄑㄧˋ"
       },
       {
         "japanese": "砍",
-        "english": "ㄎㄢˇ",
+        "english": "chop",
         "furigana": "砍",
         "kana": "ㄎㄢˇ",
         "answer": "ㄎㄢˇ"
       },
       {
         "japanese": "坎",
-        "english": "ㄎㄢˇ",
+        "english": "hump",
         "furigana": "坎",
         "kana": "ㄎㄢˇ",
         "answer": "ㄎㄢˇ"
       },
       {
         "japanese": "炊",
-        "english": "ㄔㄨㄟ",
+        "english": "cook",
         "furigana": "炊",
         "kana": "ㄔㄨㄟ",
         "answer": "ㄔㄨㄟ"
       },
       {
         "japanese": "欽",
-        "english": "ㄑㄧㄣ",
+        "english": "think highly of",
         "furigana": "欽",
         "kana": "ㄑㄧㄣ",
         "answer": "ㄑㄧㄣ"
       },
       {
         "japanese": "剖",
-        "english": "ㄆㄡˇ",
+        "english": "cut open",
         "furigana": "剖",
         "kana": "ㄆㄡˇ",
         "answer": "ㄆㄡˇ"
       },
       {
         "japanese": "菩",
-        "english": "ㄆㄨˊ",
+        "english": "bodhisattva",
         "furigana": "菩",
         "kana": "ㄆㄨˊ",
         "answer": "ㄆㄨˊ"
       },
       {
         "japanese": "芒",
-        "english": "ㄇㄤˊ",
+        "english": "mango",
         "furigana": "芒",
         "kana": "ㄇㄤˊ",
         "answer": "ㄇㄤˊ"
       },
       {
         "japanese": "荒",
-        "english": "ㄏㄨㄤ",
+        "english": "wasteland",
         "furigana": "荒",
         "kana": "ㄏㄨㄤ",
         "answer": "ㄏㄨㄤ"
       },
       {
         "japanese": "謊",
-        "english": "ㄏㄨㄤˇ",
+        "english": "lie",
         "furigana": "謊",
         "kana": "ㄏㄨㄤˇ",
         "answer": "ㄏㄨㄤˇ"
       },
       {
         "japanese": "茫",
-        "english": "ㄇㄤˊ",
+        "english": "boundless",
         "furigana": "茫",
         "kana": "ㄇㄤˊ",
         "answer": "ㄇㄤˊ"
       },
       {
         "japanese": "贏",
-        "english": "ㄧㄥˊ",
+        "english": "win",
         "furigana": "贏",
         "kana": "ㄧㄥˊ",
         "answer": "ㄧㄥˊ"
       },
       {
         "japanese": "訊",
-        "english": "ㄒㄩㄣˋ",
+        "english": "interrogate",
         "furigana": "訊",
         "kana": "ㄒㄩㄣˋ",
         "answer": "ㄒㄩㄣˋ"
       },
       {
         "japanese": "坊",
-        "english": "ㄈㄤ",
+        "english": "workshop",
         "furigana": "坊",
         "kana": "ㄈㄤ",
         "answer": "ㄈㄤ"
       },
       {
         "japanese": "芳",
-        "english": "ㄈㄤ",
+        "english": "aromatic",
         "furigana": "芳",
         "kana": "ㄈㄤ",
         "answer": "ㄈㄤ"
       },
       {
         "japanese": "訪",
-        "english": "ㄈㄤˇ",
+        "english": "call on",
         "furigana": "訪",
         "kana": "ㄈㄤˇ",
         "answer": "ㄈㄤˇ"
       },
       {
         "japanese": "熬",
-        "english": "ㄠˊ",
+        "english": "stew",
         "furigana": "熬",
         "kana": "ㄠˊ",
         "answer": "ㄠˊ"
       },
       {
         "japanese": "菸",
-        "english": "ㄧㄢ",
+        "english": "tobacco",
         "furigana": "菸",
         "kana": "ㄧㄢ",
         "answer": "ㄧㄢ"
       },
       {
         "japanese": "榜",
-        "english": "ㄅㄤˇ",
+        "english": "roster",
         "furigana": "榜",
         "kana": "ㄅㄤˇ",
         "answer": "ㄅㄤˇ"
       },
       {
         "japanese": "磅",
-        "english": "ㄅㄤˋ",
+        "english": "pound",
         "furigana": "磅",
         "kana": "ㄅㄤˋ",
         "answer": "ㄅㄤˋ"
       },
       {
         "japanese": "膀",
-        "english": "ㄅㄤˇ",
+        "english": "upper arm",
         "furigana": "膀",
         "kana": "ㄅㄤˇ",
         "answer": "ㄅㄤˇ"
       },
       {
         "japanese": "銳",
-        "english": "ㄖㄨㄟˋ",
+        "english": "sharp",
         "furigana": "銳",
         "kana": "ㄖㄨㄟˋ",
         "answer": "ㄖㄨㄟˋ"
       },
       {
         "japanese": "虹",
-        "english": "ㄏㄨㄥˊ",
+        "english": "rainbow",
         "furigana": "虹",
         "kana": "ㄏㄨㄥˊ",
         "answer": "ㄏㄨㄥˊ"
       },
       {
         "japanese": "蝠",
-        "english": "ㄈㄨˊ",
+        "english": "bat",
         "furigana": "蝠",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "蛙",
-        "english": "ㄨㄚ",
+        "english": "frog",
         "furigana": "蛙",
         "kana": "ㄨㄚ",
         "answer": "ㄨㄚ"
       },
       {
         "japanese": "蝗",
-        "english": "ㄏㄨㄤˊ",
+        "english": "locust",
         "furigana": "蝗",
         "kana": "ㄏㄨㄤˊ",
         "answer": "ㄏㄨㄤˊ"
       },
       {
         "japanese": "蟬",
-        "english": "ㄔㄢˊ",
+        "english": "cicada",
         "furigana": "蟬",
         "kana": "ㄔㄢˊ",
         "answer": "ㄔㄢˊ"
       },
       {
         "japanese": "楓",
-        "english": "ㄈㄥ",
+        "english": "maple",
         "furigana": "楓",
         "kana": "ㄈㄥ",
         "answer": "ㄈㄥ"
       },
       {
         "japanese": "胞",
-        "english": "ㄅㄠ",
+        "english": "placenta",
         "furigana": "胞",
         "kana": "ㄅㄠ",
         "answer": "ㄅㄠ"
       },
       {
         "japanese": "炮",
-        "english": "ㄆㄠˋ",
+        "english": "fireworks",
         "furigana": "炮",
         "kana": "ㄆㄠˋ",
         "answer": "ㄆㄠˋ"
       },
       {
         "japanese": "袍",
-        "english": "ㄆㄠˊ",
+        "english": "robe",
         "furigana": "袍",
         "kana": "ㄆㄠˊ",
         "answer": "ㄆㄠˊ"
       },
       {
         "japanese": "雹",
-        "english": "ㄅㄠˊ",
+        "english": "hail",
         "furigana": "雹",
         "kana": "ㄅㄠˊ",
         "answer": "ㄅㄠˊ"
       },
       {
         "japanese": "逐",
-        "english": "ㄓㄨˊ",
+        "english": "pursue",
         "furigana": "逐",
         "kana": "ㄓㄨˊ",
         "answer": "ㄓㄨˊ"
       },
       {
         "japanese": "遂",
-        "english": "ㄙㄨㄟˋ",
+        "english": "satisfy",
         "furigana": "遂",
         "kana": "ㄙㄨㄟˋ",
         "answer": "ㄙㄨㄟˋ"
       },
       {
         "japanese": "蒙",
-        "english": "ㄇㄥˊ",
+        "english": "mongolia",
         "furigana": "蒙",
         "kana": "ㄇㄥˊ",
         "answer": "ㄇㄥˊ"
       },
       {
         "japanese": "朦",
-        "english": "ㄇㄥˊ",
+        "english": "dim",
         "furigana": "朦",
         "kana": "ㄇㄥˊ",
         "answer": "ㄇㄥˊ"
       },
       {
         "japanese": "豪",
-        "english": "ㄏㄠˊ",
+        "english": "unrestrained",
         "furigana": "豪",
         "kana": "ㄏㄠˊ",
         "answer": "ㄏㄠˊ"
       },
       {
         "japanese": "啄",
-        "english": "ㄓㄨㄛˊ",
+        "english": "peck",
         "furigana": "啄",
         "kana": "ㄓㄨㄛˊ",
         "answer": "ㄓㄨㄛˊ"
       },
       {
         "japanese": "琢",
-        "english": "ㄓㄨㄛˊ",
+        "english": "chisel",
         "furigana": "琢",
         "kana": "ㄓㄨㄛˊ",
         "answer": "ㄓㄨㄛˊ"
       },
       {
         "japanese": "嫁",
-        "english": "ㄐㄧㄚˋ",
+        "english": "marry",
         "furigana": "嫁",
         "kana": "ㄐㄧㄚˋ",
         "answer": "ㄐㄧㄚˋ"
       },
       {
         "japanese": "腸",
-        "english": "ㄔㄤˊ",
+        "english": "intestines",
         "furigana": "腸",
         "kana": "ㄔㄤˊ",
         "answer": "ㄔㄤˊ"
       },
       {
         "japanese": "楊",
-        "english": "ㄧㄤˊ",
+        "english": "poplar",
         "furigana": "楊",
         "kana": "ㄧㄤˊ",
         "answer": "ㄧㄤˊ"
       },
       {
         "japanese": "燙",
-        "english": "ㄊㄤˋ",
+        "english": "scald",
         "furigana": "燙",
         "kana": "ㄊㄤˋ",
         "answer": "ㄊㄤˋ"
       },
       {
         "japanese": "蕩",
-        "english": "ㄉㄤˋ",
+        "english": "licentious",
         "furigana": "蕩",
         "kana": "ㄉㄤˋ",
         "answer": "ㄉㄤˋ"
       },
       {
         "japanese": "詳",
-        "english": "ㄒㄧㄤˊ",
+        "english": "detailed",
         "furigana": "詳",
         "kana": "ㄒㄧㄤˊ",
         "answer": "ㄒㄧㄤˊ"
       },
       {
         "japanese": "羨",
-        "english": "ㄒㄧㄢˋ",
+        "english": "envy",
         "furigana": "羨",
         "kana": "ㄒㄧㄢˋ",
         "answer": "ㄒㄧㄢˋ"
       },
       {
         "japanese": "唯",
-        "english": "ㄨㄟˊ",
+        "english": "soley",
         "furigana": "唯",
         "kana": "ㄨㄟˊ",
         "answer": "ㄨㄟˊ"
       },
       {
         "japanese": "堆",
-        "english": "ㄉㄨㄟ",
+        "english": "pile",
         "furigana": "堆",
         "kana": "ㄉㄨㄟ",
         "answer": "ㄉㄨㄟ"
       },
       {
         "japanese": "焦",
-        "english": "ㄐㄧㄠ",
+        "english": "apprehensive",
         "furigana": "焦",
         "kana": "ㄐㄧㄠ",
         "answer": "ㄐㄧㄠ"
       },
       {
         "japanese": "瞧",
-        "english": "ㄑㄧㄠˊ",
+        "english": "lay eyes on",
         "furigana": "瞧",
         "kana": "ㄑㄧㄠˊ",
         "answer": "ㄑㄧㄠˊ"
       },
       {
         "japanese": "礁",
-        "english": "ㄐㄧㄠ",
+        "english": "reef",
         "furigana": "礁",
         "kana": "ㄐㄧㄠ",
         "answer": "ㄐㄧㄠ"
       },
       {
         "japanese": "蕉",
-        "english": "ㄐㄧㄠ",
+        "english": "banana",
         "furigana": "蕉",
         "kana": "ㄐㄧㄠ",
         "answer": "ㄐㄧㄠ"
       },
       {
         "japanese": "雕",
-        "english": "ㄉㄧㄠ",
+        "english": "sculpture",
         "furigana": "雕",
         "kana": "ㄉㄧㄠ",
         "answer": "ㄉㄧㄠ"
       },
       {
         "japanese": "截",
-        "english": "ㄐㄧㄝˊ",
+        "english": "lop off",
         "furigana": "截",
         "kana": "ㄐㄧㄝˊ",
         "answer": "ㄐㄧㄝˊ"
       },
       {
         "japanese": "准",
-        "english": "ㄓㄨㄣˇ",
+        "english": "allow",
         "furigana": "准",
         "kana": "ㄓㄨㄣˇ",
         "answer": "ㄓㄨㄣˇ"
       },
       {
         "japanese": "雀",
-        "english": "ㄑㄩㄝˋ",
+        "english": "sparrow",
         "furigana": "雀",
         "kana": "ㄑㄩㄝˋ",
         "answer": "ㄑㄩㄝˋ"
       },
       {
         "japanese": "霍",
-        "english": "ㄏㄨㄛˋ",
+        "english": "all at once",
         "furigana": "霍",
         "kana": "ㄏㄨㄛˋ",
         "answer": "ㄏㄨㄛˋ"
       },
       {
         "japanese": "奮",
-        "english": "ㄈㄣˋ",
+        "english": "exert oneself",
         "furigana": "奮",
         "kana": "ㄈㄣˋ",
         "answer": "ㄈㄣˋ"
       },
       {
         "japanese": "奪",
-        "english": "ㄉㄨㄛˊ",
+        "english": "take by force",
         "furigana": "奪",
         "kana": "ㄉㄨㄛˊ",
         "answer": "ㄉㄨㄛˊ"
       },
       {
         "japanese": "翹",
-        "english": "ㄑㄧㄠˊ",
+        "english": "turn upward",
         "furigana": "翹",
         "kana": "ㄑㄧㄠˊ",
         "answer": "ㄑㄧㄠˊ"
       },
       {
         "japanese": "塌",
-        "english": "ㄊㄚ",
+        "english": "fall down",
         "furigana": "塌",
         "kana": "ㄊㄚ",
         "answer": "ㄊㄚ"
       },
       {
         "japanese": "翰",
-        "english": "ㄏㄢˋ",
+        "english": "writing brush",
         "furigana": "翰",
         "kana": "ㄏㄢˋ",
         "answer": "ㄏㄢˋ"
       },
       {
         "japanese": "咽",
-        "english": "ㄧㄢ",
+        "english": "throat",
         "furigana": "咽",
         "kana": "ㄧㄢ",
         "answer": "ㄧㄢ"
       },
       {
         "japanese": "姻",
-        "english": "ㄧㄣ",
+        "english": "in-law",
         "furigana": "姻",
         "kana": "ㄧㄣ",
         "answer": "ㄧㄣ"
       },
       {
         "japanese": "廟",
-        "english": "ㄇㄧㄠˋ",
+        "english": "temple",
         "furigana": "廟",
         "kana": "ㄇㄧㄠˋ",
         "answer": "ㄇㄧㄠˋ"
       },
       {
         "japanese": "廂",
-        "english": "ㄒㄧㄤ",
+        "english": "side room",
         "furigana": "廂",
         "kana": "ㄒㄧㄤ",
         "answer": "ㄒㄧㄤ"
       },
       {
         "japanese": "嘛",
-        "english": "ㄇㄚˊ",
+        "english": "(pause marker)",
         "furigana": "嘛",
         "kana": "ㄇㄚˊ",
         "answer": "ㄇㄚˊ"
       },
       {
         "japanese": "磨",
-        "english": "ㄇㄛˊ",
+        "english": "grind",
         "furigana": "磨",
         "kana": "ㄇㄛˊ",
         "answer": "ㄇㄛˊ"
       },
       {
         "japanese": "廈",
-        "english": "ㄒㄧㄚˋ",
+        "english": "skyscraper",
         "furigana": "廈",
         "kana": "ㄒㄧㄚˋ",
         "answer": "ㄒㄧㄚˋ"
       },
       {
         "japanese": "廁",
-        "english": "ㄘㄜˋ",
+        "english": "toilet",
         "furigana": "廁",
         "kana": "ㄘㄜˋ",
         "answer": "ㄘㄜˋ"
       },
       {
         "japanese": "悟",
-        "english": "ㄨˋ",
+        "english": "realize",
         "furigana": "悟",
         "kana": "ㄨˋ",
         "answer": "ㄨˋ"
       },
       {
         "japanese": "忠",
-        "english": "ㄓㄨㄥ",
+        "english": "loyal",
         "furigana": "忠",
         "kana": "ㄓㄨㄥ",
         "answer": "ㄓㄨㄥ"
       },
       {
         "japanese": "悼",
-        "english": "ㄉㄠˋ",
+        "english": "mourn",
         "furigana": "悼",
         "kana": "ㄉㄠˋ",
         "answer": "ㄉㄠˋ"
       },
       {
         "japanese": "慎",
-        "english": "ㄕㄣˋ",
+        "english": "prudent",
         "furigana": "慎",
         "kana": "ㄕㄣˋ",
         "answer": "ㄕㄣˋ"
       },
       {
         "japanese": "恕",
-        "english": "ㄕㄨˋ",
+        "english": "pardon",
         "furigana": "恕",
         "kana": "ㄕㄨˋ",
         "answer": "ㄕㄨˋ"
       },
       {
         "japanese": "悄",
-        "english": "ㄑㄧㄠˇ",
+        "english": "noiseless",
         "furigana": "悄",
         "kana": "ㄑㄧㄠˇ",
         "answer": "ㄑㄧㄠˇ"
       },
       {
         "japanese": "恍",
-        "english": "ㄏㄨㄤˇ",
+        "english": "all of a sudden",
         "furigana": "恍",
         "kana": "ㄏㄨㄤˇ",
         "answer": "ㄏㄨㄤˇ"
       },
       {
         "japanese": "惰",
-        "english": "ㄉㄨㄛˋ",
+        "english": "indolent",
         "furigana": "惰",
         "kana": "ㄉㄨㄛˋ",
         "answer": "ㄉㄨㄛˋ"
       },
       {
         "japanese": "恢",
-        "english": "ㄏㄨㄟ",
+        "english": "immense",
         "furigana": "恢",
         "kana": "ㄏㄨㄟ",
         "answer": "ㄏㄨㄟ"
       },
       {
         "japanese": "恆",
-        "english": "ㄏㄥˊ",
+        "english": "permanent",
         "furigana": "恆",
         "kana": "ㄏㄥˊ",
         "answer": "ㄏㄥˊ"
       },
       {
         "japanese": "慕",
-        "english": "ㄇㄨˋ",
+        "english": "admire",
         "furigana": "慕",
         "kana": "ㄇㄨˋ",
         "answer": "ㄇㄨˋ"
       },
       {
         "japanese": "恰",
-        "english": "ㄑㄧㄚˋ",
+        "english": "just right",
         "furigana": "恰",
         "kana": "ㄑㄧㄚˋ",
         "answer": "ㄑㄧㄚˋ"
       },
       {
         "japanese": "惶",
-        "english": "ㄏㄨㄤˊ",
+        "english": "fearful",
         "furigana": "惶",
         "kana": "ㄏㄨㄤˊ",
         "answer": "ㄏㄨㄤˊ"
       },
       {
         "japanese": "愉",
-        "english": "ㄩˊ",
+        "english": "overjoyed",
         "furigana": "愉",
         "kana": "ㄩˊ",
         "answer": "ㄩˊ"
       },
       {
         "japanese": "愈",
-        "english": "ㄩˋ",
+        "english": "more and more",
         "furigana": "愈",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "惑",
-        "english": "ㄏㄨㄛˋ",
+        "english": "be bewildered",
         "furigana": "惑",
         "kana": "ㄏㄨㄛˋ",
         "answer": "ㄏㄨㄛˋ"
       },
       {
         "japanese": "怔",
-        "english": "ㄓㄥ",
+        "english": "terror-stricken",
         "furigana": "怔",
         "kana": "ㄓㄥ",
         "answer": "ㄓㄥ"
       },
       {
         "japanese": "怖",
-        "english": "ㄅㄨˋ",
+        "english": "be scared of",
         "furigana": "怖",
         "kana": "ㄅㄨˋ",
         "answer": "ㄅㄨˋ"
       },
       {
         "japanese": "添",
-        "english": "ㄊㄧㄢ",
+        "english": "augment",
         "furigana": "添",
         "kana": "ㄊㄧㄢ",
         "answer": "ㄊㄧㄢ"
       },
       {
         "japanese": "悔",
-        "english": "ㄏㄨㄟˇ",
+        "english": "be sorry about",
         "furigana": "悔",
         "kana": "ㄏㄨㄟˇ",
         "answer": "ㄏㄨㄟˇ"
       },
       {
         "japanese": "慌",
-        "english": "ㄏㄨㄤ",
+        "english": "nervous",
         "furigana": "慌",
         "kana": "ㄏㄨㄤ",
         "answer": "ㄏㄨㄤ"
       },
       {
         "japanese": "悅",
-        "english": "ㄩㄝˋ",
+        "english": "delighted",
         "furigana": "悅",
         "kana": "ㄩㄝˋ",
         "answer": "ㄩㄝˋ"
       },
       {
         "japanese": "憎",
-        "english": "ㄗㄥ",
+        "english": "loathe",
         "furigana": "憎",
         "kana": "ㄗㄥ",
         "answer": "ㄗㄥ"
       },
       {
         "japanese": "忌",
-        "english": "ㄐㄧˋ",
+        "english": "shun",
         "furigana": "忌",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "惟",
-        "english": "ㄨㄟˊ",
+        "english": "thinking",
         "furigana": "惟",
         "kana": "ㄨㄟˊ",
         "answer": "ㄨㄟˊ"
       },
       {
         "japanese": "懼",
-        "english": "ㄐㄩˋ",
+        "english": "be frightened",
         "furigana": "懼",
         "kana": "ㄐㄩˋ",
         "answer": "ㄐㄩˋ"
       },
       {
         "japanese": "患",
-        "english": "ㄏㄨㄢˋ",
+        "english": "troubles",
         "furigana": "患",
         "kana": "ㄏㄨㄢˋ",
         "answer": "ㄏㄨㄢˋ"
       },
       {
         "japanese": "惹",
-        "english": "ㄖㄜˇ",
+        "english": "provoke",
         "furigana": "惹",
         "kana": "ㄖㄜˇ",
         "answer": "ㄖㄜˇ"
       },
       {
         "japanese": "恩",
-        "english": "ㄣ",
+        "english": "kindness",
         "furigana": "恩",
         "kana": "ㄣ",
         "answer": "ㄣ"
       },
       {
         "japanese": "憶",
-        "english": "ㄧˋ",
+        "english": "recall",
         "furigana": "憶",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "媳",
-        "english": "ㄒㄧˊ",
+        "english": "daughter-in-law",
         "furigana": "媳",
         "kana": "ㄒㄧˊ",
         "answer": "ㄒㄧˊ"
       },
       {
         "japanese": "熄",
-        "english": "ㄒㄧˊ",
+        "english": "put out",
         "furigana": "熄",
         "kana": "ㄒㄧˊ",
         "answer": "ㄒㄧˊ"
       },
       {
         "japanese": "瑟",
-        "english": "ㄙㄜˋ",
+        "english": "chinese harp",
         "furigana": "瑟",
         "kana": "ㄙㄜˋ",
         "answer": "ㄙㄜˋ"
       },
       {
         "japanese": "泌",
-        "english": "ㄇㄧˋ",
+        "english": "secrete",
         "furigana": "泌",
         "kana": "ㄇㄧˋ",
         "answer": "ㄇㄧˋ"
       },
       {
         "japanese": "蜜",
-        "english": "ㄇㄧˋ",
+        "english": "honey",
         "furigana": "蜜",
         "kana": "ㄇㄧˋ",
         "answer": "ㄇㄧˋ"
       },
       {
         "japanese": "摩",
-        "english": "ㄇㄛˊ",
+        "english": "rub",
         "furigana": "摩",
         "kana": "ㄇㄛˊ",
         "answer": "ㄇㄛˊ"
       },
       {
         "japanese": "蛾",
-        "english": "ㄜˊ",
+        "english": "moth",
         "furigana": "蛾",
         "kana": "ㄜˊ",
         "answer": "ㄜˊ"
       },
       {
         "japanese": "扒",
-        "english": "ㄆㄚˊ",
+        "english": "pick pockets",
         "furigana": "扒",
         "kana": "ㄆㄚˊ",
         "answer": "ㄆㄚˊ"
       },
       {
         "japanese": "扣",
-        "english": "ㄎㄡˋ",
+        "english": "button",
         "furigana": "扣",
         "kana": "ㄎㄡˋ",
         "answer": "ㄎㄡˋ"
       },
       {
         "japanese": "捐",
-        "english": "ㄐㄩㄢ",
+        "english": "contribute",
         "furigana": "捐",
         "kana": "ㄐㄩㄢ",
         "answer": "ㄐㄩㄢ"
       },
       {
         "japanese": "拍",
-        "english": "ㄆㄞ",
+        "english": "racquet",
         "furigana": "拍",
         "kana": "ㄆㄞ",
         "answer": "ㄆㄞ"
       },
       {
         "japanese": "啪",
-        "english": "ㄆㄚ",
+        "english": "clapping sound",
         "furigana": "啪",
         "kana": "ㄆㄚ",
         "answer": "ㄆㄚ"
       },
       {
         "japanese": "損",
-        "english": "ㄙㄨㄣˇ",
+        "english": "damage",
         "furigana": "損",
         "kana": "ㄙㄨㄣˇ",
         "answer": "ㄙㄨㄣˇ"
       },
       {
         "japanese": "扛",
-        "english": "ㄎㄤˊ",
+        "english": "carry over the shoulder",
         "furigana": "扛",
         "kana": "ㄎㄤˊ",
         "answer": "ㄎㄤˊ"
       },
       {
         "japanese": "扎",
-        "english": "ㄓㄚ",
+        "english": "prick",
         "furigana": "扎",
         "kana": "ㄓㄚ",
         "answer": "ㄓㄚ"
       },
       {
         "japanese": "拇",
-        "english": "ㄇㄨˇ",
+        "english": "thumb",
         "furigana": "拇",
         "kana": "ㄇㄨˇ",
         "answer": "ㄇㄨˇ"
       },
       {
         "japanese": "拘",
-        "english": "ㄐㄩ",
+        "english": "detain",
         "furigana": "拘",
         "kana": "ㄐㄩ",
         "answer": "ㄐㄩ"
       },
       {
         "japanese": "抄",
-        "english": "ㄔㄠ",
+        "english": "copy",
         "furigana": "抄",
         "kana": "ㄔㄠ",
         "answer": "ㄔㄠ"
       },
       {
         "japanese": "拓",
-        "english": "ㄊㄨㄛˋ",
+        "english": "pioneer",
         "furigana": "拓",
         "kana": "ㄊㄨㄛˋ",
         "answer": "ㄊㄨㄛˋ"
       },
       {
         "japanese": "捏",
-        "english": "ㄋㄧㄝ",
+        "english": "pinch",
         "furigana": "捏",
         "kana": "ㄋㄧㄝ",
         "answer": "ㄋㄧㄝ"
       },
       {
         "japanese": "撓",
-        "english": "ㄋㄠˊ",
+        "english": "chafe",
         "furigana": "撓",
         "kana": "ㄋㄠˊ",
         "answer": "ㄋㄠˊ"
       },
       {
         "japanese": "抹",
-        "english": "ㄇㄛˇ",
+        "english": "smear on",
         "furigana": "抹",
         "kana": "ㄇㄛˇ",
         "answer": "ㄇㄛˇ"
       },
       {
         "japanese": "描",
-        "english": "ㄇㄧㄠˊ",
+        "english": "describe",
         "furigana": "描",
         "kana": "ㄇㄧㄠˊ",
         "answer": "ㄇㄧㄠˊ"
       },
       {
         "japanese": "摸",
-        "english": "ㄇㄛ",
+        "english": "grope",
         "furigana": "摸",
         "kana": "ㄇㄛ",
         "answer": "ㄇㄛ"
       },
       {
         "japanese": "挑",
-        "english": "ㄊㄧㄠˇ",
+        "english": "foment",
         "furigana": "挑",
         "kana": "ㄊㄧㄠˇ",
         "answer": "ㄊㄧㄠˇ"
       },
       {
         "japanese": "拴",
-        "english": "ㄕㄨㄢ",
+        "english": "tether",
         "furigana": "拴",
         "kana": "ㄕㄨㄢ",
         "answer": "ㄕㄨㄢ"
       },
       {
         "japanese": "拾",
-        "english": "ㄕˊ",
+        "english": "tidy up",
         "furigana": "拾",
         "kana": "ㄕˊ",
         "answer": "ㄕˊ"
       },
       {
         "japanese": "搭",
-        "english": "ㄉㄚ",
+        "english": "put up",
         "furigana": "搭",
         "kana": "ㄉㄚ",
         "answer": "ㄉㄚ"
       },
       {
         "japanese": "掠",
-        "english": "ㄌㄩㄝˋ",
+        "english": "pillage",
         "furigana": "掠",
         "kana": "ㄌㄩㄝˋ",
         "answer": "ㄌㄩㄝˋ"
       },
       {
         "japanese": "捨",
-        "english": "ㄕㄜˇ",
+        "english": "abandon",
         "furigana": "捨",
         "kana": "ㄕㄜˇ",
         "answer": "ㄕㄜˇ"
       },
       {
         "japanese": "拭",
-        "english": "ㄕˋ",
+        "english": "wipe away",
         "furigana": "拭",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "扯",
-        "english": "ㄔㄜˇ",
+        "english": "yank",
         "furigana": "扯",
         "kana": "ㄔㄜˇ",
         "answer": "ㄔㄜˇ"
       },
       {
         "japanese": "拖",
-        "english": "ㄊㄨㄛ",
+        "english": "drag",
         "furigana": "拖",
         "kana": "ㄊㄨㄛ",
         "answer": "ㄊㄨㄛ"
       },
       {
         "japanese": "揚",
-        "english": "ㄧㄤˊ",
+        "english": "publicize",
         "furigana": "揚",
         "kana": "ㄧㄤˊ",
         "answer": "ㄧㄤˊ"
       },
       {
         "japanese": "搞",
-        "english": "ㄍㄠˇ",
+        "english": "engage in",
         "furigana": "搞",
         "kana": "ㄍㄠˇ",
         "answer": "ㄍㄠˇ"
       },
       {
         "japanese": "撞",
-        "english": "ㄓㄨㄤˋ",
+        "english": "bump into",
         "furigana": "撞",
         "kana": "ㄓㄨㄤˋ",
         "answer": "ㄓㄨㄤˋ"
       },
       {
         "japanese": "摘",
-        "english": "ㄓㄞ",
+        "english": "handpick",
         "furigana": "摘",
         "kana": "ㄓㄞ",
         "answer": "ㄓㄞ"
       },
       {
         "japanese": "捆",
-        "english": "ㄎㄨㄣˇ",
+        "english": "lash together",
         "furigana": "捆",
         "kana": "ㄎㄨㄣˇ",
         "answer": "ㄎㄨㄣˇ"
       },
       {
         "japanese": "撼",
-        "english": "ㄏㄢˋ",
+        "english": "joggle",
         "furigana": "撼",
         "kana": "ㄏㄢˋ",
         "answer": "ㄏㄢˋ"
       },
       {
         "japanese": "擾",
-        "english": "ㄖㄠˇ",
+        "english": "harass",
         "furigana": "擾",
         "kana": "ㄖㄠˇ",
         "answer": "ㄖㄠˇ"
       },
       {
         "japanese": "擅",
-        "english": "ㄕㄢˋ",
+        "english": "act without authority",
         "furigana": "擅",
         "kana": "ㄕㄢˋ",
         "answer": "ㄕㄢˋ"
       },
       {
         "japanese": "壇",
-        "english": "ㄊㄢˊ",
+        "english": "altar",
         "furigana": "壇",
         "kana": "ㄊㄢˊ",
         "answer": "ㄊㄢˊ"
       },
       {
         "japanese": "顫",
-        "english": "ㄓㄢˋ",
+        "english": "tremble",
         "furigana": "顫",
         "kana": "ㄓㄢˋ",
         "answer": "ㄓㄢˋ"
       },
       {
         "japanese": "莽",
-        "english": "ㄇㄤˇ",
+        "english": "rude",
         "furigana": "莽",
         "kana": "ㄇㄤˇ",
         "answer": "ㄇㄤˇ"
       },
       {
         "japanese": "戒",
-        "english": "ㄐㄧㄝˋ",
+        "english": "take precautions against",
         "furigana": "戒",
         "kana": "ㄐㄧㄝˋ",
         "answer": "ㄐㄧㄝˋ"
       },
       {
         "japanese": "械",
-        "english": "ㄒㄧㄝˋ",
+        "english": "weapon",
         "furigana": "械",
         "kana": "ㄒㄧㄝˋ",
         "answer": "ㄒㄧㄝˋ"
       },
       {
         "japanese": "誡",
-        "english": "ㄐㄧㄝˋ",
+        "english": "warn",
         "furigana": "誡",
         "kana": "ㄐㄧㄝˋ",
         "answer": "ㄐㄧㄝˋ"
       },
       {
         "japanese": "奔",
-        "english": "ㄅㄣ",
+        "english": "dash",
         "furigana": "奔",
         "kana": "ㄅㄣ",
         "answer": "ㄅㄣ"
       },
       {
         "japanese": "噴",
-        "english": "ㄆㄣ",
+        "english": "spurt",
         "furigana": "噴",
         "kana": "ㄆㄣ",
         "answer": "ㄆㄣ"
       },
       {
         "japanese": "墳",
-        "english": "ㄈㄣˊ",
+        "english": "tomb",
         "furigana": "墳",
         "kana": "ㄈㄣˊ",
         "answer": "ㄈㄣˊ"
       },
       {
         "japanese": "憤",
-        "english": "ㄈㄣˋ",
+        "english": "indignation",
         "furigana": "憤",
         "kana": "ㄈㄣˋ",
         "answer": "ㄈㄣˋ"
       },
       {
         "japanese": "材",
-        "english": "ㄘㄞˊ",
+        "english": "stuff",
         "furigana": "材",
         "kana": "ㄘㄞˊ",
         "answer": "ㄘㄞˊ"
       },
       {
         "japanese": "孕",
-        "english": "ㄩㄣˋ",
+        "english": "pregnant",
         "furigana": "孕",
         "kana": "ㄩㄣˋ",
         "answer": "ㄩㄣˋ"
       },
       {
         "japanese": "扔",
-        "english": "ㄖㄥ",
+        "english": "throw away",
         "furigana": "扔",
         "kana": "ㄖㄥ",
         "answer": "ㄖㄥ"
       },
       {
         "japanese": "圾",
-        "english": "ㄙㄜˋ",
+        "english": "trash",
         "furigana": "圾",
         "kana": "ㄙㄜˋ",
         "answer": "ㄙㄜˋ"
       },
       {
         "japanese": "叉",
-        "english": "ㄔㄚ",
+        "english": "fork",
         "furigana": "叉",
         "kana": "ㄔㄚ",
         "answer": "ㄔㄚ"
       },
       {
         "japanese": "桑",
-        "english": "ㄙㄤ",
+        "english": "mulberry tree",
         "furigana": "桑",
         "kana": "ㄙㄤ",
         "answer": "ㄙㄤ"
       },
       {
         "japanese": "嗓",
-        "english": "ㄙㄤˇ",
+        "english": "voicebox",
         "furigana": "嗓",
         "kana": "ㄙㄤˇ",
         "answer": "ㄙㄤˇ"
       },
       {
         "japanese": "寇",
-        "english": "ㄎㄡˋ",
+        "english": "outlaw",
         "furigana": "寇",
         "kana": "ㄎㄡˋ",
         "answer": "ㄎㄡˋ"
       },
       {
         "japanese": "敲",
-        "english": "ㄑㄧㄠ",
+        "english": "knock",
         "furigana": "敲",
         "kana": "ㄑㄧㄠ",
         "answer": "ㄑㄧㄠ"
       },
       {
         "japanese": "灌",
-        "english": "ㄍㄨㄢˋ",
+        "english": "pour into",
         "furigana": "灌",
         "kana": "ㄍㄨㄢˋ",
         "answer": "ㄍㄨㄢˋ"
       },
       {
         "japanese": "權",
-        "english": "ㄑㄩㄢˊ",
+        "english": "authority",
         "furigana": "權",
         "kana": "ㄑㄩㄢˊ",
         "answer": "ㄑㄩㄢˊ"
       },
       {
         "japanese": "毅",
-        "english": "ㄧˋ",
+        "english": "resolute",
         "furigana": "毅",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "肢",
-        "english": "ㄓ",
+        "english": "limb",
         "furigana": "肢",
         "kana": "ㄓ",
         "answer": "ㄓ"
       },
       {
         "japanese": "妓",
-        "english": "ㄐㄧˋ",
+        "english": "prostitute",
         "furigana": "妓",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "歧",
-        "english": "ㄑㄧˊ",
+        "english": "fork in the road",
         "furigana": "歧",
         "kana": "ㄑㄧˊ",
         "answer": "ㄑㄧˊ"
       },
       {
         "japanese": "翅",
-        "english": "ㄔˋ",
+        "english": "fins",
         "furigana": "翅",
         "kana": "ㄔˋ",
         "answer": "ㄔˋ"
       },
       {
         "japanese": "淑",
-        "english": "ㄕㄨˊ",
+        "english": "graceful",
         "furigana": "淑",
         "kana": "ㄕㄨˊ",
         "answer": "ㄕㄨˊ"
       },
       {
         "japanese": "椒",
-        "english": "ㄐㄧㄠ",
+        "english": "spice plant",
         "furigana": "椒",
         "kana": "ㄐㄧㄠ",
         "answer": "ㄐㄧㄠ"
       },
       {
         "japanese": "后",
-        "english": "ㄏㄡˋ",
+        "english": "queen",
         "furigana": "后",
         "kana": "ㄏㄡˋ",
         "answer": "ㄏㄡˋ"
       },
       {
         "japanese": "盾",
-        "english": "ㄉㄨㄣˋ",
+        "english": "shield",
         "furigana": "盾",
         "kana": "ㄉㄨㄣˋ",
         "answer": "ㄉㄨㄣˋ"
       },
       {
         "japanese": "販",
-        "english": "ㄈㄢˋ",
+        "english": "peddler",
         "furigana": "販",
         "kana": "ㄈㄢˋ",
         "answer": "ㄈㄢˋ"
       },
       {
         "japanese": "扳",
-        "english": "ㄅㄢ",
+        "english": "tug",
         "furigana": "扳",
         "kana": "ㄅㄢ",
         "answer": "ㄅㄢ"
       },
       {
         "japanese": "覓",
-        "english": "ㄇㄧˋ",
+        "english": "try to find",
         "furigana": "覓",
         "kana": "ㄇㄧˋ",
         "answer": "ㄇㄧˋ"
       },
       {
         "japanese": "妥",
-        "english": "ㄊㄨㄛˇ",
+        "english": "appropriate",
         "furigana": "妥",
         "kana": "ㄊㄨㄛˇ",
         "answer": "ㄊㄨㄛˇ"
       },
       {
         "japanese": "睬",
-        "english": "ㄘㄞˇ",
+        "english": "notice",
         "furigana": "睬",
         "kana": "ㄘㄞˇ",
         "answer": "ㄘㄞˇ"
       },
       {
         "japanese": "允",
-        "english": "ㄩㄣˇ",
+        "english": "consent",
         "furigana": "允",
         "kana": "ㄩㄣˇ",
         "answer": "ㄩㄣˇ"
       },
       {
         "japanese": "勾",
-        "english": "ㄍㄡ",
+        "english": "cross out",
         "furigana": "勾",
         "kana": "ㄍㄡ",
         "answer": "ㄍㄡ"
       },
       {
         "japanese": "晉",
-        "english": "ㄐㄧㄣˋ",
+        "english": "promote",
         "furigana": "晉",
         "kana": "ㄐㄧㄣˋ",
         "answer": "ㄐㄧㄣˋ"
       },
       {
         "japanese": "宏",
-        "english": "ㄏㄨㄥˊ",
+        "english": "magnificent",
         "furigana": "宏",
         "kana": "ㄏㄨㄥˊ",
         "answer": "ㄏㄨㄥˊ"
       },
       {
         "japanese": "胎",
-        "english": "ㄊㄞ",
+        "english": "fetus",
         "furigana": "胎",
         "kana": "ㄊㄞ",
         "answer": "ㄊㄞ"
       },
       {
         "japanese": "冶",
-        "english": "ㄧㄝˇ",
+        "english": "smelt",
         "furigana": "冶",
         "kana": "ㄧㄝˇ",
         "answer": "ㄧㄝˇ"
       },
       {
         "japanese": "颱",
-        "english": "ㄊㄞˊ",
+        "english": "typhoon",
         "furigana": "颱",
         "kana": "ㄊㄞˊ",
         "answer": "ㄊㄞˊ"
       },
       {
         "japanese": "怠",
-        "english": "ㄉㄞˋ",
+        "english": "negligent",
         "furigana": "怠",
         "kana": "ㄉㄞˋ",
         "answer": "ㄉㄞˋ"
       },
       {
         "japanese": "抬",
-        "english": "ㄊㄞˊ",
+        "english": "elevate",
         "furigana": "抬",
         "kana": "ㄊㄞˊ",
         "answer": "ㄊㄞˊ"
       },
       {
         "japanese": "丟",
-        "english": "ㄉㄧㄡ",
+        "english": "mislay",
         "furigana": "丟",
         "kana": "ㄉㄧㄡ",
         "answer": "ㄉㄧㄡ"
       },
       {
         "japanese": "臺",
-        "english": "ㄊㄞˊ",
+        "english": "taiwan",
         "furigana": "臺",
         "kana": "ㄊㄞˊ",
         "answer": "ㄊㄞˊ"
       },
       {
         "japanese": "致",
-        "english": "ㄓˋ",
+        "english": "bring about",
         "furigana": "致",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "撤",
-        "english": "ㄔㄜˋ",
+        "english": "remove",
         "furigana": "撤",
         "kana": "ㄔㄜˋ",
         "answer": "ㄔㄜˋ"
       },
       {
         "japanese": "硫",
-        "english": "ㄌㄧㄡˊ",
+        "english": "sulfur",
         "furigana": "硫",
         "kana": "ㄌㄧㄡˊ",
         "answer": "ㄌㄧㄡˊ"
       },
       {
         "japanese": "琉",
-        "english": "ㄌㄧㄡˊ",
+        "english": "glaze",
         "furigana": "琉",
         "kana": "ㄌㄧㄡˊ",
         "answer": "ㄌㄧㄡˊ"
       },
       {
         "japanese": "疏",
-        "english": "ㄕㄨ",
+        "english": "sparse",
         "furigana": "疏",
         "kana": "ㄕㄨ",
         "answer": "ㄕㄨ"
       },
       {
         "japanese": "蔬",
-        "english": "ㄕㄨ",
+        "english": "veggies",
         "furigana": "蔬",
         "kana": "ㄕㄨ",
         "answer": "ㄕㄨ"
       },
       {
         "japanese": "崩",
-        "english": "ㄅㄥ",
+        "english": "crumble",
         "furigana": "崩",
         "kana": "ㄅㄥ",
         "answer": "ㄅㄥ"
       },
       {
         "japanese": "岩",
-        "english": "ㄧㄢˊ",
+        "english": "rock",
         "furigana": "岩",
         "kana": "ㄧㄢˊ",
         "answer": "ㄧㄢˊ"
       },
       {
         "japanese": "崎",
-        "english": "ㄑㄧˊ",
+        "english": "rugged",
         "furigana": "崎",
         "kana": "ㄑㄧˊ",
         "answer": "ㄑㄧˊ"
       },
       {
         "japanese": "崖",
-        "english": "ㄧㄞˊ",
+        "english": "cliff",
         "furigana": "崖",
         "kana": "ㄧㄞˊ",
         "answer": "ㄧㄞˊ"
       },
       {
         "japanese": "炭",
-        "english": "ㄊㄢˋ",
+        "english": "charcoal",
         "furigana": "炭",
         "kana": "ㄊㄢˋ",
         "answer": "ㄊㄢˋ"
       },
       {
         "japanese": "碳",
-        "english": "ㄊㄢˋ",
+        "english": "carbon",
         "furigana": "碳",
         "kana": "ㄊㄢˋ",
         "answer": "ㄊㄢˋ"
       },
       {
         "japanese": "盼",
-        "english": "ㄆㄢˋ",
+        "english": "await hopefully",
         "furigana": "盼",
         "kana": "ㄆㄢˋ",
         "answer": "ㄆㄢˋ"
       },
       {
         "japanese": "頒",
-        "english": "ㄅㄢ",
+        "english": "promulgate",
         "furigana": "頒",
         "kana": "ㄅㄢ",
         "answer": "ㄅㄢ"
       },
       {
         "japanese": "芬",
-        "english": "ㄈㄣ",
+        "english": "essence",
         "furigana": "芬",
         "kana": "ㄈㄣ",
         "answer": "ㄈㄣ"
       },
       {
         "japanese": "扮",
-        "english": "ㄅㄢˋ",
+        "english": "play the part of",
         "furigana": "扮",
         "kana": "ㄅㄢˋ",
         "answer": "ㄅㄢˋ"
       },
       {
         "japanese": "岔",
-        "english": "ㄔㄚˋ",
+        "english": "diverge",
         "furigana": "岔",
         "kana": "ㄔㄚˋ",
         "answer": "ㄔㄚˋ"
       },
       {
         "japanese": "頌",
-        "english": "ㄙㄨㄥˋ",
+        "english": "extol",
         "furigana": "頌",
         "kana": "ㄙㄨㄥˋ",
         "answer": "ㄙㄨㄥˋ"
       },
       {
         "japanese": "訟",
-        "english": "ㄙㄨㄥˋ",
+        "english": "litigate",
         "furigana": "訟",
         "kana": "ㄙㄨㄥˋ",
         "answer": "ㄙㄨㄥˋ"
       },
       {
         "japanese": "翁",
-        "english": "ㄨㄥ",
+        "english": "elderly man",
         "furigana": "翁",
         "kana": "ㄨㄥ",
         "answer": "ㄨㄥ"
       },
       {
         "japanese": "裕",
-        "english": "ㄩˋ",
+        "english": "abundant",
         "furigana": "裕",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "榕",
-        "english": "ㄖㄨㄥˊ",
+        "english": "banyan",
         "furigana": "榕",
         "kana": "ㄖㄨㄥˊ",
         "answer": "ㄖㄨㄥˊ"
       },
       {
         "japanese": "賞",
-        "english": "ㄕㄤˇ",
+        "english": "prize",
         "furigana": "賞",
         "kana": "ㄕㄤˇ",
         "answer": "ㄕㄤˇ"
       },
       {
         "japanese": "嘗",
-        "english": "ㄔㄤˊ",
+        "english": "attempt",
         "furigana": "嘗",
         "kana": "ㄔㄤˊ",
         "answer": "ㄔㄤˊ"
       },
       {
         "japanese": "嚐",
-        "english": "ㄔㄤˊ",
+        "english": "taste",
         "furigana": "嚐",
         "kana": "ㄔㄤˊ",
         "answer": "ㄔㄤˊ"
       },
       {
         "japanese": "掌",
-        "english": "ㄓㄤˇ",
+        "english": "palm of the hand",
         "furigana": "掌",
         "kana": "ㄓㄤˇ",
         "answer": "ㄓㄤˇ"
       },
       {
         "japanese": "擋",
-        "english": "ㄉㄤˇ",
+        "english": "fend off",
         "furigana": "擋",
         "kana": "ㄉㄤˇ",
         "answer": "ㄉㄤˇ"
       },
       {
         "japanese": "膛",
-        "english": "ㄊㄤˊ",
+        "english": "chest",
         "furigana": "膛",
         "kana": "ㄊㄤˊ",
         "answer": "ㄊㄤˊ"
       },
       {
         "japanese": "頗",
-        "english": "ㄆㄛˇ",
+        "english": "quite",
         "furigana": "頗",
         "kana": "ㄆㄛˇ",
         "answer": "ㄆㄛˇ"
       },
       {
         "japanese": "坡",
-        "english": "ㄆㄛ",
+        "english": "slope",
         "furigana": "坡",
         "kana": "ㄆㄛ",
         "answer": "ㄆㄛ"
       },
       {
         "japanese": "披",
-        "english": "ㄆㄧ",
+        "english": "drape over the shoulders",
         "furigana": "披",
         "kana": "ㄆㄧ",
         "answer": "ㄆㄧ"
       },
       {
         "japanese": "彼",
-        "english": "ㄅㄧˇ",
+        "english": "the other",
         "furigana": "彼",
         "kana": "ㄅㄧˇ",
         "answer": "ㄅㄧˇ"
       },
       {
         "japanese": "皺",
-        "english": "ㄓㄡˋ",
+        "english": "wrinkles",
         "furigana": "皺",
         "kana": "ㄓㄡˋ",
         "answer": "ㄓㄡˋ"
       },
       {
         "japanese": "雛",
-        "english": "ㄔㄨˊ",
+        "english": "chick",
         "furigana": "雛",
         "kana": "ㄔㄨˊ",
         "answer": "ㄔㄨˊ"
       },
       {
         "japanese": "趨",
-        "english": "ㄑㄩ",
+        "english": "hasten",
         "furigana": "趨",
         "kana": "ㄑㄩ",
         "answer": "ㄑㄩ"
       },
       {
         "japanese": "菠",
-        "english": "ㄅㄛ",
+        "english": "spinach",
         "furigana": "菠",
         "kana": "ㄅㄛ",
         "answer": "ㄅㄛ"
       },
       {
         "japanese": "殖",
-        "english": "ㄓˊ",
+        "english": "breed",
         "furigana": "殖",
         "kana": "ㄓˊ",
         "answer": "ㄓˊ"
       },
       {
         "japanese": "殊",
-        "english": "ㄕㄨ",
+        "english": "dissimilar",
         "furigana": "殊",
         "kana": "ㄕㄨ",
         "answer": "ㄕㄨ"
       },
       {
         "japanese": "殘",
-        "english": "ㄘㄢˊ",
+        "english": "incomplete",
         "furigana": "殘",
         "kana": "ㄘㄢˊ",
         "answer": "ㄘㄢˊ"
       },
       {
         "japanese": "咧",
-        "english": "ㄌㄧㄝˇ",
+        "english": "grin",
         "furigana": "咧",
         "kana": "ㄌㄧㄝˇ",
         "answer": "ㄌㄧㄝˇ"
       },
       {
         "japanese": "裂",
-        "english": "ㄌㄧㄝˋ",
+        "english": "crack",
         "furigana": "裂",
         "kana": "ㄌㄧㄝˋ",
         "answer": "ㄌㄧㄝˋ"
       },
       {
         "japanese": "耿",
-        "english": "ㄍㄥˇ",
+        "english": "dedicated",
         "furigana": "耿",
         "kana": "ㄍㄥˇ",
         "answer": "ㄍㄥˇ"
       },
       {
         "japanese": "恥",
-        "english": "ㄔˇ",
+        "english": "shame",
         "furigana": "恥",
         "kana": "ㄔˇ",
         "answer": "ㄔˇ"
       },
       {
         "japanese": "輯",
-        "english": "ㄐㄧˊ",
+        "english": "edit",
         "furigana": "輯",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "攝",
-        "english": "ㄕㄜˋ",
+        "english": "take a photo",
         "furigana": "攝",
         "kana": "ㄕㄜˋ",
         "answer": "ㄕㄜˋ"
       },
       {
         "japanese": "娶",
-        "english": "ㄑㄩˇ",
+        "english": "take a wife",
         "furigana": "娶",
         "kana": "ㄑㄩˇ",
         "answer": "ㄑㄩˇ"
       },
       {
         "japanese": "扶",
-        "english": "ㄈㄨˊ",
+        "english": "lend a hand",
         "furigana": "扶",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "熙",
-        "english": "ㄒㄧ",
+        "english": "splendid",
         "furigana": "熙",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "腎",
-        "english": "ㄕㄣˋ",
+        "english": "kidneys",
         "furigana": "腎",
         "kana": "ㄕㄣˋ",
         "answer": "ㄕㄣˋ"
       },
       {
         "japanese": "募",
-        "english": "ㄇㄨˋ",
+        "english": "recruit",
         "furigana": "募",
         "kana": "ㄇㄨˋ",
         "answer": "ㄇㄨˋ"
       },
       {
         "japanese": "脅",
-        "english": "ㄒㄧㄝˊ",
+        "english": "threaten",
         "furigana": "脅",
         "kana": "ㄒㄧㄝˊ",
         "answer": "ㄒㄧㄝˊ"
       },
       {
         "japanese": "劣",
-        "english": "ㄌㄧㄝˋ",
+        "english": "inferior",
         "furigana": "劣",
         "kana": "ㄌㄧㄝˋ",
         "answer": "ㄌㄧㄝˋ"
       },
       {
         "japanese": "勳",
-        "english": "ㄒㄩㄣ",
+        "english": "merit",
         "furigana": "勳",
         "kana": "ㄒㄩㄣ",
         "answer": "ㄒㄩㄣ"
       },
       {
         "japanese": "勸",
-        "english": "ㄑㄩㄢˋ",
+        "english": "advise",
         "furigana": "勸",
         "kana": "ㄑㄩㄢˋ",
         "answer": "ㄑㄩㄢˋ"
       },
       {
         "japanese": "劫",
-        "english": "ㄐㄧㄝˊ",
+        "english": "plunder",
         "furigana": "劫",
         "kana": "ㄐㄧㄝˊ",
         "answer": "ㄐㄧㄝˊ"
       },
       {
         "japanese": "怒",
-        "english": "ㄋㄨˋ",
+        "english": "anger",
         "furigana": "怒",
         "kana": "ㄋㄨˋ",
         "answer": "ㄋㄨˋ"
       },
       {
         "japanese": "茄",
-        "english": "ㄑㄧㄝˊ",
+        "english": "eggplant",
         "furigana": "茄",
         "kana": "ㄑㄧㄝˊ",
         "answer": "ㄑㄧㄝˊ"
       },
       {
         "japanese": "彷",
-        "english": "ㄈㄤˇ",
+        "english": "seemingly",
         "furigana": "彷",
         "kana": "ㄈㄤˇ",
         "answer": "ㄈㄤˇ"
       },
       {
         "japanese": "征",
-        "english": "ㄓㄥ",
+        "english": "go on an expedition",
         "furigana": "征",
         "kana": "ㄓㄥ",
         "answer": "ㄓㄥ"
       },
       {
         "japanese": "徒",
-        "english": "ㄊㄨˊ",
+        "english": "follower",
         "furigana": "徒",
         "kana": "ㄊㄨˊ",
         "answer": "ㄊㄨˊ"
       },
       {
         "japanese": "徊",
-        "english": "ㄏㄨㄞˊ",
+        "english": "undecided",
         "furigana": "徊",
         "kana": "ㄏㄨㄞˊ",
         "answer": "ㄏㄨㄞˊ"
       },
       {
         "japanese": "徵",
-        "english": "ㄓㄥ",
+        "english": "solicit",
         "furigana": "徵",
         "kana": "ㄓㄥ",
         "answer": "ㄓㄥ"
       },
       {
         "japanese": "懲",
-        "english": "ㄔㄥˊ",
+        "english": "chasten",
         "furigana": "懲",
         "kana": "ㄔㄥˊ",
         "answer": "ㄔㄥˊ"
       },
       {
         "japanese": "循",
-        "english": "ㄒㄩㄣˊ",
+        "english": "comply with",
         "furigana": "循",
         "kana": "ㄒㄩㄣˊ",
         "answer": "ㄒㄩㄣˊ"
       },
       {
         "japanese": "徹",
-        "english": "ㄔㄜˋ",
+        "english": "thorough",
         "furigana": "徹",
         "kana": "ㄔㄜˋ",
         "answer": "ㄔㄜˋ"
       },
       {
         "japanese": "役",
-        "english": "ㄧˋ",
+        "english": "service",
         "furigana": "役",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "衍",
-        "english": "ㄧㄢˇ",
+        "english": "develop",
         "furigana": "衍",
         "kana": "ㄧㄢˇ",
         "answer": "ㄧㄢˇ"
       },
       {
         "japanese": "衡",
-        "english": "ㄏㄥˊ",
+        "english": "weight",
         "furigana": "衡",
         "kana": "ㄏㄥˊ",
         "answer": "ㄏㄥˊ"
       },
       {
         "japanese": "銜",
-        "english": "ㄒㄧㄢˊ",
+        "english": "title",
         "furigana": "銜",
         "kana": "ㄒㄧㄢˊ",
         "answer": "ㄒㄧㄢˊ"
       },
       {
         "japanese": "禿",
-        "english": "ㄊㄨ",
+        "english": "bald",
         "furigana": "禿",
         "kana": "ㄊㄨ",
         "answer": "ㄊㄨ"
       },
       {
         "japanese": "頹",
-        "english": "ㄊㄨㄟˊ",
+        "english": "decrepit",
         "furigana": "頹",
         "kana": "ㄊㄨㄟˊ",
         "answer": "ㄊㄨㄟˊ"
       },
       {
         "japanese": "秒",
-        "english": "ㄇㄧㄠˇ",
+        "english": "seconds",
         "furigana": "秒",
         "kana": "ㄇㄧㄠˇ",
         "answer": "ㄇㄧㄠˇ"
       },
       {
         "japanese": "稍",
-        "english": "ㄕㄠ",
+        "english": "a little",
         "furigana": "稍",
         "kana": "ㄕㄠ",
         "answer": "ㄕㄠ"
       },
       {
         "japanese": "穌",
-        "english": "ㄙㄨ",
+        "english": "rise again",
         "furigana": "穌",
         "kana": "ㄙㄨ",
         "answer": "ㄙㄨ"
       },
       {
         "japanese": "蘇",
-        "english": "ㄙㄨ",
+        "english": "revive",
         "furigana": "蘇",
         "kana": "ㄙㄨ",
         "answer": "ㄙㄨ"
       },
       {
         "japanese": "萎",
-        "english": "ㄨㄟ",
+        "english": "wilt",
         "furigana": "萎",
         "kana": "ㄨㄟ",
         "answer": "ㄨㄟ"
       },
       {
         "japanese": "黏",
-        "english": "ㄋㄧㄢˊ",
+        "english": "sticky",
         "furigana": "黏",
         "kana": "ㄋㄧㄢˊ",
         "answer": "ㄋㄧㄢˊ"
       },
       {
         "japanese": "黎",
-        "english": "ㄌㄧˊ",
+        "english": "host",
         "furigana": "黎",
         "kana": "ㄌㄧˊ",
         "answer": "ㄌㄧˊ"
       },
       {
         "japanese": "漆",
-        "english": "ㄑㄧ",
+        "english": "wall paint",
         "furigana": "漆",
         "kana": "ㄑㄧ",
         "answer": "ㄑㄧ"
       },
       {
         "japanese": "膝",
-        "english": "ㄒㄧ",
+        "english": "knees",
         "furigana": "膝",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "稠",
-        "english": "ㄔㄡˊ",
+        "english": "dense",
         "furigana": "稠",
         "kana": "ㄔㄡˊ",
         "answer": "ㄔㄡˊ"
       },
       {
         "japanese": "稿",
-        "english": "ㄍㄠˇ",
+        "english": "draft",
         "furigana": "稿",
         "kana": "ㄍㄠˇ",
         "answer": "ㄍㄠˇ"
       },
       {
         "japanese": "穎",
-        "english": "ㄧㄥˇ",
+        "english": "clever",
         "furigana": "穎",
         "kana": "ㄧㄥˇ",
         "answer": "ㄧㄥˇ"
       },
       {
         "japanese": "稅",
-        "english": "ㄕㄨㄟˋ",
+        "english": "tax",
         "furigana": "稅",
         "kana": "ㄕㄨㄟˋ",
         "answer": "ㄕㄨㄟˋ"
       },
       {
         "japanese": "稼",
-        "english": "ㄐㄧㄚˋ",
+        "english": "crops",
         "furigana": "稼",
         "kana": "ㄐㄧㄚˋ",
         "answer": "ㄐㄧㄚˋ"
       },
       {
         "japanese": "菌",
-        "english": "ㄐㄩㄣˋ",
+        "english": "fungus",
         "furigana": "菌",
         "kana": "ㄐㄩㄣˋ",
         "answer": "ㄐㄩㄣˋ"
       },
       {
         "japanese": "稚",
-        "english": "ㄓˋ",
+        "english": "immature",
         "furigana": "稚",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "穫",
-        "english": "ㄏㄨㄛˋ",
+        "english": "harvest",
         "furigana": "穫",
         "kana": "ㄏㄨㄛˋ",
         "answer": "ㄏㄨㄛˋ"
       },
       {
         "japanese": "私",
-        "english": "ㄙ",
+        "english": "private",
         "furigana": "私",
         "kana": "ㄙ",
         "answer": "ㄙ"
       },
       {
         "japanese": "秩",
-        "english": "ㄓˋ",
+        "english": "order",
         "furigana": "秩",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "殼",
-        "english": "ㄎㄜˊ",
+        "english": "shell",
         "furigana": "殼",
         "kana": "ㄎㄜˊ",
         "answer": "ㄎㄜˊ"
       },
       {
         "japanese": "穀",
-        "english": "ㄍㄨˇ",
+        "english": "cereal",
         "furigana": "穀",
         "kana": "ㄍㄨˇ",
         "answer": "ㄍㄨˇ"
       },
       {
         "japanese": "鍬",
-        "english": "ㄑㄧㄠ",
+        "english": "shovel",
         "furigana": "鍬",
         "kana": "ㄑㄧㄠ",
         "answer": "ㄑㄧㄠ"
       },
       {
         "japanese": "揪",
-        "english": "ㄐㄧㄡ",
+        "english": "hold tight",
         "furigana": "揪",
         "kana": "ㄐㄧㄡ",
         "answer": "ㄐㄧㄡ"
       },
       {
         "japanese": "梨",
-        "english": "ㄌㄧˊ",
+        "english": "pear",
         "furigana": "梨",
         "kana": "ㄌㄧˊ",
         "answer": "ㄌㄧˊ"
       },
       {
         "japanese": "犁",
-        "english": "ㄌㄧˊ",
+        "english": "plow",
         "furigana": "犁",
         "kana": "ㄌㄧˊ",
         "answer": "ㄌㄧˊ"
       },
       {
         "japanese": "曆",
-        "english": "ㄌㄧˋ",
+        "english": "calendar",
         "furigana": "曆",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "糕",
-        "english": "ㄍㄠ",
+        "english": "cake",
         "furigana": "糕",
         "kana": "ㄍㄠ",
         "answer": "ㄍㄠ"
       },
       {
         "japanese": "糊",
-        "english": "ㄏㄨˊ",
+        "english": "batter",
         "furigana": "糊",
         "kana": "ㄏㄨˊ",
         "answer": "ㄏㄨˊ"
       },
       {
         "japanese": "粘",
-        "english": "ㄋㄧㄢˊ",
+        "english": "glue",
         "furigana": "粘",
         "kana": "ㄋㄧㄢˊ",
         "answer": "ㄋㄧㄢˊ"
       },
       {
         "japanese": "糧",
-        "english": "ㄌㄧㄤˊ",
+        "english": "provisions",
         "furigana": "糧",
         "kana": "ㄌㄧㄤˊ",
         "answer": "ㄌㄧㄤˊ"
       },
       {
         "japanese": "菊",
-        "english": "ㄐㄩˊ",
+        "english": "chrysanthemum",
         "furigana": "菊",
         "kana": "ㄐㄩˊ",
         "answer": "ㄐㄩˊ"
       },
       {
         "japanese": "糙",
-        "english": "ㄘㄠ",
+        "english": "rough",
         "furigana": "糙",
         "kana": "ㄘㄠ",
         "answer": "ㄘㄠ"
       },
       {
         "japanese": "粒",
-        "english": "ㄌㄧˋ",
+        "english": "grain",
         "furigana": "粒",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "燦",
-        "english": "ㄘㄢˋ",
+        "english": "brilliant",
         "furigana": "燦",
         "kana": "ㄘㄢˋ",
         "answer": "ㄘㄢˋ"
       },
       {
         "japanese": "粉",
-        "english": "ㄈㄣˇ",
+        "english": "powder",
         "furigana": "粉",
         "kana": "ㄈㄣˇ",
         "answer": "ㄈㄣˇ"
       },
       {
         "japanese": "瞇",
-        "english": "ㄇㄧ",
+        "english": "squint",
         "furigana": "瞇",
         "kana": "ㄇㄧ",
         "answer": "ㄇㄧ"
       },
       {
         "japanese": "幣",
-        "english": "ㄅㄧˋ",
+        "english": "currency",
         "furigana": "幣",
         "kana": "ㄅㄧˋ",
         "answer": "ㄅㄧˋ"
       },
       {
         "japanese": "斃",
-        "english": "ㄅㄧˋ",
+        "english": "die a violent death",
         "furigana": "斃",
         "kana": "ㄅㄧˋ",
         "answer": "ㄅㄧˋ"
       },
       {
         "japanese": "蔽",
-        "english": "ㄅㄧˋ",
+        "english": "shelter",
         "furigana": "蔽",
         "kana": "ㄅㄧˋ",
         "answer": "ㄅㄧˋ"
       },
       {
         "japanese": "撇",
-        "english": "ㄆㄧㄝ",
+        "english": "cast aside",
         "furigana": "撇",
         "kana": "ㄆㄧㄝ",
         "answer": "ㄆㄧㄝ"
       },
       {
         "japanese": "弊",
-        "english": "ㄅㄧˋ",
+        "english": "fraud",
         "furigana": "弊",
         "kana": "ㄅㄧˋ",
         "answer": "ㄅㄧˋ"
       },
       {
         "japanese": "筍",
-        "english": "ㄙㄨㄣˇ",
+        "english": "bamboo shoot",
         "furigana": "筍",
         "kana": "ㄙㄨㄣˇ",
         "answer": "ㄙㄨㄣˇ"
       },
       {
         "japanese": "筒",
-        "english": "ㄊㄨㄥˇ",
+        "english": "tube",
         "furigana": "筒",
         "kana": "ㄊㄨㄥˇ",
         "answer": "ㄊㄨㄥˇ"
       },
       {
         "japanese": "築",
-        "english": "ㄓㄨˊ",
+        "english": "construct",
         "furigana": "築",
         "kana": "ㄓㄨˊ",
         "answer": "ㄓㄨˊ"
       },
       {
         "japanese": "笨",
-        "english": "ㄅㄣˋ",
+        "english": "stupid",
         "furigana": "笨",
         "kana": "ㄅㄣˋ",
         "answer": "ㄅㄣˋ"
       },
       {
         "japanese": "箭",
-        "english": "ㄐㄧㄢˋ",
+        "english": "arrow",
         "furigana": "箭",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "筋",
-        "english": "ㄐㄧㄣ",
+        "english": "tendon",
         "furigana": "筋",
         "kana": "ㄐㄧㄣ",
         "answer": "ㄐㄧㄣ"
       },
       {
         "japanese": "伍",
-        "english": "ㄨˇ",
+        "english": "v",
         "furigana": "伍",
         "kana": "ㄨˇ",
         "answer": "ㄨˇ"
       },
       {
         "japanese": "仇",
-        "english": "ㄔㄡˊ",
+        "english": "animosity",
         "furigana": "仇",
         "kana": "ㄔㄡˊ",
         "answer": "ㄔㄡˊ"
       },
       {
         "japanese": "倡",
-        "english": "ㄔㄤˋ",
+        "english": "start",
         "furigana": "倡",
         "kana": "ㄔㄤˋ",
         "answer": "ㄔㄤˋ"
       },
       {
         "japanese": "伯",
-        "english": "ㄅㄛˊ",
+        "english": "father's older brother",
         "furigana": "伯",
         "kana": "ㄅㄛˊ",
         "answer": "ㄅㄛˊ"
       },
       {
         "japanese": "仲",
-        "english": "ㄓㄨㄥˋ",
+        "english": "mid-",
         "furigana": "仲",
         "kana": "ㄓㄨㄥˋ",
         "answer": "ㄓㄨㄥˋ"
       },
       {
         "japanese": "估",
-        "english": "ㄍㄨ",
+        "english": "estimate",
         "furigana": "估",
         "kana": "ㄍㄨ",
         "answer": "ㄍㄨ"
       },
       {
         "japanese": "偵",
-        "english": "ㄓㄣ",
+        "english": "detect",
         "furigana": "偵",
         "kana": "ㄓㄣ",
         "answer": "ㄓㄣ"
       },
       {
         "japanese": "俱",
-        "english": "ㄐㄩˋ",
+        "english": "altogether",
         "furigana": "俱",
         "kana": "ㄐㄩˋ",
         "answer": "ㄐㄩˋ"
       },
       {
         "japanese": "側",
-        "english": "ㄘㄜˋ",
+        "english": "lateral",
         "furigana": "側",
         "kana": "ㄘㄜˋ",
         "answer": "ㄘㄜˋ"
       },
       {
         "japanese": "佑",
-        "english": "ㄧㄡˋ",
+        "english": "bless",
         "furigana": "佑",
         "kana": "ㄧㄡˋ",
         "answer": "ㄧㄡˋ"
       },
       {
         "japanese": "佐",
-        "english": "ㄗㄨㄛˇ",
+        "english": "assistant",
         "furigana": "佐",
         "kana": "ㄗㄨㄛˇ",
         "answer": "ㄗㄨㄛˇ"
       },
       {
         "japanese": "仔",
-        "english": "ㄗˇ",
+        "english": "meticulous",
         "furigana": "仔",
         "kana": "ㄗˇ",
         "answer": "ㄗˇ"
       },
       {
         "japanese": "俏",
-        "english": "ㄑㄧㄠˋ",
+        "english": "comely",
         "furigana": "俏",
         "kana": "ㄑㄧㄠˋ",
         "answer": "ㄑㄧㄠˋ"
       },
       {
         "japanese": "倘",
-        "english": "ㄊㄤˇ",
+        "english": "if",
         "furigana": "倘",
         "kana": "ㄊㄤˇ",
         "answer": "ㄊㄤˇ"
       },
       {
         "japanese": "倚",
-        "english": "ㄧˇ",
+        "english": "count on",
         "furigana": "倚",
         "kana": "ㄧˇ",
         "answer": "ㄧˇ"
       },
       {
         "japanese": "佳",
-        "english": "ㄐㄧㄚ",
+        "english": "superb",
         "furigana": "佳",
         "kana": "ㄐㄧㄚ",
         "answer": "ㄐㄧㄚ"
       },
       {
         "japanese": "侍",
-        "english": "ㄕˋ",
+        "english": "serve",
         "furigana": "侍",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "伙",
-        "english": "ㄏㄨㄛˇ",
+        "english": "mate",
         "furigana": "伙",
         "kana": "ㄏㄨㄛˇ",
         "answer": "ㄏㄨㄛˇ"
       },
       {
         "japanese": "宿",
-        "english": "ㄙㄨˋ",
+        "english": "stay overnight",
         "furigana": "宿",
         "kana": "ㄙㄨˋ",
         "answer": "ㄙㄨˋ"
       },
       {
         "japanese": "伏",
-        "english": "ㄈㄨˊ",
+        "english": "bend over",
         "furigana": "伏",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "袱",
-        "english": "ㄈㄨˊ",
+        "english": "wrapping cloth",
         "furigana": "袱",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "偷",
-        "english": "ㄊㄡ",
+        "english": "steal",
         "furigana": "偷",
         "kana": "ㄊㄡ",
         "answer": "ㄊㄡ"
       },
       {
         "japanese": "伐",
-        "english": "ㄈㄚ",
+        "english": "fell",
         "furigana": "伐",
         "kana": "ㄈㄚ",
         "answer": "ㄈㄚ"
       },
       {
         "japanese": "佩",
-        "english": "ㄆㄟˋ",
+        "english": "wear at the waist",
         "furigana": "佩",
         "kana": "ㄆㄟˋ",
         "answer": "ㄆㄟˋ"
       },
       {
         "japanese": "佈",
-        "english": "ㄅㄨˋ",
+        "english": "announce",
         "furigana": "佈",
         "kana": "ㄅㄨˋ",
         "answer": "ㄅㄨˋ"
       },
       {
         "japanese": "僑",
-        "english": "ㄑㄧㄠˊ",
+        "english": "live abroad",
         "furigana": "僑",
         "kana": "ㄑㄧㄠˊ",
         "answer": "ㄑㄧㄠˊ"
       },
       {
         "japanese": "億",
-        "english": "ㄧˋ",
+        "english": "one hundred million",
         "furigana": "億",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "傾",
-        "english": "ㄑㄧㄥ",
+        "english": "incline",
         "furigana": "傾",
         "kana": "ㄑㄧㄥ",
         "answer": "ㄑㄧㄥ"
       },
       {
         "japanese": "侮",
-        "english": "ㄨˇ",
+        "english": "insult",
         "furigana": "侮",
         "kana": "ㄨˇ",
         "answer": "ㄨˇ"
       },
       {
         "japanese": "倍",
-        "english": "ㄅㄟˋ",
+        "english": "times",
         "furigana": "倍",
         "kana": "ㄅㄟˋ",
         "answer": "ㄅㄟˋ"
       },
       {
         "japanese": "仿",
-        "english": "ㄈㄤˇ",
+        "english": "mimic",
         "furigana": "仿",
         "kana": "ㄈㄤˇ",
         "answer": "ㄈㄤˇ"
       },
       {
         "japanese": "傲",
-        "english": "ㄠˋ",
+        "english": "haughty",
         "furigana": "傲",
         "kana": "ㄠˋ",
         "answer": "ㄠˋ"
       },
       {
         "japanese": "僧",
-        "english": "ㄙㄥ",
+        "english": "buddhist monk",
         "furigana": "僧",
         "kana": "ㄙㄥ",
         "answer": "ㄙㄥ"
       },
       {
         "japanese": "悠",
-        "english": "ㄧㄡ",
+        "english": "without haste",
         "furigana": "悠",
         "kana": "ㄧㄡ",
         "answer": "ㄧㄡ"
       },
       {
         "japanese": "俄",
-        "english": "ㄜˊ",
+        "english": "russia",
         "furigana": "俄",
         "kana": "ㄜˊ",
         "answer": "ㄜˊ"
       },
       {
         "japanese": "儀",
-        "english": "ㄧˊ",
+        "english": "rite",
         "furigana": "儀",
         "kana": "ㄧˊ",
         "answer": "ㄧˊ"
       },
       {
         "japanese": "侄",
-        "english": "ㄓˊ",
+        "english": "nephew",
         "furigana": "侄",
         "kana": "ㄓˊ",
         "answer": "ㄓˊ"
       },
       {
         "japanese": "仙",
-        "english": "ㄒㄧㄢ",
+        "english": "immortal",
         "furigana": "仙",
         "kana": "ㄒㄧㄢ",
         "answer": "ㄒㄧㄢ"
       },
       {
         "japanese": "俗",
-        "english": "ㄙㄨˊ",
+        "english": "custom",
         "furigana": "俗",
         "kana": "ㄙㄨˊ",
         "answer": "ㄙㄨˊ"
       },
       {
         "japanese": "償",
-        "english": "ㄔㄤˊ",
+        "english": "repay",
         "furigana": "償",
         "kana": "ㄔㄤˊ",
         "answer": "ㄔㄤˊ"
       },
       {
         "japanese": "臥",
-        "english": "ㄨㄛˋ",
+        "english": "for sleeping",
         "furigana": "臥",
         "kana": "ㄨㄛˋ",
         "answer": "ㄨㄛˋ"
       },
       {
         "japanese": "傍",
-        "english": "ㄅㄤˋ",
+        "english": "close to",
         "furigana": "傍",
         "kana": "ㄅㄤˋ",
         "answer": "ㄅㄤˋ"
       },
       {
         "japanese": "俺",
-        "english": "ㄢˇ",
+        "english": "we (exclusive)",
         "furigana": "俺",
         "kana": "ㄢˇ",
         "answer": "ㄢˇ"
       },
       {
         "japanese": "淹",
-        "english": "ㄧㄢ",
+        "english": "inundate",
         "furigana": "淹",
         "kana": "ㄧㄢ",
         "answer": "ㄧㄢ"
       },
       {
         "japanese": "掩",
-        "english": "ㄧㄢˇ",
+        "english": "conceal",
         "furigana": "掩",
         "kana": "ㄧㄢˇ",
         "answer": "ㄧㄢˇ"
       },
       {
         "japanese": "催",
-        "english": "ㄘㄨㄟ",
+        "english": "prod",
         "furigana": "催",
         "kana": "ㄘㄨㄟ",
         "answer": "ㄘㄨㄟ"
       },
       {
         "japanese": "摧",
-        "english": "ㄘㄨㄟ",
+        "english": "wreck",
         "furigana": "摧",
         "kana": "ㄘㄨㄟ",
         "answer": "ㄘㄨㄟ"
       },
       {
         "japanese": "攜",
-        "english": "ㄒㄧ",
+        "english": "take along",
         "furigana": "攜",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "符",
-        "english": "ㄈㄨˊ",
+        "english": "symbol",
         "furigana": "符",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "貸",
-        "english": "ㄉㄞˋ",
+        "english": "loan",
         "furigana": "貸",
         "kana": "ㄉㄞˋ",
         "answer": "ㄉㄞˋ"
       },
       {
         "japanese": "荷",
-        "english": "ㄏㄜˊ",
+        "english": "holland",
         "furigana": "荷",
         "kana": "ㄏㄜˊ",
         "answer": "ㄏㄜˊ"
       },
       {
         "japanese": "仗",
-        "english": "ㄓㄤˋ",
+        "english": "battle",
         "furigana": "仗",
         "kana": "ㄓㄤˋ",
         "answer": "ㄓㄤˋ"
       },
       {
         "japanese": "杖",
-        "english": "ㄓㄤˋ",
+        "english": "cane",
         "furigana": "杖",
         "kana": "ㄓㄤˋ",
         "answer": "ㄓㄤˋ"
       },
       {
         "japanese": "夾",
-        "english": "ㄐㄧㄚˊ",
+        "english": "press from both sides",
         "furigana": "夾",
         "kana": "ㄐㄧㄚˊ",
         "answer": "ㄐㄧㄚˊ"
       },
       {
         "japanese": "俠",
-        "english": "ㄒㄧㄚˊ",
+        "english": "chivalrous person",
         "furigana": "俠",
         "kana": "ㄒㄧㄚˊ",
         "answer": "ㄒㄧㄚˊ"
       },
       {
         "japanese": "頰",
-        "english": "ㄐㄧㄚˊ",
+        "english": "cheek",
         "furigana": "頰",
         "kana": "ㄐㄧㄚˊ",
         "answer": "ㄐㄧㄚˊ"
       },
       {
         "japanese": "狹",
-        "english": "ㄒㄧㄚˊ",
+        "english": "narrow",
         "furigana": "狹",
         "kana": "ㄒㄧㄚˊ",
         "answer": "ㄒㄧㄚˊ"
       },
       {
         "japanese": "挾",
-        "english": "ㄒㄧㄝˊ",
+        "english": "coerce",
         "furigana": "挾",
         "kana": "ㄒㄧㄝˊ",
         "answer": "ㄒㄧㄝˊ"
       },
       {
         "japanese": "峽",
-        "english": "ㄒㄧㄚˊ",
+        "english": "gorge",
         "furigana": "峽",
         "kana": "ㄒㄧㄚˊ",
         "answer": "ㄒㄧㄚˊ"
       },
       {
         "japanese": "傘",
-        "english": "ㄙㄢˇ",
+        "english": "umbrella",
         "furigana": "傘",
         "kana": "ㄙㄢˇ",
         "answer": "ㄙㄢˇ"
       },
       {
         "japanese": "聚",
-        "english": "ㄐㄩˋ",
+        "english": "assemble",
         "furigana": "聚",
         "kana": "ㄐㄩˋ",
         "answer": "ㄐㄩˋ"
       },
       {
         "japanese": "挫",
-        "english": "ㄘㄨㄛˋ",
+        "english": "frustrate",
         "furigana": "挫",
         "kana": "ㄘㄨㄛˋ",
         "answer": "ㄘㄨㄛˋ"
       },
       {
         "japanese": "劍",
-        "english": "ㄐㄧㄢˋ",
+        "english": "saber",
         "furigana": "劍",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "斂",
-        "english": "ㄌㄧㄢˋ",
+        "english": "restrain",
         "furigana": "斂",
         "kana": "ㄌㄧㄢˋ",
         "answer": "ㄌㄧㄢˋ"
       },
       {
         "japanese": "撿",
-        "english": "ㄐㄧㄢˇ",
+        "english": "pick up",
         "furigana": "撿",
         "kana": "ㄐㄧㄢˇ",
         "answer": "ㄐㄧㄢˇ"
       },
       {
         "japanese": "簽",
-        "english": "ㄑㄧㄢ",
+        "english": "sign",
         "furigana": "簽",
         "kana": "ㄑㄧㄢ",
         "answer": "ㄑㄧㄢ"
       },
       {
         "japanese": "儉",
-        "english": "ㄐㄧㄢˇ",
+        "english": "thrifty",
         "furigana": "儉",
         "kana": "ㄐㄧㄢˇ",
         "answer": "ㄐㄧㄢˇ"
       },
       {
         "japanese": "萊",
-        "english": "ㄌㄞˊ",
+        "english": "lambsquarters",
         "furigana": "萊",
         "kana": "ㄌㄞˊ",
         "answer": "ㄌㄞˊ"
       },
       {
         "japanese": "葛",
-        "english": "ㄍㄜˊ",
+        "english": "kudzu",
         "furigana": "葛",
         "kana": "ㄍㄜˊ",
         "answer": "ㄍㄜˊ"
       },
       {
         "japanese": "褐",
-        "english": "ㄏㄜˊ",
+        "english": "brown",
         "furigana": "褐",
         "kana": "ㄏㄜˊ",
         "answer": "ㄏㄜˊ"
       },
       {
         "japanese": "竭",
-        "english": "ㄐㄧㄝˊ",
+        "english": "use up",
         "furigana": "竭",
         "kana": "ㄐㄧㄝˊ",
         "answer": "ㄐㄧㄝˊ"
       },
       {
         "japanese": "歇",
-        "english": "ㄒㄧㄝ",
+        "english": "take a rest",
         "furigana": "歇",
         "kana": "ㄒㄧㄝ",
         "answer": "ㄒㄧㄝ"
       },
       {
         "japanese": "揭",
-        "english": "ㄐㄧㄝ",
+        "english": "reveal",
         "furigana": "揭",
         "kana": "ㄐㄧㄝ",
         "answer": "ㄐㄧㄝ"
       },
       {
         "japanese": "淫",
-        "english": "ㄧㄣˊ",
+        "english": "promiscuous",
         "furigana": "淫",
         "kana": "ㄧㄣˊ",
         "answer": "ㄧㄣˊ"
       },
       {
         "japanese": "挺",
-        "english": "ㄊㄧㄥˇ",
+        "english": "erect",
         "furigana": "挺",
         "kana": "ㄊㄧㄥˇ",
         "answer": "ㄊㄧㄥˇ"
       },
       {
         "japanese": "瓦",
-        "english": "ㄨㄚˇ",
+        "english": "tile",
         "furigana": "瓦",
         "kana": "ㄨㄚˇ",
         "answer": "ㄨㄚˇ"
       },
       {
         "japanese": "瓷",
-        "english": "ㄘˊ",
+        "english": "porcelain",
         "furigana": "瓷",
         "kana": "ㄘˊ",
         "answer": "ㄘˊ"
       },
       {
         "japanese": "瓶",
-        "english": "ㄆㄧㄥˊ",
+        "english": "bottle",
         "furigana": "瓶",
         "kana": "ㄆㄧㄥˊ",
         "answer": "ㄆㄧㄥˊ"
       },
       {
         "japanese": "鋁",
-        "english": "ㄌㄩˇ",
+        "english": "aluminum",
         "furigana": "鋁",
         "kana": "ㄌㄩˇ",
         "answer": "ㄌㄩˇ"
       },
       {
         "japanese": "宮",
-        "english": "ㄍㄨㄥ",
+        "english": "palace",
         "furigana": "宮",
         "kana": "ㄍㄨㄥ",
         "answer": "ㄍㄨㄥ"
       },
       {
         "japanese": "瑩",
-        "english": "ㄧㄥˊ",
+        "english": "lustrous",
         "furigana": "瑩",
         "kana": "ㄧㄥˊ",
         "answer": "ㄧㄥˊ"
       },
       {
         "japanese": "螢",
-        "english": "ㄧㄥˊ",
+        "english": "firefly",
         "furigana": "螢",
         "kana": "ㄧㄥˊ",
         "answer": "ㄧㄥˊ"
       },
       {
         "japanese": "撈",
-        "english": "ㄌㄠ",
+        "english": "scoop up",
         "furigana": "撈",
         "kana": "ㄌㄠ",
         "answer": "ㄌㄠ"
       },
       {
         "japanese": "煥",
-        "english": "ㄏㄨㄢˋ",
+        "english": "glowing",
         "furigana": "煥",
         "kana": "ㄏㄨㄢˋ",
         "answer": "ㄏㄨㄢˋ"
       },
       {
         "japanese": "旋",
-        "english": "ㄒㄩㄢˊ",
+        "english": "whirl",
         "furigana": "旋",
         "kana": "ㄒㄩㄢˊ",
         "answer": "ㄒㄩㄢˊ"
       },
       {
         "japanese": "吻",
-        "english": "ㄨㄣˇ",
+        "english": "kiss",
         "furigana": "吻",
         "kana": "ㄨㄣˇ",
         "answer": "ㄨㄣˇ"
       },
       {
         "japanese": "匆",
-        "english": "ㄘㄨㄥ",
+        "english": "hurriedly",
         "furigana": "匆",
         "kana": "ㄘㄨㄥ",
         "answer": "ㄘㄨㄥ"
       },
       {
         "japanese": "錫",
-        "english": "ㄒㄧˊ",
+        "english": "tin",
         "furigana": "錫",
         "kana": "ㄒㄧˊ",
         "answer": "ㄒㄧˊ"
       },
       {
         "japanese": "惕",
-        "english": "ㄊㄧˋ",
+        "english": "watchful",
         "furigana": "惕",
         "kana": "ㄊㄧˋ",
         "answer": "ㄊㄧˋ"
       },
       {
         "japanese": "屑",
-        "english": "ㄒㄧㄝˋ",
+        "english": "bits",
         "furigana": "屑",
         "kana": "ㄒㄧㄝˋ",
         "answer": "ㄒㄧㄝˋ"
       },
       {
         "japanese": "尿",
-        "english": "ㄋㄧㄠˋ",
+        "english": "urine",
         "furigana": "尿",
         "kana": "ㄋㄧㄠˋ",
         "answer": "ㄋㄧㄠˋ"
       },
       {
         "japanese": "刷",
-        "english": "ㄕㄨㄚ",
+        "english": "brush",
         "furigana": "刷",
         "kana": "ㄕㄨㄚ",
         "answer": "ㄕㄨㄚ"
       },
       {
         "japanese": "犀",
-        "english": "ㄒㄧ",
+        "english": "rhinoceros",
         "furigana": "犀",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "遲",
-        "english": "ㄔˊ",
+        "english": "tardy",
         "furigana": "遲",
         "kana": "ㄔˊ",
         "answer": "ㄔˊ"
       },
       {
         "japanese": "漏",
-        "english": "ㄌㄡˋ",
+        "english": "leak",
         "furigana": "漏",
         "kana": "ㄌㄡˋ",
         "answer": "ㄌㄡˋ"
       },
       {
         "japanese": "屁",
-        "english": "ㄆㄧˋ",
+        "english": "fart",
         "furigana": "屁",
         "kana": "ㄆㄧˋ",
         "answer": "ㄆㄧˋ"
       },
       {
         "japanese": "履",
-        "english": "ㄌㄩˇ",
+        "english": "footwear",
         "furigana": "履",
         "kana": "ㄌㄩˇ",
         "answer": "ㄌㄩˇ"
       },
       {
         "japanese": "屎",
-        "english": "ㄕˇ",
+        "english": "excrement",
         "furigana": "屎",
         "kana": "ㄕˇ",
         "answer": "ㄕˇ"
       },
       {
         "japanese": "屏",
-        "english": "ㄆㄧㄥˊ",
+        "english": "folding screen",
         "furigana": "屏",
         "kana": "ㄆㄧㄥˊ",
         "answer": "ㄆㄧㄥˊ"
       },
       {
         "japanese": "屈",
-        "english": "ㄑㄩ",
+        "english": "knuckle under",
         "furigana": "屈",
         "kana": "ㄑㄩ",
         "answer": "ㄑㄩ"
       },
       {
         "japanese": "掘",
-        "english": "ㄐㄩㄝˊ",
+        "english": "excavate",
         "furigana": "掘",
         "kana": "ㄐㄩㄝˊ",
         "answer": "ㄐㄩㄝˊ"
       },
       {
         "japanese": "尺",
-        "english": "ㄔˇ",
+        "english": "ruler",
         "furigana": "尺",
         "kana": "ㄔˇ",
         "answer": "ㄔˇ"
       },
       {
         "japanese": "眉",
-        "english": "ㄇㄟˊ",
+        "english": "eyebrows",
         "furigana": "眉",
         "kana": "ㄇㄟˊ",
         "answer": "ㄇㄟˊ"
       },
       {
         "japanese": "媚",
-        "english": "ㄇㄟˋ",
+        "english": "flatter",
         "furigana": "媚",
         "kana": "ㄇㄟˋ",
         "answer": "ㄇㄟˋ"
       },
       {
         "japanese": "肩",
-        "english": "ㄐㄧㄢ",
+        "english": "shoulder",
         "furigana": "肩",
         "kana": "ㄐㄧㄢ",
         "answer": "ㄐㄧㄢ"
       },
       {
         "japanese": "妒",
-        "english": "ㄉㄨˋ",
+        "english": "jealous of",
         "furigana": "妒",
         "kana": "ㄉㄨˋ",
         "answer": "ㄉㄨˋ"
       },
       {
         "japanese": "淚",
-        "english": "ㄌㄟˋ",
+        "english": "tears",
         "furigana": "淚",
         "kana": "ㄌㄟˋ",
         "answer": "ㄌㄟˋ"
       },
       {
         "japanese": "啓",
-        "english": "ㄑㄧˇ",
+        "english": "enlighten",
         "furigana": "啓",
         "kana": "ㄑㄧˇ",
         "answer": "ㄑㄧˇ"
       },
       {
         "japanese": "扇",
-        "english": "ㄕㄢˋ",
+        "english": "fan",
         "furigana": "扇",
         "kana": "ㄕㄢˋ",
         "answer": "ㄕㄢˋ"
       },
       {
         "japanese": "奈",
-        "english": "ㄋㄞˋ",
+        "english": "can't help but",
         "furigana": "奈",
         "kana": "ㄋㄞˋ",
         "answer": "ㄋㄞˋ"
       },
       {
         "japanese": "款",
-        "english": "ㄎㄨㄢˇ",
+        "english": "funds",
         "furigana": "款",
         "kana": "ㄎㄨㄢˇ",
         "answer": "ㄎㄨㄢˇ"
       },
       {
         "japanese": "祟",
-        "english": "ㄙㄨㄟˋ",
+        "english": "evil spirit",
         "furigana": "祟",
         "kana": "ㄙㄨㄟˋ",
         "answer": "ㄙㄨㄟˋ"
       },
       {
         "japanese": "祝",
-        "english": "ㄓㄨˋ",
+        "english": "wish well",
         "furigana": "祝",
         "kana": "ㄓㄨˋ",
         "answer": "ㄓㄨˋ"
       },
       {
         "japanese": "祥",
-        "english": "ㄒㄧㄤˊ",
+        "english": "propitious",
         "furigana": "祥",
         "kana": "ㄒㄧㄤˊ",
         "answer": "ㄒㄧㄤˊ"
       },
       {
         "japanese": "祕",
-        "english": "ㄇㄧˋ",
+        "english": "confidential",
         "furigana": "祕",
         "kana": "ㄇㄧˋ",
         "answer": "ㄇㄧˋ"
       },
       {
         "japanese": "慰",
-        "english": "ㄨㄟˋ",
+        "english": "console",
         "furigana": "慰",
         "kana": "ㄨㄟˋ",
         "answer": "ㄨㄟˋ"
       },
       {
         "japanese": "蔚",
-        "english": "ㄨㄟˋ",
+        "english": "luxuriant",
         "furigana": "蔚",
         "kana": "ㄨㄟˋ",
         "answer": "ㄨㄟˋ"
       },
       {
         "japanese": "蒜",
-        "english": "ㄙㄨㄢˋ",
+        "english": "garlic",
         "furigana": "蒜",
         "kana": "ㄙㄨㄢˋ",
         "answer": "ㄙㄨㄢˋ"
       },
       {
         "japanese": "棕",
-        "english": "ㄗㄨㄥ",
+        "english": "palm tree",
         "furigana": "棕",
         "kana": "ㄗㄨㄥ",
         "answer": "ㄗㄨㄥ"
       },
       {
         "japanese": "宙",
-        "english": "ㄓㄡˋ",
+        "english": "universe",
         "furigana": "宙",
         "kana": "ㄓㄡˋ",
         "answer": "ㄓㄡˋ"
       },
       {
         "japanese": "軸",
-        "english": "ㄓㄡˊ",
+        "english": "axle",
         "furigana": "軸",
         "kana": "ㄓㄡˊ",
         "answer": "ㄓㄡˊ"
       },
       {
         "japanese": "袖",
-        "english": "ㄒㄧㄡˋ",
+        "english": "sleeve",
         "furigana": "袖",
         "kana": "ㄒㄧㄡˋ",
         "answer": "ㄒㄧㄡˋ"
       },
       {
         "japanese": "笛",
-        "english": "ㄉㄧˊ",
+        "english": "flute",
         "furigana": "笛",
         "kana": "ㄉㄧˊ",
         "answer": "ㄉㄧˊ"
       },
       {
         "japanese": "坤",
-        "english": "ㄎㄨㄣ",
+        "english": "female",
         "furigana": "坤",
         "kana": "ㄎㄨㄣ",
         "answer": "ㄎㄨㄣ"
       },
       {
         "japanese": "呻",
-        "english": "ㄕㄣ",
+        "english": "groan",
         "furigana": "呻",
         "kana": "ㄕㄣ",
         "answer": "ㄕㄣ"
       },
       {
         "japanese": "暢",
-        "english": "ㄔㄤˋ",
+        "english": "smooth",
         "furigana": "暢",
         "kana": "ㄔㄤˋ",
         "answer": "ㄔㄤˋ"
       },
       {
         "japanese": "夥",
-        "english": "ㄏㄨㄛˇ",
+        "english": "partnership",
         "furigana": "夥",
         "kana": "ㄏㄨㄛˇ",
         "answer": "ㄏㄨㄛˇ"
       },
       {
         "japanese": "巢",
-        "english": "ㄔㄠˊ",
+        "english": "nest",
         "furigana": "巢",
         "kana": "ㄔㄠˊ",
         "answer": "ㄔㄠˊ"
       },
       {
         "japanese": "棵",
-        "english": "ㄎㄜ",
+        "english": "flora",
         "furigana": "棵",
         "kana": "ㄎㄜ",
         "answer": "ㄎㄜ"
       },
       {
         "japanese": "裸",
-        "english": "ㄌㄨㄛˇ",
+        "english": "naked",
         "furigana": "裸",
         "kana": "ㄌㄨㄛˇ",
         "answer": "ㄌㄨㄛˇ"
       },
       {
         "japanese": "裹",
-        "english": "ㄍㄨㄛˇ",
+        "english": "envelop",
         "furigana": "裹",
         "kana": "ㄍㄨㄛˇ",
         "answer": "ㄍㄨㄛˇ"
       },
       {
         "japanese": "析",
-        "english": "ㄒㄧ",
+        "english": "analyze",
         "furigana": "析",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "晰",
-        "english": "ㄒㄧ",
+        "english": "distinct",
         "furigana": "晰",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "芹",
-        "english": "ㄑㄧㄣˊ",
+        "english": "celery",
         "furigana": "芹",
         "kana": "ㄑㄧㄣˊ",
         "answer": "ㄑㄧㄣˊ"
       },
       {
         "japanese": "折",
-        "english": "ㄓㄜˊ",
+        "english": "discount",
         "furigana": "折",
         "kana": "ㄓㄜˊ",
         "answer": "ㄓㄜˊ"
       },
       {
         "japanese": "哲",
-        "english": "ㄓㄜˊ",
+        "english": "philosopher",
         "furigana": "哲",
         "kana": "ㄓㄜˊ",
         "answer": "ㄓㄜˊ"
       },
       {
         "japanese": "逝",
-        "english": "ㄕˋ",
+        "english": "pass away",
         "furigana": "逝",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "誓",
-        "english": "ㄕˋ",
+        "english": "vow",
         "furigana": "誓",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "欣",
-        "english": "ㄒㄧㄣ",
+        "english": "elated",
         "furigana": "欣",
         "kana": "ㄒㄧㄣ",
         "answer": "ㄒㄧㄣ"
       },
       {
         "japanese": "掀",
-        "english": "ㄒㄧㄢ",
+        "english": "uncover",
         "furigana": "掀",
         "kana": "ㄒㄧㄢ",
         "answer": "ㄒㄧㄢ"
       },
       {
         "japanese": "祈",
-        "english": "ㄑㄧˊ",
+        "english": "supplicate",
         "furigana": "祈",
         "kana": "ㄑㄧˊ",
         "answer": "ㄑㄧˊ"
       },
       {
         "japanese": "慚",
-        "english": "ㄘㄢˊ",
+        "english": "conscience-stricken",
         "furigana": "慚",
         "kana": "ㄘㄢˊ",
         "answer": "ㄘㄢˊ"
       },
       {
         "japanese": "嶄",
-        "english": "ㄓㄢˇ",
+        "english": "towering",
         "furigana": "嶄",
         "kana": "ㄓㄢˇ",
         "answer": "ㄓㄢˇ"
       },
       {
         "japanese": "拆",
-        "english": "ㄔㄞ",
+        "english": "take apart",
         "furigana": "拆",
         "kana": "ㄔㄞ",
         "answer": "ㄔㄞ"
       },
       {
         "japanese": "炸",
-        "english": "ㄓㄚˋ",
+        "english": "blow up",
         "furigana": "炸",
         "kana": "ㄓㄚˋ",
         "answer": "ㄓㄚˋ"
       },
       {
         "japanese": "詐",
-        "english": "ㄓㄚˋ",
+        "english": "swindle",
         "furigana": "詐",
         "kana": "ㄓㄚˋ",
         "answer": "ㄓㄚˋ"
       },
       {
         "japanese": "妻",
-        "english": "ㄑㄧ",
+        "english": "wife",
         "furigana": "妻",
         "kana": "ㄑㄧ",
         "answer": "ㄑㄧ"
       },
       {
         "japanese": "淒",
-        "english": "ㄑㄧ",
+        "english": "miserable",
         "furigana": "淒",
         "kana": "ㄑㄧ",
         "answer": "ㄑㄧ"
       },
       {
         "japanese": "棲",
-        "english": "ㄑㄧ",
+        "english": "perch",
         "furigana": "棲",
         "kana": "ㄑㄧ",
         "answer": "ㄑㄧ"
       },
       {
         "japanese": "煞",
-        "english": "ㄕㄚˋ",
+        "english": "goblin",
         "furigana": "煞",
         "kana": "ㄕㄚˋ",
         "answer": "ㄕㄚˋ"
       },
       {
         "japanese": "捷",
-        "english": "ㄐㄧㄝˊ",
+        "english": "nimble",
         "furigana": "捷",
         "kana": "ㄐㄧㄝˊ",
         "answer": "ㄐㄧㄝˊ"
       },
       {
         "japanese": "秉",
-        "english": "ㄅㄧㄥˇ",
+        "english": "wield",
         "furigana": "秉",
         "kana": "ㄅㄧㄥˇ",
         "answer": "ㄅㄧㄥˇ"
       },
       {
         "japanese": "剝",
-        "english": "ㄅㄛ",
+        "english": "peel off",
         "furigana": "剝",
         "kana": "ㄅㄛ",
         "answer": "ㄅㄛ"
       },
       {
         "japanese": "彙",
-        "english": "ㄏㄨㄟˋ",
+        "english": "collection",
         "furigana": "彙",
         "kana": "ㄏㄨㄟˋ",
         "answer": "ㄏㄨㄟˋ"
       },
       {
         "japanese": "兼",
-        "english": "ㄐㄧㄢ",
+        "english": "double",
         "furigana": "兼",
         "kana": "ㄐㄧㄢ",
         "answer": "ㄐㄧㄢ"
       },
       {
         "japanese": "賺",
-        "english": "ㄓㄨㄢˋ",
+        "english": "earn",
         "furigana": "賺",
         "kana": "ㄓㄨㄢˋ",
         "answer": "ㄓㄨㄢˋ"
       },
       {
         "japanese": "嫌",
-        "english": "ㄒㄧㄢˊ",
+        "english": "dislike",
         "furigana": "嫌",
         "kana": "ㄒㄧㄢˊ",
         "answer": "ㄒㄧㄢˊ"
       },
       {
         "japanese": "謙",
-        "english": "ㄑㄧㄢ",
+        "english": "unassuming",
         "furigana": "謙",
         "kana": "ㄑㄧㄢ",
         "answer": "ㄑㄧㄢ"
       },
       {
         "japanese": "歉",
-        "english": "ㄑㄧㄢˋ",
+        "english": "apology",
         "furigana": "歉",
         "kana": "ㄑㄧㄢˋ",
         "answer": "ㄑㄧㄢˋ"
       },
       {
         "japanese": "廉",
-        "english": "ㄌㄧㄢˊ",
+        "english": "inexpensive",
         "furigana": "廉",
         "kana": "ㄌㄧㄢˊ",
         "answer": "ㄌㄧㄢˊ"
       },
       {
         "japanese": "鐮",
-        "english": "ㄌㄧㄢˊ",
+        "english": "sickle",
         "furigana": "鐮",
         "kana": "ㄌㄧㄢˊ",
         "answer": "ㄌㄧㄢˊ"
       },
       {
         "japanese": "簾",
-        "english": "ㄌㄧㄢˊ",
+        "english": "drapes",
         "furigana": "簾",
         "kana": "ㄌㄧㄢˊ",
         "answer": "ㄌㄧㄢˊ"
       },
       {
         "japanese": "睜",
-        "english": "ㄓㄥ",
+        "english": "unshut",
         "furigana": "睜",
         "kana": "ㄓㄥ",
         "answer": "ㄓㄥ"
       },
       {
         "japanese": "掙",
-        "english": "ㄓㄥ",
+        "english": "struggle",
         "furigana": "掙",
         "kana": "ㄓㄥ",
         "answer": "ㄓㄥ"
       },
       {
         "japanese": "箏",
-        "english": "ㄓㄥ",
+        "english": "chinese zither",
         "furigana": "箏",
         "kana": "ㄓㄥ",
         "answer": "ㄓㄥ"
       },
       {
         "japanese": "塘",
-        "english": "ㄊㄤˊ",
+        "english": "pool",
         "furigana": "塘",
         "kana": "ㄊㄤˊ",
         "answer": "ㄊㄤˊ"
       },
       {
         "japanese": "逮",
-        "english": "ㄉㄞˋ",
+        "english": "arrest",
         "furigana": "逮",
         "kana": "ㄉㄞˋ",
         "answer": "ㄉㄞˋ"
       },
       {
         "japanese": "隸",
-        "english": "ㄌㄧˋ",
+        "english": "bondservant",
         "furigana": "隸",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "慷",
-        "english": "ㄎㄤ",
+        "english": "generous",
         "furigana": "慷",
         "kana": "ㄎㄤ",
         "answer": "ㄎㄤ"
       },
       {
         "japanese": "糠",
-        "english": "ㄎㄤ",
+        "english": "chaff",
         "furigana": "糠",
         "kana": "ㄎㄤ",
         "answer": "ㄎㄤ"
       },
       {
         "japanese": "耍",
-        "english": "ㄕㄨㄚˇ",
+        "english": "mess around",
         "furigana": "耍",
         "kana": "ㄕㄨㄚˇ",
         "answer": "ㄕㄨㄚˇ"
       },
       {
         "japanese": "耐",
-        "english": "ㄋㄞˋ",
+        "english": "-proof",
         "furigana": "耐",
         "kana": "ㄋㄞˋ",
         "answer": "ㄋㄞˋ"
       },
       {
         "japanese": "喘",
-        "english": "ㄔㄨㄢˇ",
+        "english": "wheeze",
         "furigana": "喘",
         "kana": "ㄔㄨㄢˇ",
         "answer": "ㄔㄨㄢˇ"
       },
       {
         "japanese": "揣",
-        "english": "ㄔㄨㄞˇ",
+        "english": "conjecture",
         "furigana": "揣",
         "kana": "ㄔㄨㄞˇ",
         "answer": "ㄔㄨㄞˇ"
       },
       {
         "japanese": "糟",
-        "english": "ㄗㄠ",
+        "english": "messed up",
         "furigana": "糟",
         "kana": "ㄗㄠ",
         "answer": "ㄗㄠ"
       },
       {
         "japanese": "遭",
-        "english": "ㄗㄠ",
+        "english": "meet with",
         "furigana": "遭",
         "kana": "ㄗㄠ",
         "answer": "ㄗㄠ"
       },
       {
         "japanese": "槽",
-        "english": "ㄘㄠˊ",
+        "english": "trough",
         "furigana": "槽",
         "kana": "ㄘㄠˊ",
         "answer": "ㄘㄠˊ"
       },
       {
         "japanese": "抖",
-        "english": "ㄉㄡˇ",
+        "english": "quiver",
         "furigana": "抖",
         "kana": "ㄉㄡˇ",
         "answer": "ㄉㄡˇ"
       },
       {
         "japanese": "庸",
-        "english": "ㄩㄥ",
+        "english": "mediocre",
         "furigana": "庸",
         "kana": "ㄩㄥ",
         "answer": "ㄩㄥ"
       },
       {
         "japanese": "傭",
-        "english": "ㄩㄥ",
+        "english": "put to work",
         "furigana": "傭",
         "kana": "ㄩㄥ",
         "answer": "ㄩㄥ"
       },
       {
         "japanese": "甩",
-        "english": "ㄕㄨㄞˇ",
+        "english": "fling",
         "furigana": "甩",
         "kana": "ㄕㄨㄞˇ",
         "answer": "ㄕㄨㄞˇ"
       },
       {
         "japanese": "惜",
-        "english": "ㄒㄧˊ",
+        "english": "rue",
         "furigana": "惜",
         "kana": "ㄒㄧˊ",
         "answer": "ㄒㄧˊ"
       },
       {
         "japanese": "措",
-        "english": "ㄘㄨㄛˋ",
+        "english": "arrange",
         "furigana": "措",
         "kana": "ㄘㄨㄛˋ",
         "answer": "ㄘㄨㄛˋ"
       },
       {
         "japanese": "棄",
-        "english": "ㄑㄧˋ",
+        "english": "forsake",
         "furigana": "棄",
         "kana": "ㄑㄧˋ",
         "answer": "ㄑㄧˋ"
       },
       {
         "japanese": "燕",
-        "english": "ㄧㄢˋ",
+        "english": "swallow",
         "furigana": "燕",
         "kana": "ㄧㄢˋ",
         "answer": "ㄧㄢˋ"
       },
       {
         "japanese": "遮",
-        "english": "ㄓㄜ",
+        "english": "screen",
         "furigana": "遮",
         "kana": "ㄓㄜ",
         "answer": "ㄓㄜ"
       },
       {
         "japanese": "畔",
-        "english": "ㄆㄢˋ",
+        "english": "littoral",
         "furigana": "畔",
         "kana": "ㄆㄢˋ",
         "answer": "ㄆㄢˋ"
       },
       {
         "japanese": "拌",
-        "english": "ㄅㄢˋ",
+        "english": "blend",
         "furigana": "拌",
         "kana": "ㄅㄢˋ",
         "answer": "ㄅㄢˋ"
       },
       {
         "japanese": "叛",
-        "english": "ㄆㄢˋ",
+        "english": "betray",
         "furigana": "叛",
         "kana": "ㄆㄢˋ",
         "answer": "ㄆㄢˋ"
       },
       {
         "japanese": "券",
-        "english": "ㄑㄩㄢˋ",
+        "english": "voucher",
         "furigana": "券",
         "kana": "ㄑㄩㄢˋ",
         "answer": "ㄑㄩㄢˋ"
       },
       {
         "japanese": "藤",
-        "english": "ㄊㄥˊ",
+        "english": "rattan",
         "furigana": "藤",
         "kana": "ㄊㄥˊ",
         "answer": "ㄊㄥˊ"
       },
       {
         "japanese": "狀",
-        "english": "ㄓㄨㄤˋ",
+        "english": "state of affairs",
         "furigana": "狀",
         "kana": "ㄓㄨㄤˋ",
         "answer": "ㄓㄨㄤˋ"
       },
       {
         "japanese": "牆",
-        "english": "ㄑㄧㄤˊ",
+        "english": "wall",
         "furigana": "牆",
         "kana": "ㄑㄧㄤˊ",
         "answer": "ㄑㄧㄤˊ"
       },
       {
         "japanese": "鼎",
-        "english": "ㄉㄧㄥˇ",
+        "english": "old cooking pot",
         "furigana": "鼎",
         "kana": "ㄉㄧㄥˇ",
         "answer": "ㄉㄧㄥˇ"
       },
       {
         "japanese": "寢",
-        "english": "ㄑㄧㄣˇ",
+        "english": "get some shuteye",
         "furigana": "寢",
         "kana": "ㄑㄧㄣˇ",
         "answer": "ㄑㄧㄣˇ"
       },
       {
         "japanese": "侵",
-        "english": "ㄑㄧㄣ",
+        "english": "invade",
         "furigana": "侵",
         "kana": "ㄑㄧㄣ",
         "answer": "ㄑㄧㄣ"
       },
       {
         "japanese": "浸",
-        "english": "ㄐㄧㄣˋ",
+        "english": "immerse",
         "furigana": "浸",
         "kana": "ㄐㄧㄣˋ",
         "answer": "ㄐㄧㄣˋ"
       },
       {
         "japanese": "贓",
-        "english": "ㄗㄤ",
+        "english": "stolen goods",
         "furigana": "贓",
         "kana": "ㄗㄤ",
         "answer": "ㄗㄤ"
       },
       {
         "japanese": "藏",
-        "english": "ㄘㄤˊ",
+        "english": "hide",
         "furigana": "藏",
         "kana": "ㄘㄤˊ",
         "answer": "ㄘㄤˊ"
       },
       {
         "japanese": "臟",
-        "english": "ㄗㄤˋ",
+        "english": "guts",
         "furigana": "臟",
         "kana": "ㄗㄤˋ",
         "answer": "ㄗㄤˋ"
       },
       {
         "japanese": "獎",
-        "english": "ㄐㄧㄤˇ",
+        "english": "award",
         "furigana": "獎",
         "kana": "ㄐㄧㄤˇ",
         "answer": "ㄐㄧㄤˇ"
       },
       {
         "japanese": "漿",
-        "english": "ㄐㄧㄤ",
+        "english": "thick liquid",
         "furigana": "漿",
         "kana": "ㄐㄧㄤ",
         "answer": "ㄐㄧㄤ"
       },
       {
         "japanese": "槳",
-        "english": "ㄐㄧㄤˇ",
+        "english": "oar",
         "furigana": "槳",
         "kana": "ㄐㄧㄤˇ",
         "answer": "ㄐㄧㄤˇ"
       },
       {
         "japanese": "蔣",
-        "english": "ㄐㄧㄤˇ",
+        "english": "jiang",
         "furigana": "蔣",
         "kana": "ㄐㄧㄤˇ",
         "answer": "ㄐㄧㄤˇ"
       },
       {
         "japanese": "淵",
-        "english": "ㄩㄢ",
+        "english": "abyss",
         "furigana": "淵",
         "kana": "ㄩㄢ",
         "answer": "ㄩㄢ"
       },
       {
         "japanese": "肅",
-        "english": "ㄙㄨˋ",
+        "english": "solemn",
         "furigana": "肅",
         "kana": "ㄙㄨˋ",
         "answer": "ㄙㄨˋ"
       },
       {
         "japanese": "嘯",
-        "english": "ㄒㄧㄠˋ",
+        "english": "howl",
         "furigana": "嘯",
         "kana": "ㄒㄧㄠˋ",
         "answer": "ㄒㄧㄠˋ"
       },
       {
         "japanese": "蕭",
-        "english": "ㄒㄧㄠ",
+        "english": "desolate",
         "furigana": "蕭",
         "kana": "ㄒㄧㄠ",
         "answer": "ㄒㄧㄠ"
       },
       {
         "japanese": "鏽",
-        "english": "ㄒㄧㄡˋ",
+        "english": "rust",
         "furigana": "鏽",
         "kana": "ㄒㄧㄡˋ",
         "answer": "ㄒㄧㄡˋ"
       },
       {
         "japanese": "芝",
-        "english": "ㄓ",
+        "english": "sesame",
         "furigana": "芝",
         "kana": "ㄓ",
         "answer": "ㄓ"
       },
       {
         "japanese": "貶",
-        "english": "ㄅㄧㄢˇ",
+        "english": "devalue",
         "furigana": "貶",
         "kana": "ㄅㄧㄢˇ",
         "answer": "ㄅㄧㄢˇ"
       },
       {
         "japanese": "泛",
-        "english": "ㄈㄢˋ",
+        "english": "nonspecific",
         "furigana": "泛",
         "kana": "ㄈㄢˋ",
         "answer": "ㄈㄢˋ"
       },
       {
         "japanese": "歪",
-        "english": "ㄨㄞ",
+        "english": "askew",
         "furigana": "歪",
         "kana": "ㄨㄞ",
         "answer": "ㄨㄞ"
       },
       {
         "japanese": "矯",
-        "english": "ㄐㄧㄠˇ",
+        "english": "rectify",
         "furigana": "矯",
         "kana": "ㄐㄧㄠˇ",
         "answer": "ㄐㄧㄠˇ"
       },
       {
         "japanese": "矮",
-        "english": "ㄞˇ",
+        "english": "short of stature",
         "furigana": "矮",
         "kana": "ㄞˇ",
         "answer": "ㄞˇ"
       },
       {
         "japanese": "唉",
-        "english": "ㄞ",
+        "english": "sigh--ay-ay",
         "furigana": "唉",
         "kana": "ㄞ",
         "answer": "ㄞ"
       },
       {
         "japanese": "埃",
-        "english": "ㄞ",
+        "english": "fine dust",
         "furigana": "埃",
         "kana": "ㄞ",
         "answer": "ㄞ"
       },
       {
         "japanese": "挨",
-        "english": "ㄞ",
+        "english": "suffer",
         "furigana": "挨",
         "kana": "ㄞ",
         "answer": "ㄞ"
       },
       {
         "japanese": "簇",
-        "english": "ㄘㄨˋ",
+        "english": "cluster",
         "furigana": "簇",
         "kana": "ㄘㄨˋ",
         "answer": "ㄘㄨˋ"
       },
       {
         "japanese": "茅",
-        "english": "ㄇㄠˊ",
+        "english": "thatch",
         "furigana": "茅",
         "kana": "ㄇㄠˊ",
         "answer": "ㄇㄠˊ"
       },
       {
         "japanese": "橘",
-        "english": "ㄐㄩˊ",
+        "english": "tangerine",
         "furigana": "橘",
         "kana": "ㄐㄩˊ",
         "answer": "ㄐㄩˊ"
       },
       {
         "japanese": "舒",
-        "english": "ㄕㄨ",
+        "english": "relax",
         "furigana": "舒",
         "kana": "ㄕㄨ",
         "answer": "ㄕㄨ"
       },
       {
         "japanese": "弘",
-        "english": "ㄏㄨㄥˊ",
+        "english": "noble",
         "furigana": "弘",
         "kana": "ㄏㄨㄥˊ",
         "answer": "ㄏㄨㄥˊ"
       },
       {
         "japanese": "夷",
-        "english": "ㄧˊ",
+        "english": "barbarian",
         "furigana": "夷",
         "kana": "ㄧˊ",
         "answer": "ㄧˊ"
       },
       {
         "japanese": "姨",
-        "english": "ㄧˊ",
+        "english": "maternal aunt",
         "furigana": "姨",
         "kana": "ㄧˊ",
         "answer": "ㄧˊ"
       },
       {
         "japanese": "疆",
-        "english": "ㄐㄧㄤ",
+        "english": "dividing line",
         "furigana": "疆",
         "kana": "ㄐㄧㄤ",
         "answer": "ㄐㄧㄤ"
       },
       {
         "japanese": "僵",
-        "english": "ㄐㄧㄤ",
+        "english": "stiff",
         "furigana": "僵",
         "kana": "ㄐㄧㄤ",
         "answer": "ㄐㄧㄤ"
       },
       {
         "japanese": "薑",
-        "english": "ㄐㄧㄤ",
+        "english": "ginger",
         "furigana": "薑",
         "kana": "ㄐㄧㄤ",
         "answer": "ㄐㄧㄤ"
       },
       {
         "japanese": "粥",
-        "english": "ㄓㄡ",
+        "english": "porridge",
         "furigana": "粥",
         "kana": "ㄓㄡ",
         "answer": "ㄓㄡ"
       },
       {
         "japanese": "沸",
-        "english": "ㄈㄟˋ",
+        "english": "bring to a boil",
         "furigana": "沸",
         "kana": "ㄈㄟˋ",
         "answer": "ㄈㄟˋ"
       },
       {
         "japanese": "拂",
-        "english": "ㄈㄨˊ",
+        "english": "caress",
         "furigana": "拂",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "剃",
-        "english": "ㄊㄧˋ",
+        "english": "shave",
         "furigana": "剃",
         "kana": "ㄊㄧˋ",
         "answer": "ㄊㄧˋ"
       },
       {
         "japanese": "涕",
-        "english": "ㄊㄧˋ",
+        "english": "snot",
         "furigana": "涕",
         "kana": "ㄊㄧˋ",
         "answer": "ㄊㄧˋ"
       },
       {
         "japanese": "梯",
-        "english": "ㄊㄧ",
+        "english": "ladder",
         "furigana": "梯",
         "kana": "ㄊㄧ",
         "answer": "ㄊㄧ"
       },
       {
         "japanese": "朽",
-        "english": "ㄒㄧㄡˇ",
+        "english": "decayed",
         "furigana": "朽",
         "kana": "ㄒㄧㄡˇ",
         "answer": "ㄒㄧㄡˇ"
       },
       {
         "japanese": "聘",
-        "english": "ㄆㄧㄣˋ",
+        "english": "employ",
         "furigana": "聘",
         "kana": "ㄆㄧㄣˋ",
         "answer": "ㄆㄧㄣˋ"
       },
       {
         "japanese": "犧",
-        "english": "ㄒㄧ",
+        "english": "sacrifice",
         "furigana": "犧",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "姊",
-        "english": "ㄐㄧㄝˇ",
+        "english": "elder sister",
         "furigana": "姊",
         "kana": "ㄐㄧㄝˇ",
         "answer": "ㄐㄧㄝˇ"
       },
       {
         "japanese": "躺",
-        "english": "ㄊㄤˇ",
+        "english": "lie down",
         "furigana": "躺",
         "kana": "ㄊㄤˇ",
         "answer": "ㄊㄤˇ"
       },
       {
         "japanese": "躲",
-        "english": "ㄉㄨㄛˇ",
+        "english": "dodge",
         "furigana": "躲",
         "kana": "ㄉㄨㄛˇ",
         "answer": "ㄉㄨㄛˇ"
       },
       {
         "japanese": "躬",
-        "english": "ㄍㄨㄥ",
+        "english": "stoop",
         "furigana": "躬",
         "kana": "ㄍㄨㄥ",
         "answer": "ㄍㄨㄥ"
       },
       {
         "japanese": "嗜",
-        "english": "ㄕˋ",
+        "english": "hanker",
         "furigana": "嗜",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "拷",
-        "english": "ㄎㄠˇ",
+        "english": "flog",
         "furigana": "拷",
         "kana": "ㄎㄠˇ",
         "answer": "ㄎㄠˇ"
       },
       {
         "japanese": "暑",
-        "english": "ㄕㄨˇ",
+        "english": "summer heat",
         "furigana": "暑",
         "kana": "ㄕㄨˇ",
         "answer": "ㄕㄨˇ"
       },
       {
         "japanese": "睹",
-        "english": "ㄉㄨˇ",
+        "english": "behold",
         "furigana": "睹",
         "kana": "ㄉㄨˇ",
         "answer": "ㄉㄨˇ"
       },
       {
         "japanese": "賭",
-        "english": "ㄉㄨˇ",
+        "english": "gamble",
         "furigana": "賭",
         "kana": "ㄉㄨˇ",
         "answer": "ㄉㄨˇ"
       },
       {
         "japanese": "奢",
-        "english": "ㄕㄜ",
+        "english": "extravagant",
         "furigana": "奢",
         "kana": "ㄕㄜ",
         "answer": "ㄕㄜ"
       },
       {
         "japanese": "堵",
-        "english": "ㄉㄨˇ",
+        "english": "stop up",
         "furigana": "堵",
         "kana": "ㄉㄨˇ",
         "answer": "ㄉㄨˇ"
       },
       {
         "japanese": "煮",
-        "english": "ㄓㄨˇ",
+        "english": "boil",
         "furigana": "煮",
         "kana": "ㄓㄨˇ",
         "answer": "ㄓㄨˇ"
       },
       {
         "japanese": "諸",
-        "english": "ㄓㄨ",
+        "english": "various",
         "furigana": "諸",
         "kana": "ㄓㄨ",
         "answer": "ㄓㄨ"
       },
       {
         "japanese": "儲",
-        "english": "ㄔㄨˊ",
+        "english": "put in storage",
         "furigana": "儲",
         "kana": "ㄔㄨˊ",
         "answer": "ㄔㄨˊ"
       },
       {
         "japanese": "屠",
-        "english": "ㄊㄨˊ",
+        "english": "slaughter",
         "furigana": "屠",
         "kana": "ㄊㄨˊ",
         "answer": "ㄊㄨˊ"
       },
       {
         "japanese": "署",
-        "english": "ㄕㄨˋ",
+        "english": "add your john hancock",
         "furigana": "署",
         "kana": "ㄕㄨˋ",
         "answer": "ㄕㄨˋ"
       },
       {
         "japanese": "薯",
-        "english": "ㄕㄨˇ",
+        "english": "yam",
         "furigana": "薯",
         "kana": "ㄕㄨˇ",
         "answer": "ㄕㄨˇ"
       },
       {
         "japanese": "歸",
-        "english": "ㄍㄨㄟ",
+        "english": "come back",
         "furigana": "歸",
         "kana": "ㄍㄨㄟ",
         "answer": "ㄍㄨㄟ"
       },
       {
         "japanese": "篩",
-        "english": "ㄕㄞ",
+        "english": "sift",
         "furigana": "篩",
         "kana": "ㄕㄞ",
         "answer": "ㄕㄞ"
       },
       {
         "japanese": "棺",
-        "english": "ㄍㄨㄢ",
+        "english": "coffin",
         "furigana": "棺",
         "kana": "ㄍㄨㄢ",
         "answer": "ㄍㄨㄢ"
       },
       {
         "japanese": "爹",
-        "english": "ㄉㄧㄝ",
+        "english": "dad",
         "furigana": "爹",
         "kana": "ㄉㄧㄝ",
         "answer": "ㄉㄧㄝ"
       },
       {
         "japanese": "斧",
-        "english": "ㄈㄨˇ",
+        "english": "axe",
         "furigana": "斧",
         "kana": "ㄈㄨˇ",
         "answer": "ㄈㄨˇ"
       },
       {
         "japanese": "咬",
-        "english": "ㄧㄠˇ",
+        "english": "bite",
         "furigana": "咬",
         "kana": "ㄧㄠˇ",
         "answer": "ㄧㄠˇ"
       },
       {
         "japanese": "狡",
-        "english": "ㄐㄧㄠˇ",
+        "english": "sly",
         "furigana": "狡",
         "kana": "ㄐㄧㄠˇ",
         "answer": "ㄐㄧㄠˇ"
       },
       {
         "japanese": "趴",
-        "english": "ㄆㄚ",
+        "english": "prostrate oneself",
         "furigana": "趴",
         "kana": "ㄆㄚ",
         "answer": "ㄆㄚ"
       },
       {
         "japanese": "踏",
-        "english": "ㄊㄚˋ",
+        "english": "trample",
         "furigana": "踏",
         "kana": "ㄊㄚˋ",
         "answer": "ㄊㄚˋ"
       },
       {
         "japanese": "踐",
-        "english": "ㄐㄧㄢˋ",
+        "english": "tread on",
         "furigana": "踐",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "蹄",
-        "english": "ㄊㄧˊ",
+        "english": "hoof",
         "furigana": "蹄",
         "kana": "ㄊㄧˊ",
         "answer": "ㄊㄧˊ"
       },
       {
         "japanese": "捉",
-        "english": "ㄓㄨㄛ",
+        "english": "catch",
         "furigana": "捉",
         "kana": "ㄓㄨㄛ",
         "answer": "ㄓㄨㄛ"
       },
       {
         "japanese": "踩",
-        "english": "ㄘㄞˇ",
+        "english": "step on",
         "furigana": "踩",
         "kana": "ㄘㄞˇ",
         "answer": "ㄘㄞˇ"
       },
       {
         "japanese": "蹦",
-        "english": "ㄅㄥˋ",
+        "english": "hop",
         "furigana": "蹦",
         "kana": "ㄅㄥˋ",
         "answer": "ㄅㄥˋ"
       },
       {
         "japanese": "跌",
-        "english": "ㄉㄧㄝˊ",
+        "english": "slump",
         "furigana": "跌",
         "kana": "ㄉㄧㄝˊ",
         "answer": "ㄉㄧㄝˊ"
       },
       {
         "japanese": "促",
-        "english": "ㄘㄨˋ",
+        "english": "urge",
         "furigana": "促",
         "kana": "ㄘㄨˋ",
         "answer": "ㄘㄨˋ"
       },
       {
         "japanese": "踢",
-        "english": "ㄊㄧ",
+        "english": "kick",
         "furigana": "踢",
         "kana": "ㄊㄧ",
         "answer": "ㄊㄧ"
       },
       {
         "japanese": "躁",
-        "english": "ㄗㄠˋ",
+        "english": "impetuous",
         "furigana": "躁",
         "kana": "ㄗㄠˋ",
         "answer": "ㄗㄠˋ"
       },
       {
         "japanese": "噪",
-        "english": "ㄗㄠˋ",
+        "english": "chirping",
         "furigana": "噪",
         "kana": "ㄗㄠˋ",
         "answer": "ㄗㄠˋ"
       },
       {
         "japanese": "澡",
-        "english": "ㄗㄠˇ",
+        "english": "bath",
         "furigana": "澡",
         "kana": "ㄗㄠˇ",
         "answer": "ㄗㄠˇ"
       },
       {
         "japanese": "藻",
-        "english": "ㄗㄠˇ",
+        "english": "algae",
         "furigana": "藻",
         "kana": "ㄗㄠˇ",
         "answer": "ㄗㄠˇ"
       },
       {
         "japanese": "操",
-        "english": "ㄘㄠ",
+        "english": "exercise",
         "furigana": "操",
         "kana": "ㄘㄠ",
         "answer": "ㄘㄠ"
       },
       {
         "japanese": "燥",
-        "english": "ㄗㄠˋ",
+        "english": "parched",
         "furigana": "燥",
         "kana": "ㄗㄠˋ",
         "answer": "ㄗㄠˋ"
       },
       {
         "japanese": "躍",
-        "english": "ㄩㄝˋ",
+        "english": "leap",
         "furigana": "躍",
         "kana": "ㄩㄝˋ",
         "answer": "ㄩㄝˋ"
       },
       {
         "japanese": "戳",
-        "english": "ㄔㄨㄛ",
+        "english": "jab",
         "furigana": "戳",
         "kana": "ㄔㄨㄛ",
         "answer": "ㄔㄨㄛ"
       },
       {
         "japanese": "耀",
-        "english": "ㄧㄠˋ",
+        "english": "show off",
         "furigana": "耀",
         "kana": "ㄧㄠˋ",
         "answer": "ㄧㄠˋ"
       },
       {
         "japanese": "猾",
-        "english": "ㄏㄨㄚˊ",
+        "english": "cunning",
         "furigana": "猾",
         "kana": "ㄏㄨㄚˊ",
         "answer": "ㄏㄨㄚˊ"
       },
       {
         "japanese": "髓",
-        "english": "ㄙㄨㄟˇ",
+        "english": "marrow",
         "furigana": "髓",
         "kana": "ㄙㄨㄟˇ",
         "answer": "ㄙㄨㄟˇ"
       },
       {
         "japanese": "髒",
-        "english": "ㄗㄤ",
+        "english": "dirty",
         "furigana": "髒",
         "kana": "ㄗㄤ",
         "answer": "ㄗㄤ"
       },
       {
         "japanese": "渦",
-        "english": "ㄨㄛ",
+        "english": "whirlpool",
         "furigana": "渦",
         "kana": "ㄨㄛ",
         "answer": "ㄨㄛ"
       },
       {
         "japanese": "鍋",
-        "english": "ㄍㄨㄛ",
+        "english": "pot",
         "furigana": "鍋",
         "kana": "ㄍㄨㄛ",
         "answer": "ㄍㄨㄛ"
       },
       {
         "japanese": "蝸",
-        "english": "ㄍㄨㄚ",
+        "english": "snail",
         "furigana": "蝸",
         "kana": "ㄍㄨㄚ",
         "answer": "ㄍㄨㄚ"
       },
       {
         "japanese": "禍",
-        "english": "ㄏㄨㄛˋ",
+        "english": "misfortune",
         "furigana": "禍",
         "kana": "ㄏㄨㄛˋ",
         "answer": "ㄏㄨㄛˋ"
       },
       {
         "japanese": "陌",
-        "english": "ㄇㄛˋ",
+        "english": "footpath",
         "furigana": "陌",
         "kana": "ㄇㄛˋ",
         "answer": "ㄇㄛˋ"
       },
       {
         "japanese": "隙",
-        "english": "ㄒㄧˋ",
+        "english": "rift",
         "furigana": "隙",
         "kana": "ㄒㄧˋ",
         "answer": "ㄒㄧˋ"
       },
       {
         "japanese": "陡",
-        "english": "ㄉㄡˇ",
+        "english": "steep",
         "furigana": "陡",
         "kana": "ㄉㄡˇ",
         "answer": "ㄉㄡˇ"
       },
       {
         "japanese": "障",
-        "english": "ㄓㄤˋ",
+        "english": "barrier",
         "furigana": "障",
         "kana": "ㄓㄤˋ",
         "answer": "ㄓㄤˋ"
       },
       {
         "japanese": "陪",
-        "english": "ㄆㄟˊ",
+        "english": "accompany",
         "furigana": "陪",
         "kana": "ㄆㄟˊ",
         "answer": "ㄆㄟˊ"
       },
       {
         "japanese": "隧",
-        "english": "ㄙㄨㄟˋ",
+        "english": "tunnel",
         "furigana": "隧",
         "kana": "ㄙㄨㄟˋ",
         "answer": "ㄙㄨㄟˋ"
       },
       {
         "japanese": "墜",
-        "english": "ㄓㄨㄟˋ",
+        "english": "plunge",
         "furigana": "墜",
         "kana": "ㄓㄨㄟˋ",
         "answer": "ㄓㄨㄟˋ"
       },
       {
         "japanese": "陋",
-        "english": "ㄌㄡˋ",
+        "english": "undesirable",
         "furigana": "陋",
         "kana": "ㄌㄡˋ",
         "answer": "ㄌㄡˋ"
       },
       {
         "japanese": "挖",
-        "english": "ㄨㄚ",
+        "english": "dig",
         "furigana": "挖",
         "kana": "ㄨㄚ",
         "answer": "ㄨㄚ"
       },
       {
         "japanese": "窯",
-        "english": "ㄧㄠˊ",
+        "english": "kiln",
         "furigana": "窯",
         "kana": "ㄧㄠˊ",
         "answer": "ㄧㄠˊ"
       },
       {
         "japanese": "窺",
-        "english": "ㄎㄨㄟ",
+        "english": "peep",
         "furigana": "窺",
         "kana": "ㄎㄨㄟ",
         "answer": "ㄎㄨㄟ"
       },
       {
         "japanese": "窟",
-        "english": "ㄎㄨ",
+        "english": "den",
         "furigana": "窟",
         "kana": "ㄎㄨ",
         "answer": "ㄎㄨ"
       },
       {
         "japanese": "窄",
-        "english": "ㄓㄞˇ",
+        "english": "strait",
         "furigana": "窄",
         "kana": "ㄓㄞˇ",
         "answer": "ㄓㄞˇ"
       },
       {
         "japanese": "榨",
-        "english": "ㄓㄚˋ",
+        "english": "extract",
         "furigana": "榨",
         "kana": "ㄓㄚˋ",
         "answer": "ㄓㄚˋ"
       },
       {
         "japanese": "窘",
-        "english": "ㄐㄩㄥˇ",
+        "english": "poverty-stricken",
         "furigana": "窘",
         "kana": "ㄐㄩㄥˇ",
         "answer": "ㄐㄩㄥˇ"
       },
       {
         "japanese": "窮",
-        "english": "ㄑㄩㄥˊ",
+        "english": "poor",
         "furigana": "窮",
         "kana": "ㄑㄩㄥˊ",
         "answer": "ㄑㄩㄥˊ"
       },
       {
         "japanese": "窩",
-        "english": "ㄨㄛ",
+        "english": "hollow",
         "furigana": "窩",
         "kana": "ㄨㄛ",
         "answer": "ㄨㄛ"
       },
       {
         "japanese": "腔",
-        "english": "ㄑㄧㄤ",
+        "english": "body cavity",
         "furigana": "腔",
         "kana": "ㄑㄧㄤ",
         "answer": "ㄑㄧㄤ"
       },
       {
         "japanese": "累",
-        "english": "ㄌㄟˋ",
+        "english": "tired",
         "furigana": "累",
         "kana": "ㄌㄟˋ",
         "answer": "ㄌㄟˋ"
       },
       {
         "japanese": "螺",
-        "english": "ㄌㄨㄛˊ",
+        "english": "spiral shell",
         "furigana": "螺",
         "kana": "ㄌㄨㄛˊ",
         "answer": "ㄌㄨㄛˊ"
       },
       {
         "japanese": "紗",
-        "english": "ㄕㄚ",
+        "english": "yarn",
         "furigana": "紗",
         "kana": "ㄕㄚ",
         "answer": "ㄕㄚ"
       },
       {
         "japanese": "綽",
-        "english": "ㄔㄨㄛˋ",
+        "english": "ample",
         "furigana": "綽",
         "kana": "ㄔㄨㄛˋ",
         "answer": "ㄔㄨㄛˋ"
       },
       {
         "japanese": "紹",
-        "english": "ㄕㄠˋ",
+        "english": "acquaint",
         "furigana": "紹",
         "kana": "ㄕㄠˋ",
         "answer": "ㄕㄠˋ"
       },
       {
         "japanese": "絮",
-        "english": "ㄒㄩˋ",
+        "english": "long-winded",
         "furigana": "絮",
         "kana": "ㄒㄩˋ",
         "answer": "ㄒㄩˋ"
       },
       {
         "japanese": "繞",
-        "english": "ㄖㄠˋ",
+        "english": "go around",
         "furigana": "繞",
         "kana": "ㄖㄠˋ",
         "answer": "ㄖㄠˋ"
       },
       {
         "japanese": "紮",
-        "english": "ㄗㄚ",
+        "english": "bind",
         "furigana": "紮",
         "kana": "ㄗㄚ",
         "answer": "ㄗㄚ"
       },
       {
         "japanese": "綿",
-        "english": "ㄇㄧㄢˊ",
+        "english": "continuous",
         "furigana": "綿",
         "kana": "ㄇㄧㄢˊ",
         "answer": "ㄇㄧㄢˊ"
       },
       {
         "japanese": "繪",
-        "english": "ㄏㄨㄟˋ",
+        "english": "paint",
         "furigana": "繪",
         "kana": "ㄏㄨㄟˋ",
         "answer": "ㄏㄨㄟˋ"
       },
       {
         "japanese": "絡",
-        "english": "ㄌㄨㄛˋ",
+        "english": "web",
         "furigana": "絡",
         "kana": "ㄌㄨㄛˋ",
         "answer": "ㄌㄨㄛˋ"
       },
       {
         "japanese": "綢",
-        "english": "ㄔㄡˊ",
+        "english": "silk fabric",
         "furigana": "綢",
         "kana": "ㄔㄡˊ",
         "answer": "ㄔㄡˊ"
       },
       {
         "japanese": "絨",
-        "english": "ㄖㄨㄥˊ",
+        "english": "down",
         "furigana": "絨",
         "kana": "ㄖㄨㄥˊ",
         "answer": "ㄖㄨㄥˊ"
       },
       {
         "japanese": "締",
-        "english": "ㄉㄧˋ",
+        "english": "conclude",
         "furigana": "締",
         "kana": "ㄉㄧˋ",
         "answer": "ㄉㄧˋ"
       },
       {
         "japanese": "紫",
-        "english": "ㄗˇ",
+        "english": "purple",
         "furigana": "紫",
         "kana": "ㄗˇ",
         "answer": "ㄗˇ"
       },
       {
         "japanese": "繁",
-        "english": "ㄈㄢˊ",
+        "english": "numerous",
         "furigana": "繁",
         "kana": "ㄈㄢˊ",
         "answer": "ㄈㄢˊ"
       },
       {
         "japanese": "紡",
-        "english": "ㄈㄤˇ",
+        "english": "spin",
         "furigana": "紡",
         "kana": "ㄈㄤˇ",
         "answer": "ㄈㄤˇ"
       },
       {
         "japanese": "繭",
-        "english": "ㄐㄧㄢˇ",
+        "english": "cocoon",
         "furigana": "繭",
         "kana": "ㄐㄧㄢˇ",
         "answer": "ㄐㄧㄢˇ"
       },
       {
         "japanese": "纏",
-        "english": "ㄔㄢˊ",
+        "english": "wind around",
         "furigana": "纏",
         "kana": "ㄔㄢˊ",
         "answer": "ㄔㄢˊ"
       },
       {
         "japanese": "緻",
-        "english": "ㄓˋ",
+        "english": "delicate",
         "furigana": "緻",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "繫",
-        "english": "ㄐㄧˋ",
+        "english": "fasten",
         "furigana": "繫",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "納",
-        "english": "ㄋㄚˋ",
+        "english": "let in",
         "furigana": "納",
         "kana": "ㄋㄚˋ",
         "answer": "ㄋㄚˋ"
       },
       {
         "japanese": "紛",
-        "english": "ㄈㄣ",
+        "english": "disorderly",
         "furigana": "紛",
         "kana": "ㄈㄣ",
         "answer": "ㄈㄣ"
       },
       {
         "japanese": "縮",
-        "english": "ㄙㄨㄛ",
+        "english": "shrink",
         "furigana": "縮",
         "kana": "ㄙㄨㄛ",
         "answer": "ㄙㄨㄛ"
       },
       {
         "japanese": "綜",
-        "english": "ㄗㄨㄥˋ",
+        "english": "sum up",
         "furigana": "綜",
         "kana": "ㄗㄨㄥˋ",
         "answer": "ㄗㄨㄥˋ"
       },
       {
         "japanese": "紳",
-        "english": "ㄕㄣ",
+        "english": "gentry",
         "furigana": "紳",
         "kana": "ㄕㄣ",
         "answer": "ㄕㄣ"
       },
       {
         "japanese": "緣",
-        "english": "ㄩㄢˊ",
+        "english": "reason",
         "furigana": "緣",
         "kana": "ㄩㄢˊ",
         "answer": "ㄩㄢˊ"
       },
       {
         "japanese": "緒",
-        "english": "ㄒㄩˋ",
+        "english": "inception",
         "furigana": "緒",
         "kana": "ㄒㄩˋ",
         "answer": "ㄒㄩˋ"
       },
       {
         "japanese": "絞",
-        "english": "ㄐㄧㄠˇ",
+        "english": "wring",
         "furigana": "絞",
         "kana": "ㄐㄧㄠˇ",
         "answer": "ㄐㄧㄠˇ"
       },
       {
         "japanese": "緩",
-        "english": "ㄏㄨㄢˇ",
+        "english": "unhurried",
         "furigana": "緩",
         "kana": "ㄏㄨㄢˇ",
         "answer": "ㄏㄨㄢˇ"
       },
       {
         "japanese": "暖",
-        "english": "ㄋㄨㄢˇ",
+        "english": "warm",
         "furigana": "暖",
         "kana": "ㄋㄨㄢˇ",
         "answer": "ㄋㄨㄢˇ"
       },
       {
         "japanese": "援",
-        "english": "ㄩㄢˊ",
+        "english": "provide assistance",
         "furigana": "援",
         "kana": "ㄩㄢˊ",
         "answer": "ㄩㄢˊ"
       },
       {
         "japanese": "索",
-        "english": "ㄙㄨㄛˇ",
+        "english": "large rope",
         "furigana": "索",
         "kana": "ㄙㄨㄛˇ",
         "answer": "ㄙㄨㄛˇ"
       },
       {
         "japanese": "勃",
-        "english": "ㄅㄛˊ",
+        "english": "vibrant",
         "furigana": "勃",
         "kana": "ㄅㄛˊ",
         "answer": "ㄅㄛˊ"
       },
       {
         "japanese": "脖",
-        "english": "ㄅㄛˊ",
+        "english": "head-hinge",
         "furigana": "脖",
         "kana": "ㄅㄛˊ",
         "answer": "ㄅㄛˊ"
       },
       {
         "japanese": "繳",
-        "english": "ㄐㄧㄠˇ",
+        "english": "shell out",
         "furigana": "繳",
         "kana": "ㄐㄧㄠˇ",
         "answer": "ㄐㄧㄠˇ"
       },
       {
         "japanese": "邀",
-        "english": "ㄧㄠ",
+        "english": "request the presence of",
         "furigana": "邀",
         "kana": "ㄧㄠ",
         "answer": "ㄧㄠ"
       },
       {
         "japanese": "繡",
-        "english": "ㄒㄧㄡˋ",
+        "english": "embroidery",
         "furigana": "繡",
         "kana": "ㄒㄧㄡˋ",
         "answer": "ㄒㄧㄡˋ"
       },
       {
         "japanese": "蘿",
-        "english": "ㄌㄨㄛˊ",
+        "english": "edible root",
         "furigana": "蘿",
         "kana": "ㄌㄨㄛˊ",
         "answer": "ㄌㄨㄛˊ"
       },
       {
         "japanese": "鑼",
-        "english": "ㄌㄨㄛˊ",
+        "english": "gong",
         "furigana": "鑼",
         "kana": "ㄌㄨㄛˊ",
         "answer": "ㄌㄨㄛˊ"
       },
       {
         "japanese": "邏",
-        "english": "ㄌㄨㄛˊ",
+        "english": "make the rounds",
         "furigana": "邏",
         "kana": "ㄌㄨㄛˊ",
         "answer": "ㄌㄨㄛˊ"
       },
       {
         "japanese": "籮",
-        "english": "ㄌㄨㄛˊ",
+        "english": "bamboo basket",
         "furigana": "籮",
         "kana": "ㄌㄨㄛˊ",
         "answer": "ㄌㄨㄛˊ"
       },
       {
         "japanese": "蠻",
-        "english": "ㄇㄢˊ",
+        "english": "barbaric",
         "furigana": "蠻",
         "kana": "ㄇㄢˊ",
         "answer": "ㄇㄢˊ"
       },
       {
         "japanese": "頸",
-        "english": "ㄐㄧㄥˇ",
+        "english": "neck",
         "furigana": "頸",
         "kana": "ㄐㄧㄥˇ",
         "answer": "ㄐㄧㄥˇ"
       },
       {
         "japanese": "莖",
-        "english": "ㄐㄧㄥ",
+        "english": "plant stem",
         "furigana": "莖",
         "kana": "ㄐㄧㄥ",
         "answer": "ㄐㄧㄥ"
       },
       {
         "japanese": "勁",
-        "english": "ㄐㄧㄥˋ",
+        "english": "powerful",
         "furigana": "勁",
         "kana": "ㄐㄧㄥˋ",
         "answer": "ㄐㄧㄥˋ"
       },
       {
         "japanese": "徑",
-        "english": "ㄐㄧㄥˋ",
+        "english": "trail",
         "furigana": "徑",
         "kana": "ㄐㄧㄥˋ",
         "answer": "ㄐㄧㄥˋ"
       },
       {
         "japanese": "溪",
-        "english": "ㄒㄧ",
+        "english": "creek",
         "furigana": "溪",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "幼",
-        "english": "ㄧㄡˋ",
+        "english": "young",
         "furigana": "幼",
         "kana": "ㄧㄡˋ",
         "answer": "ㄧㄡˋ"
       },
       {
         "japanese": "幽",
-        "english": "ㄧㄡ",
+        "english": "secluded",
         "furigana": "幽",
         "kana": "ㄧㄡ",
         "answer": "ㄧㄡ"
       },
       {
         "japanese": "濕",
-        "english": "ㄕ",
+        "english": "wet",
         "furigana": "濕",
         "kana": "ㄕ",
         "answer": "ㄕ"
       },
       {
         "japanese": "玄",
-        "english": "ㄒㄩㄢˊ",
+        "english": "mysterious",
         "furigana": "玄",
         "kana": "ㄒㄩㄢˊ",
         "answer": "ㄒㄩㄢˊ"
       },
       {
         "japanese": "畜",
-        "english": "ㄔㄨˋ",
+        "english": "livestock",
         "furigana": "畜",
         "kana": "ㄔㄨˋ",
         "answer": "ㄔㄨˋ"
       },
       {
         "japanese": "蓄",
-        "english": "ㄒㄩˋ",
+        "english": "save up",
         "furigana": "蓄",
         "kana": "ㄒㄩˋ",
         "answer": "ㄒㄩˋ"
       },
       {
         "japanese": "牽",
-        "english": "ㄑㄧㄢ",
+        "english": "lead along",
         "furigana": "牽",
         "kana": "ㄑㄧㄢ",
         "answer": "ㄑㄧㄢ"
       },
       {
         "japanese": "弦",
-        "english": "ㄒㄧㄢˊ",
+        "english": "bowstring",
         "furigana": "弦",
         "kana": "ㄒㄧㄢˊ",
         "answer": "ㄒㄧㄢˊ"
       },
       {
         "japanese": "磁",
-        "english": "ㄘˊ",
+        "english": "magnetism",
         "furigana": "磁",
         "kana": "ㄘˊ",
         "answer": "ㄘˊ"
       },
       {
         "japanese": "滋",
-        "english": "ㄗ",
+        "english": "nourish",
         "furigana": "滋",
         "kana": "ㄗ",
         "answer": "ㄗ"
       },
       {
         "japanese": "慈",
-        "english": "ㄘˊ",
+        "english": "kindhearted",
         "furigana": "慈",
         "kana": "ㄘˊ",
         "answer": "ㄘˊ"
       },
       {
         "japanese": "譏",
-        "english": "ㄐㄧ",
+        "english": "deride",
         "furigana": "譏",
         "kana": "ㄐㄧ",
         "answer": "ㄐㄧ"
       },
       {
         "japanese": "爍",
-        "english": "ㄕㄨㄛˋ",
+        "english": "luminous",
         "furigana": "爍",
         "kana": "ㄕㄨㄛˋ",
         "answer": "ㄕㄨㄛˋ"
       },
       {
         "japanese": "遜",
-        "english": "ㄒㄩㄣˋ",
+        "english": "modest",
         "furigana": "遜",
         "kana": "ㄒㄩㄣˋ",
         "answer": "ㄒㄩㄣˋ"
       },
       {
         "japanese": "卸",
-        "english": "ㄒㄧㄝˋ",
+        "english": "unload",
         "furigana": "卸",
         "kana": "ㄒㄧㄝˋ",
         "answer": "ㄒㄧㄝˋ"
       },
       {
         "japanese": "御",
-        "english": "ㄩˋ",
+        "english": "imperial",
         "furigana": "御",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "禦",
-        "english": "ㄩˋ",
+        "english": "withstand",
         "furigana": "禦",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "卵",
-        "english": "ㄌㄨㄢˇ",
+        "english": "nest eggs",
         "furigana": "卵",
         "kana": "ㄌㄨㄢˇ",
         "answer": "ㄌㄨㄢˇ"
       },
       {
         "japanese": "孵",
-        "english": "ㄈㄨ",
+        "english": "hatch",
         "furigana": "孵",
         "kana": "ㄈㄨ",
         "answer": "ㄈㄨ"
       },
       {
         "japanese": "乳",
-        "english": "ㄖㄨˇ",
+        "english": "breast",
         "furigana": "乳",
         "kana": "ㄖㄨˇ",
         "answer": "ㄖㄨˇ"
       },
       {
         "japanese": "浮",
-        "english": "ㄈㄨˊ",
+        "english": "float",
         "furigana": "浮",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "俘",
-        "english": "ㄈㄨˊ",
+        "english": "captive",
         "furigana": "俘",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "卿",
-        "english": "ㄑㄧㄥ",
+        "english": "minister",
         "furigana": "卿",
         "kana": "ㄑㄧㄥ",
         "answer": "ㄑㄧㄥ"
       },
       {
         "japanese": "貿",
-        "english": "ㄇㄠˋ",
+        "english": "trade",
         "furigana": "貿",
         "kana": "ㄇㄠˋ",
         "answer": "ㄇㄠˋ"
       },
       {
         "japanese": "榴",
-        "english": "ㄌㄧㄡˊ",
+        "english": "pomegranate",
         "furigana": "榴",
         "kana": "ㄌㄧㄡˊ",
         "answer": "ㄌㄧㄡˊ"
       },
       {
         "japanese": "疑",
-        "english": "ㄧˊ",
+        "english": "doubt",
         "furigana": "疑",
         "kana": "ㄧˊ",
         "answer": "ㄧˊ"
       },
       {
         "japanese": "礙",
-        "english": "ㄞˋ",
+        "english": "obstruct",
         "furigana": "礙",
         "kana": "ㄞˋ",
         "answer": "ㄞˋ"
       },
       {
         "japanese": "凝",
-        "english": "ㄋㄧㄥˊ",
+        "english": "congeal",
         "furigana": "凝",
         "kana": "ㄋㄧㄥˊ",
         "answer": "ㄋㄧㄥˊ"
       },
       {
         "japanese": "擬",
-        "english": "ㄋㄧˇ",
+        "english": "simulate",
         "furigana": "擬",
         "kana": "ㄋㄧˇ",
         "answer": "ㄋㄧˇ"
       },
       {
         "japanese": "玲",
-        "english": "ㄌㄧㄥˊ",
+        "english": "exquisite",
         "furigana": "玲",
         "kana": "ㄌㄧㄥˊ",
         "answer": "ㄌㄧㄥˊ"
       },
       {
         "japanese": "鈴",
-        "english": "ㄌㄧㄥˊ",
+        "english": "small bell",
         "furigana": "鈴",
         "kana": "ㄌㄧㄥˊ",
         "answer": "ㄌㄧㄥˊ"
       },
       {
         "japanese": "伶",
-        "english": "ㄌㄧㄥˊ",
+        "english": "actor",
         "furigana": "伶",
         "kana": "ㄌㄧㄥˊ",
         "answer": "ㄌㄧㄥˊ"
       },
       {
         "japanese": "嶺",
-        "english": "ㄌㄧㄥˇ",
+        "english": "mountain range",
         "furigana": "嶺",
         "kana": "ㄌㄧㄥˇ",
         "answer": "ㄌㄧㄥˇ"
       },
       {
         "japanese": "桶",
-        "english": "ㄊㄨㄥˇ",
+        "english": "bucket",
         "furigana": "桶",
         "kana": "ㄊㄨㄥˇ",
         "answer": "ㄊㄨㄥˇ"
       },
       {
         "japanese": "誦",
-        "english": "ㄙㄨㄥˋ",
+        "english": "read aloud",
         "furigana": "誦",
         "kana": "ㄙㄨㄥˋ",
         "answer": "ㄙㄨㄥˋ"
       },
       {
         "japanese": "湧",
-        "english": "ㄩㄥˇ",
+        "english": "gush",
         "furigana": "湧",
         "kana": "ㄩㄥˇ",
         "answer": "ㄩㄥˇ"
       },
       {
         "japanese": "踴",
-        "english": "ㄩㄥˇ",
+        "english": "eagerly",
         "furigana": "踴",
         "kana": "ㄩㄥˇ",
         "answer": "ㄩㄥˇ"
       },
       {
         "japanese": "卷",
-        "english": "ㄐㄩㄢˋ",
+        "english": "exam paper",
         "furigana": "卷",
         "kana": "ㄐㄩㄢˋ",
         "answer": "ㄐㄩㄢˋ"
       },
       {
         "japanese": "圈",
-        "english": "ㄑㄩㄢ",
+        "english": "circle",
         "furigana": "圈",
         "kana": "ㄑㄩㄢ",
         "answer": "ㄑㄩㄢ"
       },
       {
         "japanese": "捲",
-        "english": "ㄐㄩㄢˇ",
+        "english": "roll up",
         "furigana": "捲",
         "kana": "ㄐㄩㄢˇ",
         "answer": "ㄐㄩㄢˇ"
       },
       {
         "japanese": "倦",
-        "english": "ㄐㄩㄢˋ",
+        "english": "worn out",
         "furigana": "倦",
         "kana": "ㄐㄩㄢˋ",
         "answer": "ㄐㄩㄢˋ"
       },
       {
         "japanese": "範",
-        "english": "ㄈㄢˋ",
+        "english": "model",
         "furigana": "範",
         "kana": "ㄈㄢˋ",
         "answer": "ㄈㄢˋ"
       },
       {
         "japanese": "怨",
-        "english": "ㄩㄢˋ",
+        "english": "resentment",
         "furigana": "怨",
         "kana": "ㄩㄢˋ",
         "answer": "ㄩㄢˋ"
       },
       {
         "japanese": "宛",
-        "english": "ㄨㄢˇ",
+        "english": "winding",
         "furigana": "宛",
         "kana": "ㄨㄢˇ",
         "answer": "ㄨㄢˇ"
       },
       {
         "japanese": "腕",
-        "english": "ㄨㄢˋ",
+        "english": "wrist",
         "furigana": "腕",
         "kana": "ㄨㄢˋ",
         "answer": "ㄨㄢˋ"
       },
       {
         "japanese": "婉",
-        "english": "ㄨㄢˇ",
+        "english": "tactful",
         "furigana": "婉",
         "kana": "ㄨㄢˇ",
         "answer": "ㄨㄢˇ"
       },
       {
         "japanese": "碗",
-        "english": "ㄨㄢˇ",
+        "english": "bowl",
         "furigana": "碗",
         "kana": "ㄨㄢˇ",
         "answer": "ㄨㄢˇ"
       },
       {
         "japanese": "詭",
-        "english": "ㄍㄨㄟˇ",
+        "english": "deceitful",
         "furigana": "詭",
         "kana": "ㄍㄨㄟˇ",
         "answer": "ㄍㄨㄟˇ"
       },
       {
         "japanese": "跪",
-        "english": "ㄍㄨㄟˋ",
+        "english": "kneel",
         "furigana": "跪",
         "kana": "ㄍㄨㄟˋ",
         "answer": "ㄍㄨㄟˋ"
       },
       {
         "japanese": "輿",
-        "english": "ㄩˊ",
+        "english": "popular",
         "furigana": "輿",
         "kana": "ㄩˊ",
         "answer": "ㄩˊ"
       },
       {
         "japanese": "酬",
-        "english": "ㄔㄡˊ",
+        "english": "reward",
         "furigana": "酬",
         "kana": "ㄔㄡˊ",
         "answer": "ㄔㄡˊ"
       },
       {
         "japanese": "酌",
-        "english": "ㄓㄨㄛˊ",
+        "english": "pour wine",
         "furigana": "酌",
         "kana": "ㄓㄨㄛˊ",
         "answer": "ㄓㄨㄛˊ"
       },
       {
         "japanese": "酷",
-        "english": "ㄎㄨˋ",
+        "english": "brutal",
         "furigana": "酷",
         "kana": "ㄎㄨˋ",
         "answer": "ㄎㄨˋ"
       },
       {
         "japanese": "醇",
-        "english": "ㄔㄨㄣˊ",
+        "english": "mellow wine",
         "furigana": "醇",
         "kana": "ㄔㄨㄣˊ",
         "answer": "ㄔㄨㄣˊ"
       },
       {
         "japanese": "醋",
-        "english": "ㄘㄨˋ",
+        "english": "vinegar",
         "furigana": "醋",
         "kana": "ㄘㄨˋ",
         "answer": "ㄘㄨˋ"
       },
       {
         "japanese": "醉",
-        "english": "ㄗㄨㄟˋ",
+        "english": "drunk",
         "furigana": "醉",
         "kana": "ㄗㄨㄟˋ",
         "answer": "ㄗㄨㄟˋ"
       },
       {
         "japanese": "粹",
-        "english": "ㄘㄨㄟˋ",
+        "english": "unmixed",
         "furigana": "粹",
         "kana": "ㄘㄨㄟˋ",
         "answer": "ㄘㄨㄟˋ"
       },
       {
         "japanese": "翠",
-        "english": "ㄘㄨㄟˋ",
+        "english": "emerald green",
         "furigana": "翠",
         "kana": "ㄘㄨㄟˋ",
         "answer": "ㄘㄨㄟˋ"
       },
       {
         "japanese": "碎",
-        "english": "ㄙㄨㄟˋ",
+        "english": "shattered",
         "furigana": "碎",
         "kana": "ㄙㄨㄟˋ",
         "answer": "ㄙㄨㄟˋ"
       },
       {
         "japanese": "酸",
-        "english": "ㄙㄨㄢ",
+        "english": "sour",
         "furigana": "酸",
         "kana": "ㄙㄨㄢ",
         "answer": "ㄙㄨㄢ"
       },
       {
         "japanese": "梭",
-        "english": "ㄙㄨㄛ",
+        "english": "shuttle",
         "furigana": "梭",
         "kana": "ㄙㄨㄛ",
         "answer": "ㄙㄨㄛ"
       },
       {
         "japanese": "峻",
-        "english": "ㄐㄩㄣˋ",
+        "english": "lofty",
         "furigana": "峻",
         "kana": "ㄐㄩㄣˋ",
         "answer": "ㄐㄩㄣˋ"
       },
       {
         "japanese": "俊",
-        "english": "ㄐㄩㄣˋ",
+        "english": "pretty",
         "furigana": "俊",
         "kana": "ㄐㄩㄣˋ",
         "answer": "ㄐㄩㄣˋ"
       },
       {
         "japanese": "釁",
-        "english": "ㄒㄧㄣˋ",
+        "english": "quarrel",
         "furigana": "釁",
         "kana": "ㄒㄧㄣˋ",
         "answer": "ㄒㄧㄣˋ"
       },
       {
         "japanese": "醬",
-        "english": "ㄐㄧㄤˋ",
+        "english": "thick sauce",
         "furigana": "醬",
         "kana": "ㄐㄧㄤˋ",
         "answer": "ㄐㄧㄤˋ"
       },
       {
         "japanese": "猶",
-        "english": "ㄧㄡˊ",
+        "english": "just like",
         "furigana": "猶",
         "kana": "ㄧㄡˊ",
         "answer": "ㄧㄡˊ"
       },
       {
         "japanese": "奠",
-        "english": "ㄉㄧㄢˋ",
+        "english": "found",
         "furigana": "奠",
         "kana": "ㄉㄧㄢˋ",
         "answer": "ㄉㄧㄢˋ"
       },
       {
         "japanese": "蹲",
-        "english": "ㄉㄨㄣ",
+        "english": "squat",
         "furigana": "蹲",
         "kana": "ㄉㄨㄣ",
         "answer": "ㄉㄨㄣ"
       },
       {
         "japanese": "逗",
-        "english": "ㄉㄡˋ",
+        "english": "tease",
         "furigana": "逗",
         "kana": "ㄉㄡˋ",
         "answer": "ㄉㄡˋ"
       },
       {
         "japanese": "豈",
-        "english": "ㄑㄧˇ",
+        "english": "(rhetorical question)",
         "furigana": "豈",
         "kana": "ㄑㄧˇ",
         "answer": "ㄑㄧˇ"
       },
       {
         "japanese": "凱",
-        "english": "ㄎㄞˇ",
+        "english": "triumphant",
         "furigana": "凱",
         "kana": "ㄎㄞˇ",
         "answer": "ㄎㄞˇ"
       },
       {
         "japanese": "豎",
-        "english": "ㄕㄨˋ",
+        "english": "perpendicular",
         "furigana": "豎",
         "kana": "ㄕㄨˋ",
         "answer": "ㄕㄨˋ"
       },
       {
         "japanese": "嘉",
-        "english": "ㄐㄧㄚ",
+        "english": "commend",
         "furigana": "嘉",
         "kana": "ㄐㄧㄚ",
         "answer": "ㄐㄧㄚ"
       },
       {
         "japanese": "嘻",
-        "english": "ㄒㄧ",
+        "english": "giggling",
         "furigana": "嘻",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "盟",
-        "english": "ㄇㄥˊ",
+        "english": "alliance",
         "furigana": "盟",
         "kana": "ㄇㄥˊ",
         "answer": "ㄇㄥˊ"
       },
       {
         "japanese": "孟",
-        "english": "ㄇㄥˋ",
+        "english": "mencius",
         "furigana": "孟",
         "kana": "ㄇㄥˋ",
         "answer": "ㄇㄥˋ"
       },
       {
         "japanese": "猛",
-        "english": "ㄇㄥˇ",
+        "english": "fierce",
         "furigana": "猛",
         "kana": "ㄇㄥˇ",
         "answer": "ㄇㄥˇ"
       },
       {
         "japanese": "盛",
-        "english": "ㄕㄥˋ",
+        "english": "flourishing",
         "furigana": "盛",
         "kana": "ㄕㄥˋ",
         "answer": "ㄕㄥˋ"
       },
       {
         "japanese": "盞",
-        "english": "ㄓㄢˇ",
+        "english": "small cup",
         "furigana": "盞",
         "kana": "ㄓㄢˇ",
         "answer": "ㄓㄢˇ"
       },
       {
         "japanese": "盒",
-        "english": "ㄏㄜˊ",
+        "english": "small box",
         "furigana": "盒",
         "kana": "ㄏㄜˊ",
         "answer": "ㄏㄜˊ"
       },
       {
         "japanese": "盜",
-        "english": "ㄉㄠˋ",
+        "english": "master thief",
         "furigana": "盜",
         "kana": "ㄉㄠˋ",
         "answer": "ㄉㄠˋ"
       },
       {
         "japanese": "盪",
-        "english": "ㄉㄤˋ",
+        "english": "swing",
         "furigana": "盪",
         "kana": "ㄉㄤˋ",
         "answer": "ㄉㄤˋ"
       },
       {
         "japanese": "寧",
-        "english": "ㄋㄧㄥˊ",
+        "english": "calm",
         "furigana": "寧",
         "kana": "ㄋㄧㄥˊ",
         "answer": "ㄋㄧㄥˊ"
       },
       {
         "japanese": "盈",
-        "english": "ㄧㄥˊ",
+        "english": "replete",
         "furigana": "盈",
         "kana": "ㄧㄥˊ",
         "answer": "ㄧㄥˊ"
       },
       {
         "japanese": "盆",
-        "english": "ㄆㄣˊ",
+        "english": "basin",
         "furigana": "盆",
         "kana": "ㄆㄣˊ",
         "answer": "ㄆㄣˊ"
       },
       {
         "japanese": "盃",
-        "english": "ㄅㄟ",
+        "english": "trophy",
         "furigana": "盃",
         "kana": "ㄅㄟ",
         "answer": "ㄅㄟ"
       },
       {
         "japanese": "蘊",
-        "english": "ㄩㄣˋ",
+        "english": "amass",
         "furigana": "蘊",
         "kana": "ㄩㄣˋ",
         "answer": "ㄩㄣˋ"
       },
       {
         "japanese": "濫",
-        "english": "ㄌㄢˋ",
+        "english": "indiscriminate",
         "furigana": "濫",
         "kana": "ㄌㄢˋ",
         "answer": "ㄌㄢˋ"
       },
       {
         "japanese": "鑑",
-        "english": "ㄐㄧㄢˋ",
+        "english": "probe",
         "furigana": "鑑",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "尷",
-        "english": "ㄍㄢ",
+        "english": "abashed",
         "furigana": "尷",
         "kana": "ㄍㄢ",
         "answer": "ㄍㄢ"
       },
       {
         "japanese": "尬",
-        "english": "ㄍㄚˋ",
+        "english": "embarrassed",
         "furigana": "尬",
         "kana": "ㄍㄚˋ",
         "answer": "ㄍㄚˋ"
       },
       {
         "japanese": "拋",
-        "english": "ㄆㄠ",
+        "english": "toss",
         "furigana": "拋",
         "kana": "ㄆㄠ",
         "answer": "ㄆㄠ"
       },
       {
         "japanese": "耽",
-        "english": "ㄉㄢ",
+        "english": "indulge in",
         "furigana": "耽",
         "kana": "ㄉㄢ",
         "answer": "ㄉㄢ"
       },
       {
         "japanese": "枕",
-        "english": "ㄓㄣˇ",
+        "english": "pillow",
         "furigana": "枕",
         "kana": "ㄓㄣˇ",
         "answer": "ㄓㄣˇ"
       },
       {
         "japanese": "覽",
-        "english": "ㄌㄢˇ",
+        "english": "view",
         "furigana": "覽",
         "kana": "ㄌㄢˇ",
         "answer": "ㄌㄢˇ"
       },
       {
         "japanese": "攬",
-        "english": "ㄌㄢˇ",
+        "english": "take on",
         "furigana": "攬",
         "kana": "ㄌㄢˇ",
         "answer": "ㄌㄢˇ"
       },
       {
         "japanese": "纜",
-        "english": "ㄌㄢˇ",
+        "english": "cable",
         "furigana": "纜",
         "kana": "ㄌㄢˇ",
         "answer": "ㄌㄢˇ"
       },
       {
         "japanese": "狠",
-        "english": "ㄏㄣˇ",
+        "english": "ruthless",
         "furigana": "狠",
         "kana": "ㄏㄣˇ",
         "answer": "ㄏㄣˇ"
       },
       {
         "japanese": "恨",
-        "english": "ㄏㄣˋ",
+        "english": "hate",
         "furigana": "恨",
         "kana": "ㄏㄣˋ",
         "answer": "ㄏㄣˋ"
       },
       {
         "japanese": "爵",
-        "english": "ㄐㄩㄝˊ",
+        "english": "upper crust",
         "furigana": "爵",
         "kana": "ㄐㄩㄝˊ",
         "answer": "ㄐㄩㄝˊ"
       },
       {
         "japanese": "嚼",
-        "english": "ㄐㄩㄝˊ",
+        "english": "chew",
         "furigana": "嚼",
         "kana": "ㄐㄩㄝˊ",
         "answer": "ㄐㄩㄝˊ"
       },
       {
         "japanese": "懇",
-        "english": "ㄎㄣˇ",
+        "english": "wholeheartedly",
         "furigana": "懇",
         "kana": "ㄎㄣˇ",
         "answer": "ㄎㄣˇ"
       },
       {
         "japanese": "墾",
-        "english": "ㄎㄣˇ",
+        "english": "reclaim",
         "furigana": "墾",
         "kana": "ㄎㄣˇ",
         "answer": "ㄎㄣˇ"
       },
       {
         "japanese": "豹",
-        "english": "ㄅㄠˋ",
+        "english": "leopard",
         "furigana": "豹",
         "kana": "ㄅㄠˋ",
         "answer": "ㄅㄠˋ"
       },
       {
         "japanese": "貓",
-        "english": "ㄇㄠ",
+        "english": "cat",
         "furigana": "貓",
         "kana": "ㄇㄠ",
         "answer": "ㄇㄠ"
       },
       {
         "japanese": "貌",
-        "english": "ㄇㄠˋ",
+        "english": "mien",
         "furigana": "貌",
         "kana": "ㄇㄠˋ",
         "answer": "ㄇㄠˋ"
       },
       {
         "japanese": "朗",
-        "english": "ㄌㄤˇ",
+        "english": "lucent",
         "furigana": "朗",
         "kana": "ㄌㄤˇ",
         "answer": "ㄌㄤˇ"
       },
       {
         "japanese": "狼",
-        "english": "ㄌㄤˊ",
+        "english": "wolf",
         "furigana": "狼",
         "kana": "ㄌㄤˊ",
         "answer": "ㄌㄤˊ"
       },
       {
         "japanese": "飢",
-        "english": "ㄐㄧ",
+        "english": "starving",
         "furigana": "飢",
         "kana": "ㄐㄧ",
         "answer": "ㄐㄧ"
       },
       {
         "japanese": "饒",
-        "english": "ㄖㄠˊ",
+        "english": "spare",
         "furigana": "饒",
         "kana": "ㄖㄠˊ",
         "answer": "ㄖㄠˊ"
       },
       {
         "japanese": "飾",
-        "english": "ㄕˋ",
+        "english": "ornaments",
         "furigana": "飾",
         "kana": "ㄕˋ",
         "answer": "ㄕˋ"
       },
       {
         "japanese": "飲",
-        "english": "ㄧㄣˇ",
+        "english": "beverage",
         "furigana": "飲",
         "kana": "ㄧㄣˇ",
         "answer": "ㄧㄣˇ"
       },
       {
         "japanese": "蝕",
-        "english": "ㄕˊ",
+        "english": "eat away",
         "furigana": "蝕",
         "kana": "ㄕˊ",
         "answer": "ㄕˊ"
       },
       {
         "japanese": "飽",
-        "english": "ㄅㄠˇ",
+        "english": "sated",
         "furigana": "飽",
         "kana": "ㄅㄠˇ",
         "answer": "ㄅㄠˇ"
       },
       {
         "japanese": "饅",
-        "english": "ㄇㄢˊ",
+        "english": "bread",
         "furigana": "饅",
         "kana": "ㄇㄢˊ",
         "answer": "ㄇㄢˊ"
       },
       {
         "japanese": "餅",
-        "english": "ㄅㄧㄥˇ",
+        "english": "cookie",
         "furigana": "餅",
         "kana": "ㄅㄧㄥˇ",
         "answer": "ㄅㄧㄥˇ"
       },
       {
         "japanese": "餃",
-        "english": "ㄐㄧㄠˇ",
+        "english": "dumpling",
         "furigana": "餃",
         "kana": "ㄐㄧㄠˇ",
         "answer": "ㄐㄧㄠˇ"
       },
       {
         "japanese": "餓",
-        "english": "ㄜˋ",
+        "english": "hungry",
         "furigana": "餓",
         "kana": "ㄜˋ",
         "answer": "ㄜˋ"
       },
       {
         "japanese": "潛",
-        "english": "ㄑㄧㄢˊ",
+        "english": "submerge",
         "furigana": "潛",
         "kana": "ㄑㄧㄢˊ",
         "answer": "ㄑㄧㄢˊ"
       },
       {
         "japanese": "蠶",
-        "english": "ㄘㄢˊ",
+        "english": "silkworm",
         "furigana": "蠶",
         "kana": "ㄘㄢˊ",
         "answer": "ㄘㄢˊ"
       },
       {
         "japanese": "溉",
-        "english": "ㄍㄞˋ",
+        "english": "irrigate",
         "furigana": "溉",
         "kana": "ㄍㄞˋ",
         "answer": "ㄍㄞˋ"
       },
       {
         "japanese": "慨",
-        "english": "ㄎㄞˇ",
+        "english": "incensed",
         "furigana": "慨",
         "kana": "ㄎㄞˇ",
         "answer": "ㄎㄞˇ"
       },
       {
         "japanese": "萍",
-        "english": "ㄆㄧㄥˊ",
+        "english": "duckweed",
         "furigana": "萍",
         "kana": "ㄆㄧㄥˊ",
         "answer": "ㄆㄧㄥˊ"
       },
       {
         "japanese": "秤",
-        "english": "ㄔㄥˋ",
+        "english": "scale",
         "furigana": "秤",
         "kana": "ㄔㄥˋ",
         "answer": "ㄔㄥˋ"
       },
       {
         "japanese": "淆",
-        "english": "ㄧㄠˊ",
+        "english": "confuse",
         "furigana": "淆",
         "kana": "ㄧㄠˊ",
         "answer": "ㄧㄠˊ"
       },
       {
         "japanese": "艾",
-        "english": "ㄞˋ",
+        "english": "chinese mugwort",
         "furigana": "艾",
         "kana": "ㄞˋ",
         "answer": "ㄞˋ"
       },
       {
         "japanese": "哎",
-        "english": "ㄞ",
+        "english": "good grief!",
         "furigana": "哎",
         "kana": "ㄞ",
         "answer": "ㄞ"
       },
       {
         "japanese": "拔",
-        "english": "ㄅㄚˊ",
+        "english": "pull out",
         "furigana": "拔",
         "kana": "ㄅㄚˊ",
         "answer": "ㄅㄚˊ"
       },
       {
         "japanese": "攀",
-        "english": "ㄆㄢ",
+        "english": "climb",
         "furigana": "攀",
         "kana": "ㄆㄢ",
         "answer": "ㄆㄢ"
       },
       {
         "japanese": "屯",
-        "english": "ㄊㄨㄣˊ",
+        "english": "stockpile",
         "furigana": "屯",
         "kana": "ㄊㄨㄣˊ",
         "answer": "ㄊㄨㄣˊ"
       },
       {
         "japanese": "頓",
-        "english": "ㄉㄨㄣˋ",
+        "english": "pause",
         "furigana": "頓",
         "kana": "ㄉㄨㄣˋ",
         "answer": "ㄉㄨㄣˋ"
       },
       {
         "japanese": "噸",
-        "english": "ㄉㄨㄣˋ",
+        "english": "ton",
         "furigana": "噸",
         "kana": "ㄉㄨㄣˋ",
         "answer": "ㄉㄨㄣˋ"
       },
       {
         "japanese": "純",
-        "english": "ㄔㄨㄣˊ",
+        "english": "unadulterated",
         "furigana": "純",
         "kana": "ㄔㄨㄣˊ",
         "answer": "ㄔㄨㄣˊ"
       },
       {
         "japanese": "屆",
-        "english": "ㄐㄧㄝˋ",
+        "english": "fall due",
         "furigana": "屆",
         "kana": "ㄐㄧㄝˋ",
         "answer": "ㄐㄧㄝˋ"
       },
       {
         "japanese": "齒",
-        "english": "ㄔˇ",
+        "english": "teeth",
         "furigana": "齒",
         "kana": "ㄔˇ",
         "answer": "ㄔˇ"
       },
       {
         "japanese": "齣",
-        "english": "ㄔㄨ",
+        "english": "shows",
         "furigana": "齣",
         "kana": "ㄔㄨ",
         "answer": "ㄔㄨ"
       },
       {
         "japanese": "齡",
-        "english": "ㄌㄧㄥˊ",
+        "english": "length of service",
         "furigana": "齡",
         "kana": "ㄌㄧㄥˊ",
         "answer": "ㄌㄧㄥˊ"
       },
       {
         "japanese": "洶",
-        "english": "ㄒㄩㄥ",
+        "english": "turbulent",
         "furigana": "洶",
         "kana": "ㄒㄩㄥ",
         "answer": "ㄒㄩㄥ"
       },
       {
         "japanese": "籬",
-        "english": "ㄌㄧˊ",
+        "english": "fence",
         "furigana": "籬",
         "kana": "ㄌㄧˊ",
         "answer": "ㄌㄧˊ"
       },
       {
         "japanese": "辜",
-        "english": "ㄍㄨ",
+        "english": "crime",
         "furigana": "辜",
         "kana": "ㄍㄨ",
         "answer": "ㄍㄨ"
       },
       {
         "japanese": "宰",
-        "english": "ㄗㄞˇ",
+        "english": "butcher",
         "furigana": "宰",
         "kana": "ㄗㄞˇ",
         "answer": "ㄗㄞˇ"
       },
       {
         "japanese": "辨",
-        "english": "ㄅㄧㄢˋ",
+        "english": "differentiate",
         "furigana": "辨",
         "kana": "ㄅㄧㄢˋ",
         "answer": "ㄅㄧㄢˋ"
       },
       {
         "japanese": "辮",
-        "english": "ㄅㄧㄢˋ",
+        "english": "braid",
         "furigana": "辮",
         "kana": "ㄅㄧㄢˋ",
         "answer": "ㄅㄧㄢˋ"
       },
       {
         "japanese": "臂",
-        "english": "ㄅㄧˋ",
+        "english": "arm",
         "furigana": "臂",
         "kana": "ㄅㄧˋ",
         "answer": "ㄅㄧˋ"
       },
       {
         "japanese": "劈",
-        "english": "ㄆㄧ",
+        "english": "split",
         "furigana": "劈",
         "kana": "ㄆㄧ",
         "answer": "ㄆㄧ"
       },
       {
         "japanese": "譬",
-        "english": "ㄆㄧˋ",
+        "english": "analogy",
         "furigana": "譬",
         "kana": "ㄆㄧˋ",
         "answer": "ㄆㄧˋ"
       },
       {
         "japanese": "僻",
-        "english": "ㄆㄧˋ",
+        "english": "out-of-the-way",
         "furigana": "僻",
         "kana": "ㄆㄧˋ",
         "answer": "ㄆㄧˋ"
       },
       {
         "japanese": "譯",
-        "english": "ㄧˋ",
+        "english": "translate",
         "furigana": "譯",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "擇",
-        "english": "ㄗㄜˊ",
+        "english": "select",
         "furigana": "擇",
         "kana": "ㄗㄜˊ",
         "answer": "ㄗㄜˊ"
       },
       {
         "japanese": "澤",
-        "english": "ㄗㄜˊ",
+        "english": "swamp",
         "furigana": "澤",
         "kana": "ㄗㄜˊ",
         "answer": "ㄗㄜˊ"
       },
       {
         "japanese": "墊",
-        "english": "ㄉㄧㄢˋ",
+        "english": "pad",
         "furigana": "墊",
         "kana": "ㄉㄧㄢˋ",
         "answer": "ㄉㄧㄢˋ"
       },
       {
         "japanese": "摯",
-        "english": "ㄓˋ",
+        "english": "earnest",
         "furigana": "摯",
         "kana": "ㄓˋ",
         "answer": "ㄓˋ"
       },
       {
         "japanese": "糾",
-        "english": "ㄐㄧㄡ",
+        "english": "entangle",
         "furigana": "糾",
         "kana": "ㄐㄧㄡ",
         "answer": "ㄐㄧㄡ"
       },
       {
         "japanese": "凌",
-        "english": "ㄌㄧㄥˊ",
+        "english": "bully",
         "furigana": "凌",
         "kana": "ㄌㄧㄥˊ",
         "answer": "ㄌㄧㄥˊ"
       },
       {
         "japanese": "菱",
-        "english": "ㄌㄧㄥˊ",
+        "english": "water caltrop",
         "furigana": "菱",
         "kana": "ㄌㄧㄥˊ",
         "answer": "ㄌㄧㄥˊ"
       },
       {
         "japanese": "陵",
-        "english": "ㄌㄧㄥˊ",
+        "english": "mausoleum",
         "furigana": "陵",
         "kana": "ㄌㄧㄥˊ",
         "answer": "ㄌㄧㄥˊ"
       },
       {
         "japanese": "咳",
-        "english": "ㄎㄜˊ",
+        "english": "cough",
         "furigana": "咳",
         "kana": "ㄎㄜˊ",
         "answer": "ㄎㄜˊ"
       },
       {
         "japanese": "剎",
-        "english": "ㄕㄚ",
+        "english": "brake",
         "furigana": "剎",
         "kana": "ㄕㄚ",
         "answer": "ㄕㄚ"
       },
       {
         "japanese": "嚷",
-        "english": "ㄖㄤˇ",
+        "english": "cry out",
         "furigana": "嚷",
         "kana": "ㄖㄤˇ",
         "answer": "ㄖㄤˇ"
       },
       {
         "japanese": "釀",
-        "english": "ㄋㄧㄤˋ",
+        "english": "brew",
         "furigana": "釀",
         "kana": "ㄋㄧㄤˋ",
         "answer": "ㄋㄧㄤˋ"
       },
       {
         "japanese": "塞",
-        "english": "ㄙㄞˋ",
+        "english": "stronghold",
         "furigana": "塞",
         "kana": "ㄙㄞˋ",
         "answer": "ㄙㄞˋ"
       },
       {
         "japanese": "寨",
-        "english": "ㄓㄞˋ",
+        "english": "stockade",
         "furigana": "寨",
         "kana": "ㄓㄞˋ",
         "answer": "ㄓㄞˋ"
       },
       {
         "japanese": "憲",
-        "english": "ㄒㄧㄢˋ",
+        "english": "constitution",
         "furigana": "憲",
         "kana": "ㄒㄧㄢˋ",
         "answer": "ㄒㄧㄢˋ"
       },
       {
         "japanese": "晴",
-        "english": "ㄑㄧㄥˊ",
+        "english": "sunny",
         "furigana": "晴",
         "kana": "ㄑㄧㄥˊ",
         "answer": "ㄑㄧㄥˊ"
       },
       {
         "japanese": "猜",
-        "english": "ㄘㄞ",
+        "english": "guess",
         "furigana": "猜",
         "kana": "ㄘㄞ",
         "answer": "ㄘㄞ"
       },
       {
         "japanese": "靖",
-        "english": "ㄐㄧㄥˋ",
+        "english": "pacify",
         "furigana": "靖",
         "kana": "ㄐㄧㄥˋ",
         "answer": "ㄐㄧㄥˋ"
       },
       {
         "japanese": "債",
-        "english": "ㄓㄞˋ",
+        "english": "debt",
         "furigana": "債",
         "kana": "ㄓㄞˋ",
         "answer": "ㄓㄞˋ"
       },
       {
         "japanese": "蹟",
-        "english": "ㄐㄧ",
+        "english": "remains",
         "furigana": "蹟",
         "kana": "ㄐㄧ",
         "answer": "ㄐㄧ"
       },
       {
         "japanese": "牲",
-        "english": "ㄕㄥ",
+        "english": "domestic animal",
         "furigana": "牲",
         "kana": "ㄕㄥ",
         "answer": "ㄕㄥ"
       },
       {
         "japanese": "隆",
-        "english": "ㄌㄨㄥˊ",
+        "english": "impressive",
         "furigana": "隆",
         "kana": "ㄌㄨㄥˊ",
         "answer": "ㄌㄨㄥˊ"
       },
       {
         "japanese": "腥",
-        "english": "ㄒㄧㄥ",
+        "english": "fishy smell",
         "furigana": "腥",
         "kana": "ㄒㄧㄥ",
         "answer": "ㄒㄧㄥ"
       },
       {
         "japanese": "猩",
-        "english": "ㄒㄧㄥ",
+        "english": "orangutan",
         "furigana": "猩",
         "kana": "ㄒㄧㄥ",
         "answer": "ㄒㄧㄥ"
       },
       {
         "japanese": "醒",
-        "english": "ㄒㄧㄥˇ",
+        "english": "awaken",
         "furigana": "醒",
         "kana": "ㄒㄧㄥˇ",
         "answer": "ㄒㄧㄥˇ"
       },
       {
         "japanese": "瞎",
-        "english": "ㄒㄧㄚ",
+        "english": "visionless",
         "furigana": "瞎",
         "kana": "ㄒㄧㄚ",
         "answer": "ㄒㄧㄚ"
       },
       {
         "japanese": "轄",
-        "english": "ㄒㄧㄚˊ",
+        "english": "administer",
         "furigana": "轄",
         "kana": "ㄒㄧㄚˊ",
         "answer": "ㄒㄧㄚˊ"
       },
       {
         "japanese": "契",
-        "english": "ㄑㄧˋ",
+        "english": "contract",
         "furigana": "契",
         "kana": "ㄑㄧˋ",
         "answer": "ㄑㄧˋ"
       },
       {
         "japanese": "拜",
-        "english": "ㄅㄞˋ",
+        "english": "adore",
         "furigana": "拜",
         "kana": "ㄅㄞˋ",
         "answer": "ㄅㄞˋ"
       },
       {
         "japanese": "潔",
-        "english": "ㄐㄧㄝˊ",
+        "english": "spotless",
         "furigana": "潔",
         "kana": "ㄐㄧㄝˊ",
         "answer": "ㄐㄧㄝˊ"
       },
       {
         "japanese": "蜂",
-        "english": "ㄈㄥ",
+        "english": "bee",
         "furigana": "蜂",
         "kana": "ㄈㄥ",
         "answer": "ㄈㄥ"
       },
       {
         "japanese": "峰",
-        "english": "ㄈㄥ",
+        "english": "peak",
         "furigana": "峰",
         "kana": "ㄈㄥ",
         "answer": "ㄈㄥ"
       },
       {
         "japanese": "鋒",
-        "english": "ㄈㄥ",
+        "english": "cutting edge",
         "furigana": "鋒",
         "kana": "ㄈㄥ",
         "answer": "ㄈㄥ"
       },
       {
         "japanese": "逢",
-        "english": "ㄈㄥˊ",
+        "english": "chance upon",
         "furigana": "逢",
         "kana": "ㄈㄥˊ",
         "answer": "ㄈㄥˊ"
       },
       {
         "japanese": "蓬",
-        "english": "ㄆㄥˊ",
+        "english": "disheveled",
         "furigana": "蓬",
         "kana": "ㄆㄥˊ",
         "answer": "ㄆㄥˊ"
       },
       {
         "japanese": "縫",
-        "english": "ㄈㄥˊ",
+        "english": "sew",
         "furigana": "縫",
         "kana": "ㄈㄥˊ",
         "answer": "ㄈㄥˊ"
       },
       {
         "japanese": "奏",
-        "english": "ㄗㄡˋ",
+        "english": "play an instrument",
         "furigana": "奏",
         "kana": "ㄗㄡˋ",
         "answer": "ㄗㄡˋ"
       },
       {
         "japanese": "湊",
-        "english": "ㄘㄡˋ",
+        "english": "gather together",
         "furigana": "湊",
         "kana": "ㄘㄡˋ",
         "answer": "ㄘㄡˋ"
       },
       {
         "japanese": "秦",
-        "english": "ㄑㄧㄣˊ",
+        "english": "qin",
         "furigana": "秦",
         "kana": "ㄑㄧㄣˊ",
         "answer": "ㄑㄧㄣˊ"
       },
       {
         "japanese": "蠢",
-        "english": "ㄔㄨㄣˇ",
+        "english": "foolish",
         "furigana": "蠢",
         "kana": "ㄔㄨㄣˇ",
         "answer": "ㄔㄨㄣˇ"
       },
       {
         "japanese": "捧",
-        "english": "ㄆㄥˇ",
+        "english": "carry in both hands",
         "furigana": "捧",
         "kana": "ㄆㄥˇ",
         "answer": "ㄆㄥˇ"
       },
       {
         "japanese": "嘆",
-        "english": "ㄊㄢˋ",
+        "english": "sigh",
         "furigana": "嘆",
         "kana": "ㄊㄢˋ",
         "answer": "ㄊㄢˋ"
       },
       {
         "japanese": "艱",
-        "english": "ㄐㄧㄢ",
+        "english": "arduous",
         "furigana": "艱",
         "kana": "ㄐㄧㄢ",
         "answer": "ㄐㄧㄢ"
       },
       {
         "japanese": "灘",
-        "english": "ㄊㄢ",
+        "english": "beach",
         "furigana": "灘",
         "kana": "ㄊㄢ",
         "answer": "ㄊㄢ"
       },
       {
         "japanese": "畢",
-        "english": "ㄅㄧˋ",
+        "english": "complete",
         "furigana": "畢",
         "kana": "ㄅㄧˋ",
         "answer": "ㄅㄧˋ"
       },
       {
         "japanese": "唾",
-        "english": "ㄊㄨㄛˋ",
+        "english": "saliva",
         "furigana": "唾",
         "kana": "ㄊㄨㄛˋ",
         "answer": "ㄊㄨㄛˋ"
       },
       {
         "japanese": "吟",
-        "english": "ㄧㄣˊ",
+        "english": "recite",
         "furigana": "吟",
         "kana": "ㄧㄣˊ",
         "answer": "ㄧㄣˊ"
       },
       {
         "japanese": "貪",
-        "english": "ㄊㄢ",
+        "english": "greedy",
         "furigana": "貪",
         "kana": "ㄊㄢ",
         "answer": "ㄊㄢ"
       },
       {
         "japanese": "琴",
-        "english": "ㄑㄧㄣˊ",
+        "english": "stringed instrument",
         "furigana": "琴",
         "kana": "ㄑㄧㄣˊ",
         "answer": "ㄑㄧㄣˊ"
       },
       {
         "japanese": "栗",
-        "english": "ㄌㄧˋ",
+        "english": "chestnut",
         "furigana": "栗",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "潭",
-        "english": "ㄊㄢˊ",
+        "english": "deep pool",
         "furigana": "潭",
         "kana": "ㄊㄢˊ",
         "answer": "ㄊㄢˊ"
       },
       {
         "japanese": "遷",
-        "english": "ㄑㄧㄢ",
+        "english": "resituate",
         "furigana": "遷",
         "kana": "ㄑㄧㄢ",
         "answer": "ㄑㄧㄢ"
       },
       {
         "japanese": "覆",
-        "english": "ㄈㄨˋ",
+        "english": "overturn",
         "furigana": "覆",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "飄",
-        "english": "ㄆㄧㄠ",
+        "english": "flutter",
         "furigana": "飄",
         "kana": "ㄆㄧㄠ",
         "answer": "ㄆㄧㄠ"
       },
       {
         "japanese": "闆",
-        "english": "ㄅㄢˇ",
+        "english": "boss",
         "furigana": "闆",
         "kana": "ㄅㄢˇ",
         "answer": "ㄅㄢˇ"
       },
       {
         "japanese": "闊",
-        "english": "ㄎㄨㄛˋ",
+        "english": "broad",
         "furigana": "闊",
         "kana": "ㄎㄨㄛˋ",
         "answer": "ㄎㄨㄛˋ"
       },
       {
         "japanese": "閉",
-        "english": "ㄅㄧˋ",
+        "english": "close",
         "furigana": "閉",
         "kana": "ㄅㄧˋ",
         "answer": "ㄅㄧˋ"
       },
       {
         "japanese": "潤",
-        "english": "ㄖㄨㄣˋ",
+        "english": "moisten",
         "furigana": "潤",
         "kana": "ㄖㄨㄣˋ",
         "answer": "ㄖㄨㄣˋ"
       },
       {
         "japanese": "閣",
-        "english": "ㄍㄜˊ",
+        "english": "cabinet",
         "furigana": "閣",
         "kana": "ㄍㄜˊ",
         "answer": "ㄍㄜˊ"
       },
       {
         "japanese": "擱",
-        "english": "ㄍㄜ",
+        "english": "put aside",
         "furigana": "擱",
         "kana": "ㄍㄜ",
         "answer": "ㄍㄜ"
       },
       {
         "japanese": "闡",
-        "english": "ㄔㄢˇ",
+        "english": "explicate",
         "furigana": "闡",
         "kana": "ㄔㄢˇ",
         "answer": "ㄔㄢˇ"
       },
       {
         "japanese": "閱",
-        "english": "ㄩㄝˋ",
+        "english": "peruse",
         "furigana": "閱",
         "kana": "ㄩㄝˋ",
         "answer": "ㄩㄝˋ"
       },
       {
         "japanese": "悶",
-        "english": "ㄇㄣ",
+        "english": "stuffy",
         "furigana": "悶",
         "kana": "ㄇㄣ",
         "answer": "ㄇㄣ"
       },
       {
         "japanese": "閃",
-        "english": "ㄕㄢˇ",
+        "english": "flash",
         "furigana": "閃",
         "kana": "ㄕㄢˇ",
         "answer": "ㄕㄢˇ"
       },
       {
         "japanese": "閥",
-        "english": "ㄈㄚˊ",
+        "english": "valve",
         "furigana": "閥",
         "kana": "ㄈㄚˊ",
         "answer": "ㄈㄚˊ"
       },
       {
         "japanese": "閘",
-        "english": "ㄓㄚˊ",
+        "english": "floodgate",
         "furigana": "閘",
         "kana": "ㄓㄚˊ",
         "answer": "ㄓㄚˊ"
       },
       {
         "japanese": "闢",
-        "english": "ㄆㄧˋ",
+        "english": "repudiate",
         "furigana": "闢",
         "kana": "ㄆㄧˋ",
         "answer": "ㄆㄧˋ"
       },
       {
         "japanese": "蒼",
-        "english": "ㄘㄤ",
+        "english": "ash-colored",
         "furigana": "蒼",
         "kana": "ㄘㄤ",
         "answer": "ㄘㄤ"
       },
       {
         "japanese": "搶",
-        "english": "ㄑㄧㄤˇ",
+        "english": "rob",
         "furigana": "搶",
         "kana": "ㄑㄧㄤˇ",
         "answer": "ㄑㄧㄤˇ"
       },
       {
         "japanese": "菲",
-        "english": "ㄈㄟˇ",
+        "english": "humble",
         "furigana": "菲",
         "kana": "ㄈㄟˇ",
         "answer": "ㄈㄟˇ"
       },
       {
         "japanese": "輩",
-        "english": "ㄅㄟˋ",
+        "english": "lifetime",
         "furigana": "輩",
         "kana": "ㄅㄟˋ",
         "answer": "ㄅㄟˋ"
       },
       {
         "japanese": "悲",
-        "english": "ㄅㄟ",
+        "english": "sad",
         "furigana": "悲",
         "kana": "ㄅㄟ",
         "answer": "ㄅㄟ"
       },
       {
         "japanese": "徘",
-        "english": "ㄆㄞˊ",
+        "english": "irresolute",
         "furigana": "徘",
         "kana": "ㄆㄞˊ",
         "answer": "ㄆㄞˊ"
       },
       {
         "japanese": "殲",
-        "english": "ㄐㄧㄢ",
+        "english": "annihilate",
         "furigana": "殲",
         "kana": "ㄐㄧㄢ",
         "answer": "ㄐㄧㄢ"
       },
       {
         "japanese": "籤",
-        "english": "ㄑㄧㄢ",
+        "english": "bamboo slip",
         "furigana": "籤",
         "kana": "ㄑㄧㄢ",
         "answer": "ㄑㄧㄢ"
       },
       {
         "japanese": "纖",
-        "english": "ㄒㄧㄢ",
+        "english": "fiber",
         "furigana": "纖",
         "kana": "ㄒㄧㄢ",
         "answer": "ㄒㄧㄢ"
       },
       {
         "japanese": "喉",
-        "english": "ㄏㄡˊ",
+        "english": "gullet",
         "furigana": "喉",
         "kana": "ㄏㄡˊ",
         "answer": "ㄏㄡˊ"
       },
       {
         "japanese": "猴",
-        "english": "ㄏㄡˊ",
+        "english": "monkey",
         "furigana": "猴",
         "kana": "ㄏㄡˊ",
         "answer": "ㄏㄡˊ"
       },
       {
         "japanese": "韓",
-        "english": "ㄏㄢˊ",
+        "english": "korea",
         "furigana": "韓",
         "kana": "ㄏㄢˊ",
         "answer": "ㄏㄢˊ"
       },
       {
         "japanese": "違",
-        "english": "ㄨㄟˊ",
+        "english": "disobey",
         "furigana": "違",
         "kana": "ㄨㄟˊ",
         "answer": "ㄨㄟˊ"
       },
       {
         "japanese": "緯",
-        "english": "ㄨㄟˇ",
+        "english": "latitude",
         "furigana": "緯",
         "kana": "ㄨㄟˇ",
         "answer": "ㄨㄟˇ"
       },
       {
         "japanese": "竿",
-        "english": "ㄍㄢ",
+        "english": "pole",
         "furigana": "竿",
         "kana": "ㄍㄢ",
         "answer": "ㄍㄢ"
       },
       {
         "japanese": "罕",
-        "english": "ㄏㄢˇ",
+        "english": "rarely",
         "furigana": "罕",
         "kana": "ㄏㄢˇ",
         "answer": "ㄏㄢˇ"
       },
       {
         "japanese": "軒",
-        "english": "ㄒㄩㄢ",
+        "english": "veranda",
         "furigana": "軒",
         "kana": "ㄒㄩㄢ",
         "answer": "ㄒㄩㄢ"
       },
       {
         "japanese": "肝",
-        "english": "ㄍㄢ",
+        "english": "liver",
         "furigana": "肝",
         "kana": "ㄍㄢ",
         "answer": "ㄍㄢ"
       },
       {
         "japanese": "刊",
-        "english": "ㄎㄢ",
+        "english": "publication",
         "furigana": "刊",
         "kana": "ㄎㄢ",
         "answer": "ㄎㄢ"
       },
       {
         "japanese": "汗",
-        "english": "ㄏㄢˋ",
+        "english": "sweat",
         "furigana": "汗",
         "kana": "ㄏㄢˋ",
         "answer": "ㄏㄢˋ"
       },
       {
         "japanese": "桿",
-        "english": "ㄍㄢˇ",
+        "english": "shaft",
         "furigana": "桿",
         "kana": "ㄍㄢˇ",
         "answer": "ㄍㄢˇ"
       },
       {
         "japanese": "悍",
-        "english": "ㄏㄢˋ",
+        "english": "bold",
         "furigana": "悍",
         "kana": "ㄏㄢˋ",
         "answer": "ㄏㄢˋ"
       },
       {
         "japanese": "徐",
-        "english": "ㄒㄩˊ",
+        "english": "slowly",
         "furigana": "徐",
         "kana": "ㄒㄩˊ",
         "answer": "ㄒㄩˊ"
       },
       {
         "japanese": "敘",
-        "english": "ㄒㄩˋ",
+        "english": "recount",
         "furigana": "敘",
         "kana": "ㄒㄩˋ",
         "answer": "ㄒㄩˋ"
       },
       {
         "japanese": "塗",
-        "english": "ㄊㄨˊ",
+        "english": "smear",
         "furigana": "塗",
         "kana": "ㄊㄨˊ",
         "answer": "ㄊㄨˊ"
       },
       {
         "japanese": "斜",
-        "english": "ㄒㄧㄝˊ",
+        "english": "slanting",
         "furigana": "斜",
         "kana": "ㄒㄧㄝˊ",
         "answer": "ㄒㄧㄝˊ"
       },
       {
         "japanese": "喇",
-        "english": "ㄌㄚˇ",
+        "english": "flared horn",
         "furigana": "喇",
         "kana": "ㄌㄚˇ",
         "answer": "ㄌㄚˇ"
       },
       {
         "japanese": "嗽",
-        "english": "ㄙㄡˋ",
+        "english": "hack",
         "furigana": "嗽",
         "kana": "ㄙㄡˋ",
         "answer": "ㄙㄡˋ"
       },
       {
         "japanese": "賴",
-        "english": "ㄌㄞˋ",
+        "english": "rely on",
         "furigana": "賴",
         "kana": "ㄌㄞˋ",
         "answer": "ㄌㄞˋ"
       },
       {
         "japanese": "懶",
-        "english": "ㄌㄢˇ",
+        "english": "lazy",
         "furigana": "懶",
         "kana": "ㄌㄢˇ",
         "answer": "ㄌㄢˇ"
       },
       {
         "japanese": "嫩",
-        "english": "ㄋㄣˋ",
+        "english": "tender",
         "furigana": "嫩",
         "kana": "ㄋㄣˋ",
         "answer": "ㄋㄣˋ"
       },
       {
         "japanese": "煉",
-        "english": "ㄌㄧㄢˋ",
+        "english": "refine",
         "furigana": "煉",
         "kana": "ㄌㄧㄢˋ",
         "answer": "ㄌㄧㄢˋ"
       },
       {
         "japanese": "鍊",
-        "english": "ㄌㄧㄢˋ",
+        "english": "chain",
         "furigana": "鍊",
         "kana": "ㄌㄧㄢˋ",
         "answer": "ㄌㄧㄢˋ"
       },
       {
         "japanese": "腫",
-        "english": "ㄓㄨㄥˇ",
+        "english": "swollen",
         "furigana": "腫",
         "kana": "ㄓㄨㄥˇ",
         "answer": "ㄓㄨㄥˇ"
       },
       {
         "japanese": "董",
-        "english": "ㄉㄨㄥˇ",
+        "english": "director",
         "furigana": "董",
         "kana": "ㄉㄨㄥˇ",
         "answer": "ㄉㄨㄥˇ"
       },
       {
         "japanese": "鍾",
-        "english": "ㄓㄨㄥ",
+        "english": "draw together",
         "furigana": "鍾",
         "kana": "ㄓㄨㄥ",
         "answer": "ㄓㄨㄥ"
       },
       {
         "japanese": "痰",
-        "english": "ㄊㄢˊ",
+        "english": "phlegm",
         "furigana": "痰",
         "kana": "ㄊㄢˊ",
         "answer": "ㄊㄢˊ"
       },
       {
         "japanese": "症",
-        "english": "ㄓㄥˋ",
+        "english": "disease",
         "furigana": "症",
         "kana": "ㄓㄥˋ",
         "answer": "ㄓㄥˋ"
       },
       {
         "japanese": "疼",
-        "english": "ㄊㄥˊ",
+        "english": "hurt",
         "furigana": "疼",
         "kana": "ㄊㄥˊ",
         "answer": "ㄊㄥˊ"
       },
       {
         "japanese": "癒",
-        "english": "ㄩˋ",
+        "english": "get well",
         "furigana": "癒",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "疫",
-        "english": "ㄧˋ",
+        "english": "epidemic",
         "furigana": "疫",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "癌",
-        "english": "ㄧㄢˊ",
+        "english": "cancer",
         "furigana": "癌",
         "kana": "ㄧㄢˊ",
         "answer": "ㄧㄢˊ"
       },
       {
         "japanese": "疲",
-        "english": "ㄆㄧˊ",
+        "english": "fatigued",
         "furigana": "疲",
         "kana": "ㄆㄧˊ",
         "answer": "ㄆㄧˊ"
       },
       {
         "japanese": "疾",
-        "english": "ㄐㄧˊ",
+        "english": "rapid",
         "furigana": "疾",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "痴",
-        "english": "ㄔ",
+        "english": "idiotic",
         "furigana": "痴",
         "kana": "ㄔ",
         "answer": "ㄔ"
       },
       {
         "japanese": "瘤",
-        "english": "ㄌㄧㄡˊ",
+        "english": "tumor",
         "furigana": "瘤",
         "kana": "ㄌㄧㄡˊ",
         "answer": "ㄌㄧㄡˊ"
       },
       {
         "japanese": "痕",
-        "english": "ㄏㄣˊ",
+        "english": "trace",
         "furigana": "痕",
         "kana": "ㄏㄣˊ",
         "answer": "ㄏㄣˊ"
       },
       {
         "japanese": "癢",
-        "english": "ㄧㄤˇ",
+        "english": "itch",
         "furigana": "癢",
         "kana": "ㄧㄤˇ",
         "answer": "ㄧㄤˇ"
       },
       {
         "japanese": "癱",
-        "english": "ㄊㄢ",
+        "english": "paralysis",
         "furigana": "癱",
         "kana": "ㄊㄢ",
         "answer": "ㄊㄢ"
       },
       {
         "japanese": "瘡",
-        "english": "ㄔㄨㄤ",
+        "english": "sore",
         "furigana": "瘡",
         "kana": "ㄔㄨㄤ",
         "answer": "ㄔㄨㄤ"
       },
       {
         "japanese": "穩",
-        "english": "ㄨㄣˇ",
+        "english": "stable",
         "furigana": "穩",
         "kana": "ㄨㄣˇ",
         "answer": "ㄨㄣˇ"
       },
       {
         "japanese": "隱",
-        "english": "ㄧㄣˇ",
+        "english": "hidden",
         "furigana": "隱",
         "kana": "ㄧㄣˇ",
         "answer": "ㄧㄣˇ"
       },
       {
         "japanese": "癮",
-        "english": "ㄧㄣˇ",
+        "english": "addiction",
         "furigana": "癮",
         "kana": "ㄧㄣˇ",
         "answer": "ㄧㄣˇ"
       },
       {
         "japanese": "巨",
-        "english": "ㄐㄩˋ",
+        "english": "gigantic",
         "furigana": "巨",
         "kana": "ㄐㄩˋ",
         "answer": "ㄐㄩˋ"
       },
       {
         "japanese": "渠",
-        "english": "ㄑㄩˊ",
+        "english": "canal",
         "furigana": "渠",
         "kana": "ㄑㄩˊ",
         "answer": "ㄑㄩˊ"
       },
       {
         "japanese": "拒",
-        "english": "ㄐㄩˋ",
+        "english": "refuse",
         "furigana": "拒",
         "kana": "ㄐㄩˋ",
         "answer": "ㄐㄩˋ"
       },
       {
         "japanese": "矩",
-        "english": "ㄐㄩˇ",
+        "english": "square",
         "furigana": "矩",
         "kana": "ㄐㄩˇ",
         "answer": "ㄐㄩˇ"
       },
       {
         "japanese": "距",
-        "english": "ㄐㄩˋ",
+        "english": "distance",
         "furigana": "距",
         "kana": "ㄐㄩˋ",
         "answer": "ㄐㄩˋ"
       },
       {
         "japanese": "框",
-        "english": "ㄎㄨㄤ",
+        "english": "rectangular frame",
         "furigana": "框",
         "kana": "ㄎㄨㄤ",
         "answer": "ㄎㄨㄤ"
       },
       {
         "japanese": "筐",
-        "english": "ㄎㄨㄤ",
+        "english": "rectangular basket",
         "furigana": "筐",
         "kana": "ㄎㄨㄤ",
         "answer": "ㄎㄨㄤ"
       },
       {
         "japanese": "砸",
-        "english": "ㄗㄚˊ",
+        "english": "smash",
         "furigana": "砸",
         "kana": "ㄗㄚˊ",
         "answer": "ㄗㄚˊ"
       },
       {
         "japanese": "匯",
-        "english": "ㄏㄨㄟˋ",
+        "english": "converge",
         "furigana": "匯",
         "kana": "ㄏㄨㄟˋ",
         "answer": "ㄏㄨㄟˋ"
       },
       {
         "japanese": "匠",
-        "english": "ㄐㄧㄤˋ",
+        "english": "artisan",
         "furigana": "匠",
         "kana": "ㄐㄧㄤˋ",
         "answer": "ㄐㄧㄤˋ"
       },
       {
         "japanese": "匪",
-        "english": "ㄈㄟˇ",
+        "english": "bandit",
         "furigana": "匪",
         "kana": "ㄈㄟˇ",
         "answer": "ㄈㄟˇ"
       },
       {
         "japanese": "匿",
-        "english": "ㄋㄧˋ",
+        "english": "keep out of sight",
         "furigana": "匿",
         "kana": "ㄋㄧˋ",
         "answer": "ㄋㄧˋ"
       },
       {
         "japanese": "兜",
-        "english": "ㄉㄡ",
+        "english": "pocket",
         "furigana": "兜",
         "kana": "ㄉㄡ",
         "answer": "ㄉㄡ"
       },
       {
         "japanese": "嘔",
-        "english": "ㄡˇ",
+        "english": "vomit",
         "furigana": "嘔",
         "kana": "ㄡˇ",
         "answer": "ㄡˇ"
       },
       {
         "japanese": "毆",
-        "english": "ㄡ",
+        "english": "hit",
         "furigana": "毆",
         "kana": "ㄡ",
         "answer": "ㄡ"
       },
       {
         "japanese": "軀",
-        "english": "ㄑㄩ",
+        "english": "human body",
         "furigana": "軀",
         "kana": "ㄑㄩ",
         "answer": "ㄑㄩ"
       },
       {
         "japanese": "昂",
-        "english": "ㄤˊ",
+        "english": "hold one's head high",
         "furigana": "昂",
         "kana": "ㄤˊ",
         "answer": "ㄤˊ"
       },
       {
         "japanese": "抑",
-        "english": "ㄧˋ",
+        "english": "curb",
         "furigana": "抑",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "葵",
-        "english": "ㄎㄨㄟˊ",
+        "english": "large-flowered plants",
         "furigana": "葵",
         "kana": "ㄎㄨㄟˊ",
         "answer": "ㄎㄨㄟˊ"
       },
       {
         "japanese": "僚",
-        "english": "ㄌㄧㄠˊ",
+        "english": "coworker",
         "furigana": "僚",
         "kana": "ㄌㄧㄠˊ",
         "answer": "ㄌㄧㄠˊ"
       },
       {
         "japanese": "遼",
-        "english": "ㄌㄧㄠˊ",
+        "english": "far away",
         "furigana": "遼",
         "kana": "ㄌㄧㄠˊ",
         "answer": "ㄌㄧㄠˊ"
       },
       {
         "japanese": "瞭",
-        "english": "ㄌㄧㄠˇ",
+        "english": "comprehend",
         "furigana": "瞭",
         "kana": "ㄌㄧㄠˇ",
         "answer": "ㄌㄧㄠˇ"
       },
       {
         "japanese": "療",
-        "english": "ㄌㄧㄠˊ",
+        "english": "cure",
         "furigana": "療",
         "kana": "ㄌㄧㄠˊ",
         "answer": "ㄌㄧㄠˊ"
       },
       {
         "japanese": "瞪",
-        "english": "ㄉㄥˋ",
+        "english": "glare",
         "furigana": "瞪",
         "kana": "ㄉㄥˋ",
         "answer": "ㄉㄥˋ"
       },
       {
         "japanese": "凳",
-        "english": "ㄉㄥˋ",
+        "english": "bench",
         "furigana": "凳",
         "kana": "ㄉㄥˋ",
         "answer": "ㄉㄥˋ"
       },
       {
         "japanese": "澄",
-        "english": "ㄔㄥˊ",
+        "english": "transparent",
         "furigana": "澄",
         "kana": "ㄔㄥˊ",
         "answer": "ㄔㄥˊ"
       },
       {
         "japanese": "潑",
-        "english": "ㄆㄛ",
+        "english": "splash",
         "furigana": "潑",
         "kana": "ㄆㄛ",
         "answer": "ㄆㄛ"
       },
       {
         "japanese": "撥",
-        "english": "ㄅㄛ",
+        "english": "allocate",
         "furigana": "撥",
         "kana": "ㄅㄛ",
         "answer": "ㄅㄛ"
       },
       {
         "japanese": "杉",
-        "english": "ㄕㄢ",
+        "english": "fir tree",
         "furigana": "杉",
         "kana": "ㄕㄢ",
         "answer": "ㄕㄢ"
       },
       {
         "japanese": "彬",
-        "english": "ㄅㄧㄣ",
+        "english": "well-mannered",
         "furigana": "彬",
         "kana": "ㄅㄧㄣ",
         "answer": "ㄅㄧㄣ"
       },
       {
         "japanese": "衫",
-        "english": "ㄕㄢ",
+        "english": "shirt",
         "furigana": "衫",
         "kana": "ㄕㄢ",
         "answer": "ㄕㄢ"
       },
       {
         "japanese": "彰",
-        "english": "ㄓㄤ",
+        "english": "manifest",
         "furigana": "彰",
         "kana": "ㄓㄤ",
         "answer": "ㄓㄤ"
       },
       {
         "japanese": "膨",
-        "english": "ㄆㄥˊ",
+        "english": "puffy",
         "furigana": "膨",
         "kana": "ㄆㄥˊ",
         "answer": "ㄆㄥˊ"
       },
       {
         "japanese": "趁",
-        "english": "ㄔㄣˋ",
+        "english": "take advantage of",
         "furigana": "趁",
         "kana": "ㄔㄣˋ",
         "answer": "ㄔㄣˋ"
       },
       {
         "japanese": "診",
-        "english": "ㄓㄣˇ",
+        "english": "diagnose",
         "furigana": "診",
         "kana": "ㄓㄣˇ",
         "answer": "ㄓㄣˇ"
       },
       {
         "japanese": "滲",
-        "english": "ㄕㄣˋ",
+        "english": "seep",
         "furigana": "滲",
         "kana": "ㄕㄣˋ",
         "answer": "ㄕㄣˋ"
       },
       {
         "japanese": "膠",
-        "english": "ㄐㄧㄠ",
+        "english": "gum",
         "furigana": "膠",
         "kana": "ㄐㄧㄠ",
         "answer": "ㄐㄧㄠ"
       },
       {
         "japanese": "謬",
-        "english": "ㄇㄧㄡˋ",
+        "english": "wrong",
         "furigana": "謬",
         "kana": "ㄇㄧㄡˋ",
         "answer": "ㄇㄧㄡˋ"
       },
       {
         "japanese": "寥",
-        "english": "ㄌㄧㄠˊ",
+        "english": "deserted",
         "furigana": "寥",
         "kana": "ㄌㄧㄠˊ",
         "answer": "ㄌㄧㄠˊ"
       },
       {
         "japanese": "斑",
-        "english": "ㄅㄢ",
+        "english": "speck",
         "furigana": "斑",
         "kana": "ㄅㄢ",
         "answer": "ㄅㄢ"
       },
       {
         "japanese": "紋",
-        "english": "ㄨㄣˊ",
+        "english": "design",
         "furigana": "紋",
         "kana": "ㄨㄣˊ",
         "answer": "ㄨㄣˊ"
       },
       {
         "japanese": "鏟",
-        "english": "ㄔㄢˇ",
+        "english": "small shovel",
         "furigana": "鏟",
         "kana": "ㄔㄢˇ",
         "answer": "ㄔㄢˇ"
       },
       {
         "japanese": "薩",
-        "english": "ㄙㄚˋ",
+        "english": "samoa",
         "furigana": "薩",
         "kana": "ㄙㄚˋ",
         "answer": "ㄙㄚˋ"
       },
       {
         "japanese": "脊",
-        "english": "ㄐㄧˇ",
+        "english": "backbone",
         "furigana": "脊",
         "kana": "ㄐㄧˇ",
         "answer": "ㄐㄧˇ"
       },
       {
         "japanese": "函",
-        "english": "ㄏㄢˊ",
+        "english": "letter",
         "furigana": "函",
         "kana": "ㄏㄢˊ",
         "answer": "ㄏㄢˊ"
       },
       {
         "japanese": "涵",
-        "english": "ㄏㄢˊ",
+        "english": "culvert",
         "furigana": "涵",
         "kana": "ㄏㄢˊ",
         "answer": "ㄏㄢˊ"
       },
       {
         "japanese": "映",
-        "english": "ㄧㄥˋ",
+        "english": "reflect",
         "furigana": "映",
         "kana": "ㄧㄥˋ",
         "answer": "ㄧㄥˋ"
       },
       {
         "japanese": "殃",
-        "english": "ㄧㄤ",
+        "english": "calamity",
         "furigana": "殃",
         "kana": "ㄧㄤ",
         "answer": "ㄧㄤ"
       },
       {
         "japanese": "肥",
-        "english": "ㄈㄟˊ",
+        "english": "plump",
         "furigana": "肥",
         "kana": "ㄈㄟˊ",
         "answer": "ㄈㄟˊ"
       },
       {
         "japanese": "爬",
-        "english": "ㄆㄚˊ",
+        "english": "crawl",
         "furigana": "爬",
         "kana": "ㄆㄚˊ",
         "answer": "ㄆㄚˊ"
       },
       {
         "japanese": "疤",
-        "english": "ㄅㄚ",
+        "english": "scar",
         "furigana": "疤",
         "kana": "ㄅㄚ",
         "answer": "ㄅㄚ"
       },
       {
         "japanese": "艷",
-        "english": "ㄧㄢˋ",
+        "english": "gorgeous",
         "furigana": "艷",
         "kana": "ㄧㄢˋ",
         "answer": "ㄧㄢˋ"
       },
       {
         "japanese": "甜",
-        "english": "ㄊㄧㄢˊ",
+        "english": "sugary",
         "furigana": "甜",
         "kana": "ㄊㄧㄢˊ",
         "answer": "ㄊㄧㄢˊ"
       },
       {
         "japanese": "鉗",
-        "english": "ㄑㄧㄢˊ",
+        "english": "pliers",
         "furigana": "鉗",
         "kana": "ㄑㄧㄢˊ",
         "answer": "ㄑㄧㄢˊ"
       },
       {
         "japanese": "媒",
-        "english": "ㄇㄟˊ",
+        "english": "matchmaker",
         "furigana": "媒",
         "kana": "ㄇㄟˊ",
         "answer": "ㄇㄟˊ"
       },
       {
         "japanese": "煤",
-        "english": "ㄇㄟˊ",
+        "english": "coal",
         "furigana": "煤",
         "kana": "ㄇㄟˊ",
         "answer": "ㄇㄟˊ"
       },
       {
         "japanese": "謀",
-        "english": "ㄇㄡˊ",
+        "english": "scheme",
         "furigana": "謀",
         "kana": "ㄇㄡˊ",
         "answer": "ㄇㄡˊ"
       },
       {
         "japanese": "棋",
-        "english": "ㄑㄧˊ",
+        "english": "chess",
         "furigana": "棋",
         "kana": "ㄑㄧˊ",
         "answer": "ㄑㄧˊ"
       },
       {
         "japanese": "欺",
-        "english": "ㄑㄧ",
+        "english": "dupe",
         "furigana": "欺",
         "kana": "ㄑㄧ",
         "answer": "ㄑㄧ"
       },
       {
         "japanese": "旗",
-        "english": "ㄑㄧˊ",
+        "english": "flag",
         "furigana": "旗",
         "kana": "ㄑㄧˊ",
         "answer": "ㄑㄧˊ"
       },
       {
         "japanese": "嘶",
-        "english": "ㄙ",
+        "english": "hoarse",
         "furigana": "嘶",
         "kana": "ㄙ",
         "answer": "ㄙ"
       },
       {
         "japanese": "撕",
-        "english": "ㄙ",
+        "english": "rip",
         "furigana": "撕",
         "kana": "ㄙ",
         "answer": "ㄙ"
       },
       {
         "japanese": "堪",
-        "english": "ㄎㄢ",
+        "english": "tolerate",
         "furigana": "堪",
         "kana": "ㄎㄢ",
         "answer": "ㄎㄢ"
       },
       {
         "japanese": "勘",
-        "english": "ㄎㄢ",
+        "english": "survey",
         "furigana": "勘",
         "kana": "ㄎㄢ",
         "answer": "ㄎㄢ"
       },
       {
         "japanese": "遣",
-        "english": "ㄑㄧㄢˇ",
+        "english": "dispatch",
         "furigana": "遣",
         "kana": "ㄑㄧㄢˇ",
         "answer": "ㄑㄧㄢˇ"
       },
       {
         "japanese": "譴",
-        "english": "ㄑㄧㄢˇ",
+        "english": "censure",
         "furigana": "譴",
         "kana": "ㄑㄧㄢˇ",
         "answer": "ㄑㄧㄢˇ"
       },
       {
         "japanese": "囊",
-        "english": "ㄋㄤˊ",
+        "english": "sack",
         "furigana": "囊",
         "kana": "ㄋㄤˊ",
         "answer": "ㄋㄤˊ"
       },
       {
         "japanese": "潰",
-        "english": "ㄎㄨㄟˋ",
+        "english": "burst",
         "furigana": "潰",
         "kana": "ㄎㄨㄟˋ",
         "answer": "ㄎㄨㄟˋ"
       },
       {
         "japanese": "櫃",
-        "english": "ㄍㄨㄟˋ",
+        "english": "cupboard",
         "furigana": "櫃",
         "kana": "ㄍㄨㄟˋ",
         "answer": "ㄍㄨㄟˋ"
       },
       {
         "japanese": "宜",
-        "english": "ㄧˊ",
+        "english": "fitting",
         "furigana": "宜",
         "kana": "ㄧˊ",
         "answer": "ㄧˊ"
       },
       {
         "japanese": "誼",
-        "english": "ㄧˋ",
+        "english": "friendship",
         "furigana": "誼",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "租",
-        "english": "ㄗㄨ",
+        "english": "rent",
         "furigana": "租",
         "kana": "ㄗㄨ",
         "answer": "ㄗㄨ"
       },
       {
         "japanese": "粗",
-        "english": "ㄘㄨ",
+        "english": "coarse",
         "furigana": "粗",
         "kana": "ㄘㄨ",
         "answer": "ㄘㄨ"
       },
       {
         "japanese": "阻",
-        "english": "ㄗㄨˇ",
+        "english": "block",
         "furigana": "阻",
         "kana": "ㄗㄨˇ",
         "answer": "ㄗㄨˇ"
       },
       {
         "japanese": "疊",
-        "english": "ㄉㄧㄝˊ",
+        "english": "heap",
         "furigana": "疊",
         "kana": "ㄉㄧㄝˊ",
         "answer": "ㄉㄧㄝˊ"
       },
       {
         "japanese": "壘",
-        "english": "ㄌㄟˇ",
+        "english": "baseball base",
         "furigana": "壘",
         "kana": "ㄌㄟˇ",
         "answer": "ㄌㄟˇ"
       },
       {
         "japanese": "鋤",
-        "english": "ㄔㄨˊ",
+        "english": "hoe",
         "furigana": "鋤",
         "kana": "ㄔㄨˊ",
         "answer": "ㄔㄨˊ"
       },
       {
         "japanese": "叢",
-        "english": "ㄘㄨㄥˊ",
+        "english": "thicket",
         "furigana": "叢",
         "kana": "ㄘㄨㄥˊ",
         "answer": "ㄘㄨㄥˊ"
       },
       {
         "japanese": "樸",
-        "english": "ㄆㄨˊ",
+        "english": "plain",
         "furigana": "樸",
         "kana": "ㄆㄨˊ",
         "answer": "ㄆㄨˊ"
       },
       {
         "japanese": "撲",
-        "english": "ㄆㄨ",
+        "english": "pounce on",
         "furigana": "撲",
         "kana": "ㄆㄨ",
         "answer": "ㄆㄨ"
       },
       {
         "japanese": "僕",
-        "english": "ㄆㄨˊ",
+        "english": "servant",
         "furigana": "僕",
         "kana": "ㄆㄨˊ",
         "answer": "ㄆㄨˊ"
       },
       {
         "japanese": "譜",
-        "english": "ㄆㄨˇ",
+        "english": "musical score",
         "furigana": "譜",
         "kana": "ㄆㄨˇ",
         "answer": "ㄆㄨˇ"
       },
       {
         "japanese": "哄",
-        "english": "ㄏㄨㄥˇ",
+        "english": "fool",
         "furigana": "哄",
         "kana": "ㄏㄨㄥˇ",
         "answer": "ㄏㄨㄥˇ"
       },
       {
         "japanese": "洪",
-        "english": "ㄏㄨㄥˊ",
+        "english": "deluge",
         "furigana": "洪",
         "kana": "ㄏㄨㄥˊ",
         "answer": "ㄏㄨㄥˊ"
       },
       {
         "japanese": "烘",
-        "english": "ㄏㄨㄥ",
+        "english": "warm by a fire",
         "furigana": "烘",
         "kana": "ㄏㄨㄥ",
         "answer": "ㄏㄨㄥ"
       },
       {
         "japanese": "恭",
-        "english": "ㄍㄨㄥ",
+        "english": "respectful",
         "furigana": "恭",
         "kana": "ㄍㄨㄥ",
         "answer": "ㄍㄨㄥ"
       },
       {
         "japanese": "拱",
-        "english": "ㄍㄨㄥˇ",
+        "english": "arch",
         "furigana": "拱",
         "kana": "ㄍㄨㄥˇ",
         "answer": "ㄍㄨㄥˇ"
       },
       {
         "japanese": "暴",
-        "english": "ㄅㄠˋ",
+        "english": "violent",
         "furigana": "暴",
         "kana": "ㄅㄠˋ",
         "answer": "ㄅㄠˋ"
       },
       {
         "japanese": "瀑",
-        "english": "ㄆㄨˋ",
+        "english": "waterfall",
         "furigana": "瀑",
         "kana": "ㄆㄨˋ",
         "answer": "ㄆㄨˋ"
       },
       {
         "japanese": "爆",
-        "english": "ㄅㄠˋ",
+        "english": "explode",
         "furigana": "爆",
         "kana": "ㄅㄠˋ",
         "answer": "ㄅㄠˋ"
       },
       {
         "japanese": "殿",
-        "english": "ㄉㄧㄢˋ",
+        "english": "ceremonial hall",
         "furigana": "殿",
         "kana": "ㄉㄧㄢˋ",
         "answer": "ㄉㄧㄢˋ"
       },
       {
         "japanese": "戴",
-        "english": "ㄉㄞˋ",
+        "english": "have on",
         "furigana": "戴",
         "kana": "ㄉㄞˋ",
         "answer": "ㄉㄞˋ"
       },
       {
         "japanese": "翼",
-        "english": "ㄧˋ",
+        "english": "wings",
         "furigana": "翼",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "糞",
-        "english": "ㄈㄣˋ",
+        "english": "dung",
         "furigana": "糞",
         "kana": "ㄈㄣˋ",
         "answer": "ㄈㄣˋ"
       },
       {
         "japanese": "撰",
-        "english": "ㄓㄨㄢˋ",
+        "english": "compose",
         "furigana": "撰",
         "kana": "ㄓㄨㄢˋ",
         "answer": "ㄓㄨㄢˋ"
       },
       {
         "japanese": "啞",
-        "english": "ㄧㄚˇ",
+        "english": "mute",
         "furigana": "啞",
         "kana": "ㄧㄚˇ",
         "answer": "ㄧㄚˇ"
       },
       {
         "japanese": "壺",
-        "english": "ㄏㄨˊ",
+        "english": "kettle",
         "furigana": "壺",
         "kana": "ㄏㄨˊ",
         "answer": "ㄏㄨˊ"
       },
       {
         "japanese": "蟹",
-        "english": "ㄒㄧㄝˋ",
+        "english": "crab",
         "furigana": "蟹",
         "kana": "ㄒㄧㄝˋ",
         "answer": "ㄒㄧㄝˋ"
       },
       {
         "japanese": "懈",
-        "english": "ㄒㄧㄝˋ",
+        "english": "lax",
         "furigana": "懈",
         "kana": "ㄒㄧㄝˋ",
         "answer": "ㄒㄧㄝˋ"
       },
       {
         "japanese": "購",
-        "english": "ㄍㄡˋ",
+        "english": "purchase",
         "furigana": "購",
         "kana": "ㄍㄡˋ",
         "answer": "ㄍㄡˋ"
       },
       {
         "japanese": "溝",
-        "english": "ㄍㄡ",
+        "english": "ditch",
         "furigana": "溝",
         "kana": "ㄍㄡ",
         "answer": "ㄍㄡ"
       },
       {
         "japanese": "鑰",
-        "english": "ㄧㄠˋ",
+        "english": "key",
         "furigana": "鑰",
         "kana": "ㄧㄠˋ",
         "answer": "ㄧㄠˋ"
       },
       {
         "japanese": "籲",
-        "english": "ㄩˋ",
+        "english": "plead",
         "furigana": "籲",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "冊",
-        "english": "ㄘㄜˋ",
+        "english": "vol.",
         "furigana": "冊",
         "kana": "ㄘㄜˋ",
         "answer": "ㄘㄜˋ"
       },
       {
         "japanese": "刪",
-        "english": "ㄕㄢ",
+        "english": "delete",
         "furigana": "刪",
         "kana": "ㄕㄢ",
         "answer": "ㄕㄢ"
       },
       {
         "japanese": "柵",
-        "english": "ㄓㄚˋ",
+        "english": "palisade",
         "furigana": "柵",
         "kana": "ㄓㄚˋ",
         "answer": "ㄓㄚˋ"
       },
       {
         "japanese": "珊",
-        "english": "ㄕㄢ",
+        "english": "coral",
         "furigana": "珊",
         "kana": "ㄕㄢ",
         "answer": "ㄕㄢ"
       },
       {
         "japanese": "遍",
-        "english": "ㄅㄧㄢˋ",
+        "english": "everywhere",
         "furigana": "遍",
         "kana": "ㄅㄧㄢˋ",
         "answer": "ㄅㄧㄢˋ"
       },
       {
         "japanese": "偏",
-        "english": "ㄆㄧㄢ",
+        "english": "partial",
         "furigana": "偏",
         "kana": "ㄆㄧㄢ",
         "answer": "ㄆㄧㄢ"
       },
       {
         "japanese": "淪",
-        "english": "ㄌㄨㄣˊ",
+        "english": "sink",
         "furigana": "淪",
         "kana": "ㄌㄨㄣˊ",
         "answer": "ㄌㄨㄣˊ"
       },
       {
         "japanese": "倫",
-        "english": "ㄌㄨㄣˊ",
+        "english": "human relationships",
         "furigana": "倫",
         "kana": "ㄌㄨㄣˊ",
         "answer": "ㄌㄨㄣˊ"
       },
       {
         "japanese": "抵",
-        "english": "ㄉㄧˇ",
+        "english": "resist",
         "furigana": "抵",
         "kana": "ㄉㄧˇ",
         "answer": "ㄉㄧˇ"
       },
       {
         "japanese": "氓",
-        "english": "ㄇㄤˊ",
+        "english": "hoodlum",
         "furigana": "氓",
         "kana": "ㄇㄤˊ",
         "answer": "ㄇㄤˊ"
       },
       {
         "japanese": "哺",
-        "english": "ㄅㄨˇ",
+        "english": "breastfeed",
         "furigana": "哺",
         "kana": "ㄅㄨˇ",
         "answer": "ㄅㄨˇ"
       },
       {
         "japanese": "鋪",
-        "english": "ㄆㄨˋ",
+        "english": "shop",
         "furigana": "鋪",
         "kana": "ㄆㄨˋ",
         "answer": "ㄆㄨˋ"
       },
       {
         "japanese": "輔",
-        "english": "ㄈㄨˇ",
+        "english": "supplement",
         "furigana": "輔",
         "kana": "ㄈㄨˇ",
         "answer": "ㄈㄨˇ"
       },
       {
         "japanese": "捕",
-        "english": "ㄅㄨˇ",
+        "english": "capture",
         "furigana": "捕",
         "kana": "ㄅㄨˇ",
         "answer": "ㄅㄨˇ"
       },
       {
         "japanese": "敷",
-        "english": "ㄈㄨ",
+        "english": "apply",
         "furigana": "敷",
         "kana": "ㄈㄨ",
         "answer": "ㄈㄨ"
       },
       {
         "japanese": "浦",
-        "english": "ㄆㄨˇ",
+        "english": "river mouth",
         "furigana": "浦",
         "kana": "ㄆㄨˇ",
         "answer": "ㄆㄨˇ"
       },
       {
         "japanese": "蒲",
-        "english": "ㄆㄨˊ",
+        "english": "cattail",
         "furigana": "蒲",
         "kana": "ㄆㄨˊ",
         "answer": "ㄆㄨˊ"
       },
       {
         "japanese": "薄",
-        "english": "ㄅㄛˊ",
+        "english": "slight",
         "furigana": "薄",
         "kana": "ㄅㄛˊ",
         "answer": "ㄅㄛˊ"
       },
       {
         "japanese": "簿",
-        "english": "ㄅㄨˋ",
+        "english": "register",
         "furigana": "簿",
         "kana": "ㄅㄨˋ",
         "answer": "ㄅㄨˋ"
       },
       {
         "japanese": "傅",
-        "english": "ㄈㄨˋ",
+        "english": "mentor",
         "furigana": "傅",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "縛",
-        "english": "ㄈㄨˊ",
+        "english": "bind fast",
         "furigana": "縛",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "郭",
-        "english": "ㄍㄨㄛ",
+        "english": "outer walls",
         "furigana": "郭",
         "kana": "ㄍㄨㄛ",
         "answer": "ㄍㄨㄛ"
       },
       {
         "japanese": "廓",
-        "english": "ㄎㄨㄛˋ",
+        "english": "limitless",
         "furigana": "廓",
         "kana": "ㄎㄨㄛˋ",
         "answer": "ㄎㄨㄛˋ"
       },
       {
         "japanese": "鄙",
-        "english": "ㄅㄧˇ",
+        "english": "despicable",
         "furigana": "鄙",
         "kana": "ㄅㄧˇ",
         "answer": "ㄅㄧˇ"
       },
       {
         "japanese": "耶",
-        "english": "ㄧㄝ",
+        "english": "jerusalem",
         "furigana": "耶",
         "kana": "ㄧㄝ",
         "answer": "ㄧㄝ"
       },
       {
         "japanese": "爺",
-        "english": "ㄧㄝˊ",
+        "english": "grandfather",
         "furigana": "爺",
         "kana": "ㄧㄝˊ",
         "answer": "ㄧㄝˊ"
       },
       {
         "japanese": "郊",
-        "english": "ㄐㄧㄠ",
+        "english": "outskirts",
         "furigana": "郊",
         "kana": "ㄐㄧㄠ",
         "answer": "ㄐㄧㄠ"
       },
       {
         "japanese": "邦",
-        "english": "ㄅㄤ",
+        "english": "nation",
         "furigana": "邦",
         "kana": "ㄅㄤ",
         "answer": "ㄅㄤ"
       },
       {
         "japanese": "綁",
-        "english": "ㄅㄤˇ",
+        "english": "truss",
         "furigana": "綁",
         "kana": "ㄅㄤˇ",
         "answer": "ㄅㄤˇ"
       },
       {
         "japanese": "郵",
-        "english": "ㄧㄡˊ",
+        "english": "post",
         "furigana": "郵",
         "kana": "ㄧㄡˊ",
         "answer": "ㄧㄡˊ"
       },
       {
         "japanese": "鄧",
-        "english": "ㄉㄥˋ",
+        "english": "deng",
         "furigana": "鄧",
         "kana": "ㄉㄥˋ",
         "answer": "ㄉㄥˋ"
       },
       {
         "japanese": "擲",
-        "english": "ㄓˊ",
+        "english": "hurl",
         "furigana": "擲",
         "kana": "ㄓˊ",
         "answer": "ㄓˊ"
       },
       {
         "japanese": "廊",
-        "english": "ㄌㄤˊ",
+        "english": "hallway",
         "furigana": "廊",
         "kana": "ㄌㄤˊ",
         "answer": "ㄌㄤˊ"
       },
       {
         "japanese": "擁",
-        "english": "ㄩㄥˇ",
+        "english": "hug",
         "furigana": "擁",
         "kana": "ㄩㄥˇ",
         "answer": "ㄩㄥˇ"
       },
       {
         "japanese": "緞",
-        "english": "ㄉㄨㄢˋ",
+        "english": "satin",
         "furigana": "緞",
         "kana": "ㄉㄨㄢˋ",
         "answer": "ㄉㄨㄢˋ"
       },
       {
         "japanese": "刁",
-        "english": "ㄉㄧㄠ",
+        "english": "wily",
         "furigana": "刁",
         "kana": "ㄉㄧㄠ",
         "answer": "ㄉㄧㄠ"
       },
       {
         "japanese": "叼",
-        "english": "ㄉㄧㄠ",
+        "english": "hold in the mouth",
         "furigana": "叼",
         "kana": "ㄉㄧㄠ",
         "answer": "ㄉㄧㄠ"
       },
       {
         "japanese": "殷",
-        "english": "ㄧㄣ",
+        "english": "ardent",
         "furigana": "殷",
         "kana": "ㄧㄣ",
         "answer": "ㄧㄣ"
       },
       {
         "japanese": "壽",
-        "english": "ㄕㄡˋ",
+        "english": "longevity",
         "furigana": "壽",
         "kana": "ㄕㄡˋ",
         "answer": "ㄕㄡˋ"
       },
       {
         "japanese": "濤",
-        "english": "ㄊㄠˊ",
+        "english": "large waves",
         "furigana": "濤",
         "kana": "ㄊㄠˊ",
         "answer": "ㄊㄠˊ"
       },
       {
         "japanese": "鑄",
-        "english": "ㄓㄨˋ",
+        "english": "cast",
         "furigana": "鑄",
         "kana": "ㄓㄨˋ",
         "answer": "ㄓㄨˋ"
       },
       {
         "japanese": "禱",
-        "english": "ㄉㄠˇ",
+        "english": "pray",
         "furigana": "禱",
         "kana": "ㄉㄠˇ",
         "answer": "ㄉㄠˇ"
       },
       {
         "japanese": "籌",
-        "english": "ㄔㄡˊ",
+        "english": "make arrangements",
         "furigana": "籌",
         "kana": "ㄔㄡˊ",
         "answer": "ㄔㄡˊ"
       },
       {
         "japanese": "伺",
-        "english": "ㄘˋ",
+        "english": "attend to",
         "furigana": "伺",
         "kana": "ㄘˋ",
         "answer": "ㄘˋ"
       },
       {
         "japanese": "飼",
-        "english": "ㄙˋ",
+        "english": "rear",
         "furigana": "飼",
         "kana": "ㄙˋ",
         "answer": "ㄙˋ"
       },
       {
         "japanese": "舶",
-        "english": "ㄅㄛˊ",
+        "english": "liner",
         "furigana": "舶",
         "kana": "ㄅㄛˊ",
         "answer": "ㄅㄛˊ"
       },
       {
         "japanese": "航",
-        "english": "ㄏㄤˊ",
+        "english": "navigate",
         "furigana": "航",
         "kana": "ㄏㄤˊ",
         "answer": "ㄏㄤˊ"
       },
       {
         "japanese": "艇",
-        "english": "ㄊㄧㄥˇ",
+        "english": "light boat",
         "furigana": "艇",
         "kana": "ㄊㄧㄥˇ",
         "answer": "ㄊㄧㄥˇ"
       },
       {
         "japanese": "艦",
-        "english": "ㄐㄧㄢˋ",
+        "english": "warship",
         "furigana": "艦",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "艙",
-        "english": "ㄘㄤ",
+        "english": "ship's cabin",
         "furigana": "艙",
         "kana": "ㄘㄤ",
         "answer": "ㄘㄤ"
       },
       {
         "japanese": "沿",
-        "english": "ㄧㄢˊ",
+        "english": "along",
         "furigana": "沿",
         "kana": "ㄧㄢˊ",
         "answer": "ㄧㄢˊ"
       },
       {
         "japanese": "鉛",
-        "english": "ㄑㄧㄢ",
+        "english": "lead",
         "furigana": "鉛",
         "kana": "ㄑㄧㄢ",
         "answer": "ㄑㄧㄢ"
       },
       {
         "japanese": "狐",
-        "english": "ㄏㄨˊ",
+        "english": "fox",
         "furigana": "狐",
         "kana": "ㄏㄨˊ",
         "answer": "ㄏㄨˊ"
       },
       {
         "japanese": "瓣",
-        "english": "ㄅㄢˋ",
+        "english": "petal",
         "furigana": "瓣",
         "kana": "ㄅㄢˋ",
         "answer": "ㄅㄢˋ"
       },
       {
         "japanese": "溢",
-        "english": "ㄧˋ",
+        "english": "brim over",
         "furigana": "溢",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "暇",
-        "english": "ㄒㄧㄚˊ",
+        "english": "spare time",
         "furigana": "暇",
         "kana": "ㄒㄧㄚˊ",
         "answer": "ㄒㄧㄚˊ"
       },
       {
         "japanese": "霞",
-        "english": "ㄒㄧㄚˊ",
+        "english": "red sky",
         "furigana": "霞",
         "kana": "ㄒㄧㄚˊ",
         "answer": "ㄒㄧㄚˊ"
       },
       {
         "japanese": "氧",
-        "english": "ㄧㄤˇ",
+        "english": "oxygen",
         "furigana": "氧",
         "kana": "ㄧㄤˇ",
         "answer": "ㄧㄤˇ"
       },
       {
         "japanese": "氛",
-        "english": "ㄈㄣ",
+        "english": "atmosphere",
         "furigana": "氛",
         "kana": "ㄈㄣ",
         "answer": "ㄈㄣ"
       },
       {
         "japanese": "氯",
-        "english": "ㄌㄩˋ",
+        "english": "chlorine",
         "furigana": "氯",
         "kana": "ㄌㄩˋ",
         "answer": "ㄌㄩˋ"
       },
       {
         "japanese": "氫",
-        "english": "ㄑㄧㄥ",
+        "english": "hydrogen",
         "furigana": "氫",
         "kana": "ㄑㄧㄥ",
         "answer": "ㄑㄧㄥ"
       },
       {
         "japanese": "鞏",
-        "english": "ㄍㄨㄥˇ",
+        "english": "strengthen",
         "furigana": "鞏",
         "kana": "ㄍㄨㄥˇ",
         "answer": "ㄍㄨㄥˇ"
       },
       {
         "japanese": "霸",
-        "english": "ㄅㄚˋ",
+        "english": "tyrant",
         "furigana": "霸",
         "kana": "ㄅㄚˋ",
         "answer": "ㄅㄚˋ"
       },
       {
         "japanese": "壩",
-        "english": "ㄅㄚˋ",
+        "english": "dam",
         "furigana": "壩",
         "kana": "ㄅㄚˋ",
         "answer": "ㄅㄚˋ"
       },
       {
         "japanese": "勒",
-        "english": "ㄌㄟ",
+        "english": "tighten",
         "furigana": "勒",
         "kana": "ㄌㄟ",
         "answer": "ㄌㄟ"
       },
       {
         "japanese": "鞠",
-        "english": "ㄐㄩˊ",
+        "english": "bow respectfully",
         "furigana": "鞠",
         "kana": "ㄐㄩˊ",
         "answer": "ㄐㄩˊ"
       },
       {
         "japanese": "靴",
-        "english": "ㄒㄩㄝ",
+        "english": "boots",
         "furigana": "靴",
         "kana": "ㄒㄩㄝ",
         "answer": "ㄒㄩㄝ"
       },
       {
         "japanese": "鞭",
-        "english": "ㄅㄧㄢ",
+        "english": "whip",
         "furigana": "鞭",
         "kana": "ㄅㄧㄢ",
         "answer": "ㄅㄧㄢ"
       },
       {
         "japanese": "芽",
-        "english": "ㄧㄚˊ",
+        "english": "sprout",
         "furigana": "芽",
         "kana": "ㄧㄚˊ",
         "answer": "ㄧㄚˊ"
       },
       {
         "japanese": "訝",
-        "english": "ㄧㄚˋ",
+        "english": "suprised",
         "furigana": "訝",
         "kana": "ㄧㄚˋ",
         "answer": "ㄧㄚˋ"
       },
       {
         "japanese": "撐",
-        "english": "ㄔㄥ",
+        "english": "prop up",
         "furigana": "撐",
         "kana": "ㄔㄥ",
         "answer": "ㄔㄥ"
       },
       {
         "japanese": "雅",
-        "english": "ㄧㄚˇ",
+        "english": "polished",
         "furigana": "雅",
         "kana": "ㄧㄚˇ",
         "answer": "ㄧㄚˇ"
       },
       {
         "japanese": "邪",
-        "english": "ㄒㄧㄝˊ",
+        "english": "wicked",
         "furigana": "邪",
         "kana": "ㄒㄧㄝˊ",
         "answer": "ㄒㄧㄝˊ"
       },
       {
         "japanese": "奧",
-        "english": "ㄠˋ",
+        "english": "of great depth",
         "furigana": "奧",
         "kana": "ㄠˋ",
         "answer": "ㄠˋ"
       },
       {
         "japanese": "澳",
-        "english": "ㄠˋ",
+        "english": "deep inlet",
         "furigana": "澳",
         "kana": "ㄠˋ",
         "answer": "ㄠˋ"
       },
       {
         "japanese": "懊",
-        "english": "ㄠˋ",
+        "english": "remorseful",
         "furigana": "懊",
         "kana": "ㄠˋ",
         "answer": "ㄠˋ"
       },
       {
         "japanese": "悉",
-        "english": "ㄒㄧ",
+        "english": "be informed",
         "furigana": "悉",
         "kana": "ㄒㄧ",
         "answer": "ㄒㄧ"
       },
       {
         "japanese": "竊",
-        "english": "ㄑㄧㄝˋ",
+        "english": "pilfer",
         "furigana": "竊",
         "kana": "ㄑㄧㄝˋ",
         "answer": "ㄑㄧㄝˋ"
       },
       {
         "japanese": "審",
-        "english": "ㄕㄣˇ",
+        "english": "painstaking",
         "furigana": "審",
         "kana": "ㄕㄣˇ",
         "answer": "ㄕㄣˇ"
       },
       {
         "japanese": "嬸",
-        "english": "ㄕㄣˇ",
+        "english": "auntie",
         "furigana": "嬸",
         "kana": "ㄕㄣˇ",
         "answer": "ㄕㄣˇ"
       },
       {
         "japanese": "毯",
-        "english": "ㄊㄢˇ",
+        "english": "blanket",
         "furigana": "毯",
         "kana": "ㄊㄢˇ",
         "answer": "ㄊㄢˇ"
       },
       {
         "japanese": "毫",
-        "english": "ㄏㄠˊ",
+        "english": "milli-",
         "furigana": "毫",
         "kana": "ㄏㄠˊ",
         "answer": "ㄏㄠˊ"
       },
       {
         "japanese": "耗",
-        "english": "ㄏㄠˋ",
+        "english": "consume",
         "furigana": "耗",
         "kana": "ㄏㄠˋ",
         "answer": "ㄏㄠˋ"
       },
       {
         "japanese": "耕",
-        "english": "ㄍㄥ",
+        "english": "till",
         "furigana": "耕",
         "kana": "ㄍㄥ",
         "answer": "ㄍㄥ"
       },
       {
         "japanese": "籍",
-        "english": "ㄐㄧˊ",
+        "english": "records",
         "furigana": "籍",
         "kana": "ㄐㄧˊ",
         "answer": "ㄐㄧˊ"
       },
       {
         "japanese": "藉",
-        "english": "ㄐㄧㄝˋ",
+        "english": "excuse",
         "furigana": "藉",
         "kana": "ㄐㄧㄝˋ",
         "answer": "ㄐㄧㄝˋ"
       },
       {
         "japanese": "托",
-        "english": "ㄊㄨㄛ",
+        "english": "hold up",
         "furigana": "托",
         "kana": "ㄊㄨㄛ",
         "answer": "ㄊㄨㄛ"
       },
       {
         "japanese": "畏",
-        "english": "ㄨㄟˋ",
+        "english": "be afraid of",
         "furigana": "畏",
         "kana": "ㄨㄟˋ",
         "answer": "ㄨㄟˋ"
       },
       {
         "japanese": "喂",
-        "english": "ㄨㄟˋ",
+        "english": "hello...",
         "furigana": "喂",
         "kana": "ㄨㄟˋ",
         "answer": "ㄨㄟˋ"
       },
       {
         "japanese": "脹",
-        "english": "ㄓㄤˋ",
+        "english": "bloated",
         "furigana": "脹",
         "kana": "ㄓㄤˋ",
         "answer": "ㄓㄤˋ"
       },
       {
         "japanese": "帳",
-        "english": "ㄓㄤˋ",
+        "english": "tent",
         "furigana": "帳",
         "kana": "ㄓㄤˋ",
         "answer": "ㄓㄤˋ"
       },
       {
         "japanese": "肆",
-        "english": "ㄙˋ",
+        "english": "iv",
         "furigana": "肆",
         "kana": "ㄙˋ",
         "answer": "ㄙˋ"
       },
       {
         "japanese": "鬍",
-        "english": "ㄏㄨˊ",
+        "english": "beard",
         "furigana": "鬍",
         "kana": "ㄏㄨˊ",
         "answer": "ㄏㄨˊ"
       },
       {
         "japanese": "鬆",
-        "english": "ㄙㄨㄥ",
+        "english": "loose",
         "furigana": "鬆",
         "kana": "ㄙㄨㄥ",
         "answer": "ㄙㄨㄥ"
       },
       {
         "japanese": "鵬",
-        "english": "ㄆㄥˊ",
+        "english": "roc",
         "furigana": "鵬",
         "kana": "ㄆㄥˊ",
         "answer": "ㄆㄥˊ"
       },
       {
         "japanese": "鳴",
-        "english": "ㄇㄧㄥˊ",
+        "english": "twitter",
         "furigana": "鳴",
         "kana": "ㄇㄧㄥˊ",
         "answer": "ㄇㄧㄥˊ"
       },
       {
         "japanese": "鴻",
-        "english": "ㄏㄨㄥˊ",
+        "english": "swan",
         "furigana": "鴻",
         "kana": "ㄏㄨㄥˊ",
         "answer": "ㄏㄨㄥˊ"
       },
       {
         "japanese": "鴿",
-        "english": "ㄍㄜ",
+        "english": "pigeon",
         "furigana": "鴿",
         "kana": "ㄍㄜ",
         "answer": "ㄍㄜ"
       },
       {
         "japanese": "鶴",
-        "english": "ㄏㄜˋ",
+        "english": "crane",
         "furigana": "鶴",
         "kana": "ㄏㄜˋ",
         "answer": "ㄏㄜˋ"
       },
       {
         "japanese": "鶯",
-        "english": "ㄧㄥ",
+        "english": "oriole",
         "furigana": "鶯",
         "kana": "ㄧㄥ",
         "answer": "ㄧㄥ"
       },
       {
         "japanese": "鵲",
-        "english": "ㄑㄩㄝˋ",
+        "english": "magpie",
         "furigana": "鵲",
         "kana": "ㄑㄩㄝˋ",
         "answer": "ㄑㄩㄝˋ"
       },
       {
         "japanese": "鷗",
-        "english": "ㄡ",
+        "english": "gull",
         "furigana": "鷗",
         "kana": "ㄡ",
         "answer": "ㄡ"
       },
       {
         "japanese": "鴉",
-        "english": "ㄧㄚ",
+        "english": "raven",
         "furigana": "鴉",
         "kana": "ㄧㄚ",
         "answer": "ㄧㄚ"
       },
       {
         "japanese": "鵝",
-        "english": "ㄜˊ",
+        "english": "goose",
         "furigana": "鵝",
         "kana": "ㄜˊ",
         "answer": "ㄜˊ"
       },
       {
         "japanese": "烏",
-        "english": "ㄨ",
+        "english": "crow",
         "furigana": "烏",
         "kana": "ㄨ",
         "answer": "ㄨ"
       },
       {
         "japanese": "嗚",
-        "english": "ㄨ",
+        "english": "zoom-zoom",
         "furigana": "嗚",
         "kana": "ㄨ",
         "answer": "ㄨ"
       },
       {
         "japanese": "搗",
-        "english": "ㄉㄠˇ",
+        "english": "pound with a pestle",
         "furigana": "搗",
         "kana": "ㄉㄠˇ",
         "answer": "ㄉㄠˇ"
       },
       {
         "japanese": "寓",
-        "english": "ㄩˋ",
+        "english": "residence",
         "furigana": "寓",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "愚",
-        "english": "ㄩˊ",
+        "english": "pea-brained",
         "furigana": "愚",
         "kana": "ㄩˊ",
         "answer": "ㄩˊ"
       },
       {
         "japanese": "偶",
-        "english": "ㄡˇ",
+        "english": "by chance",
         "furigana": "偶",
         "kana": "ㄡˇ",
         "answer": "ㄡˇ"
       },
       {
         "japanese": "厲",
-        "english": "ㄌㄧˋ",
+        "english": "stern",
         "furigana": "厲",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "勵",
-        "english": "ㄌㄧˋ",
+        "english": "encourage",
         "furigana": "勵",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "鋼",
-        "english": "ㄍㄤ",
+        "english": "steel",
         "furigana": "鋼",
         "kana": "ㄍㄤ",
         "answer": "ㄍㄤ"
       },
       {
         "japanese": "崗",
-        "english": "ㄍㄤˇ",
+        "english": "hillock",
         "furigana": "崗",
         "kana": "ㄍㄤˇ",
         "answer": "ㄍㄤˇ"
       },
       {
         "japanese": "綱",
-        "english": "ㄍㄤ",
+        "english": "guidelines",
         "furigana": "綱",
         "kana": "ㄍㄤ",
         "answer": "ㄍㄤ"
       },
       {
         "japanese": "逆",
-        "english": "ㄋㄧˋ",
+        "english": "go against",
         "furigana": "逆",
         "kana": "ㄋㄧˋ",
         "answer": "ㄋㄧˋ"
       },
       {
         "japanese": "溯",
-        "english": "ㄙㄨˋ",
+        "english": "go upstream",
         "furigana": "溯",
         "kana": "ㄙㄨˋ",
         "answer": "ㄙㄨˋ"
       },
       {
         "japanese": "塑",
-        "english": "ㄙㄨˋ",
+        "english": "plastic",
         "furigana": "塑",
         "kana": "ㄙㄨˋ",
         "answer": "ㄙㄨˋ"
       },
       {
         "japanese": "缸",
-        "english": "ㄍㄤ",
+        "english": "vat",
         "furigana": "缸",
         "kana": "ㄍㄤ",
         "answer": "ㄍㄤ"
       },
       {
         "japanese": "罐",
-        "english": "ㄍㄨㄢˋ",
+        "english": "jar",
         "furigana": "罐",
         "kana": "ㄍㄨㄢˋ",
         "answer": "ㄍㄨㄢˋ"
       },
       {
         "japanese": "鬱",
-        "english": "ㄩˋ",
+        "english": "depressed",
         "furigana": "鬱",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "鹽",
-        "english": "ㄧㄢˊ",
+        "english": "salt",
         "furigana": "鹽",
         "kana": "ㄧㄢˊ",
         "answer": "ㄧㄢˊ"
       },
       {
         "japanese": "鹹",
-        "english": "ㄒㄧㄢˊ",
+        "english": "salty",
         "furigana": "鹹",
         "kana": "ㄒㄧㄢˊ",
         "answer": "ㄒㄧㄢˊ"
       },
       {
         "japanese": "掏",
-        "english": "ㄊㄠ",
+        "english": "draw out",
         "furigana": "掏",
         "kana": "ㄊㄠ",
         "answer": "ㄊㄠ"
       },
       {
         "japanese": "淘",
-        "english": "ㄊㄠˊ",
+        "english": "wash in a container",
         "furigana": "淘",
         "kana": "ㄊㄠˊ",
         "answer": "ㄊㄠˊ"
       },
       {
         "japanese": "陶",
-        "english": "ㄊㄠˊ",
+        "english": "pottery",
         "furigana": "陶",
         "kana": "ㄊㄠˊ",
         "answer": "ㄊㄠˊ"
       },
       {
         "japanese": "謠",
-        "english": "ㄧㄠˊ",
+        "english": "rumor",
         "furigana": "謠",
         "kana": "ㄧㄠˊ",
         "answer": "ㄧㄠˊ"
       },
       {
         "japanese": "冤",
-        "english": "ㄩㄢ",
+        "english": "injstice",
         "furigana": "冤",
         "kana": "ㄩㄢ",
         "answer": "ㄩㄢ"
       },
       {
         "japanese": "饞",
-        "english": "ㄔㄢˊ",
+        "english": "gluttonous",
         "furigana": "饞",
         "kana": "ㄔㄢˊ",
         "answer": "ㄔㄢˊ"
       },
       {
         "japanese": "挽",
-        "english": "ㄨㄢˇ",
+        "english": "tow",
         "furigana": "挽",
         "kana": "ㄨㄢˇ",
         "answer": "ㄨㄢˇ"
       },
       {
         "japanese": "勉",
-        "english": "ㄇㄧㄢˇ",
+        "english": "strive",
         "furigana": "勉",
         "kana": "ㄇㄧㄢˇ",
         "answer": "ㄇㄧㄢˇ"
       },
       {
         "japanese": "橡",
-        "english": "ㄒㄧㄤˋ",
+        "english": "rubber tree",
         "furigana": "橡",
         "kana": "ㄒㄧㄤˋ",
         "answer": "ㄒㄧㄤˋ"
       },
       {
         "japanese": "豫",
-        "english": "ㄩˋ",
+        "english": "pleased",
         "furigana": "豫",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "騰",
-        "english": "ㄊㄥˊ",
+        "english": "take flight",
         "furigana": "騰",
         "kana": "ㄊㄥˊ",
         "answer": "ㄊㄥˊ"
       },
       {
         "japanese": "碼",
-        "english": "ㄇㄚˇ",
+        "english": "numeral",
         "furigana": "碼",
         "kana": "ㄇㄚˇ",
         "answer": "ㄇㄚˇ"
       },
       {
         "japanese": "馴",
-        "english": "ㄒㄩㄣˊ",
+        "english": "tame",
         "furigana": "馴",
         "kana": "ㄒㄩㄣˊ",
         "answer": "ㄒㄩㄣˊ"
       },
       {
         "japanese": "瑪",
-        "english": "ㄇㄚˇ",
+        "english": "mary",
         "furigana": "瑪",
         "kana": "ㄇㄚˇ",
         "answer": "ㄇㄚˇ"
       },
       {
         "japanese": "駐",
-        "english": "ㄓㄨˋ",
+        "english": "be stationed",
         "furigana": "駐",
         "kana": "ㄓㄨˋ",
         "answer": "ㄓㄨˋ"
       },
       {
         "japanese": "驕",
-        "english": "ㄐㄧㄠ",
+        "english": "arrogant",
         "furigana": "驕",
         "kana": "ㄐㄧㄠ",
         "answer": "ㄐㄧㄠ"
       },
       {
         "japanese": "馳",
-        "english": "ㄔˊ",
+        "english": "gallop",
         "furigana": "馳",
         "kana": "ㄔˊ",
         "answer": "ㄔˊ"
       },
       {
         "japanese": "螞",
-        "english": "ㄇㄚˇ",
+        "english": "leech-hopper",
         "furigana": "螞",
         "kana": "ㄇㄚˇ",
         "answer": "ㄇㄚˇ"
       },
       {
         "japanese": "憑",
-        "english": "ㄆㄧㄥˊ",
+        "english": "proof",
         "furigana": "憑",
         "kana": "ㄆㄧㄥˊ",
         "answer": "ㄆㄧㄥˊ"
       },
       {
         "japanese": "駛",
-        "english": "ㄕˇ",
+        "english": "maneuver",
         "furigana": "駛",
         "kana": "ㄕˇ",
         "answer": "ㄕˇ"
       },
       {
         "japanese": "騷",
-        "english": "ㄙㄠ",
+        "english": "disturb",
         "furigana": "騷",
         "kana": "ㄙㄠ",
         "answer": "ㄙㄠ"
       },
       {
         "japanese": "駕",
-        "english": "ㄐㄧㄚˋ",
+        "english": "drive",
         "furigana": "駕",
         "kana": "ㄐㄧㄚˋ",
         "answer": "ㄐㄧㄚˋ"
       },
       {
         "japanese": "騾",
-        "english": "ㄌㄨㄛˊ",
+        "english": "mule",
         "furigana": "騾",
         "kana": "ㄌㄨㄛˊ",
         "answer": "ㄌㄨㄛˊ"
       },
       {
         "japanese": "駁",
-        "english": "ㄅㄛˊ",
+        "english": "refute",
         "furigana": "駁",
         "kana": "ㄅㄛˊ",
         "answer": "ㄅㄛˊ"
       },
       {
         "japanese": "闖",
-        "english": "ㄔㄨㄤˇ",
+        "english": "rush",
         "furigana": "闖",
         "kana": "ㄔㄨㄤˇ",
         "answer": "ㄔㄨㄤˇ"
       },
       {
         "japanese": "驅",
-        "english": "ㄑㄩ",
+        "english": "drive away",
         "furigana": "驅",
         "kana": "ㄑㄩ",
         "answer": "ㄑㄩ"
       },
       {
         "japanese": "騙",
-        "english": "ㄆㄧㄢˋ",
+        "english": "cheat",
         "furigana": "騙",
         "kana": "ㄆㄧㄢˋ",
         "answer": "ㄆㄧㄢˋ"
       },
       {
         "japanese": "驟",
-        "english": "ㄗㄡˋ",
+        "english": "trot",
         "furigana": "驟",
         "kana": "ㄗㄡˋ",
         "answer": "ㄗㄡˋ"
       },
       {
         "japanese": "遞",
-        "english": "ㄉㄧˋ",
+        "english": "hand over",
         "furigana": "遞",
         "kana": "ㄉㄧˋ",
         "answer": "ㄉㄧˋ"
       },
       {
         "japanese": "虜",
-        "english": "ㄌㄨˇ",
+        "english": "take captive",
         "furigana": "虜",
         "kana": "ㄌㄨˇ",
         "answer": "ㄌㄨˇ"
       },
       {
         "japanese": "虐",
-        "english": "ㄋㄩㄝˋ",
+        "english": "despotic",
         "furigana": "虐",
         "kana": "ㄋㄩㄝˋ",
         "answer": "ㄋㄩㄝˋ"
       },
       {
         "japanese": "膚",
-        "english": "ㄈㄨ",
+        "english": "skin",
         "furigana": "膚",
         "kana": "ㄈㄨ",
         "answer": "ㄈㄨ"
       },
       {
         "japanese": "盧",
-        "english": "ㄌㄨˊ",
+        "english": "louvre",
         "furigana": "盧",
         "kana": "ㄌㄨˊ",
         "answer": "ㄌㄨˊ"
       },
       {
         "japanese": "爐",
-        "english": "ㄌㄨˊ",
+        "english": "stove",
         "furigana": "爐",
         "kana": "ㄌㄨˊ",
         "answer": "ㄌㄨˊ"
       },
       {
         "japanese": "蘆",
-        "english": "ㄌㄨˊ",
+        "english": "reeds",
         "furigana": "蘆",
         "kana": "ㄌㄨˊ",
         "answer": "ㄌㄨˊ"
       },
       {
         "japanese": "驢",
-        "english": "ㄌㄩˊ",
+        "english": "donkey",
         "furigana": "驢",
         "kana": "ㄌㄩˊ",
         "answer": "ㄌㄩˊ"
       },
       {
         "japanese": "虧",
-        "english": "ㄎㄨㄟ",
+        "english": "loss",
         "furigana": "虧",
         "kana": "ㄎㄨㄟ",
         "answer": "ㄎㄨㄟ"
       },
       {
         "japanese": "污",
-        "english": "ㄨ",
+        "english": "filthy",
         "furigana": "污",
         "kana": "ㄨ",
         "answer": "ㄨ"
       },
       {
         "japanese": "愕",
-        "english": "ㄜˋ",
+        "english": "stunned",
         "furigana": "愕",
         "kana": "ㄜˋ",
         "answer": "ㄜˋ"
       },
       {
         "japanese": "誇",
-        "english": "ㄎㄨㄚ",
+        "english": "brag",
         "furigana": "誇",
         "kana": "ㄎㄨㄚ",
         "answer": "ㄎㄨㄚ"
       },
       {
         "japanese": "垮",
-        "english": "ㄎㄨㄚˇ",
+        "english": "collapse",
         "furigana": "垮",
         "kana": "ㄎㄨㄚˇ",
         "answer": "ㄎㄨㄚˇ"
       },
       {
         "japanese": "跨",
-        "english": "ㄎㄨㄚˋ",
+        "english": "straddle",
         "furigana": "跨",
         "kana": "ㄎㄨㄚˋ",
         "answer": "ㄎㄨㄚˋ"
       },
       {
         "japanese": "獻",
-        "english": "ㄒㄧㄢˋ",
+        "english": "donate",
         "furigana": "獻",
         "kana": "ㄒㄧㄢˋ",
         "answer": "ㄒㄧㄢˋ"
       },
       {
         "japanese": "融",
-        "english": "ㄖㄨㄥˊ",
+        "english": "melt",
         "furigana": "融",
         "kana": "ㄖㄨㄥˊ",
         "answer": "ㄖㄨㄥˊ"
       },
       {
         "japanese": "隔",
-        "english": "ㄍㄜˊ",
+        "english": "separate",
         "furigana": "隔",
         "kana": "ㄍㄜˊ",
         "answer": "ㄍㄜˊ"
       },
       {
         "japanese": "濾",
-        "english": "ㄌㄩˋ",
+        "english": "filter",
         "furigana": "濾",
         "kana": "ㄌㄩˋ",
         "answer": "ㄌㄩˋ"
       },
       {
         "japanese": "慶",
-        "english": "ㄑㄧㄥˋ",
+        "english": "celebrate",
         "furigana": "慶",
         "kana": "ㄑㄧㄥˋ",
         "answer": "ㄑㄧㄥˋ"
       },
       {
         "japanese": "薦",
-        "english": "ㄐㄧㄢˋ",
+        "english": "recommend",
         "furigana": "薦",
         "kana": "ㄐㄧㄢˋ",
         "answer": "ㄐㄧㄢˋ"
       },
       {
         "japanese": "傑",
-        "english": "ㄐㄧㄝˊ",
+        "english": "outstanding",
         "furigana": "傑",
         "kana": "ㄐㄧㄝˊ",
         "answer": "ㄐㄧㄝˊ"
       },
       {
         "japanese": "瞬",
-        "english": "ㄕㄨㄣˋ",
+        "english": "instant",
         "furigana": "瞬",
         "kana": "ㄕㄨㄣˋ",
         "answer": "ㄕㄨㄣˋ"
       },
       {
         "japanese": "麟",
-        "english": "ㄌㄧㄣˊ",
+        "english": "chinese unicorn",
         "furigana": "麟",
         "kana": "ㄌㄧㄣˊ",
         "answer": "ㄌㄧㄣˊ"
       },
       {
         "japanese": "憐",
-        "english": "ㄌㄧㄢˊ",
+        "english": "pity",
         "furigana": "憐",
         "kana": "ㄌㄧㄢˊ",
         "answer": "ㄌㄧㄢˊ"
       },
       {
         "japanese": "鄰",
-        "english": "ㄌㄧㄣˊ",
+        "english": "neighbor",
         "furigana": "鄰",
         "kana": "ㄌㄧㄣˊ",
         "answer": "ㄌㄧㄣˊ"
       },
       {
         "japanese": "曬",
-        "english": "ㄕㄞˋ",
+        "english": "bask",
         "furigana": "曬",
         "kana": "ㄕㄞˋ",
         "answer": "ㄕㄞˋ"
       },
       {
         "japanese": "灑",
-        "english": "ㄙㄚˇ",
+        "english": "spill",
         "furigana": "灑",
         "kana": "ㄙㄚˇ",
         "answer": "ㄙㄚˇ"
       },
       {
         "japanese": "罷",
-        "english": "ㄅㄚˋ",
+        "english": "cease",
         "furigana": "罷",
         "kana": "ㄅㄚˋ",
         "answer": "ㄅㄚˋ"
       },
       {
         "japanese": "擺",
-        "english": "ㄅㄞˇ",
+        "english": "put in order",
         "furigana": "擺",
         "kana": "ㄅㄞˇ",
         "answer": "ㄅㄞˇ"
       },
       {
         "japanese": "唇",
-        "english": "ㄔㄨㄣˊ",
+        "english": "lips",
         "furigana": "唇",
         "kana": "ㄔㄨㄣˊ",
         "answer": "ㄔㄨㄣˊ"
       },
       {
         "japanese": "辱",
-        "english": "ㄖㄨˋ",
+        "english": "disgrace",
         "furigana": "辱",
         "kana": "ㄖㄨˋ",
         "answer": "ㄖㄨˋ"
       },
       {
         "japanese": "震",
-        "english": "ㄓㄣˋ",
+        "english": "quake",
         "furigana": "震",
         "kana": "ㄓㄣˋ",
         "answer": "ㄓㄣˋ"
       },
       {
         "japanese": "振",
-        "english": "ㄓㄣˋ",
+        "english": "vibrate",
         "furigana": "振",
         "kana": "ㄓㄣˋ",
         "answer": "ㄓㄣˋ"
       },
       {
         "japanese": "魄",
-        "english": "ㄆㄛˋ",
+        "english": "vigor",
         "furigana": "魄",
         "kana": "ㄆㄛˋ",
         "answer": "ㄆㄛˋ"
       },
       {
         "japanese": "槐",
-        "english": "ㄏㄨㄞˊ",
+        "english": "scholar tree",
         "furigana": "槐",
         "kana": "ㄏㄨㄞˊ",
         "answer": "ㄏㄨㄞˊ"
       },
       {
         "japanese": "魅",
-        "english": "ㄇㄟˋ",
+        "english": "enchant",
         "furigana": "魅",
         "kana": "ㄇㄟˋ",
         "answer": "ㄇㄟˋ"
       },
       {
         "japanese": "瑰",
-        "english": "ㄍㄨㄟ",
+        "english": "marvelous",
         "furigana": "瑰",
         "kana": "ㄍㄨㄟ",
         "answer": "ㄍㄨㄟ"
       },
       {
         "japanese": "魂",
-        "english": "ㄏㄨㄣˊ",
+        "english": "soul",
         "furigana": "魂",
         "kana": "ㄏㄨㄣˊ",
         "answer": "ㄏㄨㄣˊ"
       },
       {
         "japanese": "愧",
-        "english": "ㄎㄨㄟˋ",
+        "english": "ashamed",
         "furigana": "愧",
         "kana": "ㄎㄨㄟˋ",
         "answer": "ㄎㄨㄟˋ"
       },
       {
         "japanese": "魁",
-        "english": "ㄎㄨㄟˊ",
+        "english": "leader",
         "furigana": "魁",
         "kana": "ㄎㄨㄟˊ",
         "answer": "ㄎㄨㄟˊ"
       },
       {
         "japanese": "醜",
-        "english": "ㄔㄡˇ",
+        "english": "ugly",
         "furigana": "醜",
         "kana": "ㄔㄡˇ",
         "answer": "ㄔㄡˇ"
       },
       {
         "japanese": "壟",
-        "english": "ㄌㄨㄥˇ",
+        "english": "raised path between fields",
         "furigana": "壟",
         "kana": "ㄌㄨㄥˇ",
         "answer": "ㄌㄨㄥˇ"
       },
       {
         "japanese": "寵",
-        "english": "ㄔㄨㄥˇ",
+        "english": "dote on",
         "furigana": "寵",
         "kana": "ㄔㄨㄥˇ",
         "answer": "ㄔㄨㄥˇ"
       },
       {
         "japanese": "龐",
-        "english": "ㄆㄤˊ",
+        "english": "huge",
         "furigana": "龐",
         "kana": "ㄆㄤˊ",
         "answer": "ㄆㄤˊ"
       },
       {
         "japanese": "攏",
-        "english": "ㄌㄨㄥˇ",
+        "english": "draw near",
         "furigana": "攏",
         "kana": "ㄌㄨㄥˇ",
         "answer": "ㄌㄨㄥˇ"
       },
       {
         "japanese": "聾",
-        "english": "ㄌㄨㄥˊ",
+        "english": "deaf",
         "furigana": "聾",
         "kana": "ㄌㄨㄥˊ",
         "answer": "ㄌㄨㄥˊ"
       },
       {
         "japanese": "籠",
-        "english": "ㄌㄨㄥˊ",
+        "english": "cage",
         "furigana": "籠",
         "kana": "ㄌㄨㄥˊ",
         "answer": "ㄌㄨㄥˊ"
       },
       {
         "japanese": "插",
-        "english": "ㄔㄚ",
+        "english": "insert",
         "furigana": "插",
         "kana": "ㄔㄚ",
         "answer": "ㄔㄚ"
       },
       {
         "japanese": "毀",
-        "english": "ㄏㄨㄟˇ",
+        "english": "ruin",
         "furigana": "毀",
         "kana": "ㄏㄨㄟˇ",
         "answer": "ㄏㄨㄟˇ"
       },
       {
         "japanese": "舅",
-        "english": "ㄐㄧㄡˋ",
+        "english": "mother's brother",
         "furigana": "舅",
         "kana": "ㄐㄧㄡˋ",
         "answer": "ㄐㄧㄡˋ"
       },
       {
         "japanese": "樁",
-        "english": "ㄓㄨㄤ",
+        "english": "stake",
         "furigana": "樁",
         "kana": "ㄓㄨㄤ",
         "answer": "ㄓㄨㄤ"
       },
       {
         "japanese": "鑿",
-        "english": "ㄗㄨㄛˋ",
+        "english": "bore a hole",
         "furigana": "鑿",
         "kana": "ㄗㄨㄛˋ",
         "answer": "ㄗㄨㄛˋ"
       },
       {
         "japanese": "鼠",
-        "english": "ㄕㄨˇ",
+        "english": "mouse",
         "furigana": "鼠",
         "kana": "ㄕㄨˇ",
         "answer": "ㄕㄨˇ"
       },
       {
         "japanese": "竄",
-        "english": "ㄘㄨㄢˋ",
+        "english": "scurry",
         "furigana": "竄",
         "kana": "ㄘㄨㄢˋ",
         "answer": "ㄘㄨㄢˋ"
       },
       {
         "japanese": "臘",
-        "english": "ㄌㄚˋ",
+        "english": "dried meat",
         "furigana": "臘",
         "kana": "ㄌㄚˋ",
         "answer": "ㄌㄚˋ"
       },
       {
         "japanese": "蠟",
-        "english": "ㄌㄚˋ",
+        "english": "wax",
         "furigana": "蠟",
         "kana": "ㄌㄚˋ",
         "answer": "ㄌㄚˋ"
       },
       {
         "japanese": "獵",
-        "english": "ㄌㄧㄝˋ",
+        "english": "hunt",
         "furigana": "獵",
         "kana": "ㄌㄧㄝˋ",
         "answer": "ㄌㄧㄝˋ"
       },
       {
         "japanese": "艘",
-        "english": "ㄙㄠ",
+        "english": "vessels",
         "furigana": "艘",
         "kana": "ㄙㄠ",
         "answer": "ㄙㄠ"
       },
       {
         "japanese": "嫂",
-        "english": "ㄙㄠˇ",
+        "english": "elder brother's wife",
         "furigana": "嫂",
         "kana": "ㄙㄠˇ",
         "answer": "ㄙㄠˇ"
       },
       {
         "japanese": "瘦",
-        "english": "ㄕㄡˋ",
+        "english": "emaciated",
         "furigana": "瘦",
         "kana": "ㄕㄡˋ",
         "answer": "ㄕㄡˋ"
       },
       {
         "japanese": "搜",
-        "english": "ㄙㄡ",
+        "english": "search",
         "furigana": "搜",
         "kana": "ㄙㄡ",
         "answer": "ㄙㄡ"
       },
       {
         "japanese": "稻",
-        "english": "ㄉㄠˋ",
+        "english": "unhulled rice",
         "furigana": "稻",
         "kana": "ㄉㄠˋ",
         "answer": "ㄉㄠˋ"
       },
       {
         "japanese": "蹈",
-        "english": "ㄉㄠˋ",
+        "english": "tread",
         "furigana": "蹈",
         "kana": "ㄉㄠˋ",
         "answer": "ㄉㄠˋ"
       },
       {
         "japanese": "滔",
-        "english": "ㄊㄠ",
+        "english": "surging",
         "furigana": "滔",
         "kana": "ㄊㄠ",
         "answer": "ㄊㄠ"
       },
       {
         "japanese": "陷",
-        "english": "ㄒㄧㄢˋ",
+        "english": "get stuck",
         "furigana": "陷",
         "kana": "ㄒㄧㄢˋ",
         "answer": "ㄒㄧㄢˋ"
       },
       {
         "japanese": "焰",
-        "english": "ㄧㄢˋ",
+        "english": "flame",
         "furigana": "焰",
         "kana": "ㄧㄢˋ",
         "answer": "ㄧㄢˋ"
       },
       {
         "japanese": "餡",
-        "english": "ㄒㄧㄢˋ",
+        "english": "flilling",
         "furigana": "餡",
         "kana": "ㄒㄧㄢˋ",
         "answer": "ㄒㄧㄢˋ"
       },
       {
         "japanese": "輛",
-        "english": "ㄌㄧㄤˋ",
+        "english": "vehicles",
         "furigana": "輛",
         "kana": "ㄌㄧㄤˋ",
         "answer": "ㄌㄧㄤˋ"
       },
       {
         "japanese": "瞞",
-        "english": "ㄇㄢˊ",
+        "english": "dissemble",
         "furigana": "瞞",
         "kana": "ㄇㄢˊ",
         "answer": "ㄇㄢˊ"
       },
       {
         "japanese": "爽",
-        "english": "ㄕㄨㄤˇ",
+        "english": "frank",
         "furigana": "爽",
         "kana": "ㄕㄨㄤˇ",
         "answer": "ㄕㄨㄤˇ"
       },
       {
         "japanese": "綴",
-        "english": "ㄓㄨㄟˋ",
+        "english": "embellish",
         "furigana": "綴",
         "kana": "ㄓㄨㄟˋ",
         "answer": "ㄓㄨㄟˋ"
       },
       {
         "japanese": "碰",
-        "english": "ㄆㄥˋ",
+        "english": "bump",
         "furigana": "碰",
         "kana": "ㄆㄥˋ",
         "answer": "ㄆㄥˋ"
       },
       {
         "japanese": "挪",
-        "english": "ㄋㄨㄛˊ",
+        "english": "transfer",
         "furigana": "挪",
         "kana": "ㄋㄨㄛˊ",
         "answer": "ㄋㄨㄛˊ"
       },
       {
         "japanese": "誣",
-        "english": "ㄨ",
+        "english": "charge falsely",
         "furigana": "誣",
         "kana": "ㄨ",
         "answer": "ㄨ"
       },
       {
         "japanese": "譽",
-        "english": "ㄩˋ",
+        "english": "reputation",
         "furigana": "譽",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "嶼",
-        "english": "ㄩˇ",
+        "english": "islet",
         "furigana": "嶼",
         "kana": "ㄩˇ",
         "answer": "ㄩˇ"
       },
       {
         "japanese": "傻",
-        "english": "ㄕㄚˇ",
+        "english": "thick-headed",
         "furigana": "傻",
         "kana": "ㄕㄚˇ",
         "answer": "ㄕㄚˇ"
       },
       {
         "japanese": "磚",
-        "english": "ㄓㄨㄢ",
+        "english": "brick",
         "furigana": "磚",
         "kana": "ㄓㄨㄢ",
         "answer": "ㄓㄨㄢ"
       },
       {
         "japanese": "惠",
-        "english": "ㄏㄨㄟˋ",
+        "english": "favor",
         "furigana": "惠",
         "kana": "ㄏㄨㄟˋ",
         "answer": "ㄏㄨㄟˋ"
       },
       {
         "japanese": "穗",
-        "english": "ㄙㄨㄟˋ",
+        "english": "ear of grain",
         "furigana": "穗",
         "kana": "ㄙㄨㄟˋ",
         "answer": "ㄙㄨㄟˋ"
       },
       {
         "japanese": "曠",
-        "english": "ㄎㄨㄤˋ",
+        "english": "expansive",
         "furigana": "曠",
         "kana": "ㄎㄨㄤˋ",
         "answer": "ㄎㄨㄤˋ"
       },
       {
         "japanese": "礦",
-        "english": "ㄎㄨㄤˋ",
+        "english": "mine",
         "furigana": "礦",
         "kana": "ㄎㄨㄤˋ",
         "answer": "ㄎㄨㄤˋ"
       },
       {
         "japanese": "擴",
-        "english": "ㄎㄨㄛˋ",
+        "english": "enlarge",
         "furigana": "擴",
         "kana": "ㄎㄨㄛˋ",
         "answer": "ㄎㄨㄛˋ"
       },
       {
         "japanese": "聰",
-        "english": "ㄘㄨㄥ",
+        "english": "smart",
         "furigana": "聰",
         "kana": "ㄘㄨㄥ",
         "answer": "ㄘㄨㄥ"
       },
       {
         "japanese": "蔥",
-        "english": "ㄘㄨㄥ",
+        "english": "onion",
         "furigana": "蔥",
         "kana": "ㄘㄨㄥ",
         "answer": "ㄘㄨㄥ"
       },
       {
         "japanese": "膽",
-        "english": "ㄉㄢˇ",
+        "english": "gall bladder",
         "furigana": "膽",
         "kana": "ㄉㄢˇ",
         "answer": "ㄉㄢˇ"
       },
       {
         "japanese": "瞻",
-        "english": "ㄓㄢ",
+        "english": "look upward",
         "furigana": "瞻",
         "kana": "ㄓㄢ",
         "answer": "ㄓㄢ"
       },
       {
         "japanese": "摟",
-        "english": "ㄌㄡˇ",
+        "english": "cuddle",
         "furigana": "摟",
         "kana": "ㄌㄡˇ",
         "answer": "ㄌㄡˇ"
       },
       {
         "japanese": "屢",
-        "english": "ㄌㄩˇ",
+        "english": "time and again",
         "furigana": "屢",
         "kana": "ㄌㄩˇ",
         "answer": "ㄌㄩˇ"
       },
       {
         "japanese": "濁",
-        "english": "ㄓㄨㄛˊ",
+        "english": "turbid",
         "furigana": "濁",
         "kana": "ㄓㄨㄛˊ",
         "answer": "ㄓㄨㄛˊ"
       },
       {
         "japanese": "燭",
-        "english": "ㄓㄨˊ",
+        "english": "candle",
         "furigana": "燭",
         "kana": "ㄓㄨˊ",
         "answer": "ㄓㄨˊ"
       },
       {
         "japanese": "觸",
-        "english": "ㄔㄨˋ",
+        "english": "touch",
         "furigana": "觸",
         "kana": "ㄔㄨˋ",
         "answer": "ㄔㄨˋ"
       },
       {
         "japanese": "囑",
-        "english": "ㄓㄨˇ",
+        "english": "admonish",
         "furigana": "囑",
         "kana": "ㄓㄨˇ",
         "answer": "ㄓㄨˇ"
       },
       {
         "japanese": "欄",
-        "english": "ㄌㄢˊ",
+        "english": "railing",
         "furigana": "欄",
         "kana": "ㄌㄢˊ",
         "answer": "ㄌㄢˊ"
       },
       {
         "japanese": "攔",
-        "english": "ㄌㄢˊ",
+        "english": "impede",
         "furigana": "攔",
         "kana": "ㄌㄢˊ",
         "answer": "ㄌㄢˊ"
       },
       {
         "japanese": "蹤",
-        "english": "ㄗㄨㄥ",
+        "english": "tracks",
         "furigana": "蹤",
         "kana": "ㄗㄨㄥ",
         "answer": "ㄗㄨㄥ"
       },
       {
         "japanese": "聳",
-        "english": "ㄙㄨㄥˇ",
+        "english": "shrug",
         "furigana": "聳",
         "kana": "ㄙㄨㄥˇ",
         "answer": "ㄙㄨㄥˇ"
       },
       {
         "japanese": "劑",
-        "english": "ㄐㄧˋ",
+        "english": "pharmaceutical",
         "furigana": "劑",
         "kana": "ㄐㄧˋ",
         "answer": "ㄐㄧˋ"
       },
       {
         "japanese": "齋",
-        "english": "ㄓㄞ",
+        "english": "abstain from food",
         "furigana": "齋",
         "kana": "ㄓㄞ",
         "answer": "ㄓㄞ"
       },
       {
         "japanese": "擠",
-        "english": "ㄐㄧˇ",
+        "english": "squeeze",
         "furigana": "擠",
         "kana": "ㄐㄧˇ",
         "answer": "ㄐㄧˇ"
       },
       {
         "japanese": "鈕",
-        "english": "ㄋㄧㄡˇ",
+        "english": "push button",
         "furigana": "鈕",
         "kana": "ㄋㄧㄡˇ",
         "answer": "ㄋㄧㄡˇ"
       },
       {
         "japanese": "羞",
-        "english": "ㄒㄧㄡ",
+        "english": "shy",
         "furigana": "羞",
         "kana": "ㄒㄧㄡ",
         "answer": "ㄒㄧㄡ"
       },
       {
         "japanese": "紐",
-        "english": "ㄋㄧㄡˇ",
+        "english": "new york",
         "furigana": "紐",
         "kana": "ㄋㄧㄡˇ",
         "answer": "ㄋㄧㄡˇ"
       },
       {
         "japanese": "脾",
-        "english": "ㄆㄧˊ",
+        "english": "spleen",
         "furigana": "脾",
         "kana": "ㄆㄧˊ",
         "answer": "ㄆㄧˊ"
       },
       {
         "japanese": "啤",
-        "english": "ㄆㄧˊ",
+        "english": "beer",
         "furigana": "啤",
         "kana": "ㄆㄧˊ",
         "answer": "ㄆㄧˊ"
       },
       {
         "japanese": "碑",
-        "english": "ㄅㄟ",
+        "english": "stele",
         "furigana": "碑",
         "kana": "ㄅㄟ",
         "answer": "ㄅㄟ"
       },
       {
         "japanese": "赫",
-        "english": "ㄏㄜˋ",
+        "english": "illustrious",
         "furigana": "赫",
         "kana": "ㄏㄜˋ",
         "answer": "ㄏㄜˋ"
       },
       {
         "japanese": "嚇",
-        "english": "ㄒㄧㄚˋ",
+        "english": "terrify",
         "furigana": "嚇",
         "kana": "ㄒㄧㄚˋ",
         "answer": "ㄒㄧㄚˋ"
       },
       {
         "japanese": "奕",
-        "english": "ㄧˋ",
+        "english": "radiating vitality",
         "furigana": "奕",
         "kana": "ㄧˋ",
         "answer": "ㄧˋ"
       },
       {
         "japanese": "跡",
-        "english": "ㄐㄧ",
+        "english": "indication",
         "furigana": "跡",
         "kana": "ㄐㄧ",
         "answer": "ㄐㄧ"
       },
       {
         "japanese": "辭",
-        "english": "ㄘˊ",
+        "english": "phraseology",
         "furigana": "辭",
         "kana": "ㄘˊ",
         "answer": "ㄘˊ"
       },
       {
         "japanese": "龜",
-        "english": "ㄍㄨㄟ",
+        "english": "tortoise",
         "furigana": "龜",
         "kana": "ㄍㄨㄟ",
         "answer": "ㄍㄨㄟ"
       },
       {
         "japanese": "繩",
-        "english": "ㄕㄥˊ",
+        "english": "rope",
         "furigana": "繩",
         "kana": "ㄕㄥˊ",
         "answer": "ㄕㄥˊ"
       },
       {
         "japanese": "蠅",
-        "english": "ㄧㄥˊ",
+        "english": "flies",
         "furigana": "蠅",
         "kana": "ㄧㄥˊ",
         "answer": "ㄧㄥˊ"
       },
       {
         "japanese": "蝴",
-        "english": "ㄏㄨˊ",
+        "english": "butterfly (front end)",
         "furigana": "蝴",
         "kana": "ㄏㄨˊ",
         "answer": "ㄏㄨˊ"
       },
       {
         "japanese": "蝶",
-        "english": "ㄉㄧㄝˊ",
+        "english": "butterfly (back end)",
         "furigana": "蝶",
         "kana": "ㄉㄧㄝˊ",
         "answer": "ㄉㄧㄝˊ"
       },
       {
         "japanese": "蜘",
-        "english": "ㄓ",
+        "english": "spider (front end)",
         "furigana": "蜘",
         "kana": "ㄓ",
         "answer": "ㄓ"
       },
       {
         "japanese": "蛛",
-        "english": "ㄓㄨ",
+        "english": "spider (back end)",
         "furigana": "蛛",
         "kana": "ㄓㄨ",
         "answer": "ㄓㄨ"
       },
       {
         "japanese": "駱",
-        "english": "ㄌㄨㄛˋ",
+        "english": "camel (front end)",
         "furigana": "駱",
         "kana": "ㄌㄨㄛˋ",
         "answer": "ㄌㄨㄛˋ"
       },
       {
         "japanese": "駝",
-        "english": "ㄊㄨㄛˊ",
+        "english": "camel (back end)",
         "furigana": "駝",
         "kana": "ㄊㄨㄛˊ",
         "answer": "ㄊㄨㄛˊ"
       },
       {
         "japanese": "蜻",
-        "english": "ㄑㄧㄥ",
+        "english": "dragonfly (front end)",
         "furigana": "蜻",
         "kana": "ㄑㄧㄥ",
         "answer": "ㄑㄧㄥ"
       },
       {
         "japanese": "蜓",
-        "english": "ㄊㄧㄥˊ",
+        "english": "dragonfly (back end)",
         "furigana": "蜓",
         "kana": "ㄊㄧㄥˊ",
         "answer": "ㄊㄧㄥˊ"
       },
       {
         "japanese": "鳳",
-        "english": "ㄈㄥˋ",
+        "english": "male phoenix",
         "furigana": "鳳",
         "kana": "ㄈㄥˋ",
         "answer": "ㄈㄥˋ"
       },
       {
         "japanese": "凰",
-        "english": "ㄏㄨㄤˊ",
+        "english": "female phoenix",
         "furigana": "凰",
         "kana": "ㄏㄨㄤˊ",
         "answer": "ㄏㄨㄤˊ"
       },
       {
         "japanese": "橄",
-        "english": "ㄍㄢˇ",
+        "english": "olive (a)",
         "furigana": "橄",
         "kana": "ㄍㄢˇ",
         "answer": "ㄍㄢˇ"
       },
       {
         "japanese": "欖",
-        "english": "ㄌㄢˇ",
+        "english": "olive (b)",
         "furigana": "欖",
         "kana": "ㄌㄢˇ",
         "answer": "ㄌㄢˇ"
       },
       {
         "japanese": "玻",
-        "english": "ㄅㄛ",
+        "english": "glass (front side)",
         "furigana": "玻",
         "kana": "ㄅㄛ",
         "answer": "ㄅㄛ"
       },
       {
         "japanese": "璃",
-        "english": "ㄌㄧˊ",
+        "english": "glass (back side)",
         "furigana": "璃",
         "kana": "ㄌㄧˊ",
         "answer": "ㄌㄧˊ"
       },
       {
         "japanese": "咖",
-        "english": "ㄎㄚ",
+        "english": "coffee (first drop)",
         "furigana": "咖",
         "kana": "ㄎㄚ",
         "answer": "ㄎㄚ"
       },
       {
         "japanese": "啡",
-        "english": "ㄈㄟ",
+        "english": "coffee (last drop)",
         "furigana": "啡",
         "kana": "ㄈㄟ",
         "answer": "ㄈㄟ"
       },
       {
         "japanese": "葡",
-        "english": "ㄆㄨˊ",
+        "english": "grapes (a)",
         "furigana": "葡",
         "kana": "ㄆㄨˊ",
         "answer": "ㄆㄨˊ"
       },
       {
         "japanese": "萄",
-        "english": "ㄊㄠˊ",
+        "english": "grapes (b)",
         "furigana": "萄",
         "kana": "ㄊㄠˊ",
         "answer": "ㄊㄠˊ"
       },
       {
         "japanese": "吩",
-        "english": "ㄈㄣ",
+        "english": "in-",
         "furigana": "吩",
         "kana": "ㄈㄣ",
         "answer": "ㄈㄣ"
       },
       {
         "japanese": "咐",
-        "english": "ㄈㄨˋ",
+        "english": "-struct",
         "furigana": "咐",
         "kana": "ㄈㄨˋ",
         "answer": "ㄈㄨˋ"
       },
       {
         "japanese": "乒",
-        "english": "ㄆㄧㄥ",
+        "english": "ping",
         "furigana": "乒",
         "kana": "ㄆㄧㄥ",
         "answer": "ㄆㄧㄥ"
       },
       {
         "japanese": "乓",
-        "english": "ㄆㄤ",
+        "english": "pong",
         "furigana": "乓",
         "kana": "ㄆㄤ",
         "answer": "ㄆㄤ"
       },
       {
         "japanese": "崔",
-        "english": "ㄘㄨㄟ",
+        "english": "cui",
         "furigana": "崔",
         "kana": "ㄘㄨㄟ",
         "answer": "ㄘㄨㄟ"
       },
       {
         "japanese": "曹",
-        "english": "ㄘㄠˊ",
+        "english": "cao",
         "furigana": "曹",
         "kana": "ㄘㄠˊ",
         "answer": "ㄘㄠˊ"
       },
       {
         "japanese": "劉",
-        "english": "ㄌㄧㄡˊ",
+        "english": "liu",
         "furigana": "劉",
         "kana": "ㄌㄧㄡˊ",
         "answer": "ㄌㄧㄡˊ"
       },
       {
         "japanese": "潘",
-        "english": "ㄆㄢ",
+        "english": "pan",
         "furigana": "潘",
         "kana": "ㄆㄢ",
         "answer": "ㄆㄢ"
       },
       {
         "japanese": "梁",
-        "english": "ㄌㄧㄤˊ",
+        "english": "liang",
         "furigana": "梁",
         "kana": "ㄌㄧㄤˊ",
         "answer": "ㄌㄧㄤˊ"
       },
       {
         "japanese": "沈",
-        "english": "ㄕㄣˇ",
+        "english": "shen",
         "furigana": "沈",
         "kana": "ㄕㄣˇ",
         "answer": "ㄕㄣˇ"
       },
       {
         "japanese": "鄭",
-        "english": "ㄓㄥˋ",
+        "english": "zheng",
         "furigana": "鄭",
         "kana": "ㄓㄥˋ",
         "answer": "ㄓㄥˋ"
       },
       {
         "japanese": "譚",
-        "english": "ㄊㄢˊ",
+        "english": "tam",
         "furigana": "譚",
         "kana": "ㄊㄢˊ",
         "answer": "ㄊㄢˊ"
       },
       {
         "japanese": "趙",
-        "english": "ㄓㄠˋ",
+        "english": "zhao",
         "furigana": "趙",
         "kana": "ㄓㄠˋ",
         "answer": "ㄓㄠˋ"
       },
       {
         "japanese": "姚",
-        "english": "ㄧㄠˊ",
+        "english": "yao-2",
         "furigana": "姚",
         "kana": "ㄧㄠˊ",
         "answer": "ㄧㄠˊ"
       },
       {
         "japanese": "魯",
-        "english": "ㄌㄨˇ",
+        "english": "lu",
         "furigana": "魯",
         "kana": "ㄌㄨˇ",
         "answer": "ㄌㄨˇ"
       },
       {
         "japanese": "姜",
-        "english": "ㄐㄧㄤ",
+        "english": "jiang-2",
         "furigana": "姜",
         "kana": "ㄐㄧㄤ",
         "answer": "ㄐㄧㄤ"
       },
       {
         "japanese": "范",
-        "english": "ㄈㄢˋ",
+        "english": "fan",
         "furigana": "范",
         "kana": "ㄈㄢˋ",
         "answer": "ㄈㄢˋ"
       },
       {
         "japanese": "薛",
-        "english": "ㄒㄩㄝ",
+        "english": "xue",
         "furigana": "薛",
         "kana": "ㄒㄩㄝ",
         "answer": "ㄒㄩㄝ"
       },
       {
         "japanese": "涂",
-        "english": "ㄊㄨˊ",
+        "english": "tu",
         "furigana": "涂",
         "kana": "ㄊㄨˊ",
         "answer": "ㄊㄨˊ"
       },
       {
         "japanese": "彭",
-        "english": "ㄆㄥˊ",
+        "english": "peng",
         "furigana": "彭",
         "kana": "ㄆㄥˊ",
         "answer": "ㄆㄥˊ"
       },
       {
         "japanese": "郁",
-        "english": "ㄩˋ",
+        "english": "yu-2",
         "furigana": "郁",
         "kana": "ㄩˋ",
         "answer": "ㄩˋ"
       },
       {
         "japanese": "馮",
-        "english": "ㄈㄥˊ",
+        "english": "feng",
         "furigana": "馮",
         "kana": "ㄈㄥˊ",
         "answer": "ㄈㄥˊ"
       },
       {
         "japanese": "魏",
-        "english": "ㄨㄟˋ",
+        "english": "wei",
         "furigana": "魏",
         "kana": "ㄨㄟˋ",
         "answer": "ㄨㄟˋ"
       },
       {
         "japanese": "岳",
-        "english": "ㄩㄝˋ",
+        "english": "yue",
         "furigana": "岳",
         "kana": "ㄩㄝˋ",
         "answer": "ㄩㄝˋ"
       },
       {
         "japanese": "彿",
-        "english": "ㄈㄨˊ",
+        "english": "as though",
         "furigana": "彿",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "莉",
-        "english": "ㄌㄧˋ",
+        "english": "jasmine",
         "furigana": "莉",
         "kana": "ㄌㄧˋ",
         "answer": "ㄌㄧˋ"
       },
       {
         "japanese": "湘",
-        "english": "ㄒㄧㄤ",
+        "english": "hunan province",
         "furigana": "湘",
         "kana": "ㄒㄧㄤ",
         "answer": "ㄒㄧㄤ"
       },
       {
         "japanese": "甸",
-        "english": "ㄉㄧㄢˋ",
+        "english": "outlying areas",
         "furigana": "甸",
         "kana": "ㄉㄧㄢˋ",
         "answer": "ㄉㄧㄢˋ"
       },
       {
         "japanese": "滄",
-        "english": "ㄘㄤ",
+        "english": "dark blue",
         "furigana": "滄",
         "kana": "ㄘㄤ",
         "answer": "ㄘㄤ"
       },
       {
         "japanese": "穆",
-        "english": "ㄇㄨˋ",
+        "english": "reverent",
         "furigana": "穆",
         "kana": "ㄇㄨˋ",
         "answer": "ㄇㄨˋ"
       },
       {
         "japanese": "娜",
-        "english": "ㄋㄚˋ",
+        "english": "na",
         "furigana": "娜",
         "kana": "ㄋㄚˋ",
         "answer": "ㄋㄚˋ"
       },
       {
         "japanese": "瓊",
-        "english": "ㄑㄩㄥˊ",
+        "english": "fine jade",
         "furigana": "瓊",
         "kana": "ㄑㄩㄥˊ",
         "answer": "ㄑㄩㄥˊ"
       },
       {
         "japanese": "琳",
-        "english": "ㄌㄧㄣˊ",
+        "english": "gem",
         "furigana": "琳",
         "kana": "ㄌㄧㄣˊ",
         "answer": "ㄌㄧㄣˊ"
       },
       {
         "japanese": "鈞",
-        "english": "ㄐㄩㄣ",
+        "english": "30 catties",
         "furigana": "鈞",
         "kana": "ㄐㄩㄣ",
         "answer": "ㄐㄩㄣ"
       },
       {
         "japanese": "喲",
-        "english": "ㄧㄠ",
+        "english": "oh!",
         "furigana": "喲",
         "kana": "ㄧㄠ",
         "answer": "ㄧㄠ"
       },
       {
         "japanese": "砲",
-        "english": "ㄆㄠˋ",
+        "english": "cannon",
         "furigana": "砲",
         "kana": "ㄆㄠˋ",
         "answer": "ㄆㄠˋ"
       },
       {
         "japanese": "蒐",
-        "english": "ㄙㄡ",
+        "english": "search for",
         "furigana": "蒐",
         "kana": "ㄙㄡ",
         "answer": "ㄙㄡ"
       },
       {
         "japanese": "芙",
-        "english": "ㄈㄨˊ",
+        "english": "hibiscus (a)",
         "furigana": "芙",
         "kana": "ㄈㄨˊ",
         "answer": "ㄈㄨˊ"
       },
       {
         "japanese": "蓉",
-        "english": "ㄖㄨㄥˊ",
+        "english": "cottonrose hibiscus (b)",
         "furigana": "蓉",
         "kana": "ㄖㄨㄥˊ",
         "answer": "ㄖㄨㄥˊ"
