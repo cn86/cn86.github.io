@@ -1,5 +1,5 @@
 /*
-<option value="zhuyin_finals">zhuyin_finals (35)</option><option value="zhuyin_bpmf">zhuyin_bpmf (61)</option><option value="zhuyin_dtnl">zhuyin_dtnl (91)</option><option value="zhuyin_gkh">zhuyin_gkh (57)</option><option value="zhuyin_jqx">zhuyin_jqx (42)</option><option value="zhuyin_zhchshr">zhuyin_zhchshr (73)</option><option value="zhuyin_zcs">zhuyin_zcs (49)</option><option value="zhuyin">zhuyin (408)</option><option value="tone_pairs">tone_pairs (60)</option><option value="100_radicals">100_radicals (100)</option><option value="rth">rth (3035)</option><option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
+<option value="zhuyin_finals">zhuyin_finals (35)</option><option value="zhuyin_finals_simple">zhuyin_finals_simple (15)</option><option value="zhuyin_finals_yw">zhuyin_finals_yw (20)</option><option value="zhuyin_bpmf">zhuyin_bpmf (61)</option><option value="zhuyin_dtnl">zhuyin_dtnl (91)</option><option value="zhuyin_gkh">zhuyin_gkh (57)</option><option value="zhuyin_jqx">zhuyin_jqx (42)</option><option value="zhuyin_zhchshr">zhuyin_zhchshr (73)</option><option value="zhuyin_zcs">zhuyin_zcs (49)</option><option value="zhuyin">zhuyin (408)</option><option value="tone_pairs">tone_pairs (60)</option><option value="100_radicals">100_radicals (100)</option><option value="rth">rth (3035)</option><option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
 */
 var decks = {
   "zhuyin_finals": {
@@ -265,6 +265,306 @@ var decks = {
         "furigana": "ㄩ",
         "kana": "ㄩ",
         "answer": "ㄩ"
+      },
+      {
+        "audio": "media/pinyin/yue1.mp3",
+        "japanese": "ㄩㄝ",
+        "english": "yue",
+        "furigana": "ㄩㄝ",
+        "kana": "ㄩㄝ",
+        "answer": "ㄩㄝ"
+      },
+      {
+        "audio": "media/pinyin/yuan1.mp3",
+        "japanese": "ㄩㄢ",
+        "english": "yuan",
+        "furigana": "ㄩㄢ",
+        "kana": "ㄩㄢ",
+        "answer": "ㄩㄢ"
+      },
+      {
+        "audio": "media/pinyin/yun1.mp3",
+        "japanese": "ㄩㄣ",
+        "english": "yun",
+        "furigana": "ㄩㄣ",
+        "kana": "ㄩㄣ",
+        "answer": "ㄩㄣ"
+      }
+    ]
+  },
+  "zhuyin_finals_simple": {
+    "config": {
+      "file_path": "decks/zhuyin_audio_finals_simple.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "audio"
+    },
+    "cards": [
+      {
+        "audio": "media/pinyin/a1.mp3",
+        "japanese": "ㄚ",
+        "english": "a",
+        "furigana": "ㄚ",
+        "kana": "ㄚ",
+        "answer": "ㄚ"
+      },
+      {
+        "audio": "media/pinyin/o1.mp3",
+        "japanese": "ㄛ",
+        "english": "o",
+        "furigana": "ㄛ",
+        "kana": "ㄛ",
+        "answer": "ㄛ"
+      },
+      {
+        "audio": "media/pinyin/e1.mp3",
+        "japanese": "ㄜ",
+        "english": "e",
+        "furigana": "ㄜ",
+        "kana": "ㄜ",
+        "answer": "ㄜ"
+      },
+      {
+        "audio": "media/pinyin/ai1.mp3",
+        "japanese": "ㄞ",
+        "english": "ai",
+        "furigana": "ㄞ",
+        "kana": "ㄞ",
+        "answer": "ㄞ"
+      },
+      {
+        "audio": "media/pinyin/ei1.mp3",
+        "japanese": "ㄟ",
+        "english": "ei",
+        "furigana": "ㄟ",
+        "kana": "ㄟ",
+        "answer": "ㄟ"
+      },
+      {
+        "audio": "media/pinyin/ao1.mp3",
+        "japanese": "ㄠ",
+        "english": "ao",
+        "furigana": "ㄠ",
+        "kana": "ㄠ",
+        "answer": "ㄠ"
+      },
+      {
+        "audio": "media/pinyin/ou1.mp3",
+        "japanese": "ㄡ",
+        "english": "ou",
+        "furigana": "ㄡ",
+        "kana": "ㄡ",
+        "answer": "ㄡ"
+      },
+      {
+        "audio": "media/pinyin/an1.mp3",
+        "japanese": "ㄢ",
+        "english": "an",
+        "furigana": "ㄢ",
+        "kana": "ㄢ",
+        "answer": "ㄢ"
+      },
+      {
+        "audio": "media/pinyin/en1.mp3",
+        "japanese": "ㄣ",
+        "english": "en",
+        "furigana": "ㄣ",
+        "kana": "ㄣ",
+        "answer": "ㄣ"
+      },
+      {
+        "audio": "media/pinyin/ang1.mp3",
+        "japanese": "ㄤ",
+        "english": "ang",
+        "furigana": "ㄤ",
+        "kana": "ㄤ",
+        "answer": "ㄤ"
+      },
+      {
+        "audio": "media/pinyin/eng1.mp3",
+        "japanese": "ㄥ",
+        "english": "eng",
+        "furigana": "ㄥ",
+        "kana": "ㄥ",
+        "answer": "ㄥ"
+      },
+      {
+        "audio": "media/pinyin/er1.mp3",
+        "japanese": "ㄦ",
+        "english": "er",
+        "furigana": "ㄦ",
+        "kana": "ㄦ",
+        "answer": "ㄦ"
+      },
+      {
+        "audio": "media/pinyin/yi1.mp3",
+        "japanese": "ㄧ",
+        "english": "yi",
+        "furigana": "ㄧ",
+        "kana": "ㄧ",
+        "answer": "ㄧ"
+      },
+      {
+        "audio": "media/pinyin/wu1.mp3",
+        "japanese": "ㄨ",
+        "english": "wu",
+        "furigana": "ㄨ",
+        "kana": "ㄨ",
+        "answer": "ㄨ"
+      },
+      {
+        "audio": "media/pinyin/yu1.mp3",
+        "japanese": "ㄩ",
+        "english": "yu",
+        "furigana": "ㄩ",
+        "kana": "ㄩ",
+        "answer": "ㄩ"
+      }
+    ]
+  },
+  "zhuyin_finals_yw": {
+    "config": {
+      "file_path": "decks/zhuyin_audio_finals_yw.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "audio"
+    },
+    "cards": [
+      {
+        "audio": "media/pinyin/ya1.mp3",
+        "japanese": "ㄧㄚ",
+        "english": "ya",
+        "furigana": "ㄧㄚ",
+        "kana": "ㄧㄚ",
+        "answer": "ㄧㄚ"
+      },
+      {
+        "audio": "media/pinyin/yao1.mp3",
+        "japanese": "ㄧㄠ",
+        "english": "yao",
+        "furigana": "ㄧㄠ",
+        "kana": "ㄧㄠ",
+        "answer": "ㄧㄠ"
+      },
+      {
+        "audio": "media/pinyin/ye1.mp3",
+        "japanese": "ㄧㄝ",
+        "english": "ye",
+        "furigana": "ㄧㄝ",
+        "kana": "ㄧㄝ",
+        "answer": "ㄧㄝ"
+      },
+      {
+        "audio": "media/pinyin/you1.mp3",
+        "japanese": "ㄧㄡ",
+        "english": "you",
+        "furigana": "ㄧㄡ",
+        "kana": "ㄧㄡ",
+        "answer": "ㄧㄡ"
+      },
+      {
+        "audio": "media/pinyin/yan1.mp3",
+        "japanese": "ㄧㄢ",
+        "english": "yan",
+        "furigana": "ㄧㄢ",
+        "kana": "ㄧㄢ",
+        "answer": "ㄧㄢ"
+      },
+      {
+        "audio": "media/pinyin/yin1.mp3",
+        "japanese": "ㄧㄣ",
+        "english": "yin",
+        "furigana": "ㄧㄣ",
+        "kana": "ㄧㄣ",
+        "answer": "ㄧㄣ"
+      },
+      {
+        "audio": "media/pinyin/yang1.mp3",
+        "japanese": "ㄧㄤ",
+        "english": "yang",
+        "furigana": "ㄧㄤ",
+        "kana": "ㄧㄤ",
+        "answer": "ㄧㄤ"
+      },
+      {
+        "audio": "media/pinyin/ying1.mp3",
+        "japanese": "ㄧㄥ",
+        "english": "ying",
+        "furigana": "ㄧㄥ",
+        "kana": "ㄧㄥ",
+        "answer": "ㄧㄥ"
+      },
+      {
+        "audio": "media/pinyin/yong1.mp3",
+        "japanese": "ㄩㄥ",
+        "english": "yong",
+        "furigana": "ㄩㄥ",
+        "kana": "ㄩㄥ",
+        "answer": "ㄩㄥ"
+      },
+      {
+        "audio": "media/pinyin/wa1.mp3",
+        "japanese": "ㄨㄚ",
+        "english": "wa",
+        "furigana": "ㄨㄚ",
+        "kana": "ㄨㄚ",
+        "answer": "ㄨㄚ"
+      },
+      {
+        "audio": "media/pinyin/wo1.mp3",
+        "japanese": "ㄨㄛ",
+        "english": "wo",
+        "furigana": "ㄨㄛ",
+        "kana": "ㄨㄛ",
+        "answer": "ㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/wai1.mp3",
+        "japanese": "ㄨㄞ",
+        "english": "wai",
+        "furigana": "ㄨㄞ",
+        "kana": "ㄨㄞ",
+        "answer": "ㄨㄞ"
+      },
+      {
+        "audio": "media/pinyin/wei1.mp3",
+        "japanese": "ㄨㄟ",
+        "english": "wei",
+        "furigana": "ㄨㄟ",
+        "kana": "ㄨㄟ",
+        "answer": "ㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/wan1.mp3",
+        "japanese": "ㄨㄢ",
+        "english": "wan",
+        "furigana": "ㄨㄢ",
+        "kana": "ㄨㄢ",
+        "answer": "ㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/wen1.mp3",
+        "japanese": "ㄨㄣ",
+        "english": "wen",
+        "furigana": "ㄨㄣ",
+        "kana": "ㄨㄣ",
+        "answer": "ㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/wang1.mp3",
+        "japanese": "ㄨㄤ",
+        "english": "wang",
+        "furigana": "ㄨㄤ",
+        "kana": "ㄨㄤ",
+        "answer": "ㄨㄤ"
+      },
+      {
+        "audio": "media/pinyin/weng1.mp3",
+        "japanese": "ㄨㄥ",
+        "english": "weng",
+        "furigana": "ㄨㄥ",
+        "kana": "ㄨㄥ",
+        "answer": "ㄨㄥ"
       },
       {
         "audio": "media/pinyin/yue1.mp3",
