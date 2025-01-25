@@ -1,10 +1,10 @@
 /*
-<option value="zhuyin">zhuyin (407)</option><option value="tone_pairs">tone_pairs (60)</option><option value="100_radicals">100_radicals (100)</option><option value="rth">rth (3035)</option><option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
+<option value="zhuyin_finals">zhuyin_finals (35)</option><option value="zhuyin_bpmf">zhuyin_bpmf (61)</option><option value="zhuyin_dtnl">zhuyin_dtnl (91)</option><option value="zhuyin_gkh">zhuyin_gkh (57)</option><option value="zhuyin_jqx">zhuyin_jqx (42)</option><option value="zhuyin_zhchshr">zhuyin_zhchshr (73)</option><option value="zhuyin_zcs">zhuyin_zcs (49)</option><option value="zhuyin">zhuyin (408)</option><option value="tone_pairs">tone_pairs (60)</option><option value="100_radicals">100_radicals (100)</option><option value="rth">rth (3035)</option><option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
 */
 var decks = {
-  "zhuyin": {
+  "zhuyin_finals": {
     "config": {
-      "file_path": "decks/zhuyin_audio.csv",
+      "file_path": "decks/zhuyin_audio_finals.csv",
       "stroke_order_font": false,
       "focus_input": true,
       "prompt": "audio"
@@ -35,20 +35,20 @@ var decks = {
         "answer": "ㄜ"
       },
       {
-        "audio": "media/pinyin/er1.mp3",
-        "japanese": "ㄦ",
-        "english": "er",
-        "furigana": "ㄦ",
-        "kana": "ㄦ",
-        "answer": "ㄦ"
-      },
-      {
         "audio": "media/pinyin/ai1.mp3",
         "japanese": "ㄞ",
         "english": "ai",
         "furigana": "ㄞ",
         "kana": "ㄞ",
         "answer": "ㄞ"
+      },
+      {
+        "audio": "media/pinyin/ei1.mp3",
+        "japanese": "ㄟ",
+        "english": "ei",
+        "furigana": "ㄟ",
+        "kana": "ㄟ",
+        "answer": "ㄟ"
       },
       {
         "audio": "media/pinyin/ao1.mp3",
@@ -97,6 +97,3348 @@ var decks = {
         "furigana": "ㄥ",
         "kana": "ㄥ",
         "answer": "ㄥ"
+      },
+      {
+        "audio": "media/pinyin/er1.mp3",
+        "japanese": "ㄦ",
+        "english": "er",
+        "furigana": "ㄦ",
+        "kana": "ㄦ",
+        "answer": "ㄦ"
+      },
+      {
+        "audio": "media/pinyin/yi1.mp3",
+        "japanese": "ㄧ",
+        "english": "yi",
+        "furigana": "ㄧ",
+        "kana": "ㄧ",
+        "answer": "ㄧ"
+      },
+      {
+        "audio": "media/pinyin/ya1.mp3",
+        "japanese": "ㄧㄚ",
+        "english": "ya",
+        "furigana": "ㄧㄚ",
+        "kana": "ㄧㄚ",
+        "answer": "ㄧㄚ"
+      },
+      {
+        "audio": "media/pinyin/yao1.mp3",
+        "japanese": "ㄧㄠ",
+        "english": "yao",
+        "furigana": "ㄧㄠ",
+        "kana": "ㄧㄠ",
+        "answer": "ㄧㄠ"
+      },
+      {
+        "audio": "media/pinyin/ye1.mp3",
+        "japanese": "ㄧㄝ",
+        "english": "ye",
+        "furigana": "ㄧㄝ",
+        "kana": "ㄧㄝ",
+        "answer": "ㄧㄝ"
+      },
+      {
+        "audio": "media/pinyin/you1.mp3",
+        "japanese": "ㄧㄡ",
+        "english": "you",
+        "furigana": "ㄧㄡ",
+        "kana": "ㄧㄡ",
+        "answer": "ㄧㄡ"
+      },
+      {
+        "audio": "media/pinyin/yan1.mp3",
+        "japanese": "ㄧㄢ",
+        "english": "yan",
+        "furigana": "ㄧㄢ",
+        "kana": "ㄧㄢ",
+        "answer": "ㄧㄢ"
+      },
+      {
+        "audio": "media/pinyin/yin1.mp3",
+        "japanese": "ㄧㄣ",
+        "english": "yin",
+        "furigana": "ㄧㄣ",
+        "kana": "ㄧㄣ",
+        "answer": "ㄧㄣ"
+      },
+      {
+        "audio": "media/pinyin/yang1.mp3",
+        "japanese": "ㄧㄤ",
+        "english": "yang",
+        "furigana": "ㄧㄤ",
+        "kana": "ㄧㄤ",
+        "answer": "ㄧㄤ"
+      },
+      {
+        "audio": "media/pinyin/ying1.mp3",
+        "japanese": "ㄧㄥ",
+        "english": "ying",
+        "furigana": "ㄧㄥ",
+        "kana": "ㄧㄥ",
+        "answer": "ㄧㄥ"
+      },
+      {
+        "audio": "media/pinyin/yong1.mp3",
+        "japanese": "ㄩㄥ",
+        "english": "yong",
+        "furigana": "ㄩㄥ",
+        "kana": "ㄩㄥ",
+        "answer": "ㄩㄥ"
+      },
+      {
+        "audio": "media/pinyin/wu1.mp3",
+        "japanese": "ㄨ",
+        "english": "wu",
+        "furigana": "ㄨ",
+        "kana": "ㄨ",
+        "answer": "ㄨ"
+      },
+      {
+        "audio": "media/pinyin/wa1.mp3",
+        "japanese": "ㄨㄚ",
+        "english": "wa",
+        "furigana": "ㄨㄚ",
+        "kana": "ㄨㄚ",
+        "answer": "ㄨㄚ"
+      },
+      {
+        "audio": "media/pinyin/wo1.mp3",
+        "japanese": "ㄨㄛ",
+        "english": "wo",
+        "furigana": "ㄨㄛ",
+        "kana": "ㄨㄛ",
+        "answer": "ㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/wai1.mp3",
+        "japanese": "ㄨㄞ",
+        "english": "wai",
+        "furigana": "ㄨㄞ",
+        "kana": "ㄨㄞ",
+        "answer": "ㄨㄞ"
+      },
+      {
+        "audio": "media/pinyin/wei1.mp3",
+        "japanese": "ㄨㄟ",
+        "english": "wei",
+        "furigana": "ㄨㄟ",
+        "kana": "ㄨㄟ",
+        "answer": "ㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/wan1.mp3",
+        "japanese": "ㄨㄢ",
+        "english": "wan",
+        "furigana": "ㄨㄢ",
+        "kana": "ㄨㄢ",
+        "answer": "ㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/wen1.mp3",
+        "japanese": "ㄨㄣ",
+        "english": "wen",
+        "furigana": "ㄨㄣ",
+        "kana": "ㄨㄣ",
+        "answer": "ㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/wang1.mp3",
+        "japanese": "ㄨㄤ",
+        "english": "wang",
+        "furigana": "ㄨㄤ",
+        "kana": "ㄨㄤ",
+        "answer": "ㄨㄤ"
+      },
+      {
+        "audio": "media/pinyin/weng1.mp3",
+        "japanese": "ㄨㄥ",
+        "english": "weng",
+        "furigana": "ㄨㄥ",
+        "kana": "ㄨㄥ",
+        "answer": "ㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/yu1.mp3",
+        "japanese": "ㄩ",
+        "english": "yu",
+        "furigana": "ㄩ",
+        "kana": "ㄩ",
+        "answer": "ㄩ"
+      },
+      {
+        "audio": "media/pinyin/yue1.mp3",
+        "japanese": "ㄩㄝ",
+        "english": "yue",
+        "furigana": "ㄩㄝ",
+        "kana": "ㄩㄝ",
+        "answer": "ㄩㄝ"
+      },
+      {
+        "audio": "media/pinyin/yuan1.mp3",
+        "japanese": "ㄩㄢ",
+        "english": "yuan",
+        "furigana": "ㄩㄢ",
+        "kana": "ㄩㄢ",
+        "answer": "ㄩㄢ"
+      },
+      {
+        "audio": "media/pinyin/yun1.mp3",
+        "japanese": "ㄩㄣ",
+        "english": "yun",
+        "furigana": "ㄩㄣ",
+        "kana": "ㄩㄣ",
+        "answer": "ㄩㄣ"
+      }
+    ]
+  },
+  "zhuyin_bpmf": {
+    "config": {
+      "file_path": "decks/zhuyin_audio_bpmf.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "audio"
+    },
+    "cards": [
+      {
+        "audio": "media/pinyin/ba1.mp3",
+        "japanese": "ㄅㄚ",
+        "english": "ba",
+        "furigana": "ㄅㄚ",
+        "kana": "ㄅㄚ",
+        "answer": "ㄅㄚ"
+      },
+      {
+        "audio": "media/pinyin/bo1.mp3",
+        "japanese": "ㄅㄛ",
+        "english": "bo",
+        "furigana": "ㄅㄛ",
+        "kana": "ㄅㄛ",
+        "answer": "ㄅㄛ"
+      },
+      {
+        "audio": "media/pinyin/bai1.mp3",
+        "japanese": "ㄅㄞ",
+        "english": "bai",
+        "furigana": "ㄅㄞ",
+        "kana": "ㄅㄞ",
+        "answer": "ㄅㄞ"
+      },
+      {
+        "audio": "media/pinyin/bei1.mp3",
+        "japanese": "ㄅㄟ",
+        "english": "bei",
+        "furigana": "ㄅㄟ",
+        "kana": "ㄅㄟ",
+        "answer": "ㄅㄟ"
+      },
+      {
+        "audio": "media/pinyin/bao1.mp3",
+        "japanese": "ㄅㄠ",
+        "english": "bao",
+        "furigana": "ㄅㄠ",
+        "kana": "ㄅㄠ",
+        "answer": "ㄅㄠ"
+      },
+      {
+        "audio": "media/pinyin/ban1.mp3",
+        "japanese": "ㄅㄢ",
+        "english": "ban",
+        "furigana": "ㄅㄢ",
+        "kana": "ㄅㄢ",
+        "answer": "ㄅㄢ"
+      },
+      {
+        "audio": "media/pinyin/ben1.mp3",
+        "japanese": "ㄅㄣ",
+        "english": "ben",
+        "furigana": "ㄅㄣ",
+        "kana": "ㄅㄣ",
+        "answer": "ㄅㄣ"
+      },
+      {
+        "audio": "media/pinyin/bang1.mp3",
+        "japanese": "ㄅㄤ",
+        "english": "bang",
+        "furigana": "ㄅㄤ",
+        "kana": "ㄅㄤ",
+        "answer": "ㄅㄤ"
+      },
+      {
+        "audio": "media/pinyin/beng1.mp3",
+        "japanese": "ㄅㄥ",
+        "english": "beng",
+        "furigana": "ㄅㄥ",
+        "kana": "ㄅㄥ",
+        "answer": "ㄅㄥ"
+      },
+      {
+        "audio": "media/pinyin/bi1.mp3",
+        "japanese": "ㄅㄧ",
+        "english": "bi",
+        "furigana": "ㄅㄧ",
+        "kana": "ㄅㄧ",
+        "answer": "ㄅㄧ"
+      },
+      {
+        "audio": "media/pinyin/biao1.mp3",
+        "japanese": "ㄅㄧㄠ",
+        "english": "biao",
+        "furigana": "ㄅㄧㄠ",
+        "kana": "ㄅㄧㄠ",
+        "answer": "ㄅㄧㄠ"
+      },
+      {
+        "audio": "media/pinyin/bie1.mp3",
+        "japanese": "ㄅㄧㄝ",
+        "english": "bie",
+        "furigana": "ㄅㄧㄝ",
+        "kana": "ㄅㄧㄝ",
+        "answer": "ㄅㄧㄝ"
+      },
+      {
+        "audio": "media/pinyin/bian1.mp3",
+        "japanese": "ㄅㄧㄢ",
+        "english": "bian",
+        "furigana": "ㄅㄧㄢ",
+        "kana": "ㄅㄧㄢ",
+        "answer": "ㄅㄧㄢ"
+      },
+      {
+        "audio": "media/pinyin/bin1.mp3",
+        "japanese": "ㄅㄧㄣ",
+        "english": "bin",
+        "furigana": "ㄅㄧㄣ",
+        "kana": "ㄅㄧㄣ",
+        "answer": "ㄅㄧㄣ"
+      },
+      {
+        "audio": "media/pinyin/bing1.mp3",
+        "japanese": "ㄅㄧㄥ",
+        "english": "bing",
+        "furigana": "ㄅㄧㄥ",
+        "kana": "ㄅㄧㄥ",
+        "answer": "ㄅㄧㄥ"
+      },
+      {
+        "audio": "media/pinyin/bu1.mp3",
+        "japanese": "ㄅㄨ",
+        "english": "bu",
+        "furigana": "ㄅㄨ",
+        "kana": "ㄅㄨ",
+        "answer": "ㄅㄨ"
+      },
+      {
+        "audio": "media/pinyin/pa1.mp3",
+        "japanese": "ㄆㄚ",
+        "english": "pa",
+        "furigana": "ㄆㄚ",
+        "kana": "ㄆㄚ",
+        "answer": "ㄆㄚ"
+      },
+      {
+        "audio": "media/pinyin/po1.mp3",
+        "japanese": "ㄆㄛ",
+        "english": "po",
+        "furigana": "ㄆㄛ",
+        "kana": "ㄆㄛ",
+        "answer": "ㄆㄛ"
+      },
+      {
+        "audio": "media/pinyin/pai1.mp3",
+        "japanese": "ㄆㄞ",
+        "english": "pai",
+        "furigana": "ㄆㄞ",
+        "kana": "ㄆㄞ",
+        "answer": "ㄆㄞ"
+      },
+      {
+        "audio": "media/pinyin/pei1.mp3",
+        "japanese": "ㄆㄟ",
+        "english": "pei",
+        "furigana": "ㄆㄟ",
+        "kana": "ㄆㄟ",
+        "answer": "ㄆㄟ"
+      },
+      {
+        "audio": "media/pinyin/pao1.mp3",
+        "japanese": "ㄆㄠ",
+        "english": "pao",
+        "furigana": "ㄆㄠ",
+        "kana": "ㄆㄠ",
+        "answer": "ㄆㄠ"
+      },
+      {
+        "audio": "media/pinyin/pou1.mp3",
+        "japanese": "ㄆㄡ",
+        "english": "pou",
+        "furigana": "ㄆㄡ",
+        "kana": "ㄆㄡ",
+        "answer": "ㄆㄡ"
+      },
+      {
+        "audio": "media/pinyin/pan1.mp3",
+        "japanese": "ㄆㄢ",
+        "english": "pan",
+        "furigana": "ㄆㄢ",
+        "kana": "ㄆㄢ",
+        "answer": "ㄆㄢ"
+      },
+      {
+        "audio": "media/pinyin/pen1.mp3",
+        "japanese": "ㄆㄣ",
+        "english": "pen",
+        "furigana": "ㄆㄣ",
+        "kana": "ㄆㄣ",
+        "answer": "ㄆㄣ"
+      },
+      {
+        "audio": "media/pinyin/pang1.mp3",
+        "japanese": "ㄆㄤ",
+        "english": "pang",
+        "furigana": "ㄆㄤ",
+        "kana": "ㄆㄤ",
+        "answer": "ㄆㄤ"
+      },
+      {
+        "audio": "media/pinyin/peng1.mp3",
+        "japanese": "ㄆㄥ",
+        "english": "peng",
+        "furigana": "ㄆㄥ",
+        "kana": "ㄆㄥ",
+        "answer": "ㄆㄥ"
+      },
+      {
+        "audio": "media/pinyin/pi1.mp3",
+        "japanese": "ㄆㄧ",
+        "english": "pi",
+        "furigana": "ㄆㄧ",
+        "kana": "ㄆㄧ",
+        "answer": "ㄆㄧ"
+      },
+      {
+        "audio": "media/pinyin/piao1.mp3",
+        "japanese": "ㄆㄧㄠ",
+        "english": "piao",
+        "furigana": "ㄆㄧㄠ",
+        "kana": "ㄆㄧㄠ",
+        "answer": "ㄆㄧㄠ"
+      },
+      {
+        "audio": "media/pinyin/pie1.mp3",
+        "japanese": "ㄆㄧㄝ",
+        "english": "pie",
+        "furigana": "ㄆㄧㄝ",
+        "kana": "ㄆㄧㄝ",
+        "answer": "ㄆㄧㄝ"
+      },
+      {
+        "audio": "media/pinyin/pian1.mp3",
+        "japanese": "ㄆㄧㄢ",
+        "english": "pian",
+        "furigana": "ㄆㄧㄢ",
+        "kana": "ㄆㄧㄢ",
+        "answer": "ㄆㄧㄢ"
+      },
+      {
+        "audio": "media/pinyin/pin1.mp3",
+        "japanese": "ㄆㄧㄣ",
+        "english": "pin",
+        "furigana": "ㄆㄧㄣ",
+        "kana": "ㄆㄧㄣ",
+        "answer": "ㄆㄧㄣ"
+      },
+      {
+        "audio": "media/pinyin/ping1.mp3",
+        "japanese": "ㄆㄧㄥ",
+        "english": "ping",
+        "furigana": "ㄆㄧㄥ",
+        "kana": "ㄆㄧㄥ",
+        "answer": "ㄆㄧㄥ"
+      },
+      {
+        "audio": "media/pinyin/pu1.mp3",
+        "japanese": "ㄆㄨ",
+        "english": "pu",
+        "furigana": "ㄆㄨ",
+        "kana": "ㄆㄨ",
+        "answer": "ㄆㄨ"
+      },
+      {
+        "audio": "media/pinyin/ma1.mp3",
+        "japanese": "ㄇㄚ",
+        "english": "ma",
+        "furigana": "ㄇㄚ",
+        "kana": "ㄇㄚ",
+        "answer": "ㄇㄚ"
+      },
+      {
+        "audio": "media/pinyin/mo1.mp3",
+        "japanese": "ㄇㄛ",
+        "english": "mo",
+        "furigana": "ㄇㄛ",
+        "kana": "ㄇㄛ",
+        "answer": "ㄇㄛ"
+      },
+      {
+        "audio": "media/pinyin/me1.mp3",
+        "japanese": "ㄇㄜ",
+        "english": "me",
+        "furigana": "ㄇㄜ",
+        "kana": "ㄇㄜ",
+        "answer": "ㄇㄜ"
+      },
+      {
+        "audio": "media/pinyin/mai1.mp3",
+        "japanese": "ㄇㄞ",
+        "english": "mai",
+        "furigana": "ㄇㄞ",
+        "kana": "ㄇㄞ",
+        "answer": "ㄇㄞ"
+      },
+      {
+        "audio": "media/pinyin/mei1.mp3",
+        "japanese": "ㄇㄟ",
+        "english": "mei",
+        "furigana": "ㄇㄟ",
+        "kana": "ㄇㄟ",
+        "answer": "ㄇㄟ"
+      },
+      {
+        "audio": "media/pinyin/mao1.mp3",
+        "japanese": "ㄇㄠ",
+        "english": "mao",
+        "furigana": "ㄇㄠ",
+        "kana": "ㄇㄠ",
+        "answer": "ㄇㄠ"
+      },
+      {
+        "audio": "media/pinyin/mou1.mp3",
+        "japanese": "ㄇㄡ",
+        "english": "mou",
+        "furigana": "ㄇㄡ",
+        "kana": "ㄇㄡ",
+        "answer": "ㄇㄡ"
+      },
+      {
+        "audio": "media/pinyin/man1.mp3",
+        "japanese": "ㄇㄢ",
+        "english": "man",
+        "furigana": "ㄇㄢ",
+        "kana": "ㄇㄢ",
+        "answer": "ㄇㄢ"
+      },
+      {
+        "audio": "media/pinyin/men1.mp3",
+        "japanese": "ㄇㄣ",
+        "english": "men",
+        "furigana": "ㄇㄣ",
+        "kana": "ㄇㄣ",
+        "answer": "ㄇㄣ"
+      },
+      {
+        "audio": "media/pinyin/mang1.mp3",
+        "japanese": "ㄇㄤ",
+        "english": "mang",
+        "furigana": "ㄇㄤ",
+        "kana": "ㄇㄤ",
+        "answer": "ㄇㄤ"
+      },
+      {
+        "audio": "media/pinyin/meng1.mp3",
+        "japanese": "ㄇㄥ",
+        "english": "meng",
+        "furigana": "ㄇㄥ",
+        "kana": "ㄇㄥ",
+        "answer": "ㄇㄥ"
+      },
+      {
+        "audio": "media/pinyin/mi1.mp3",
+        "japanese": "ㄇㄧ",
+        "english": "mi",
+        "furigana": "ㄇㄧ",
+        "kana": "ㄇㄧ",
+        "answer": "ㄇㄧ"
+      },
+      {
+        "audio": "media/pinyin/miao1.mp3",
+        "japanese": "ㄇㄧㄠ",
+        "english": "miao",
+        "furigana": "ㄇㄧㄠ",
+        "kana": "ㄇㄧㄠ",
+        "answer": "ㄇㄧㄠ"
+      },
+      {
+        "audio": "media/pinyin/mie1.mp3",
+        "japanese": "ㄇㄧㄝ",
+        "english": "mie",
+        "furigana": "ㄇㄧㄝ",
+        "kana": "ㄇㄧㄝ",
+        "answer": "ㄇㄧㄝ"
+      },
+      {
+        "audio": "media/pinyin/miu1.mp3",
+        "japanese": "ㄇㄧㄡ",
+        "english": "miu",
+        "furigana": "ㄇㄧㄡ",
+        "kana": "ㄇㄧㄡ",
+        "answer": "ㄇㄧㄡ"
+      },
+      {
+        "audio": "media/pinyin/mian1.mp3",
+        "japanese": "ㄇㄧㄢ",
+        "english": "mian",
+        "furigana": "ㄇㄧㄢ",
+        "kana": "ㄇㄧㄢ",
+        "answer": "ㄇㄧㄢ"
+      },
+      {
+        "audio": "media/pinyin/min1.mp3",
+        "japanese": "ㄇㄧㄣ",
+        "english": "min",
+        "furigana": "ㄇㄧㄣ",
+        "kana": "ㄇㄧㄣ",
+        "answer": "ㄇㄧㄣ"
+      },
+      {
+        "audio": "media/pinyin/ming1.mp3",
+        "japanese": "ㄇㄧㄥ",
+        "english": "ming",
+        "furigana": "ㄇㄧㄥ",
+        "kana": "ㄇㄧㄥ",
+        "answer": "ㄇㄧㄥ"
+      },
+      {
+        "audio": "media/pinyin/mu1.mp3",
+        "japanese": "ㄇㄨ",
+        "english": "mu",
+        "furigana": "ㄇㄨ",
+        "kana": "ㄇㄨ",
+        "answer": "ㄇㄨ"
+      },
+      {
+        "audio": "media/pinyin/fa1.mp3",
+        "japanese": "ㄈㄚ",
+        "english": "fa",
+        "furigana": "ㄈㄚ",
+        "kana": "ㄈㄚ",
+        "answer": "ㄈㄚ"
+      },
+      {
+        "audio": "media/pinyin/fo1.mp3",
+        "japanese": "ㄈㄛ",
+        "english": "fo",
+        "furigana": "ㄈㄛ",
+        "kana": "ㄈㄛ",
+        "answer": "ㄈㄛ"
+      },
+      {
+        "audio": "media/pinyin/fei1.mp3",
+        "japanese": "ㄈㄟ",
+        "english": "fei",
+        "furigana": "ㄈㄟ",
+        "kana": "ㄈㄟ",
+        "answer": "ㄈㄟ"
+      },
+      {
+        "audio": "media/pinyin/fou1.mp3",
+        "japanese": "ㄈㄡ",
+        "english": "fou",
+        "furigana": "ㄈㄡ",
+        "kana": "ㄈㄡ",
+        "answer": "ㄈㄡ"
+      },
+      {
+        "audio": "media/pinyin/fan1.mp3",
+        "japanese": "ㄈㄢ",
+        "english": "fan",
+        "furigana": "ㄈㄢ",
+        "kana": "ㄈㄢ",
+        "answer": "ㄈㄢ"
+      },
+      {
+        "audio": "media/pinyin/fen1.mp3",
+        "japanese": "ㄈㄣ",
+        "english": "fen",
+        "furigana": "ㄈㄣ",
+        "kana": "ㄈㄣ",
+        "answer": "ㄈㄣ"
+      },
+      {
+        "audio": "media/pinyin/fang1.mp3",
+        "japanese": "ㄈㄤ",
+        "english": "fang",
+        "furigana": "ㄈㄤ",
+        "kana": "ㄈㄤ",
+        "answer": "ㄈㄤ"
+      },
+      {
+        "audio": "media/pinyin/feng1.mp3",
+        "japanese": "ㄈㄥ",
+        "english": "feng",
+        "furigana": "ㄈㄥ",
+        "kana": "ㄈㄥ",
+        "answer": "ㄈㄥ"
+      },
+      {
+        "audio": "media/pinyin/fu1.mp3",
+        "japanese": "ㄈㄨ",
+        "english": "fu",
+        "furigana": "ㄈㄨ",
+        "kana": "ㄈㄨ",
+        "answer": "ㄈㄨ"
+      }
+    ]
+  },
+  "zhuyin_dtnl": {
+    "config": {
+      "file_path": "decks/zhuyin_audio_dtnl.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "audio"
+    },
+    "cards": [
+      {
+        "audio": "media/pinyin/da1.mp3",
+        "japanese": "ㄉㄚ",
+        "english": "da",
+        "furigana": "ㄉㄚ",
+        "kana": "ㄉㄚ",
+        "answer": "ㄉㄚ"
+      },
+      {
+        "audio": "media/pinyin/de1.mp3",
+        "japanese": "ㄉㄜ",
+        "english": "de",
+        "furigana": "ㄉㄜ",
+        "kana": "ㄉㄜ",
+        "answer": "ㄉㄜ"
+      },
+      {
+        "audio": "media/pinyin/dai1.mp3",
+        "japanese": "ㄉㄞ",
+        "english": "dai",
+        "furigana": "ㄉㄞ",
+        "kana": "ㄉㄞ",
+        "answer": "ㄉㄞ"
+      },
+      {
+        "audio": "media/pinyin/dei1.mp3",
+        "japanese": "ㄉㄟ",
+        "english": "dei",
+        "furigana": "ㄉㄟ",
+        "kana": "ㄉㄟ",
+        "answer": "ㄉㄟ"
+      },
+      {
+        "audio": "media/pinyin/dao1.mp3",
+        "japanese": "ㄉㄠ",
+        "english": "dao",
+        "furigana": "ㄉㄠ",
+        "kana": "ㄉㄠ",
+        "answer": "ㄉㄠ"
+      },
+      {
+        "audio": "media/pinyin/dou1.mp3",
+        "japanese": "ㄉㄡ",
+        "english": "dou",
+        "furigana": "ㄉㄡ",
+        "kana": "ㄉㄡ",
+        "answer": "ㄉㄡ"
+      },
+      {
+        "audio": "media/pinyin/dan1.mp3",
+        "japanese": "ㄉㄢ",
+        "english": "dan",
+        "furigana": "ㄉㄢ",
+        "kana": "ㄉㄢ",
+        "answer": "ㄉㄢ"
+      },
+      {
+        "audio": "media/pinyin/den1.mp3",
+        "japanese": "ㄉㄣ",
+        "english": "den",
+        "furigana": "ㄉㄣ",
+        "kana": "ㄉㄣ",
+        "answer": "ㄉㄣ"
+      },
+      {
+        "audio": "media/pinyin/dang1.mp3",
+        "japanese": "ㄉㄤ",
+        "english": "dang",
+        "furigana": "ㄉㄤ",
+        "kana": "ㄉㄤ",
+        "answer": "ㄉㄤ"
+      },
+      {
+        "audio": "media/pinyin/deng1.mp3",
+        "japanese": "ㄉㄥ",
+        "english": "deng",
+        "furigana": "ㄉㄥ",
+        "kana": "ㄉㄥ",
+        "answer": "ㄉㄥ"
+      },
+      {
+        "audio": "media/pinyin/dong1.mp3",
+        "japanese": "ㄉㄨㄥ",
+        "english": "dong",
+        "furigana": "ㄉㄨㄥ",
+        "kana": "ㄉㄨㄥ",
+        "answer": "ㄉㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/di1.mp3",
+        "japanese": "ㄉㄧ",
+        "english": "di",
+        "furigana": "ㄉㄧ",
+        "kana": "ㄉㄧ",
+        "answer": "ㄉㄧ"
+      },
+      {
+        "audio": "media/pinyin/diao1.mp3",
+        "japanese": "ㄉㄧㄠ",
+        "english": "diao",
+        "furigana": "ㄉㄧㄠ",
+        "kana": "ㄉㄧㄠ",
+        "answer": "ㄉㄧㄠ"
+      },
+      {
+        "audio": "media/pinyin/die1.mp3",
+        "japanese": "ㄉㄧㄝ",
+        "english": "die",
+        "furigana": "ㄉㄧㄝ",
+        "kana": "ㄉㄧㄝ",
+        "answer": "ㄉㄧㄝ"
+      },
+      {
+        "audio": "media/pinyin/diu1.mp3",
+        "japanese": "ㄉㄧㄡ",
+        "english": "diu",
+        "furigana": "ㄉㄧㄡ",
+        "kana": "ㄉㄧㄡ",
+        "answer": "ㄉㄧㄡ"
+      },
+      {
+        "audio": "media/pinyin/dian1.mp3",
+        "japanese": "ㄉㄧㄢ",
+        "english": "dian",
+        "furigana": "ㄉㄧㄢ",
+        "kana": "ㄉㄧㄢ",
+        "answer": "ㄉㄧㄢ"
+      },
+      {
+        "audio": "media/pinyin/ding1.mp3",
+        "japanese": "ㄉㄧㄥ",
+        "english": "ding",
+        "furigana": "ㄉㄧㄥ",
+        "kana": "ㄉㄧㄥ",
+        "answer": "ㄉㄧㄥ"
+      },
+      {
+        "audio": "media/pinyin/du1.mp3",
+        "japanese": "ㄉㄨ",
+        "english": "du",
+        "furigana": "ㄉㄨ",
+        "kana": "ㄉㄨ",
+        "answer": "ㄉㄨ"
+      },
+      {
+        "audio": "media/pinyin/duo1.mp3",
+        "japanese": "ㄉㄨㄛ",
+        "english": "duo",
+        "furigana": "ㄉㄨㄛ",
+        "kana": "ㄉㄨㄛ",
+        "answer": "ㄉㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/dui1.mp3",
+        "japanese": "ㄉㄨㄟ",
+        "english": "dui",
+        "furigana": "ㄉㄨㄟ",
+        "kana": "ㄉㄨㄟ",
+        "answer": "ㄉㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/duan1.mp3",
+        "japanese": "ㄉㄨㄢ",
+        "english": "duan",
+        "furigana": "ㄉㄨㄢ",
+        "kana": "ㄉㄨㄢ",
+        "answer": "ㄉㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/dun1.mp3",
+        "japanese": "ㄉㄨㄣ",
+        "english": "dun",
+        "furigana": "ㄉㄨㄣ",
+        "kana": "ㄉㄨㄣ",
+        "answer": "ㄉㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/ta1.mp3",
+        "japanese": "ㄊㄚ",
+        "english": "ta",
+        "furigana": "ㄊㄚ",
+        "kana": "ㄊㄚ",
+        "answer": "ㄊㄚ"
+      },
+      {
+        "audio": "media/pinyin/te1.mp3",
+        "japanese": "ㄊㄜ",
+        "english": "te",
+        "furigana": "ㄊㄜ",
+        "kana": "ㄊㄜ",
+        "answer": "ㄊㄜ"
+      },
+      {
+        "audio": "media/pinyin/tai1.mp3",
+        "japanese": "ㄊㄞ",
+        "english": "tai",
+        "furigana": "ㄊㄞ",
+        "kana": "ㄊㄞ",
+        "answer": "ㄊㄞ"
+      },
+      {
+        "audio": "media/pinyin/tei1.mp3",
+        "japanese": "ㄊㄟ",
+        "english": "tei",
+        "furigana": "ㄊㄟ",
+        "kana": "ㄊㄟ",
+        "answer": "ㄊㄟ"
+      },
+      {
+        "audio": "media/pinyin/tao1.mp3",
+        "japanese": "ㄊㄠ",
+        "english": "tao",
+        "furigana": "ㄊㄠ",
+        "kana": "ㄊㄠ",
+        "answer": "ㄊㄠ"
+      },
+      {
+        "audio": "media/pinyin/tou1.mp3",
+        "japanese": "ㄊㄡ",
+        "english": "tou",
+        "furigana": "ㄊㄡ",
+        "kana": "ㄊㄡ",
+        "answer": "ㄊㄡ"
+      },
+      {
+        "audio": "media/pinyin/tan1.mp3",
+        "japanese": "ㄊㄢ",
+        "english": "tan",
+        "furigana": "ㄊㄢ",
+        "kana": "ㄊㄢ",
+        "answer": "ㄊㄢ"
+      },
+      {
+        "audio": "media/pinyin/tang1.mp3",
+        "japanese": "ㄊㄤ",
+        "english": "tang",
+        "furigana": "ㄊㄤ",
+        "kana": "ㄊㄤ",
+        "answer": "ㄊㄤ"
+      },
+      {
+        "audio": "media/pinyin/teng1.mp3",
+        "japanese": "ㄊㄥ",
+        "english": "teng",
+        "furigana": "ㄊㄥ",
+        "kana": "ㄊㄥ",
+        "answer": "ㄊㄥ"
+      },
+      {
+        "audio": "media/pinyin/tong1.mp3",
+        "japanese": "ㄊㄨㄥ",
+        "english": "tong",
+        "furigana": "ㄊㄨㄥ",
+        "kana": "ㄊㄨㄥ",
+        "answer": "ㄊㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/ti1.mp3",
+        "japanese": "ㄊㄧ",
+        "english": "ti",
+        "furigana": "ㄊㄧ",
+        "kana": "ㄊㄧ",
+        "answer": "ㄊㄧ"
+      },
+      {
+        "audio": "media/pinyin/tiao1.mp3",
+        "japanese": "ㄊㄧㄠ",
+        "english": "tiao",
+        "furigana": "ㄊㄧㄠ",
+        "kana": "ㄊㄧㄠ",
+        "answer": "ㄊㄧㄠ"
+      },
+      {
+        "audio": "media/pinyin/tie1.mp3",
+        "japanese": "ㄊㄧㄝ",
+        "english": "tie",
+        "furigana": "ㄊㄧㄝ",
+        "kana": "ㄊㄧㄝ",
+        "answer": "ㄊㄧㄝ"
+      },
+      {
+        "audio": "media/pinyin/tian1.mp3",
+        "japanese": "ㄊㄧㄢ",
+        "english": "tian",
+        "furigana": "ㄊㄧㄢ",
+        "kana": "ㄊㄧㄢ",
+        "answer": "ㄊㄧㄢ"
+      },
+      {
+        "audio": "media/pinyin/ting1.mp3",
+        "japanese": "ㄊㄧㄥ",
+        "english": "ting",
+        "furigana": "ㄊㄧㄥ",
+        "kana": "ㄊㄧㄥ",
+        "answer": "ㄊㄧㄥ"
+      },
+      {
+        "audio": "media/pinyin/tu1.mp3",
+        "japanese": "ㄊㄨ",
+        "english": "tu",
+        "furigana": "ㄊㄨ",
+        "kana": "ㄊㄨ",
+        "answer": "ㄊㄨ"
+      },
+      {
+        "audio": "media/pinyin/tuo1.mp3",
+        "japanese": "ㄊㄨㄛ",
+        "english": "tuo",
+        "furigana": "ㄊㄨㄛ",
+        "kana": "ㄊㄨㄛ",
+        "answer": "ㄊㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/tui1.mp3",
+        "japanese": "ㄊㄨㄟ",
+        "english": "tui",
+        "furigana": "ㄊㄨㄟ",
+        "kana": "ㄊㄨㄟ",
+        "answer": "ㄊㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/tuan1.mp3",
+        "japanese": "ㄊㄨㄢ",
+        "english": "tuan",
+        "furigana": "ㄊㄨㄢ",
+        "kana": "ㄊㄨㄢ",
+        "answer": "ㄊㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/tun1.mp3",
+        "japanese": "ㄊㄨㄣ",
+        "english": "tun",
+        "furigana": "ㄊㄨㄣ",
+        "kana": "ㄊㄨㄣ",
+        "answer": "ㄊㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/na1.mp3",
+        "japanese": "ㄋㄚ",
+        "english": "na",
+        "furigana": "ㄋㄚ",
+        "kana": "ㄋㄚ",
+        "answer": "ㄋㄚ"
+      },
+      {
+        "audio": "media/pinyin/ne1.mp3",
+        "japanese": "ㄋㄜ",
+        "english": "ne",
+        "furigana": "ㄋㄜ",
+        "kana": "ㄋㄜ",
+        "answer": "ㄋㄜ"
+      },
+      {
+        "audio": "media/pinyin/nai1.mp3",
+        "japanese": "ㄋㄞ",
+        "english": "nai",
+        "furigana": "ㄋㄞ",
+        "kana": "ㄋㄞ",
+        "answer": "ㄋㄞ"
+      },
+      {
+        "audio": "media/pinyin/nei1.mp3",
+        "japanese": "ㄋㄟ",
+        "english": "nei",
+        "furigana": "ㄋㄟ",
+        "kana": "ㄋㄟ",
+        "answer": "ㄋㄟ"
+      },
+      {
+        "audio": "media/pinyin/nao1.mp3",
+        "japanese": "ㄋㄠ",
+        "english": "nao",
+        "furigana": "ㄋㄠ",
+        "kana": "ㄋㄠ",
+        "answer": "ㄋㄠ"
+      },
+      {
+        "audio": "media/pinyin/nou1.mp3",
+        "japanese": "ㄋㄡ",
+        "english": "nou",
+        "furigana": "ㄋㄡ",
+        "kana": "ㄋㄡ",
+        "answer": "ㄋㄡ"
+      },
+      {
+        "audio": "media/pinyin/nan1.mp3",
+        "japanese": "ㄋㄢ",
+        "english": "nan",
+        "furigana": "ㄋㄢ",
+        "kana": "ㄋㄢ",
+        "answer": "ㄋㄢ"
+      },
+      {
+        "audio": "media/pinyin/nen1.mp3",
+        "japanese": "ㄋㄣ",
+        "english": "nen",
+        "furigana": "ㄋㄣ",
+        "kana": "ㄋㄣ",
+        "answer": "ㄋㄣ"
+      },
+      {
+        "audio": "media/pinyin/nang1.mp3",
+        "japanese": "ㄋㄤ",
+        "english": "nang",
+        "furigana": "ㄋㄤ",
+        "kana": "ㄋㄤ",
+        "answer": "ㄋㄤ"
+      },
+      {
+        "audio": "media/pinyin/neng1.mp3",
+        "japanese": "ㄋㄥ",
+        "english": "neng",
+        "furigana": "ㄋㄥ",
+        "kana": "ㄋㄥ",
+        "answer": "ㄋㄥ"
+      },
+      {
+        "audio": "media/pinyin/nong1.mp3",
+        "japanese": "ㄋㄨㄥ",
+        "english": "nong",
+        "furigana": "ㄋㄨㄥ",
+        "kana": "ㄋㄨㄥ",
+        "answer": "ㄋㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/ni1.mp3",
+        "japanese": "ㄋㄧ",
+        "english": "ni",
+        "furigana": "ㄋㄧ",
+        "kana": "ㄋㄧ",
+        "answer": "ㄋㄧ"
+      },
+      {
+        "audio": "media/pinyin/niao1.mp3",
+        "japanese": "ㄋㄧㄠ",
+        "english": "niao",
+        "furigana": "ㄋㄧㄠ",
+        "kana": "ㄋㄧㄠ",
+        "answer": "ㄋㄧㄠ"
+      },
+      {
+        "audio": "media/pinyin/nie1.mp3",
+        "japanese": "ㄋㄧㄝ",
+        "english": "nie",
+        "furigana": "ㄋㄧㄝ",
+        "kana": "ㄋㄧㄝ",
+        "answer": "ㄋㄧㄝ"
+      },
+      {
+        "audio": "media/pinyin/niu1.mp3",
+        "japanese": "ㄋㄧㄡ",
+        "english": "niu",
+        "furigana": "ㄋㄧㄡ",
+        "kana": "ㄋㄧㄡ",
+        "answer": "ㄋㄧㄡ"
+      },
+      {
+        "audio": "media/pinyin/nian1.mp3",
+        "japanese": "ㄋㄧㄢ",
+        "english": "nian",
+        "furigana": "ㄋㄧㄢ",
+        "kana": "ㄋㄧㄢ",
+        "answer": "ㄋㄧㄢ"
+      },
+      {
+        "audio": "media/pinyin/nin1.mp3",
+        "japanese": "ㄋㄧㄣ",
+        "english": "nin",
+        "furigana": "ㄋㄧㄣ",
+        "kana": "ㄋㄧㄣ",
+        "answer": "ㄋㄧㄣ"
+      },
+      {
+        "audio": "media/pinyin/niang1.mp3",
+        "japanese": "ㄋㄧㄤ",
+        "english": "niang",
+        "furigana": "ㄋㄧㄤ",
+        "kana": "ㄋㄧㄤ",
+        "answer": "ㄋㄧㄤ"
+      },
+      {
+        "audio": "media/pinyin/ning1.mp3",
+        "japanese": "ㄋㄧㄥ",
+        "english": "ning",
+        "furigana": "ㄋㄧㄥ",
+        "kana": "ㄋㄧㄥ",
+        "answer": "ㄋㄧㄥ"
+      },
+      {
+        "audio": "media/pinyin/nu1.mp3",
+        "japanese": "ㄋㄨ",
+        "english": "nu",
+        "furigana": "ㄋㄨ",
+        "kana": "ㄋㄨ",
+        "answer": "ㄋㄨ"
+      },
+      {
+        "audio": "media/pinyin/nuo1.mp3",
+        "japanese": "ㄋㄨㄛ",
+        "english": "nuo",
+        "furigana": "ㄋㄨㄛ",
+        "kana": "ㄋㄨㄛ",
+        "answer": "ㄋㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/nuan1.mp3",
+        "japanese": "ㄋㄨㄢ",
+        "english": "nuan",
+        "furigana": "ㄋㄨㄢ",
+        "kana": "ㄋㄨㄢ",
+        "answer": "ㄋㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/nv1.mp3",
+        "japanese": "ㄋㄩ",
+        "english": "nü",
+        "furigana": "ㄋㄩ",
+        "kana": "ㄋㄩ",
+        "answer": "ㄋㄩ"
+      },
+      {
+        "audio": "media/pinyin/nve1.mp3",
+        "japanese": "ㄋㄩㄝ",
+        "english": "nüe",
+        "furigana": "ㄋㄩㄝ",
+        "kana": "ㄋㄩㄝ",
+        "answer": "ㄋㄩㄝ"
+      },
+      {
+        "audio": "media/pinyin/la1.mp3",
+        "japanese": "ㄌㄚ",
+        "english": "la",
+        "furigana": "ㄌㄚ",
+        "kana": "ㄌㄚ",
+        "answer": "ㄌㄚ"
+      },
+      {
+        "audio": "media/pinyin/le1.mp3",
+        "japanese": "ㄌㄜ",
+        "english": "le",
+        "furigana": "ㄌㄜ",
+        "kana": "ㄌㄜ",
+        "answer": "ㄌㄜ"
+      },
+      {
+        "audio": "media/pinyin/lai1.mp3",
+        "japanese": "ㄌㄞ",
+        "english": "lai",
+        "furigana": "ㄌㄞ",
+        "kana": "ㄌㄞ",
+        "answer": "ㄌㄞ"
+      },
+      {
+        "audio": "media/pinyin/lei1.mp3",
+        "japanese": "ㄌㄟ",
+        "english": "lei",
+        "furigana": "ㄌㄟ",
+        "kana": "ㄌㄟ",
+        "answer": "ㄌㄟ"
+      },
+      {
+        "audio": "media/pinyin/lao1.mp3",
+        "japanese": "ㄌㄠ",
+        "english": "lao",
+        "furigana": "ㄌㄠ",
+        "kana": "ㄌㄠ",
+        "answer": "ㄌㄠ"
+      },
+      {
+        "audio": "media/pinyin/lou1.mp3",
+        "japanese": "ㄌㄡ",
+        "english": "lou",
+        "furigana": "ㄌㄡ",
+        "kana": "ㄌㄡ",
+        "answer": "ㄌㄡ"
+      },
+      {
+        "audio": "media/pinyin/lan1.mp3",
+        "japanese": "ㄌㄢ",
+        "english": "lan",
+        "furigana": "ㄌㄢ",
+        "kana": "ㄌㄢ",
+        "answer": "ㄌㄢ"
+      },
+      {
+        "audio": "media/pinyin/lang1.mp3",
+        "japanese": "ㄌㄤ",
+        "english": "lang",
+        "furigana": "ㄌㄤ",
+        "kana": "ㄌㄤ",
+        "answer": "ㄌㄤ"
+      },
+      {
+        "audio": "media/pinyin/leng1.mp3",
+        "japanese": "ㄌㄥ",
+        "english": "leng",
+        "furigana": "ㄌㄥ",
+        "kana": "ㄌㄥ",
+        "answer": "ㄌㄥ"
+      },
+      {
+        "audio": "media/pinyin/long1.mp3",
+        "japanese": "ㄌㄨㄥ",
+        "english": "long",
+        "furigana": "ㄌㄨㄥ",
+        "kana": "ㄌㄨㄥ",
+        "answer": "ㄌㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/li1.mp3",
+        "japanese": "ㄌㄧ",
+        "english": "li",
+        "furigana": "ㄌㄧ",
+        "kana": "ㄌㄧ",
+        "answer": "ㄌㄧ"
+      },
+      {
+        "audio": "media/pinyin/lia1.mp3",
+        "japanese": "ㄌㄧㄚ",
+        "english": "lia",
+        "furigana": "ㄌㄧㄚ",
+        "kana": "ㄌㄧㄚ",
+        "answer": "ㄌㄧㄚ"
+      },
+      {
+        "audio": "media/pinyin/liao1.mp3",
+        "japanese": "ㄌㄧㄠ",
+        "english": "liao",
+        "furigana": "ㄌㄧㄠ",
+        "kana": "ㄌㄧㄠ",
+        "answer": "ㄌㄧㄠ"
+      },
+      {
+        "audio": "media/pinyin/lie1.mp3",
+        "japanese": "ㄌㄧㄝ",
+        "english": "lie",
+        "furigana": "ㄌㄧㄝ",
+        "kana": "ㄌㄧㄝ",
+        "answer": "ㄌㄧㄝ"
+      },
+      {
+        "audio": "media/pinyin/liu1.mp3",
+        "japanese": "ㄌㄧㄡ",
+        "english": "liu",
+        "furigana": "ㄌㄧㄡ",
+        "kana": "ㄌㄧㄡ",
+        "answer": "ㄌㄧㄡ"
+      },
+      {
+        "audio": "media/pinyin/lian1.mp3",
+        "japanese": "ㄌㄧㄢ",
+        "english": "lian",
+        "furigana": "ㄌㄧㄢ",
+        "kana": "ㄌㄧㄢ",
+        "answer": "ㄌㄧㄢ"
+      },
+      {
+        "audio": "media/pinyin/lin1.mp3",
+        "japanese": "ㄌㄧㄣ",
+        "english": "lin",
+        "furigana": "ㄌㄧㄣ",
+        "kana": "ㄌㄧㄣ",
+        "answer": "ㄌㄧㄣ"
+      },
+      {
+        "audio": "media/pinyin/liang1.mp3",
+        "japanese": "ㄌㄧㄤ",
+        "english": "liang",
+        "furigana": "ㄌㄧㄤ",
+        "kana": "ㄌㄧㄤ",
+        "answer": "ㄌㄧㄤ"
+      },
+      {
+        "audio": "media/pinyin/ling1.mp3",
+        "japanese": "ㄌㄧㄥ",
+        "english": "ling",
+        "furigana": "ㄌㄧㄥ",
+        "kana": "ㄌㄧㄥ",
+        "answer": "ㄌㄧㄥ"
+      },
+      {
+        "audio": "media/pinyin/lu1.mp3",
+        "japanese": "ㄌㄨ",
+        "english": "lu",
+        "furigana": "ㄌㄨ",
+        "kana": "ㄌㄨ",
+        "answer": "ㄌㄨ"
+      },
+      {
+        "audio": "media/pinyin/luo1.mp3",
+        "japanese": "ㄌㄨㄛ",
+        "english": "luo",
+        "furigana": "ㄌㄨㄛ",
+        "kana": "ㄌㄨㄛ",
+        "answer": "ㄌㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/luan1.mp3",
+        "japanese": "ㄌㄨㄢ",
+        "english": "luan",
+        "furigana": "ㄌㄨㄢ",
+        "kana": "ㄌㄨㄢ",
+        "answer": "ㄌㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/lun1.mp3",
+        "japanese": "ㄌㄨㄣ",
+        "english": "lun",
+        "furigana": "ㄌㄨㄣ",
+        "kana": "ㄌㄨㄣ",
+        "answer": "ㄌㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/lv1.mp3",
+        "japanese": "ㄌㄩ",
+        "english": "lü",
+        "furigana": "ㄌㄩ",
+        "kana": "ㄌㄩ",
+        "answer": "ㄌㄩ"
+      },
+      {
+        "audio": "media/pinyin/lve1.mp3",
+        "japanese": "ㄌㄩㄝ",
+        "english": "lüe",
+        "furigana": "ㄌㄩㄝ",
+        "kana": "ㄌㄩㄝ",
+        "answer": "ㄌㄩㄝ"
+      }
+    ]
+  },
+  "zhuyin_gkh": {
+    "config": {
+      "file_path": "decks/zhuyin_audio_gkh.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "audio"
+    },
+    "cards": [
+      {
+        "audio": "media/pinyin/ga1.mp3",
+        "japanese": "ㄍㄚ",
+        "english": "ga",
+        "furigana": "ㄍㄚ",
+        "kana": "ㄍㄚ",
+        "answer": "ㄍㄚ"
+      },
+      {
+        "audio": "media/pinyin/ge1.mp3",
+        "japanese": "ㄍㄜ",
+        "english": "ge",
+        "furigana": "ㄍㄜ",
+        "kana": "ㄍㄜ",
+        "answer": "ㄍㄜ"
+      },
+      {
+        "audio": "media/pinyin/gai1.mp3",
+        "japanese": "ㄍㄞ",
+        "english": "gai",
+        "furigana": "ㄍㄞ",
+        "kana": "ㄍㄞ",
+        "answer": "ㄍㄞ"
+      },
+      {
+        "audio": "media/pinyin/gei1.mp3",
+        "japanese": "ㄍㄟ",
+        "english": "gei",
+        "furigana": "ㄍㄟ",
+        "kana": "ㄍㄟ",
+        "answer": "ㄍㄟ"
+      },
+      {
+        "audio": "media/pinyin/gao1.mp3",
+        "japanese": "ㄍㄠ",
+        "english": "gao",
+        "furigana": "ㄍㄠ",
+        "kana": "ㄍㄠ",
+        "answer": "ㄍㄠ"
+      },
+      {
+        "audio": "media/pinyin/gou1.mp3",
+        "japanese": "ㄍㄡ",
+        "english": "gou",
+        "furigana": "ㄍㄡ",
+        "kana": "ㄍㄡ",
+        "answer": "ㄍㄡ"
+      },
+      {
+        "audio": "media/pinyin/gan1.mp3",
+        "japanese": "ㄍㄢ",
+        "english": "gan",
+        "furigana": "ㄍㄢ",
+        "kana": "ㄍㄢ",
+        "answer": "ㄍㄢ"
+      },
+      {
+        "audio": "media/pinyin/gen1.mp3",
+        "japanese": "ㄍㄣ",
+        "english": "gen",
+        "furigana": "ㄍㄣ",
+        "kana": "ㄍㄣ",
+        "answer": "ㄍㄣ"
+      },
+      {
+        "audio": "media/pinyin/gang1.mp3",
+        "japanese": "ㄍㄤ",
+        "english": "gang",
+        "furigana": "ㄍㄤ",
+        "kana": "ㄍㄤ",
+        "answer": "ㄍㄤ"
+      },
+      {
+        "audio": "media/pinyin/geng1.mp3",
+        "japanese": "ㄍㄥ",
+        "english": "geng",
+        "furigana": "ㄍㄥ",
+        "kana": "ㄍㄥ",
+        "answer": "ㄍㄥ"
+      },
+      {
+        "audio": "media/pinyin/gong1.mp3",
+        "japanese": "ㄍㄨㄥ",
+        "english": "gong",
+        "furigana": "ㄍㄨㄥ",
+        "kana": "ㄍㄨㄥ",
+        "answer": "ㄍㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/gu1.mp3",
+        "japanese": "ㄍㄨ",
+        "english": "gu",
+        "furigana": "ㄍㄨ",
+        "kana": "ㄍㄨ",
+        "answer": "ㄍㄨ"
+      },
+      {
+        "audio": "media/pinyin/gua1.mp3",
+        "japanese": "ㄍㄨㄚ",
+        "english": "gua",
+        "furigana": "ㄍㄨㄚ",
+        "kana": "ㄍㄨㄚ",
+        "answer": "ㄍㄨㄚ"
+      },
+      {
+        "audio": "media/pinyin/guo1.mp3",
+        "japanese": "ㄍㄨㄛ",
+        "english": "guo",
+        "furigana": "ㄍㄨㄛ",
+        "kana": "ㄍㄨㄛ",
+        "answer": "ㄍㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/guai1.mp3",
+        "japanese": "ㄍㄨㄞ",
+        "english": "guai",
+        "furigana": "ㄍㄨㄞ",
+        "kana": "ㄍㄨㄞ",
+        "answer": "ㄍㄨㄞ"
+      },
+      {
+        "audio": "media/pinyin/gui1.mp3",
+        "japanese": "ㄍㄨㄟ",
+        "english": "gui",
+        "furigana": "ㄍㄨㄟ",
+        "kana": "ㄍㄨㄟ",
+        "answer": "ㄍㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/guan1.mp3",
+        "japanese": "ㄍㄨㄢ",
+        "english": "guan",
+        "furigana": "ㄍㄨㄢ",
+        "kana": "ㄍㄨㄢ",
+        "answer": "ㄍㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/gun1.mp3",
+        "japanese": "ㄍㄨㄣ",
+        "english": "gun",
+        "furigana": "ㄍㄨㄣ",
+        "kana": "ㄍㄨㄣ",
+        "answer": "ㄍㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/guang1.mp3",
+        "japanese": "ㄍㄨㄤ",
+        "english": "guang",
+        "furigana": "ㄍㄨㄤ",
+        "kana": "ㄍㄨㄤ",
+        "answer": "ㄍㄨㄤ"
+      },
+      {
+        "audio": "media/pinyin/ka1.mp3",
+        "japanese": "ㄎㄚ",
+        "english": "ka",
+        "furigana": "ㄎㄚ",
+        "kana": "ㄎㄚ",
+        "answer": "ㄎㄚ"
+      },
+      {
+        "audio": "media/pinyin/ke1.mp3",
+        "japanese": "ㄎㄜ",
+        "english": "ke",
+        "furigana": "ㄎㄜ",
+        "kana": "ㄎㄜ",
+        "answer": "ㄎㄜ"
+      },
+      {
+        "audio": "media/pinyin/kai1.mp3",
+        "japanese": "ㄎㄞ",
+        "english": "kai",
+        "furigana": "ㄎㄞ",
+        "kana": "ㄎㄞ",
+        "answer": "ㄎㄞ"
+      },
+      {
+        "audio": "media/pinyin/kei1.mp3",
+        "japanese": "ㄎㄟ",
+        "english": "kei",
+        "furigana": "ㄎㄟ",
+        "kana": "ㄎㄟ",
+        "answer": "ㄎㄟ"
+      },
+      {
+        "audio": "media/pinyin/kao1.mp3",
+        "japanese": "ㄎㄠ",
+        "english": "kao",
+        "furigana": "ㄎㄠ",
+        "kana": "ㄎㄠ",
+        "answer": "ㄎㄠ"
+      },
+      {
+        "audio": "media/pinyin/kou1.mp3",
+        "japanese": "ㄎㄡ",
+        "english": "kou",
+        "furigana": "ㄎㄡ",
+        "kana": "ㄎㄡ",
+        "answer": "ㄎㄡ"
+      },
+      {
+        "audio": "media/pinyin/kan1.mp3",
+        "japanese": "ㄎㄢ",
+        "english": "kan",
+        "furigana": "ㄎㄢ",
+        "kana": "ㄎㄢ",
+        "answer": "ㄎㄢ"
+      },
+      {
+        "audio": "media/pinyin/ken1.mp3",
+        "japanese": "ㄎㄣ",
+        "english": "ken",
+        "furigana": "ㄎㄣ",
+        "kana": "ㄎㄣ",
+        "answer": "ㄎㄣ"
+      },
+      {
+        "audio": "media/pinyin/kang1.mp3",
+        "japanese": "ㄎㄤ",
+        "english": "kang",
+        "furigana": "ㄎㄤ",
+        "kana": "ㄎㄤ",
+        "answer": "ㄎㄤ"
+      },
+      {
+        "audio": "media/pinyin/keng1.mp3",
+        "japanese": "ㄎㄥ",
+        "english": "keng",
+        "furigana": "ㄎㄥ",
+        "kana": "ㄎㄥ",
+        "answer": "ㄎㄥ"
+      },
+      {
+        "audio": "media/pinyin/kong1.mp3",
+        "japanese": "ㄎㄨㄥ",
+        "english": "kong",
+        "furigana": "ㄎㄨㄥ",
+        "kana": "ㄎㄨㄥ",
+        "answer": "ㄎㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/ku1.mp3",
+        "japanese": "ㄎㄨ",
+        "english": "ku",
+        "furigana": "ㄎㄨ",
+        "kana": "ㄎㄨ",
+        "answer": "ㄎㄨ"
+      },
+      {
+        "audio": "media/pinyin/kua1.mp3",
+        "japanese": "ㄎㄨㄚ",
+        "english": "kua",
+        "furigana": "ㄎㄨㄚ",
+        "kana": "ㄎㄨㄚ",
+        "answer": "ㄎㄨㄚ"
+      },
+      {
+        "audio": "media/pinyin/kuo1.mp3",
+        "japanese": "ㄎㄨㄛ",
+        "english": "kuo",
+        "furigana": "ㄎㄨㄛ",
+        "kana": "ㄎㄨㄛ",
+        "answer": "ㄎㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/kuai1.mp3",
+        "japanese": "ㄎㄨㄞ",
+        "english": "kuai",
+        "furigana": "ㄎㄨㄞ",
+        "kana": "ㄎㄨㄞ",
+        "answer": "ㄎㄨㄞ"
+      },
+      {
+        "audio": "media/pinyin/kui1.mp3",
+        "japanese": "ㄎㄨㄟ",
+        "english": "kui",
+        "furigana": "ㄎㄨㄟ",
+        "kana": "ㄎㄨㄟ",
+        "answer": "ㄎㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/kuan1.mp3",
+        "japanese": "ㄎㄨㄢ",
+        "english": "kuan",
+        "furigana": "ㄎㄨㄢ",
+        "kana": "ㄎㄨㄢ",
+        "answer": "ㄎㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/kun1.mp3",
+        "japanese": "ㄎㄨㄣ",
+        "english": "kun",
+        "furigana": "ㄎㄨㄣ",
+        "kana": "ㄎㄨㄣ",
+        "answer": "ㄎㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/kuang1.mp3",
+        "japanese": "ㄎㄨㄤ",
+        "english": "kuang",
+        "furigana": "ㄎㄨㄤ",
+        "kana": "ㄎㄨㄤ",
+        "answer": "ㄎㄨㄤ"
+      },
+      {
+        "audio": "media/pinyin/ha1.mp3",
+        "japanese": "ㄏㄚ",
+        "english": "ha",
+        "furigana": "ㄏㄚ",
+        "kana": "ㄏㄚ",
+        "answer": "ㄏㄚ"
+      },
+      {
+        "audio": "media/pinyin/he1.mp3",
+        "japanese": "ㄏㄜ",
+        "english": "he",
+        "furigana": "ㄏㄜ",
+        "kana": "ㄏㄜ",
+        "answer": "ㄏㄜ"
+      },
+      {
+        "audio": "media/pinyin/hai1.mp3",
+        "japanese": "ㄏㄞ",
+        "english": "hai",
+        "furigana": "ㄏㄞ",
+        "kana": "ㄏㄞ",
+        "answer": "ㄏㄞ"
+      },
+      {
+        "audio": "media/pinyin/hei1.mp3",
+        "japanese": "ㄏㄟ",
+        "english": "hei",
+        "furigana": "ㄏㄟ",
+        "kana": "ㄏㄟ",
+        "answer": "ㄏㄟ"
+      },
+      {
+        "audio": "media/pinyin/hao1.mp3",
+        "japanese": "ㄏㄠ",
+        "english": "hao",
+        "furigana": "ㄏㄠ",
+        "kana": "ㄏㄠ",
+        "answer": "ㄏㄠ"
+      },
+      {
+        "audio": "media/pinyin/hou1.mp3",
+        "japanese": "ㄏㄡ",
+        "english": "hou",
+        "furigana": "ㄏㄡ",
+        "kana": "ㄏㄡ",
+        "answer": "ㄏㄡ"
+      },
+      {
+        "audio": "media/pinyin/han1.mp3",
+        "japanese": "ㄏㄢ",
+        "english": "han",
+        "furigana": "ㄏㄢ",
+        "kana": "ㄏㄢ",
+        "answer": "ㄏㄢ"
+      },
+      {
+        "audio": "media/pinyin/hen1.mp3",
+        "japanese": "ㄏㄣ",
+        "english": "hen",
+        "furigana": "ㄏㄣ",
+        "kana": "ㄏㄣ",
+        "answer": "ㄏㄣ"
+      },
+      {
+        "audio": "media/pinyin/hang1.mp3",
+        "japanese": "ㄏㄤ",
+        "english": "hang",
+        "furigana": "ㄏㄤ",
+        "kana": "ㄏㄤ",
+        "answer": "ㄏㄤ"
+      },
+      {
+        "audio": "media/pinyin/heng1.mp3",
+        "japanese": "ㄏㄥ",
+        "english": "heng",
+        "furigana": "ㄏㄥ",
+        "kana": "ㄏㄥ",
+        "answer": "ㄏㄥ"
+      },
+      {
+        "audio": "media/pinyin/hong1.mp3",
+        "japanese": "ㄏㄨㄥ",
+        "english": "hong",
+        "furigana": "ㄏㄨㄥ",
+        "kana": "ㄏㄨㄥ",
+        "answer": "ㄏㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/hu1.mp3",
+        "japanese": "ㄏㄨ",
+        "english": "hu",
+        "furigana": "ㄏㄨ",
+        "kana": "ㄏㄨ",
+        "answer": "ㄏㄨ"
+      },
+      {
+        "audio": "media/pinyin/hua1.mp3",
+        "japanese": "ㄏㄨㄚ",
+        "english": "hua",
+        "furigana": "ㄏㄨㄚ",
+        "kana": "ㄏㄨㄚ",
+        "answer": "ㄏㄨㄚ"
+      },
+      {
+        "audio": "media/pinyin/huo1.mp3",
+        "japanese": "ㄏㄨㄛ",
+        "english": "huo",
+        "furigana": "ㄏㄨㄛ",
+        "kana": "ㄏㄨㄛ",
+        "answer": "ㄏㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/huai1.mp3",
+        "japanese": "ㄏㄨㄞ",
+        "english": "huai",
+        "furigana": "ㄏㄨㄞ",
+        "kana": "ㄏㄨㄞ",
+        "answer": "ㄏㄨㄞ"
+      },
+      {
+        "audio": "media/pinyin/hui1.mp3",
+        "japanese": "ㄏㄨㄟ",
+        "english": "hui",
+        "furigana": "ㄏㄨㄟ",
+        "kana": "ㄏㄨㄟ",
+        "answer": "ㄏㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/huan1.mp3",
+        "japanese": "ㄏㄨㄢ",
+        "english": "huan",
+        "furigana": "ㄏㄨㄢ",
+        "kana": "ㄏㄨㄢ",
+        "answer": "ㄏㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/hun1.mp3",
+        "japanese": "ㄏㄨㄣ",
+        "english": "hun",
+        "furigana": "ㄏㄨㄣ",
+        "kana": "ㄏㄨㄣ",
+        "answer": "ㄏㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/huang1.mp3",
+        "japanese": "ㄏㄨㄤ",
+        "english": "huang",
+        "furigana": "ㄏㄨㄤ",
+        "kana": "ㄏㄨㄤ",
+        "answer": "ㄏㄨㄤ"
+      }
+    ]
+  },
+  "zhuyin_jqx": {
+    "config": {
+      "file_path": "decks/zhuyin_audio_jqx.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "audio"
+    },
+    "cards": [
+      {
+        "audio": "media/pinyin/ji1.mp3",
+        "japanese": "ㄐㄧ",
+        "english": "ji",
+        "furigana": "ㄐㄧ",
+        "kana": "ㄐㄧ",
+        "answer": "ㄐㄧ"
+      },
+      {
+        "audio": "media/pinyin/jia1.mp3",
+        "japanese": "ㄐㄧㄚ",
+        "english": "jia",
+        "furigana": "ㄐㄧㄚ",
+        "kana": "ㄐㄧㄚ",
+        "answer": "ㄐㄧㄚ"
+      },
+      {
+        "audio": "media/pinyin/jiao1.mp3",
+        "japanese": "ㄐㄧㄠ",
+        "english": "jiao",
+        "furigana": "ㄐㄧㄠ",
+        "kana": "ㄐㄧㄠ",
+        "answer": "ㄐㄧㄠ"
+      },
+      {
+        "audio": "media/pinyin/jie1.mp3",
+        "japanese": "ㄐㄧㄝ",
+        "english": "jie",
+        "furigana": "ㄐㄧㄝ",
+        "kana": "ㄐㄧㄝ",
+        "answer": "ㄐㄧㄝ"
+      },
+      {
+        "audio": "media/pinyin/jiu1.mp3",
+        "japanese": "ㄐㄧㄡ",
+        "english": "jiu",
+        "furigana": "ㄐㄧㄡ",
+        "kana": "ㄐㄧㄡ",
+        "answer": "ㄐㄧㄡ"
+      },
+      {
+        "audio": "media/pinyin/jian1.mp3",
+        "japanese": "ㄐㄧㄢ",
+        "english": "jian",
+        "furigana": "ㄐㄧㄢ",
+        "kana": "ㄐㄧㄢ",
+        "answer": "ㄐㄧㄢ"
+      },
+      {
+        "audio": "media/pinyin/jin1.mp3",
+        "japanese": "ㄐㄧㄣ",
+        "english": "jin",
+        "furigana": "ㄐㄧㄣ",
+        "kana": "ㄐㄧㄣ",
+        "answer": "ㄐㄧㄣ"
+      },
+      {
+        "audio": "media/pinyin/jiang1.mp3",
+        "japanese": "ㄐㄧㄤ",
+        "english": "jiang",
+        "furigana": "ㄐㄧㄤ",
+        "kana": "ㄐㄧㄤ",
+        "answer": "ㄐㄧㄤ"
+      },
+      {
+        "audio": "media/pinyin/jing1.mp3",
+        "japanese": "ㄐㄧㄥ",
+        "english": "jing",
+        "furigana": "ㄐㄧㄥ",
+        "kana": "ㄐㄧㄥ",
+        "answer": "ㄐㄧㄥ"
+      },
+      {
+        "audio": "media/pinyin/jiong1.mp3",
+        "japanese": "ㄐㄩㄥ",
+        "english": "jiong",
+        "furigana": "ㄐㄩㄥ",
+        "kana": "ㄐㄩㄥ",
+        "answer": "ㄐㄩㄥ"
+      },
+      {
+        "audio": "media/pinyin/ju1.mp3",
+        "japanese": "ㄐㄩ",
+        "english": "ju",
+        "furigana": "ㄐㄩ",
+        "kana": "ㄐㄩ",
+        "answer": "ㄐㄩ"
+      },
+      {
+        "audio": "media/pinyin/jue1.mp3",
+        "japanese": "ㄐㄩㄝ",
+        "english": "jue",
+        "furigana": "ㄐㄩㄝ",
+        "kana": "ㄐㄩㄝ",
+        "answer": "ㄐㄩㄝ"
+      },
+      {
+        "audio": "media/pinyin/juan1.mp3",
+        "japanese": "ㄐㄩㄢ",
+        "english": "juan",
+        "furigana": "ㄐㄩㄢ",
+        "kana": "ㄐㄩㄢ",
+        "answer": "ㄐㄩㄢ"
+      },
+      {
+        "audio": "media/pinyin/jun1.mp3",
+        "japanese": "ㄐㄩㄣ",
+        "english": "jun",
+        "furigana": "ㄐㄩㄣ",
+        "kana": "ㄐㄩㄣ",
+        "answer": "ㄐㄩㄣ"
+      },
+      {
+        "audio": "media/pinyin/qi1.mp3",
+        "japanese": "ㄑㄧ",
+        "english": "qi",
+        "furigana": "ㄑㄧ",
+        "kana": "ㄑㄧ",
+        "answer": "ㄑㄧ"
+      },
+      {
+        "audio": "media/pinyin/qia1.mp3",
+        "japanese": "ㄑㄧㄚ",
+        "english": "qia",
+        "furigana": "ㄑㄧㄚ",
+        "kana": "ㄑㄧㄚ",
+        "answer": "ㄑㄧㄚ"
+      },
+      {
+        "audio": "media/pinyin/qiao1.mp3",
+        "japanese": "ㄑㄧㄠ",
+        "english": "qiao",
+        "furigana": "ㄑㄧㄠ",
+        "kana": "ㄑㄧㄠ",
+        "answer": "ㄑㄧㄠ"
+      },
+      {
+        "audio": "media/pinyin/qie1.mp3",
+        "japanese": "ㄑㄧㄝ",
+        "english": "qie",
+        "furigana": "ㄑㄧㄝ",
+        "kana": "ㄑㄧㄝ",
+        "answer": "ㄑㄧㄝ"
+      },
+      {
+        "audio": "media/pinyin/qiu1.mp3",
+        "japanese": "ㄑㄧㄡ",
+        "english": "qiu",
+        "furigana": "ㄑㄧㄡ",
+        "kana": "ㄑㄧㄡ",
+        "answer": "ㄑㄧㄡ"
+      },
+      {
+        "audio": "media/pinyin/qian1.mp3",
+        "japanese": "ㄑㄧㄢ",
+        "english": "qian",
+        "furigana": "ㄑㄧㄢ",
+        "kana": "ㄑㄧㄢ",
+        "answer": "ㄑㄧㄢ"
+      },
+      {
+        "audio": "media/pinyin/qin1.mp3",
+        "japanese": "ㄑㄧㄣ",
+        "english": "qin",
+        "furigana": "ㄑㄧㄣ",
+        "kana": "ㄑㄧㄣ",
+        "answer": "ㄑㄧㄣ"
+      },
+      {
+        "audio": "media/pinyin/qiang1.mp3",
+        "japanese": "ㄑㄧㄤ",
+        "english": "qiang",
+        "furigana": "ㄑㄧㄤ",
+        "kana": "ㄑㄧㄤ",
+        "answer": "ㄑㄧㄤ"
+      },
+      {
+        "audio": "media/pinyin/qing1.mp3",
+        "japanese": "ㄑㄧㄥ",
+        "english": "qing",
+        "furigana": "ㄑㄧㄥ",
+        "kana": "ㄑㄧㄥ",
+        "answer": "ㄑㄧㄥ"
+      },
+      {
+        "audio": "media/pinyin/qiong1.mp3",
+        "japanese": "ㄑㄩㄥ",
+        "english": "qiong",
+        "furigana": "ㄑㄩㄥ",
+        "kana": "ㄑㄩㄥ",
+        "answer": "ㄑㄩㄥ"
+      },
+      {
+        "audio": "media/pinyin/qu1.mp3",
+        "japanese": "ㄑㄩ",
+        "english": "qu",
+        "furigana": "ㄑㄩ",
+        "kana": "ㄑㄩ",
+        "answer": "ㄑㄩ"
+      },
+      {
+        "audio": "media/pinyin/que1.mp3",
+        "japanese": "ㄑㄩㄝ",
+        "english": "que",
+        "furigana": "ㄑㄩㄝ",
+        "kana": "ㄑㄩㄝ",
+        "answer": "ㄑㄩㄝ"
+      },
+      {
+        "audio": "media/pinyin/quan1.mp3",
+        "japanese": "ㄑㄩㄢ",
+        "english": "quan",
+        "furigana": "ㄑㄩㄢ",
+        "kana": "ㄑㄩㄢ",
+        "answer": "ㄑㄩㄢ"
+      },
+      {
+        "audio": "media/pinyin/qun1.mp3",
+        "japanese": "ㄑㄩㄣ",
+        "english": "qun",
+        "furigana": "ㄑㄩㄣ",
+        "kana": "ㄑㄩㄣ",
+        "answer": "ㄑㄩㄣ"
+      },
+      {
+        "audio": "media/pinyin/xi1.mp3",
+        "japanese": "ㄒㄧ",
+        "english": "xi",
+        "furigana": "ㄒㄧ",
+        "kana": "ㄒㄧ",
+        "answer": "ㄒㄧ"
+      },
+      {
+        "audio": "media/pinyin/xia1.mp3",
+        "japanese": "ㄒㄧㄚ",
+        "english": "xia",
+        "furigana": "ㄒㄧㄚ",
+        "kana": "ㄒㄧㄚ",
+        "answer": "ㄒㄧㄚ"
+      },
+      {
+        "audio": "media/pinyin/xiao1.mp3",
+        "japanese": "ㄒㄧㄠ",
+        "english": "xiao",
+        "furigana": "ㄒㄧㄠ",
+        "kana": "ㄒㄧㄠ",
+        "answer": "ㄒㄧㄠ"
+      },
+      {
+        "audio": "media/pinyin/xie1.mp3",
+        "japanese": "ㄒㄧㄝ",
+        "english": "xie",
+        "furigana": "ㄒㄧㄝ",
+        "kana": "ㄒㄧㄝ",
+        "answer": "ㄒㄧㄝ"
+      },
+      {
+        "audio": "media/pinyin/xiu1.mp3",
+        "japanese": "ㄒㄧㄡ",
+        "english": "xiu",
+        "furigana": "ㄒㄧㄡ",
+        "kana": "ㄒㄧㄡ",
+        "answer": "ㄒㄧㄡ"
+      },
+      {
+        "audio": "media/pinyin/xian1.mp3",
+        "japanese": "ㄒㄧㄢ",
+        "english": "xian",
+        "furigana": "ㄒㄧㄢ",
+        "kana": "ㄒㄧㄢ",
+        "answer": "ㄒㄧㄢ"
+      },
+      {
+        "audio": "media/pinyin/xin1.mp3",
+        "japanese": "ㄒㄧㄣ",
+        "english": "xin",
+        "furigana": "ㄒㄧㄣ",
+        "kana": "ㄒㄧㄣ",
+        "answer": "ㄒㄧㄣ"
+      },
+      {
+        "audio": "media/pinyin/xiang1.mp3",
+        "japanese": "ㄒㄧㄤ",
+        "english": "xiang",
+        "furigana": "ㄒㄧㄤ",
+        "kana": "ㄒㄧㄤ",
+        "answer": "ㄒㄧㄤ"
+      },
+      {
+        "audio": "media/pinyin/xing1.mp3",
+        "japanese": "ㄒㄧㄥ",
+        "english": "xing",
+        "furigana": "ㄒㄧㄥ",
+        "kana": "ㄒㄧㄥ",
+        "answer": "ㄒㄧㄥ"
+      },
+      {
+        "audio": "media/pinyin/xiong1.mp3",
+        "japanese": "ㄒㄩㄥ",
+        "english": "xiong",
+        "furigana": "ㄒㄩㄥ",
+        "kana": "ㄒㄩㄥ",
+        "answer": "ㄒㄩㄥ"
+      },
+      {
+        "audio": "media/pinyin/xu1.mp3",
+        "japanese": "ㄒㄩ",
+        "english": "xu",
+        "furigana": "ㄒㄩ",
+        "kana": "ㄒㄩ",
+        "answer": "ㄒㄩ"
+      },
+      {
+        "audio": "media/pinyin/xue1.mp3",
+        "japanese": "ㄒㄩㄝ",
+        "english": "xue",
+        "furigana": "ㄒㄩㄝ",
+        "kana": "ㄒㄩㄝ",
+        "answer": "ㄒㄩㄝ"
+      },
+      {
+        "audio": "media/pinyin/xuan1.mp3",
+        "japanese": "ㄒㄩㄢ",
+        "english": "xuan",
+        "furigana": "ㄒㄩㄢ",
+        "kana": "ㄒㄩㄢ",
+        "answer": "ㄒㄩㄢ"
+      },
+      {
+        "audio": "media/pinyin/xun1.mp3",
+        "japanese": "ㄒㄩㄣ",
+        "english": "xun",
+        "furigana": "ㄒㄩㄣ",
+        "kana": "ㄒㄩㄣ",
+        "answer": "ㄒㄩㄣ"
+      }
+    ]
+  },
+  "zhuyin_zhchshr": {
+    "config": {
+      "file_path": "decks/zhuyin_audio_zhchshr.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "audio"
+    },
+    "cards": [
+      {
+        "audio": "media/pinyin/zha1.mp3",
+        "japanese": "ㄓㄚ",
+        "english": "zha",
+        "furigana": "ㄓㄚ",
+        "kana": "ㄓㄚ",
+        "answer": "ㄓㄚ"
+      },
+      {
+        "audio": "media/pinyin/zhe1.mp3",
+        "japanese": "ㄓㄜ",
+        "english": "zhe",
+        "furigana": "ㄓㄜ",
+        "kana": "ㄓㄜ",
+        "answer": "ㄓㄜ"
+      },
+      {
+        "audio": "media/pinyin/zhi1.mp3",
+        "japanese": "ㄓ",
+        "english": "zhi",
+        "furigana": "ㄓ",
+        "kana": "ㄓ",
+        "answer": "ㄓ"
+      },
+      {
+        "audio": "media/pinyin/zhai1.mp3",
+        "japanese": "ㄓㄞ",
+        "english": "zhai",
+        "furigana": "ㄓㄞ",
+        "kana": "ㄓㄞ",
+        "answer": "ㄓㄞ"
+      },
+      {
+        "audio": "media/pinyin/zhei1.mp3",
+        "japanese": "ㄓㄟ",
+        "english": "zhei",
+        "furigana": "ㄓㄟ",
+        "kana": "ㄓㄟ",
+        "answer": "ㄓㄟ"
+      },
+      {
+        "audio": "media/pinyin/zhao1.mp3",
+        "japanese": "ㄓㄠ",
+        "english": "zhao",
+        "furigana": "ㄓㄠ",
+        "kana": "ㄓㄠ",
+        "answer": "ㄓㄠ"
+      },
+      {
+        "audio": "media/pinyin/zhou1.mp3",
+        "japanese": "ㄓㄡ",
+        "english": "zhou",
+        "furigana": "ㄓㄡ",
+        "kana": "ㄓㄡ",
+        "answer": "ㄓㄡ"
+      },
+      {
+        "audio": "media/pinyin/zhan1.mp3",
+        "japanese": "ㄓㄢ",
+        "english": "zhan",
+        "furigana": "ㄓㄢ",
+        "kana": "ㄓㄢ",
+        "answer": "ㄓㄢ"
+      },
+      {
+        "audio": "media/pinyin/zhen1.mp3",
+        "japanese": "ㄓㄣ",
+        "english": "zhen",
+        "furigana": "ㄓㄣ",
+        "kana": "ㄓㄣ",
+        "answer": "ㄓㄣ"
+      },
+      {
+        "audio": "media/pinyin/zhang1.mp3",
+        "japanese": "ㄓㄤ",
+        "english": "zhang",
+        "furigana": "ㄓㄤ",
+        "kana": "ㄓㄤ",
+        "answer": "ㄓㄤ"
+      },
+      {
+        "audio": "media/pinyin/zheng1.mp3",
+        "japanese": "ㄓㄥ",
+        "english": "zheng",
+        "furigana": "ㄓㄥ",
+        "kana": "ㄓㄥ",
+        "answer": "ㄓㄥ"
+      },
+      {
+        "audio": "media/pinyin/zhong1.mp3",
+        "japanese": "ㄓㄨㄥ",
+        "english": "zhong",
+        "furigana": "ㄓㄨㄥ",
+        "kana": "ㄓㄨㄥ",
+        "answer": "ㄓㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/zhu1.mp3",
+        "japanese": "ㄓㄨ",
+        "english": "zhu",
+        "furigana": "ㄓㄨ",
+        "kana": "ㄓㄨ",
+        "answer": "ㄓㄨ"
+      },
+      {
+        "audio": "media/pinyin/zhua1.mp3",
+        "japanese": "ㄓㄨㄚ",
+        "english": "zhua",
+        "furigana": "ㄓㄨㄚ",
+        "kana": "ㄓㄨㄚ",
+        "answer": "ㄓㄨㄚ"
+      },
+      {
+        "audio": "media/pinyin/zhuo1.mp3",
+        "japanese": "ㄓㄨㄛ",
+        "english": "zhuo",
+        "furigana": "ㄓㄨㄛ",
+        "kana": "ㄓㄨㄛ",
+        "answer": "ㄓㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/zhuai1.mp3",
+        "japanese": "ㄓㄨㄞ",
+        "english": "zhuai",
+        "furigana": "ㄓㄨㄞ",
+        "kana": "ㄓㄨㄞ",
+        "answer": "ㄓㄨㄞ"
+      },
+      {
+        "audio": "media/pinyin/zhui1.mp3",
+        "japanese": "ㄓㄨㄟ",
+        "english": "zhui",
+        "furigana": "ㄓㄨㄟ",
+        "kana": "ㄓㄨㄟ",
+        "answer": "ㄓㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/zhuan1.mp3",
+        "japanese": "ㄓㄨㄢ",
+        "english": "zhuan",
+        "furigana": "ㄓㄨㄢ",
+        "kana": "ㄓㄨㄢ",
+        "answer": "ㄓㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/zhun1.mp3",
+        "japanese": "ㄓㄨㄣ",
+        "english": "zhun",
+        "furigana": "ㄓㄨㄣ",
+        "kana": "ㄓㄨㄣ",
+        "answer": "ㄓㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/zhuang1.mp3",
+        "japanese": "ㄓㄨㄤ",
+        "english": "zhuang",
+        "furigana": "ㄓㄨㄤ",
+        "kana": "ㄓㄨㄤ",
+        "answer": "ㄓㄨㄤ"
+      },
+      {
+        "audio": "media/pinyin/cha1.mp3",
+        "japanese": "ㄔㄚ",
+        "english": "cha",
+        "furigana": "ㄔㄚ",
+        "kana": "ㄔㄚ",
+        "answer": "ㄔㄚ"
+      },
+      {
+        "audio": "media/pinyin/che1.mp3",
+        "japanese": "ㄔㄜ",
+        "english": "che",
+        "furigana": "ㄔㄜ",
+        "kana": "ㄔㄜ",
+        "answer": "ㄔㄜ"
+      },
+      {
+        "audio": "media/pinyin/chi1.mp3",
+        "japanese": "ㄔ",
+        "english": "chi",
+        "furigana": "ㄔ",
+        "kana": "ㄔ",
+        "answer": "ㄔ"
+      },
+      {
+        "audio": "media/pinyin/chai1.mp3",
+        "japanese": "ㄔㄞ",
+        "english": "chai",
+        "furigana": "ㄔㄞ",
+        "kana": "ㄔㄞ",
+        "answer": "ㄔㄞ"
+      },
+      {
+        "audio": "media/pinyin/chao1.mp3",
+        "japanese": "ㄔㄠ",
+        "english": "chao",
+        "furigana": "ㄔㄠ",
+        "kana": "ㄔㄠ",
+        "answer": "ㄔㄠ"
+      },
+      {
+        "audio": "media/pinyin/chou1.mp3",
+        "japanese": "ㄔㄡ",
+        "english": "chou",
+        "furigana": "ㄔㄡ",
+        "kana": "ㄔㄡ",
+        "answer": "ㄔㄡ"
+      },
+      {
+        "audio": "media/pinyin/chan1.mp3",
+        "japanese": "ㄔㄢ",
+        "english": "chan",
+        "furigana": "ㄔㄢ",
+        "kana": "ㄔㄢ",
+        "answer": "ㄔㄢ"
+      },
+      {
+        "audio": "media/pinyin/chen1.mp3",
+        "japanese": "ㄔㄣ",
+        "english": "chen",
+        "furigana": "ㄔㄣ",
+        "kana": "ㄔㄣ",
+        "answer": "ㄔㄣ"
+      },
+      {
+        "audio": "media/pinyin/chang1.mp3",
+        "japanese": "ㄔㄤ",
+        "english": "chang",
+        "furigana": "ㄔㄤ",
+        "kana": "ㄔㄤ",
+        "answer": "ㄔㄤ"
+      },
+      {
+        "audio": "media/pinyin/cheng1.mp3",
+        "japanese": "ㄔㄥ",
+        "english": "cheng",
+        "furigana": "ㄔㄥ",
+        "kana": "ㄔㄥ",
+        "answer": "ㄔㄥ"
+      },
+      {
+        "audio": "media/pinyin/chong1.mp3",
+        "japanese": "ㄔㄨㄥ",
+        "english": "chong",
+        "furigana": "ㄔㄨㄥ",
+        "kana": "ㄔㄨㄥ",
+        "answer": "ㄔㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/chu1.mp3",
+        "japanese": "ㄔㄨ",
+        "english": "chu",
+        "furigana": "ㄔㄨ",
+        "kana": "ㄔㄨ",
+        "answer": "ㄔㄨ"
+      },
+      {
+        "audio": "media/pinyin/chua1.mp3",
+        "japanese": "ㄔㄨㄚ",
+        "english": "chua",
+        "furigana": "ㄔㄨㄚ",
+        "kana": "ㄔㄨㄚ",
+        "answer": "ㄔㄨㄚ"
+      },
+      {
+        "audio": "media/pinyin/chuo1.mp3",
+        "japanese": "ㄔㄨㄛ",
+        "english": "chuo",
+        "furigana": "ㄔㄨㄛ",
+        "kana": "ㄔㄨㄛ",
+        "answer": "ㄔㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/chuai1.mp3",
+        "japanese": "ㄔㄨㄞ",
+        "english": "chuai",
+        "furigana": "ㄔㄨㄞ",
+        "kana": "ㄔㄨㄞ",
+        "answer": "ㄔㄨㄞ"
+      },
+      {
+        "audio": "media/pinyin/chui1.mp3",
+        "japanese": "ㄔㄨㄟ",
+        "english": "chui",
+        "furigana": "ㄔㄨㄟ",
+        "kana": "ㄔㄨㄟ",
+        "answer": "ㄔㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/chuan1.mp3",
+        "japanese": "ㄔㄨㄢ",
+        "english": "chuan",
+        "furigana": "ㄔㄨㄢ",
+        "kana": "ㄔㄨㄢ",
+        "answer": "ㄔㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/chun1.mp3",
+        "japanese": "ㄔㄨㄣ",
+        "english": "chun",
+        "furigana": "ㄔㄨㄣ",
+        "kana": "ㄔㄨㄣ",
+        "answer": "ㄔㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/chuang1.mp3",
+        "japanese": "ㄔㄨㄤ",
+        "english": "chuang",
+        "furigana": "ㄔㄨㄤ",
+        "kana": "ㄔㄨㄤ",
+        "answer": "ㄔㄨㄤ"
+      },
+      {
+        "audio": "media/pinyin/sha1.mp3",
+        "japanese": "ㄕㄚ",
+        "english": "sha",
+        "furigana": "ㄕㄚ",
+        "kana": "ㄕㄚ",
+        "answer": "ㄕㄚ"
+      },
+      {
+        "audio": "media/pinyin/she1.mp3",
+        "japanese": "ㄕㄜ",
+        "english": "she",
+        "furigana": "ㄕㄜ",
+        "kana": "ㄕㄜ",
+        "answer": "ㄕㄜ"
+      },
+      {
+        "audio": "media/pinyin/shi1.mp3",
+        "japanese": "ㄕ",
+        "english": "shi",
+        "furigana": "ㄕ",
+        "kana": "ㄕ",
+        "answer": "ㄕ"
+      },
+      {
+        "audio": "media/pinyin/shai1.mp3",
+        "japanese": "ㄕㄞ",
+        "english": "shai",
+        "furigana": "ㄕㄞ",
+        "kana": "ㄕㄞ",
+        "answer": "ㄕㄞ"
+      },
+      {
+        "audio": "media/pinyin/shei1.mp3",
+        "japanese": "ㄕㄟ",
+        "english": "shei",
+        "furigana": "ㄕㄟ",
+        "kana": "ㄕㄟ",
+        "answer": "ㄕㄟ"
+      },
+      {
+        "audio": "media/pinyin/shao1.mp3",
+        "japanese": "ㄕㄠ",
+        "english": "shao",
+        "furigana": "ㄕㄠ",
+        "kana": "ㄕㄠ",
+        "answer": "ㄕㄠ"
+      },
+      {
+        "audio": "media/pinyin/shou1.mp3",
+        "japanese": "ㄕㄡ",
+        "english": "shou",
+        "furigana": "ㄕㄡ",
+        "kana": "ㄕㄡ",
+        "answer": "ㄕㄡ"
+      },
+      {
+        "audio": "media/pinyin/shan1.mp3",
+        "japanese": "ㄕㄢ",
+        "english": "shan",
+        "furigana": "ㄕㄢ",
+        "kana": "ㄕㄢ",
+        "answer": "ㄕㄢ"
+      },
+      {
+        "audio": "media/pinyin/shen1.mp3",
+        "japanese": "ㄕㄣ",
+        "english": "shen",
+        "furigana": "ㄕㄣ",
+        "kana": "ㄕㄣ",
+        "answer": "ㄕㄣ"
+      },
+      {
+        "audio": "media/pinyin/shang1.mp3",
+        "japanese": "ㄕㄤ",
+        "english": "shang",
+        "furigana": "ㄕㄤ",
+        "kana": "ㄕㄤ",
+        "answer": "ㄕㄤ"
+      },
+      {
+        "audio": "media/pinyin/sheng1.mp3",
+        "japanese": "ㄕㄥ",
+        "english": "sheng",
+        "furigana": "ㄕㄥ",
+        "kana": "ㄕㄥ",
+        "answer": "ㄕㄥ"
+      },
+      {
+        "audio": "media/pinyin/shu1.mp3",
+        "japanese": "ㄕㄨ",
+        "english": "shu",
+        "furigana": "ㄕㄨ",
+        "kana": "ㄕㄨ",
+        "answer": "ㄕㄨ"
+      },
+      {
+        "audio": "media/pinyin/shua1.mp3",
+        "japanese": "ㄕㄨㄚ",
+        "english": "shua",
+        "furigana": "ㄕㄨㄚ",
+        "kana": "ㄕㄨㄚ",
+        "answer": "ㄕㄨㄚ"
+      },
+      {
+        "audio": "media/pinyin/shuo1.mp3",
+        "japanese": "ㄕㄨㄛ",
+        "english": "shuo",
+        "furigana": "ㄕㄨㄛ",
+        "kana": "ㄕㄨㄛ",
+        "answer": "ㄕㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/shuai1.mp3",
+        "japanese": "ㄕㄨㄞ",
+        "english": "shuai",
+        "furigana": "ㄕㄨㄞ",
+        "kana": "ㄕㄨㄞ",
+        "answer": "ㄕㄨㄞ"
+      },
+      {
+        "audio": "media/pinyin/shui1.mp3",
+        "japanese": "ㄕㄨㄟ",
+        "english": "shui",
+        "furigana": "ㄕㄨㄟ",
+        "kana": "ㄕㄨㄟ",
+        "answer": "ㄕㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/shuan1.mp3",
+        "japanese": "ㄕㄨㄢ",
+        "english": "shuan",
+        "furigana": "ㄕㄨㄢ",
+        "kana": "ㄕㄨㄢ",
+        "answer": "ㄕㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/shun1.mp3",
+        "japanese": "ㄕㄨㄣ",
+        "english": "shun",
+        "furigana": "ㄕㄨㄣ",
+        "kana": "ㄕㄨㄣ",
+        "answer": "ㄕㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/shuang1.mp3",
+        "japanese": "ㄕㄨㄤ",
+        "english": "shuang",
+        "furigana": "ㄕㄨㄤ",
+        "kana": "ㄕㄨㄤ",
+        "answer": "ㄕㄨㄤ"
+      },
+      {
+        "audio": "media/pinyin/re1.mp3",
+        "japanese": "ㄖㄜ",
+        "english": "re",
+        "furigana": "ㄖㄜ",
+        "kana": "ㄖㄜ",
+        "answer": "ㄖㄜ"
+      },
+      {
+        "audio": "media/pinyin/ri1.mp3",
+        "japanese": "ㄖ",
+        "english": "ri",
+        "furigana": "ㄖ",
+        "kana": "ㄖ",
+        "answer": "ㄖ"
+      },
+      {
+        "audio": "media/pinyin/rao1.mp3",
+        "japanese": "ㄖㄠ",
+        "english": "rao",
+        "furigana": "ㄖㄠ",
+        "kana": "ㄖㄠ",
+        "answer": "ㄖㄠ"
+      },
+      {
+        "audio": "media/pinyin/rou1.mp3",
+        "japanese": "ㄖㄡ",
+        "english": "rou",
+        "furigana": "ㄖㄡ",
+        "kana": "ㄖㄡ",
+        "answer": "ㄖㄡ"
+      },
+      {
+        "audio": "media/pinyin/ran1.mp3",
+        "japanese": "ㄖㄢ",
+        "english": "ran",
+        "furigana": "ㄖㄢ",
+        "kana": "ㄖㄢ",
+        "answer": "ㄖㄢ"
+      },
+      {
+        "audio": "media/pinyin/ren1.mp3",
+        "japanese": "ㄖㄣ",
+        "english": "ren",
+        "furigana": "ㄖㄣ",
+        "kana": "ㄖㄣ",
+        "answer": "ㄖㄣ"
+      },
+      {
+        "audio": "media/pinyin/rang1.mp3",
+        "japanese": "ㄖㄤ",
+        "english": "rang",
+        "furigana": "ㄖㄤ",
+        "kana": "ㄖㄤ",
+        "answer": "ㄖㄤ"
+      },
+      {
+        "audio": "media/pinyin/reng1.mp3",
+        "japanese": "ㄖㄥ",
+        "english": "reng",
+        "furigana": "ㄖㄥ",
+        "kana": "ㄖㄥ",
+        "answer": "ㄖㄥ"
+      },
+      {
+        "audio": "media/pinyin/rong1.mp3",
+        "japanese": "ㄖㄨㄥ",
+        "english": "rong",
+        "furigana": "ㄖㄨㄥ",
+        "kana": "ㄖㄨㄥ",
+        "answer": "ㄖㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/ru1.mp3",
+        "japanese": "ㄖㄨㄚ",
+        "english": "ru",
+        "furigana": "ㄖㄨㄚ",
+        "kana": "ㄖㄨㄚ",
+        "answer": "ㄖㄨㄚ"
+      },
+      {
+        "audio": "media/pinyin/rua1.mp3",
+        "japanese": "ㄖㄨ",
+        "english": "rua",
+        "furigana": "ㄖㄨ",
+        "kana": "ㄖㄨ",
+        "answer": "ㄖㄨ"
+      },
+      {
+        "audio": "media/pinyin/ruo1.mp3",
+        "japanese": "ㄖㄨㄛ",
+        "english": "ruo",
+        "furigana": "ㄖㄨㄛ",
+        "kana": "ㄖㄨㄛ",
+        "answer": "ㄖㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/rui1.mp3",
+        "japanese": "ㄖㄨㄟ",
+        "english": "rui",
+        "furigana": "ㄖㄨㄟ",
+        "kana": "ㄖㄨㄟ",
+        "answer": "ㄖㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/ruan1.mp3",
+        "japanese": "ㄖㄨㄢ",
+        "english": "ruan",
+        "furigana": "ㄖㄨㄢ",
+        "kana": "ㄖㄨㄢ",
+        "answer": "ㄖㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/run1.mp3",
+        "japanese": "ㄖㄨㄣ",
+        "english": "run",
+        "furigana": "ㄖㄨㄣ",
+        "kana": "ㄖㄨㄣ",
+        "answer": "ㄖㄨㄣ"
+      }
+    ]
+  },
+  "zhuyin_zcs": {
+    "config": {
+      "file_path": "decks/zhuyin_audio_zcs.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "audio"
+    },
+    "cards": [
+      {
+        "audio": "media/pinyin/za1.mp3",
+        "japanese": "ㄗㄚ",
+        "english": "za",
+        "furigana": "ㄗㄚ",
+        "kana": "ㄗㄚ",
+        "answer": "ㄗㄚ"
+      },
+      {
+        "audio": "media/pinyin/ze1.mp3",
+        "japanese": "ㄗㄜ",
+        "english": "ze",
+        "furigana": "ㄗㄜ",
+        "kana": "ㄗㄜ",
+        "answer": "ㄗㄜ"
+      },
+      {
+        "audio": "media/pinyin/zi1.mp3",
+        "japanese": "ㄗ",
+        "english": "zi",
+        "furigana": "ㄗ",
+        "kana": "ㄗ",
+        "answer": "ㄗ"
+      },
+      {
+        "audio": "media/pinyin/zai1.mp3",
+        "japanese": "ㄗㄞ",
+        "english": "zai",
+        "furigana": "ㄗㄞ",
+        "kana": "ㄗㄞ",
+        "answer": "ㄗㄞ"
+      },
+      {
+        "audio": "media/pinyin/zei1.mp3",
+        "japanese": "ㄗㄟ",
+        "english": "zei",
+        "furigana": "ㄗㄟ",
+        "kana": "ㄗㄟ",
+        "answer": "ㄗㄟ"
+      },
+      {
+        "audio": "media/pinyin/zao1.mp3",
+        "japanese": "ㄗㄠ",
+        "english": "zao",
+        "furigana": "ㄗㄠ",
+        "kana": "ㄗㄠ",
+        "answer": "ㄗㄠ"
+      },
+      {
+        "audio": "media/pinyin/zou1.mp3",
+        "japanese": "ㄗㄡ",
+        "english": "zou",
+        "furigana": "ㄗㄡ",
+        "kana": "ㄗㄡ",
+        "answer": "ㄗㄡ"
+      },
+      {
+        "audio": "media/pinyin/zan1.mp3",
+        "japanese": "ㄗㄢ",
+        "english": "zan",
+        "furigana": "ㄗㄢ",
+        "kana": "ㄗㄢ",
+        "answer": "ㄗㄢ"
+      },
+      {
+        "audio": "media/pinyin/zen1.mp3",
+        "japanese": "ㄗㄣ",
+        "english": "zen",
+        "furigana": "ㄗㄣ",
+        "kana": "ㄗㄣ",
+        "answer": "ㄗㄣ"
+      },
+      {
+        "audio": "media/pinyin/zang1.mp3",
+        "japanese": "ㄗㄤ",
+        "english": "zang",
+        "furigana": "ㄗㄤ",
+        "kana": "ㄗㄤ",
+        "answer": "ㄗㄤ"
+      },
+      {
+        "audio": "media/pinyin/zeng1.mp3",
+        "japanese": "ㄗㄥ",
+        "english": "zeng",
+        "furigana": "ㄗㄥ",
+        "kana": "ㄗㄥ",
+        "answer": "ㄗㄥ"
+      },
+      {
+        "audio": "media/pinyin/zong1.mp3",
+        "japanese": "ㄗㄨㄥ",
+        "english": "zong",
+        "furigana": "ㄗㄨㄥ",
+        "kana": "ㄗㄨㄥ",
+        "answer": "ㄗㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/zu1.mp3",
+        "japanese": "ㄗㄨ",
+        "english": "zu",
+        "furigana": "ㄗㄨ",
+        "kana": "ㄗㄨ",
+        "answer": "ㄗㄨ"
+      },
+      {
+        "audio": "media/pinyin/zuo1.mp3",
+        "japanese": "ㄗㄨㄛ",
+        "english": "zuo",
+        "furigana": "ㄗㄨㄛ",
+        "kana": "ㄗㄨㄛ",
+        "answer": "ㄗㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/zui1.mp3",
+        "japanese": "ㄗㄨㄟ",
+        "english": "zui",
+        "furigana": "ㄗㄨㄟ",
+        "kana": "ㄗㄨㄟ",
+        "answer": "ㄗㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/zuan1.mp3",
+        "japanese": "ㄗㄨㄢ",
+        "english": "zuan",
+        "furigana": "ㄗㄨㄢ",
+        "kana": "ㄗㄨㄢ",
+        "answer": "ㄗㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/zun1.mp3",
+        "japanese": "ㄗㄨㄣ",
+        "english": "zun",
+        "furigana": "ㄗㄨㄣ",
+        "kana": "ㄗㄨㄣ",
+        "answer": "ㄗㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/ca1.mp3",
+        "japanese": "ㄘㄚ",
+        "english": "ca",
+        "furigana": "ㄘㄚ",
+        "kana": "ㄘㄚ",
+        "answer": "ㄘㄚ"
+      },
+      {
+        "audio": "media/pinyin/ce1.mp3",
+        "japanese": "ㄘㄜ",
+        "english": "ce",
+        "furigana": "ㄘㄜ",
+        "kana": "ㄘㄜ",
+        "answer": "ㄘㄜ"
+      },
+      {
+        "audio": "media/pinyin/ci1.mp3",
+        "japanese": "ㄘ",
+        "english": "ci",
+        "furigana": "ㄘ",
+        "kana": "ㄘ",
+        "answer": "ㄘ"
+      },
+      {
+        "audio": "media/pinyin/cai1.mp3",
+        "japanese": "ㄘㄞ",
+        "english": "cai",
+        "furigana": "ㄘㄞ",
+        "kana": "ㄘㄞ",
+        "answer": "ㄘㄞ"
+      },
+      {
+        "audio": "media/pinyin/cao1.mp3",
+        "japanese": "ㄘㄠ",
+        "english": "cao",
+        "furigana": "ㄘㄠ",
+        "kana": "ㄘㄠ",
+        "answer": "ㄘㄠ"
+      },
+      {
+        "audio": "media/pinyin/cou1.mp3",
+        "japanese": "ㄘㄡ",
+        "english": "cou",
+        "furigana": "ㄘㄡ",
+        "kana": "ㄘㄡ",
+        "answer": "ㄘㄡ"
+      },
+      {
+        "audio": "media/pinyin/can1.mp3",
+        "japanese": "ㄘㄢ",
+        "english": "can",
+        "furigana": "ㄘㄢ",
+        "kana": "ㄘㄢ",
+        "answer": "ㄘㄢ"
+      },
+      {
+        "audio": "media/pinyin/cen1.mp3",
+        "japanese": "ㄘㄣ",
+        "english": "cen",
+        "furigana": "ㄘㄣ",
+        "kana": "ㄘㄣ",
+        "answer": "ㄘㄣ"
+      },
+      {
+        "audio": "media/pinyin/cang1.mp3",
+        "japanese": "ㄘㄤ",
+        "english": "cang",
+        "furigana": "ㄘㄤ",
+        "kana": "ㄘㄤ",
+        "answer": "ㄘㄤ"
+      },
+      {
+        "audio": "media/pinyin/ceng1.mp3",
+        "japanese": "ㄘㄥ",
+        "english": "ceng",
+        "furigana": "ㄘㄥ",
+        "kana": "ㄘㄥ",
+        "answer": "ㄘㄥ"
+      },
+      {
+        "audio": "media/pinyin/cong1.mp3",
+        "japanese": "ㄘㄨㄥ",
+        "english": "cong",
+        "furigana": "ㄘㄨㄥ",
+        "kana": "ㄘㄨㄥ",
+        "answer": "ㄘㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/cu1.mp3",
+        "japanese": "ㄘㄨ",
+        "english": "cu",
+        "furigana": "ㄘㄨ",
+        "kana": "ㄘㄨ",
+        "answer": "ㄘㄨ"
+      },
+      {
+        "audio": "media/pinyin/cuo1.mp3",
+        "japanese": "ㄘㄨㄛ",
+        "english": "cuo",
+        "furigana": "ㄘㄨㄛ",
+        "kana": "ㄘㄨㄛ",
+        "answer": "ㄘㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/cui1.mp3",
+        "japanese": "ㄘㄨㄟ",
+        "english": "cui",
+        "furigana": "ㄘㄨㄟ",
+        "kana": "ㄘㄨㄟ",
+        "answer": "ㄘㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/cuan1.mp3",
+        "japanese": "ㄘㄨㄢ",
+        "english": "cuan",
+        "furigana": "ㄘㄨㄢ",
+        "kana": "ㄘㄨㄢ",
+        "answer": "ㄘㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/cun1.mp3",
+        "japanese": "ㄘㄨㄣ",
+        "english": "cun",
+        "furigana": "ㄘㄨㄣ",
+        "kana": "ㄘㄨㄣ",
+        "answer": "ㄘㄨㄣ"
+      },
+      {
+        "audio": "media/pinyin/sa1.mp3",
+        "japanese": "ㄙㄚ",
+        "english": "sa",
+        "furigana": "ㄙㄚ",
+        "kana": "ㄙㄚ",
+        "answer": "ㄙㄚ"
+      },
+      {
+        "audio": "media/pinyin/se1.mp3",
+        "japanese": "ㄙㄜ",
+        "english": "se",
+        "furigana": "ㄙㄜ",
+        "kana": "ㄙㄜ",
+        "answer": "ㄙㄜ"
+      },
+      {
+        "audio": "media/pinyin/si1.mp3",
+        "japanese": "ㄙ",
+        "english": "si",
+        "furigana": "ㄙ",
+        "kana": "ㄙ",
+        "answer": "ㄙ"
+      },
+      {
+        "audio": "media/pinyin/sai1.mp3",
+        "japanese": "ㄙㄞ",
+        "english": "sai",
+        "furigana": "ㄙㄞ",
+        "kana": "ㄙㄞ",
+        "answer": "ㄙㄞ"
+      },
+      {
+        "audio": "media/pinyin/sao1.mp3",
+        "japanese": "ㄙㄠ",
+        "english": "sao",
+        "furigana": "ㄙㄠ",
+        "kana": "ㄙㄠ",
+        "answer": "ㄙㄠ"
+      },
+      {
+        "audio": "media/pinyin/sou1.mp3",
+        "japanese": "ㄙㄡ",
+        "english": "sou",
+        "furigana": "ㄙㄡ",
+        "kana": "ㄙㄡ",
+        "answer": "ㄙㄡ"
+      },
+      {
+        "audio": "media/pinyin/san1.mp3",
+        "japanese": "ㄙㄢ",
+        "english": "san",
+        "furigana": "ㄙㄢ",
+        "kana": "ㄙㄢ",
+        "answer": "ㄙㄢ"
+      },
+      {
+        "audio": "media/pinyin/sen1.mp3",
+        "japanese": "ㄙㄣ",
+        "english": "sen",
+        "furigana": "ㄙㄣ",
+        "kana": "ㄙㄣ",
+        "answer": "ㄙㄣ"
+      },
+      {
+        "audio": "media/pinyin/sang1.mp3",
+        "japanese": "ㄙㄤ",
+        "english": "sang",
+        "furigana": "ㄙㄤ",
+        "kana": "ㄙㄤ",
+        "answer": "ㄙㄤ"
+      },
+      {
+        "audio": "media/pinyin/seng1.mp3",
+        "japanese": "ㄙㄥ",
+        "english": "seng",
+        "furigana": "ㄙㄥ",
+        "kana": "ㄙㄥ",
+        "answer": "ㄙㄥ"
+      },
+      {
+        "audio": "media/pinyin/song1.mp3",
+        "japanese": "ㄙㄨㄥ",
+        "english": "song",
+        "furigana": "ㄙㄨㄥ",
+        "kana": "ㄙㄨㄥ",
+        "answer": "ㄙㄨㄥ"
+      },
+      {
+        "audio": "media/pinyin/su1.mp3",
+        "japanese": "ㄙㄨ",
+        "english": "su",
+        "furigana": "ㄙㄨ",
+        "kana": "ㄙㄨ",
+        "answer": "ㄙㄨ"
+      },
+      {
+        "audio": "media/pinyin/suo1.mp3",
+        "japanese": "ㄙㄨㄛ",
+        "english": "suo",
+        "furigana": "ㄙㄨㄛ",
+        "kana": "ㄙㄨㄛ",
+        "answer": "ㄙㄨㄛ"
+      },
+      {
+        "audio": "media/pinyin/sui1.mp3",
+        "japanese": "ㄙㄨㄟ",
+        "english": "sui",
+        "furigana": "ㄙㄨㄟ",
+        "kana": "ㄙㄨㄟ",
+        "answer": "ㄙㄨㄟ"
+      },
+      {
+        "audio": "media/pinyin/suan1.mp3",
+        "japanese": "ㄙㄨㄢ",
+        "english": "suan",
+        "furigana": "ㄙㄨㄢ",
+        "kana": "ㄙㄨㄢ",
+        "answer": "ㄙㄨㄢ"
+      },
+      {
+        "audio": "media/pinyin/sun1.mp3",
+        "japanese": "ㄙㄨㄣ",
+        "english": "sun",
+        "furigana": "ㄙㄨㄣ",
+        "kana": "ㄙㄨㄣ",
+        "answer": "ㄙㄨㄣ"
+      }
+    ]
+  },
+  "zhuyin": {
+    "config": {
+      "file_path": "decks/zhuyin_audio.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "audio"
+    },
+    "cards": [
+      {
+        "audio": "media/pinyin/a1.mp3",
+        "japanese": "ㄚ",
+        "english": "a",
+        "furigana": "ㄚ",
+        "kana": "ㄚ",
+        "answer": "ㄚ"
+      },
+      {
+        "audio": "media/pinyin/o1.mp3",
+        "japanese": "ㄛ",
+        "english": "o",
+        "furigana": "ㄛ",
+        "kana": "ㄛ",
+        "answer": "ㄛ"
+      },
+      {
+        "audio": "media/pinyin/e1.mp3",
+        "japanese": "ㄜ",
+        "english": "e",
+        "furigana": "ㄜ",
+        "kana": "ㄜ",
+        "answer": "ㄜ"
+      },
+      {
+        "audio": "media/pinyin/ai1.mp3",
+        "japanese": "ㄞ",
+        "english": "ai",
+        "furigana": "ㄞ",
+        "kana": "ㄞ",
+        "answer": "ㄞ"
+      },
+      {
+        "audio": "media/pinyin/ei1.mp3",
+        "japanese": "ㄟ",
+        "english": "ei",
+        "furigana": "ㄟ",
+        "kana": "ㄟ",
+        "answer": "ㄟ"
+      },
+      {
+        "audio": "media/pinyin/ao1.mp3",
+        "japanese": "ㄠ",
+        "english": "ao",
+        "furigana": "ㄠ",
+        "kana": "ㄠ",
+        "answer": "ㄠ"
+      },
+      {
+        "audio": "media/pinyin/ou1.mp3",
+        "japanese": "ㄡ",
+        "english": "ou",
+        "furigana": "ㄡ",
+        "kana": "ㄡ",
+        "answer": "ㄡ"
+      },
+      {
+        "audio": "media/pinyin/an1.mp3",
+        "japanese": "ㄢ",
+        "english": "an",
+        "furigana": "ㄢ",
+        "kana": "ㄢ",
+        "answer": "ㄢ"
+      },
+      {
+        "audio": "media/pinyin/en1.mp3",
+        "japanese": "ㄣ",
+        "english": "en",
+        "furigana": "ㄣ",
+        "kana": "ㄣ",
+        "answer": "ㄣ"
+      },
+      {
+        "audio": "media/pinyin/ang1.mp3",
+        "japanese": "ㄤ",
+        "english": "ang",
+        "furigana": "ㄤ",
+        "kana": "ㄤ",
+        "answer": "ㄤ"
+      },
+      {
+        "audio": "media/pinyin/eng1.mp3",
+        "japanese": "ㄥ",
+        "english": "eng",
+        "furigana": "ㄥ",
+        "kana": "ㄥ",
+        "answer": "ㄥ"
+      },
+      {
+        "audio": "media/pinyin/er1.mp3",
+        "japanese": "ㄦ",
+        "english": "er",
+        "furigana": "ㄦ",
+        "kana": "ㄦ",
+        "answer": "ㄦ"
       },
       {
         "audio": "media/pinyin/yi1.mp3",
