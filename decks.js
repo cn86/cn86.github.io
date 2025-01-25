@@ -1,5 +1,5 @@
 /*
-<option value="zhuyin">zhuyin (408)</option><option value="tone_pairs">tone_pairs (60)</option><option value="100_radicals">100_radicals (100)</option><option value="rth">rth (3035)</option><option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
+<option value="zhuyin">zhuyin (407)</option><option value="tone_pairs">tone_pairs (60)</option><option value="100_radicals">100_radicals (100)</option><option value="rth">rth (3035)</option><option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
 */
 var decks = {
   "zhuyin": {
@@ -49,14 +49,6 @@ var decks = {
         "furigana": "ㄞ",
         "kana": "ㄞ",
         "answer": "ㄞ"
-      },
-      {
-        "audio": "media/pinyin/ei1.mp3",
-        "japanese": "ㄟ",
-        "english": "ei",
-        "furigana": "ㄟ",
-        "kana": "ㄟ",
-        "answer": "ㄟ"
       },
       {
         "audio": "media/pinyin/ao1.mp3",
