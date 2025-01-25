@@ -125,7 +125,7 @@
     <div id="controls">
         <div>
             <select id="deck-select" onchange="set_deck_options_hash();load_deck_options();">
-<option value="zhuyin">zhuyin (37)</option><option value="zhuyin_reverse">zhuyin_reverse (37)</option><option value="zhuyin_pinyin">zhuyin_pinyin (410)</option><option value="100_radicals">100_radicals (100)</option><option value="rth">rth (3035)</option><option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
+<option value="zhuyin">zhuyin (408)</option><option value="100_radicals">100_radicals (100)</option><option value="rth">rth (3035)</option><option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
             </select>
             <select id="deck-size-select" onchange="set_deck_options_hash();load_deck_options();">
                 <option value="5">5</option>
@@ -139,6 +139,7 @@
             <input type="number" id="deck-offset" min="1" value="1" onchange="set_deck_options_hash();load_deck_options();">
         </div>
         <div>
+            A:<input type="checkbox" id="show-audio" onclick="toggle_card_info();" checked>
             J:<input type="checkbox" id="show-japanese" onclick="toggle_card_info();" checked>
             F:<input type="checkbox" id="show-furigana" onclick="toggle_card_info();">
             E:<input type="checkbox" id="show-english" onclick="toggle_card_info();">
@@ -154,6 +155,11 @@
 
     <div id="q-and-a">
         <div id="question-container" onclick="temporarily_show_card_info();">
+            <p id="card-audio">
+                <audio controls id="card-audio-player">
+                    <source id="card-audio-source" src="" type="audio/mpeg">
+                </audio>
+            </p>
             <p id="card-japanese"></p>
             <p id="card-furigana"></p>
             <p id="card-english"></p>
@@ -183,6 +189,7 @@
         var max_card_index = 0;
         var card_set = [];
         var card_info = {
+            "show-audio": false,
             "show-japanese": true,
             "show-furigana": false,
             "show-english": false,
@@ -275,7 +282,6 @@
 
         }
 
-
         function set_cards(deck_name, deck_size, deck_offset) {
             let deck = decks[deck_name];
             set_japanese_font(deck['config']['stroke_order_font']);
@@ -311,6 +317,13 @@
             card_english.innerHTML = card["english"];
             let card_kana = document.getElementById("card-kana");
             card_kana.innerHTML = card["kana"];
+            if ("audio" in card) {
+                let card_audio_player = document.getElementById("card-audio-player");
+                let card_audio_source = document.getElementById("card-audio-source");
+                card_audio_source.src = card["audio"];
+                card_audio_player.load();
+                card_audio_player.play();
+            }
             reset_card_info();
         }
         function shuffle(array) {
