@@ -3289,480 +3289,480 @@ var decks = {
         "japanese": "开心",
         "english": "to feel happy; to rejoice",
         "furigana": "kāi xīn",
-        "kana": "ㄎㄞ ㄒㄧㄣ",
-        "answer": "ㄎㄞ ㄒㄧㄣ"
+        "kana": "ㄎㄞㄒㄧㄣ",
+        "answer": "ㄎㄞㄒㄧㄣ"
       },
       {
         "audio": "media/tone_pairs/中国.mp3",
         "japanese": "中国",
         "english": "China",
         "furigana": "Zhōng guó",
-        "kana": "ㄓㄨㄥ ㄍㄨㄛˊ",
-        "answer": "ㄓㄨㄥ ㄍㄨㄛˊ"
+        "kana": "ㄓㄨㄥㄍㄨㄛˊ",
+        "answer": "ㄓㄨㄥㄍㄨㄛˊ"
       },
       {
         "audio": "media/tone_pairs/今晚.mp3",
         "japanese": "今晚",
         "english": "tonight",
         "furigana": "jīn wǎn",
-        "kana": "ㄐㄧㄣ ㄨㄢˇ",
-        "answer": "ㄐㄧㄣ ㄨㄢˇ"
+        "kana": "ㄐㄧㄣㄨㄢˇ",
+        "answer": "ㄐㄧㄣㄨㄢˇ"
       },
       {
         "audio": "media/tone_pairs/关闭.mp3",
         "japanese": "关闭",
         "english": "to close; to shut",
         "furigana": "guān bì",
-        "kana": "ㄍㄨㄢ ㄅㄧˋ",
-        "answer": "ㄍㄨㄢ ㄅㄧˋ"
+        "kana": "ㄍㄨㄢㄅㄧˋ",
+        "answer": "ㄍㄨㄢㄅㄧˋ"
       },
       {
         "audio": "media/tone_pairs/他们.mp3",
         "japanese": "他们",
         "english": "they",
         "furigana": "tā men",
-        "kana": "ㄊㄚ ㄇㄣ˙",
-        "answer": "ㄊㄚ ㄇㄣ˙"
+        "kana": "ㄊㄚㄇㄣ˙",
+        "answer": "ㄊㄚㄇㄣ˙"
       },
       {
         "audio": "media/tone_pairs/全新.mp3",
         "japanese": "全新",
         "english": "all new; completely new",
         "furigana": "quán xīn",
-        "kana": "ㄑㄩㄢˊ ㄒㄧㄣ",
-        "answer": "ㄑㄩㄢˊ ㄒㄧㄣ"
+        "kana": "ㄑㄩㄢˊㄒㄧㄣ",
+        "answer": "ㄑㄩㄢˊㄒㄧㄣ"
       },
       {
         "audio": "media/tone_pairs/全年.mp3",
         "japanese": "全年",
         "english": "the whole year; all year long",
         "furigana": "quán nián",
-        "kana": "ㄑㄩㄢˊ ㄋㄧㄢˊ",
-        "answer": "ㄑㄩㄢˊ ㄋㄧㄢˊ"
+        "kana": "ㄑㄩㄢˊㄋㄧㄢˊ",
+        "answer": "ㄑㄩㄢˊㄋㄧㄢˊ"
       },
       {
         "audio": "media/tone_pairs/传统.mp3",
         "japanese": "传统",
         "english": "tradition; traditional",
         "furigana": "chuán tǒng",
-        "kana": "ㄔㄨㄢˊ ㄊㄨㄥˇ",
-        "answer": "ㄔㄨㄢˊ ㄊㄨㄥˇ"
+        "kana": "ㄔㄨㄢˊㄊㄨㄥˇ",
+        "answer": "ㄔㄨㄢˊㄊㄨㄥˇ"
       },
       {
         "audio": "media/tone_pairs/博客.mp3",
         "japanese": "博客",
         "english": "blog (loanword); weblog",
         "furigana": "bó kè",
-        "kana": "ㄅㄛˊ ㄎㄜˋ",
-        "answer": "ㄅㄛˊ ㄎㄜˋ"
+        "kana": "ㄅㄛˊㄎㄜˋ",
+        "answer": "ㄅㄛˊㄎㄜˋ"
       },
       {
         "audio": "media/tone_pairs/值得.mp3",
         "japanese": "值得",
         "english": "to be worth; to deserve",
         "furigana": "zhí de",
-        "kana": "ㄓˊ ㄉㄜ˙",
-        "answer": "ㄓˊ ㄉㄜ˙"
+        "kana": "ㄓˊㄉㄜ˙",
+        "answer": "ㄓˊㄉㄜ˙"
       },
       {
         "audio": "media/tone_pairs/买家.mp3",
         "japanese": "买家",
         "english": "buyer",
         "furigana": "mǎi jiā",
-        "kana": "ㄇㄞˇ ㄐㄧㄚ",
-        "answer": "ㄇㄞˇ ㄐㄧㄚ"
+        "kana": "ㄇㄞˇㄐㄧㄚ",
+        "answer": "ㄇㄞˇㄐㄧㄚ"
       },
       {
         "audio": "media/tone_pairs/以前.mp3",
         "japanese": "以前",
         "english": "before; formerly",
         "furigana": "yǐ qián",
-        "kana": "ㄧˇ ㄑㄧㄢˊ",
-        "answer": "ㄧˇ ㄑㄧㄢˊ"
+        "kana": "ㄧˇㄑㄧㄢˊ",
+        "answer": "ㄧˇㄑㄧㄢˊ"
       },
       {
         "audio": "media/tone_pairs/产品.mp3",
         "japanese": "产品",
         "english": "goods; merchandise",
         "furigana": "chǎn pǐn",
-        "kana": "ㄔㄢˇ ㄆㄧㄣˇ",
-        "answer": "ㄔㄢˇ ㄆㄧㄣˇ"
+        "kana": "ㄔㄢˇㄆㄧㄣˇ",
+        "answer": "ㄔㄢˇㄆㄧㄣˇ"
       },
       {
         "audio": "media/tone_pairs/保护.mp3",
         "japanese": "保护",
         "english": "to protect; to defend",
         "furigana": "bǎo hù",
-        "kana": "ㄅㄠˇ ㄏㄨˋ",
-        "answer": "ㄅㄠˇ ㄏㄨˋ"
+        "kana": "ㄅㄠˇㄏㄨˋ",
+        "answer": "ㄅㄠˇㄏㄨˋ"
       },
       {
         "audio": "media/tone_pairs/喜欢.mp3",
         "japanese": "喜欢",
         "english": "to like; to be fond of",
         "furigana": "xǐ huan",
-        "kana": "ㄒㄧˇ ㄏㄨㄢ˙",
-        "answer": "ㄒㄧˇ ㄏㄨㄢ˙"
+        "kana": "ㄒㄧˇㄏㄨㄢ˙",
+        "answer": "ㄒㄧˇㄏㄨㄢ˙"
       },
       {
         "audio": "media/tone_pairs/信息.mp3",
         "japanese": "信息",
         "english": "information; news",
         "furigana": "xìn xī",
-        "kana": "ㄒㄧㄣˋ ㄒㄧ",
-        "answer": "ㄒㄧㄣˋ ㄒㄧ"
+        "kana": "ㄒㄧㄣˋㄒㄧ",
+        "answer": "ㄒㄧㄣˋㄒㄧ"
       },
       {
         "audio": "media/tone_pairs/个人.mp3",
         "japanese": "个人",
         "english": "individual; personal",
         "furigana": "gè rén",
-        "kana": "ㄍㄜˋ ㄖㄣˊ",
-        "answer": "ㄍㄜˋ ㄖㄣˊ"
+        "kana": "ㄍㄜˋㄖㄣˊ",
+        "answer": "ㄍㄜˋㄖㄣˊ"
       },
       {
         "audio": "media/tone_pairs/下载.mp3",
         "japanese": "下载",
         "english": "to download",
         "furigana": "xià zǎi",
-        "kana": "ㄒㄧㄚˋ ㄗㄞˇ",
-        "answer": "ㄒㄧㄚˋ ㄗㄞˇ"
+        "kana": "ㄒㄧㄚˋㄗㄞˇ",
+        "answer": "ㄒㄧㄚˋㄗㄞˇ"
       },
       {
         "audio": "media/tone_pairs/介绍.mp3",
         "japanese": "介绍",
         "english": "to introduce (sb to sb); to give a presentation",
         "furigana": "jiè shào",
-        "kana": "ㄐㄧㄝˋ ㄕㄠˋ",
-        "answer": "ㄐㄧㄝˋ ㄕㄠˋ"
+        "kana": "ㄐㄧㄝˋㄕㄠˋ",
+        "answer": "ㄐㄧㄝˋㄕㄠˋ"
       },
       {
         "audio": "media/tone_pairs/力量.mp3",
         "japanese": "力量",
         "english": "power; force",
         "furigana": "lì liang",
-        "kana": "ㄌㄧˋ ㄌㄧㄤ˙",
-        "answer": "ㄌㄧˋ ㄌㄧㄤ˙"
+        "kana": "ㄌㄧˋㄌㄧㄤ˙",
+        "answer": "ㄌㄧˋㄌㄧㄤ˙"
       },
       {
         "audio": "media/tone_pairs/中心.mp3",
         "japanese": "中心",
         "english": "center; heart",
         "furigana": "zhōng xīn",
-        "kana": "ㄓㄨㄥ ㄒㄧㄣ",
-        "answer": "ㄓㄨㄥ ㄒㄧㄣ"
+        "kana": "ㄓㄨㄥㄒㄧㄣ",
+        "answer": "ㄓㄨㄥㄒㄧㄣ"
       },
       {
         "audio": "media/tone_pairs/中文.mp3",
         "japanese": "中文",
         "english": "Chinese; Chinese written language",
         "furigana": "Zhōng wén",
-        "kana": "ㄓㄨㄥ ㄨㄣˊ",
-        "answer": "ㄓㄨㄥ ㄨㄣˊ"
+        "kana": "ㄓㄨㄥㄨㄣˊ",
+        "answer": "ㄓㄨㄥㄨㄣˊ"
       },
       {
         "audio": "media/tone_pairs/分享.mp3",
         "japanese": "分享",
         "english": "to share",
         "furigana": "fēn xiǎng",
-        "kana": "ㄈㄣ ㄒㄧㄤˇ",
-        "answer": "ㄈㄣ ㄒㄧㄤˇ"
+        "kana": "ㄈㄣㄒㄧㄤˇ",
+        "answer": "ㄈㄣㄒㄧㄤˇ"
       },
       {
         "audio": "media/tone_pairs/发现.mp3",
         "japanese": "发现",
         "english": "to find; to discover",
         "furigana": "fā xiàn",
-        "kana": "ㄈㄚ ㄒㄧㄢˋ",
-        "answer": "ㄈㄚ ㄒㄧㄢˋ"
+        "kana": "ㄈㄚㄒㄧㄢˋ",
+        "answer": "ㄈㄚㄒㄧㄢˋ"
       },
       {
         "audio": "media/tone_pairs/休息.mp3",
         "japanese": "休息",
         "english": "rest; to rest",
         "furigana": "xiū xi",
-        "kana": "ㄒㄧㄡ ㄒㄧ˙",
-        "answer": "ㄒㄧㄡ ㄒㄧ˙"
+        "kana": "ㄒㄧㄡㄒㄧ˙",
+        "answer": "ㄒㄧㄡㄒㄧ˙"
       },
       {
         "audio": "media/tone_pairs/原因.mp3",
         "japanese": "原因",
         "english": "cause; origin",
         "furigana": "yuán yīn",
-        "kana": "ㄩㄢˊ ㄧㄣ",
-        "answer": "ㄩㄢˊ ㄧㄣ"
+        "kana": "ㄩㄢˊㄧㄣ",
+        "answer": "ㄩㄢˊㄧㄣ"
       },
       {
         "audio": "media/tone_pairs/其实.mp3",
         "japanese": "其实",
         "english": "actually; in fact",
         "furigana": "qí shí",
-        "kana": "ㄑㄧˊ ㄕˊ",
-        "answer": "ㄑㄧˊ ㄕˊ"
+        "kana": "ㄑㄧˊㄕˊ",
+        "answer": "ㄑㄧˊㄕˊ"
       },
       {
         "audio": "media/tone_pairs/如果.mp3",
         "japanese": "如果",
         "english": "if; in case",
         "furigana": "rú guǒ",
-        "kana": "ㄖㄨˊ ㄍㄨㄛˇ",
-        "answer": "ㄖㄨˊ ㄍㄨㄛˇ"
+        "kana": "ㄖㄨˊㄍㄨㄛˇ",
+        "answer": "ㄖㄨˊㄍㄨㄛˇ"
       },
       {
         "audio": "media/tone_pairs/图片.mp3",
         "japanese": "图片",
         "english": "image; picture",
         "furigana": "tú piàn",
-        "kana": "ㄊㄨˊ ㄆㄧㄢˋ",
-        "answer": "ㄊㄨˊ ㄆㄧㄢˋ"
+        "kana": "ㄊㄨˊㄆㄧㄢˋ",
+        "answer": "ㄊㄨˊㄆㄧㄢˋ"
       },
       {
         "audio": "media/tone_pairs/便宜.mp3",
         "japanese": "便宜",
         "english": "cheap; inexpensive",
         "furigana": "pián yi",
-        "kana": "ㄆㄧㄢˊ ㄧ˙",
-        "answer": "ㄆㄧㄢˊ ㄧ˙"
+        "kana": "ㄆㄧㄢˊㄧ˙",
+        "answer": "ㄆㄧㄢˊㄧ˙"
       },
       {
         "audio": "media/tone_pairs/取消.mp3",
         "japanese": "取消",
         "english": "to cancel; cancellation",
         "furigana": "qǔ xiāo",
-        "kana": "ㄑㄩˇ ㄒㄧㄠ",
-        "answer": "ㄑㄩˇ ㄒㄧㄠ"
+        "kana": "ㄑㄩˇㄒㄧㄠ",
+        "answer": "ㄑㄩˇㄒㄧㄠ"
       },
       {
         "audio": "media/tone_pairs/友情.mp3",
         "japanese": "友情",
         "english": "friendly feelings; friendship",
         "furigana": "yǒu qíng",
-        "kana": "ㄧㄡˇ ㄑㄧㄥˊ",
-        "answer": "ㄧㄡˇ ㄑㄧㄥˊ"
+        "kana": "ㄧㄡˇㄑㄧㄥˊ",
+        "answer": "ㄧㄡˇㄑㄧㄥˊ"
       },
       {
         "audio": "media/tone_pairs/你好.mp3",
         "japanese": "你好",
         "english": "Hello!; Hi!",
         "furigana": "nǐ hǎo",
-        "kana": "ㄋㄧˇ ㄏㄠˇ",
-        "answer": "ㄋㄧˇ ㄏㄠˇ"
+        "kana": "ㄋㄧˇㄏㄠˇ",
+        "answer": "ㄋㄧˇㄏㄠˇ"
       },
       {
         "audio": "media/tone_pairs/保证.mp3",
         "japanese": "保证",
         "english": "guarantee; to guarantee",
         "furigana": "bǎo zhèng",
-        "kana": "ㄅㄠˇ ㄓㄥˋ",
-        "answer": "ㄅㄠˇ ㄓㄥˋ"
+        "kana": "ㄅㄠˇㄓㄥˋ",
+        "answer": "ㄅㄠˇㄓㄥˋ"
       },
       {
         "audio": "media/tone_pairs/小姐.mp3",
         "japanese": "小姐",
         "english": "young lady; miss",
         "furigana": "xiǎo jie",
-        "kana": "ㄒㄧㄠˇ ㄐㄧㄝ˙",
-        "answer": "ㄒㄧㄠˇ ㄐㄧㄝ˙"
+        "kana": "ㄒㄧㄠˇㄐㄧㄝ˙",
+        "answer": "ㄒㄧㄠˇㄐㄧㄝ˙"
       },
       {
         "audio": "media/tone_pairs/信箱.mp3",
         "japanese": "信箱",
         "english": "mailbox; post office box",
         "furigana": "xìn xiāng",
-        "kana": "ㄒㄧㄣˋ ㄒㄧㄤ",
-        "answer": "ㄒㄧㄣˋ ㄒㄧㄤ"
+        "kana": "ㄒㄧㄣˋㄒㄧㄤ",
+        "answer": "ㄒㄧㄣˋㄒㄧㄤ"
       },
       {
         "audio": "media/tone_pairs/内容.mp3",
         "japanese": "内容",
         "english": "content; substance",
         "furigana": "nèi róng",
-        "kana": "ㄋㄟˋ ㄖㄨㄥˊ",
-        "answer": "ㄋㄟˋ ㄖㄨㄥˊ"
+        "kana": "ㄋㄟˋㄖㄨㄥˊ",
+        "answer": "ㄋㄟˋㄖㄨㄥˊ"
       },
       {
         "audio": "media/tone_pairs/作者.mp3",
         "japanese": "作者",
         "english": "author; writer",
         "furigana": "zuò zhě",
-        "kana": "ㄗㄨㄛˋ ㄓㄜˇ",
-        "answer": "ㄗㄨㄛˋ ㄓㄜˇ"
+        "kana": "ㄗㄨㄛˋㄓㄜˇ",
+        "answer": "ㄗㄨㄛˋㄓㄜˇ"
       },
       {
         "audio": "media/tone_pairs/但是.mp3",
         "japanese": "但是",
         "english": "but; however",
         "furigana": "dàn shì",
-        "kana": "ㄉㄢˋ ㄕˋ",
-        "answer": "ㄉㄢˋ ㄕˋ"
+        "kana": "ㄉㄢˋㄕˋ",
+        "answer": "ㄉㄢˋㄕˋ"
       },
       {
         "audio": "media/tone_pairs/困难.mp3",
         "japanese": "困难",
         "english": "difficult; challenging",
         "furigana": "kùn nan",
-        "kana": "ㄎㄨㄣˋ ㄋㄢ˙",
-        "answer": "ㄎㄨㄣˋ ㄋㄢ˙"
+        "kana": "ㄎㄨㄣˋㄋㄢ˙",
+        "answer": "ㄎㄨㄣˋㄋㄢ˙"
       },
       {
         "audio": "media/tone_pairs/交通.mp3",
         "japanese": "交通",
         "english": "to be connected; traffic",
         "furigana": "jiāo tōng",
-        "kana": "ㄐㄧㄠ ㄊㄨㄥ",
-        "answer": "ㄐㄧㄠ ㄊㄨㄥ"
+        "kana": "ㄐㄧㄠㄊㄨㄥ",
+        "answer": "ㄐㄧㄠㄊㄨㄥ"
       },
       {
         "audio": "media/tone_pairs/交流.mp3",
         "japanese": "交流",
         "english": "to exchange; exchange",
         "furigana": "jiāo liú",
-        "kana": "ㄐㄧㄠ ㄌㄧㄡˊ",
-        "answer": "ㄐㄧㄠ ㄌㄧㄡˊ"
+        "kana": "ㄐㄧㄠㄌㄧㄡˊ",
+        "answer": "ㄐㄧㄠㄌㄧㄡˊ"
       },
       {
         "audio": "media/tone_pairs/多少.mp3",
         "japanese": "多少",
         "english": "how much; how many",
         "furigana": "duō shao",
-        "kana": "ㄉㄨㄛ ㄕㄠ˙",
-        "answer": "ㄉㄨㄛ ㄕㄠ˙"
+        "kana": "ㄉㄨㄛㄕㄠ˙",
+        "answer": "ㄉㄨㄛㄕㄠ˙"
       },
       {
         "audio": "media/tone_pairs/因为.mp3",
         "japanese": "因为",
         "english": "because; owing to",
         "furigana": "yīn wèi",
-        "kana": "ㄧㄣ ㄨㄟˋ",
-        "answer": "ㄧㄣ ㄨㄟˋ"
+        "kana": "ㄧㄣㄨㄟˋ",
+        "answer": "ㄧㄣㄨㄟˋ"
       },
       {
         "audio": "media/tone_pairs/圈子.mp3",
         "japanese": "圈子",
         "english": "circle; ring",
         "furigana": "quān zi",
-        "kana": "ㄑㄩㄢ ㄗ˙",
-        "answer": "ㄑㄩㄢ ㄗ˙"
+        "kana": "ㄑㄩㄢㄗ˙",
+        "answer": "ㄑㄩㄢㄗ˙"
       },
       {
         "audio": "media/tone_pairs/国家.mp3",
         "japanese": "国家",
         "english": "country; nation",
         "furigana": "guó jiā",
-        "kana": "ㄍㄨㄛˊ ㄐㄧㄚ",
-        "answer": "ㄍㄨㄛˊ ㄐㄧㄚ"
+        "kana": "ㄍㄨㄛˊㄐㄧㄚ",
+        "answer": "ㄍㄨㄛˊㄐㄧㄚ"
       },
       {
         "audio": "media/tone_pairs/原则.mp3",
         "japanese": "原则",
         "english": "principle; doctrine",
         "furigana": "yuán zé",
-        "kana": "ㄩㄢˊ ㄗㄜˊ",
-        "answer": "ㄩㄢˊ ㄗㄜˊ"
+        "kana": "ㄩㄢˊㄗㄜˊ",
+        "answer": "ㄩㄢˊㄗㄜˊ"
       },
       {
         "audio": "media/tone_pairs/媒体.mp3",
         "japanese": "媒体",
         "english": "media, esp. news media",
         "furigana": "méi tǐ",
-        "kana": "ㄇㄟˊ ㄊㄧˇ",
-        "answer": "ㄇㄟˊ ㄊㄧˇ"
+        "kana": "ㄇㄟˊㄊㄧˇ",
+        "answer": "ㄇㄟˊㄊㄧˇ"
       },
       {
         "audio": "media/tone_pairs/城市.mp3",
         "japanese": "城市",
         "english": "city; town",
         "furigana": "chéng shì",
-        "kana": "ㄔㄥˊ ㄕˋ",
-        "answer": "ㄔㄥˊ ㄕˋ"
+        "kana": "ㄔㄥˊㄕˋ",
+        "answer": "ㄔㄥˊㄕˋ"
       },
       {
         "audio": "media/tone_pairs/合同.mp3",
         "japanese": "合同",
         "english": "(business) contract",
         "furigana": "hé tong",
-        "kana": "ㄏㄜˊ ㄊㄨㄥ˙",
-        "answer": "ㄏㄜˊ ㄊㄨㄥ˙"
+        "kana": "ㄏㄜˊㄊㄨㄥ˙",
+        "answer": "ㄏㄜˊㄊㄨㄥ˙"
       },
       {
         "audio": "media/tone_pairs/已经.mp3",
         "japanese": "已经",
         "english": "already",
         "furigana": "yǐ jīng",
-        "kana": "ㄧˇ ㄐㄧㄥ",
-        "answer": "ㄧˇ ㄐㄧㄥ"
+        "kana": "ㄧˇㄐㄧㄥ",
+        "answer": "ㄧˇㄐㄧㄥ"
       },
       {
         "audio": "media/tone_pairs/小时.mp3",
         "japanese": "小时",
         "english": "hour",
         "furigana": "xiǎo shí",
-        "kana": "ㄒㄧㄠˇ ㄕˊ",
-        "answer": "ㄒㄧㄠˇ ㄕˊ"
+        "kana": "ㄒㄧㄠˇㄕˊ",
+        "answer": "ㄒㄧㄠˇㄕˊ"
       },
       {
         "audio": "media/tone_pairs/减少.mp3",
         "japanese": "减少",
         "english": "to lessen; to decrease",
         "furigana": "jiǎn shǎo",
-        "kana": "ㄐㄧㄢˇ ㄕㄠˇ",
-        "answer": "ㄐㄧㄢˇ ㄕㄠˇ"
+        "kana": "ㄐㄧㄢˇㄕㄠˇ",
+        "answer": "ㄐㄧㄢˇㄕㄠˇ"
       },
       {
         "audio": "media/tone_pairs/免费.mp3",
         "japanese": "免费",
         "english": "free (of charge)",
         "furigana": "miǎn fèi",
-        "kana": "ㄇㄧㄢˇ ㄈㄟˋ",
-        "answer": "ㄇㄧㄢˇ ㄈㄟˋ"
+        "kana": "ㄇㄧㄢˇㄈㄟˋ",
+        "answer": "ㄇㄧㄢˇㄈㄟˋ"
       },
       {
         "audio": "media/tone_pairs/尺寸.mp3",
         "japanese": "尺寸",
         "english": "size; dimension",
         "furigana": "chǐ cun",
-        "kana": "ㄔˇ ㄘㄨㄣ˙",
-        "answer": "ㄔˇ ㄘㄨㄣ˙"
+        "kana": "ㄔˇㄘㄨㄣ˙",
+        "answer": "ㄔˇㄘㄨㄣ˙"
       },
       {
         "audio": "media/tone_pairs/健康.mp3",
         "japanese": "健康",
         "english": "health; healthy",
         "furigana": "jiàn kāng",
-        "kana": "ㄐㄧㄢˋ ㄎㄤ",
-        "answer": "ㄐㄧㄢˋ ㄎㄤ"
+        "kana": "ㄐㄧㄢˋㄎㄤ",
+        "answer": "ㄐㄧㄢˋㄎㄤ"
       },
       {
         "audio": "media/tone_pairs/地图.mp3",
         "japanese": "地图",
         "english": "map",
         "furigana": "dì tú",
-        "kana": "ㄉㄧˋ ㄊㄨˊ",
-        "answer": "ㄉㄧˋ ㄊㄨˊ"
+        "kana": "ㄉㄧˋㄊㄨˊ",
+        "answer": "ㄉㄧˋㄊㄨˊ"
       },
       {
         "audio": "media/tone_pairs/具体.mp3",
         "japanese": "具体",
         "english": "concrete; definite",
         "furigana": "jù tǐ",
-        "kana": "ㄐㄩˋ ㄊㄧˇ",
-        "answer": "ㄐㄩˋ ㄊㄧˇ"
+        "kana": "ㄐㄩˋㄊㄧˇ",
+        "answer": "ㄐㄩˋㄊㄧˇ"
       },
       {
         "audio": "media/tone_pairs/告诉.mp3",
         "japanese": "告诉",
         "english": "to tell; to inform",
         "furigana": "gào sù",
-        "kana": "ㄍㄠˋ ㄙㄨˋ",
-        "answer": "ㄍㄠˋ ㄙㄨˋ"
+        "kana": "ㄍㄠˋㄙㄨˋ",
+        "answer": "ㄍㄠˋㄙㄨˋ"
       },
       {
         "audio": "media/tone_pairs/态度.mp3",
         "japanese": "态度",
         "english": "manner; bearing",
         "furigana": "tài du",
-        "kana": "ㄊㄞˋ ㄉㄨ˙",
-        "answer": "ㄊㄞˋ ㄉㄨ˙"
+        "kana": "ㄊㄞˋㄉㄨ˙",
+        "answer": "ㄊㄞˋㄉㄨ˙"
       }
     ]
   },
