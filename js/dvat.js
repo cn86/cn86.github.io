@@ -153,6 +153,7 @@ function handle_run_data(run_data) {
     if (velocity > 0) {
         if (current_run_data.length == 0) {
             reset_chart();
+            max_velocity = 0.0;
             first_timestamp = timestamp;
             last_timestamp = timestamp;
             current_run_data.push([timestamp, velocity]);
