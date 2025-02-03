@@ -13,6 +13,11 @@ function set_current_distance(value) {
     current_distance.innerHTML = value.toFixed(1);
 }
 
+function set_max_velocity(value) {
+    let max_velocity = document.getElementById('max_velocity');
+    max_velocity.innerHTML = value.toFixed(1);
+}
+
 function set_current_velocity(value) {
     let current_velocity = document.getElementById('current_velocity');
     current_velocity.innerHTML = value.toFixed(1);
@@ -127,6 +132,7 @@ let current_run_data = [];
 let previous_run_data = [];
 let first_timestamp = 0.0;
 let last_timestamp = 0.0;
+let max_velocity = 0.0;
 
 function handle_run_data(run_data) {
     let velocity = run_data[1];
@@ -146,9 +152,10 @@ function handle_run_data(run_data) {
             set_current_time(timestamp - first_timestamp);
             add_data(dvat_graph, timestamp - first_timestamp, velocity);
             current_run_data.push([timestamp, velocity]);
-            set_current_run_log(current_run_data);
             last_timestamp = timestamp;
         }
+        max_velocity = Math.max(velocity, max_velocity);
+        set_max_velocity(max_velocity);
     } else {
         if (current_run_data.length > 0) {
             current_run_data = [];
