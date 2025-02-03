@@ -1,3 +1,16 @@
+function set_timer() {
+    let deck_size_select = document.getElementById("dvat-timer-select");
+    duration = parseInt(deck_size_select.value);
+    setTimeout(() => {
+        play_tone();
+    }, duration * 1000);
+}
+
+function play_tone() {
+    let dvat_timer_player = document.getElementById("dvat-timer-player");
+    dvat_timer_player.play();
+}
+
 function set_current_run_log(value) {
     let current_run_log = document.getElementById('current_run_log');
     current_run_log.innerHTML = value.join(' ');
@@ -146,6 +159,7 @@ function handle_run_data(run_data) {
             set_current_velocity(velocity);
             set_current_time(0.0);
             add_data(dvat_graph, 0.0, velocity);
+            set_timer()
         }
         if ((timestamp - last_timestamp) >= 0.1) {
             set_current_velocity(velocity);

@@ -126,12 +126,24 @@
 </head>
 <body>
     <div id="dvat" style="display: none;">
+        <div id="dvat-timer" style="display: none;">
+            <audio controls id="dvat-timer-player">
+                <source id="dvat-timer-source" src="media/dvat/dvat_440.mp3" type="audio/mpeg">
+            </audio>
+        </div>
         <div>
             <button type="button" onclick="start_bluetooth();">Start</button>
             <button type="button" onclick="stop_bluetooth();">Stop</button>
             <span id="bluetooth_status"></span>
         </div>
         <div>
+            <select id="dvat-timer-select">
+                <option value="5" selected>5</option>
+                <option value="10">10</option>
+                <option value="20">20</option>
+                <option value="20">30</option>
+                <option value="50">60</option>
+            </select>
             <span id="current_time">0</span>
             <!-- <span id="current_distance">0</span> -->
             <span id="max_velocity">0</span>
