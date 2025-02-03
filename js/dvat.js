@@ -1,3 +1,8 @@
+function set_current_run_log(value) {
+    let current_run_log = document.getElementById('current_run_log');
+    current_run_log.innerHTML = value.join(' ');
+}
+
 function set_current_time(value) {
     let current_time = document.getElementById('current_time');
     current_time.innerHTML = value.toFixed(1);
@@ -89,7 +94,6 @@ function handle_notifications(event) {
 let velocity_vs_time_canvas = document.getElementById('velocity_vs_time');
 velocity_vs_time_canvas.width = 600;
 velocity_vs_time_canvas.height = 400;
-let start_time = Date.now();
 
 
 const dvat_graph_config = {
@@ -122,26 +126,29 @@ let dvat_graph = new Chart(
 let current_run_data = [];
 let previous_run_data = [];
 let first_timestamp = 0.0;
+let last_timestamp = 0.0;
 
 function handle_run_data(run_data) {
     let velocity = run_data[1];
     let timestamp = run_data[0];
-    let timedelta = timestamp - first_timestamp;
     if (velocity > 0) {
         if (current_run_data.length == 0) {
             reset_chart();
             first_timestamp = timestamp;
+            last_timestamp = timestamp;
+            current_run_data.push([timestamp, velocity]);
             set_current_velocity(velocity);
             set_current_time(0.0);
             add_data(dvat_graph, 0.0, velocity);
         }
-        let timedelta = timestamp - first_timestamp;
-        if (timedelta >= 0.1) {
+        if ((timestamp - last_timestamp) >= 0.1) {
             set_current_velocity(velocity);
-            set_current_time(timedelta);
-            add_data(dvat_graph, timedelta, velocity);
+            set_current_time(timestamp - first_timestamp);
+            add_data(dvat_graph, timestamp - first_timestamp, velocity);
+            current_run_data.push([timestamp, velocity]);
+            set_current_run_log(current_run_data);
+            last_timestamp = timestamp;
         }
-        current_run_data.push([timestamp, velocity]);
     } else {
         if (current_run_data.length > 0) {
             current_run_data = [];
