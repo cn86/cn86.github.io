@@ -137,18 +137,24 @@
             <span id="bluetooth_status"></span>
         </div>
         <div>
-            <select id="dvat-timer-select">
-                <option value="5" selected>5</option>
-                <option value="10">10</option>
-                <option value="20">20</option>
-                <option value="20">30</option>
-                <option value="50">60</option>
-            </select>
-            <span id="current_time">0</span>
-            <!-- <span id="current_distance">0</span> -->
-            <span id="max_velocity">0</span>
-            <span id="current_velocity">0</span>
-            <!-- <span id="current_acceleration">0</span> -->
+            <div id="current_stats">
+                <select id="dvat-timer-select">
+                    <option value="5" selected>5</option>
+                    <option value="10">10</option>
+                    <option value="20">20</option>
+                    <option value="20">30</option>
+                    <option value="50">60</option>
+                </select>
+                <span id="current_time">0.0</span>&nbsp;S
+                <span id="current_distance">0.0</span>&nbsp;YD
+                <span id="current_velocity">0.00</span>&nbsp;MPH
+
+            </div>
+            <div id="max_stats">
+                <span id="max_velocity_time">0.0</span>&nbsp;S
+                <span id="max_velocity">0.00</span>&nbsp;MPH
+                <span id="max_acceleration">0.00</span>&nbsp;MPH/S
+            </div>
         </div>
         <canvas id="velocity_vs_time"></canvas>
         <div id="current_run_log"></div>
