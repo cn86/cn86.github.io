@@ -1,3 +1,24 @@
+function ms_to_s(time) {
+    return time / 1000
+}
+
+function h_to_s(time) {
+    return time * 60 * 60
+}
+
+function meters_to_yards(distance) {
+    return distance * 1706 / 1609.34
+}
+
+function meters_to_miles(distance) {
+    return distance / 1609.34
+}
+
+function mps_to_mph(speed) {
+    return meters_to_miles(speed) / h_to_s(1)
+}
+
+
 function set_timer(duration) {
     let timer_interval = setInterval(() => {
             current_time += 100;
@@ -11,8 +32,10 @@ function set_timer(duration) {
 }
 
 function play_tone() {
-    let dvat_timer_player = document.getElementById("dvat-timer-player");
-    dvat_timer_player.play();
+    if (tone_on) {
+        let dvat_timer_player = document.getElementById("dvat-timer-player");
+        dvat_timer_player.play();
+    }
 }
 
 function set_current_run_log(value) {
@@ -22,7 +45,7 @@ function set_current_run_log(value) {
 
 function set_current_time(value) {
     let current_time = document.getElementById('current_time');
-    current_time.innerHTML = (value / 1000.0).toFixed(1);
+    current_time.innerHTML = ms_to_s(value).toFixed(1);
 }
 
 function set_current_distance(value) {
@@ -42,7 +65,7 @@ function set_current_velocity(value) {
 
 function set_max_velocity_time(value) {
     let max_velocity_time = document.getElementById('max_velocity_time');
-    max_velocity_time.innerHTML = (value / 1000.0).toFixed(1);
+    max_velocity_time.innerHTML = ms_to_s(value).toFixed(1);
 }
 
 function set_max_acceleration(value) {
@@ -107,8 +130,7 @@ function stop_bluetooth() {
 }
 
 function get_velocity_from_event(event) {
-    // convert from m/s to mph
-    return (event.target.value.getUint16(1, true) / 256.0 * 3600.0 / 1609.34)
+    return (event.target.value.getUint16(1, true) / 256.0)
 }
 
 let velocity_vs_time_canvas = document.getElementById('velocity_vs_time');
@@ -132,6 +154,10 @@ const dvat_graph_config = {
             x: {
                 beginAtZero: true,
                 type: 'linear',
+            },
+            y: {
+                beginAtZero: true,
+                type: 'linear',
             }
         }
     }
@@ -150,9 +176,21 @@ let last_timestamp = 0.0;
 let last_velocity = 0.0;
 let max_velocity = 0.0;
 let current_time = 0.0; // milliseconds
-let current_distance = 0.0; // yards
-let max_acceleration = 0.0; // mph/s
+let current_distance = 0.0; // meters
+let max_acceleration = 0.0; // m/s/s
 let time_at_velocity_lookup = {};
+let tone_on = true;
+
+function reset_dvat_config() {
+    last_velocity = 0.0;
+    max_velocity = 0.0;
+    current_time = 0.0;
+    current_distance = 0.0;
+    max_acceleration = 0.0;
+    time_at_velocity_lookup = {};
+    tone_on = true;
+}
+
 
 function handle_notifications(event) {
     let timestamp = event.timeStamp;
@@ -167,32 +205,34 @@ function handle_run_data(run_data) {
     let deck_size_select = document.getElementById("dvat-timer-select");
     duration = parseInt(deck_size_select.value) * 1000;
 
-    if (velocity > 0) {
-        // Run is starting.
-        if (current_run_data.length == 0) {
-            reset_chart();
-            current_time = 0.0;
-            current_distance = 0.0;
-            last_velocity = 0.0;
-            max_velocity = 0.0;
-            time_at_velocity_lookup = {};
-            first_timestamp = timestamp - 1000.0 / 3.7;
-            last_timestamp = timestamp - 1000.0 / 3.7;
-            current_run_data.push([0, 0.0]);
-            set_current_velocity(0.0);
-            set_timer(duration);
-        }
-        // We only want valid data below sampling rate
+    // Run is starting.
+    if (velocity > 0 & current_run_data.length == 0) {
+        reset_chart();
+        reset_dvat_config();
+        // 270 ms is the typical time between samples.
+        first_timestamp = timestamp - 270;
+        last_timestamp = timestamp - 270;
+        current_run_data.push([0, 0.0]);
+        add_data(dvat_graph, 0.0, 0.0);
+        set_current_velocity(0.0);
+        set_timer(duration);
+    }
+    // Reset data if exists. End rep early.
+    if (current_run_data.length > 0 & (velocity <= .01 & last_velocity <= .01)) {
+        current_run_data = [];
+        current_time = duration;
+        timestamp = duration + 1;
+        tone_on = false;
+    }
+    if ((timestamp - first_timestamp) <= duration) {
         let timestamp_diff = timestamp - last_timestamp;
-        let valid_timestamp = ((timestamp_diff) >= 100)
-        let timestamp_within_rep = ((timestamp - first_timestamp) <= duration)
-        if (valid_timestamp & timestamp_within_rep) {
+        if (timestamp_diff >= 100) {
             set_current_velocity(velocity);
             add_data(dvat_graph, timestamp - first_timestamp, velocity);
             current_run_data.push([timestamp, velocity]);
-            current_distance += timestamp_diff / 1000 * velocity * 3600 / 1706;
+            current_distance += ms_to_s(timestamp_diff) * (velocity + last_velocity) / 2;
             set_current_distance(current_distance);
-            max_acceleration = Math.max(max_acceleration, (velocity - last_velocity) / (timestamp_diff / 1000))
+            max_acceleration = Math.max(max_acceleration, (velocity - last_velocity) / ms_to_s(timestamp_diff))
             set_max_acceleration(max_acceleration);
             last_timestamp = timestamp;
             last_velocity = velocity;
@@ -200,11 +240,6 @@ function handle_run_data(run_data) {
             max_velocity = Math.max(velocity, max_velocity);
             set_max_velocity(max_velocity);
             set_max_velocity_time(time_at_velocity_lookup[max_velocity]);
-        }
-    } else {
-        // Reset data if exists. No current rep going on.
-        if (current_run_data.length > 0) {
-            current_run_data = [];
         }
     }
 }
@@ -223,7 +258,7 @@ function reset_chart() {
 
 function add_data(chart, timestamp, velocity) {
     // timestamp in milliseconds. rescale to make reasonable.
-    chart.data.labels.push(timestamp / 1000.0);
+    chart.data.labels.push(ms_to_s(timestamp));
     chart.data.datasets.forEach((dataset) => {
         dataset.data.push(velocity);
     });
