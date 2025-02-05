@@ -3,7 +3,7 @@ function set_timer(duration) {
             current_time += 100;
             if (current_time >= duration) {
                 clearInterval(timer_interval);
-                // play_tone();
+                play_tone();
             }
             set_current_time(current_time);
         },
