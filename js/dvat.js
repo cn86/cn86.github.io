@@ -2,6 +2,10 @@ function ms_to_s(time) {
     return time / 1000
 }
 
+function s_to_ms(time) {
+    return time * 1000
+}
+
 function h_to_s(time) {
     return time * 60 * 60
 }
@@ -181,7 +185,7 @@ let max_acceleration = 0.0; // m/s/s
 let time_at_velocity_lookup = {};
 let tone_on = true;
 
-function reset_dvat_config() {
+function reset_rep_values() {
     last_velocity = 0.0;
     max_velocity = 0.0;
     current_time = 0.0;
@@ -208,7 +212,7 @@ function handle_run_data(run_data) {
     // Run is starting.
     if (velocity > 0 & current_run_data.length == 0) {
         reset_chart();
-        reset_dvat_config();
+        reset_rep_values();
         // 270 ms is the typical time between samples.
         first_timestamp = timestamp - 270;
         last_timestamp = timestamp - 270;
@@ -234,14 +238,14 @@ function handle_run_data(run_data) {
             set_current_distance(current_distance);
             max_acceleration = Math.max(max_acceleration, (velocity - last_velocity) / ms_to_s(timestamp_diff))
             set_max_acceleration(max_acceleration);
-            last_timestamp = timestamp;
-            last_velocity = velocity;
             time_at_velocity_lookup[velocity] = (timestamp - first_timestamp);
             max_velocity = Math.max(velocity, max_velocity);
             set_max_velocity(max_velocity);
             set_max_velocity_time(time_at_velocity_lookup[max_velocity]);
         }
     }
+    last_timestamp = timestamp;
+    last_velocity = velocity;
 }
 
 function reset_chart() {
@@ -264,3 +268,40 @@ function add_data(chart, timestamp, velocity) {
     });
     chart.update();
 }
+
+function random_int(min, max) {
+    const min_ceiling = Math.ceil(min);
+    const max_floor = Math.floor(max);
+    return Math.floor(Math.random() * (max_floor - min_ceiling) + min_ceiling); // The maximum is exclusive and the minimum is inclusive
+}
+
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function test_data(seconds_of_data) {
+    let max_timestamp = s_to_ms(seconds_of_data);
+    let max_speed = 10.0;
+    let timestamp = 1000;
+
+    while (timestamp < max_timestamp + 1000) {
+        let timestamp_diff = random_int(250, 300);
+        sleep(timestamp_diff);
+        timestamp += timestamp_diff;
+        if (timestamp < max_timestamp*.3) {
+            velocity = max_speed*.3 + Math.random();
+        } else if (timestamp < max_timestamp*.7) {
+            velocity = max_speed*.7 + Math.random();
+        } else if (timestamp < max_timestamp*.9) {
+            velocity = max_speed*.9 + Math.random();
+        } else if (timestamp < max_timestamp*.95) {
+            velocity = max_speed*.8 + Math.random();
+        } else {
+            velocity = 0;
+
+        }
+        handle_run_data([timestamp, velocity]);
+    }
+}
+
+
