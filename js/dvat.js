@@ -58,14 +58,14 @@ function set_current_distance(value) {
 
 function set_max_velocity(value) {
   let max_velocity = document.getElementById("max_velocity");
-  max_velocity = mps_to_mph(max_velocity);
+  value = mps_to_mph(value);
   max_velocity.innerHTML =
     value.toFixed(2) + " (" + (value * 0.95).toFixed(2) + ")";
 }
 
 function set_current_velocity(value) {
   let current_velocity = document.getElementById("current_velocity");
-  current_velocity = mps_to_mph(current_velocity);
+  value = mps_to_mph(value);
   current_velocity.innerHTML = value.toFixed(2);
 }
 
@@ -274,7 +274,7 @@ function add_data(chart, timestamp, velocity) {
   // timestamp in milliseconds. rescale to make reasonable.
   chart.data.labels.push(ms_to_s(timestamp));
   chart.data.datasets.forEach((dataset) => {
-    dataset.data.push(velocity);
+    dataset.data.push(mps_to_mph(velocity));
   });
   chart.update();
 }
