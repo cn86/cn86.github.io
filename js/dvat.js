@@ -19,7 +19,7 @@ function meters_to_miles(distance) {
 }
 
 function mps_to_mph(speed) {
-  return meters_to_miles(speed) / h_to_s(1);
+  return meters_to_miles(speed) * h_to_s(1);
 }
 
 function set_timer(duration) {
