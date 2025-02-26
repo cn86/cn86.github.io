@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>カナラッド</title>
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -10,225 +10,279 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <meta name="apple-mobile-web-app-title" content="カナラッド" />
     <link rel="manifest" href="/site.webmanifest" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js" integrity="sha512-CQBWl4fJHWbryGE+Pc7UAxWMUMNMWzWxF4SQo9CgkJIN1kx6djDQZjh3Y8SZ1d+6I+1zze6Z7kHXO7q3UyZAWw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"
+      integrity="sha512-CQBWl4fJHWbryGE+Pc7UAxWMUMNMWzWxF4SQo9CgkJIN1kx6djDQZjh3Y8SZ1d+6I+1zze6Z7kHXO7q3UyZAWw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
     <style>
-        @import 'https://fonts.googleapis.com/css?family=Open+Sans';
-        @font-face {
-            font-family: 'kanji';
-            src: url('KanjiStrokeOrders_v4.004.ttf');
-        }
-        * {
-            -webkit-box-sizing: border-box;
-            box-sizing: border-box;
-        }
+      @import "https://fonts.googleapis.com/css?family=Open+Sans";
+      @font-face {
+        font-family: "kanji";
+        src: url("KanjiStrokeOrders_v4.004.ttf");
+      }
+      * {
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+      }
+      body {
+        font-family: "Open Sans", sans-serif;
+        line-height: 1.75em;
+        font-size: 16px;
+        background-color: #222;
+        color: #aaa;
+      }
+      canvas {
+        background-color: #eee;
+      }
+      .simple-container {
+        max-width: 675px;
+        margin: 0 auto;
+        padding-top: 70px;
+        padding-bottom: 20px;
+      }
+
+      .simple-print {
+        fill: white;
+        stroke: white;
+      }
+      .simple-print svg {
+        height: 100%;
+      }
+
+      .simple-close {
+        color: white;
+        border-color: white;
+      }
+
+      .simple-ext-info {
+        border-top: 1px solid #aaa;
+      }
+
+      p {
+        font-size: 16px;
+        margin: 0;
+        padding: 0;
+        width: 300px;
+      }
+
+      h1 {
+        font-size: 30px;
+        line-height: 34px;
+      }
+
+      h2 {
+        font-size: 20px;
+        line-height: 25px;
+      }
+
+      h3 {
+        font-size: 16px;
+        line-height: 27px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-bottom: 1px solid #d8d8d8;
+        border-top: 1px solid #d8d8d8;
+      }
+
+      hr {
+        height: 1px;
+        background-color: #d8d8d8;
+        border: none;
+        width: 100%;
+        margin: 0px;
+      }
+
+      a[href] {
+        color: #1e8ad6;
+      }
+
+      a[href]:hover {
+        color: #3ba0e6;
+      }
+
+      img {
+        max-width: 100%;
+      }
+
+      li {
+        line-height: 1.5em;
+      }
+
+      aside,
+      [class*="sidebar"],
+      [id*="sidebar"] {
+        max-width: 90%;
+        margin: 0 auto;
+        border: 1px solid lightgrey;
+        padding: 5px 15px;
+      }
+
+      @media (min-width: 1921px) {
         body {
-            font-family: 'Open Sans', sans-serif;
-            line-height: 1.75em;
-            font-size: 16px;
-            background-color: #222;
-            color: #aaa;
+          font-size: 18px;
         }
-        canvas {
-            background-color : #eee;
-        }
-        .simple-container {
-            max-width: 675px;
-            margin: 0 auto;
-            padding-top: 70px;
-            padding-bottom: 20px;
-        }
-
-        .simple-print {
-            fill: white;
-            stroke: white;
-        }
-        .simple-print svg {
-            height: 100%;
-        }
-
-        .simple-close {
-            color: white;
-            border-color: white;
-        }
-
-        .simple-ext-info {
-            border-top: 1px solid #aaa;
-        }
-
-        p {
-            font-size: 16px;
-            margin: 0;
-            padding: 0;
-            width: 300px;
-        }
-
-        h1 {
-            font-size: 30px;
-            line-height: 34px;
-        }
-
-        h2 {
-            font-size: 20px;
-            line-height: 25px;
-        }
-
-        h3 {
-            font-size: 16px;
-            line-height: 27px;
-            padding-top: 15px;
-            padding-bottom: 15px;
-            border-bottom: 1px solid #D8D8D8;
-            border-top: 1px solid #D8D8D8;
-        }
-
-        hr {
-            height: 1px;
-            background-color: #d8d8d8;
-            border: none;
-            width: 100%;
-            margin: 0px;
-        }
-
-        a[href] {
-            color: #1e8ad6;
-        }
-
-        a[href]:hover {
-            color: #3ba0e6;
-        }
-
-        img {
-            max-width: 100%;
-        }
-
-        li {
-            line-height: 1.5em;
-        }
-
-        aside,
-        [class *= "sidebar"],
-        [id *= "sidebar"] {
-            max-width: 90%;
-            margin: 0 auto;
-            border: 1px solid lightgrey;
-            padding: 5px 15px;
-        }
-
-        @media (min-width: 1921px) {
-            body {
-                font-size: 18px;
-            }
-        }
-        input[type='number']{
-            width: 50px;
-        }
+      }
+      input[type="number"] {
+        width: 50px;
+      }
     </style>
-</head>
-<body>
-    <div id="dvat" style="display: none;">
-        <div id="dvat-timer" style="display: none;">
-            <audio controls id="dvat-timer-player">
-                <source id="dvat-timer-source" src="media/dvat/dvat_880.mp3" type="audio/mpeg">
-            </audio>
+  </head>
+  <body>
+    <div id="dvat" style="display: none">
+      <div id="dvat-timer" style="display: none">
+        <audio controls id="dvat-timer-player">
+          <source
+            id="dvat-timer-source"
+            src="media/dvat/dvat_880.mp3"
+            type="audio/mpeg"
+          />
+        </audio>
+      </div>
+      <div>
+        <button type="button" onclick="start_bluetooth();">Start</button>
+        <button type="button" onclick="stop_bluetooth();">Stop</button>
+        <span id="bluetooth_status"></span>
+      </div>
+      <div>
+        <select id="dvat-timer-select" style="font-size: 20px">
+          <option value="5" selected>5</option>
+          <option value="10">10</option>
+          <option value="20">20</option>
+          <option value="30">30</option>
+          <option value="60">60</option>
+        </select>
+      </div>
+      <div style="font-size: 50px; line-height: normal">
+        <div id="current_stats">
+          <div><span id="current_time">0.0</span>&nbsp;s</div>
+          <div><span id="current_distance">0.0</span>&nbsp;m</div>
+          <div><span id="current_velocity">0.00</span>&nbsp;m/s</div>
         </div>
-        <div>
-            <button type="button" onclick="start_bluetooth();">Start</button>
-            <button type="button" onclick="stop_bluetooth();">Stop</button>
-            <span id="bluetooth_status"></span>
+        <div id="max_stats">
+          <div><span id="max_velocity_time">0.0</span>&nbsp;s</div>
+          <div><span id="max_velocity">0.00</span>&nbsp;m/s</div>
+          <div><span id="max_acceleration">0.00</span>&nbsp;m/s/s</div>
         </div>
-        <div>
-            <select id="dvat-timer-select" style="font-size: 20px">
-                <option value="5" selected>5</option>
-                <option value="10">10</option>
-                <option value="20">20</option>
-                <option value="30">30</option>
-                <option value="60">60</option>
-            </select>
-
-        </div>
-        <div style="font-size: 50px; line-height: normal;">
-            <div id="current_stats">
-                <div><span id="current_time">0.0</span>&nbsp;s</div>
-                <div><span id="current_distance">0.0</span>&nbsp;m</div>
-                <div><span id="current_velocity">0.00</span>&nbsp;m/s</div>
-
-            </div>
-            <div id="max_stats">
-                <div><span id="max_velocity_time">0.0</span>&nbsp;s</div>
-                <div><span id="max_velocity">0.00</span>&nbsp;m/s</div>
-                <div><span id="max_acceleration">0.00</span>&nbsp;m/s/s</div>
-            </div>
-        </div>
-        <canvas id="velocity_vs_time"></canvas>
-        <div id="current_run_log"></div>
-
+      </div>
+      <canvas id="velocity_vs_time"></canvas>
+      <div id="current_run_log"></div>
     </div>
     <div id="flashcards">
-        <div id="controls">
-            <div>
-                <select id="deck-select" onchange="set_deck_options_hash();load_deck_options();">
-    <option value="zhuyin_finals">zhuyin_finals (35)</option><option value="zhuyin_finals_simple">zhuyin_finals_simple (15)</option><option value="zhuyin_finals_yw">zhuyin_finals_yw (20)</option><option value="zhuyin_bpmf">zhuyin_bpmf (61)</option><option value="zhuyin_dtnl">zhuyin_dtnl (91)</option><option value="zhuyin_gkh">zhuyin_gkh (57)</option><option value="zhuyin_jqx">zhuyin_jqx (42)</option><option value="zhuyin_zhchshr">zhuyin_zhchshr (73)</option><option value="zhuyin_zcs">zhuyin_zcs (49)</option><option value="zhuyin">zhuyin (408)</option><option value="tone_pairs">tone_pairs (60)</option><option value="100_radicals">100_radicals (100)</option><option value="rth">rth (3035)</option><option value="pimsleur_mandarin_1_rtk">pimsleur_mandarin_1_rtk (385)</option><option value="pimsleur_mandarin_2_rtk">pimsleur_mandarin_2_rtk (190)</option><option value="pimsleur_mandarin_3_rtk">pimsleur_mandarin_3_rtk (170)</option><option value="pimsleur_mandarin_4_rtk">pimsleur_mandarin_4_rtk (153)</option><option value="pimsleur_mandarin_5_rtk">pimsleur_mandarin_5_rtk (132)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option><option value="kaishi15k">kaishi15k (1500)</option><option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option><option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option><option value="kaishiRTK">kaishiRTK (836)</option><option value="tango_katakana">tango_katakana (516)</option><option value="tango_n5">tango_n5 (1249)</option><option value="time">time (164)</option><option value="counters">counters (133)</option><option value="numbers">numbers (42)</option>
-                </select>
-                <select id="deck-size-select" onchange="set_deck_options_hash();load_deck_options();">
-                    <option value="5">5</option>
-                    <option value="10" selected>10</option>
-                    <option value="20">20</option>
-                    <option value="50">50</option>
-                    <option value="100">100</option>
-                    <option value="1000">1000</option>
-                    <option value="10000">10000</option>
-                </select>
-                <input type="number" id="deck-offset" min="1" value="1" onchange="set_deck_options_hash();load_deck_options();">
-            </div>
-            <div>
-                A:<input type="checkbox" id="show-audio" onclick="toggle_card_info();" checked>
-                J:<input type="checkbox" id="show-japanese" onclick="toggle_card_info();" checked>
-                F:<input type="checkbox" id="show-furigana" onclick="toggle_card_info();">
-                E:<input type="checkbox" id="show-english" onclick="toggle_card_info();">
-                K:<input type="checkbox" id="show-kana" onclick="toggle_card_info();">
-                R:<input type="checkbox" id="randomize" checked>
-            </div>
-            <div>
-                <button type="button" onclick="set_deck_options_hash();load_deck_options();">Reset</button>
-                <button type="button" onclick="next_question();">Skip</button>
-                <span id="progress">#</span>
-            </div>
+      <div id="controls">
+        <div>
+          <select
+            id="deck-select"
+            onchange="set_deck_options_hash();load_deck_options();"
+          >
+            <option value="kaishi15k">kaishi15k (1500)</option>
+            <option value="kaishi15k_nonRTK">kaishi15k_nonRTK (181)</option>
+            <option value="kaishi15kRTKOrder">kaishi15kRTKOrder (1295)</option>
+            <option value="tango_n5">tango_n5 (1249)</option>
+            <option value="tango_katakana">tango_katakana (516)</option>
+          </select>
+          <select
+            id="deck-size-select"
+            onchange="set_deck_options_hash();load_deck_options();"
+          >
+            <option value="5">5</option>
+            <option value="10" selected>10</option>
+            <option value="20">20</option>
+            <option value="50">50</option>
+            <option value="100">100</option>
+            <option value="1000">1000</option>
+            <option value="10000">10000</option>
+          </select>
+          <input
+            type="number"
+            id="deck-offset"
+            min="1"
+            value="1"
+            onchange="set_deck_options_hash();load_deck_options();"
+          />
         </div>
+        <div>
+          A:<input
+            type="checkbox"
+            id="show-audio"
+            onclick="toggle_card_info();"
+            checked
+          />
+          J:<input
+            type="checkbox"
+            id="show-japanese"
+            onclick="toggle_card_info();"
+            checked
+          />
+          F:<input
+            type="checkbox"
+            id="show-furigana"
+            onclick="toggle_card_info();"
+          />
+          E:<input
+            type="checkbox"
+            id="show-english"
+            onclick="toggle_card_info();"
+          />
+          K:<input
+            type="checkbox"
+            id="show-kana"
+            onclick="toggle_card_info();"
+          />
+          R:<input type="checkbox" id="randomize" checked />
+        </div>
+        <div>
+          <button
+            type="button"
+            onclick="set_deck_options_hash();load_deck_options();"
+          >
+            Reset
+          </button>
+          <button type="button" onclick="next_question();">Skip</button>
+          <span id="progress">#</span>
+        </div>
+      </div>
 
-        <div id="q-and-a">
-            <div id="question-container" onclick="temporarily_show_card_info();">
-                <p id="card-audio">
-                    <audio controls id="card-audio-player">
-                        <source id="card-audio-source" src="" type="audio/mpeg">
-                    </audio>
-                </p>
-                <p id="card-japanese"></p>
-                <p id="card-furigana"></p>
-                <p id="card-english"></p>
-                <p id="card-kana"></p>
-            </div>
-            <div id="answer-container">
-                <input type="text" id="answer" onkeyup="check_answer();" onkeydown="check_answer();">
-            </div>
+      <div id="q-and-a">
+        <div id="question-container" onclick="temporarily_show_card_info();">
+          <p id="card-audio">
+            <audio controls id="card-audio-player">
+              <source id="card-audio-source" src="" type="audio/mpeg" />
+            </audio>
+          </p>
+          <p id="card-japanese"></p>
+          <p id="card-furigana"></p>
+          <p id="card-english"></p>
+          <p id="card-kana"></p>
         </div>
+        <div id="answer-container">
+          <input
+            type="text"
+            id="answer"
+            onkeyup="check_answer();"
+            onkeydown="check_answer();"
+          />
+        </div>
+      </div>
     </div>
     <script type="text/javascript" src="js/decks.js"></script>
 
     <script type="text/javascript" src="js/flashcards.js"></script>
     <script type="text/javascript" src="js/dvat.js"></script>
     <script>
-        if (window.location.hash) {
-            let flashcards = document.getElementById('flashcards');
-            let dvat = document.getElementById('dvat');
-            if (window.location.hash === '#dvat') {
-                flashcards.style.display="none";
-                dvat.style.display="block";
-            } else {
-                flashcards.style.display="block";
-                dvat.style.display="none";
-                init_flashcards();
-            }
+      if (window.location.hash) {
+        let flashcards = document.getElementById("flashcards");
+        let dvat = document.getElementById("dvat");
+        if (window.location.hash === "#dvat") {
+          flashcards.style.display = "none";
+          dvat.style.display = "block";
+        } else {
+          flashcards.style.display = "block";
+          dvat.style.display = "none";
+          init_flashcards();
         }
+      }
     </script>
-</body>
+  </body>
 </html>
