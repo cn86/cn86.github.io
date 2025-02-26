@@ -236,7 +236,6 @@ function handle_run_data(run_data) {
     current_time = duration;
     timestamp = duration + 1;
     tone_on = false;
-    first_timestamp = first_timestamp + duration;
   }
   if (timestamp - first_timestamp <= duration) {
     let timestamp_diff = timestamp - last_timestamp;
