@@ -236,6 +236,7 @@ function handle_run_data(run_data) {
     current_time = duration;
     timestamp = duration + 1;
     tone_on = false;
+    first_timestamp = first_timestamp + duration;
   }
   if (timestamp - first_timestamp <= duration) {
     let timestamp_diff = timestamp - last_timestamp;
@@ -250,7 +251,7 @@ function handle_run_data(run_data) {
         max_acceleration,
         (velocity - last_velocity) / ms_to_s(timestamp_diff),
       );
-      set_max_acceleration(max_acceleration);
+      // set_max_acceleration(max_acceleration);
       time_at_velocity_lookup[velocity] = timestamp - first_timestamp;
       max_velocity = Math.max(velocity, max_velocity);
       set_max_velocity(max_velocity);
