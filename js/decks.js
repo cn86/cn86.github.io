@@ -1,5 +1,5 @@
 /*
-<option value="zhuyin_finals">zhuyin_finals (35)</option><option value="zhuyin_finals_simple">zhuyin_finals_simple (15)</option><option value="zhuyin_finals_yw">zhuyin_finals_yw (20)</option><option value="zhuyin_bpmf">zhuyin_bpmf (61)</option><option value="zhuyin_dtnl">zhuyin_dtnl (91)</option><option value="zhuyin_gkh">zhuyin_gkh (57)</option><option value="zhuyin_jqx">zhuyin_jqx (42)</option><option value="zhuyin_zhchshr">zhuyin_zhchshr (73)</option><option value="zhuyin_zcs">zhuyin_zcs (49)</option><option value="zhuyin">zhuyin (408)</option><option value="tone_pairs">tone_pairs (60)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option>
+<option value="zhuyin_finals">zhuyin_finals (35)</option><option value="zhuyin_finals_simple">zhuyin_finals_simple (15)</option><option value="zhuyin_finals_yw">zhuyin_finals_yw (20)</option><option value="zhuyin_bpmf">zhuyin_bpmf (61)</option><option value="zhuyin_dtnl">zhuyin_dtnl (91)</option><option value="zhuyin_gkh">zhuyin_gkh (57)</option><option value="zhuyin_jqx">zhuyin_jqx (42)</option><option value="zhuyin_zhchshr">zhuyin_zhchshr (73)</option><option value="zhuyin_zcs">zhuyin_zcs (49)</option><option value="zhuyin">zhuyin (408)</option><option value="tone_pairs">tone_pairs (60)</option><option value="sentences_120">sentences_120 (120)</option><option value="pimsleur_mandarin_1">pimsleur_mandarin_1 (385)</option><option value="pimsleur_mandarin_2">pimsleur_mandarin_2 (190)</option><option value="pimsleur_mandarin_3">pimsleur_mandarin_3 (170)</option><option value="pimsleur_mandarin_4">pimsleur_mandarin_4 (153)</option><option value="pimsleur_mandarin_5">pimsleur_mandarin_5 (132)</option>
 */
 var decks = {
   "zhuyin_finals": {
@@ -7397,6 +7397,856 @@ var decks = {
         "furigana": "tài du",
         "kana": "ㄊㄞˋㄉㄨ˙",
         "answer": "ㄊㄞˋㄉㄨ˙"
+      }
+    ]
+  },
+  "sentences_120": {
+    "config": {
+      "file_path": "decks/sentences_120.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "japanese"
+    },
+    "cards": [
+      {
+        "japanese": "絕對不是。",
+        "english": "Absolutely not.",
+        "furigana": "Juéduì bú shì。",
+        "kana": "ㄐㄩㄝˊ ㄉㄨㄟˋ ㄅㄨˊ ㄕˋ",
+        "answer": "絕對不是"
+      },
+      {
+        "japanese": "你跟我一起去嗎？",
+        "english": "Are you coming with me?",
+        "furigana": "Nǐ gēn wǒ yìqǐ qù ma?",
+        "kana": "ㄋㄧˇ ㄍㄣ ㄨㄛˇ ㄧˋ ㄑㄧˇ ㄑㄩˋ ㄇㄚ˙",
+        "answer": "你跟我一起去嗎"
+      },
+      {
+        "japanese": "你能肯定嗎？",
+        "english": "Are you sure?",
+        "furigana": "Nǐ néng kěndìng ma?",
+        "kana": "ㄋㄧˇ ㄋㄥˊ ㄎㄣˇ ㄉㄧㄥˋ ㄇㄚ˙",
+        "answer": "你能肯定嗎"
+      },
+      {
+        "japanese": "快到了嗎?",
+        "english": "Are we almost there?",
+        "furigana": "Kuài dàole ma?",
+        "kana": "ㄎㄨㄞˋ ㄉㄠˋ ㄌㄜ˙ ㄇㄚ˙",
+        "answer": "快到了嗎"
+      },
+      {
+        "japanese": "儘快。",
+        "english": "As soon as possible.",
+        "furigana": "Jìnkuài。",
+        "kana": "ㄐㄧㄣˋ ㄎㄨㄞˋ",
+        "answer": "儘快"
+      },
+      {
+        "japanese": "相信我。",
+        "english": "Believe me.",
+        "furigana": "Xiāngxìn wǒ。",
+        "kana": "ㄒㄧㄤ ㄒㄧㄣˋ ㄨㄛˇ",
+        "answer": "相信我"
+      },
+      {
+        "japanese": "買下來！",
+        "english": "Buy it!",
+        "furigana": "Mǎi xià lái!",
+        "kana": "ㄇㄞˇ ㄒㄧㄚˋ ㄌㄞˊ",
+        "answer": "買下來"
+      },
+      {
+        "japanese": "明天打電話給我。",
+        "english": "Call me tomorrow.",
+        "furigana": "Míngtiān dǎ diànhuà gěi wǒ。",
+        "kana": "ㄇㄧㄥˊ ㄊㄧㄢ ㄉㄚˇ ㄉㄧㄢˋ ㄏㄨㄚˋ ㄍㄟˇ ㄨㄛˇ",
+        "answer": "明天打電話給我"
+      },
+      {
+        "japanese": "請您說得慢些好嗎？",
+        "english": "Can you speak slowly?",
+        "furigana": "Qǐng nín shuō de màn xiē hǎo ma?",
+        "kana": "ㄑㄧㄥˇ ㄋㄧㄣˊ ㄕㄨㄛ ㄉㄜ˙ ㄇㄢˋ ㄒㄧㄝ ㄏㄠˇ ㄇㄚ˙",
+        "answer": "請您說得慢些好嗎"
+      },
+      {
+        "japanese": "跟我來。",
+        "english": "Come with me.",
+        "furigana": "Gēn wǒ lái。",
+        "kana": "ㄍㄣ ㄨㄛˇ ㄌㄞˊ",
+        "answer": "跟我來"
+      },
+      {
+        "japanese": "恭喜恭喜。",
+        "english": "Congratulations.",
+        "furigana": "Gōngxǐ gōngxǐ。",
+        "kana": "ㄍㄨㄥ ㄒㄧˇ ㄍㄨㄥ ㄒㄧˇ",
+        "answer": "恭喜恭喜"
+      },
+      {
+        "japanese": "把它做對。",
+        "english": "Do it right!",
+        "furigana": "Bǎ tā zuò duì。",
+        "kana": "ㄅㄚˇ ㄊㄚ ㄗㄨㄛˋ ㄉㄨㄟˋ",
+        "answer": "把它做對"
+      },
+      {
+        "japanese": "你當真？",
+        "english": "Do you mean it?",
+        "furigana": "Nǐ dàngzhēn?",
+        "kana": "ㄋㄧˇ ㄉㄤˋ ㄓㄣ",
+        "answer": "你當真"
+      },
+      {
+        "japanese": "你經常見到他嗎？",
+        "english": "Do you see him often?",
+        "furigana": "Nǐ jīngcháng jiàn dào tā ma?",
+        "kana": "ㄋㄧˇ ㄐㄧㄥ ㄔㄤˊ ㄐㄧㄢˋ ㄉㄠˋ ㄊㄚ ㄇㄚ˙",
+        "answer": "你經常見到他嗎"
+      },
+      {
+        "japanese": "你明白了嗎？",
+        "english": "Do you understand?",
+        "furigana": "Nǐ míngbái le ma?",
+        "kana": "ㄋㄧˇ ㄇㄧㄥˊ ㄅㄞˊ ㄌㄜ˙ ㄇㄚ˙",
+        "answer": "你明白了嗎"
+      },
+      {
+        "japanese": "你要嗎？",
+        "english": "Do you want it?",
+        "furigana": "Nǐ yào ma?",
+        "kana": "ㄋㄧˇ ㄧㄠˋ ㄇㄚ˙",
+        "answer": "你要嗎"
+      },
+      {
+        "japanese": "你想要些什麼？",
+        "english": "Do you want something?",
+        "furigana": "Nǐ xiǎng yào xiē shénme?",
+        "kana": "ㄋㄧˇ ㄒㄧㄤˇ ㄧㄠˋ ㄒㄧㄝ ㄕㄣˊ ㄇㄜ˙",
+        "answer": "你想要些什麼"
+      },
+      {
+        "japanese": "不要做。",
+        "english": "Don’t do it.",
+        "furigana": "Bú yào zuò。",
+        "kana": "ㄅㄨˊ ㄧㄠˋ ㄗㄨㄛˋ",
+        "answer": "不要做"
+      },
+      {
+        "japanese": "不要誇張。",
+        "english": "Don’t exaggerate.",
+        "furigana": "Bú yào kuāzhāng。",
+        "kana": "ㄅㄨˊ ㄧㄠˋ ㄎㄨㄚ ㄓㄤ",
+        "answer": "不要誇張"
+      },
+      {
+        "japanese": "不要告訴我。",
+        "english": "Don’t tell me that.",
+        "furigana": "Bú yào gàosu wǒ。",
+        "kana": "ㄅㄨˊ ㄧㄠˋ ㄍㄠˋ ㄙㄨ˙ ㄨㄛˇ",
+        "answer": "不要告訴我"
+      },
+      {
+        "japanese": "幫我一下。",
+        "english": "Give me a hand.",
+        "furigana": "Bāng wǒ yíxià。",
+        "kana": "ㄅㄤ ㄨㄛˇ ㄧˊ ㄒㄧㄚˋ",
+        "answer": "幫我一下"
+      },
+      {
+        "japanese": "一直往前走。",
+        "english": "Go right ahead.",
+        "furigana": "Yìzhí wǎng qián zǒu。",
+        "kana": "ㄧˋ ㄓˊ ㄨㄤˇ ㄑㄧㄢˊ ㄗㄡˇ",
+        "answer": "一直往前走"
+      },
+      {
+        "japanese": "祝旅途愉快。",
+        "english": "Have a good trip.",
+        "furigana": "Zhù lǚtú yúkuài。",
+        "kana": "ㄓㄨˋ ㄌㄩˇ ㄊㄨˊ ㄩˊ ㄎㄨㄞˋ",
+        "answer": "祝旅途愉快"
+      },
+      {
+        "japanese": "祝你一天過得愉快。",
+        "english": "Have a nice day.",
+        "furigana": "Zhù nǐ yì tiān guò de yúkuài。",
+        "kana": "ㄓㄨˋ ㄋㄧˇ ㄧˋ ㄊㄧㄢ ㄍㄨㄛˋ ㄉㄜ˙ ㄩˊ ㄎㄨㄞˋ",
+        "answer": "祝你一天過得愉快"
+      },
+      {
+        "japanese": "再來一個。",
+        "english": "Have another one.",
+        "furigana": "Zài lái yígè。",
+        "kana": "ㄗㄞˋ ㄌㄞˊ ㄧˊ ㄍㄜˋ",
+        "answer": "再來一個"
+      },
+      {
+        "japanese": "你做完了嗎？",
+        "english": "Have you finished?",
+        "furigana": "Nǐ zuò wán le ma?",
+        "kana": "ㄋㄧˇ ㄗㄨㄛˋ ㄨㄢˊ ㄌㄜ˙ ㄇㄚ˙",
+        "answer": "你做完了嗎"
+      },
+      {
+        "japanese": "他沒空。",
+        "english": "He doesn’t have time.",
+        "furigana": "Tā méi kòng。",
+        "kana": "ㄊㄚ ㄇㄟˊ ㄎㄨㄥˋ",
+        "answer": "他沒空"
+      },
+      {
+        "japanese": "他現在已經在路上了。",
+        "english": "He is on his way.",
+        "furigana": "Tā xiànzài yǐjīng zài lù shàng le。",
+        "kana": "ㄊㄚ ㄒㄧㄢˋ ㄗㄞˋ ㄧˇ ㄐㄧㄥ ㄗㄞˋ ㄌㄨˋ ㄕㄤˋ ㄌㄜ˙",
+        "answer": "他現在已經在路上了"
+      },
+      {
+        "japanese": "你好嗎？",
+        "english": "How are you doing?",
+        "furigana": "Nǐ hǎo ma?",
+        "kana": "ㄋㄧˇ ㄏㄠˇ ㄇㄚ˙",
+        "answer": "你好嗎"
+      },
+      {
+        "japanese": "你要呆多久？",
+        "english": "How long are you staying?",
+        "furigana": "Nǐ yào dāi duōjiǔ?",
+        "kana": "ㄋㄧˇ ㄧㄠˋ ㄉㄞ ㄉㄨㄛ ㄐㄧㄡˇ",
+        "answer": "你要呆多久"
+      },
+      {
+        "japanese": "多少錢?",
+        "english": "How much?",
+        "furigana": "Duōshǎo qián?",
+        "kana": "ㄉㄨㄛ ㄕㄠˇ ㄑㄧㄢˊ",
+        "answer": "多少錢"
+      },
+      {
+        "japanese": "我對她着迷了。",
+        "english": "I am crazy about her.",
+        "furigana": "Wǒ duì tā zháomí le。",
+        "kana": "ㄨㄛˇ ㄉㄨㄟˋ ㄊㄚ ㄓㄠˊ ㄇㄧˊ ㄌㄜ˙",
+        "answer": "我對她着迷了"
+      },
+      {
+        "japanese": "我在浪費時間。",
+        "english": "I am wasting my time.",
+        "furigana": "Wǒ zài làngfèi shíjiān。",
+        "kana": "ㄨㄛˇ ㄗㄞˋ ㄌㄤˋ ㄈㄟˋ ㄕˊ ㄐㄧㄢ",
+        "answer": "我在浪費時間"
+      },
+      {
+        "japanese": "我能做。",
+        "english": "I can do it.",
+        "furigana": "Wǒ néng zuò。",
+        "kana": "ㄨㄛˇ ㄋㄥˊ ㄗㄨㄛˋ",
+        "answer": "我能做"
+      },
+      {
+        "japanese": "我簡直不能相信。",
+        "english": "I can’t believe it.",
+        "furigana": "Wǒ jiǎnzhí bùnéng xiāngxìn。",
+        "kana": "ㄨㄛˇ ㄐㄧㄢˇ ㄓˊ ㄅㄨˋ ㄋㄥˊ ㄒㄧㄤ ㄒㄧㄣˋ",
+        "answer": "我簡直不能相信"
+      },
+      {
+        "japanese": "我不能再等了。",
+        "english": "I can’t wait.",
+        "furigana": "Wǒ bù néng zài děng le。",
+        "kana": "ㄨㄛˇ ㄅㄨˋ ㄋㄥˊ ㄗㄞˋ ㄉㄥˇ ㄌㄜ˙",
+        "answer": "我不能再等了"
+      },
+      {
+        "japanese": "我沒時間了。",
+        "english": "I don’t have time.",
+        "furigana": "Wǒ méi shíjiān le。",
+        "kana": "ㄨㄛˇ ㄇㄟˊ ㄕˊ ㄐㄧㄢ ㄌㄜ˙",
+        "answer": "我沒時間了"
+      },
+      {
+        "japanese": "我一個人都不認識。",
+        "english": "I don’t know anybody.",
+        "furigana": "Wǒ yī gè rén dōu bú rènshi。",
+        "kana": "ㄨㄛˇ ㄧ ㄍㄜˋ ㄖㄣˊ ㄉㄡ ㄅㄨˊ ㄖㄣˋ ㄕ˙",
+        "answer": "我一個人都不認識"
+      },
+      {
+        "japanese": "我不喜歡。",
+        "english": "I don’t like it.",
+        "furigana": "Wǒ bù xǐhuan。",
+        "kana": "ㄨㄛˇ ㄅㄨˋ ㄒㄧˇ ㄏㄨㄢ˙",
+        "answer": "我不喜歡"
+      },
+      {
+        "japanese": "我認爲不是。",
+        "english": "I don’t think so.",
+        "furigana": "Wǒ rènwéi búshì。",
+        "kana": "ㄨㄛˇ ㄖㄣˋ ㄨㄟˊ ㄅㄨˊ ㄕˋ",
+        "answer": "我認爲不是"
+      },
+      {
+        "japanese": "我感覺好多了。",
+        "english": "I feel much better.",
+        "furigana": "Wǒ gǎnjué hǎo duō le。",
+        "kana": "ㄨㄛˇ ㄍㄢˇ ㄐㄩㄝˊ ㄏㄠˇ ㄉㄨㄛ ㄌㄜ˙",
+        "answer": "我感覺好多了"
+      },
+      {
+        "japanese": "我找到了。",
+        "english": "I found it.",
+        "furigana": "Wǒ zhǎo dào le。",
+        "kana": "ㄨㄛˇ ㄓㄠˇ ㄉㄠˋ ㄌㄜ˙",
+        "answer": "我找到了"
+      },
+      {
+        "japanese": "我討厭你！",
+        "english": "I hate you!",
+        "furigana": "Wǒ tǎoyàn nǐ!",
+        "kana": "ㄨㄛˇ ㄊㄠˇ ㄧㄢˋ ㄋㄧˇ",
+        "answer": "我討厭你"
+      },
+      {
+        "japanese": "我希望如此。",
+        "english": "I hope so.",
+        "furigana": "Wǒ xīwàng rúcǐ。",
+        "kana": "ㄨㄛˇ ㄒㄧ ㄨㄤˋ ㄖㄨˊ ㄘˇ",
+        "answer": "我希望如此"
+      },
+      {
+        "japanese": "我早知道了。",
+        "english": "I knew it.",
+        "furigana": "Wǒ zǎo zhīdào le。",
+        "kana": "ㄨㄛˇ ㄗㄠˇ ㄓ ㄉㄠˋ ㄌㄜ˙",
+        "answer": "我早知道了"
+      },
+      {
+        "japanese": "我愛你。",
+        "english": "I love you.",
+        "furigana": "Wǒ ài nǐ。",
+        "kana": "ㄨㄛˇ ㄞˋ ㄋㄧˇ",
+        "answer": "我愛你"
+      },
+      {
+        "japanese": "我注意到了。",
+        "english": "I noticed that.",
+        "furigana": "Wǒ zhùyì dào le。",
+        "kana": "ㄨㄛˇ ㄓㄨˋ ㄧˋ ㄉㄠˋ ㄌㄜ˙",
+        "answer": "我注意到了"
+      },
+      {
+        "japanese": "我明白了。",
+        "english": "I see.",
+        "furigana": "Wǒ míngbái le。",
+        "kana": "ㄨㄛˇ ㄇㄧㄥˊ ㄅㄞˊ ㄌㄜ˙",
+        "answer": "我明白了"
+      },
+      {
+        "japanese": "我認爲是這樣的。",
+        "english": "I think so.",
+        "furigana": "Wǒ rènwéi shì zhèyàng de。",
+        "kana": "ㄨㄛˇ ㄖㄣˋ ㄨㄟˊ ㄕˋ ㄓㄜˋ ㄧㄤˋ ㄉㄜ˙",
+        "answer": "我認爲是這樣的"
+      },
+      {
+        "japanese": "我想跟他說話。",
+        "english": "I want to speak with him.",
+        "furigana": "Wǒ xiǎng gēn tā shuō huà。",
+        "kana": "ㄨㄛˇ ㄒㄧㄤˇ ㄍㄣ ㄊㄚ ㄕㄨㄛ ㄏㄨㄚˋ",
+        "answer": "我想跟他說話"
+      },
+      {
+        "japanese": "我贏了。",
+        "english": "I won.",
+        "furigana": "Wǒ yíng le。",
+        "kana": "ㄨㄛˇ ㄧㄥˊ ㄌㄜ˙",
+        "answer": "我贏了"
+      },
+      {
+        "japanese": "請給我一杯咖啡。",
+        "english": "I would like a cup of coffee, please.",
+        "furigana": "Qǐng gěi wǒ yì bēi kāfēi。",
+        "kana": "ㄑㄧㄥˇ ㄍㄟˇ ㄨㄛˇ ㄧˋ ㄅㄟ ㄎㄚ ㄈㄟ",
+        "answer": "請給我一杯咖啡"
+      },
+      {
+        "japanese": "我餓死了。",
+        "english": "I’m hungry.",
+        "furigana": "Wǒ è sǐ le。",
+        "kana": "ㄨㄛˇ ㄜˋ ㄙˇ ㄌㄜ˙",
+        "answer": "我餓死了"
+      },
+      {
+        "japanese": "我要走了。",
+        "english": "I’m leaving.",
+        "furigana": "Wǒ yào zǒu le。",
+        "kana": "ㄨㄛˇ ㄧㄠˋ ㄗㄡˇ ㄌㄜ˙",
+        "answer": "我要走了"
+      },
+      {
+        "japanese": "對不起。",
+        "english": "I’m sorry.",
+        "furigana": "Duì bu qǐ。",
+        "kana": "ㄉㄨㄟˋ ㄅㄨ˙ ㄑㄧˇ",
+        "answer": "對不起"
+      },
+      {
+        "japanese": "我習慣了。",
+        "english": "I’m used to it.",
+        "furigana": "Wǒ xíguàn le。",
+        "kana": "ㄨㄛˇ ㄒㄧˊ ㄍㄨㄢˋ ㄌㄜ˙",
+        "answer": "我習慣了"
+      },
+      {
+        "japanese": "我會想念你的。",
+        "english": "I’ll miss you.",
+        "furigana": "Wǒ huì xiǎngniàn nǐ de。",
+        "kana": "ㄨㄛˇ ㄏㄨㄟˋ ㄒㄧㄤˇ ㄋㄧㄢˋ ㄋㄧˇ ㄉㄜ˙",
+        "answer": "我會想念你的"
+      },
+      {
+        "japanese": "我試試看。",
+        "english": "I’ll try.",
+        "furigana": "Wǒ shìshì kàn。",
+        "kana": "ㄨㄛˇ ㄕˋ ㄕˋ ㄎㄢˋ",
+        "answer": "我試試看"
+      },
+      {
+        "japanese": "我很無聊。",
+        "english": "I’m bored.",
+        "furigana": "Wǒ hěn wúliáo。",
+        "kana": "ㄨㄛˇ ㄏㄣˇ ㄨˊ ㄌㄧㄠˊ",
+        "answer": "我很無聊"
+      },
+      {
+        "japanese": "我很忙。",
+        "english": "I’m busy.",
+        "furigana": "Wǒ hěn máng。",
+        "kana": "ㄨㄛˇ ㄏㄣˇ ㄇㄤˊ",
+        "answer": "我很忙"
+      },
+      {
+        "japanese": "我玩得很開心。",
+        "english": "I’m having fun.",
+        "furigana": "Wǒ wán de hěn kāixīn。",
+        "kana": "ㄨㄛˇ ㄨㄢˊ ㄉㄜ˙ ㄏㄣˇ ㄎㄞ ㄒㄧㄣ",
+        "answer": "我玩得很開心"
+      },
+      {
+        "japanese": "我準備好了。",
+        "english": "I’m ready.",
+        "furigana": "Wǒ zhǔnbèi hǎo le。",
+        "kana": "ㄨㄛˇ ㄓㄨㄣˇ ㄅㄟˋ ㄏㄠˇ ㄌㄜ˙",
+        "answer": "我準備好了"
+      },
+      {
+        "japanese": "我明白了。",
+        "english": "I’ve got it.",
+        "furigana": "Wǒ míngbái le。",
+        "kana": "ㄨㄛˇ ㄇㄧㄥˊ ㄅㄞˊ ㄌㄜ˙",
+        "answer": "我明白了"
+      },
+      {
+        "japanese": "真是難以置信！",
+        "english": "It’s incredible!",
+        "furigana": "Zhēnshì nányǐ zhìxìn!",
+        "kana": "ㄓㄣ ㄕˋ ㄋㄢˊ ㄧˇ ㄓˋ ㄒㄧㄣˋ",
+        "answer": "真是難以置信"
+      },
+      {
+        "japanese": "很遠嗎？",
+        "english": "Is it far?",
+        "furigana": "Hěn yuǎn ma?",
+        "kana": "ㄏㄣˇ ㄩㄢˇ ㄇㄚ˙",
+        "answer": "很遠嗎"
+      },
+      {
+        "japanese": "沒關係。",
+        "english": "It doesn’t matter.",
+        "furigana": "Méiguānxi。",
+        "kana": "ㄇㄟˊ ㄍㄨㄢ ㄒㄧ˙",
+        "answer": "沒關係"
+      },
+      {
+        "japanese": "聞起來很香。",
+        "english": "It smells good.",
+        "furigana": "Wén qǐlái hěn xiāng。",
+        "kana": "ㄨㄣˊ ㄑㄧˇ ㄌㄞˊ ㄏㄣˇ ㄒㄧㄤ",
+        "answer": "聞起來很香"
+      },
+      {
+        "japanese": "是時候了。",
+        "english": "It’s about time.",
+        "furigana": "Shì shíhou le。",
+        "kana": "ㄕˋ ㄕˊ ㄏㄡ˙ ㄌㄜ˙",
+        "answer": "是時候了"
+      },
+      {
+        "japanese": "沒事兒。",
+        "english": "It’s all right.",
+        "furigana": "Méi shìr。",
+        "kana": "ㄇㄟˊ ㄕˋ ㄦ˙",
+        "answer": "沒事兒"
+      },
+      {
+        "japanese": "很容易。",
+        "english": "It’s easy.",
+        "furigana": "Hěn róngyì。",
+        "kana": "ㄏㄣˇ ㄖㄨㄥˊ ㄧˋ",
+        "answer": "很容易"
+      },
+      {
+        "japanese": "很好。",
+        "english": "It’s good.",
+        "furigana": "Hěn hǎo。",
+        "kana": "ㄏㄣˇ ㄏㄠˇ",
+        "answer": "很好"
+      },
+      {
+        "japanese": "離這很近。",
+        "english": "It’s near here.",
+        "furigana": "Lí zhè hěn jìn。",
+        "kana": "ㄌㄧˊ ㄓㄜˋ ㄏㄣˇ ㄐㄧㄣˋ",
+        "answer": "離這很近"
+      },
+      {
+        "japanese": "沒什麼。",
+        "english": "It’s nothing.",
+        "furigana": "Méi shénme。",
+        "kana": "ㄇㄟˊ ㄕㄣˊ ㄇㄜ˙",
+        "answer": "沒什麼"
+      },
+      {
+        "japanese": "該走了。",
+        "english": "It’s time to go.",
+        "furigana": "Gāi zǒu le。",
+        "kana": "ㄍㄞ ㄗㄡˇ ㄌㄜ˙",
+        "answer": "該走了"
+      },
+      {
+        "japanese": "那是不同的。",
+        "english": "It’s different.",
+        "furigana": "Nà shì bùtóng de。",
+        "kana": "ㄋㄚˋ ㄕˋ ㄅㄨˋ ㄊㄨㄥˊ ㄉㄜ˙",
+        "answer": "那是不同的"
+      },
+      {
+        "japanese": "很滑稽。",
+        "english": "It’s funny.",
+        "furigana": "Hěn huájī。",
+        "kana": "ㄏㄣˇ ㄏㄨㄚˊ ㄐㄧ",
+        "answer": "很滑稽"
+      },
+      {
+        "japanese": "那是不可能的。",
+        "english": "It’s impossible.",
+        "furigana": "Nà shì bù kěnéng de。",
+        "kana": "ㄋㄚˋ ㄕˋ ㄅㄨˋ ㄎㄜˇ ㄋㄥˊ ㄉㄜ˙",
+        "answer": "那是不可能的"
+      },
+      {
+        "japanese": "還行。",
+        "english": "It’s not bad.",
+        "furigana": "Hái xíng。",
+        "kana": "ㄏㄞˊ ㄒㄧㄥˊ",
+        "answer": "還行"
+      },
+      {
+        "japanese": "不難。",
+        "english": "It’s not difficult.",
+        "furigana": "Bù nán。",
+        "kana": "ㄅㄨˋ ㄋㄢˊ",
+        "answer": "不難"
+      },
+      {
+        "japanese": "不值得。",
+        "english": "It’s not worth it.",
+        "furigana": "Bù zhí dé。",
+        "kana": "ㄅㄨˋ ㄓˊ ㄉㄜˊ",
+        "answer": "不值得"
+      },
+      {
+        "japanese": "很明顯。",
+        "english": "It’s obvious.",
+        "furigana": "Hěn míngxiǎn。",
+        "kana": "ㄏㄣˇ ㄇㄧㄥˊ ㄒㄧㄢˇ",
+        "answer": "很明顯"
+      },
+      {
+        "japanese": "還是一樣的。",
+        "english": "It’s the same thing.",
+        "furigana": "Háishì yíyàng de。",
+        "kana": "ㄏㄞˊ ㄕˋ ㄧˊ ㄧㄤˋ ㄉㄜ˙",
+        "answer": "還是一樣的"
+      },
+      {
+        "japanese": "輪到你了。",
+        "english": "It’s your turn.",
+        "furigana": "Lún dào nǐ le。",
+        "kana": "ㄌㄨㄣˊ ㄉㄠˋ ㄋㄧˇ ㄌㄜ˙",
+        "answer": "輪到你了"
+      },
+      {
+        "japanese": "我也一樣。",
+        "english": "Me too.",
+        "furigana": "Wǒ yě yíyàng。",
+        "kana": "ㄨㄛˇ ㄧㄝˇ ㄧˊ ㄧㄤˋ",
+        "answer": "我也一樣"
+      },
+      {
+        "japanese": "還沒有。",
+        "english": "Not yet.",
+        "furigana": "Hái méiyǒu。",
+        "kana": "ㄏㄞˊ ㄇㄟˊ ㄧㄡˇ",
+        "answer": "還沒有"
+      },
+      {
+        "japanese": "放鬆！",
+        "english": "Relax!",
+        "furigana": "Fàngsōng!",
+        "kana": "ㄈㄤˋ ㄙㄨㄥ",
+        "answer": "放鬆"
+      },
+      {
+        "japanese": "明天見。",
+        "english": "See you tomorrow.",
+        "furigana": "Míngtiān jiàn。",
+        "kana": "ㄇㄧㄥˊ ㄊㄧㄢ ㄐㄧㄢˋ",
+        "answer": "明天見"
+      },
+      {
+        "japanese": "她是我最好的朋友。",
+        "english": "She is my best friend.",
+        "furigana": "Tā shì wǒ zuì hǎo de péngyǒu。",
+        "kana": "ㄊㄚ ㄕˋ ㄨㄛˇ ㄗㄨㄟˋ ㄏㄠˇ ㄉㄜ˙ ㄆㄥˊ ㄧㄡˇ",
+        "answer": "她是我最好的朋友"
+      },
+      {
+        "japanese": "她真聰明。",
+        "english": "She is so smart.",
+        "furigana": "Tā zhēn cōngmíng。",
+        "kana": "ㄊㄚ ㄓㄣ ㄘㄨㄥ ㄇㄧㄥˊ",
+        "answer": "她真聰明"
+      },
+      {
+        "japanese": "慢點兒！",
+        "english": "Slow down!",
+        "furigana": "Màn diǎnr!",
+        "kana": "ㄇㄢˋ ㄉㄧㄢˇ ㄦ˙",
+        "answer": "慢點兒"
+      },
+      {
+        "japanese": "告訴我。",
+        "english": "Tell me.",
+        "furigana": "Gàosu wǒ。",
+        "kana": "ㄍㄠˋ ㄙㄨ˙ ㄨㄛˇ",
+        "answer": "告訴我"
+      },
+      {
+        "japanese": "多謝。",
+        "english": "Thank you very much.",
+        "furigana": "Duō xiè。",
+        "kana": "ㄉㄨㄛ ㄒㄧㄝˋ",
+        "answer": "多謝"
+      },
+      {
+        "japanese": "這樣的事情經常發生。",
+        "english": "That happens.",
+        "furigana": "Zhè yàng de shìqíng jīngcháng fāshēng。",
+        "kana": "ㄓㄜˋ ㄧㄤˋ ㄉㄜ˙ ㄕˋ ㄑㄧㄥˊ ㄐㄧㄥ ㄔㄤˊ ㄈㄚ ㄕㄥ",
+        "answer": "這樣的事情經常發生"
+      },
+      {
+        "japanese": "夠了。",
+        "english": "That’s enough.",
+        "furigana": "Gòu le。",
+        "kana": "ㄍㄡˋ ㄌㄜ˙",
+        "answer": "夠了"
+      },
+      {
+        "japanese": "很有趣。",
+        "english": "That’s interesting.",
+        "furigana": "Hěn yǒuqù。",
+        "kana": "ㄏㄣˇ ㄧㄡˇ ㄑㄩˋ",
+        "answer": "很有趣"
+      },
+      {
+        "japanese": "對了。",
+        "english": "That’s right.",
+        "furigana": "Duì le。",
+        "kana": "ㄉㄨㄟˋ ㄌㄜ˙",
+        "answer": "對了"
+      },
+      {
+        "japanese": "這是真的。",
+        "english": "That’s true.",
+        "furigana": "Zhè shì zhēn de。",
+        "kana": "ㄓㄜˋ ㄕˋ ㄓㄣ ㄉㄜ˙",
+        "answer": "這是真的"
+      },
+      {
+        "japanese": "這裏人很多。",
+        "english": "There are too many people here.",
+        "furigana": "Zhèlǐ rén hěnduō。",
+        "kana": "ㄓㄜˋ ㄌㄧˇ ㄖㄣˊ ㄏㄣˇ ㄉㄨㄛ",
+        "answer": "這裏人很多"
+      },
+      {
+        "japanese": "他們互相傾慕。",
+        "english": "They like each other.",
+        "furigana": "Tāmen hùxiāng qīngmù。",
+        "kana": "ㄊㄚ ㄇㄣ˙ ㄏㄨˋ ㄒㄧㄤ ㄑㄧㄥ ㄇㄨˋ",
+        "answer": "他們互相傾慕"
+      },
+      {
+        "japanese": "考慮一下。",
+        "english": "Think about it.",
+        "furigana": "Kǎolǜ yí xià。",
+        "kana": "ㄎㄠˇ ㄌㄩˋ ㄧˊ ㄒㄧㄚˋ",
+        "answer": "考慮一下"
+      },
+      {
+        "japanese": "太糟糕啦！",
+        "english": "Too bad!",
+        "furigana": "Tài zāogāo la!",
+        "kana": "ㄊㄞˋ ㄗㄠ ㄍㄠ ㄌㄚ˙",
+        "answer": "太糟糕啦"
+      },
+      {
+        "japanese": "等等我。",
+        "english": "Wait for me.",
+        "furigana": "Děng děng wǒ。",
+        "kana": "ㄉㄥˇ ㄉㄥˇ ㄨㄛˇ",
+        "answer": "等等我"
+      },
+      {
+        "japanese": "你說什麼？",
+        "english": "What did you say?",
+        "furigana": "Nǐ shuō shénme?",
+        "kana": "ㄋㄧˇ ㄕㄨㄛ ㄕㄣˊ ㄇㄜ˙",
+        "answer": "你說什麼"
+      },
+      {
+        "japanese": "你認爲怎樣？",
+        "english": "What do you think?",
+        "furigana": "Nǐ rènwéi zěnyàng?",
+        "kana": "ㄋㄧˇ ㄖㄣˋ ㄨㄟˊ ㄗㄣˇ ㄧㄤˋ",
+        "answer": "你認爲怎樣"
+      },
+      {
+        "japanese": "他在說些什麼？",
+        "english": "What is he talking about?",
+        "furigana": "Tā zài shuō xiē shénme?",
+        "kana": "ㄊㄚ ㄗㄞˋ ㄕㄨㄛ ㄒㄧㄝ ㄕㄣˊ ㄇㄜ˙",
+        "answer": "他在說些什麼"
+      },
+      {
+        "japanese": "多壞的天氣！",
+        "english": "What terrible weather!",
+        "furigana": "Duō huài de tiānqì!",
+        "kana": "ㄉㄨㄛ ㄏㄨㄞˋ ㄉㄜ˙ ㄊㄧㄢ ㄑㄧˋ",
+        "answer": "多壞的天氣"
+      },
+      {
+        "japanese": "怎麼啦？",
+        "english": "What’s going on/ happening / the problem?",
+        "furigana": "Zěnme la?",
+        "kana": "ㄗㄣˇ ㄇㄜ˙ ㄌㄚ˙",
+        "answer": "怎麼啦"
+      },
+      {
+        "japanese": "今天幾號？",
+        "english": "What’s the date today?",
+        "furigana": "Jīntiān jǐ hào?",
+        "kana": "ㄐㄧㄣ ㄊㄧㄢ ㄐㄧˇ ㄏㄠˋ",
+        "answer": "今天幾號"
+      },
+      {
+        "japanese": "你去哪裏？",
+        "english": "Where are you going?",
+        "furigana": "Nǐ qù nǎ lǐ?",
+        "kana": "ㄋㄧˇ ㄑㄩˋ ㄋㄚˇ ㄌㄧˇ",
+        "answer": "你去哪裏"
+      },
+      {
+        "japanese": "他在哪裏？",
+        "english": "Where is he?",
+        "furigana": "Tā zài nǎ lǐ?",
+        "kana": "ㄊㄚ ㄗㄞˋ ㄋㄚˇ ㄌㄧˇ",
+        "answer": "他在哪裏"
+      },
+      {
+        "japanese": "你太性急了。",
+        "english": "You are impatient.",
+        "furigana": "Nǐ tài xìngjí le。",
+        "kana": "ㄋㄧˇ ㄊㄞˋ ㄒㄧㄥˋ ㄐㄧˊ ㄌㄜ˙",
+        "answer": "你太性急了"
+      },
+      {
+        "japanese": "你看上去很累。",
+        "english": "You look tired.",
+        "furigana": "Nǐ kàn shàngqù hěn lèi。",
+        "kana": "ㄋㄧˇ ㄎㄢˋ ㄕㄤˋ ㄑㄩˋ ㄏㄣˇ ㄌㄟˋ",
+        "answer": "你看上去很累"
+      },
+      {
+        "japanese": "你讓我大喫一驚。",
+        "english": "You surprise me.",
+        "furigana": "Nǐ ràng wǒ dà chī yì jīng。",
+        "kana": "ㄋㄧˇ ㄖㄤˋ ㄨㄛˇ ㄉㄚˋ ㄔ ㄧˋ ㄐㄧㄥ",
+        "answer": "你讓我大喫一驚"
+      },
+      {
+        "japanese": "你瘋了。",
+        "english": "You’re crazy.",
+        "furigana": "Nǐ fēngle。",
+        "kana": "ㄋㄧˇ ㄈㄥ ㄌㄜ˙",
+        "answer": "你瘋了"
+      },
+      {
+        "japanese": "別客氣。",
+        "english": "You’re welcome.",
+        "furigana": "Bié kèqi。",
+        "kana": "ㄅㄧㄝˊ ㄎㄜˋ ㄑㄧ˙",
+        "answer": "別客氣"
+      },
+      {
+        "japanese": "你總是對的。",
+        "english": "You’re always right.",
+        "furigana": "Nǐ zǒng shì duì de。",
+        "kana": "ㄋㄧˇ ㄗㄨㄥˇ ㄕˋ ㄉㄨㄟˋ ㄉㄜ˙",
+        "answer": "你總是對的"
+      },
+      {
+        "japanese": "你的心情不好。",
+        "english": "You’re in a bad mood.",
+        "furigana": "Nǐ de xīnqíng bù hǎo。",
+        "kana": "ㄋㄧˇ ㄉㄜ˙ ㄒㄧㄣ ㄑㄧㄥˊ ㄅㄨˋ ㄏㄠˇ",
+        "answer": "你的心情不好"
+      },
+      {
+        "japanese": "你在撒謊。",
+        "english": "You’re lying.",
+        "furigana": "Nǐ zài sāhuǎng。",
+        "kana": "ㄋㄧˇ ㄗㄞˋ ㄙㄚ ㄏㄨㄤˇ",
+        "answer": "你在撒謊"
+      },
+      {
+        "japanese": "你錯了。",
+        "english": "You’re wrong.",
+        "furigana": "Nǐ cuòle。",
+        "kana": "ㄋㄧˇ ㄘㄨㄛˋ ㄌㄜ˙",
+        "answer": "你錯了"
+      },
+      {
+        "japanese": "哇塞！",
+        "english": "Wow!",
+        "furigana": "Wasài!",
+        "kana": "ㄨㄚ˙ ㄙㄞˋ",
+        "answer": "哇塞"
       }
     ]
   },
