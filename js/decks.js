@@ -7,7 +7,8 @@ var decks = {
       "file_path": "decks/1_100.csv",
       "stroke_order_font": false,
       "focus_input": true,
-      "prompt": "audio"
+      "prompt": "audio",
+      "input_mode": "numeric"
     },
     "cards": [
       {
@@ -817,7 +818,8 @@ var decks = {
       "file_path": "decks/100_10000.csv",
       "stroke_order_font": false,
       "focus_input": true,
-      "prompt": "audio"
+      "prompt": "audio",
+      "input_mode": "numeric"
     },
     "cards": [
       {
@@ -1627,7 +1629,8 @@ var decks = {
       "file_path": "decks/yukie_vocab_2.csv",
       "stroke_order_font": false,
       "focus_input": true,
-      "prompt": "japanese"
+      "prompt": "japanese",
+      "input_mode": "text"
     },
     "cards": [
       {

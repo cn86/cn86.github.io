@@ -140,7 +140,7 @@ function set_cards(deck_name, deck_size, deck_offset) {
     set_progress(current_card_index + 1);
 
     set_card_text(card_set[0]);
-    set_answer(card_set[0]["answer"]);
+    set_answer(card_set[0]["answer"], deck['config']['input_mode']);
 }
 
 function set_card_text(card) {
@@ -167,7 +167,7 @@ function shuffle(array) {
     return array
 }
 
-function set_answer(answer_text) {
+function set_answer(answer_text, input_mode) {
     let answer_container = document.getElementById("answer-container");
     let current_answer = document.getElementById(current_answer_id);
     let new_answer_id = answer_id();
@@ -176,6 +176,7 @@ function set_answer(answer_text) {
     new_answer.type = "text";
     new_answer.setAttribute("id", new_answer_id);
     new_answer.setAttribute("onkeyup", "check_answer();");
+    new_answer.setAttribute("inputmode", input_mode);
     answer_container.removeChild(current_answer);
     answer_container.appendChild(new_answer);
     current_answer_id = new_answer_id;
