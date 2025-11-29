@@ -23,6 +23,7 @@ var card_info = {
     "show-kana": false,
 }
 var focus_input = true;
+var input_mode = "text";
 
 function get_deck_options_hash() {
     [deck_name, deck_size, deck_offset] = window.location.hash.replace('#', '').split(',');
@@ -131,6 +132,7 @@ function set_cards(deck_name, deck_size, deck_offset) {
         }
     }
     focus_input = deck['config']['focus_input'];
+    input_mode = deck['config']['input_mode'];
     card_set = deck['cards'].slice(deck_offset - 1, deck_offset - 1 + deck_size);
     if (get_randomize()) {
         card_set = shuffle(card_set);
@@ -140,7 +142,7 @@ function set_cards(deck_name, deck_size, deck_offset) {
     set_progress(current_card_index + 1);
 
     set_card_text(card_set[0]);
-    set_answer(card_set[0]["answer"], deck['config']['input_mode']);
+    set_answer(card_set[0]["answer"]);
 }
 
 function set_card_text(card) {
@@ -167,7 +169,7 @@ function shuffle(array) {
     return array
 }
 
-function set_answer(answer_text, input_mode) {
+function set_answer(answer_text) {
     let answer_container = document.getElementById("answer-container");
     let current_answer = document.getElementById(current_answer_id);
     let new_answer_id = answer_id();
