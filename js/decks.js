@@ -1,7 +1,1627 @@
 /*
-<option value="yukie">yukie (1086)</option>
+<option value="1-100">1-100 (100)</option><option value="100-10000">100-10000 (100)</option><option value="yukie">yukie (1086)</option>
 */
 var decks = {
+  "1-100": {
+    "config": {
+      "file_path": "decks/1_100.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "audio"
+    },
+    "cards": [
+      {
+        "audio": "media/decks/1_100/1.mp3",
+        "japanese": "1",
+        "english": "1",
+        "furigana": "1",
+        "kana": "1",
+        "answer": "1"
+      },
+      {
+        "audio": "media/decks/1_100/2.mp3",
+        "japanese": "2",
+        "english": "2",
+        "furigana": "2",
+        "kana": "2",
+        "answer": "2"
+      },
+      {
+        "audio": "media/decks/1_100/3.mp3",
+        "japanese": "3",
+        "english": "3",
+        "furigana": "3",
+        "kana": "3",
+        "answer": "3"
+      },
+      {
+        "audio": "media/decks/1_100/4.mp3",
+        "japanese": "4",
+        "english": "4",
+        "furigana": "4",
+        "kana": "4",
+        "answer": "4"
+      },
+      {
+        "audio": "media/decks/1_100/5.mp3",
+        "japanese": "5",
+        "english": "5",
+        "furigana": "5",
+        "kana": "5",
+        "answer": "5"
+      },
+      {
+        "audio": "media/decks/1_100/6.mp3",
+        "japanese": "6",
+        "english": "6",
+        "furigana": "6",
+        "kana": "6",
+        "answer": "6"
+      },
+      {
+        "audio": "media/decks/1_100/7.mp3",
+        "japanese": "7",
+        "english": "7",
+        "furigana": "7",
+        "kana": "7",
+        "answer": "7"
+      },
+      {
+        "audio": "media/decks/1_100/8.mp3",
+        "japanese": "8",
+        "english": "8",
+        "furigana": "8",
+        "kana": "8",
+        "answer": "8"
+      },
+      {
+        "audio": "media/decks/1_100/9.mp3",
+        "japanese": "9",
+        "english": "9",
+        "furigana": "9",
+        "kana": "9",
+        "answer": "9"
+      },
+      {
+        "audio": "media/decks/1_100/10.mp3",
+        "japanese": "10",
+        "english": "10",
+        "furigana": "10",
+        "kana": "10",
+        "answer": "10"
+      },
+      {
+        "audio": "media/decks/1_100/11.mp3",
+        "japanese": "11",
+        "english": "11",
+        "furigana": "11",
+        "kana": "11",
+        "answer": "11"
+      },
+      {
+        "audio": "media/decks/1_100/12.mp3",
+        "japanese": "12",
+        "english": "12",
+        "furigana": "12",
+        "kana": "12",
+        "answer": "12"
+      },
+      {
+        "audio": "media/decks/1_100/13.mp3",
+        "japanese": "13",
+        "english": "13",
+        "furigana": "13",
+        "kana": "13",
+        "answer": "13"
+      },
+      {
+        "audio": "media/decks/1_100/14.mp3",
+        "japanese": "14",
+        "english": "14",
+        "furigana": "14",
+        "kana": "14",
+        "answer": "14"
+      },
+      {
+        "audio": "media/decks/1_100/15.mp3",
+        "japanese": "15",
+        "english": "15",
+        "furigana": "15",
+        "kana": "15",
+        "answer": "15"
+      },
+      {
+        "audio": "media/decks/1_100/16.mp3",
+        "japanese": "16",
+        "english": "16",
+        "furigana": "16",
+        "kana": "16",
+        "answer": "16"
+      },
+      {
+        "audio": "media/decks/1_100/17.mp3",
+        "japanese": "17",
+        "english": "17",
+        "furigana": "17",
+        "kana": "17",
+        "answer": "17"
+      },
+      {
+        "audio": "media/decks/1_100/18.mp3",
+        "japanese": "18",
+        "english": "18",
+        "furigana": "18",
+        "kana": "18",
+        "answer": "18"
+      },
+      {
+        "audio": "media/decks/1_100/19.mp3",
+        "japanese": "19",
+        "english": "19",
+        "furigana": "19",
+        "kana": "19",
+        "answer": "19"
+      },
+      {
+        "audio": "media/decks/1_100/20.mp3",
+        "japanese": "20",
+        "english": "20",
+        "furigana": "20",
+        "kana": "20",
+        "answer": "20"
+      },
+      {
+        "audio": "media/decks/1_100/21.mp3",
+        "japanese": "21",
+        "english": "21",
+        "furigana": "21",
+        "kana": "21",
+        "answer": "21"
+      },
+      {
+        "audio": "media/decks/1_100/22.mp3",
+        "japanese": "22",
+        "english": "22",
+        "furigana": "22",
+        "kana": "22",
+        "answer": "22"
+      },
+      {
+        "audio": "media/decks/1_100/23.mp3",
+        "japanese": "23",
+        "english": "23",
+        "furigana": "23",
+        "kana": "23",
+        "answer": "23"
+      },
+      {
+        "audio": "media/decks/1_100/24.mp3",
+        "japanese": "24",
+        "english": "24",
+        "furigana": "24",
+        "kana": "24",
+        "answer": "24"
+      },
+      {
+        "audio": "media/decks/1_100/25.mp3",
+        "japanese": "25",
+        "english": "25",
+        "furigana": "25",
+        "kana": "25",
+        "answer": "25"
+      },
+      {
+        "audio": "media/decks/1_100/26.mp3",
+        "japanese": "26",
+        "english": "26",
+        "furigana": "26",
+        "kana": "26",
+        "answer": "26"
+      },
+      {
+        "audio": "media/decks/1_100/27.mp3",
+        "japanese": "27",
+        "english": "27",
+        "furigana": "27",
+        "kana": "27",
+        "answer": "27"
+      },
+      {
+        "audio": "media/decks/1_100/28.mp3",
+        "japanese": "28",
+        "english": "28",
+        "furigana": "28",
+        "kana": "28",
+        "answer": "28"
+      },
+      {
+        "audio": "media/decks/1_100/29.mp3",
+        "japanese": "29",
+        "english": "29",
+        "furigana": "29",
+        "kana": "29",
+        "answer": "29"
+      },
+      {
+        "audio": "media/decks/1_100/30.mp3",
+        "japanese": "30",
+        "english": "30",
+        "furigana": "30",
+        "kana": "30",
+        "answer": "30"
+      },
+      {
+        "audio": "media/decks/1_100/31.mp3",
+        "japanese": "31",
+        "english": "31",
+        "furigana": "31",
+        "kana": "31",
+        "answer": "31"
+      },
+      {
+        "audio": "media/decks/1_100/32.mp3",
+        "japanese": "32",
+        "english": "32",
+        "furigana": "32",
+        "kana": "32",
+        "answer": "32"
+      },
+      {
+        "audio": "media/decks/1_100/33.mp3",
+        "japanese": "33",
+        "english": "33",
+        "furigana": "33",
+        "kana": "33",
+        "answer": "33"
+      },
+      {
+        "audio": "media/decks/1_100/34.mp3",
+        "japanese": "34",
+        "english": "34",
+        "furigana": "34",
+        "kana": "34",
+        "answer": "34"
+      },
+      {
+        "audio": "media/decks/1_100/35.mp3",
+        "japanese": "35",
+        "english": "35",
+        "furigana": "35",
+        "kana": "35",
+        "answer": "35"
+      },
+      {
+        "audio": "media/decks/1_100/36.mp3",
+        "japanese": "36",
+        "english": "36",
+        "furigana": "36",
+        "kana": "36",
+        "answer": "36"
+      },
+      {
+        "audio": "media/decks/1_100/37.mp3",
+        "japanese": "37",
+        "english": "37",
+        "furigana": "37",
+        "kana": "37",
+        "answer": "37"
+      },
+      {
+        "audio": "media/decks/1_100/38.mp3",
+        "japanese": "38",
+        "english": "38",
+        "furigana": "38",
+        "kana": "38",
+        "answer": "38"
+      },
+      {
+        "audio": "media/decks/1_100/39.mp3",
+        "japanese": "39",
+        "english": "39",
+        "furigana": "39",
+        "kana": "39",
+        "answer": "39"
+      },
+      {
+        "audio": "media/decks/1_100/40.mp3",
+        "japanese": "40",
+        "english": "40",
+        "furigana": "40",
+        "kana": "40",
+        "answer": "40"
+      },
+      {
+        "audio": "media/decks/1_100/41.mp3",
+        "japanese": "41",
+        "english": "41",
+        "furigana": "41",
+        "kana": "41",
+        "answer": "41"
+      },
+      {
+        "audio": "media/decks/1_100/42.mp3",
+        "japanese": "42",
+        "english": "42",
+        "furigana": "42",
+        "kana": "42",
+        "answer": "42"
+      },
+      {
+        "audio": "media/decks/1_100/43.mp3",
+        "japanese": "43",
+        "english": "43",
+        "furigana": "43",
+        "kana": "43",
+        "answer": "43"
+      },
+      {
+        "audio": "media/decks/1_100/44.mp3",
+        "japanese": "44",
+        "english": "44",
+        "furigana": "44",
+        "kana": "44",
+        "answer": "44"
+      },
+      {
+        "audio": "media/decks/1_100/45.mp3",
+        "japanese": "45",
+        "english": "45",
+        "furigana": "45",
+        "kana": "45",
+        "answer": "45"
+      },
+      {
+        "audio": "media/decks/1_100/46.mp3",
+        "japanese": "46",
+        "english": "46",
+        "furigana": "46",
+        "kana": "46",
+        "answer": "46"
+      },
+      {
+        "audio": "media/decks/1_100/47.mp3",
+        "japanese": "47",
+        "english": "47",
+        "furigana": "47",
+        "kana": "47",
+        "answer": "47"
+      },
+      {
+        "audio": "media/decks/1_100/48.mp3",
+        "japanese": "48",
+        "english": "48",
+        "furigana": "48",
+        "kana": "48",
+        "answer": "48"
+      },
+      {
+        "audio": "media/decks/1_100/49.mp3",
+        "japanese": "49",
+        "english": "49",
+        "furigana": "49",
+        "kana": "49",
+        "answer": "49"
+      },
+      {
+        "audio": "media/decks/1_100/50.mp3",
+        "japanese": "50",
+        "english": "50",
+        "furigana": "50",
+        "kana": "50",
+        "answer": "50"
+      },
+      {
+        "audio": "media/decks/1_100/51.mp3",
+        "japanese": "51",
+        "english": "51",
+        "furigana": "51",
+        "kana": "51",
+        "answer": "51"
+      },
+      {
+        "audio": "media/decks/1_100/52.mp3",
+        "japanese": "52",
+        "english": "52",
+        "furigana": "52",
+        "kana": "52",
+        "answer": "52"
+      },
+      {
+        "audio": "media/decks/1_100/53.mp3",
+        "japanese": "53",
+        "english": "53",
+        "furigana": "53",
+        "kana": "53",
+        "answer": "53"
+      },
+      {
+        "audio": "media/decks/1_100/54.mp3",
+        "japanese": "54",
+        "english": "54",
+        "furigana": "54",
+        "kana": "54",
+        "answer": "54"
+      },
+      {
+        "audio": "media/decks/1_100/55.mp3",
+        "japanese": "55",
+        "english": "55",
+        "furigana": "55",
+        "kana": "55",
+        "answer": "55"
+      },
+      {
+        "audio": "media/decks/1_100/56.mp3",
+        "japanese": "56",
+        "english": "56",
+        "furigana": "56",
+        "kana": "56",
+        "answer": "56"
+      },
+      {
+        "audio": "media/decks/1_100/57.mp3",
+        "japanese": "57",
+        "english": "57",
+        "furigana": "57",
+        "kana": "57",
+        "answer": "57"
+      },
+      {
+        "audio": "media/decks/1_100/58.mp3",
+        "japanese": "58",
+        "english": "58",
+        "furigana": "58",
+        "kana": "58",
+        "answer": "58"
+      },
+      {
+        "audio": "media/decks/1_100/59.mp3",
+        "japanese": "59",
+        "english": "59",
+        "furigana": "59",
+        "kana": "59",
+        "answer": "59"
+      },
+      {
+        "audio": "media/decks/1_100/60.mp3",
+        "japanese": "60",
+        "english": "60",
+        "furigana": "60",
+        "kana": "60",
+        "answer": "60"
+      },
+      {
+        "audio": "media/decks/1_100/61.mp3",
+        "japanese": "61",
+        "english": "61",
+        "furigana": "61",
+        "kana": "61",
+        "answer": "61"
+      },
+      {
+        "audio": "media/decks/1_100/62.mp3",
+        "japanese": "62",
+        "english": "62",
+        "furigana": "62",
+        "kana": "62",
+        "answer": "62"
+      },
+      {
+        "audio": "media/decks/1_100/63.mp3",
+        "japanese": "63",
+        "english": "63",
+        "furigana": "63",
+        "kana": "63",
+        "answer": "63"
+      },
+      {
+        "audio": "media/decks/1_100/64.mp3",
+        "japanese": "64",
+        "english": "64",
+        "furigana": "64",
+        "kana": "64",
+        "answer": "64"
+      },
+      {
+        "audio": "media/decks/1_100/65.mp3",
+        "japanese": "65",
+        "english": "65",
+        "furigana": "65",
+        "kana": "65",
+        "answer": "65"
+      },
+      {
+        "audio": "media/decks/1_100/66.mp3",
+        "japanese": "66",
+        "english": "66",
+        "furigana": "66",
+        "kana": "66",
+        "answer": "66"
+      },
+      {
+        "audio": "media/decks/1_100/67.mp3",
+        "japanese": "67",
+        "english": "67",
+        "furigana": "67",
+        "kana": "67",
+        "answer": "67"
+      },
+      {
+        "audio": "media/decks/1_100/68.mp3",
+        "japanese": "68",
+        "english": "68",
+        "furigana": "68",
+        "kana": "68",
+        "answer": "68"
+      },
+      {
+        "audio": "media/decks/1_100/69.mp3",
+        "japanese": "69",
+        "english": "69",
+        "furigana": "69",
+        "kana": "69",
+        "answer": "69"
+      },
+      {
+        "audio": "media/decks/1_100/70.mp3",
+        "japanese": "70",
+        "english": "70",
+        "furigana": "70",
+        "kana": "70",
+        "answer": "70"
+      },
+      {
+        "audio": "media/decks/1_100/71.mp3",
+        "japanese": "71",
+        "english": "71",
+        "furigana": "71",
+        "kana": "71",
+        "answer": "71"
+      },
+      {
+        "audio": "media/decks/1_100/72.mp3",
+        "japanese": "72",
+        "english": "72",
+        "furigana": "72",
+        "kana": "72",
+        "answer": "72"
+      },
+      {
+        "audio": "media/decks/1_100/73.mp3",
+        "japanese": "73",
+        "english": "73",
+        "furigana": "73",
+        "kana": "73",
+        "answer": "73"
+      },
+      {
+        "audio": "media/decks/1_100/74.mp3",
+        "japanese": "74",
+        "english": "74",
+        "furigana": "74",
+        "kana": "74",
+        "answer": "74"
+      },
+      {
+        "audio": "media/decks/1_100/75.mp3",
+        "japanese": "75",
+        "english": "75",
+        "furigana": "75",
+        "kana": "75",
+        "answer": "75"
+      },
+      {
+        "audio": "media/decks/1_100/76.mp3",
+        "japanese": "76",
+        "english": "76",
+        "furigana": "76",
+        "kana": "76",
+        "answer": "76"
+      },
+      {
+        "audio": "media/decks/1_100/77.mp3",
+        "japanese": "77",
+        "english": "77",
+        "furigana": "77",
+        "kana": "77",
+        "answer": "77"
+      },
+      {
+        "audio": "media/decks/1_100/78.mp3",
+        "japanese": "78",
+        "english": "78",
+        "furigana": "78",
+        "kana": "78",
+        "answer": "78"
+      },
+      {
+        "audio": "media/decks/1_100/79.mp3",
+        "japanese": "79",
+        "english": "79",
+        "furigana": "79",
+        "kana": "79",
+        "answer": "79"
+      },
+      {
+        "audio": "media/decks/1_100/80.mp3",
+        "japanese": "80",
+        "english": "80",
+        "furigana": "80",
+        "kana": "80",
+        "answer": "80"
+      },
+      {
+        "audio": "media/decks/1_100/81.mp3",
+        "japanese": "81",
+        "english": "81",
+        "furigana": "81",
+        "kana": "81",
+        "answer": "81"
+      },
+      {
+        "audio": "media/decks/1_100/82.mp3",
+        "japanese": "82",
+        "english": "82",
+        "furigana": "82",
+        "kana": "82",
+        "answer": "82"
+      },
+      {
+        "audio": "media/decks/1_100/83.mp3",
+        "japanese": "83",
+        "english": "83",
+        "furigana": "83",
+        "kana": "83",
+        "answer": "83"
+      },
+      {
+        "audio": "media/decks/1_100/84.mp3",
+        "japanese": "84",
+        "english": "84",
+        "furigana": "84",
+        "kana": "84",
+        "answer": "84"
+      },
+      {
+        "audio": "media/decks/1_100/85.mp3",
+        "japanese": "85",
+        "english": "85",
+        "furigana": "85",
+        "kana": "85",
+        "answer": "85"
+      },
+      {
+        "audio": "media/decks/1_100/86.mp3",
+        "japanese": "86",
+        "english": "86",
+        "furigana": "86",
+        "kana": "86",
+        "answer": "86"
+      },
+      {
+        "audio": "media/decks/1_100/87.mp3",
+        "japanese": "87",
+        "english": "87",
+        "furigana": "87",
+        "kana": "87",
+        "answer": "87"
+      },
+      {
+        "audio": "media/decks/1_100/88.mp3",
+        "japanese": "88",
+        "english": "88",
+        "furigana": "88",
+        "kana": "88",
+        "answer": "88"
+      },
+      {
+        "audio": "media/decks/1_100/89.mp3",
+        "japanese": "89",
+        "english": "89",
+        "furigana": "89",
+        "kana": "89",
+        "answer": "89"
+      },
+      {
+        "audio": "media/decks/1_100/90.mp3",
+        "japanese": "90",
+        "english": "90",
+        "furigana": "90",
+        "kana": "90",
+        "answer": "90"
+      },
+      {
+        "audio": "media/decks/1_100/91.mp3",
+        "japanese": "91",
+        "english": "91",
+        "furigana": "91",
+        "kana": "91",
+        "answer": "91"
+      },
+      {
+        "audio": "media/decks/1_100/92.mp3",
+        "japanese": "92",
+        "english": "92",
+        "furigana": "92",
+        "kana": "92",
+        "answer": "92"
+      },
+      {
+        "audio": "media/decks/1_100/93.mp3",
+        "japanese": "93",
+        "english": "93",
+        "furigana": "93",
+        "kana": "93",
+        "answer": "93"
+      },
+      {
+        "audio": "media/decks/1_100/94.mp3",
+        "japanese": "94",
+        "english": "94",
+        "furigana": "94",
+        "kana": "94",
+        "answer": "94"
+      },
+      {
+        "audio": "media/decks/1_100/95.mp3",
+        "japanese": "95",
+        "english": "95",
+        "furigana": "95",
+        "kana": "95",
+        "answer": "95"
+      },
+      {
+        "audio": "media/decks/1_100/96.mp3",
+        "japanese": "96",
+        "english": "96",
+        "furigana": "96",
+        "kana": "96",
+        "answer": "96"
+      },
+      {
+        "audio": "media/decks/1_100/97.mp3",
+        "japanese": "97",
+        "english": "97",
+        "furigana": "97",
+        "kana": "97",
+        "answer": "97"
+      },
+      {
+        "audio": "media/decks/1_100/98.mp3",
+        "japanese": "98",
+        "english": "98",
+        "furigana": "98",
+        "kana": "98",
+        "answer": "98"
+      },
+      {
+        "audio": "media/decks/1_100/99.mp3",
+        "japanese": "99",
+        "english": "99",
+        "furigana": "99",
+        "kana": "99",
+        "answer": "99"
+      },
+      {
+        "audio": "media/decks/1_100/100.mp3",
+        "japanese": "100",
+        "english": "100",
+        "furigana": "100",
+        "kana": "100",
+        "answer": "100"
+      }
+    ]
+  },
+  "100-10000": {
+    "config": {
+      "file_path": "decks/100_10000.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "audio"
+    },
+    "cards": [
+      {
+        "audio": "media/decks/100_10000/100.mp3",
+        "japanese": "100",
+        "english": "100",
+        "furigana": "100",
+        "kana": "100",
+        "answer": "100"
+      },
+      {
+        "audio": "media/decks/100_10000/200.mp3",
+        "japanese": "200",
+        "english": "200",
+        "furigana": "200",
+        "kana": "200",
+        "answer": "200"
+      },
+      {
+        "audio": "media/decks/100_10000/300.mp3",
+        "japanese": "300",
+        "english": "300",
+        "furigana": "300",
+        "kana": "300",
+        "answer": "300"
+      },
+      {
+        "audio": "media/decks/100_10000/400.mp3",
+        "japanese": "400",
+        "english": "400",
+        "furigana": "400",
+        "kana": "400",
+        "answer": "400"
+      },
+      {
+        "audio": "media/decks/100_10000/500.mp3",
+        "japanese": "500",
+        "english": "500",
+        "furigana": "500",
+        "kana": "500",
+        "answer": "500"
+      },
+      {
+        "audio": "media/decks/100_10000/600.mp3",
+        "japanese": "600",
+        "english": "600",
+        "furigana": "600",
+        "kana": "600",
+        "answer": "600"
+      },
+      {
+        "audio": "media/decks/100_10000/700.mp3",
+        "japanese": "700",
+        "english": "700",
+        "furigana": "700",
+        "kana": "700",
+        "answer": "700"
+      },
+      {
+        "audio": "media/decks/100_10000/800.mp3",
+        "japanese": "800",
+        "english": "800",
+        "furigana": "800",
+        "kana": "800",
+        "answer": "800"
+      },
+      {
+        "audio": "media/decks/100_10000/900.mp3",
+        "japanese": "900",
+        "english": "900",
+        "furigana": "900",
+        "kana": "900",
+        "answer": "900"
+      },
+      {
+        "audio": "media/decks/100_10000/1000.mp3",
+        "japanese": "1000",
+        "english": "1000",
+        "furigana": "1000",
+        "kana": "1000",
+        "answer": "1000"
+      },
+      {
+        "audio": "media/decks/100_10000/1100.mp3",
+        "japanese": "1100",
+        "english": "1100",
+        "furigana": "1100",
+        "kana": "1100",
+        "answer": "1100"
+      },
+      {
+        "audio": "media/decks/100_10000/1200.mp3",
+        "japanese": "1200",
+        "english": "1200",
+        "furigana": "1200",
+        "kana": "1200",
+        "answer": "1200"
+      },
+      {
+        "audio": "media/decks/100_10000/1300.mp3",
+        "japanese": "1300",
+        "english": "1300",
+        "furigana": "1300",
+        "kana": "1300",
+        "answer": "1300"
+      },
+      {
+        "audio": "media/decks/100_10000/1400.mp3",
+        "japanese": "1400",
+        "english": "1400",
+        "furigana": "1400",
+        "kana": "1400",
+        "answer": "1400"
+      },
+      {
+        "audio": "media/decks/100_10000/1500.mp3",
+        "japanese": "1500",
+        "english": "1500",
+        "furigana": "1500",
+        "kana": "1500",
+        "answer": "1500"
+      },
+      {
+        "audio": "media/decks/100_10000/1600.mp3",
+        "japanese": "1600",
+        "english": "1600",
+        "furigana": "1600",
+        "kana": "1600",
+        "answer": "1600"
+      },
+      {
+        "audio": "media/decks/100_10000/1700.mp3",
+        "japanese": "1700",
+        "english": "1700",
+        "furigana": "1700",
+        "kana": "1700",
+        "answer": "1700"
+      },
+      {
+        "audio": "media/decks/100_10000/1800.mp3",
+        "japanese": "1800",
+        "english": "1800",
+        "furigana": "1800",
+        "kana": "1800",
+        "answer": "1800"
+      },
+      {
+        "audio": "media/decks/100_10000/1900.mp3",
+        "japanese": "1900",
+        "english": "1900",
+        "furigana": "1900",
+        "kana": "1900",
+        "answer": "1900"
+      },
+      {
+        "audio": "media/decks/100_10000/2000.mp3",
+        "japanese": "2000",
+        "english": "2000",
+        "furigana": "2000",
+        "kana": "2000",
+        "answer": "2000"
+      },
+      {
+        "audio": "media/decks/100_10000/2100.mp3",
+        "japanese": "2100",
+        "english": "2100",
+        "furigana": "2100",
+        "kana": "2100",
+        "answer": "2100"
+      },
+      {
+        "audio": "media/decks/100_10000/2200.mp3",
+        "japanese": "2200",
+        "english": "2200",
+        "furigana": "2200",
+        "kana": "2200",
+        "answer": "2200"
+      },
+      {
+        "audio": "media/decks/100_10000/2300.mp3",
+        "japanese": "2300",
+        "english": "2300",
+        "furigana": "2300",
+        "kana": "2300",
+        "answer": "2300"
+      },
+      {
+        "audio": "media/decks/100_10000/2400.mp3",
+        "japanese": "2400",
+        "english": "2400",
+        "furigana": "2400",
+        "kana": "2400",
+        "answer": "2400"
+      },
+      {
+        "audio": "media/decks/100_10000/2500.mp3",
+        "japanese": "2500",
+        "english": "2500",
+        "furigana": "2500",
+        "kana": "2500",
+        "answer": "2500"
+      },
+      {
+        "audio": "media/decks/100_10000/2600.mp3",
+        "japanese": "2600",
+        "english": "2600",
+        "furigana": "2600",
+        "kana": "2600",
+        "answer": "2600"
+      },
+      {
+        "audio": "media/decks/100_10000/2700.mp3",
+        "japanese": "2700",
+        "english": "2700",
+        "furigana": "2700",
+        "kana": "2700",
+        "answer": "2700"
+      },
+      {
+        "audio": "media/decks/100_10000/2800.mp3",
+        "japanese": "2800",
+        "english": "2800",
+        "furigana": "2800",
+        "kana": "2800",
+        "answer": "2800"
+      },
+      {
+        "audio": "media/decks/100_10000/2900.mp3",
+        "japanese": "2900",
+        "english": "2900",
+        "furigana": "2900",
+        "kana": "2900",
+        "answer": "2900"
+      },
+      {
+        "audio": "media/decks/100_10000/3000.mp3",
+        "japanese": "3000",
+        "english": "3000",
+        "furigana": "3000",
+        "kana": "3000",
+        "answer": "3000"
+      },
+      {
+        "audio": "media/decks/100_10000/3100.mp3",
+        "japanese": "3100",
+        "english": "3100",
+        "furigana": "3100",
+        "kana": "3100",
+        "answer": "3100"
+      },
+      {
+        "audio": "media/decks/100_10000/3200.mp3",
+        "japanese": "3200",
+        "english": "3200",
+        "furigana": "3200",
+        "kana": "3200",
+        "answer": "3200"
+      },
+      {
+        "audio": "media/decks/100_10000/3300.mp3",
+        "japanese": "3300",
+        "english": "3300",
+        "furigana": "3300",
+        "kana": "3300",
+        "answer": "3300"
+      },
+      {
+        "audio": "media/decks/100_10000/3400.mp3",
+        "japanese": "3400",
+        "english": "3400",
+        "furigana": "3400",
+        "kana": "3400",
+        "answer": "3400"
+      },
+      {
+        "audio": "media/decks/100_10000/3500.mp3",
+        "japanese": "3500",
+        "english": "3500",
+        "furigana": "3500",
+        "kana": "3500",
+        "answer": "3500"
+      },
+      {
+        "audio": "media/decks/100_10000/3600.mp3",
+        "japanese": "3600",
+        "english": "3600",
+        "furigana": "3600",
+        "kana": "3600",
+        "answer": "3600"
+      },
+      {
+        "audio": "media/decks/100_10000/3700.mp3",
+        "japanese": "3700",
+        "english": "3700",
+        "furigana": "3700",
+        "kana": "3700",
+        "answer": "3700"
+      },
+      {
+        "audio": "media/decks/100_10000/3800.mp3",
+        "japanese": "3800",
+        "english": "3800",
+        "furigana": "3800",
+        "kana": "3800",
+        "answer": "3800"
+      },
+      {
+        "audio": "media/decks/100_10000/3900.mp3",
+        "japanese": "3900",
+        "english": "3900",
+        "furigana": "3900",
+        "kana": "3900",
+        "answer": "3900"
+      },
+      {
+        "audio": "media/decks/100_10000/4000.mp3",
+        "japanese": "4000",
+        "english": "4000",
+        "furigana": "4000",
+        "kana": "4000",
+        "answer": "4000"
+      },
+      {
+        "audio": "media/decks/100_10000/4100.mp3",
+        "japanese": "4100",
+        "english": "4100",
+        "furigana": "4100",
+        "kana": "4100",
+        "answer": "4100"
+      },
+      {
+        "audio": "media/decks/100_10000/4200.mp3",
+        "japanese": "4200",
+        "english": "4200",
+        "furigana": "4200",
+        "kana": "4200",
+        "answer": "4200"
+      },
+      {
+        "audio": "media/decks/100_10000/4300.mp3",
+        "japanese": "4300",
+        "english": "4300",
+        "furigana": "4300",
+        "kana": "4300",
+        "answer": "4300"
+      },
+      {
+        "audio": "media/decks/100_10000/4400.mp3",
+        "japanese": "4400",
+        "english": "4400",
+        "furigana": "4400",
+        "kana": "4400",
+        "answer": "4400"
+      },
+      {
+        "audio": "media/decks/100_10000/4500.mp3",
+        "japanese": "4500",
+        "english": "4500",
+        "furigana": "4500",
+        "kana": "4500",
+        "answer": "4500"
+      },
+      {
+        "audio": "media/decks/100_10000/4600.mp3",
+        "japanese": "4600",
+        "english": "4600",
+        "furigana": "4600",
+        "kana": "4600",
+        "answer": "4600"
+      },
+      {
+        "audio": "media/decks/100_10000/4700.mp3",
+        "japanese": "4700",
+        "english": "4700",
+        "furigana": "4700",
+        "kana": "4700",
+        "answer": "4700"
+      },
+      {
+        "audio": "media/decks/100_10000/4800.mp3",
+        "japanese": "4800",
+        "english": "4800",
+        "furigana": "4800",
+        "kana": "4800",
+        "answer": "4800"
+      },
+      {
+        "audio": "media/decks/100_10000/4900.mp3",
+        "japanese": "4900",
+        "english": "4900",
+        "furigana": "4900",
+        "kana": "4900",
+        "answer": "4900"
+      },
+      {
+        "audio": "media/decks/100_10000/5000.mp3",
+        "japanese": "5000",
+        "english": "5000",
+        "furigana": "5000",
+        "kana": "5000",
+        "answer": "5000"
+      },
+      {
+        "audio": "media/decks/100_10000/5100.mp3",
+        "japanese": "5100",
+        "english": "5100",
+        "furigana": "5100",
+        "kana": "5100",
+        "answer": "5100"
+      },
+      {
+        "audio": "media/decks/100_10000/5200.mp3",
+        "japanese": "5200",
+        "english": "5200",
+        "furigana": "5200",
+        "kana": "5200",
+        "answer": "5200"
+      },
+      {
+        "audio": "media/decks/100_10000/5300.mp3",
+        "japanese": "5300",
+        "english": "5300",
+        "furigana": "5300",
+        "kana": "5300",
+        "answer": "5300"
+      },
+      {
+        "audio": "media/decks/100_10000/5400.mp3",
+        "japanese": "5400",
+        "english": "5400",
+        "furigana": "5400",
+        "kana": "5400",
+        "answer": "5400"
+      },
+      {
+        "audio": "media/decks/100_10000/5500.mp3",
+        "japanese": "5500",
+        "english": "5500",
+        "furigana": "5500",
+        "kana": "5500",
+        "answer": "5500"
+      },
+      {
+        "audio": "media/decks/100_10000/5600.mp3",
+        "japanese": "5600",
+        "english": "5600",
+        "furigana": "5600",
+        "kana": "5600",
+        "answer": "5600"
+      },
+      {
+        "audio": "media/decks/100_10000/5700.mp3",
+        "japanese": "5700",
+        "english": "5700",
+        "furigana": "5700",
+        "kana": "5700",
+        "answer": "5700"
+      },
+      {
+        "audio": "media/decks/100_10000/5800.mp3",
+        "japanese": "5800",
+        "english": "5800",
+        "furigana": "5800",
+        "kana": "5800",
+        "answer": "5800"
+      },
+      {
+        "audio": "media/decks/100_10000/5900.mp3",
+        "japanese": "5900",
+        "english": "5900",
+        "furigana": "5900",
+        "kana": "5900",
+        "answer": "5900"
+      },
+      {
+        "audio": "media/decks/100_10000/6000.mp3",
+        "japanese": "6000",
+        "english": "6000",
+        "furigana": "6000",
+        "kana": "6000",
+        "answer": "6000"
+      },
+      {
+        "audio": "media/decks/100_10000/6100.mp3",
+        "japanese": "6100",
+        "english": "6100",
+        "furigana": "6100",
+        "kana": "6100",
+        "answer": "6100"
+      },
+      {
+        "audio": "media/decks/100_10000/6200.mp3",
+        "japanese": "6200",
+        "english": "6200",
+        "furigana": "6200",
+        "kana": "6200",
+        "answer": "6200"
+      },
+      {
+        "audio": "media/decks/100_10000/6300.mp3",
+        "japanese": "6300",
+        "english": "6300",
+        "furigana": "6300",
+        "kana": "6300",
+        "answer": "6300"
+      },
+      {
+        "audio": "media/decks/100_10000/6400.mp3",
+        "japanese": "6400",
+        "english": "6400",
+        "furigana": "6400",
+        "kana": "6400",
+        "answer": "6400"
+      },
+      {
+        "audio": "media/decks/100_10000/6500.mp3",
+        "japanese": "6500",
+        "english": "6500",
+        "furigana": "6500",
+        "kana": "6500",
+        "answer": "6500"
+      },
+      {
+        "audio": "media/decks/100_10000/6600.mp3",
+        "japanese": "6600",
+        "english": "6600",
+        "furigana": "6600",
+        "kana": "6600",
+        "answer": "6600"
+      },
+      {
+        "audio": "media/decks/100_10000/6700.mp3",
+        "japanese": "6700",
+        "english": "6700",
+        "furigana": "6700",
+        "kana": "6700",
+        "answer": "6700"
+      },
+      {
+        "audio": "media/decks/100_10000/6800.mp3",
+        "japanese": "6800",
+        "english": "6800",
+        "furigana": "6800",
+        "kana": "6800",
+        "answer": "6800"
+      },
+      {
+        "audio": "media/decks/100_10000/6900.mp3",
+        "japanese": "6900",
+        "english": "6900",
+        "furigana": "6900",
+        "kana": "6900",
+        "answer": "6900"
+      },
+      {
+        "audio": "media/decks/100_10000/7000.mp3",
+        "japanese": "7000",
+        "english": "7000",
+        "furigana": "7000",
+        "kana": "7000",
+        "answer": "7000"
+      },
+      {
+        "audio": "media/decks/100_10000/7100.mp3",
+        "japanese": "7100",
+        "english": "7100",
+        "furigana": "7100",
+        "kana": "7100",
+        "answer": "7100"
+      },
+      {
+        "audio": "media/decks/100_10000/7200.mp3",
+        "japanese": "7200",
+        "english": "7200",
+        "furigana": "7200",
+        "kana": "7200",
+        "answer": "7200"
+      },
+      {
+        "audio": "media/decks/100_10000/7300.mp3",
+        "japanese": "7300",
+        "english": "7300",
+        "furigana": "7300",
+        "kana": "7300",
+        "answer": "7300"
+      },
+      {
+        "audio": "media/decks/100_10000/7400.mp3",
+        "japanese": "7400",
+        "english": "7400",
+        "furigana": "7400",
+        "kana": "7400",
+        "answer": "7400"
+      },
+      {
+        "audio": "media/decks/100_10000/7500.mp3",
+        "japanese": "7500",
+        "english": "7500",
+        "furigana": "7500",
+        "kana": "7500",
+        "answer": "7500"
+      },
+      {
+        "audio": "media/decks/100_10000/7600.mp3",
+        "japanese": "7600",
+        "english": "7600",
+        "furigana": "7600",
+        "kana": "7600",
+        "answer": "7600"
+      },
+      {
+        "audio": "media/decks/100_10000/7700.mp3",
+        "japanese": "7700",
+        "english": "7700",
+        "furigana": "7700",
+        "kana": "7700",
+        "answer": "7700"
+      },
+      {
+        "audio": "media/decks/100_10000/7800.mp3",
+        "japanese": "7800",
+        "english": "7800",
+        "furigana": "7800",
+        "kana": "7800",
+        "answer": "7800"
+      },
+      {
+        "audio": "media/decks/100_10000/7900.mp3",
+        "japanese": "7900",
+        "english": "7900",
+        "furigana": "7900",
+        "kana": "7900",
+        "answer": "7900"
+      },
+      {
+        "audio": "media/decks/100_10000/8000.mp3",
+        "japanese": "8000",
+        "english": "8000",
+        "furigana": "8000",
+        "kana": "8000",
+        "answer": "8000"
+      },
+      {
+        "audio": "media/decks/100_10000/8100.mp3",
+        "japanese": "8100",
+        "english": "8100",
+        "furigana": "8100",
+        "kana": "8100",
+        "answer": "8100"
+      },
+      {
+        "audio": "media/decks/100_10000/8200.mp3",
+        "japanese": "8200",
+        "english": "8200",
+        "furigana": "8200",
+        "kana": "8200",
+        "answer": "8200"
+      },
+      {
+        "audio": "media/decks/100_10000/8300.mp3",
+        "japanese": "8300",
+        "english": "8300",
+        "furigana": "8300",
+        "kana": "8300",
+        "answer": "8300"
+      },
+      {
+        "audio": "media/decks/100_10000/8400.mp3",
+        "japanese": "8400",
+        "english": "8400",
+        "furigana": "8400",
+        "kana": "8400",
+        "answer": "8400"
+      },
+      {
+        "audio": "media/decks/100_10000/8500.mp3",
+        "japanese": "8500",
+        "english": "8500",
+        "furigana": "8500",
+        "kana": "8500",
+        "answer": "8500"
+      },
+      {
+        "audio": "media/decks/100_10000/8600.mp3",
+        "japanese": "8600",
+        "english": "8600",
+        "furigana": "8600",
+        "kana": "8600",
+        "answer": "8600"
+      },
+      {
+        "audio": "media/decks/100_10000/8700.mp3",
+        "japanese": "8700",
+        "english": "8700",
+        "furigana": "8700",
+        "kana": "8700",
+        "answer": "8700"
+      },
+      {
+        "audio": "media/decks/100_10000/8800.mp3",
+        "japanese": "8800",
+        "english": "8800",
+        "furigana": "8800",
+        "kana": "8800",
+        "answer": "8800"
+      },
+      {
+        "audio": "media/decks/100_10000/8900.mp3",
+        "japanese": "8900",
+        "english": "8900",
+        "furigana": "8900",
+        "kana": "8900",
+        "answer": "8900"
+      },
+      {
+        "audio": "media/decks/100_10000/9000.mp3",
+        "japanese": "9000",
+        "english": "9000",
+        "furigana": "9000",
+        "kana": "9000",
+        "answer": "9000"
+      },
+      {
+        "audio": "media/decks/100_10000/9100.mp3",
+        "japanese": "9100",
+        "english": "9100",
+        "furigana": "9100",
+        "kana": "9100",
+        "answer": "9100"
+      },
+      {
+        "audio": "media/decks/100_10000/9200.mp3",
+        "japanese": "9200",
+        "english": "9200",
+        "furigana": "9200",
+        "kana": "9200",
+        "answer": "9200"
+      },
+      {
+        "audio": "media/decks/100_10000/9300.mp3",
+        "japanese": "9300",
+        "english": "9300",
+        "furigana": "9300",
+        "kana": "9300",
+        "answer": "9300"
+      },
+      {
+        "audio": "media/decks/100_10000/9400.mp3",
+        "japanese": "9400",
+        "english": "9400",
+        "furigana": "9400",
+        "kana": "9400",
+        "answer": "9400"
+      },
+      {
+        "audio": "media/decks/100_10000/9500.mp3",
+        "japanese": "9500",
+        "english": "9500",
+        "furigana": "9500",
+        "kana": "9500",
+        "answer": "9500"
+      },
+      {
+        "audio": "media/decks/100_10000/9600.mp3",
+        "japanese": "9600",
+        "english": "9600",
+        "furigana": "9600",
+        "kana": "9600",
+        "answer": "9600"
+      },
+      {
+        "audio": "media/decks/100_10000/9700.mp3",
+        "japanese": "9700",
+        "english": "9700",
+        "furigana": "9700",
+        "kana": "9700",
+        "answer": "9700"
+      },
+      {
+        "audio": "media/decks/100_10000/9800.mp3",
+        "japanese": "9800",
+        "english": "9800",
+        "furigana": "9800",
+        "kana": "9800",
+        "answer": "9800"
+      },
+      {
+        "audio": "media/decks/100_10000/9900.mp3",
+        "japanese": "9900",
+        "english": "9900",
+        "furigana": "9900",
+        "kana": "9900",
+        "answer": "9900"
+      },
+      {
+        "audio": "media/decks/100_10000/10000.mp3",
+        "japanese": "10000",
+        "english": "10000",
+        "furigana": "10000",
+        "kana": "10000",
+        "answer": "10000"
+      }
+    ]
+  },
   "yukie": {
     "config": {
       "file_path": "decks/yukie_vocab_2.csv",
