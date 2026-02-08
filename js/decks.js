@@ -1,5 +1,5 @@
 /*
-<option value="1-100">1-100 (100)</option><option value="100-10000">100-10000 (100)</option><option value="1000minus">1000minus (1000)</option><option value="yukie">yukie (1086)</option>
+<option value="1-100">1-100 (100)</option><option value="100-10000">100-10000 (100)</option><option value="1000minus">1000minus (1000)</option><option value="yukie">yukie (1086)</option><option value="kaishi15k">kaishi15k (1500)</option>
 */
 var decks = {
   "1-100": {
@@ -17245,6 +17245,10517 @@ var decks = {
         "furigana": "うけつけ",
         "kana": "うけつけ",
         "answer": "うけつけ"
+      }
+    ]
+  },
+  "kaishi15k": {
+    "config": {
+      "file_path": "decks/kaishi15k.csv",
+      "stroke_order_font": false,
+      "focus_input": true,
+      "prompt": "japanese",
+      "delimiter": ","
+    },
+    "cards": [
+      {
+        "japanese": "私",
+        "english": "I (polite, general)",
+        "furigana": "私[わたし]",
+        "kana": "わたし",
+        "answer": "わたし"
+      },
+      {
+        "japanese": "あなた",
+        "english": "you (usually when one doesn't know the person)",
+        "furigana": "あなた",
+        "kana": "あなた",
+        "answer": "あなた"
+      },
+      {
+        "japanese": "さん",
+        "english": "san",
+        "furigana": "さん",
+        "kana": "さん",
+        "answer": "さん"
+      },
+      {
+        "japanese": "彼",
+        "english": "he, him",
+        "furigana": "彼[かれ]",
+        "kana": "かれ",
+        "answer": "かれ"
+      },
+      {
+        "japanese": "好き",
+        "english": "like, fond of",
+        "furigana": "好[す]き",
+        "kana": "すき",
+        "answer": "すき"
+      },
+      {
+        "japanese": "人",
+        "english": "person",
+        "furigana": "人[ひと]",
+        "kana": "ひと",
+        "answer": "ひと"
+      },
+      {
+        "japanese": "いい",
+        "english": "good",
+        "furigana": "いい",
+        "kana": "いい",
+        "answer": "いい"
+      },
+      {
+        "japanese": "人",
+        "english": "person from (nationality)",
+        "furigana": "人[じん]",
+        "kana": "じん",
+        "answer": "じん"
+      },
+      {
+        "japanese": "日本語",
+        "english": "Japanese language",
+        "furigana": "日本[にほん] 語[ご]",
+        "kana": "にほんご",
+        "answer": "にほんご"
+      },
+      {
+        "japanese": "勉強",
+        "english": "study",
+        "furigana": "勉[べん] 強[きょう]",
+        "kana": "べんきょう",
+        "answer": "べんきょう"
+      },
+      {
+        "japanese": "本",
+        "english": "book",
+        "furigana": "本[ほん]",
+        "kana": "ほん",
+        "answer": "ほん"
+      },
+      {
+        "japanese": "これ",
+        "english": "this",
+        "furigana": "これ",
+        "kana": "これ",
+        "answer": "これ"
+      },
+      {
+        "japanese": "何",
+        "english": "what",
+        "furigana": "何[なに]",
+        "kana": "なに・なん",
+        "answer": "なに"
+      },
+      {
+        "japanese": "それ",
+        "english": "that",
+        "furigana": "それ",
+        "kana": "それ",
+        "answer": "それ"
+      },
+      {
+        "japanese": "あれ",
+        "english": "that over there",
+        "furigana": "あれ",
+        "kana": "あれ",
+        "answer": "あれ"
+      },
+      {
+        "japanese": "どれ",
+        "english": "which, what",
+        "furigana": "どれ",
+        "kana": "どれ",
+        "answer": "どれ"
+      },
+      {
+        "japanese": "毎日",
+        "english": "every day",
+        "furigana": "毎[まい] 日[にち]",
+        "kana": "まいにち",
+        "answer": "まいにち"
+      },
+      {
+        "japanese": "兄",
+        "english": "older brother",
+        "furigana": "兄[あに]",
+        "kana": "あに",
+        "answer": "あに"
+      },
+      {
+        "japanese": "いる",
+        "english": "have, exist (animate)",
+        "furigana": "いる",
+        "kana": "いる",
+        "answer": "いる"
+      },
+      {
+        "japanese": "ある",
+        "english": "have, exist (inanimate)",
+        "furigana": "ある",
+        "kana": "ある",
+        "answer": "ある"
+      },
+      {
+        "japanese": "あまり",
+        "english": "(not) very, (not) much",
+        "furigana": "あまり",
+        "kana": "あまり",
+        "answer": "あまり"
+      },
+      {
+        "japanese": "今",
+        "english": "now",
+        "furigana": "今[いま]",
+        "kana": "いま",
+        "answer": "いま"
+      },
+      {
+        "japanese": "時間",
+        "english": "time, hour",
+        "furigana": "時[じ] 間[かん]",
+        "kana": "じかん",
+        "answer": "じかん"
+      },
+      {
+        "japanese": "無い",
+        "english": "to not be",
+        "furigana": "無[な]い",
+        "kana": "ない",
+        "answer": "ない"
+      },
+      {
+        "japanese": "この",
+        "english": "this one",
+        "furigana": "この",
+        "kana": "この",
+        "answer": "この"
+      },
+      {
+        "japanese": "その",
+        "english": "that one",
+        "furigana": "その",
+        "kana": "その",
+        "answer": "その"
+      },
+      {
+        "japanese": "あの",
+        "english": "that one there",
+        "furigana": "あの",
+        "kana": "あの",
+        "answer": "あの"
+      },
+      {
+        "japanese": "どの",
+        "english": "which one",
+        "furigana": "どの",
+        "kana": "どの",
+        "answer": "どの"
+      },
+      {
+        "japanese": "見る",
+        "english": "see, look at",
+        "furigana": "見[み]る",
+        "kana": "みる",
+        "answer": "みる"
+      },
+      {
+        "japanese": "全然",
+        "english": "(not) at all",
+        "furigana": "全[ぜん] 然[ぜん]",
+        "kana": "ぜんぜん",
+        "answer": "ぜんぜん"
+      },
+      {
+        "japanese": "面白い",
+        "english": "interesting, amusing",
+        "furigana": "面[おも] 白[しろ]い",
+        "kana": "おもしろい",
+        "answer": "おもしろい"
+      },
+      {
+        "japanese": "する",
+        "english": "do, make",
+        "furigana": "する",
+        "kana": "する",
+        "answer": "する"
+      },
+      {
+        "japanese": "なる",
+        "english": "become, result in, come (to do)",
+        "furigana": "なる",
+        "kana": "なる",
+        "answer": "なる"
+      },
+      {
+        "japanese": "先生",
+        "english": "teacher",
+        "furigana": "先[せん] 生[せい]",
+        "kana": "せんせい",
+        "answer": "せんせい"
+      },
+      {
+        "japanese": "ください",
+        "english": "please give..., please do...",
+        "furigana": "ください",
+        "kana": "ください",
+        "answer": "ください"
+      },
+      {
+        "japanese": "名前",
+        "english": "name",
+        "furigana": "名[な] 前[まえ]",
+        "kana": "なまえ",
+        "answer": "なまえ"
+      },
+      {
+        "japanese": "教える",
+        "english": "teach, tell",
+        "furigana": "教[おし]える",
+        "kana": "おしえる",
+        "answer": "おしえる"
+      },
+      {
+        "japanese": "ここ",
+        "english": "here",
+        "furigana": "ここ",
+        "kana": "ここ",
+        "answer": "ここ"
+      },
+      {
+        "japanese": "そこ",
+        "english": "there",
+        "furigana": "そこ",
+        "kana": "そこ",
+        "answer": "そこ"
+      },
+      {
+        "japanese": "あそこ",
+        "english": "over there",
+        "furigana": "あそこ",
+        "kana": "あそこ",
+        "answer": "あそこ"
+      },
+      {
+        "japanese": "どこ",
+        "english": "where",
+        "furigana": "どこ",
+        "kana": "どこ",
+        "answer": "どこ"
+      },
+      {
+        "japanese": "置く",
+        "english": "put, place",
+        "furigana": "置[お]く",
+        "kana": "おく",
+        "answer": "おく"
+      },
+      {
+        "japanese": "家",
+        "english": "house, home",
+        "furigana": "家[いえ]",
+        "kana": "いえ",
+        "answer": "いえ"
+      },
+      {
+        "japanese": "帰る",
+        "english": "return, go back",
+        "furigana": "帰[かえ]る",
+        "kana": "かえる",
+        "answer": "かえる"
+      },
+      {
+        "japanese": "話",
+        "english": "talk, story",
+        "furigana": "話[はなし]",
+        "kana": "はなし",
+        "answer": "はなし"
+      },
+      {
+        "japanese": "知る",
+        "english": "know",
+        "furigana": "知[し]る",
+        "kana": "しる",
+        "answer": "しる"
+      },
+      {
+        "japanese": "彼女",
+        "english": "she, her, girlfriend",
+        "furigana": "彼[かの] 女[じょ]",
+        "kana": "かのじょ",
+        "answer": "かのじょ"
+      },
+      {
+        "japanese": "ちゃん",
+        "english": "chan",
+        "furigana": "ちゃん",
+        "kana": "ちゃん",
+        "answer": "ちゃん"
+      },
+      {
+        "japanese": "はい",
+        "english": "yes (polite)",
+        "furigana": "はい",
+        "kana": "はい",
+        "answer": "はい"
+      },
+      {
+        "japanese": "いいえ",
+        "english": "no (polite)",
+        "furigana": "いいえ",
+        "kana": "いいえ",
+        "answer": "いいえ"
+      },
+      {
+        "japanese": "日本",
+        "english": "Japan",
+        "furigana": "日本[にほん]",
+        "kana": "にほん",
+        "answer": "にほん"
+      },
+      {
+        "japanese": "学校",
+        "english": "school",
+        "furigana": "学[がっ] 校[こう]",
+        "kana": "がっこう",
+        "answer": "がっこう"
+      },
+      {
+        "japanese": "行く",
+        "english": "go",
+        "furigana": "行[い]く",
+        "kana": "いく",
+        "answer": "いく"
+      },
+      {
+        "japanese": "明日",
+        "english": "tomorrow",
+        "furigana": "明日[あした]",
+        "kana": "あした",
+        "answer": "あした"
+      },
+      {
+        "japanese": "来る",
+        "english": "come",
+        "furigana": "来[く]る",
+        "kana": "くる",
+        "answer": "くる"
+      },
+      {
+        "japanese": "また",
+        "english": "again, also",
+        "furigana": "また",
+        "kana": "また",
+        "answer": "また"
+      },
+      {
+        "japanese": "いつ",
+        "english": "when",
+        "furigana": "いつ",
+        "kana": "いつ",
+        "answer": "いつ"
+      },
+      {
+        "japanese": "思う",
+        "english": "think",
+        "furigana": "思[おも]う",
+        "kana": "おもう",
+        "answer": "おもう"
+      },
+      {
+        "japanese": "こう",
+        "english": "like this, this kind of",
+        "furigana": "こう",
+        "kana": "こう",
+        "answer": "こう"
+      },
+      {
+        "japanese": "そう",
+        "english": "in such manner, that way",
+        "furigana": "そう",
+        "kana": "そう",
+        "answer": "そう"
+      },
+      {
+        "japanese": "どう",
+        "english": "how, what",
+        "furigana": "どう",
+        "kana": "どう",
+        "answer": "どう"
+      },
+      {
+        "japanese": "会う",
+        "english": "meet",
+        "furigana": "会[あ]う",
+        "kana": "あう",
+        "answer": "あう"
+      },
+      {
+        "japanese": "次",
+        "english": "next, subsequent",
+        "furigana": "次[つぎ]",
+        "kana": "つぎ",
+        "answer": "つぎ"
+      },
+      {
+        "japanese": "方",
+        "english": "direction, side",
+        "furigana": "方[ほう]",
+        "kana": "ほう",
+        "answer": "ほう"
+      },
+      {
+        "japanese": "方",
+        "english": "person (polite form)",
+        "furigana": "方[かた]",
+        "kana": "かた",
+        "answer": "かた"
+      },
+      {
+        "japanese": "聞く",
+        "english": "hear",
+        "furigana": "聞[き]く",
+        "kana": "きく",
+        "answer": "きく"
+      },
+      {
+        "japanese": "聞く",
+        "english": "ask",
+        "furigana": "聞[き]く",
+        "kana": "きく",
+        "answer": "きく"
+      },
+      {
+        "japanese": "お願いします",
+        "english": "please",
+        "furigana": "お 願[ねが]いします",
+        "kana": "おねがいします",
+        "answer": "おねがいします"
+      },
+      {
+        "japanese": "分かる",
+        "english": "understand",
+        "furigana": "分[わ]かる",
+        "kana": "わかる",
+        "answer": "わかる"
+      },
+      {
+        "japanese": "よく",
+        "english": "well",
+        "furigana": "よく",
+        "kana": "よく",
+        "answer": "よく"
+      },
+      {
+        "japanese": "よく",
+        "english": "often",
+        "furigana": "よく",
+        "kana": "よく",
+        "answer": "よく"
+      },
+      {
+        "japanese": "考える",
+        "english": "think, consider",
+        "furigana": "考[かんが]える",
+        "kana": "かんがえる",
+        "answer": "かんがえる"
+      },
+      {
+        "japanese": "ありがとうございます",
+        "english": "thank you (formal)",
+        "furigana": "ありがとうございます",
+        "kana": "ありがとうございます",
+        "answer": "ありがとうございます"
+      },
+      {
+        "japanese": "話す",
+        "english": "talk, speak",
+        "furigana": "話[はな]す",
+        "kana": "はなす",
+        "answer": "はなす"
+      },
+      {
+        "japanese": "もっと",
+        "english": "more, a bit more",
+        "furigana": "もっと",
+        "kana": "もっと",
+        "answer": "もっと"
+      },
+      {
+        "japanese": "ゆっくり",
+        "english": "slowly",
+        "furigana": "ゆっくり",
+        "kana": "ゆっくり",
+        "answer": "ゆっくり"
+      },
+      {
+        "japanese": "言う",
+        "english": "say",
+        "furigana": "言[い]う",
+        "kana": "いう",
+        "answer": "いう"
+      },
+      {
+        "japanese": "友達",
+        "english": "friend, companion",
+        "furigana": "友[とも] 達[だち]",
+        "kana": "ともだち",
+        "answer": "ともだち"
+      },
+      {
+        "japanese": "待つ",
+        "english": "wait",
+        "furigana": "待[ま]つ",
+        "kana": "まつ",
+        "answer": "まつ"
+      },
+      {
+        "japanese": "昨日",
+        "english": "yesterday",
+        "furigana": "昨日[きのう]",
+        "kana": "きのう",
+        "answer": "きのう"
+      },
+      {
+        "japanese": "町",
+        "english": "town, city",
+        "furigana": "町[まち]",
+        "kana": "まち",
+        "answer": "まち"
+      },
+      {
+        "japanese": "高い",
+        "english": "expensive",
+        "furigana": "高[たか]い",
+        "kana": "たかい",
+        "answer": "たかい"
+      },
+      {
+        "japanese": "高い",
+        "english": "high, tall",
+        "furigana": "高[たか]い",
+        "kana": "たかい",
+        "answer": "たかい"
+      },
+      {
+        "japanese": "一番",
+        "english": "(the) most",
+        "furigana": "一[いち] 番[ばん]",
+        "kana": "いちばん",
+        "answer": "いちばん"
+      },
+      {
+        "japanese": "ちょっと",
+        "english": "a little",
+        "furigana": "ちょっと",
+        "kana": "ちょっと",
+        "answer": "ちょっと"
+      },
+      {
+        "japanese": "もう",
+        "english": "already, yet",
+        "furigana": "もう",
+        "kana": "もう",
+        "answer": "もう"
+      },
+      {
+        "japanese": "もう",
+        "english": "another, again",
+        "furigana": "もう",
+        "kana": "もう",
+        "answer": "もう"
+      },
+      {
+        "japanese": "父",
+        "english": "(speaker's) father",
+        "furigana": "父[ちち]",
+        "kana": "ちち",
+        "answer": "ちち"
+      },
+      {
+        "japanese": "大好き",
+        "english": "love",
+        "furigana": "大[だい] 好[す]き",
+        "kana": "だいすき",
+        "answer": "だいすき"
+      },
+      {
+        "japanese": "母",
+        "english": "(speaker's) mother",
+        "furigana": "母[はは]",
+        "kana": "はは",
+        "answer": "はは"
+      },
+      {
+        "japanese": "あげる",
+        "english": "give (receiver is not in the speaker's group)",
+        "furigana": "あげる",
+        "kana": "あげる",
+        "answer": "あげる"
+      },
+      {
+        "japanese": "くれる",
+        "english": "give (receiver is in the speaker's group)",
+        "furigana": "くれる",
+        "kana": "くれる",
+        "answer": "くれる"
+      },
+      {
+        "japanese": "もらう",
+        "english": "receive",
+        "furigana": "もらう",
+        "kana": "もらう",
+        "answer": "もらう"
+      },
+      {
+        "japanese": "物",
+        "english": "thing, object",
+        "furigana": "物[もの]",
+        "kana": "もの",
+        "answer": "もの"
+      },
+      {
+        "japanese": "君",
+        "english": "you (to someone of equal or lower status)",
+        "furigana": "君[きみ]",
+        "kana": "きみ",
+        "answer": "きみ"
+      },
+      {
+        "japanese": "中",
+        "english": "inside, middle",
+        "furigana": "中[なか]",
+        "kana": "なか",
+        "answer": "なか"
+      },
+      {
+        "japanese": "出来る",
+        "english": "can do, be good at",
+        "furigana": "出[で] 来[き]る",
+        "kana": "できる",
+        "answer": "できる"
+      },
+      {
+        "japanese": "本当",
+        "english": "truth, reality",
+        "furigana": "本[ほん] 当[とう]",
+        "kana": "ほんとう",
+        "answer": "ほんとう"
+      },
+      {
+        "japanese": "立つ",
+        "english": "stand, rise",
+        "furigana": "立[た]つ",
+        "kana": "たつ",
+        "answer": "たつ"
+      },
+      {
+        "japanese": "前",
+        "english": "front, before",
+        "furigana": "前[まえ]",
+        "kana": "まえ",
+        "answer": "まえ"
+      },
+      {
+        "japanese": "入る",
+        "english": "enter",
+        "furigana": "入[はい]る",
+        "kana": "はいる",
+        "answer": "はいる"
+      },
+      {
+        "japanese": "家族",
+        "english": "family",
+        "furigana": "家[か] 族[ぞく]",
+        "kana": "かぞく",
+        "answer": "かぞく"
+      },
+      {
+        "japanese": "住む",
+        "english": "live, reside",
+        "furigana": "住[す]む",
+        "kana": "すむ",
+        "answer": "すむ"
+      },
+      {
+        "japanese": "大きな",
+        "english": "big, large",
+        "furigana": "大[おお]きな",
+        "kana": "おおきな",
+        "answer": "おおきな"
+      },
+      {
+        "japanese": "大きい",
+        "english": "big, large",
+        "furigana": "大[おお]きい",
+        "kana": "おおきい",
+        "answer": "おおきい"
+      },
+      {
+        "japanese": "声",
+        "english": "voice, sound",
+        "furigana": "声[こえ]",
+        "kana": "こえ",
+        "answer": "こえ"
+      },
+      {
+        "japanese": "目",
+        "english": "eye",
+        "furigana": "目[め]",
+        "kana": "め",
+        "answer": "め"
+      },
+      {
+        "japanese": "手",
+        "english": "hand",
+        "furigana": "手[て]",
+        "kana": "て",
+        "answer": "て"
+      },
+      {
+        "japanese": "上げる",
+        "english": "raise, increase",
+        "furigana": "上[あ]げる",
+        "kana": "あげる",
+        "answer": "あげる"
+      },
+      {
+        "japanese": "嫌い",
+        "english": "dislike",
+        "furigana": "嫌[きら]い",
+        "kana": "きらい",
+        "answer": "きらい"
+      },
+      {
+        "japanese": "おじいさん",
+        "english": "grandfather",
+        "furigana": "おじいさん",
+        "kana": "おじいさん",
+        "answer": "おじいさん"
+      },
+      {
+        "japanese": "おばあさん",
+        "english": "grandmother",
+        "furigana": "おばあさん",
+        "kana": "おばあさん",
+        "answer": "おばあさん"
+      },
+      {
+        "japanese": "元気",
+        "english": "energetic, healthy",
+        "furigana": "元[げん] 気[き]",
+        "kana": "げんき",
+        "answer": "げんき"
+      },
+      {
+        "japanese": "いつも",
+        "english": "always, usually",
+        "furigana": "いつも",
+        "kana": "いつも",
+        "answer": "いつも"
+      },
+      {
+        "japanese": "持つ",
+        "english": "have, hold",
+        "furigana": "持[も]つ",
+        "kana": "もつ",
+        "answer": "もつ"
+      },
+      {
+        "japanese": "みんな",
+        "english": "all, everybody",
+        "furigana": "みんな",
+        "kana": "みんな",
+        "answer": "みんな"
+      },
+      {
+        "japanese": "使う",
+        "english": "use",
+        "furigana": "使[つか]う",
+        "kana": "つかう",
+        "answer": "つかう"
+      },
+      {
+        "japanese": "大丈夫",
+        "english": "alright, OK",
+        "furigana": "大[だい] 丈[じょう] 夫[ぶ]",
+        "kana": "だいじょうぶ",
+        "answer": "だいじょうぶ"
+      },
+      {
+        "japanese": "始める",
+        "english": "start",
+        "furigana": "始[はじ]める",
+        "kana": "はじめる",
+        "answer": "はじめる"
+      },
+      {
+        "japanese": "今日",
+        "english": "today",
+        "furigana": "今日[きょう]",
+        "kana": "きょう",
+        "answer": "きょう"
+      },
+      {
+        "japanese": "部屋",
+        "english": "room",
+        "furigana": "部屋[へや]",
+        "kana": "へや",
+        "answer": "へや"
+      },
+      {
+        "japanese": "悪い",
+        "english": "bad",
+        "furigana": "悪[わる]い",
+        "kana": "わるい",
+        "answer": "わるい"
+      },
+      {
+        "japanese": "まあ",
+        "english": "well...",
+        "furigana": "まあ",
+        "kana": "まあ",
+        "answer": "まあ"
+      },
+      {
+        "japanese": "食べる",
+        "english": "eat",
+        "furigana": "食[た]べる",
+        "kana": "たべる",
+        "answer": "たべる"
+      },
+      {
+        "japanese": "沢山",
+        "english": "a lot, plenty",
+        "furigana": "沢[たく] 山[さん]",
+        "kana": "たくさん",
+        "answer": "たくさん"
+      },
+      {
+        "japanese": "場所",
+        "english": "place, location",
+        "furigana": "場[ば] 所[しょ]",
+        "kana": "ばしょ",
+        "answer": "ばしょ"
+      },
+      {
+        "japanese": "呼ぶ",
+        "english": "call, name",
+        "furigana": "呼[よ]ぶ",
+        "kana": "よぶ",
+        "answer": "よぶ"
+      },
+      {
+        "japanese": "動く",
+        "english": "move",
+        "furigana": "動[うご]く",
+        "kana": "うごく",
+        "answer": "うごく"
+      },
+      {
+        "japanese": "気持ち",
+        "english": "feeling, sensation",
+        "furigana": "気[き] 持[も]ち",
+        "kana": "きもち",
+        "answer": "きもち"
+      },
+      {
+        "japanese": "誰",
+        "english": "who",
+        "furigana": "誰[だれ]",
+        "kana": "だれ",
+        "answer": "だれ"
+      },
+      {
+        "japanese": "子",
+        "english": "child, kid",
+        "furigana": "子[こ]",
+        "kana": "こ",
+        "answer": "こ"
+      },
+      {
+        "japanese": "どんな",
+        "english": "what kind of...",
+        "furigana": "どんな",
+        "kana": "どんな",
+        "answer": "どんな"
+      },
+      {
+        "japanese": "意味",
+        "english": "meaning, significance",
+        "furigana": "意[い] 味[み]",
+        "kana": "いみ",
+        "answer": "いみ"
+      },
+      {
+        "japanese": "言葉",
+        "english": "word, language",
+        "furigana": "言[こと] 葉[ば]",
+        "kana": "ことば",
+        "answer": "ことば"
+      },
+      {
+        "japanese": "心配",
+        "english": "worry",
+        "furigana": "心[しん] 配[ぱい]",
+        "kana": "しんぱい",
+        "answer": "しんぱい"
+      },
+      {
+        "japanese": "様子",
+        "english": "appearance, state",
+        "furigana": "様[よう] 子[す]",
+        "kana": "ようす",
+        "answer": "ようす"
+      },
+      {
+        "japanese": "信じる",
+        "english": "believe, trust",
+        "furigana": "信[しん]じる",
+        "kana": "しんじる",
+        "answer": "しんじる"
+      },
+      {
+        "japanese": "自分",
+        "english": "self, oneself",
+        "furigana": "自[じ] 分[ぶん]",
+        "kana": "じぶん",
+        "answer": "じぶん"
+      },
+      {
+        "japanese": "調べる",
+        "english": "look up, search",
+        "furigana": "調[しら]べる",
+        "kana": "しらべる",
+        "answer": "しらべる"
+      },
+      {
+        "japanese": "事",
+        "english": "thing, incident",
+        "furigana": "事[こと]",
+        "kana": "こと",
+        "answer": "こと"
+      },
+      {
+        "japanese": "同じ",
+        "english": "same, identical",
+        "furigana": "同[おな]じ",
+        "kana": "おなじ",
+        "answer": "おなじ"
+      },
+      {
+        "japanese": "申し訳ない",
+        "english": "sorry, inexcusable",
+        "furigana": "申[もう]し 訳[わけ]ない",
+        "kana": "もうしわけない",
+        "answer": "もうしわけない"
+      },
+      {
+        "japanese": "もちろん",
+        "english": "of course, no doubt",
+        "furigana": "もちろん",
+        "kana": "もちろん",
+        "answer": "もちろん"
+      },
+      {
+        "japanese": "とても",
+        "english": "very",
+        "furigana": "とても",
+        "kana": "とても",
+        "answer": "とても"
+      },
+      {
+        "japanese": "楽しい",
+        "english": "fun, enjoyable",
+        "furigana": "楽[たの]しい",
+        "kana": "たのしい",
+        "answer": "たのしい"
+      },
+      {
+        "japanese": "失礼します",
+        "english": "pardon me, excuse me (e.g. when leaving)",
+        "furigana": "失[しつ] 礼[れい]します",
+        "kana": "しつれいします",
+        "answer": "しつれいします"
+      },
+      {
+        "japanese": "手伝う",
+        "english": "help",
+        "furigana": "手[て] 伝[つだ]う",
+        "kana": "てつだう",
+        "answer": "てつだう"
+      },
+      {
+        "japanese": "忙しい",
+        "english": "busy, occupied",
+        "furigana": "忙[いそが]しい",
+        "kana": "いそがしい",
+        "answer": "いそがしい"
+      },
+      {
+        "japanese": "仕事",
+        "english": "work, job",
+        "furigana": "仕[し] 事[ごと]",
+        "kana": "しごと",
+        "answer": "しごと"
+      },
+      {
+        "japanese": "続ける",
+        "english": "continue, keep up",
+        "furigana": "続[つづ]ける",
+        "kana": "つづける",
+        "answer": "つづける"
+      },
+      {
+        "japanese": "見せる",
+        "english": "show",
+        "furigana": "見[み]せる",
+        "kana": "みせる",
+        "answer": "みせる"
+      },
+      {
+        "japanese": "うち",
+        "english": "one's household",
+        "furigana": "うち",
+        "kana": "うち",
+        "answer": "うち"
+      },
+      {
+        "japanese": "約束",
+        "english": "promise, appointment",
+        "furigana": "約[やく] 束[そく]",
+        "kana": "やくそく",
+        "answer": "やくそく"
+      },
+      {
+        "japanese": "忘れる",
+        "english": "forget",
+        "furigana": "忘[わす]れる",
+        "kana": "わすれる",
+        "answer": "わすれる"
+      },
+      {
+        "japanese": "守る",
+        "english": "protect, observe",
+        "furigana": "守[まも]る",
+        "kana": "まもる",
+        "answer": "まもる"
+      },
+      {
+        "japanese": "変える",
+        "english": "change, alter",
+        "furigana": "変[か]える",
+        "kana": "かえる",
+        "answer": "かえる"
+      },
+      {
+        "japanese": "さっき",
+        "english": "(only) a moment ago",
+        "furigana": "さっき",
+        "kana": "さっき",
+        "answer": "さっき"
+      },
+      {
+        "japanese": "今度",
+        "english": "next time",
+        "furigana": "今[こん] 度[ど]",
+        "kana": "こんど",
+        "answer": "こんど"
+      },
+      {
+        "japanese": "これから",
+        "english": "from now on, after this",
+        "furigana": "これから",
+        "kana": "これから",
+        "answer": "これから"
+      },
+      {
+        "japanese": "止める",
+        "english": "stop (at some place)",
+        "furigana": "止[と]める",
+        "kana": "とめる",
+        "answer": "とめる"
+      },
+      {
+        "japanese": "止める",
+        "english": "stop (doing something)",
+        "furigana": "止[や]める",
+        "kana": "やめる",
+        "answer": "やめる"
+      },
+      {
+        "japanese": "頼む",
+        "english": "ask, request",
+        "furigana": "頼[たの]む",
+        "kana": "たのむ",
+        "answer": "たのむ"
+      },
+      {
+        "japanese": "許す",
+        "english": "forgive, permit",
+        "furigana": "許[ゆる]す",
+        "kana": "ゆるす",
+        "answer": "ゆるす"
+      },
+      {
+        "japanese": "嬉しい",
+        "english": "happy, glad",
+        "furigana": "嬉[うれ]しい",
+        "kana": "うれしい",
+        "answer": "うれしい"
+      },
+      {
+        "japanese": "頑張る",
+        "english": "persevere, do one's best",
+        "furigana": "頑[がん] 張[ば]る",
+        "kana": "がんばる",
+        "answer": "がんばる"
+      },
+      {
+        "japanese": "なるほど",
+        "english": "I see, really",
+        "furigana": "なるほど",
+        "kana": "なるほど",
+        "answer": "なるほど"
+      },
+      {
+        "japanese": "つまり",
+        "english": "in short, basically",
+        "furigana": "つまり",
+        "kana": "つまり",
+        "answer": "つまり"
+      },
+      {
+        "japanese": "国",
+        "english": "country",
+        "furigana": "国[くに]",
+        "kana": "くに",
+        "answer": "くに"
+      },
+      {
+        "japanese": "優しい",
+        "english": "gentle, kind",
+        "furigana": "優[やさ]しい",
+        "kana": "やさしい",
+        "answer": "やさしい"
+      },
+      {
+        "japanese": "嫌",
+        "english": "disliking, unwilling (to do)",
+        "furigana": "嫌[いや]",
+        "kana": "いや",
+        "answer": "いや"
+      },
+      {
+        "japanese": "そんなに",
+        "english": "that much",
+        "furigana": "そんなに",
+        "kana": "そんなに",
+        "answer": "そんなに"
+      },
+      {
+        "japanese": "今回",
+        "english": "this time",
+        "furigana": "今[こん] 回[かい]",
+        "kana": "こんかい",
+        "answer": "こんかい"
+      },
+      {
+        "japanese": "夜",
+        "english": "evening, night",
+        "furigana": "夜[よる]",
+        "kana": "よる",
+        "answer": "よる"
+      },
+      {
+        "japanese": "買う",
+        "english": "buy",
+        "furigana": "買[か]う",
+        "kana": "かう",
+        "answer": "かう"
+      },
+      {
+        "japanese": "今まで",
+        "english": "until now",
+        "furigana": "今[いま]まで",
+        "kana": "いままで",
+        "answer": "いままで"
+      },
+      {
+        "japanese": "奴",
+        "english": "that guy, (s)he (usu. derogatory)",
+        "furigana": "奴[やつ]",
+        "kana": "やつ",
+        "answer": "やつ"
+      },
+      {
+        "japanese": "あいつ",
+        "english": "that guy",
+        "furigana": "あいつ",
+        "kana": "あいつ",
+        "answer": "あいつ"
+      },
+      {
+        "japanese": "もし",
+        "english": "if, in the event of...",
+        "furigana": "もし",
+        "kana": "もし",
+        "answer": "もし"
+      },
+      {
+        "japanese": "理解",
+        "english": "understanding, comprehension",
+        "furigana": "理[り] 解[かい]",
+        "kana": "りかい",
+        "answer": "りかい"
+      },
+      {
+        "japanese": "夢",
+        "english": "dream",
+        "furigana": "夢[ゆめ]",
+        "kana": "ゆめ",
+        "answer": "ゆめ"
+      },
+      {
+        "japanese": "俺",
+        "english": "I (male)",
+        "furigana": "俺[おれ]",
+        "kana": "おれ",
+        "answer": "おれ"
+      },
+      {
+        "japanese": "難しい",
+        "english": "difficult",
+        "furigana": "難[むずか]しい",
+        "kana": "むずかしい",
+        "answer": "むずかしい"
+      },
+      {
+        "japanese": "今度",
+        "english": "this time",
+        "furigana": "今[こん] 度[ど]",
+        "kana": "こんど",
+        "answer": "こんど"
+      },
+      {
+        "japanese": "おかしい",
+        "english": "strange, suspicious",
+        "furigana": "おかしい",
+        "kana": "おかしい",
+        "answer": "おかしい"
+      },
+      {
+        "japanese": "男の子",
+        "english": "boy",
+        "furigana": "男[おとこ]の 子[こ]",
+        "kana": "おとこのこ",
+        "answer": "おとこのこ"
+      },
+      {
+        "japanese": "女の子",
+        "english": "girl",
+        "furigana": "女[おんな]の 子[こ]",
+        "kana": "おんなのこ",
+        "answer": "おんなのこ"
+      },
+      {
+        "japanese": "寝る",
+        "english": "sleep",
+        "furigana": "寝[ね]る",
+        "kana": "ねる",
+        "answer": "ねる"
+      },
+      {
+        "japanese": "伝える",
+        "english": "convey, transmit",
+        "furigana": "伝[つた]える",
+        "kana": "つたえる",
+        "answer": "つたえる"
+      },
+      {
+        "japanese": "小さい",
+        "english": "small",
+        "furigana": "小[ちい]さい",
+        "kana": "ちいさい",
+        "answer": "ちいさい"
+      },
+      {
+        "japanese": "選ぶ",
+        "english": "choose, elect",
+        "furigana": "選[えら]ぶ",
+        "kana": "えらぶ",
+        "answer": "えらぶ"
+      },
+      {
+        "japanese": "座る",
+        "english": "sit",
+        "furigana": "座[すわ]る",
+        "kana": "すわる",
+        "answer": "すわる"
+      },
+      {
+        "japanese": "簡単",
+        "english": "simple, easy",
+        "furigana": "簡[かん] 単[たん]",
+        "kana": "かんたん",
+        "answer": "かんたん"
+      },
+      {
+        "japanese": "お願い",
+        "english": "favor",
+        "furigana": "お 願[ねが]い",
+        "kana": "おねがい",
+        "answer": "おねがい"
+      },
+      {
+        "japanese": "進む",
+        "english": "move forward",
+        "furigana": "進[すす]む",
+        "kana": "すすむ",
+        "answer": "すすむ"
+      },
+      {
+        "japanese": "全く",
+        "english": "entirely, truly",
+        "furigana": "全[まった]く",
+        "kana": "まったく",
+        "answer": "まったく"
+      },
+      {
+        "japanese": "なぜ",
+        "english": "why",
+        "furigana": "なぜ",
+        "kana": "なぜ",
+        "answer": "なぜ"
+      },
+      {
+        "japanese": "僕",
+        "english": "I (male)",
+        "furigana": "僕[ぼく]",
+        "kana": "ぼく",
+        "answer": "ぼく"
+      },
+      {
+        "japanese": "水",
+        "english": "water",
+        "furigana": "水[みず]",
+        "kana": "みず",
+        "answer": "みず"
+      },
+      {
+        "japanese": "飲む",
+        "english": "drink",
+        "furigana": "飲[の]む",
+        "kana": "のむ",
+        "answer": "のむ"
+      },
+      {
+        "japanese": "暇",
+        "english": "free, not busy",
+        "furigana": "暇[ひま]",
+        "kana": "ひま",
+        "answer": "ひま"
+      },
+      {
+        "japanese": "時",
+        "english": "time, occasion",
+        "furigana": "時[とき]",
+        "kana": "とき",
+        "answer": "とき"
+      },
+      {
+        "japanese": "時",
+        "english": "hour, o'clock",
+        "furigana": "時[じ]",
+        "kana": "じ",
+        "answer": "じ"
+      },
+      {
+        "japanese": "一",
+        "english": "one",
+        "furigana": "一[いち]",
+        "kana": "いち",
+        "answer": "いち"
+      },
+      {
+        "japanese": "二",
+        "english": "two",
+        "furigana": "二[に]",
+        "kana": "に",
+        "answer": "に"
+      },
+      {
+        "japanese": "三",
+        "english": "three",
+        "furigana": "三[さん]",
+        "kana": "さん",
+        "answer": "さん"
+      },
+      {
+        "japanese": "四",
+        "english": "four",
+        "furigana": "四[よん]",
+        "kana": "よん・し",
+        "answer": "よん"
+      },
+      {
+        "japanese": "五",
+        "english": "five",
+        "furigana": "五[ご]",
+        "kana": "ご",
+        "answer": "ご"
+      },
+      {
+        "japanese": "六",
+        "english": "six",
+        "furigana": "六[ろく]",
+        "kana": "ろく",
+        "answer": "ろく"
+      },
+      {
+        "japanese": "七",
+        "english": "seven",
+        "furigana": "七[なな]",
+        "kana": "なな・しち",
+        "answer": "なな"
+      },
+      {
+        "japanese": "八",
+        "english": "eight",
+        "furigana": "八[はち]",
+        "kana": "はち",
+        "answer": "はち"
+      },
+      {
+        "japanese": "九",
+        "english": "nine",
+        "furigana": "九[きゅう]",
+        "kana": "きゅう",
+        "answer": "きゅう"
+      },
+      {
+        "japanese": "十",
+        "english": "ten",
+        "furigana": "十[じゅう]",
+        "kana": "じゅう",
+        "answer": "じゅう"
+      },
+      {
+        "japanese": "くん",
+        "english": "kun (usu. used with men younger or of the same age)",
+        "furigana": "くん",
+        "kana": "くん",
+        "answer": "くん"
+      },
+      {
+        "japanese": "すみません",
+        "english": "sorry, excuse me",
+        "furigana": "すみません",
+        "kana": "すみません",
+        "answer": "すみません"
+      },
+      {
+        "japanese": "やる",
+        "english": "do",
+        "furigana": "やる",
+        "kana": "やる",
+        "answer": "やる"
+      },
+      {
+        "japanese": "顔",
+        "english": "face",
+        "furigana": "顔[かお]",
+        "kana": "かお",
+        "answer": "かお"
+      },
+      {
+        "japanese": "今朝",
+        "english": "this morning",
+        "furigana": "今朝[けさ]",
+        "kana": "けさ",
+        "answer": "けさ"
+      },
+      {
+        "japanese": "出る",
+        "english": "go out, leave",
+        "furigana": "出[で]る",
+        "kana": "でる",
+        "answer": "でる"
+      },
+      {
+        "japanese": "そして",
+        "english": "and, and then",
+        "furigana": "そして",
+        "kana": "そして",
+        "answer": "そして"
+      },
+      {
+        "japanese": "まだ",
+        "english": "yet, more",
+        "furigana": "まだ",
+        "kana": "まだ",
+        "answer": "まだ"
+      },
+      {
+        "japanese": "じゃ",
+        "english": "then, well",
+        "furigana": "じゃ",
+        "kana": "じゃ",
+        "answer": "じゃ"
+      },
+      {
+        "japanese": "ため",
+        "english": "sake, purpose",
+        "furigana": "ため",
+        "kana": "ため",
+        "answer": "ため"
+      },
+      {
+        "japanese": "ご飯",
+        "english": "cooked rice, meal",
+        "furigana": "ご 飯[はん]",
+        "kana": "ごはん",
+        "answer": "ごはん"
+      },
+      {
+        "japanese": "ところ",
+        "english": "place",
+        "furigana": "ところ",
+        "kana": "ところ",
+        "answer": "ところ"
+      },
+      {
+        "japanese": "少し",
+        "english": "a bit, a little while",
+        "furigana": "少[すこ]し",
+        "kana": "すこし",
+        "answer": "すこし"
+      },
+      {
+        "japanese": "見える",
+        "english": "be visible",
+        "furigana": "見[み]える",
+        "kana": "みえる",
+        "answer": "みえる"
+      },
+      {
+        "japanese": "違う",
+        "english": "differ, be wrong",
+        "furigana": "違[ちが]う",
+        "kana": "ちがう",
+        "answer": "ちがう"
+      },
+      {
+        "japanese": "男",
+        "english": "man, male",
+        "furigana": "男[おとこ]",
+        "kana": "おとこ",
+        "answer": "おとこ"
+      },
+      {
+        "japanese": "ただ",
+        "english": "free",
+        "furigana": "ただ",
+        "kana": "ただ",
+        "answer": "ただ"
+      },
+      {
+        "japanese": "ただ",
+        "english": "simply",
+        "furigana": "ただ",
+        "kana": "ただ",
+        "answer": "ただ"
+      },
+      {
+        "japanese": "人間",
+        "english": "human being, people",
+        "furigana": "人[にん] 間[げん]",
+        "kana": "にんげん",
+        "answer": "にんげん"
+      },
+      {
+        "japanese": "作る",
+        "english": "make, create",
+        "furigana": "作[つく]る",
+        "kana": "つくる",
+        "answer": "つくる"
+      },
+      {
+        "japanese": "感じる",
+        "english": "feel, sense",
+        "furigana": "感[かん]じる",
+        "kana": "かんじる",
+        "answer": "かんじる"
+      },
+      {
+        "japanese": "上",
+        "english": "up, above",
+        "furigana": "上[うえ]",
+        "kana": "うえ",
+        "answer": "うえ"
+      },
+      {
+        "japanese": "強い",
+        "english": "strong",
+        "furigana": "強[つよ]い",
+        "kana": "つよい",
+        "answer": "つよい"
+      },
+      {
+        "japanese": "出す",
+        "english": "take out",
+        "furigana": "出[だ]す",
+        "kana": "だす",
+        "answer": "だす"
+      },
+      {
+        "japanese": "笑う",
+        "english": "laugh, smile",
+        "furigana": "笑[わら]う",
+        "kana": "わらう",
+        "answer": "わらう"
+      },
+      {
+        "japanese": "毎月",
+        "english": "every month",
+        "furigana": "毎[まい] 月[つき]",
+        "kana": "まいつき",
+        "answer": "まいつき"
+      },
+      {
+        "japanese": "毎年",
+        "english": "every year",
+        "furigana": "毎[まい] 年[とし]",
+        "kana": "まいとし",
+        "answer": "まいとし"
+      },
+      {
+        "japanese": "多く",
+        "english": "many, much",
+        "furigana": "多[おお]く",
+        "kana": "おおく",
+        "answer": "おおく"
+      },
+      {
+        "japanese": "くらい",
+        "english": "approximately, about",
+        "furigana": "くらい",
+        "kana": "くらい",
+        "answer": "くらい"
+      },
+      {
+        "japanese": "姉",
+        "english": "older sister",
+        "furigana": "姉[あね]",
+        "kana": "あね",
+        "answer": "あね"
+      },
+      {
+        "japanese": "弟",
+        "english": "younger brother",
+        "furigana": "弟[おとうと]",
+        "kana": "おとうと",
+        "answer": "おとうと"
+      },
+      {
+        "japanese": "妹",
+        "english": "younger sister",
+        "furigana": "妹[いもうと]",
+        "kana": "いもうと",
+        "answer": "いもうと"
+      },
+      {
+        "japanese": "力",
+        "english": "strength, power",
+        "furigana": "力[ちから]",
+        "kana": "ちから",
+        "answer": "ちから"
+      },
+      {
+        "japanese": "世界",
+        "english": "world",
+        "furigana": "世[せ] 界[かい]",
+        "kana": "せかい",
+        "answer": "せかい"
+      },
+      {
+        "japanese": "相手",
+        "english": "partner, opponent",
+        "furigana": "相[あい] 手[て]",
+        "kana": "あいて",
+        "answer": "あいて"
+      },
+      {
+        "japanese": "姿",
+        "english": "figure, appearance",
+        "furigana": "姿[すがた]",
+        "kana": "すがた",
+        "answer": "すがた"
+      },
+      {
+        "japanese": "死ぬ",
+        "english": "die",
+        "furigana": "死[し]ぬ",
+        "kana": "しぬ",
+        "answer": "しぬ"
+      },
+      {
+        "japanese": "早い",
+        "english": "early",
+        "furigana": "早[はや]い",
+        "kana": "はやい",
+        "answer": "はやい"
+      },
+      {
+        "japanese": "早い",
+        "english": "fast (in terms of time)",
+        "furigana": "早[はや]い",
+        "kana": "はやい",
+        "answer": "はやい"
+      },
+      {
+        "japanese": "頭",
+        "english": "head",
+        "furigana": "頭[あたま]",
+        "kana": "あたま",
+        "answer": "あたま"
+      },
+      {
+        "japanese": "戻る",
+        "english": "return, go back",
+        "furigana": "戻[もど]る",
+        "kana": "もどる",
+        "answer": "もどる"
+      },
+      {
+        "japanese": "ずっと",
+        "english": "continuously, the whole time",
+        "furigana": "ずっと",
+        "kana": "ずっと",
+        "answer": "ずっと"
+      },
+      {
+        "japanese": "どうして",
+        "english": "why",
+        "furigana": "どうして",
+        "kana": "どうして",
+        "answer": "どうして"
+      },
+      {
+        "japanese": "やっぱり",
+        "english": "just as I thought, after all",
+        "furigana": "やっぱり",
+        "kana": "やっぱり",
+        "answer": "やっぱり"
+      },
+      {
+        "japanese": "つもり",
+        "english": "intention, purpose",
+        "furigana": "つもり",
+        "kana": "つもり",
+        "answer": "つもり"
+      },
+      {
+        "japanese": "必要",
+        "english": "necessary, needed",
+        "furigana": "必[ひつ] 要[よう]",
+        "kana": "ひつよう",
+        "answer": "ひつよう"
+      },
+      {
+        "japanese": "終わる",
+        "english": "finish, end",
+        "furigana": "終[お]わる",
+        "kana": "おわる",
+        "answer": "おわる"
+      },
+      {
+        "japanese": "者",
+        "english": "person",
+        "furigana": "者[もの]",
+        "kana": "もの",
+        "answer": "もの"
+      },
+      {
+        "japanese": "後",
+        "english": "after",
+        "furigana": "後[あと]",
+        "kana": "あと",
+        "answer": "あと"
+      },
+      {
+        "japanese": "こちら",
+        "english": "here, this way",
+        "furigana": "こちら",
+        "kana": "こちら",
+        "answer": "こちら"
+      },
+      {
+        "japanese": "向かう",
+        "english": "face, head toward",
+        "furigana": "向[む]かう",
+        "kana": "むかう",
+        "answer": "むかう"
+      },
+      {
+        "japanese": "きっと",
+        "english": "surely, certainly",
+        "furigana": "きっと",
+        "kana": "きっと",
+        "answer": "きっと"
+      },
+      {
+        "japanese": "変わる",
+        "english": "change",
+        "furigana": "変[か]わる",
+        "kana": "かわる",
+        "answer": "かわる"
+      },
+      {
+        "japanese": "凄い",
+        "english": "wonderful, great, a lot",
+        "furigana": "凄[すご]い",
+        "kana": "すごい",
+        "answer": "すごい"
+      },
+      {
+        "japanese": "女",
+        "english": "woman, girl",
+        "furigana": "女[おんな]",
+        "kana": "おんな",
+        "answer": "おんな"
+      },
+      {
+        "japanese": "ちゃんと",
+        "english": "properly",
+        "furigana": "ちゃんと",
+        "kana": "ちゃんと",
+        "answer": "ちゃんと"
+      },
+      {
+        "japanese": "音",
+        "english": "sound",
+        "furigana": "音[おと]",
+        "kana": "おと",
+        "answer": "おと"
+      },
+      {
+        "japanese": "体",
+        "english": "body",
+        "furigana": "体[からだ]",
+        "kana": "からだ",
+        "answer": "からだ"
+      },
+      {
+        "japanese": "掛ける",
+        "english": "hang, put on",
+        "furigana": "掛[か]ける",
+        "kana": "かける",
+        "answer": "かける"
+      },
+      {
+        "japanese": "歩く",
+        "english": "walk, go on foot",
+        "furigana": "歩[ある]く",
+        "kana": "あるく",
+        "answer": "あるく"
+      },
+      {
+        "japanese": "存在",
+        "english": "existence, being",
+        "furigana": "存[そん] 在[ざい]",
+        "kana": "そんざい",
+        "answer": "そんざい"
+      },
+      {
+        "japanese": "過ぎる",
+        "english": "exceed, pass by",
+        "furigana": "過[す]ぎる",
+        "kana": "すぎる",
+        "answer": "すぎる"
+      },
+      {
+        "japanese": "聞こえる",
+        "english": "can hear",
+        "furigana": "聞[き]こえる",
+        "kana": "きこえる",
+        "answer": "きこえる"
+      },
+      {
+        "japanese": "受ける",
+        "english": "receive, accept",
+        "furigana": "受[う]ける",
+        "kana": "うける",
+        "answer": "うける"
+      },
+      {
+        "japanese": "今年",
+        "english": "this year",
+        "furigana": "今年[ことし]",
+        "kana": "ことし",
+        "answer": "ことし"
+      },
+      {
+        "japanese": "去年",
+        "english": "last year (colloquial)",
+        "furigana": "去[きょ] 年[ねん]",
+        "kana": "きょねん",
+        "answer": "きょねん"
+      },
+      {
+        "japanese": "来年",
+        "english": "next year",
+        "furigana": "来[らい] 年[ねん]",
+        "kana": "らいねん",
+        "answer": "らいねん"
+      },
+      {
+        "japanese": "殺す",
+        "english": "kill",
+        "furigana": "殺[ころ]す",
+        "kana": "ころす",
+        "answer": "ころす"
+      },
+      {
+        "japanese": "まさか",
+        "english": "by no means, never!",
+        "furigana": "まさか",
+        "kana": "まさか",
+        "answer": "まさか"
+      },
+      {
+        "japanese": "絶対",
+        "english": "absolutely",
+        "furigana": "絶[ぜっ] 対[たい]",
+        "kana": "ぜったい",
+        "answer": "ぜったい"
+      },
+      {
+        "japanese": "理由",
+        "english": "reason, cause",
+        "furigana": "理[り] 由[ゆう]",
+        "kana": "りゆう",
+        "answer": "りゆう"
+      },
+      {
+        "japanese": "口",
+        "english": "mouth",
+        "furigana": "口[くち]",
+        "kana": "くち",
+        "answer": "くち"
+      },
+      {
+        "japanese": "外",
+        "english": "outside",
+        "furigana": "外[そと]",
+        "kana": "そと",
+        "answer": "そと"
+      },
+      {
+        "japanese": "逃げる",
+        "english": "escape, run away",
+        "furigana": "逃[に]げる",
+        "kana": "にげる",
+        "answer": "にげる"
+      },
+      {
+        "japanese": "誰か",
+        "english": "someone",
+        "furigana": "誰[だれ]か",
+        "kana": "だれか",
+        "answer": "だれか"
+      },
+      {
+        "japanese": "まるで",
+        "english": "just like, completely",
+        "furigana": "まるで",
+        "kana": "まるで",
+        "answer": "まるで"
+      },
+      {
+        "japanese": "他",
+        "english": "another, somewhere else",
+        "furigana": "他[ほか]",
+        "kana": "ほか",
+        "answer": "ほか"
+      },
+      {
+        "japanese": "他",
+        "english": "other (esp. people and abstract matters)",
+        "furigana": "他[た]",
+        "kana": "た",
+        "answer": "た"
+      },
+      {
+        "japanese": "問題",
+        "english": "problem, question",
+        "furigana": "問[もん] 題[だい]",
+        "kana": "もんだい",
+        "answer": "もんだい"
+      },
+      {
+        "japanese": "今後",
+        "english": "after this, in the future",
+        "furigana": "今[こん] 後[ご]",
+        "kana": "こんご",
+        "answer": "こんご"
+      },
+      {
+        "japanese": "普通",
+        "english": "normal, regular, average",
+        "furigana": "普[ふ] 通[つう]",
+        "kana": "ふつう",
+        "answer": "ふつう"
+      },
+      {
+        "japanese": "心",
+        "english": "heart, mind",
+        "furigana": "心[こころ]",
+        "kana": "こころ",
+        "answer": "こころ"
+      },
+      {
+        "japanese": "春",
+        "english": "spring",
+        "furigana": "春[はる]",
+        "kana": "はる",
+        "answer": "はる"
+      },
+      {
+        "japanese": "夏",
+        "english": "summer",
+        "furigana": "夏[なつ]",
+        "kana": "なつ",
+        "answer": "なつ"
+      },
+      {
+        "japanese": "秋",
+        "english": "fall",
+        "furigana": "秋[あき]",
+        "kana": "あき",
+        "answer": "あき"
+      },
+      {
+        "japanese": "冬",
+        "english": "winter",
+        "furigana": "冬[ふゆ]",
+        "kana": "ふゆ",
+        "answer": "ふゆ"
+      },
+      {
+        "japanese": "以上",
+        "english": "... or more, beyond",
+        "furigana": "以[い] 上[じょう]",
+        "kana": "いじょう",
+        "answer": "いじょう"
+      },
+      {
+        "japanese": "それで",
+        "english": "then, so",
+        "furigana": "それで",
+        "kana": "それで",
+        "answer": "それで"
+      },
+      {
+        "japanese": "生きる",
+        "english": "live, exist",
+        "furigana": "生[い]きる",
+        "kana": "いきる",
+        "answer": "いきる"
+      },
+      {
+        "japanese": "最初",
+        "english": "first, beginning",
+        "furigana": "最[さい] 初[しょ]",
+        "kana": "さいしょ",
+        "answer": "さいしょ"
+      },
+      {
+        "japanese": "最後",
+        "english": "last, final",
+        "furigana": "最[さい] 後[ご]",
+        "kana": "さいご",
+        "answer": "さいご"
+      },
+      {
+        "japanese": "日",
+        "english": "day",
+        "furigana": "日[ひ]",
+        "kana": "ひ",
+        "answer": "ひ"
+      },
+      {
+        "japanese": "間",
+        "english": "interval",
+        "furigana": "間[あいだ]",
+        "kana": "あいだ",
+        "answer": "あいだ"
+      },
+      {
+        "japanese": "間",
+        "english": "interval, duration of time",
+        "furigana": "間[ま]",
+        "kana": "ま",
+        "answer": "ま"
+      },
+      {
+        "japanese": "について",
+        "english": "concerning, regarding",
+        "furigana": "について",
+        "kana": "について",
+        "answer": "について"
+      },
+      {
+        "japanese": "左",
+        "english": "left",
+        "furigana": "左[ひだり]",
+        "kana": "ひだり",
+        "answer": "ひだり"
+      },
+      {
+        "japanese": "右",
+        "english": "right",
+        "furigana": "右[みぎ]",
+        "kana": "みぎ",
+        "answer": "みぎ"
+      },
+      {
+        "japanese": "感じ",
+        "english": "feeling, impression",
+        "furigana": "感[かん]じ",
+        "kana": "かんじ",
+        "answer": "かんじ"
+      },
+      {
+        "japanese": "胸",
+        "english": "chest",
+        "furigana": "胸[むね]",
+        "kana": "むね",
+        "answer": "むね"
+      },
+      {
+        "japanese": "表情",
+        "english": "expression, look",
+        "furigana": "表[ひょう] 情[じょう]",
+        "kana": "ひょうじょう",
+        "answer": "ひょうじょう"
+      },
+      {
+        "japanese": "多い",
+        "english": "a lot",
+        "furigana": "多[おお]い",
+        "kana": "おおい",
+        "answer": "おおい"
+      },
+      {
+        "japanese": "初めて",
+        "english": "for the first time",
+        "furigana": "初[はじ]めて",
+        "kana": "はじめて",
+        "answer": "はじめて"
+      },
+      {
+        "japanese": "無理",
+        "english": "unreasonable, impossible",
+        "furigana": "無[む] 理[り]",
+        "kana": "むり",
+        "answer": "むり"
+      },
+      {
+        "japanese": "欲しい",
+        "english": "wanting, wishing for",
+        "furigana": "欲[ほ]しい",
+        "kana": "ほしい",
+        "answer": "ほしい"
+      },
+      {
+        "japanese": "ごめん",
+        "english": "sorry",
+        "furigana": "ごめん",
+        "kana": "ごめん",
+        "answer": "ごめん"
+      },
+      {
+        "japanese": "覚える",
+        "english": "memorize",
+        "furigana": "覚[おぼ]える",
+        "kana": "おぼえる",
+        "answer": "おぼえる"
+      },
+      {
+        "japanese": "別に",
+        "english": "(not) particularly",
+        "furigana": "別[べつ]に",
+        "kana": "べつに",
+        "answer": "べつに"
+      },
+      {
+        "japanese": "思い出す",
+        "english": "recollect, recall",
+        "furigana": "思[おも]い 出[だ]す",
+        "kana": "おもいだす",
+        "answer": "おもいだす"
+      },
+      {
+        "japanese": "入れる",
+        "english": "put in",
+        "furigana": "入[い]れる",
+        "kana": "いれる",
+        "answer": "いれる"
+      },
+      {
+        "japanese": "開く",
+        "english": "open",
+        "furigana": "開[あ]く",
+        "kana": "あく",
+        "answer": "あく"
+      },
+      {
+        "japanese": "開く",
+        "english": "open",
+        "furigana": "開[ひら]く",
+        "kana": "ひらく",
+        "answer": "ひらく"
+      },
+      {
+        "japanese": "残る",
+        "english": "remain, be left over",
+        "furigana": "残[のこ]る",
+        "kana": "のこる",
+        "answer": "のこる"
+      },
+      {
+        "japanese": "答える",
+        "english": "answer",
+        "furigana": "答[こた]える",
+        "kana": "こたえる",
+        "answer": "こたえる"
+      },
+      {
+        "japanese": "怖い",
+        "english": "fearful, be afraid",
+        "furigana": "怖[こわ]い",
+        "kana": "こわい",
+        "answer": "こわい"
+      },
+      {
+        "japanese": "年",
+        "english": "counter for years",
+        "furigana": "年[ねん]",
+        "kana": "ねん",
+        "answer": "ねん"
+      },
+      {
+        "japanese": "年",
+        "english": "year",
+        "furigana": "年[とし]",
+        "kana": "とし",
+        "answer": "とし"
+      },
+      {
+        "japanese": "取る",
+        "english": "take, get",
+        "furigana": "取[と]る",
+        "kana": "とる",
+        "answer": "とる"
+      },
+      {
+        "japanese": "全て",
+        "english": "all, entirely",
+        "furigana": "全[すべ]て",
+        "kana": "すべて",
+        "answer": "すべて"
+      },
+      {
+        "japanese": "助ける",
+        "english": "help, save",
+        "furigana": "助[たす]ける",
+        "kana": "たすける",
+        "answer": "たすける"
+      },
+      {
+        "japanese": "状況",
+        "english": "state of affairs, conditions",
+        "furigana": "状[じょう] 況[きょう]",
+        "kana": "じょうきょう",
+        "answer": "じょうきょう"
+      },
+      {
+        "japanese": "確認",
+        "english": "confirmation",
+        "furigana": "確[かく] 認[にん]",
+        "kana": "かくにん",
+        "answer": "かくにん"
+      },
+      {
+        "japanese": "消える",
+        "english": "turn off, disappear",
+        "furigana": "消[き]える",
+        "kana": "きえる",
+        "answer": "きえる"
+      },
+      {
+        "japanese": "長い",
+        "english": "long",
+        "furigana": "長[なが]い",
+        "kana": "ながい",
+        "answer": "ながい"
+      },
+      {
+        "japanese": "驚く",
+        "english": "be surprised, be astonished",
+        "furigana": "驚[おどろ]く",
+        "kana": "おどろく",
+        "answer": "おどろく"
+      },
+      {
+        "japanese": "腕",
+        "english": "arm",
+        "furigana": "腕[うで]",
+        "kana": "うで",
+        "answer": "うで"
+      },
+      {
+        "japanese": "以外",
+        "english": "except for",
+        "furigana": "以[い] 外[がい]",
+        "kana": "いがい",
+        "answer": "いがい"
+      },
+      {
+        "japanese": "困る",
+        "english": "be at a loss, be in trouble",
+        "furigana": "困[こま]る",
+        "kana": "こまる",
+        "answer": "こまる"
+      },
+      {
+        "japanese": "離れる",
+        "english": "be separated, be apart",
+        "furigana": "離[はな]れる",
+        "kana": "はなれる",
+        "answer": "はなれる"
+      },
+      {
+        "japanese": "気",
+        "english": "spirit, temperament",
+        "furigana": "気[き]",
+        "kana": "き",
+        "answer": "き"
+      },
+      {
+        "japanese": "書く",
+        "english": "write",
+        "furigana": "書[か]く",
+        "kana": "かく",
+        "answer": "かく"
+      },
+      {
+        "japanese": "光",
+        "english": "light, flash",
+        "furigana": "光[ひかり]",
+        "kana": "ひかり",
+        "answer": "ひかり"
+      },
+      {
+        "japanese": "走る",
+        "english": "run",
+        "furigana": "走[はし]る",
+        "kana": "はしる",
+        "answer": "はしる"
+      },
+      {
+        "japanese": "戦う",
+        "english": "wage war, fight",
+        "furigana": "戦[たたか]う",
+        "kana": "たたかう",
+        "answer": "たたかう"
+      },
+      {
+        "japanese": "余り",
+        "english": "remainder, leftover",
+        "furigana": "余[あま]り",
+        "kana": "あまり",
+        "answer": "あまり"
+      },
+      {
+        "japanese": "全部",
+        "english": "all, everything",
+        "furigana": "全[ぜん] 部[ぶ]",
+        "kana": "ぜんぶ",
+        "answer": "ぜんぶ"
+      },
+      {
+        "japanese": "瞬間",
+        "english": "instant, moment",
+        "furigana": "瞬[しゅん] 間[かん]",
+        "kana": "しゅんかん",
+        "answer": "しゅんかん"
+      },
+      {
+        "japanese": "説明",
+        "english": "explanation",
+        "furigana": "説[せつ] 明[めい]",
+        "kana": "せつめい",
+        "answer": "せつめい"
+      },
+      {
+        "japanese": "決める",
+        "english": "to decide",
+        "furigana": "決[き]める",
+        "kana": "きめる",
+        "answer": "きめる"
+      },
+      {
+        "japanese": "女性",
+        "english": "woman, female",
+        "furigana": "女[じょ] 性[せい]",
+        "kana": "じょせい",
+        "answer": "じょせい"
+      },
+      {
+        "japanese": "頂く",
+        "english": "receive, take (humble form)",
+        "furigana": "頂[いただ]く",
+        "kana": "いただく",
+        "answer": "いただく"
+      },
+      {
+        "japanese": "敵",
+        "english": "enemy",
+        "furigana": "敵[てき]",
+        "kana": "てき",
+        "answer": "てき"
+      },
+      {
+        "japanese": "起きる",
+        "english": "occur",
+        "furigana": "起[お]きる",
+        "kana": "おきる",
+        "answer": "おきる"
+      },
+      {
+        "japanese": "起きる",
+        "english": "get up, get out of bed",
+        "furigana": "起[お]きる",
+        "kana": "おきる",
+        "answer": "おきる"
+      },
+      {
+        "japanese": "落ちる",
+        "english": "fall",
+        "furigana": "落[お]ちる",
+        "kana": "おちる",
+        "answer": "おちる"
+      },
+      {
+        "japanese": "足",
+        "english": "leg, foot",
+        "furigana": "足[あし]",
+        "kana": "あし",
+        "answer": "あし"
+      },
+      {
+        "japanese": "それに",
+        "english": "in addition",
+        "furigana": "それに",
+        "kana": "それに",
+        "answer": "それに"
+      },
+      {
+        "japanese": "先に",
+        "english": "before, ahead",
+        "furigana": "先[さき]に",
+        "kana": "さきに",
+        "answer": "さきに"
+      },
+      {
+        "japanese": "魔法",
+        "english": "magic",
+        "furigana": "魔[ま] 法[ほう]",
+        "kana": "まほう",
+        "answer": "まほう"
+      },
+      {
+        "japanese": "探す",
+        "english": "look for, search",
+        "furigana": "探[さが]す",
+        "kana": "さがす",
+        "answer": "さがす"
+      },
+      {
+        "japanese": "子供",
+        "english": "child, kid",
+        "furigana": "子[こ] 供[ども]",
+        "kana": "こども",
+        "answer": "こども"
+      },
+      {
+        "japanese": "怒る",
+        "english": "get angry, scold",
+        "furigana": "怒[おこ]る",
+        "kana": "おこる",
+        "answer": "おこる"
+      },
+      {
+        "japanese": "笑顔",
+        "english": "smile",
+        "furigana": "笑[え] 顔[がお]",
+        "kana": "えがお",
+        "answer": "えがお"
+      },
+      {
+        "japanese": "先輩",
+        "english": "senior (at work, school, etc.)",
+        "furigana": "先[せん] 輩[ぱい]",
+        "kana": "せんぱい",
+        "answer": "せんぱい"
+      },
+      {
+        "japanese": "続く",
+        "english": "continue, keep up",
+        "furigana": "続[つづ]く",
+        "kana": "つづく",
+        "answer": "つづく"
+      },
+      {
+        "japanese": "こんなに",
+        "english": "this much, such",
+        "furigana": "こんなに",
+        "kana": "こんなに",
+        "answer": "こんなに"
+      },
+      {
+        "japanese": "変",
+        "english": "strange, funny",
+        "furigana": "変[へん]",
+        "kana": "へん",
+        "answer": "へん"
+      },
+      {
+        "japanese": "読む",
+        "english": "read",
+        "furigana": "読[よ]む",
+        "kana": "よむ",
+        "answer": "よむ"
+      },
+      {
+        "japanese": "当然",
+        "english": "natural, as a matter of course",
+        "furigana": "当[とう] 然[ぜん]",
+        "kana": "とうぜん",
+        "answer": "とうぜん"
+      },
+      {
+        "japanese": "情報",
+        "english": "information",
+        "furigana": "情[じょう] 報[ほう]",
+        "kana": "じょうほう",
+        "answer": "じょうほう"
+      },
+      {
+        "japanese": "見つける",
+        "english": "find",
+        "furigana": "見[み]つける",
+        "kana": "みつける",
+        "answer": "みつける"
+      },
+      {
+        "japanese": "少女",
+        "english": "girl",
+        "furigana": "少[しょう] 女[じょ]",
+        "kana": "しょうじょ",
+        "answer": "しょうじょ"
+      },
+      {
+        "japanese": "大変",
+        "english": "terrible, serious, grave",
+        "furigana": "大[たい] 変[へん]",
+        "kana": "たいへん",
+        "answer": "たいへん"
+      },
+      {
+        "japanese": "かなり",
+        "english": "fairly, rather",
+        "furigana": "かなり",
+        "kana": "かなり",
+        "answer": "かなり"
+      },
+      {
+        "japanese": "下",
+        "english": "under, below",
+        "furigana": "下[した]",
+        "kana": "した",
+        "answer": "した"
+      },
+      {
+        "japanese": "下",
+        "english": "under (the supervision of)",
+        "furigana": "下[もと]",
+        "kana": "もと",
+        "answer": "もと"
+      },
+      {
+        "japanese": "かかる",
+        "english": "take (e.g. time or money)",
+        "furigana": "かかる",
+        "kana": "かかる",
+        "answer": "かかる"
+      },
+      {
+        "japanese": "掛かる",
+        "english": "hang, be hung",
+        "furigana": "掛[か]かる",
+        "kana": "かかる",
+        "answer": "かかる"
+      },
+      {
+        "japanese": "一度",
+        "english": "once",
+        "furigana": "一[いち] 度[ど]",
+        "kana": "いちど",
+        "answer": "いちど"
+      },
+      {
+        "japanese": "完全",
+        "english": "perfect, complete",
+        "furigana": "完[かん] 全[ぜん]",
+        "kana": "かんぜん",
+        "answer": "かんぜん"
+      },
+      {
+        "japanese": "後ろ",
+        "english": "back, behind",
+        "furigana": "後[うし]ろ",
+        "kana": "うしろ",
+        "answer": "うしろ"
+      },
+      {
+        "japanese": "泣く",
+        "english": "cry",
+        "furigana": "泣[な]く",
+        "kana": "なく",
+        "answer": "なく"
+      },
+      {
+        "japanese": "状態",
+        "english": "state, condition",
+        "furigana": "状[じょう] 態[たい]",
+        "kana": "じょうたい",
+        "answer": "じょうたい"
+      },
+      {
+        "japanese": "関係",
+        "english": "relation(ship)",
+        "furigana": "関[かん] 係[けい]",
+        "kana": "かんけい",
+        "answer": "かんけい"
+      },
+      {
+        "japanese": "向ける",
+        "english": "turn toward, point at",
+        "furigana": "向[む]ける",
+        "kana": "むける",
+        "answer": "むける"
+      },
+      {
+        "japanese": "奥",
+        "english": "inner part, back (of...)",
+        "furigana": "奥[おく]",
+        "kana": "おく",
+        "answer": "おく"
+      },
+      {
+        "japanese": "軽い",
+        "english": "light",
+        "furigana": "軽[かる]い",
+        "kana": "かるい",
+        "answer": "かるい"
+      },
+      {
+        "japanese": "返す",
+        "english": "return, repay",
+        "furigana": "返[かえ]す",
+        "kana": "かえす",
+        "answer": "かえす"
+      },
+      {
+        "japanese": "現れる",
+        "english": "appear, emerge",
+        "furigana": "現[あらわ]れる",
+        "kana": "あらわれる",
+        "answer": "あらわれる"
+      },
+      {
+        "japanese": "痛い",
+        "english": "hurt, ouch",
+        "furigana": "痛[いた]い",
+        "kana": "いたい",
+        "answer": "いたい"
+      },
+      {
+        "japanese": "どうやら",
+        "english": "(seems) likely, seems like",
+        "furigana": "どうやら",
+        "kana": "どうやら",
+        "answer": "どうやら"
+      },
+      {
+        "japanese": "点ける",
+        "english": "switch on",
+        "furigana": "点[つ]ける",
+        "kana": "つける",
+        "answer": "つける"
+      },
+      {
+        "japanese": "付ける",
+        "english": "attach, set, add",
+        "furigana": "付[つ]ける",
+        "kana": "つける",
+        "answer": "つける"
+      },
+      {
+        "japanese": "一瞬",
+        "english": "instant, for a moment",
+        "furigana": "一[いっ] 瞬[しゅん]",
+        "kana": "いっしゅん",
+        "answer": "いっしゅん"
+      },
+      {
+        "japanese": "隠す",
+        "english": "hide",
+        "furigana": "隠[かく]す",
+        "kana": "かくす",
+        "answer": "かくす"
+      },
+      {
+        "japanese": "準備",
+        "english": "preparation, arrangements",
+        "furigana": "準[じゅん] 備[び]",
+        "kana": "じゅんび",
+        "answer": "じゅんび"
+      },
+      {
+        "japanese": "そろそろ",
+        "english": "soon, about time",
+        "furigana": "そろそろ",
+        "kana": "そろそろ",
+        "answer": "そろそろ"
+      },
+      {
+        "japanese": "落ち着く",
+        "english": "calm down, settle in",
+        "furigana": "落[お]ち 着[つ]く",
+        "kana": "おちつく",
+        "answer": "おちつく"
+      },
+      {
+        "japanese": "恥ずかしい",
+        "english": "embarrassing, shy",
+        "furigana": "恥[は]ずかしい",
+        "kana": "はずかしい",
+        "answer": "はずかしい"
+      },
+      {
+        "japanese": "場合",
+        "english": "situation, case",
+        "furigana": "場[ば] 合[あい]",
+        "kana": "ばあい",
+        "answer": "ばあい"
+      },
+      {
+        "japanese": "しっかり",
+        "english": "tightly, firmly",
+        "furigana": "しっかり",
+        "kana": "しっかり",
+        "answer": "しっかり"
+      },
+      {
+        "japanese": "しっかり",
+        "english": "mature, responsible",
+        "furigana": "しっかり",
+        "kana": "しっかり",
+        "answer": "しっかり"
+      },
+      {
+        "japanese": "髪",
+        "english": "hair(style)",
+        "furigana": "髪[かみ]",
+        "kana": "かみ",
+        "answer": "かみ"
+      },
+      {
+        "japanese": "元",
+        "english": "former, ex-",
+        "furigana": "元[もと]",
+        "kana": "もと",
+        "answer": "もと"
+      },
+      {
+        "japanese": "得る",
+        "english": "obtain, gain",
+        "furigana": "得[え]る",
+        "kana": "える",
+        "answer": "える"
+      },
+      {
+        "japanese": "すぐ",
+        "english": "at once, right away",
+        "furigana": "すぐ",
+        "kana": "すぐ",
+        "answer": "すぐ"
+      },
+      {
+        "japanese": "来月",
+        "english": "next month",
+        "furigana": "来[らい] 月[げつ]",
+        "kana": "らいげつ",
+        "answer": "らいげつ"
+      },
+      {
+        "japanese": "昔",
+        "english": "a long time ago, the old days",
+        "furigana": "昔[むかし]",
+        "kana": "むかし",
+        "answer": "むかし"
+      },
+      {
+        "japanese": "近い",
+        "english": "near",
+        "furigana": "近[ちか]い",
+        "kana": "ちかい",
+        "answer": "ちかい"
+      },
+      {
+        "japanese": "動き",
+        "english": "movement, motion",
+        "furigana": "動[うご]き",
+        "kana": "うごき",
+        "answer": "うごき"
+      },
+      {
+        "japanese": "見つめる",
+        "english": "stare",
+        "furigana": "見[み]つめる",
+        "kana": "みつめる",
+        "answer": "みつめる"
+      },
+      {
+        "japanese": "幸せ",
+        "english": "happiness, good fortune",
+        "furigana": "幸[しあわ]せ",
+        "kana": "しあわせ",
+        "answer": "しあわせ"
+      },
+      {
+        "japanese": "記憶",
+        "english": "memory",
+        "furigana": "記[き] 憶[おく]",
+        "kana": "きおく",
+        "answer": "きおく"
+      },
+      {
+        "japanese": "反応",
+        "english": "reaction, response",
+        "furigana": "反[はん] 応[のう]",
+        "kana": "はんのう",
+        "answer": "はんのう"
+      },
+      {
+        "japanese": "私たち",
+        "english": "we",
+        "furigana": "私[わたし]たち",
+        "kana": "わたしたち",
+        "answer": "わたしたち"
+      },
+      {
+        "japanese": "とにかく",
+        "english": "in any case, anyway",
+        "furigana": "とにかく",
+        "kana": "とにかく",
+        "answer": "とにかく"
+      },
+      {
+        "japanese": "勝手",
+        "english": "selfish, self-centered",
+        "furigana": "勝[かっ] 手[て]",
+        "kana": "かって",
+        "answer": "かって"
+      },
+      {
+        "japanese": "攻撃",
+        "english": "attack, assault, criticism",
+        "furigana": "攻[こう] 撃[げき]",
+        "kana": "こうげき",
+        "answer": "こうげき"
+      },
+      {
+        "japanese": "開ける",
+        "english": "open, unlock",
+        "furigana": "開[あ]ける",
+        "kana": "あける",
+        "answer": "あける"
+      },
+      {
+        "japanese": "黙る",
+        "english": "become silent, shut one's mouth",
+        "furigana": "黙[だま]る",
+        "kana": "だまる",
+        "answer": "だまる"
+      },
+      {
+        "japanese": "最近",
+        "english": "recently",
+        "furigana": "最[さい] 近[きん]",
+        "kana": "さいきん",
+        "answer": "さいきん"
+      },
+      {
+        "japanese": "全員",
+        "english": "all members, (the) entire staff",
+        "furigana": "全[ぜん] 員[いん]",
+        "kana": "ぜんいん",
+        "answer": "ぜんいん"
+      },
+      {
+        "japanese": "せい",
+        "english": "cause, fault",
+        "furigana": "せい",
+        "kana": "せい",
+        "answer": "せい"
+      },
+      {
+        "japanese": "深い",
+        "english": "deep, profound",
+        "furigana": "深[ふか]い",
+        "kana": "ふかい",
+        "answer": "ふかい"
+      },
+      {
+        "japanese": "別",
+        "english": "another, different",
+        "furigana": "別[べつ]",
+        "kana": "べつ",
+        "answer": "べつ"
+      },
+      {
+        "japanese": "決まる",
+        "english": "be decided",
+        "furigana": "決[き]まる",
+        "kana": "きまる",
+        "answer": "きまる"
+      },
+      {
+        "japanese": "しばらく",
+        "english": "for a while, for the time being",
+        "furigana": "しばらく",
+        "kana": "しばらく",
+        "answer": "しばらく"
+      },
+      {
+        "japanese": "行う",
+        "english": "perform, do",
+        "furigana": "行[おこな]う",
+        "kana": "おこなう",
+        "answer": "おこなう"
+      },
+      {
+        "japanese": "上がる",
+        "english": "go up, rise",
+        "furigana": "上[あ]がる",
+        "kana": "あがる",
+        "answer": "あがる"
+      },
+      {
+        "japanese": "隣",
+        "english": "next to, adjacent",
+        "furigana": "隣[となり]",
+        "kana": "となり",
+        "answer": "となり"
+      },
+      {
+        "japanese": "扉",
+        "english": "door",
+        "furigana": "扉[とびら]",
+        "kana": "とびら",
+        "answer": "とびら"
+      },
+      {
+        "japanese": "指",
+        "english": "finger, toe",
+        "furigana": "指[ゆび]",
+        "kana": "ゆび",
+        "answer": "ゆび"
+      },
+      {
+        "japanese": "結果",
+        "english": "result, outcome",
+        "furigana": "結[けっ] 果[か]",
+        "kana": "けっか",
+        "answer": "けっか"
+      },
+      {
+        "japanese": "与える",
+        "english": "give",
+        "furigana": "与[あた]える",
+        "kana": "あたえる",
+        "answer": "あたえる"
+      },
+      {
+        "japanese": "道",
+        "english": "road",
+        "furigana": "道[みち]",
+        "kana": "みち",
+        "answer": "みち"
+      },
+      {
+        "japanese": "乗る",
+        "english": "ride, take",
+        "furigana": "乗[の]る",
+        "kana": "のる",
+        "answer": "のる"
+      },
+      {
+        "japanese": "特に",
+        "english": "specially, particularly",
+        "furigana": "特[とく]に",
+        "kana": "とくに",
+        "answer": "とくに"
+      },
+      {
+        "japanese": "形",
+        "english": "shape",
+        "furigana": "形[かたち]",
+        "kana": "かたち",
+        "answer": "かたち"
+      },
+      {
+        "japanese": "さあ",
+        "english": "I'm not sure, Hmm...",
+        "furigana": "さあ",
+        "kana": "さあ",
+        "answer": "さあ"
+      },
+      {
+        "japanese": "血",
+        "english": "blood",
+        "furigana": "血[ち]",
+        "kana": "ち",
+        "answer": "ち"
+      },
+      {
+        "japanese": "更に",
+        "english": "furthermore, even more",
+        "furigana": "更[さら]に",
+        "kana": "さらに",
+        "answer": "さらに"
+      },
+      {
+        "japanese": "用意",
+        "english": "prepare, ready oneself",
+        "furigana": "用[よう] 意[い]",
+        "kana": "ようい",
+        "answer": "ようい"
+      },
+      {
+        "japanese": "負ける",
+        "english": "lose",
+        "furigana": "負[ま]ける",
+        "kana": "まける",
+        "answer": "まける"
+      },
+      {
+        "japanese": "神",
+        "english": "god, spirit",
+        "furigana": "神[かみ]",
+        "kana": "かみ",
+        "answer": "かみ"
+      },
+      {
+        "japanese": "実は",
+        "english": "actually, the truth is",
+        "furigana": "実[じつ]は",
+        "kana": "じつは",
+        "answer": "じつは"
+      },
+      {
+        "japanese": "服",
+        "english": "clothes",
+        "furigana": "服[ふく]",
+        "kana": "ふく",
+        "answer": "ふく"
+      },
+      {
+        "japanese": "不思議",
+        "english": "strange, wonderful",
+        "furigana": "不[ふ] 思[し] 議[ぎ]",
+        "kana": "ふしぎ",
+        "answer": "ふしぎ"
+      },
+      {
+        "japanese": "意識",
+        "english": "consciousness, awareness",
+        "furigana": "意[い] 識[しき]",
+        "kana": "いしき",
+        "answer": "いしき"
+      },
+      {
+        "japanese": "一体",
+        "english": "what on earth, what the…",
+        "furigana": "一[いっ] 体[たい]",
+        "kana": "いったい",
+        "answer": "いったい"
+      },
+      {
+        "japanese": "とりあえず",
+        "english": "for now, first of all",
+        "furigana": "とりあえず",
+        "kana": "とりあえず",
+        "answer": "とりあえず"
+      },
+      {
+        "japanese": "送る",
+        "english": "send",
+        "furigana": "送[おく]る",
+        "kana": "おくる",
+        "answer": "おくる"
+      },
+      {
+        "japanese": "では",
+        "english": "then",
+        "furigana": "では",
+        "kana": "では",
+        "answer": "では"
+      },
+      {
+        "japanese": "安心",
+        "english": "peace of mind, relief",
+        "furigana": "安[あん] 心[しん]",
+        "kana": "あんしん",
+        "answer": "あんしん"
+      },
+      {
+        "japanese": "失う",
+        "english": "lose, miss",
+        "furigana": "失[うしな]う",
+        "kana": "うしなう",
+        "answer": "うしなう"
+      },
+      {
+        "japanese": "行動",
+        "english": "action, conduct",
+        "furigana": "行[こう] 動[どう]",
+        "kana": "こうどう",
+        "answer": "こうどう"
+      },
+      {
+        "japanese": "触れる",
+        "english": "touch, come in contact with",
+        "furigana": "触[ふ]れる",
+        "kana": "ふれる",
+        "answer": "ふれる"
+      },
+      {
+        "japanese": "そもそも",
+        "english": "in the first place",
+        "furigana": "そもそも",
+        "kana": "そもそも",
+        "answer": "そもそも"
+      },
+      {
+        "japanese": "少ない",
+        "english": "few, little",
+        "furigana": "少[すく]ない",
+        "kana": "すくない",
+        "answer": "すくない"
+      },
+      {
+        "japanese": "結局",
+        "english": "after all, finally",
+        "furigana": "結[けっ] 局[きょく]",
+        "kana": "けっきょく",
+        "answer": "けっきょく"
+      },
+      {
+        "japanese": "空",
+        "english": "sky, weather",
+        "furigana": "空[そら]",
+        "kana": "そら",
+        "answer": "そら"
+      },
+      {
+        "japanese": "済む",
+        "english": "be settled, complete",
+        "furigana": "済[す]む",
+        "kana": "すむ",
+        "answer": "すむ"
+      },
+      {
+        "japanese": "任せる",
+        "english": "entrust to, leave it to",
+        "furigana": "任[まか]せる",
+        "kana": "まかせる",
+        "answer": "まかせる"
+      },
+      {
+        "japanese": "赤い",
+        "english": "red",
+        "furigana": "赤[あか]い",
+        "kana": "あかい",
+        "answer": "あかい"
+      },
+      {
+        "japanese": "大事",
+        "english": "important, precious",
+        "furigana": "大[だい] 事[じ]",
+        "kana": "だいじ",
+        "answer": "だいじ"
+      },
+      {
+        "japanese": "残す",
+        "english": "leave, reserve",
+        "furigana": "残[のこ]す",
+        "kana": "のこす",
+        "answer": "のこす"
+      },
+      {
+        "japanese": "止まる",
+        "english": "stop, come to a stop",
+        "furigana": "止[と]まる",
+        "kana": "とまる",
+        "answer": "とまる"
+      },
+      {
+        "japanese": "朝",
+        "english": "morning",
+        "furigana": "朝[あさ]",
+        "kana": "あさ",
+        "answer": "あさ"
+      },
+      {
+        "japanese": "命",
+        "english": "life",
+        "furigana": "命[いのち]",
+        "kana": "いのち",
+        "answer": "いのち"
+      },
+      {
+        "japanese": "不安",
+        "english": "uneasiness, anxiety",
+        "furigana": "不[ふ] 安[あん]",
+        "kana": "ふあん",
+        "answer": "ふあん"
+      },
+      {
+        "japanese": "結構",
+        "english": "all right, no thank you",
+        "furigana": "結[けっ] 構[こう]",
+        "kana": "けっこう",
+        "answer": "けっこう"
+      },
+      {
+        "japanese": "結構",
+        "english": "quite",
+        "furigana": "結[けっ] 構[こう]",
+        "kana": "けっこう",
+        "answer": "けっこう"
+      },
+      {
+        "japanese": "新しい",
+        "english": "new",
+        "furigana": "新[あたら]しい",
+        "kana": "あたらしい",
+        "answer": "あたらしい"
+      },
+      {
+        "japanese": "程度",
+        "english": "degree, extent",
+        "furigana": "程[てい] 度[ど]",
+        "kana": "ていど",
+        "answer": "ていど"
+      },
+      {
+        "japanese": "壁",
+        "english": "wall, partition",
+        "furigana": "壁[かべ]",
+        "kana": "かべ",
+        "answer": "かべ"
+      },
+      {
+        "japanese": "用",
+        "english": "things to do, (as a suffix) to do..., made for...",
+        "furigana": "用[よう]",
+        "kana": "よう",
+        "answer": "よう"
+      },
+      {
+        "japanese": "背中",
+        "english": "back",
+        "furigana": "背[せ] 中[なか]",
+        "kana": "せなか",
+        "answer": "せなか"
+      },
+      {
+        "japanese": "気付く",
+        "english": "realize, notice",
+        "furigana": "気[き] 付[づ]く",
+        "kana": "きづく",
+        "answer": "きづく"
+      },
+      {
+        "japanese": "いきなり",
+        "english": "all of a sudden, without warning",
+        "furigana": "いきなり",
+        "kana": "いきなり",
+        "answer": "いきなり"
+      },
+      {
+        "japanese": "渡す",
+        "english": "carry across, hand over",
+        "furigana": "渡[わた]す",
+        "kana": "わたす",
+        "answer": "わたす"
+      },
+      {
+        "japanese": "喜ぶ",
+        "english": "be happy, be delighted",
+        "furigana": "喜[よろこ]ぶ",
+        "kana": "よろこぶ",
+        "answer": "よろこぶ"
+      },
+      {
+        "japanese": "可愛い",
+        "english": "cute",
+        "furigana": "可愛[かわい]い",
+        "kana": "かわいい",
+        "answer": "かわいい"
+      },
+      {
+        "japanese": "始まる",
+        "english": "begin",
+        "furigana": "始[はじ]まる",
+        "kana": "はじまる",
+        "answer": "はじまる"
+      },
+      {
+        "japanese": "色",
+        "english": "color",
+        "furigana": "色[いろ]",
+        "kana": "いろ",
+        "answer": "いろ"
+      },
+      {
+        "japanese": "認める",
+        "english": "recognize, approve, accept",
+        "furigana": "認[みと]める",
+        "kana": "みとめる",
+        "answer": "みとめる"
+      },
+      {
+        "japanese": "急",
+        "english": "suddenly",
+        "furigana": "急[きゅう]",
+        "kana": "きゅう",
+        "answer": "きゅう"
+      },
+      {
+        "japanese": "向こう",
+        "english": "the other side, the other party, opponent",
+        "furigana": "向[む]こう",
+        "kana": "むこう",
+        "answer": "むこう"
+      },
+      {
+        "japanese": "求める",
+        "english": "seek, wish for",
+        "furigana": "求[もと]める",
+        "kana": "もとめる",
+        "answer": "もとめる"
+      },
+      {
+        "japanese": "肩",
+        "english": "shoulder",
+        "furigana": "肩[かた]",
+        "kana": "かた",
+        "answer": "かた"
+      },
+      {
+        "japanese": "仲間",
+        "english": "comrade, peer",
+        "furigana": "仲[なか] 間[ま]",
+        "kana": "なかま",
+        "answer": "なかま"
+      },
+      {
+        "japanese": "ようやく",
+        "english": "at last",
+        "furigana": "ようやく",
+        "kana": "ようやく",
+        "answer": "ようやく"
+      },
+      {
+        "japanese": "思わず",
+        "english": "unintentionally, involuntarily",
+        "furigana": "思[おも]わず",
+        "kana": "おもわず",
+        "answer": "おもわず"
+      },
+      {
+        "japanese": "ほとんど",
+        "english": "almost, hardly",
+        "furigana": "ほとんど",
+        "kana": "ほとんど",
+        "answer": "ほとんど"
+      },
+      {
+        "japanese": "突然",
+        "english": "abruptly, suddenly",
+        "furigana": "突[とつ] 然[ぜん]",
+        "kana": "とつぜん",
+        "answer": "とつぜん"
+      },
+      {
+        "japanese": "自身",
+        "english": "self",
+        "furigana": "自[じ] 身[しん]",
+        "kana": "じしん",
+        "answer": "じしん"
+      },
+      {
+        "japanese": "再び",
+        "english": "again, a second time",
+        "furigana": "再[ふたた]び",
+        "kana": "ふたたび",
+        "answer": "ふたたび"
+      },
+      {
+        "japanese": "静か",
+        "english": "quiet",
+        "furigana": "静[しず]か",
+        "kana": "しずか",
+        "answer": "しずか"
+      },
+      {
+        "japanese": "飛ぶ",
+        "english": "fly",
+        "furigana": "飛[と]ぶ",
+        "kana": "とぶ",
+        "answer": "とぶ"
+      },
+      {
+        "japanese": "白い",
+        "english": "white, blank",
+        "furigana": "白[しろ]い",
+        "kana": "しろい",
+        "answer": "しろい"
+      },
+      {
+        "japanese": "届く",
+        "english": "reach, be received",
+        "furigana": "届[とど]く",
+        "kana": "とどく",
+        "answer": "とどく"
+      },
+      {
+        "japanese": "生む",
+        "english": "have children",
+        "furigana": "生[う]む",
+        "kana": "うむ",
+        "answer": "うむ"
+      },
+      {
+        "japanese": "倒す",
+        "english": "bring down, overthrow",
+        "furigana": "倒[たお]す",
+        "kana": "たおす",
+        "answer": "たおす"
+      },
+      {
+        "japanese": "似る",
+        "english": "look similar to, resemble",
+        "furigana": "似[に]る",
+        "kana": "にる",
+        "answer": "にる"
+      },
+      {
+        "japanese": "空気",
+        "english": "atmosphere, air",
+        "furigana": "空[くう] 気[き]",
+        "kana": "くうき",
+        "answer": "くうき"
+      },
+      {
+        "japanese": "腰",
+        "english": "hip, lower back",
+        "furigana": "腰[こし]",
+        "kana": "こし",
+        "answer": "こし"
+      },
+      {
+        "japanese": "名",
+        "english": "name, reputation",
+        "furigana": "名[な]",
+        "kana": "な",
+        "answer": "な"
+      },
+      {
+        "japanese": "危険",
+        "english": "danger, dangerous",
+        "furigana": "危[き] 険[けん]",
+        "kana": "きけん",
+        "answer": "きけん"
+      },
+      {
+        "japanese": "付く",
+        "english": "attach itself to, be connected with, come in contact with",
+        "furigana": "付[つ]く",
+        "kana": "つく",
+        "answer": "つく"
+      },
+      {
+        "japanese": "つく",
+        "english": "be on, switched on",
+        "furigana": "つく",
+        "kana": "つく",
+        "answer": "つく"
+      },
+      {
+        "japanese": "熱い",
+        "english": "hot (things, touch)",
+        "furigana": "熱[あつ]い",
+        "kana": "あつい",
+        "answer": "あつい"
+      },
+      {
+        "japanese": "ただいま",
+        "english": "I'm back (said when arriving home)",
+        "furigana": "ただいま",
+        "kana": "ただいま",
+        "answer": "ただいま"
+      },
+      {
+        "japanese": "頂きます",
+        "english": "let's eat!, thank you for the meal",
+        "furigana": "頂[いただ]きます",
+        "kana": "いただきます",
+        "answer": "いただきます"
+      },
+      {
+        "japanese": "慌てる",
+        "english": "be flustered, hurry",
+        "furigana": "慌[あわ]てる",
+        "kana": "あわてる",
+        "answer": "あわてる"
+      },
+      {
+        "japanese": "周囲",
+        "english": "circumference, surroundings",
+        "furigana": "周[しゅう] 囲[い]",
+        "kana": "しゅうい",
+        "answer": "しゅうい"
+      },
+      {
+        "japanese": "気分",
+        "english": "mood, feeling",
+        "furigana": "気[き] 分[ぶん]",
+        "kana": "きぶん",
+        "answer": "きぶん"
+      },
+      {
+        "japanese": "事実",
+        "english": "fact, truth",
+        "furigana": "事[じ] 実[じつ]",
+        "kana": "じじつ",
+        "answer": "じじつ"
+      },
+      {
+        "japanese": "まず",
+        "english": "first (of all), to begin with",
+        "furigana": "まず",
+        "kana": "まず",
+        "answer": "まず"
+      },
+      {
+        "japanese": "本気",
+        "english": "seriousness",
+        "furigana": "本[ほん] 気[き]",
+        "kana": "ほんき",
+        "answer": "ほんき"
+      },
+      {
+        "japanese": "頷く",
+        "english": "nod",
+        "furigana": "頷[うなず]く",
+        "kana": "うなずく",
+        "answer": "うなずく"
+      },
+      {
+        "japanese": "通り",
+        "english": "street",
+        "furigana": "通[とお]り",
+        "kana": "とおり",
+        "answer": "とおり"
+      },
+      {
+        "japanese": "想像",
+        "english": "imagination",
+        "furigana": "想[そう] 像[ぞう]",
+        "kana": "そうぞう",
+        "answer": "そうぞう"
+      },
+      {
+        "japanese": "店",
+        "english": "shop, store",
+        "furigana": "店[みせ]",
+        "kana": "みせ",
+        "answer": "みせ"
+      },
+      {
+        "japanese": "何だか",
+        "english": "somehow, for some reason",
+        "furigana": "何[なん]だか",
+        "kana": "なんだか",
+        "answer": "なんだか"
+      },
+      {
+        "japanese": "目的",
+        "english": "purpose, aim, object",
+        "furigana": "目[もく] 的[てき]",
+        "kana": "もくてき",
+        "answer": "もくてき"
+      },
+      {
+        "japanese": "眠る",
+        "english": "sleep",
+        "furigana": "眠[ねむ]る",
+        "kana": "ねむる",
+        "answer": "ねむる"
+      },
+      {
+        "japanese": "確か",
+        "english": "certainly, surely, if I'm not mistaken...",
+        "furigana": "確[たし]か",
+        "kana": "たしか",
+        "answer": "たしか"
+      },
+      {
+        "japanese": "十分",
+        "english": "plenty",
+        "furigana": "十[じゅう] 分[ぶん]",
+        "kana": "じゅうぶん",
+        "answer": "じゅうぶん"
+      },
+      {
+        "japanese": "料理",
+        "english": "cooking, cuisine",
+        "furigana": "料[りょう] 理[り]",
+        "kana": "りょうり",
+        "answer": "りょうり"
+      },
+      {
+        "japanese": "頃",
+        "english": "approximate time",
+        "furigana": "頃[ころ]",
+        "kana": "ころ",
+        "answer": "ころ"
+      },
+      {
+        "japanese": "なかなか",
+        "english": "rather, fairly",
+        "furigana": "なかなか",
+        "kana": "なかなか",
+        "answer": "なかなか"
+      },
+      {
+        "japanese": "正直",
+        "english": "honest, upright",
+        "furigana": "正[しょう] 直[じき]",
+        "kana": "しょうじき",
+        "answer": "しょうじき"
+      },
+      {
+        "japanese": "身",
+        "english": "body, one's own person",
+        "furigana": "身[み]",
+        "kana": "み",
+        "answer": "み"
+      },
+      {
+        "japanese": "いっぱい",
+        "english": "full, a lot",
+        "furigana": "いっぱい",
+        "kana": "いっぱい",
+        "answer": "いっぱい"
+      },
+      {
+        "japanese": "美しい",
+        "english": "beautiful",
+        "furigana": "美[うつく]しい",
+        "kana": "うつくしい",
+        "answer": "うつくしい"
+      },
+      {
+        "japanese": "甘い",
+        "english": "sweet",
+        "furigana": "甘[あま]い",
+        "kana": "あまい",
+        "answer": "あまい"
+      },
+      {
+        "japanese": "むしろ",
+        "english": "rather",
+        "furigana": "むしろ",
+        "kana": "むしろ",
+        "answer": "むしろ"
+      },
+      {
+        "japanese": "首",
+        "english": "neck",
+        "furigana": "首[くび]",
+        "kana": "くび",
+        "answer": "くび"
+      },
+      {
+        "japanese": "感情",
+        "english": "feeling, emotion",
+        "furigana": "感[かん] 情[じょう]",
+        "kana": "かんじょう",
+        "answer": "かんじょう"
+      },
+      {
+        "japanese": "周り",
+        "english": "around, surroundings",
+        "furigana": "周[まわ]り",
+        "kana": "まわり",
+        "answer": "まわり"
+      },
+      {
+        "japanese": "方法",
+        "english": "method, way",
+        "furigana": "方[ほう] 法[ほう]",
+        "kana": "ほうほう",
+        "answer": "ほうほう"
+      },
+      {
+        "japanese": "もう一度",
+        "english": "once more",
+        "furigana": "もう 一[いち] 度[ど]",
+        "kana": "もういちど",
+        "answer": "もういちど"
+      },
+      {
+        "japanese": "遅い",
+        "english": "slow, late",
+        "furigana": "遅[おそ]い",
+        "kana": "おそい",
+        "answer": "おそい"
+      },
+      {
+        "japanese": "会話",
+        "english": "conversation",
+        "furigana": "会[かい] 話[わ]",
+        "kana": "かいわ",
+        "answer": "かいわ"
+      },
+      {
+        "japanese": "合う",
+        "english": "fit",
+        "furigana": "合[あ]う",
+        "kana": "あう",
+        "answer": "あう"
+      },
+      {
+        "japanese": "やって来る",
+        "english": "come around, come along",
+        "furigana": "やって 来[く]る",
+        "kana": "やってくる",
+        "answer": "やってくる"
+      },
+      {
+        "japanese": "森",
+        "english": "thick woods, forest",
+        "furigana": "森[もり]",
+        "kana": "もり",
+        "answer": "もり"
+      },
+      {
+        "japanese": "動かす",
+        "english": "move, make a move",
+        "furigana": "動[うご]かす",
+        "kana": "うごかす",
+        "answer": "うごかす"
+      },
+      {
+        "japanese": "能力",
+        "english": "ability, capacity",
+        "furigana": "能[のう] 力[りょく]",
+        "kana": "のうりょく",
+        "answer": "のうりょく"
+      },
+      {
+        "japanese": "震える",
+        "english": "tremble, shake",
+        "furigana": "震[ふる]える",
+        "kana": "ふるえる",
+        "answer": "ふるえる"
+      },
+      {
+        "japanese": "期待",
+        "english": "expectation, anticipation",
+        "furigana": "期[き] 待[たい]",
+        "kana": "きたい",
+        "answer": "きたい"
+      },
+      {
+        "japanese": "無事",
+        "english": "safely, peacefully",
+        "furigana": "無[ぶ] 事[じ]",
+        "kana": "ぶじ",
+        "answer": "ぶじ"
+      },
+      {
+        "japanese": "起こす",
+        "english": "bring about, cause",
+        "furigana": "起[お]こす",
+        "kana": "おこす",
+        "answer": "おこす"
+      },
+      {
+        "japanese": "起こす",
+        "english": "wake up",
+        "furigana": "起[お]こす",
+        "kana": "おこす",
+        "answer": "おこす"
+      },
+      {
+        "japanese": "耳",
+        "english": "ear, hearing",
+        "furigana": "耳[みみ]",
+        "kana": "みみ",
+        "answer": "みみ"
+      },
+      {
+        "japanese": "生まれる",
+        "english": "be born",
+        "furigana": "生[う]まれる",
+        "kana": "うまれる",
+        "answer": "うまれる"
+      },
+      {
+        "japanese": "移動",
+        "english": "movement, shift",
+        "furigana": "移[い] 動[どう]",
+        "kana": "いどう",
+        "answer": "いどう"
+      },
+      {
+        "japanese": "邪魔",
+        "english": "obstacle, hindrance",
+        "furigana": "邪[じゃ] 魔[ま]",
+        "kana": "じゃま",
+        "answer": "じゃま"
+      },
+      {
+        "japanese": "遊ぶ",
+        "english": "play",
+        "furigana": "遊[あそ]ぶ",
+        "kana": "あそぶ",
+        "answer": "あそぶ"
+      },
+      {
+        "japanese": "要る",
+        "english": "need, require",
+        "furigana": "要[い]る",
+        "kana": "いる",
+        "answer": "いる"
+      },
+      {
+        "japanese": "無くなる",
+        "english": "to be lost, to be used up",
+        "furigana": "無[な]くなる",
+        "kana": "なくなる",
+        "answer": "なくなる"
+      },
+      {
+        "japanese": "唇",
+        "english": "lip",
+        "furigana": "唇[くちびる]",
+        "kana": "くちびる",
+        "answer": "くちびる"
+      },
+      {
+        "japanese": "着る",
+        "english": "wear, put on",
+        "furigana": "着[き]る",
+        "kana": "きる",
+        "answer": "きる"
+      },
+      {
+        "japanese": "色々",
+        "english": "in various ways",
+        "furigana": "色[いろ] 々[いろ]",
+        "kana": "いろいろ",
+        "answer": "いろいろ"
+      },
+      {
+        "japanese": "どうぞ",
+        "english": "go ahead",
+        "furigana": "どうぞ",
+        "kana": "どうぞ",
+        "answer": "どうぞ"
+      },
+      {
+        "japanese": "立ち上がる",
+        "english": "stand up",
+        "furigana": "立[た]ち 上[あ]がる",
+        "kana": "たちあがる",
+        "answer": "たちあがる"
+      },
+      {
+        "japanese": "思い",
+        "english": "thought",
+        "furigana": "思[おも]い",
+        "kana": "おもい",
+        "answer": "おもい"
+      },
+      {
+        "japanese": "以前",
+        "english": "before, ago",
+        "furigana": "以[い] 前[ぜん]",
+        "kana": "いぜん",
+        "answer": "いぜん"
+      },
+      {
+        "japanese": "もう少し",
+        "english": "a little more, a bit more",
+        "furigana": "もう 少[すこ]し",
+        "kana": "もうすこし",
+        "answer": "もうすこし"
+      },
+      {
+        "japanese": "襲う",
+        "english": "assault, attack",
+        "furigana": "襲[おそ]う",
+        "kana": "おそう",
+        "answer": "おそう"
+      },
+      {
+        "japanese": "見つかる",
+        "english": "be found, be caught",
+        "furigana": "見[み]つかる",
+        "kana": "みつかる",
+        "answer": "みつかる"
+      },
+      {
+        "japanese": "急ぐ",
+        "english": "hurry",
+        "furigana": "急[いそ]ぐ",
+        "kana": "いそぐ",
+        "answer": "いそぐ"
+      },
+      {
+        "japanese": "せっかく",
+        "english": "with (much) trouble, specially",
+        "furigana": "せっかく",
+        "kana": "せっかく",
+        "answer": "せっかく"
+      },
+      {
+        "japanese": "降りる",
+        "english": "get off, go down",
+        "furigana": "降[お]りる",
+        "kana": "おりる",
+        "answer": "おりる"
+      },
+      {
+        "japanese": "下りる",
+        "english": "go down, come down",
+        "furigana": "下[お]りる",
+        "kana": "おりる",
+        "answer": "おりる"
+      },
+      {
+        "japanese": "切る",
+        "english": "cut",
+        "furigana": "切[き]る",
+        "kana": "きる",
+        "answer": "きる"
+      },
+      {
+        "japanese": "事件",
+        "english": "affair, case",
+        "furigana": "事[じ] 件[けん]",
+        "kana": "じけん",
+        "answer": "じけん"
+      },
+      {
+        "japanese": "返事",
+        "english": "reply",
+        "furigana": "返[へん] 事[じ]",
+        "kana": "へんじ",
+        "answer": "へんじ"
+      },
+      {
+        "japanese": "酷い",
+        "english": "terrible, cruel",
+        "furigana": "酷[ひど]い",
+        "kana": "ひどい",
+        "answer": "ひどい"
+      },
+      {
+        "japanese": "重い",
+        "english": "heavy",
+        "furigana": "重[おも]い",
+        "kana": "おもい",
+        "answer": "おもい"
+      },
+      {
+        "japanese": "起こる",
+        "english": "occur, happen",
+        "furigana": "起[お]こる",
+        "kana": "おこる",
+        "answer": "おこる"
+      },
+      {
+        "japanese": "逆",
+        "english": "reverse, inverse",
+        "furigana": "逆[ぎゃく]",
+        "kana": "ぎゃく",
+        "answer": "ぎゃく"
+      },
+      {
+        "japanese": "納得",
+        "english": "consent, accept",
+        "furigana": "納[なっ] 得[とく]",
+        "kana": "なっとく",
+        "answer": "なっとく"
+      },
+      {
+        "japanese": "楽しむ",
+        "english": "enjoy",
+        "furigana": "楽[たの]しむ",
+        "kana": "たのしむ",
+        "answer": "たのしむ"
+      },
+      {
+        "japanese": "叫ぶ",
+        "english": "shout, yell, cry out",
+        "furigana": "叫[さけ]ぶ",
+        "kana": "さけぶ",
+        "answer": "さけぶ"
+      },
+      {
+        "japanese": "集まる",
+        "english": "gather, be collected",
+        "furigana": "集[あつ]まる",
+        "kana": "あつまる",
+        "answer": "あつまる"
+      },
+      {
+        "japanese": "構う",
+        "english": "mind, care for",
+        "furigana": "構[かま]う",
+        "kana": "かまう",
+        "answer": "かまう"
+      },
+      {
+        "japanese": "王",
+        "english": "king",
+        "furigana": "王[おう]",
+        "kana": "おう",
+        "answer": "おう"
+      },
+      {
+        "japanese": "途中",
+        "english": "on the way, half way",
+        "furigana": "途[と] 中[ちゅう]",
+        "kana": "とちゅう",
+        "answer": "とちゅう"
+      },
+      {
+        "japanese": "慣れる",
+        "english": "grow accustomed to",
+        "furigana": "慣[な]れる",
+        "kana": "なれる",
+        "answer": "なれる"
+      },
+      {
+        "japanese": "終わり",
+        "english": "end",
+        "furigana": "終[お]わり",
+        "kana": "おわり",
+        "answer": "おわり"
+      },
+      {
+        "japanese": "一応",
+        "english": "for the time being, more or less",
+        "furigana": "一[いち] 応[おう]",
+        "kana": "いちおう",
+        "answer": "いちおう"
+      },
+      {
+        "japanese": "引く",
+        "english": "draw, pull",
+        "furigana": "引[ひ]く",
+        "kana": "ひく",
+        "answer": "ひく"
+      },
+      {
+        "japanese": "海",
+        "english": "sea, ocean",
+        "furigana": "海[うみ]",
+        "kana": "うみ",
+        "answer": "うみ"
+      },
+      {
+        "japanese": "諦める",
+        "english": "give up, abandon",
+        "furigana": "諦[あきら]める",
+        "kana": "あきらめる",
+        "answer": "あきらめる"
+      },
+      {
+        "japanese": "必ず",
+        "english": "without exception, always, certainly",
+        "furigana": "必[かなら]ず",
+        "kana": "かならず",
+        "answer": "かならず"
+      },
+      {
+        "japanese": "狙う",
+        "english": "aim, be after",
+        "furigana": "狙[ねら]う",
+        "kana": "ねらう",
+        "answer": "ねらう"
+      },
+      {
+        "japanese": "いくら",
+        "english": "how much",
+        "furigana": "いくら",
+        "kana": "いくら",
+        "answer": "いくら"
+      },
+      {
+        "japanese": "落とす",
+        "english": "drop",
+        "furigana": "落[お]とす",
+        "kana": "おとす",
+        "answer": "おとす"
+      },
+      {
+        "japanese": "部分",
+        "english": "part, section",
+        "furigana": "部[ぶ] 分[ぶん]",
+        "kana": "ぶぶん",
+        "answer": "ぶぶん"
+      },
+      {
+        "japanese": "必死",
+        "english": "frantic, desperate",
+        "furigana": "必[ひっ] 死[し]",
+        "kana": "ひっし",
+        "answer": "ひっし"
+      },
+      {
+        "japanese": "珍しい",
+        "english": "rare, uncommon",
+        "furigana": "珍[めずら]しい",
+        "kana": "めずらしい",
+        "answer": "めずらしい"
+      },
+      {
+        "japanese": "意外",
+        "english": "unexpected, unforeseen",
+        "furigana": "意[い] 外[がい]",
+        "kana": "いがい",
+        "answer": "いがい"
+      },
+      {
+        "japanese": "報告",
+        "english": "report",
+        "furigana": "報[ほう] 告[こく]",
+        "kana": "ほうこく",
+        "answer": "ほうこく"
+      },
+      {
+        "japanese": "握る",
+        "english": "grasp, grip",
+        "furigana": "握[にぎ]る",
+        "kana": "にぎる",
+        "answer": "にぎる"
+      },
+      {
+        "japanese": "結婚",
+        "english": "marriage",
+        "furigana": "結[けっ] 婚[こん]",
+        "kana": "けっこん",
+        "answer": "けっこん"
+      },
+      {
+        "japanese": "戦い",
+        "english": "war, battle",
+        "furigana": "戦[たたか]い",
+        "kana": "たたかい",
+        "answer": "たたかい"
+      },
+      {
+        "japanese": "感謝",
+        "english": "appreciation, thanks",
+        "furigana": "感[かん] 謝[しゃ]",
+        "kana": "かんしゃ",
+        "answer": "かんしゃ"
+      },
+      {
+        "japanese": "激しい",
+        "english": "intense, violent",
+        "furigana": "激[はげ]しい",
+        "kana": "はげしい",
+        "answer": "はげしい"
+      },
+      {
+        "japanese": "倒れる",
+        "english": "collapse, fall down",
+        "furigana": "倒[たお]れる",
+        "kana": "たおれる",
+        "answer": "たおれる"
+      },
+      {
+        "japanese": "既に",
+        "english": "already, too late",
+        "furigana": "既[すで]に",
+        "kana": "すでに",
+        "answer": "すでに"
+      },
+      {
+        "japanese": "疲れる",
+        "english": "get tired",
+        "furigana": "疲[つか]れる",
+        "kana": "つかれる",
+        "answer": "つかれる"
+      },
+      {
+        "japanese": "生活",
+        "english": "life, lifestyle",
+        "furigana": "生[せい] 活[かつ]",
+        "kana": "せいかつ",
+        "answer": "せいかつ"
+      },
+      {
+        "japanese": "場",
+        "english": "opportunity, occasion",
+        "furigana": "場[ば]",
+        "kana": "ば",
+        "answer": "ば"
+      },
+      {
+        "japanese": "愛する",
+        "english": "love, care for",
+        "furigana": "愛[あい]する",
+        "kana": "あいする",
+        "answer": "あいする"
+      },
+      {
+        "japanese": "冷たい",
+        "english": "cold",
+        "furigana": "冷[つめ]たい",
+        "kana": "つめたい",
+        "answer": "つめたい"
+      },
+      {
+        "japanese": "捨てる",
+        "english": "throw away",
+        "furigana": "捨[す]てる",
+        "kana": "すてる",
+        "answer": "すてる"
+      },
+      {
+        "japanese": "過ごす",
+        "english": "spend (time), pass",
+        "furigana": "過[す]ごす",
+        "kana": "すごす",
+        "answer": "すごす"
+      },
+      {
+        "japanese": "食事",
+        "english": "meal, dinner",
+        "furigana": "食[しょく] 事[じ]",
+        "kana": "しょくじ",
+        "answer": "しょくじ"
+      },
+      {
+        "japanese": "働く",
+        "english": "work",
+        "furigana": "働[はたら]く",
+        "kana": "はたらく",
+        "answer": "はたらく"
+      },
+      {
+        "japanese": "答え",
+        "english": "answer, response",
+        "furigana": "答[こた]え",
+        "kana": "こたえ",
+        "answer": "こたえ"
+      },
+      {
+        "japanese": "風",
+        "english": "wind",
+        "furigana": "風[かぜ]",
+        "kana": "かぜ",
+        "answer": "かぜ"
+      },
+      {
+        "japanese": "黒い",
+        "english": "black, dark",
+        "furigana": "黒[くろ]い",
+        "kana": "くろい",
+        "answer": "くろい"
+      },
+      {
+        "japanese": "助かる",
+        "english": "be saved, survive",
+        "furigana": "助[たす]かる",
+        "kana": "たすかる",
+        "answer": "たすかる"
+      },
+      {
+        "japanese": "受け取る",
+        "english": "receive, take (someone's words or behavior)",
+        "furigana": "受[う]け 取[と]る",
+        "kana": "うけとる",
+        "answer": "うけとる"
+      },
+      {
+        "japanese": "足りる",
+        "english": "be enough, be sufficient",
+        "furigana": "足[た]りる",
+        "kana": "たりる",
+        "answer": "たりる"
+      },
+      {
+        "japanese": "判断",
+        "english": "judgment, decision",
+        "furigana": "判[はん] 断[だん]",
+        "kana": "はんだん",
+        "answer": "はんだん"
+      },
+      {
+        "japanese": "未来",
+        "english": "future",
+        "furigana": "未[み] 来[らい]",
+        "kana": "みらい",
+        "answer": "みらい"
+      },
+      {
+        "japanese": "食う",
+        "english": "eat, live on",
+        "furigana": "食[く]う",
+        "kana": "くう",
+        "answer": "くう"
+      },
+      {
+        "japanese": "分",
+        "english": "amount, share",
+        "furigana": "分[ぶん]",
+        "kana": "ぶん",
+        "answer": "ぶん"
+      },
+      {
+        "japanese": "そっち",
+        "english": "there",
+        "furigana": "そっち",
+        "kana": "そっち",
+        "answer": "そっち"
+      },
+      {
+        "japanese": "上手い",
+        "english": "skilled, good",
+        "furigana": "上手[うま]い",
+        "kana": "うまい",
+        "answer": "うまい"
+      },
+      {
+        "japanese": "合わせる",
+        "english": "adjust, match",
+        "furigana": "合[あ]わせる",
+        "kana": "あわせる",
+        "answer": "あわせる"
+      },
+      {
+        "japanese": "大切",
+        "english": "important, valuable",
+        "furigana": "大[たい] 切[せつ]",
+        "kana": "たいせつ",
+        "answer": "たいせつ"
+      },
+      {
+        "japanese": "花",
+        "english": "flower",
+        "furigana": "花[はな]",
+        "kana": "はな",
+        "answer": "はな"
+      },
+      {
+        "japanese": "謝る",
+        "english": "apologize",
+        "furigana": "謝[あやま]る",
+        "kana": "あやまる",
+        "answer": "あやまる"
+      },
+      {
+        "japanese": "奪う",
+        "english": "snatch, take by force",
+        "furigana": "奪[うば]う",
+        "kana": "うばう",
+        "answer": "うばう"
+      },
+      {
+        "japanese": "勢い",
+        "english": "vigor, momentum",
+        "furigana": "勢[いきお]い",
+        "kana": "いきおい",
+        "answer": "いきおい"
+      },
+      {
+        "japanese": "涙",
+        "english": "tear",
+        "furigana": "涙[なみだ]",
+        "kana": "なみだ",
+        "answer": "なみだ"
+      },
+      {
+        "japanese": "雰囲気",
+        "english": "atmosphere, mood",
+        "furigana": "雰[ふん] 囲[い] 気[き]",
+        "kana": "ふんいき",
+        "answer": "ふんいき"
+      },
+      {
+        "japanese": "嘘",
+        "english": "lie",
+        "furigana": "嘘[うそ]",
+        "kana": "うそ",
+        "answer": "うそ"
+      },
+      {
+        "japanese": "望む",
+        "english": "desire, hope",
+        "furigana": "望[のぞ]む",
+        "kana": "のぞむ",
+        "answer": "のぞむ"
+      },
+      {
+        "japanese": "緊張",
+        "english": "tension, strain, be nervous",
+        "furigana": "緊[きん] 張[ちょう]",
+        "kana": "きんちょう",
+        "answer": "きんちょう"
+      },
+      {
+        "japanese": "一緒",
+        "english": "together",
+        "furigana": "一[いっ] 緒[しょ]",
+        "kana": "いっしょ",
+        "answer": "いっしょ"
+      },
+      {
+        "japanese": "救う",
+        "english": "save",
+        "furigana": "救[すく]う",
+        "kana": "すくう",
+        "answer": "すくう"
+      },
+      {
+        "japanese": "自ら",
+        "english": "oneself",
+        "furigana": "自[みずか]ら",
+        "kana": "みずから",
+        "answer": "みずから"
+      },
+      {
+        "japanese": "地面",
+        "english": "surface, ground",
+        "furigana": "地[じ] 面[めん]",
+        "kana": "じめん",
+        "answer": "じめん"
+      },
+      {
+        "japanese": "失敗",
+        "english": "failure, blunder",
+        "furigana": "失[しっ] 敗[ぱい]",
+        "kana": "しっぱい",
+        "answer": "しっぱい"
+      },
+      {
+        "japanese": "避ける",
+        "english": "avoid, evade",
+        "furigana": "避[さ]ける",
+        "kana": "さける",
+        "answer": "さける"
+      },
+      {
+        "japanese": "窓",
+        "english": "window",
+        "furigana": "窓[まど]",
+        "kana": "まど",
+        "answer": "まど"
+      },
+      {
+        "japanese": "素直",
+        "english": "honest, straightforward",
+        "furigana": "素[す] 直[なお]",
+        "kana": "すなお",
+        "answer": "すなお"
+      },
+      {
+        "japanese": "肉",
+        "english": "flesh, meat",
+        "furigana": "肉[にく]",
+        "kana": "にく",
+        "answer": "にく"
+      },
+      {
+        "japanese": "冗談",
+        "english": "joke",
+        "furigana": "冗[じょう] 談[だん]",
+        "kana": "じょうだん",
+        "answer": "じょうだん"
+      },
+      {
+        "japanese": "余裕",
+        "english": "room, leeway",
+        "furigana": "余[よ] 裕[ゆう]",
+        "kana": "よゆう",
+        "answer": "よゆう"
+      },
+      {
+        "japanese": "連絡",
+        "english": "connection, communication",
+        "furigana": "連[れん] 絡[らく]",
+        "kana": "れんらく",
+        "answer": "れんらく"
+      },
+      {
+        "japanese": "人生",
+        "english": "(human) life",
+        "furigana": "人[じん] 生[せい]",
+        "kana": "じんせい",
+        "answer": "じんせい"
+      },
+      {
+        "japanese": "放つ",
+        "english": "emit, set free, shoot (e.g. an arrow or bullet)",
+        "furigana": "放[はな]つ",
+        "kana": "はなつ",
+        "answer": "はなつ"
+      },
+      {
+        "japanese": "流れる",
+        "english": "flow, pass",
+        "furigana": "流[なが]れる",
+        "kana": "ながれる",
+        "answer": "ながれる"
+      },
+      {
+        "japanese": "特別",
+        "english": "special, extraordinary",
+        "furigana": "特[とく] 別[べつ]",
+        "kana": "とくべつ",
+        "answer": "とくべつ"
+      },
+      {
+        "japanese": "連中",
+        "english": "party, this bunch",
+        "furigana": "連[れん] 中[ちゅう]",
+        "kana": "れんちゅう",
+        "answer": "れんちゅう"
+      },
+      {
+        "japanese": "両手",
+        "english": "both hands",
+        "furigana": "両[りょう] 手[て]",
+        "kana": "りょうて",
+        "answer": "りょうて"
+      },
+      {
+        "japanese": "増える",
+        "english": "increase, accrue",
+        "furigana": "増[ふ]える",
+        "kana": "ふえる",
+        "answer": "ふえる"
+      },
+      {
+        "japanese": "出会う",
+        "english": "meet (by chance), come across",
+        "furigana": "出[で] 会[あ]う",
+        "kana": "であう",
+        "answer": "であう"
+      },
+      {
+        "japanese": "少年",
+        "english": "boy",
+        "furigana": "少[しょう] 年[ねん]",
+        "kana": "しょうねん",
+        "answer": "しょうねん"
+      },
+      {
+        "japanese": "繰り返す",
+        "english": "repeat",
+        "furigana": "繰[く]り 返[かえ]す",
+        "kana": "くりかえす",
+        "answer": "くりかえす"
+      },
+      {
+        "japanese": "我慢",
+        "english": "patience, bearing with",
+        "furigana": "我[が] 慢[まん]",
+        "kana": "がまん",
+        "answer": "がまん"
+      },
+      {
+        "japanese": "我々",
+        "english": "we (formal)",
+        "furigana": "我[われ] 々[われ]",
+        "kana": "われわれ",
+        "answer": "われわれ"
+      },
+      {
+        "japanese": "感覚",
+        "english": "sensation",
+        "furigana": "感[かん] 覚[かく]",
+        "kana": "かんかく",
+        "answer": "かんかく"
+      },
+      {
+        "japanese": "響く",
+        "english": "reverberate",
+        "furigana": "響[ひび]く",
+        "kana": "ひびく",
+        "answer": "ひびく"
+      },
+      {
+        "japanese": "何とか",
+        "english": "somehow, please",
+        "furigana": "何[なん]とか",
+        "kana": "なんとか",
+        "answer": "なんとか"
+      },
+      {
+        "japanese": "山",
+        "english": "mountain",
+        "furigana": "山[やま]",
+        "kana": "やま",
+        "answer": "やま"
+      },
+      {
+        "japanese": "当たり前",
+        "english": "of course, obvious",
+        "furigana": "当[あ]たり 前[まえ]",
+        "kana": "あたりまえ",
+        "answer": "あたりまえ"
+      },
+      {
+        "japanese": "予定",
+        "english": "schedule, plan",
+        "furigana": "予[よ] 定[てい]",
+        "kana": "よてい",
+        "answer": "よてい"
+      },
+      {
+        "japanese": "残念",
+        "english": "regretful, disappointing",
+        "furigana": "残[ざん] 念[ねん]",
+        "kana": "ざんねん",
+        "answer": "ざんねん"
+      },
+      {
+        "japanese": "追う",
+        "english": "chase, pursue",
+        "furigana": "追[お]う",
+        "kana": "おう",
+        "answer": "おう"
+      },
+      {
+        "japanese": "綺麗",
+        "english": "beautiful, clean",
+        "furigana": "綺[き] 麗[れい]",
+        "kana": "きれい",
+        "answer": "きれい"
+      },
+      {
+        "japanese": "いらっしゃる",
+        "english": "be, come, go (honorific form)",
+        "furigana": "いらっしゃる",
+        "kana": "いらっしゃる",
+        "answer": "いらっしゃる"
+      },
+      {
+        "japanese": "若い",
+        "english": "young",
+        "furigana": "若[わか]い",
+        "kana": "わかい",
+        "answer": "わかい"
+      },
+      {
+        "japanese": "どうしても",
+        "english": "by any means, really",
+        "furigana": "どうしても",
+        "kana": "どうしても",
+        "answer": "どうしても"
+      },
+      {
+        "japanese": "考え",
+        "english": "thought, view",
+        "furigana": "考[かんが]え",
+        "kana": "かんがえ",
+        "answer": "かんがえ"
+      },
+      {
+        "japanese": "過去",
+        "english": "the past",
+        "furigana": "過[か] 去[こ]",
+        "kana": "かこ",
+        "answer": "かこ"
+      },
+      {
+        "japanese": "気配",
+        "english": "indication, sign",
+        "furigana": "気[け] 配[はい]",
+        "kana": "けはい",
+        "answer": "けはい"
+      },
+      {
+        "japanese": "本人",
+        "english": "the person in question",
+        "furigana": "本[ほん] 人[にん]",
+        "kana": "ほんにん",
+        "answer": "ほんにん"
+      },
+      {
+        "japanese": "現実",
+        "english": "reality, actuality",
+        "furigana": "現[げん] 実[じつ]",
+        "kana": "げんじつ",
+        "answer": "げんじつ"
+      },
+      {
+        "japanese": "決して",
+        "english": "never, by no means",
+        "furigana": "決[けっ]して",
+        "kana": "けっして",
+        "answer": "けっして"
+      },
+      {
+        "japanese": "いつか",
+        "english": "some time, some day",
+        "furigana": "いつか",
+        "kana": "いつか",
+        "answer": "いつか"
+      },
+      {
+        "japanese": "床",
+        "english": "floor",
+        "furigana": "床[ゆか]",
+        "kana": "ゆか",
+        "answer": "ゆか"
+      },
+      {
+        "japanese": "横",
+        "english": "side, width across",
+        "furigana": "横[よこ]",
+        "kana": "よこ",
+        "answer": "よこ"
+      },
+      {
+        "japanese": "休む",
+        "english": "rest, take time off",
+        "furigana": "休[やす]む",
+        "kana": "やすむ",
+        "answer": "やすむ"
+      },
+      {
+        "japanese": "振り返る",
+        "english": "turn one's head, look back on",
+        "furigana": "振[ふ]り 返[かえ]る",
+        "kana": "ふりかえる",
+        "answer": "ふりかえる"
+      },
+      {
+        "japanese": "わざわざ",
+        "english": "go out of one's way",
+        "furigana": "わざわざ",
+        "kana": "わざわざ",
+        "answer": "わざわざ"
+      },
+      {
+        "japanese": "質問",
+        "english": "question",
+        "furigana": "質[しつ] 問[もん]",
+        "kana": "しつもん",
+        "answer": "しつもん"
+      },
+      {
+        "japanese": "興味",
+        "english": "interest",
+        "furigana": "興[きょう] 味[み]",
+        "kana": "きょうみ",
+        "answer": "きょうみ"
+      },
+      {
+        "japanese": "距離",
+        "english": "distance, interval",
+        "furigana": "距[きょ] 離[り]",
+        "kana": "きょり",
+        "answer": "きょり"
+      },
+      {
+        "japanese": "内容",
+        "english": "contents",
+        "furigana": "内[ない] 容[よう]",
+        "kana": "ないよう",
+        "answer": "ないよう"
+      },
+      {
+        "japanese": "つい",
+        "english": "inadvertently, carelessly",
+        "furigana": "つい",
+        "kana": "つい",
+        "answer": "つい"
+      },
+      {
+        "japanese": "回る",
+        "english": "rotate, go around",
+        "furigana": "回[まわ]る",
+        "kana": "まわる",
+        "answer": "まわる"
+      },
+      {
+        "japanese": "並ぶ",
+        "english": "line up",
+        "furigana": "並[なら]ぶ",
+        "kana": "ならぶ",
+        "answer": "ならぶ"
+      },
+      {
+        "japanese": "終える",
+        "english": "end, finish",
+        "furigana": "終[お]える",
+        "kana": "おえる",
+        "answer": "おえる"
+      },
+      {
+        "japanese": "態度",
+        "english": "attitude, manner",
+        "furigana": "態[たい] 度[ど]",
+        "kana": "たいど",
+        "answer": "たいど"
+      },
+      {
+        "japanese": "金",
+        "english": "money",
+        "furigana": "金[かね]",
+        "kana": "かね",
+        "answer": "かね"
+      },
+      {
+        "japanese": "今夜",
+        "english": "tonight, this evening",
+        "furigana": "今[こん] 夜[や]",
+        "kana": "こんや",
+        "answer": "こんや"
+      },
+      {
+        "japanese": "昨夜",
+        "english": "last night, last evening",
+        "furigana": "昨夜[ゆうべ]",
+        "kana": "ゆうべ",
+        "answer": "ゆうべ"
+      },
+      {
+        "japanese": "さすが",
+        "english": "just as expected, true to one's reputation",
+        "furigana": "さすが",
+        "kana": "さすが",
+        "answer": "さすが"
+      },
+      {
+        "japanese": "自然",
+        "english": "nature",
+        "furigana": "自[し] 然[ぜん]",
+        "kana": "しぜん",
+        "answer": "しぜん"
+      },
+      {
+        "japanese": "眺める",
+        "english": "look out, gaze",
+        "furigana": "眺[なが]める",
+        "kana": "ながめる",
+        "answer": "ながめる"
+      },
+      {
+        "japanese": "向く",
+        "english": "face, look",
+        "furigana": "向[む]く",
+        "kana": "むく",
+        "answer": "むく"
+      },
+      {
+        "japanese": "相変わらず",
+        "english": "as usual, as before",
+        "furigana": "相[あい] 変[か]わらず",
+        "kana": "あいかわらず",
+        "answer": "あいかわらず"
+      },
+      {
+        "japanese": "普段",
+        "english": "usual, ordinary",
+        "furigana": "普[ふ] 段[だん]",
+        "kana": "ふだん",
+        "answer": "ふだん"
+      },
+      {
+        "japanese": "どうも",
+        "english": "for some reason, somehow",
+        "furigana": "どうも",
+        "kana": "どうも",
+        "answer": "どうも"
+      },
+      {
+        "japanese": "運ぶ",
+        "english": "carry",
+        "furigana": "運[はこ]ぶ",
+        "kana": "はこぶ",
+        "answer": "はこぶ"
+      },
+      {
+        "japanese": "やっと",
+        "english": "at last, finally",
+        "furigana": "やっと",
+        "kana": "やっと",
+        "answer": "やっと"
+      },
+      {
+        "japanese": "弱い",
+        "english": "weak",
+        "furigana": "弱[よわ]い",
+        "kana": "よわい",
+        "answer": "よわい"
+      },
+      {
+        "japanese": "どうせ",
+        "english": "anyway",
+        "furigana": "どうせ",
+        "kana": "どうせ",
+        "answer": "どうせ"
+      },
+      {
+        "japanese": "離す",
+        "english": "separate, detach",
+        "furigana": "離[はな]す",
+        "kana": "はなす",
+        "answer": "はなす"
+      },
+      {
+        "japanese": "貴族",
+        "english": "noble",
+        "furigana": "貴[き] 族[ぞく]",
+        "kana": "きぞく",
+        "answer": "きぞく"
+      },
+      {
+        "japanese": "広がる",
+        "english": "spread out, extend",
+        "furigana": "広[ひろ]がる",
+        "kana": "ひろがる",
+        "answer": "ひろがる"
+      },
+      {
+        "japanese": "頬",
+        "english": "cheek",
+        "furigana": "頬[ほお]",
+        "kana": "ほお",
+        "answer": "ほお"
+      },
+      {
+        "japanese": "寂しい",
+        "english": "lonely, sad",
+        "furigana": "寂[さび]しい",
+        "kana": "さびしい",
+        "answer": "さびしい"
+      },
+      {
+        "japanese": "正しい",
+        "english": "correct",
+        "furigana": "正[ただ]しい",
+        "kana": "ただしい",
+        "answer": "ただしい"
+      },
+      {
+        "japanese": "自由",
+        "english": "free",
+        "furigana": "自[じ] 由[ゆう]",
+        "kana": "じゆう",
+        "answer": "じゆう"
+      },
+      {
+        "japanese": "全身",
+        "english": "the whole body",
+        "furigana": "全[ぜん] 身[しん]",
+        "kana": "ぜんしん",
+        "answer": "ぜんしん"
+      },
+      {
+        "japanese": "武器",
+        "english": "weapon, arms",
+        "furigana": "武[ぶ] 器[き]",
+        "kana": "ぶき",
+        "answer": "ぶき"
+      },
+      {
+        "japanese": "それぞれ",
+        "english": "each, respective",
+        "furigana": "それぞれ",
+        "kana": "それぞれ",
+        "answer": "それぞれ"
+      },
+      {
+        "japanese": "語る",
+        "english": "tell, talk",
+        "furigana": "語[かた]る",
+        "kana": "かたる",
+        "answer": "かたる"
+      },
+      {
+        "japanese": "持ってくる",
+        "english": "bring",
+        "furigana": "持[も]ってくる",
+        "kana": "もってくる",
+        "answer": "もってくる"
+      },
+      {
+        "japanese": "息子",
+        "english": "son",
+        "furigana": "息子[むすこ]",
+        "kana": "むすこ",
+        "answer": "むすこ"
+      },
+      {
+        "japanese": "娘",
+        "english": "daughter",
+        "furigana": "娘[むすめ]",
+        "kana": "むすめ",
+        "answer": "むすめ"
+      },
+      {
+        "japanese": "一気に",
+        "english": "in one go",
+        "furigana": "一[いっ] 気[き]に",
+        "kana": "いっきに",
+        "answer": "いっきに"
+      },
+      {
+        "japanese": "そっと",
+        "english": "softly, gently",
+        "furigana": "そっと",
+        "kana": "そっと",
+        "answer": "そっと"
+      },
+      {
+        "japanese": "伝わる",
+        "english": "be transmitted, be handed down",
+        "furigana": "伝[つた]わる",
+        "kana": "つたわる",
+        "answer": "つたわる"
+      },
+      {
+        "japanese": "当たる",
+        "english": "hit, strike",
+        "furigana": "当[あ]たる",
+        "kana": "あたる",
+        "answer": "あたる"
+      },
+      {
+        "japanese": "痛み",
+        "english": "pain, ache",
+        "furigana": "痛[いた]み",
+        "kana": "いたみ",
+        "answer": "いたみ"
+      },
+      {
+        "japanese": "妙",
+        "english": "strange",
+        "furigana": "妙[みょう]",
+        "kana": "みょう",
+        "answer": "みょう"
+      },
+      {
+        "japanese": "影",
+        "english": "shadow, shade",
+        "furigana": "影[かげ]",
+        "kana": "かげ",
+        "answer": "かげ"
+      },
+      {
+        "japanese": "死",
+        "english": "death",
+        "furigana": "死[し]",
+        "kana": "し",
+        "answer": "し"
+      },
+      {
+        "japanese": "多分",
+        "english": "probably, perhaps",
+        "furigana": "多[た] 分[ぶん]",
+        "kana": "たぶん",
+        "answer": "たぶん"
+      },
+      {
+        "japanese": "協力",
+        "english": "cooperation, collaboration",
+        "furigana": "協[きょう] 力[りょく]",
+        "kana": "きょうりょく",
+        "answer": "きょうりょく"
+      },
+      {
+        "japanese": "見上げる",
+        "english": "look up",
+        "furigana": "見[み] 上[あ]げる",
+        "kana": "みあげる",
+        "answer": "みあげる"
+      },
+      {
+        "japanese": "覚悟",
+        "english": "readiness, resolution",
+        "furigana": "覚[かく] 悟[ご]",
+        "kana": "かくご",
+        "answer": "かくご"
+      },
+      {
+        "japanese": "連れる",
+        "english": "take along, bring along",
+        "furigana": "連[つ]れる",
+        "kana": "つれる",
+        "answer": "つれる"
+      },
+      {
+        "japanese": "低い",
+        "english": "low, short (height)",
+        "furigana": "低[ひく]い",
+        "kana": "ひくい",
+        "answer": "ひくい"
+      },
+      {
+        "japanese": "木",
+        "english": "tree",
+        "furigana": "木[き]",
+        "kana": "き",
+        "answer": "き"
+      },
+      {
+        "japanese": "面倒",
+        "english": "annoying, troublesome",
+        "furigana": "面[めん] 倒[どう]",
+        "kana": "めんどう",
+        "answer": "めんどう"
+      },
+      {
+        "japanese": "闇",
+        "english": "darkness",
+        "furigana": "闇[やみ]",
+        "kana": "やみ",
+        "answer": "やみ"
+      },
+      {
+        "japanese": "広い",
+        "english": "wide, big",
+        "furigana": "広[ひろ]い",
+        "kana": "ひろい",
+        "answer": "ひろい"
+      },
+      {
+        "japanese": "告げる",
+        "english": "tell, notify",
+        "furigana": "告[つ]げる",
+        "kana": "つげる",
+        "answer": "つげる"
+      },
+      {
+        "japanese": "叩く",
+        "english": "tap, hit",
+        "furigana": "叩[たた]く",
+        "kana": "たたく",
+        "answer": "たたく"
+      },
+      {
+        "japanese": "自信",
+        "english": "self-confidence",
+        "furigana": "自[じ] 信[しん]",
+        "kana": "じしん",
+        "answer": "じしん"
+      },
+      {
+        "japanese": "集める",
+        "english": "gather, collect",
+        "furigana": "集[あつ]める",
+        "kana": "あつめる",
+        "answer": "あつめる"
+      },
+      {
+        "japanese": "振る",
+        "english": "wave, shake",
+        "furigana": "振[ふ]る",
+        "kana": "ふる",
+        "answer": "ふる"
+      },
+      {
+        "japanese": "余計",
+        "english": "excess, needless",
+        "furigana": "余[よ] 計[けい]",
+        "kana": "よけい",
+        "answer": "よけい"
+      },
+      {
+        "japanese": "他に",
+        "english": "else, in addition",
+        "furigana": "他[ほか]に",
+        "kana": "ほかに",
+        "answer": "ほかに"
+      },
+      {
+        "japanese": "誘う",
+        "english": "invite, ask out",
+        "furigana": "誘[さそ]う",
+        "kana": "さそう",
+        "answer": "さそう"
+      },
+      {
+        "japanese": "付き合う",
+        "english": "socialize with, seeing someone",
+        "furigana": "付[つ]き 合[あ]う",
+        "kana": "つきあう",
+        "answer": "つきあう"
+      },
+      {
+        "japanese": "村",
+        "english": "village",
+        "furigana": "村[むら]",
+        "kana": "むら",
+        "answer": "むら"
+      },
+      {
+        "japanese": "人物",
+        "english": "character, person",
+        "furigana": "人[じん] 物[ぶつ]",
+        "kana": "じんぶつ",
+        "answer": "じんぶつ"
+      },
+      {
+        "japanese": "数",
+        "english": "number",
+        "furigana": "数[かず]",
+        "kana": "かず",
+        "answer": "かず"
+      },
+      {
+        "japanese": "危ない",
+        "english": "dangerous, uncertain",
+        "furigana": "危[あぶ]ない",
+        "kana": "あぶない",
+        "answer": "あぶない"
+      },
+      {
+        "japanese": "事情",
+        "english": "circumstances, conditions",
+        "furigana": "事[じ] 情[じょう]",
+        "kana": "じじょう",
+        "answer": "じじょう"
+      },
+      {
+        "japanese": "本当に",
+        "english": "really, truly",
+        "furigana": "本[ほん] 当[とう]に",
+        "kana": "ほんとうに",
+        "answer": "ほんとうに"
+      },
+      {
+        "japanese": "噂",
+        "english": "gossip, rumor",
+        "furigana": "噂[うわさ]",
+        "kana": "うわさ",
+        "answer": "うわさ"
+      },
+      {
+        "japanese": "断る",
+        "english": "refuse, turn down",
+        "furigana": "断[ことわ]る",
+        "kana": "ことわる",
+        "answer": "ことわる"
+      },
+      {
+        "japanese": "どうか",
+        "english": "if possible, somehow",
+        "furigana": "どうか",
+        "kana": "どうか",
+        "answer": "どうか"
+      },
+      {
+        "japanese": "巨大",
+        "english": "huge, gigantic",
+        "furigana": "巨[きょ] 大[だい]",
+        "kana": "きょだい",
+        "answer": "きょだい"
+      },
+      {
+        "japanese": "最高",
+        "english": "best, supreme",
+        "furigana": "最[さい] 高[こう]",
+        "kana": "さいこう",
+        "answer": "さいこう"
+      },
+      {
+        "japanese": "お金",
+        "english": "money",
+        "furigana": "お 金[かね]",
+        "kana": "おかね",
+        "answer": "おかね"
+      },
+      {
+        "japanese": "傷",
+        "english": "wound, cut",
+        "furigana": "傷[きず]",
+        "kana": "きず",
+        "answer": "きず"
+      },
+      {
+        "japanese": "怒り",
+        "english": "anger, rage",
+        "furigana": "怒[いか]り",
+        "kana": "いかり",
+        "answer": "いかり"
+      },
+      {
+        "japanese": "どうやって",
+        "english": "how, in what way",
+        "furigana": "どうやって",
+        "kana": "どうやって",
+        "answer": "どうやって"
+      },
+      {
+        "japanese": "効果",
+        "english": "effect, result",
+        "furigana": "効[こう] 果[か]",
+        "kana": "こうか",
+        "answer": "こうか"
+      },
+      {
+        "japanese": "取り出す",
+        "english": "take out, pull out",
+        "furigana": "取[と]り 出[だ]す",
+        "kana": "とりだす",
+        "answer": "とりだす"
+      },
+      {
+        "japanese": "黒",
+        "english": "black",
+        "furigana": "黒[くろ]",
+        "kana": "くろ",
+        "answer": "くろ"
+      },
+      {
+        "japanese": "愛",
+        "english": "love",
+        "furigana": "愛[あい]",
+        "kana": "あい",
+        "answer": "あい"
+      },
+      {
+        "japanese": "直接",
+        "english": "directly",
+        "furigana": "直[ちょく] 接[せつ]",
+        "kana": "ちょくせつ",
+        "answer": "ちょくせつ"
+      },
+      {
+        "japanese": "浮かぶ",
+        "english": "float",
+        "furigana": "浮[う]かぶ",
+        "kana": "うかぶ",
+        "answer": "うかぶ"
+      },
+      {
+        "japanese": "抜ける",
+        "english": "fall out, leave",
+        "furigana": "抜[ぬ]ける",
+        "kana": "ぬける",
+        "answer": "ぬける"
+      },
+      {
+        "japanese": "暗い",
+        "english": "dark",
+        "furigana": "暗[くら]い",
+        "kana": "くらい",
+        "answer": "くらい"
+      },
+      {
+        "japanese": "息",
+        "english": "breath",
+        "furigana": "息[いき]",
+        "kana": "いき",
+        "answer": "いき"
+      },
+      {
+        "japanese": "駄目",
+        "english": "no good",
+        "furigana": "駄[だ] 目[め]",
+        "kana": "だめ",
+        "answer": "だめ"
+      },
+      {
+        "japanese": "点",
+        "english": "point, mark",
+        "furigana": "点[てん]",
+        "kana": "てん",
+        "answer": "てん"
+      },
+      {
+        "japanese": "参加",
+        "english": "participation",
+        "furigana": "参[さん] 加[か]",
+        "kana": "さんか",
+        "answer": "さんか"
+      },
+      {
+        "japanese": "はっきり",
+        "english": "clearly",
+        "furigana": "はっきり",
+        "kana": "はっきり",
+        "answer": "はっきり"
+      },
+      {
+        "japanese": "描く",
+        "english": "depict, describe, draw",
+        "furigana": "描[か]く",
+        "kana": "かく",
+        "answer": "かく"
+      },
+      {
+        "japanese": "描く",
+        "english": "depict, describe, draw",
+        "furigana": "描[えが]く",
+        "kana": "えがく",
+        "answer": "えがく"
+      },
+      {
+        "japanese": "無視",
+        "english": "ignoring, disregarding",
+        "furigana": "無[む] 視[し]",
+        "kana": "むし",
+        "answer": "むし"
+      },
+      {
+        "japanese": "生徒",
+        "english": "pupil, student",
+        "furigana": "生[せい] 徒[と]",
+        "kana": "せいと",
+        "answer": "せいと"
+      },
+      {
+        "japanese": "詳しい",
+        "english": "detailed",
+        "furigana": "詳[くわ]しい",
+        "kana": "くわしい",
+        "answer": "くわしい"
+      },
+      {
+        "japanese": "触る",
+        "english": "touch",
+        "furigana": "触[さわ]る",
+        "kana": "さわる",
+        "answer": "さわる"
+      },
+      {
+        "japanese": "これまで",
+        "english": "until now, until here",
+        "furigana": "これまで",
+        "kana": "これまで",
+        "answer": "これまで"
+      },
+      {
+        "japanese": "半分",
+        "english": "half",
+        "furigana": "半[はん] 分[ぶん]",
+        "kana": "はんぶん",
+        "answer": "はんぶん"
+      },
+      {
+        "japanese": "耐える",
+        "english": "withstand, endure",
+        "furigana": "耐[た]える",
+        "kana": "たえる",
+        "answer": "たえる"
+      },
+      {
+        "japanese": "立場",
+        "english": "standpoint, position",
+        "furigana": "立[たち] 場[ば]",
+        "kana": "たちば",
+        "answer": "たちば"
+      },
+      {
+        "japanese": "石",
+        "english": "stone, small rock",
+        "furigana": "石[いし]",
+        "kana": "いし",
+        "answer": "いし"
+      },
+      {
+        "japanese": "挨拶",
+        "english": "greeting",
+        "furigana": "挨[あい] 拶[さつ]",
+        "kana": "あいさつ",
+        "answer": "あいさつ"
+      },
+      {
+        "japanese": "相談",
+        "english": "consultation, advice",
+        "furigana": "相[そう] 談[だん]",
+        "kana": "そうだん",
+        "answer": "そうだん"
+      },
+      {
+        "japanese": "受け入れる",
+        "english": "accept, accommodate",
+        "furigana": "受[う]け 入[い]れる",
+        "kana": "うけいれる",
+        "answer": "うけいれる"
+      },
+      {
+        "japanese": "練習",
+        "english": "practice, training",
+        "furigana": "練[れん] 習[しゅう]",
+        "kana": "れんしゅう",
+        "answer": "れんしゅう"
+      },
+      {
+        "japanese": "無駄",
+        "english": "wasteful, useless",
+        "furigana": "無[む] 駄[だ]",
+        "kana": "むだ",
+        "answer": "むだ"
+      },
+      {
+        "japanese": "抱える",
+        "english": "hold in one's arms",
+        "furigana": "抱[かか]える",
+        "kana": "かかえる",
+        "answer": "かかえる"
+      },
+      {
+        "japanese": "示す",
+        "english": "show, indicate",
+        "furigana": "示[しめ]す",
+        "kana": "しめす",
+        "answer": "しめす"
+      },
+      {
+        "japanese": "成功",
+        "english": "success",
+        "furigana": "成[せい] 功[こう]",
+        "kana": "せいこう",
+        "answer": "せいこう"
+      },
+      {
+        "japanese": "抱く",
+        "english": "hug, hold in one's arms",
+        "furigana": "抱[だ]く",
+        "kana": "だく",
+        "answer": "だく"
+      },
+      {
+        "japanese": "味",
+        "english": "taste, flavor",
+        "furigana": "味[あじ]",
+        "kana": "あじ",
+        "answer": "あじ"
+      },
+      {
+        "japanese": "男性",
+        "english": "male, man",
+        "furigana": "男[だん] 性[せい]",
+        "kana": "だんせい",
+        "answer": "だんせい"
+      },
+      {
+        "japanese": "否定",
+        "english": "denial, negation",
+        "furigana": "否[ひ] 定[てい]",
+        "kana": "ひてい",
+        "answer": "ひてい"
+      },
+      {
+        "japanese": "致す",
+        "english": "do (humble form)",
+        "furigana": "致[いた]す",
+        "kana": "いたす",
+        "answer": "いたす"
+      },
+      {
+        "japanese": "現在",
+        "english": "present time, now",
+        "furigana": "現[げん] 在[ざい]",
+        "kana": "げんざい",
+        "answer": "げんざい"
+      },
+      {
+        "japanese": "輝く",
+        "english": "glitter, shine",
+        "furigana": "輝[かがや]く",
+        "kana": "かがやく",
+        "answer": "かがやく"
+      },
+      {
+        "japanese": "熱",
+        "english": "fever",
+        "furigana": "熱[ねつ]",
+        "kana": "ねつ",
+        "answer": "ねつ"
+      },
+      {
+        "japanese": "始め",
+        "english": "beginning, origin",
+        "furigana": "始[はじ]め",
+        "kana": "はじめ",
+        "answer": "はじめ"
+      },
+      {
+        "japanese": "厳しい",
+        "english": "strict",
+        "furigana": "厳[きび]しい",
+        "kana": "きびしい",
+        "answer": "きびしい"
+      },
+      {
+        "japanese": "匂い",
+        "english": "smell, odor",
+        "furigana": "匂[にお]い",
+        "kana": "におい",
+        "answer": "におい"
+      },
+      {
+        "japanese": "席",
+        "english": "seat",
+        "furigana": "席[せき]",
+        "kana": "せき",
+        "answer": "せき"
+      },
+      {
+        "japanese": "売る",
+        "english": "sell",
+        "furigana": "売[う]る",
+        "kana": "うる",
+        "answer": "うる"
+      },
+      {
+        "japanese": "暮らす",
+        "english": "live, make a living",
+        "furigana": "暮[く]らす",
+        "kana": "くらす",
+        "answer": "くらす"
+      },
+      {
+        "japanese": "利用",
+        "english": "usage, utilization",
+        "furigana": "利[り] 用[よう]",
+        "kana": "りよう",
+        "answer": "りよう"
+      },
+      {
+        "japanese": "ふと",
+        "english": "suddenly, unintentionally",
+        "furigana": "ふと",
+        "kana": "ふと",
+        "answer": "ふと"
+      },
+      {
+        "japanese": "経験",
+        "english": "experience",
+        "furigana": "経[けい] 験[けん]",
+        "kana": "けいけん",
+        "answer": "けいけん"
+      },
+      {
+        "japanese": "変化",
+        "english": "change, variation",
+        "furigana": "変[へん] 化[か]",
+        "kana": "へんか",
+        "answer": "へんか"
+      },
+      {
+        "japanese": "王子",
+        "english": "prince",
+        "furigana": "王[おう] 子[じ]",
+        "kana": "おうじ",
+        "answer": "おうじ"
+      },
+      {
+        "japanese": "満足",
+        "english": "satisfaction",
+        "furigana": "満[まん] 足[ぞく]",
+        "kana": "まんぞく",
+        "answer": "まんぞく"
+      },
+      {
+        "japanese": "どんどん",
+        "english": "steadily",
+        "furigana": "どんどん",
+        "kana": "どんどん",
+        "answer": "どんどん"
+      },
+      {
+        "japanese": "命令",
+        "english": "order, command",
+        "furigana": "命[めい] 令[れい]",
+        "kana": "めいれい",
+        "answer": "めいれい"
+      },
+      {
+        "japanese": "主",
+        "english": "main, chief",
+        "furigana": "主[おも]",
+        "kana": "おも",
+        "answer": "おも"
+      },
+      {
+        "japanese": "美味しい",
+        "english": "tasty",
+        "furigana": "美味[おい]しい",
+        "kana": "おいしい",
+        "answer": "おいしい"
+      },
+      {
+        "japanese": "手紙",
+        "english": "letter",
+        "furigana": "手[て] 紙[がみ]",
+        "kana": "てがみ",
+        "answer": "てがみ"
+      },
+      {
+        "japanese": "掴む",
+        "english": "grip, grab",
+        "furigana": "掴[つか]む",
+        "kana": "つかむ",
+        "answer": "つかむ"
+      },
+      {
+        "japanese": "他人",
+        "english": "another person, stranger",
+        "furigana": "他[た] 人[にん]",
+        "kana": "たにん",
+        "answer": "たにん"
+      },
+      {
+        "japanese": "格好",
+        "english": "shape, appearance",
+        "furigana": "格[かっ] 好[こう]",
+        "kana": "かっこう",
+        "answer": "かっこう"
+      },
+      {
+        "japanese": "光景",
+        "english": "sight, spectacle",
+        "furigana": "光[こう] 景[けい]",
+        "kana": "こうけい",
+        "answer": "こうけい"
+      },
+      {
+        "japanese": "すっかり",
+        "english": "all, completely",
+        "furigana": "すっかり",
+        "kana": "すっかり",
+        "answer": "すっかり"
+      },
+      {
+        "japanese": "どちら",
+        "english": "which",
+        "furigana": "どちら",
+        "kana": "どちら",
+        "answer": "どちら"
+      },
+      {
+        "japanese": "親",
+        "english": "parent",
+        "furigana": "親[おや]",
+        "kana": "おや",
+        "answer": "おや"
+      },
+      {
+        "japanese": "時代",
+        "english": "period, age",
+        "furigana": "時[じ] 代[だい]",
+        "kana": "じだい",
+        "answer": "じだい"
+      },
+      {
+        "japanese": "作戦",
+        "english": "tactic, strategy",
+        "furigana": "作[さく] 戦[せん]",
+        "kana": "さくせん",
+        "answer": "さくせん"
+      },
+      {
+        "japanese": "もしかしたら",
+        "english": "possibly, perhaps",
+        "furigana": "もしかしたら",
+        "kana": "もしかしたら",
+        "answer": "もしかしたら"
+      },
+      {
+        "japanese": "苦しい",
+        "english": "painful, difficult",
+        "furigana": "苦[くる]しい",
+        "kana": "くるしい",
+        "answer": "くるしい"
+      },
+      {
+        "japanese": "明るい",
+        "english": "bright",
+        "furigana": "明[あか]るい",
+        "kana": "あかるい",
+        "answer": "あかるい"
+      },
+      {
+        "japanese": "原因",
+        "english": "cause, origin",
+        "furigana": "原[げん] 因[いん]",
+        "kana": "げんいん",
+        "answer": "げんいん"
+      },
+      {
+        "japanese": "廊下",
+        "english": "hallway",
+        "furigana": "廊[ろう] 下[か]",
+        "kana": "ろうか",
+        "answer": "ろうか"
+      },
+      {
+        "japanese": "そいつ",
+        "english": "that person, that guy",
+        "furigana": "そいつ",
+        "kana": "そいつ",
+        "answer": "そいつ"
+      },
+      {
+        "japanese": "先ほど",
+        "english": "some time ago",
+        "furigana": "先[さき]ほど",
+        "kana": "さきほど",
+        "answer": "さきほど"
+      },
+      {
+        "japanese": "大人",
+        "english": "adult",
+        "furigana": "大人[おとな]",
+        "kana": "おとな",
+        "answer": "おとな"
+      },
+      {
+        "japanese": "人々",
+        "english": "people",
+        "furigana": "人[ひと] 々[びと]",
+        "kana": "ひとびと",
+        "answer": "ひとびと"
+      },
+      {
+        "japanese": "撫でる",
+        "english": "pat, stroke",
+        "furigana": "撫[な]でる",
+        "kana": "なでる",
+        "answer": "なでる"
+      },
+      {
+        "japanese": "立てる",
+        "english": "put up, erect",
+        "furigana": "立[た]てる",
+        "kana": "たてる",
+        "answer": "たてる"
+      },
+      {
+        "japanese": "たまに",
+        "english": "occasionally, by chance",
+        "furigana": "たまに",
+        "kana": "たまに",
+        "answer": "たまに"
+      },
+      {
+        "japanese": "押す",
+        "english": "push, press down",
+        "furigana": "押[お]す",
+        "kana": "おす",
+        "answer": "おす"
+      },
+      {
+        "japanese": "平気",
+        "english": "calm, all right",
+        "furigana": "平[へい] 気[き]",
+        "kana": "へいき",
+        "answer": "へいき"
+      },
+      {
+        "japanese": "悲しい",
+        "english": "sad",
+        "furigana": "悲[かな]しい",
+        "kana": "かなしい",
+        "answer": "かなしい"
+      },
+      {
+        "japanese": "隠れる",
+        "english": "hide, disappear",
+        "furigana": "隠[かく]れる",
+        "kana": "かくれる",
+        "answer": "かくれる"
+      },
+      {
+        "japanese": "まだまだ",
+        "english": "still, not there yet",
+        "furigana": "まだまだ",
+        "kana": "まだまだ",
+        "answer": "まだまだ"
+      },
+      {
+        "japanese": "皆さん",
+        "english": "everyone",
+        "furigana": "皆[みな]さん",
+        "kana": "みなさん",
+        "answer": "みなさん"
+      },
+      {
+        "japanese": "戻す",
+        "english": "return",
+        "furigana": "戻[もど]す",
+        "kana": "もどす",
+        "answer": "もどす"
+      },
+      {
+        "japanese": "戦闘",
+        "english": "battle, fight",
+        "furigana": "戦[せん] 闘[とう]",
+        "kana": "せんとう",
+        "answer": "せんとう"
+      },
+      {
+        "japanese": "火",
+        "english": "fire",
+        "furigana": "火[ひ]",
+        "kana": "ひ",
+        "answer": "ひ"
+      },
+      {
+        "japanese": "炎",
+        "english": "flame, blaze",
+        "furigana": "炎[ほのお]",
+        "kana": "ほのお",
+        "answer": "ほのお"
+      },
+      {
+        "japanese": "恐怖",
+        "english": "fear",
+        "furigana": "恐[きょう] 怖[ふ]",
+        "kana": "きょうふ",
+        "answer": "きょうふ"
+      },
+      {
+        "japanese": "迷う",
+        "english": "be perplexed, get lost",
+        "furigana": "迷[まよ]う",
+        "kana": "まよう",
+        "answer": "まよう"
+      },
+      {
+        "japanese": "よろしい",
+        "english": "all right",
+        "furigana": "よろしい",
+        "kana": "よろしい",
+        "answer": "よろしい"
+      },
+      {
+        "japanese": "機会",
+        "english": "chance, opportunity, occasion",
+        "furigana": "機[き] 会[かい]",
+        "kana": "きかい",
+        "answer": "きかい"
+      },
+      {
+        "japanese": "恐ろしい",
+        "english": "terrible, frightening",
+        "furigana": "恐[おそ]ろしい",
+        "kana": "おそろしい",
+        "answer": "おそろしい"
+      },
+      {
+        "japanese": "借りる",
+        "english": "borrow",
+        "furigana": "借[か]りる",
+        "kana": "かりる",
+        "answer": "かりる"
+      },
+      {
+        "japanese": "外す",
+        "english": "remove",
+        "furigana": "外[はず]す",
+        "kana": "はずす",
+        "answer": "はずす"
+      },
+      {
+        "japanese": "地",
+        "english": "ground, place",
+        "furigana": "地[ち]",
+        "kana": "ち",
+        "answer": "ち"
+      },
+      {
+        "japanese": "速い",
+        "english": "fast (in terms of speed)",
+        "furigana": "速[はや]い",
+        "kana": "はやい",
+        "answer": "はやい"
+      },
+      {
+        "japanese": "短い",
+        "english": "short, brief",
+        "furigana": "短[みじか]い",
+        "kana": "みじかい",
+        "answer": "みじかい"
+      },
+      {
+        "japanese": "気に入る",
+        "english": "like, be pleased with",
+        "furigana": "気[き]に 入[い]る",
+        "kana": "きにいる",
+        "answer": "きにいる"
+      },
+      {
+        "japanese": "改めて",
+        "english": "once again",
+        "furigana": "改[あらた]めて",
+        "kana": "あらためて",
+        "answer": "あらためて"
+      },
+      {
+        "japanese": "うるさい",
+        "english": "noisy, annoying",
+        "furigana": "うるさい",
+        "kana": "うるさい",
+        "answer": "うるさい"
+      },
+      {
+        "japanese": "当てる",
+        "english": "hit, guess",
+        "furigana": "当[あ]てる",
+        "kana": "あてる",
+        "answer": "あてる"
+      },
+      {
+        "japanese": "包む",
+        "english": "wrap, pack",
+        "furigana": "包[つつ]む",
+        "kana": "つつむ",
+        "answer": "つつむ"
+      },
+      {
+        "japanese": "位置",
+        "english": "position, place",
+        "furigana": "位[い] 置[ち]",
+        "kana": "いち",
+        "answer": "いち"
+      },
+      {
+        "japanese": "打つ",
+        "english": "hit, strike",
+        "furigana": "打[う]つ",
+        "kana": "うつ",
+        "answer": "うつ"
+      },
+      {
+        "japanese": "目指す",
+        "english": "aim for",
+        "furigana": "目[め] 指[ざ]す",
+        "kana": "めざす",
+        "answer": "めざす"
+      },
+      {
+        "japanese": "秘密",
+        "english": "secret, privacy",
+        "furigana": "秘[ひ] 密[みつ]",
+        "kana": "ひみつ",
+        "answer": "ひみつ"
+      },
+      {
+        "japanese": "屋敷",
+        "english": "mansion",
+        "furigana": "屋[や] 敷[しき]",
+        "kana": "やしき",
+        "answer": "やしき"
+      },
+      {
+        "japanese": "限界",
+        "english": "boundary, limit",
+        "furigana": "限[げん] 界[かい]",
+        "kana": "げんかい",
+        "answer": "げんかい"
+      },
+      {
+        "japanese": "勝負",
+        "english": "match, contest",
+        "furigana": "勝[しょう] 負[ぶ]",
+        "kana": "しょうぶ",
+        "answer": "しょうぶ"
+      },
+      {
+        "japanese": "星",
+        "english": "star, planet",
+        "furigana": "星[ほし]",
+        "kana": "ほし",
+        "answer": "ほし"
+      },
+      {
+        "japanese": "明らか",
+        "english": "clear, obvious",
+        "furigana": "明[あき]らか",
+        "kana": "あきらか",
+        "answer": "あきらか"
+      },
+      {
+        "japanese": "悩む",
+        "english": "be troubled, worry",
+        "furigana": "悩[なや]む",
+        "kana": "なやむ",
+        "answer": "なやむ"
+      },
+      {
+        "japanese": "集中",
+        "english": "concentration, convergence",
+        "furigana": "集[しゅう] 中[ちゅう]",
+        "kana": "しゅうちゅう",
+        "answer": "しゅうちゅう"
+      },
+      {
+        "japanese": "間違う",
+        "english": "be mistaken, be incorrect",
+        "furigana": "間[ま] 違[ちが]う",
+        "kana": "まちがう",
+        "answer": "まちがう"
+      },
+      {
+        "japanese": "裏",
+        "english": "rear, reverse",
+        "furigana": "裏[うら]",
+        "kana": "うら",
+        "answer": "うら"
+      },
+      {
+        "japanese": "薄い",
+        "english": "weak, pale",
+        "furigana": "薄[うす]い",
+        "kana": "うすい",
+        "answer": "うすい"
+      },
+      {
+        "japanese": "願う",
+        "english": "wish, ask a favor, pray",
+        "furigana": "願[ねが]う",
+        "kana": "ねがう",
+        "answer": "ねがう"
+      },
+      {
+        "japanese": "回復",
+        "english": "recovery",
+        "furigana": "回[かい] 復[ふく]",
+        "kana": "かいふく",
+        "answer": "かいふく"
+      },
+      {
+        "japanese": "流す",
+        "english": "let flow, set adrift",
+        "furigana": "流[なが]す",
+        "kana": "ながす",
+        "answer": "ながす"
+      },
+      {
+        "japanese": "じっと",
+        "english": "without moving, still",
+        "furigana": "じっと",
+        "kana": "じっと",
+        "answer": "じっと"
+      },
+      {
+        "japanese": "本物",
+        "english": "real thing, genuine article",
+        "furigana": "本[ほん] 物[もの]",
+        "kana": "ほんもの",
+        "answer": "ほんもの"
+      },
+      {
+        "japanese": "正に",
+        "english": "exactly, surely, truly",
+        "furigana": "正[まさ]に",
+        "kana": "まさに",
+        "answer": "まさに"
+      },
+      {
+        "japanese": "取り戻す",
+        "english": "take back, recover",
+        "furigana": "取[と]り 戻[もど]す",
+        "kana": "とりもどす",
+        "answer": "とりもどす"
+      },
+      {
+        "japanese": "何より",
+        "english": "above all, most important",
+        "furigana": "何[なに]より",
+        "kana": "なにより",
+        "answer": "なにより"
+      },
+      {
+        "japanese": "身体",
+        "english": "body",
+        "furigana": "身[しん] 体[たい]",
+        "kana": "しんたい",
+        "answer": "しんたい"
+      },
+      {
+        "japanese": "方向",
+        "english": "direction, course",
+        "furigana": "方[ほう] 向[こう]",
+        "kana": "ほうこう",
+        "answer": "ほうこう"
+      },
+      {
+        "japanese": "通る",
+        "english": "pass, take, go through",
+        "furigana": "通[とお]る",
+        "kana": "とおる",
+        "answer": "とおる"
+      },
+      {
+        "japanese": "空間",
+        "english": "space, room",
+        "furigana": "空[くう] 間[かん]",
+        "kana": "くうかん",
+        "answer": "くうかん"
+      },
+      {
+        "japanese": "着く",
+        "english": "arrive",
+        "furigana": "着[つ]く",
+        "kana": "つく",
+        "answer": "つく"
+      },
+      {
+        "japanese": "可能",
+        "english": "possible, potential",
+        "furigana": "可[か] 能[のう]",
+        "kana": "かのう",
+        "answer": "かのう"
+      },
+      {
+        "japanese": "新た",
+        "english": "new",
+        "furigana": "新[あら]た",
+        "kana": "あらた",
+        "answer": "あらた"
+      },
+      {
+        "japanese": "随分",
+        "english": "extremely, considerably",
+        "furigana": "随[ずい] 分[ぶん]",
+        "kana": "ずいぶん",
+        "answer": "ずいぶん"
+      },
+      {
+        "japanese": "尋ねる",
+        "english": "inquire, search for",
+        "furigana": "尋[たず]ねる",
+        "kana": "たずねる",
+        "answer": "たずねる"
+      },
+      {
+        "japanese": "椅子",
+        "english": "chair",
+        "furigana": "椅[い] 子[す]",
+        "kana": "いす",
+        "answer": "いす"
+      },
+      {
+        "japanese": "城",
+        "english": "castle",
+        "furigana": "城[しろ]",
+        "kana": "しろ",
+        "answer": "しろ"
+      },
+      {
+        "japanese": "恐らく",
+        "english": "probably (usually negative), I'm afraid ...",
+        "furigana": "恐[おそ]らく",
+        "kana": "おそらく",
+        "answer": "おそらく"
+      },
+      {
+        "japanese": "お茶",
+        "english": "tea (polite)",
+        "furigana": "お 茶[ちゃ]",
+        "kana": "おちゃ",
+        "answer": "おちゃ"
+      },
+      {
+        "japanese": "雨",
+        "english": "rain",
+        "furigana": "雨[あめ]",
+        "kana": "あめ",
+        "answer": "あめ"
+      },
+      {
+        "japanese": "いやいや",
+        "english": "reluctantly",
+        "furigana": "いやいや",
+        "kana": "いやいや",
+        "answer": "いやいや"
+      },
+      {
+        "japanese": "そのもの",
+        "english": "the very thing, the picture of",
+        "furigana": "そのもの",
+        "kana": "そのもの",
+        "answer": "そのもの"
+      },
+      {
+        "japanese": "教室",
+        "english": "classroom",
+        "furigana": "教[きょう] 室[しつ]",
+        "kana": "きょうしつ",
+        "answer": "きょうしつ"
+      },
+      {
+        "japanese": "馬鹿",
+        "english": "fool, nonsense",
+        "furigana": "馬[ば] 鹿[か]",
+        "kana": "ばか",
+        "answer": "ばか"
+      },
+      {
+        "japanese": "遠慮",
+        "english": "reserve, refraining",
+        "furigana": "遠[えん] 慮[りょ]",
+        "kana": "えんりょ",
+        "answer": "えんりょ"
+      },
+      {
+        "japanese": "まずい",
+        "english": "problematic, troublesome",
+        "furigana": "まずい",
+        "kana": "まずい",
+        "answer": "まずい"
+      },
+      {
+        "japanese": "まずい",
+        "english": "bad-tasting, bad",
+        "furigana": "まずい",
+        "kana": "まずい",
+        "answer": "まずい"
+      },
+      {
+        "japanese": "せめて",
+        "english": "at least",
+        "furigana": "せめて",
+        "kana": "せめて",
+        "answer": "せめて"
+      },
+      {
+        "japanese": "迎える",
+        "english": "welcome, go out to meet, invite",
+        "furigana": "迎[むか]える",
+        "kana": "むかえる",
+        "answer": "むかえる"
+      },
+      {
+        "japanese": "少なくとも",
+        "english": "at least",
+        "furigana": "少[すく]なくとも",
+        "kana": "すくなくとも",
+        "answer": "すくなくとも"
+      },
+      {
+        "japanese": "魂",
+        "english": "soul, spirit",
+        "furigana": "魂[たましい]",
+        "kana": "たましい",
+        "answer": "たましい"
+      },
+      {
+        "japanese": "消す",
+        "english": "turn off",
+        "furigana": "消[け]す",
+        "kana": "けす",
+        "answer": "けす"
+      },
+      {
+        "japanese": "調子",
+        "english": "condition, state of health",
+        "furigana": "調[ちょう] 子[し]",
+        "kana": "ちょうし",
+        "answer": "ちょうし"
+      },
+      {
+        "japanese": "お互い",
+        "english": "each other",
+        "furigana": "お 互[たが]い",
+        "kana": "おたがい",
+        "answer": "おたがい"
+      },
+      {
+        "japanese": "似合う",
+        "english": "suit, match well",
+        "furigana": "似[に] 合[あ]う",
+        "kana": "にあう",
+        "answer": "にあう"
+      },
+      {
+        "japanese": "猫",
+        "english": "cat",
+        "furigana": "猫[ねこ]",
+        "kana": "ねこ",
+        "answer": "ねこ"
+      },
+      {
+        "japanese": "犬",
+        "english": "dog",
+        "furigana": "犬[いぬ]",
+        "kana": "いぬ",
+        "answer": "いぬ"
+      },
+      {
+        "japanese": "お礼",
+        "english": "gratitude",
+        "furigana": "お 礼[れい]",
+        "kana": "おれい",
+        "answer": "おれい"
+      },
+      {
+        "japanese": "後悔",
+        "english": "regret",
+        "furigana": "後[こう] 悔[かい]",
+        "kana": "こうかい",
+        "answer": "こうかい"
+      },
+      {
+        "japanese": "希望",
+        "english": "hope, wish",
+        "furigana": "希[き] 望[ぼう]",
+        "kana": "きぼう",
+        "answer": "きぼう"
+      },
+      {
+        "japanese": "下がる",
+        "english": "come down, hang down, fall",
+        "furigana": "下[さ]がる",
+        "kana": "さがる",
+        "answer": "さがる"
+      },
+      {
+        "japanese": "訪れる",
+        "english": "visit, call on",
+        "furigana": "訪[おとず]れる",
+        "kana": "おとずれる",
+        "answer": "おとずれる"
+      },
+      {
+        "japanese": "褒める",
+        "english": "praise, commend",
+        "furigana": "褒[ほ]める",
+        "kana": "ほめる",
+        "answer": "ほめる"
+      },
+      {
+        "japanese": "性格",
+        "english": "character, personality",
+        "furigana": "性[せい] 格[かく]",
+        "kana": "せいかく",
+        "answer": "せいかく"
+      },
+      {
+        "japanese": "写真",
+        "english": "photograph",
+        "furigana": "写[しゃ] 真[しん]",
+        "kana": "しゃしん",
+        "answer": "しゃしん"
+      },
+      {
+        "japanese": "薬",
+        "english": "drug, remedy",
+        "furigana": "薬[くすり]",
+        "kana": "くすり",
+        "answer": "くすり"
+      },
+      {
+        "japanese": "友人",
+        "english": "friend",
+        "furigana": "友[ゆう] 人[じん]",
+        "kana": "ゆうじん",
+        "answer": "ゆうじん"
+      },
+      {
+        "japanese": "かつて",
+        "english": "once, formerly",
+        "furigana": "かつて",
+        "kana": "かつて",
+        "answer": "かつて"
+      },
+      {
+        "japanese": "確実",
+        "english": "certain, secure",
+        "furigana": "確[かく] 実[じつ]",
+        "kana": "かくじつ",
+        "answer": "かくじつ"
+      },
+      {
+        "japanese": "もはや",
+        "english": "already, no longer",
+        "furigana": "もはや",
+        "kana": "もはや",
+        "answer": "もはや"
+      },
+      {
+        "japanese": "去る",
+        "english": "go away, pass",
+        "furigana": "去[さ]る",
+        "kana": "さる",
+        "answer": "さる"
+      },
+      {
+        "japanese": "一部",
+        "english": "(one) part",
+        "furigana": "一[いち] 部[ぶ]",
+        "kana": "いちぶ",
+        "answer": "いちぶ"
+      },
+      {
+        "japanese": "遠く",
+        "english": "far (away)",
+        "furigana": "遠[とお]く",
+        "kana": "とおく",
+        "answer": "とおく"
+      },
+      {
+        "japanese": "腹",
+        "english": "belly",
+        "furigana": "腹[はら]",
+        "kana": "はら",
+        "answer": "はら"
+      },
+      {
+        "japanese": "階段",
+        "english": "stairs",
+        "furigana": "階[かい] 段[だん]",
+        "kana": "かいだん",
+        "answer": "かいだん"
+      },
+      {
+        "japanese": "適当",
+        "english": "suitable, appropriate",
+        "furigana": "適[てき] 当[とう]",
+        "kana": "てきとう",
+        "answer": "てきとう"
+      },
+      {
+        "japanese": "舌",
+        "english": "tongue",
+        "furigana": "舌[した]",
+        "kana": "した",
+        "answer": "した"
+      },
+      {
+        "japanese": "予想",
+        "english": "prospect, expectation",
+        "furigana": "予[よ] 想[そう]",
+        "kana": "よそう",
+        "answer": "よそう"
+      },
+      {
+        "japanese": "興奮",
+        "english": "excitement, agitation",
+        "furigana": "興[こう] 奮[ふん]",
+        "kana": "こうふん",
+        "answer": "こうふん"
+      },
+      {
+        "japanese": "関わる",
+        "english": "involve, concern",
+        "furigana": "関[かか]わる",
+        "kana": "かかわる",
+        "answer": "かかわる"
+      },
+      {
+        "japanese": "白",
+        "english": "white",
+        "furigana": "白[しろ]",
+        "kana": "しろ",
+        "answer": "しろ"
+      },
+      {
+        "japanese": "進める",
+        "english": "advance, promote",
+        "furigana": "進[すす]める",
+        "kana": "すすめる",
+        "answer": "すすめる"
+      },
+      {
+        "japanese": "真剣",
+        "english": "serious, sincere",
+        "furigana": "真[しん] 剣[けん]",
+        "kana": "しんけん",
+        "answer": "しんけん"
+      },
+      {
+        "japanese": "迫る",
+        "english": "press, close in on",
+        "furigana": "迫[せま]る",
+        "kana": "せまる",
+        "answer": "せまる"
+      },
+      {
+        "japanese": "ほぼ",
+        "english": "almost, nearly",
+        "furigana": "ほぼ",
+        "kana": "ほぼ",
+        "answer": "ほぼ"
+      },
+      {
+        "japanese": "ちょうど",
+        "english": "just, as if",
+        "furigana": "ちょうど",
+        "kana": "ちょうど",
+        "answer": "ちょうど"
+      },
+      {
+        "japanese": "疑問",
+        "english": "question, doubt",
+        "furigana": "疑[ぎ] 問[もん]",
+        "kana": "ぎもん",
+        "answer": "ぎもん"
+      },
+      {
+        "japanese": "指示",
+        "english": "instruction, indication",
+        "furigana": "指[し] 示[じ]",
+        "kana": "しじ",
+        "answer": "しじ"
+      },
+      {
+        "japanese": "揺れる",
+        "english": "shake, sway",
+        "furigana": "揺[ゆ]れる",
+        "kana": "ゆれる",
+        "answer": "ゆれる"
+      },
+      {
+        "japanese": "相当",
+        "english": "correspondence, suitability",
+        "furigana": "相[そう] 当[とう]",
+        "kana": "そうとう",
+        "answer": "そうとう"
+      },
+      {
+        "japanese": "楽",
+        "english": "easy, comfortable",
+        "furigana": "楽[らく]",
+        "kana": "らく",
+        "answer": "らく"
+      },
+      {
+        "japanese": "勘違い",
+        "english": "misunderstanding",
+        "furigana": "勘[かん] 違[ちが]い",
+        "kana": "かんちがい",
+        "answer": "かんちがい"
+      },
+      {
+        "japanese": "警戒",
+        "english": "vigilance, precaution",
+        "furigana": "警[けい] 戒[かい]",
+        "kana": "けいかい",
+        "answer": "けいかい"
+      },
+      {
+        "japanese": "確かめる",
+        "english": "check, make sure of",
+        "furigana": "確[たし]かめる",
+        "kana": "たしかめる",
+        "answer": "たしかめる"
+      },
+      {
+        "japanese": "月",
+        "english": "moon",
+        "furigana": "月[つき]",
+        "kana": "つき",
+        "answer": "つき"
+      },
+      {
+        "japanese": "疑う",
+        "english": "doubt, be suspicious",
+        "furigana": "疑[うたが]う",
+        "kana": "うたがう",
+        "answer": "うたがう"
+      },
+      {
+        "japanese": "電話",
+        "english": "telephone",
+        "furigana": "電[でん] 話[わ]",
+        "kana": "でんわ",
+        "answer": "でんわ"
+      },
+      {
+        "japanese": "成長",
+        "english": "growth",
+        "furigana": "成[せい] 長[ちょう]",
+        "kana": "せいちょう",
+        "answer": "せいちょう"
+      },
+      {
+        "japanese": "鋭い",
+        "english": "acute, sharp",
+        "furigana": "鋭[するど]い",
+        "kana": "するどい",
+        "answer": "するどい"
+      },
+      {
+        "japanese": "証拠",
+        "english": "proof, evidence",
+        "furigana": "証[しょう] 拠[こ]",
+        "kana": "しょうこ",
+        "answer": "しょうこ"
+      },
+      {
+        "japanese": "紹介",
+        "english": "introduction, referral",
+        "furigana": "紹[しょう] 介[かい]",
+        "kana": "しょうかい",
+        "answer": "しょうかい"
+      },
+      {
+        "japanese": "実際",
+        "english": "reality, actuality",
+        "furigana": "実[じっ] 際[さい]",
+        "kana": "じっさい",
+        "answer": "じっさい"
+      },
+      {
+        "japanese": "何でも",
+        "english": "anything, whatever",
+        "furigana": "何[なん]でも",
+        "kana": "なんでも",
+        "answer": "なんでも"
+      },
+      {
+        "japanese": "作業",
+        "english": "work, operation",
+        "furigana": "作[さ] 業[ぎょう]",
+        "kana": "さぎょう",
+        "answer": "さぎょう"
+      },
+      {
+        "japanese": "重要",
+        "english": "important, essential",
+        "furigana": "重[じゅう] 要[よう]",
+        "kana": "じゅうよう",
+        "answer": "じゅうよう"
+      },
+      {
+        "japanese": "鍵",
+        "english": "key",
+        "furigana": "鍵[かぎ]",
+        "kana": "かぎ",
+        "answer": "かぎ"
+      },
+      {
+        "japanese": "衝撃",
+        "english": "impact, shock",
+        "furigana": "衝[しょう] 撃[げき]",
+        "kana": "しょうげき",
+        "answer": "しょうげき"
+      },
+      {
+        "japanese": "巻き込む",
+        "english": "roll up, involve",
+        "furigana": "巻[ま]き 込[こ]む",
+        "kana": "まきこむ",
+        "answer": "まきこむ"
+      },
+      {
+        "japanese": "差し出す",
+        "english": "submit",
+        "furigana": "差[さ]し 出[だ]す",
+        "kana": "さしだす",
+        "answer": "さしだす"
+      },
+      {
+        "japanese": "軍",
+        "english": "army, troops",
+        "furigana": "軍[ぐん]",
+        "kana": "ぐん",
+        "answer": "ぐん"
+      },
+      {
+        "japanese": "そちら",
+        "english": "there, that way",
+        "furigana": "そちら",
+        "kana": "そちら",
+        "answer": "そちら"
+      },
+      {
+        "japanese": "悔しい",
+        "english": "vexing, frustrating",
+        "furigana": "悔[くや]しい",
+        "kana": "くやしい",
+        "answer": "くやしい"
+      },
+      {
+        "japanese": "抜く",
+        "english": "pull out",
+        "furigana": "抜[ぬ]く",
+        "kana": "ぬく",
+        "answer": "ぬく"
+      },
+      {
+        "japanese": "破壊",
+        "english": "breaking, destruction",
+        "furigana": "破[は] 壊[かい]",
+        "kana": "はかい",
+        "answer": "はかい"
+      },
+      {
+        "japanese": "運命",
+        "english": "fate, fortune",
+        "furigana": "運[うん] 命[めい]",
+        "kana": "うんめい",
+        "answer": "うんめい"
+      },
+      {
+        "japanese": "案内",
+        "english": "guide, show around",
+        "furigana": "案[あん] 内[ない]",
+        "kana": "あんない",
+        "answer": "あんない"
+      },
+      {
+        "japanese": "努力",
+        "english": "endeavor, effort",
+        "furigana": "努[ど] 力[りょく]",
+        "kana": "どりょく",
+        "answer": "どりょく"
+      },
+      {
+        "japanese": "いずれ",
+        "english": "eventually, sometime",
+        "furigana": "いずれ",
+        "kana": "いずれ",
+        "answer": "いずれ"
+      },
+      {
+        "japanese": "一言",
+        "english": "single word, a few words",
+        "furigana": "一[ひと] 言[こと]",
+        "kana": "ひとこと",
+        "answer": "ひとこと"
+      },
+      {
+        "japanese": "ついに",
+        "english": "at last, finally",
+        "furigana": "ついに",
+        "kana": "ついに",
+        "answer": "ついに"
+      },
+      {
+        "japanese": "心臓",
+        "english": "heart",
+        "furigana": "心[しん] 臓[ぞう]",
+        "kana": "しんぞう",
+        "answer": "しんぞう"
+      },
+      {
+        "japanese": "荷物",
+        "english": "baggage, load",
+        "furigana": "荷[に] 物[もつ]",
+        "kana": "にもつ",
+        "answer": "にもつ"
+      },
+      {
+        "japanese": "伸びる",
+        "english": "stretch, grow",
+        "furigana": "伸[の]びる",
+        "kana": "のびる",
+        "answer": "のびる"
+      },
+      {
+        "japanese": "両親",
+        "english": "(both) parents",
+        "furigana": "両[りょう] 親[しん]",
+        "kana": "りょうしん",
+        "answer": "りょうしん"
+      },
+      {
+        "japanese": "量",
+        "english": "amount, portion",
+        "furigana": "量[りょう]",
+        "kana": "りょう",
+        "answer": "りょう"
+      },
+      {
+        "japanese": "払う",
+        "english": "pay",
+        "furigana": "払[はら]う",
+        "kana": "はらう",
+        "answer": "はらう"
+      },
+      {
+        "japanese": "二度と",
+        "english": "never again",
+        "furigana": "二[に] 度[ど]と",
+        "kana": "にどと",
+        "answer": "にどと"
+      },
+      {
+        "japanese": "辺り",
+        "english": "vicinity, around",
+        "furigana": "辺[あた]り",
+        "kana": "あたり",
+        "answer": "あたり"
+      },
+      {
+        "japanese": "開始",
+        "english": "beginning",
+        "furigana": "開[かい] 始[し]",
+        "kana": "かいし",
+        "answer": "かいし"
+      },
+      {
+        "japanese": "解放",
+        "english": "release, setting free",
+        "furigana": "解[かい] 放[ほう]",
+        "kana": "かいほう",
+        "answer": "かいほう"
+      },
+      {
+        "japanese": "仲良く",
+        "english": "harmoniously, amicably",
+        "furigana": "仲[なか] 良[よ]く",
+        "kana": "なかよく",
+        "answer": "なかよく"
+      },
+      {
+        "japanese": "獣",
+        "english": "beast, brute",
+        "furigana": "獣[けもの]",
+        "kana": "けもの",
+        "answer": "けもの"
+      },
+      {
+        "japanese": "取れる",
+        "english": "come off, be removed",
+        "furigana": "取[と]れる",
+        "kana": "とれる",
+        "answer": "とれる"
+      },
+      {
+        "japanese": "建物",
+        "english": "building, structure",
+        "furigana": "建[たて] 物[もの]",
+        "kana": "たてもの",
+        "answer": "たてもの"
+      },
+      {
+        "japanese": "本来",
+        "english": "originally, essentially",
+        "furigana": "本[ほん] 来[らい]",
+        "kana": "ほんらい",
+        "answer": "ほんらい"
+      },
+      {
+        "japanese": "扱う",
+        "english": "handle, deal with",
+        "furigana": "扱[あつか]う",
+        "kana": "あつかう",
+        "answer": "あつかう"
+      },
+      {
+        "japanese": "真面目",
+        "english": "serious, earnest",
+        "furigana": "真面目[まじめ]",
+        "kana": "まじめ",
+        "answer": "まじめ"
+      },
+      {
+        "japanese": "影響",
+        "english": "influence, effect",
+        "furigana": "影[えい] 響[きょう]",
+        "kana": "えいきょう",
+        "answer": "えいきょう"
+      },
+      {
+        "japanese": "真っ赤",
+        "english": "deep red",
+        "furigana": "真[ま]っ 赤[か]",
+        "kana": "まっか",
+        "answer": "まっか"
+      },
+      {
+        "japanese": "発見",
+        "english": "discovery, revelation",
+        "furigana": "発[はっ] 見[けん]",
+        "kana": "はっけん",
+        "answer": "はっけん"
+      },
+      {
+        "japanese": "支える",
+        "english": "support, maintain",
+        "furigana": "支[ささ]える",
+        "kana": "ささえる",
+        "answer": "ささえる"
+      },
+      {
+        "japanese": "第一",
+        "english": "number one, first",
+        "furigana": "第[だい] 一[いち]",
+        "kana": "だいいち",
+        "answer": "だいいち"
+      },
+      {
+        "japanese": "お父さん",
+        "english": "father",
+        "furigana": "お 父[とう]さん",
+        "kana": "おとうさん",
+        "answer": "おとうさん"
+      },
+      {
+        "japanese": "お母さん",
+        "english": "mother",
+        "furigana": "お 母[かあ]さん",
+        "kana": "おかあさん",
+        "answer": "おかあさん"
+      },
+      {
+        "japanese": "お兄さん",
+        "english": "older brother",
+        "furigana": "お 兄[にい]さん",
+        "kana": "おにいさん",
+        "answer": "おにいさん"
+      },
+      {
+        "japanese": "お姉さん",
+        "english": "older sister",
+        "furigana": "お 姉[ねえ]さん",
+        "kana": "おねえさん",
+        "answer": "おねえさん"
+      },
+      {
+        "japanese": "おじさん",
+        "english": "uncle",
+        "furigana": "おじさん",
+        "kana": "おじさん",
+        "answer": "おじさん"
+      },
+      {
+        "japanese": "おばさん",
+        "english": "aunt",
+        "furigana": "おばさん",
+        "kana": "おばさん",
+        "answer": "おばさん"
+      },
+      {
+        "japanese": "いとこ",
+        "english": "cousin",
+        "furigana": "いとこ",
+        "kana": "いとこ",
+        "answer": "いとこ"
+      },
+      {
+        "japanese": "机",
+        "english": "desk, table",
+        "furigana": "机[つくえ]",
+        "kana": "つくえ",
+        "answer": "つくえ"
+      },
+      {
+        "japanese": "同士",
+        "english": "of the same kind, each other, fellow",
+        "furigana": "同[どう] 士[し]",
+        "kana": "どうし",
+        "answer": "どうし"
+      },
+      {
+        "japanese": "遅れる",
+        "english": "be late",
+        "furigana": "遅[おく]れる",
+        "kana": "おくれる",
+        "answer": "おくれる"
+      },
+      {
+        "japanese": "車",
+        "english": "car, automobile",
+        "furigana": "車[くるま]",
+        "kana": "くるま",
+        "answer": "くるま"
+      },
+      {
+        "japanese": "飛び出す",
+        "english": "fly out, dash out",
+        "furigana": "飛[と]び 出[だ]す",
+        "kana": "とびだす",
+        "answer": "とびだす"
+      },
+      {
+        "japanese": "事態",
+        "english": "situation, state of affairs",
+        "furigana": "事[じ] 態[たい]",
+        "kana": "じたい",
+        "answer": "じたい"
+      },
+      {
+        "japanese": "味方",
+        "english": "friend, ally",
+        "furigana": "味[み] 方[かた]",
+        "kana": "みかた",
+        "answer": "みかた"
+      },
+      {
+        "japanese": "展開",
+        "english": "unfolding, development",
+        "furigana": "展[てん] 開[かい]",
+        "kana": "てんかい",
+        "answer": "てんかい"
+      },
+      {
+        "japanese": "学園",
+        "english": "educational institution, school",
+        "furigana": "学[がく] 園[えん]",
+        "kana": "がくえん",
+        "answer": "がくえん"
+      },
+      {
+        "japanese": "怪しい",
+        "english": "suspicious, dubious",
+        "furigana": "怪[あや]しい",
+        "kana": "あやしい",
+        "answer": "あやしい"
+      },
+      {
+        "japanese": "型",
+        "english": "type, model",
+        "furigana": "型[かた]",
+        "kana": "かた",
+        "answer": "かた"
+      },
+      {
+        "japanese": "流れ",
+        "english": "flow, stream",
+        "furigana": "流[なが]れ",
+        "kana": "ながれ",
+        "answer": "ながれ"
+      },
+      {
+        "japanese": "残り",
+        "english": "rest, leftover",
+        "furigana": "残[のこ]り",
+        "kana": "のこり",
+        "answer": "のこり"
+      },
+      {
+        "japanese": "偶然",
+        "english": "chance, accident",
+        "furigana": "偶[ぐう] 然[ぜん]",
+        "kana": "ぐうぜん",
+        "answer": "ぐうぜん"
+      },
+      {
+        "japanese": "柔らかい",
+        "english": "soft",
+        "furigana": "柔[やわ]らかい",
+        "kana": "やわらかい",
+        "answer": "やわらかい"
+      },
+      {
+        "japanese": "感触",
+        "english": "feeling, touch",
+        "furigana": "感[かん] 触[しょく]",
+        "kana": "かんしょく",
+        "answer": "かんしょく"
+      },
+      {
+        "japanese": "女子",
+        "english": "woman, girl",
+        "furigana": "女[じょ] 子[し]",
+        "kana": "じょし",
+        "answer": "じょし"
+      },
+      {
+        "japanese": "無し",
+        "english": "naught, nothing",
+        "furigana": "無[な]し",
+        "kana": "なし",
+        "answer": "なし"
+      },
+      {
+        "japanese": "壊れる",
+        "english": "break, fall apart",
+        "furigana": "壊[こわ]れる",
+        "kana": "こわれる",
+        "answer": "こわれる"
+      },
+      {
+        "japanese": "苦手",
+        "english": "hard to deal with, weak point",
+        "furigana": "苦[にが] 手[て]",
+        "kana": "にがて",
+        "answer": "にがて"
+      },
+      {
+        "japanese": "試す",
+        "english": "try, test",
+        "furigana": "試[ため]す",
+        "kana": "ためす",
+        "answer": "ためす"
+      },
+      {
+        "japanese": "立派",
+        "english": "fine, excellent",
+        "furigana": "立[りっ] 派[ぱ]",
+        "kana": "りっぱ",
+        "answer": "りっぱ"
+      },
+      {
+        "japanese": "回す",
+        "english": "turn, rotate",
+        "furigana": "回[まわ]す",
+        "kana": "まわす",
+        "answer": "まわす"
+      },
+      {
+        "japanese": "なぜか",
+        "english": "for some reason",
+        "furigana": "なぜか",
+        "kana": "なぜか",
+        "answer": "なぜか"
+      },
+      {
+        "japanese": "意見",
+        "english": "opinion",
+        "furigana": "意[い] 見[けん]",
+        "kana": "いけん",
+        "answer": "いけん"
+      },
+      {
+        "japanese": "大量",
+        "english": "large quantity, great volume",
+        "furigana": "大[たい] 量[りょう]",
+        "kana": "たいりょう",
+        "answer": "たいりょう"
+      },
+      {
+        "japanese": "提案",
+        "english": "proposal, proposition",
+        "furigana": "提[てい] 案[あん]",
+        "kana": "ていあん",
+        "answer": "ていあん"
+      },
+      {
+        "japanese": "責任",
+        "english": "responsibility, liability",
+        "furigana": "責[せき] 任[にん]",
+        "kana": "せきにん",
+        "answer": "せきにん"
+      },
+      {
+        "japanese": "抑える",
+        "english": "hold back, restrain",
+        "furigana": "抑[おさ]える",
+        "kana": "おさえる",
+        "answer": "おさえる"
+      },
+      {
+        "japanese": "全力",
+        "english": "with all of one's strength, at full capacity",
+        "furigana": "全[ぜん] 力[りょく]",
+        "kana": "ぜんりょく",
+        "answer": "ぜんりょく"
+      },
+      {
+        "japanese": "伸ばす",
+        "english": "stretch, straighten",
+        "furigana": "伸[の]ばす",
+        "kana": "のばす",
+        "answer": "のばす"
+      },
+      {
+        "japanese": "客",
+        "english": "customer, guest",
+        "furigana": "客[きゃく]",
+        "kana": "きゃく",
+        "answer": "きゃく"
+      },
+      {
+        "japanese": "王国",
+        "english": "kingdom, monarchy",
+        "furigana": "王[おう] 国[こく]",
+        "kana": "おうこく",
+        "answer": "おうこく"
+      },
+      {
+        "japanese": "抵抗",
+        "english": "resistance, opposition",
+        "furigana": "抵[てい] 抗[こう]",
+        "kana": "ていこう",
+        "answer": "ていこう"
+      },
+      {
+        "japanese": "混乱",
+        "english": "disorder, chaos",
+        "furigana": "混[こん] 乱[らん]",
+        "kana": "こんらん",
+        "answer": "こんらん"
+      },
+      {
+        "japanese": "条件",
+        "english": "condition, item",
+        "furigana": "条[じょう] 件[けん]",
+        "kana": "じょうけん",
+        "answer": "じょうけん"
+      },
+      {
+        "japanese": "迷惑",
+        "english": "trouble, annoyance",
+        "furigana": "迷[めい] 惑[わく]",
+        "kana": "めいわく",
+        "answer": "めいわく"
+      },
+      {
+        "japanese": "例",
+        "english": "example",
+        "furigana": "例[れい]",
+        "kana": "れい",
+        "answer": "れい"
+      },
+      {
+        "japanese": "頼る",
+        "english": "rely on, depend on",
+        "furigana": "頼[たよ]る",
+        "kana": "たよる",
+        "answer": "たよる"
+      },
+      {
+        "japanese": "完璧",
+        "english": "flawless, perfect",
+        "furigana": "完[かん] 璧[ぺき]",
+        "kana": "かんぺき",
+        "answer": "かんぺき"
+      },
+      {
+        "japanese": "日々",
+        "english": "daily, every day",
+        "furigana": "日[ひ] 々[び]",
+        "kana": "ひび",
+        "answer": "ひび"
+      },
+      {
+        "japanese": "行為",
+        "english": "act, conduct",
+        "furigana": "行[こう] 為[い]",
+        "kana": "こうい",
+        "answer": "こうい"
+      },
+      {
+        "japanese": "ともかく",
+        "english": "at least, at any rate",
+        "furigana": "ともかく",
+        "kana": "ともかく",
+        "answer": "ともかく"
+      },
+      {
+        "japanese": "減る",
+        "english": "decrease, diminish",
+        "furigana": "減[へ]る",
+        "kana": "へる",
+        "answer": "へる"
+      },
+      {
+        "japanese": "嫌う",
+        "english": "dislike, hate",
+        "furigana": "嫌[きら]う",
+        "kana": "きらう",
+        "answer": "きらう"
+      },
+      {
+        "japanese": "知り合い",
+        "english": "acquaintance",
+        "furigana": "知[し]り 合[あ]い",
+        "kana": "しりあい",
+        "answer": "しりあい"
+      },
+      {
+        "japanese": "思考",
+        "english": "thinking, thought",
+        "furigana": "思[し] 考[こう]",
+        "kana": "しこう",
+        "answer": "しこう"
+      },
+      {
+        "japanese": "解決",
+        "english": "solution, settlement",
+        "furigana": "解[かい] 決[けつ]",
+        "kana": "かいけつ",
+        "answer": "かいけつ"
+      },
+      {
+        "japanese": "冷静",
+        "english": "cool, calm",
+        "furigana": "冷[れい] 静[せい]",
+        "kana": "れいせい",
+        "answer": "れいせい"
+      },
+      {
+        "japanese": "天",
+        "english": "sky, Heaven",
+        "furigana": "天[てん]",
+        "kana": "てん",
+        "answer": "てん"
+      },
+      {
+        "japanese": "いつの間にか",
+        "english": "before one knows, unnoticed",
+        "furigana": "いつの 間[ま]にか",
+        "kana": "いつのまにか",
+        "answer": "いつのまにか"
+      },
+      {
+        "japanese": "直す",
+        "english": "repair, cure, alter",
+        "furigana": "直[なお]す",
+        "kana": "なおす",
+        "answer": "なおす"
+      },
+      {
+        "japanese": "常に",
+        "english": "always, constantly",
+        "furigana": "常[つね]に",
+        "kana": "つねに",
+        "answer": "つねに"
+      },
+      {
+        "japanese": "犯人",
+        "english": "criminal, culprit",
+        "furigana": "犯[はん] 人[にん]",
+        "kana": "はんにん",
+        "answer": "はんにん"
+      },
+      {
+        "japanese": "許可",
+        "english": "permission, approval",
+        "furigana": "許[きょ] 可[か]",
+        "kana": "きょか",
+        "answer": "きょか"
+      },
+      {
+        "japanese": "閉じる",
+        "english": "close",
+        "furigana": "閉[と]じる",
+        "kana": "とじる",
+        "answer": "とじる"
+      },
+      {
+        "japanese": "重ねる",
+        "english": "put on top of something, pile up",
+        "furigana": "重[かさ]ねる",
+        "kana": "かさねる",
+        "answer": "かさねる"
+      },
+      {
+        "japanese": "細い",
+        "english": "thin, narrow, slender",
+        "furigana": "細[ほそ]い",
+        "kana": "ほそい",
+        "answer": "ほそい"
+      },
+      {
+        "japanese": "久しぶり",
+        "english": "for the first time in a while",
+        "furigana": "久[ひさ]しぶり",
+        "kana": "ひさしぶり",
+        "answer": "ひさしぶり"
+      },
+      {
+        "japanese": "目立つ",
+        "english": "stand out, be conspicuous",
+        "furigana": "目[め] 立[だ]つ",
+        "kana": "めだつ",
+        "answer": "めだつ"
+      },
+      {
+        "japanese": "到着",
+        "english": "arrival",
+        "furigana": "到[とう] 着[ちゃく]",
+        "kana": "とうちゃく",
+        "answer": "とうちゃく"
+      },
+      {
+        "japanese": "押さえる",
+        "english": "hold down, hold steady",
+        "furigana": "押[お]さえる",
+        "kana": "おさえる",
+        "answer": "おさえる"
+      },
+      {
+        "japanese": "通う",
+        "english": "go to and from, frequent a place",
+        "furigana": "通[かよ]う",
+        "kana": "かよう",
+        "answer": "かよう"
+      },
+      {
+        "japanese": "殴る",
+        "english": "hit, strike",
+        "furigana": "殴[なぐ]る",
+        "kana": "なぐる",
+        "answer": "なぐる"
+      },
+      {
+        "japanese": "広げる",
+        "english": "spread, unfold",
+        "furigana": "広[ひろ]げる",
+        "kana": "ひろげる",
+        "answer": "ひろげる"
+      },
+      {
+        "japanese": "引っ張る",
+        "english": "pull, drag",
+        "furigana": "引[ひ]っ 張[ぱ]る",
+        "kana": "ひっぱる",
+        "answer": "ひっぱる"
+      },
+      {
+        "japanese": "いつまでも",
+        "english": "endlessly, as long as one likes",
+        "furigana": "いつまでも",
+        "kana": "いつまでも",
+        "answer": "いつまでも"
+      },
+      {
+        "japanese": "間に合う",
+        "english": "be in time, answer the purpose, can do without",
+        "furigana": "間[ま]に 合[あ]う",
+        "kana": "まにあう",
+        "answer": "まにあう"
+      },
+      {
+        "japanese": "了解",
+        "english": "consent, understanding, roger that",
+        "furigana": "了[りょう] 解[かい]",
+        "kana": "りょうかい",
+        "answer": "りょうかい"
+      },
+      {
+        "japanese": "番",
+        "english": "one's turn",
+        "furigana": "番[ばん]",
+        "kana": "ばん",
+        "answer": "ばん"
+      },
+      {
+        "japanese": "戦争",
+        "english": "war, battle",
+        "furigana": "戦[せん] 争[そう]",
+        "kana": "せんそう",
+        "answer": "せんそう"
+      },
+      {
+        "japanese": "寒い",
+        "english": "cold",
+        "furigana": "寒[さむ]い",
+        "kana": "さむい",
+        "answer": "さむい"
+      },
+      {
+        "japanese": "見事",
+        "english": "splendid, admirable",
+        "furigana": "見[み] 事[ごと]",
+        "kana": "みごと",
+        "answer": "みごと"
+      },
+      {
+        "japanese": "酒",
+        "english": "alcoholic drink, Japanese rice wine",
+        "furigana": "酒[さけ]",
+        "kana": "さけ",
+        "answer": "さけ"
+      },
+      {
+        "japanese": "恋人",
+        "english": "lover, sweetheart",
+        "furigana": "恋[こい] 人[びと]",
+        "kana": "こいびと",
+        "answer": "こいびと"
+      },
+      {
+        "japanese": "一切",
+        "english": "not at all, absolutely nothing",
+        "furigana": "一[いっ] 切[さい]",
+        "kana": "いっさい",
+        "answer": "いっさい"
+      },
+      {
+        "japanese": "穴",
+        "english": "hole, cavity",
+        "furigana": "穴[あな]",
+        "kana": "あな",
+        "answer": "あな"
+      },
+      {
+        "japanese": "依頼",
+        "english": "request, commission",
+        "furigana": "依[い] 頼[らい]",
+        "kana": "いらい",
+        "answer": "いらい"
+      },
+      {
+        "japanese": "中身",
+        "english": "content, interior",
+        "furigana": "中[なか] 身[み]",
+        "kana": "なかみ",
+        "answer": "なかみ"
+      },
+      {
+        "japanese": "多少",
+        "english": "a little, somewhat",
+        "furigana": "多[た] 少[しょう]",
+        "kana": "たしょう",
+        "answer": "たしょう"
+      },
+      {
+        "japanese": "真実",
+        "english": "truth, reality",
+        "furigana": "真[しん] 実[じつ]",
+        "kana": "しんじつ",
+        "answer": "しんじつ"
+      },
+      {
+        "japanese": "見た目",
+        "english": "outward appearance",
+        "furigana": "見[み]た 目[め]",
+        "kana": "みため",
+        "answer": "みため"
+      },
+      {
+        "japanese": "間違い",
+        "english": "mistake, error",
+        "furigana": "間[ま] 違[ちが]い",
+        "kana": "まちがい",
+        "answer": "まちがい"
+      },
+      {
+        "japanese": "青い",
+        "english": "blue",
+        "furigana": "青[あお]い",
+        "kana": "あおい",
+        "answer": "あおい"
+      },
+      {
+        "japanese": "辛い",
+        "english": "spicy",
+        "furigana": "辛[から]い",
+        "kana": "からい",
+        "answer": "からい"
+      },
+      {
+        "japanese": "辛い",
+        "english": "difficult, harsh",
+        "furigana": "辛[つら]い",
+        "kana": "つらい",
+        "answer": "つらい"
+      },
+      {
+        "japanese": "対応",
+        "english": "correspondence, equivalence, response",
+        "furigana": "対[たい] 応[おう]",
+        "kana": "たいおう",
+        "answer": "たいおう"
+      },
+      {
+        "japanese": "光る",
+        "english": "shine, emit light",
+        "furigana": "光[ひか]る",
+        "kana": "ひかる",
+        "answer": "ひかる"
+      },
+      {
+        "japanese": "苦労",
+        "english": "difficulty, hardship",
+        "furigana": "苦[く] 労[ろう]",
+        "kana": "くろう",
+        "answer": "くろう"
+      },
+      {
+        "japanese": "通じる",
+        "english": "pass, communicate with",
+        "furigana": "通[つう]じる",
+        "kana": "つうじる",
+        "answer": "つうじる"
+      },
+      {
+        "japanese": "罪",
+        "english": "crime, sin",
+        "furigana": "罪[つみ]",
+        "kana": "つみ",
+        "answer": "つみ"
+      },
+      {
+        "japanese": "授業",
+        "english": "class, lesson",
+        "furigana": "授[じゅ] 業[ぎょう]",
+        "kana": "じゅぎょう",
+        "answer": "じゅぎょう"
+      },
+      {
+        "japanese": "最悪",
+        "english": "worst, terrible",
+        "furigana": "最[さい] 悪[あく]",
+        "kana": "さいあく",
+        "answer": "さいあく"
+      },
+      {
+        "japanese": "差",
+        "english": "difference",
+        "furigana": "差[さ]",
+        "kana": "さ",
+        "answer": "さ"
+      },
+      {
+        "japanese": "信用",
+        "english": "trust, credit",
+        "furigana": "信[しん] 用[よう]",
+        "kana": "しんよう",
+        "answer": "しんよう"
+      },
+      {
+        "japanese": "壊す",
+        "english": "break, destroy, smash",
+        "furigana": "壊[こわ]す",
+        "kana": "こわす",
+        "answer": "こわす"
+      },
+      {
+        "japanese": "式",
+        "english": "ceremony",
+        "furigana": "式[しき]",
+        "kana": "しき",
+        "answer": "しき"
+      },
+      {
+        "japanese": "人形",
+        "english": "doll",
+        "furigana": "人[にん] 形[ぎょう]",
+        "kana": "にんぎょう",
+        "answer": "にんぎょう"
+      },
+      {
+        "japanese": "結ぶ",
+        "english": "tie, join",
+        "furigana": "結[むす]ぶ",
+        "kana": "むすぶ",
+        "answer": "むすぶ"
+      },
+      {
+        "japanese": "あんなに",
+        "english": "that much, such...",
+        "furigana": "あんなに",
+        "kana": "あんなに",
+        "answer": "あんなに"
+      },
+      {
+        "japanese": "計画",
+        "english": "plan, project",
+        "furigana": "計[けい] 画[かく]",
+        "kana": "けいかく",
+        "answer": "けいかく"
+      },
+      {
+        "japanese": "囲む",
+        "english": "enclose, encircle",
+        "furigana": "囲[かこ]む",
+        "kana": "かこむ",
+        "answer": "かこむ"
+      },
+      {
+        "japanese": "知識",
+        "english": "knowledge",
+        "furigana": "知[ち] 識[しき]",
+        "kana": "ちしき",
+        "answer": "ちしき"
+      },
+      {
+        "japanese": "切り",
+        "english": "end, place to stop",
+        "furigana": "切[き]り",
+        "kana": "きり",
+        "answer": "きり"
+      },
+      {
+        "japanese": "注意",
+        "english": "care, watch out",
+        "furigana": "注[ちゅう] 意[い]",
+        "kana": "ちゅうい",
+        "answer": "ちゅうい"
+      },
+      {
+        "japanese": "言い方",
+        "english": "way of speaking, expression",
+        "furigana": "言[い]い 方[かた]",
+        "kana": "いいかた",
+        "answer": "いいかた"
+      },
+      {
+        "japanese": "経つ",
+        "english": "pass, elapse",
+        "furigana": "経[た]つ",
+        "kana": "たつ",
+        "answer": "たつ"
+      },
+      {
+        "japanese": "背",
+        "english": "height, stature",
+        "furigana": "背[せ]",
+        "kana": "せ",
+        "answer": "せ"
+      },
+      {
+        "japanese": "問う",
+        "english": "ask, inquire",
+        "furigana": "問[と]う",
+        "kana": "とう",
+        "answer": "とう"
+      },
+      {
+        "japanese": "恋",
+        "english": "love, romance",
+        "furigana": "恋[こい]",
+        "kana": "こい",
+        "answer": "こい"
+      },
+      {
+        "japanese": "とんでもない",
+        "english": "unthinkable, outrageous",
+        "furigana": "とんでもない",
+        "kana": "とんでもない",
+        "answer": "とんでもない"
+      },
+      {
+        "japanese": "中心",
+        "english": "center, middle",
+        "furigana": "中[ちゅう] 心[しん]",
+        "kana": "ちゅうしん",
+        "answer": "ちゅうしん"
+      },
+      {
+        "japanese": "汗",
+        "english": "sweat",
+        "furigana": "汗[あせ]",
+        "kana": "あせ",
+        "answer": "あせ"
+      },
+      {
+        "japanese": "異常",
+        "english": "extraordinary, exceptional",
+        "furigana": "異[い] 常[じょう]",
+        "kana": "いじょう",
+        "answer": "いじょう"
+      },
+      {
+        "japanese": "非常",
+        "english": "emergency, calamity",
+        "furigana": "非[ひ] 常[じょう]",
+        "kana": "ひじょう",
+        "answer": "ひじょう"
+      },
+      {
+        "japanese": "膝",
+        "english": "knee",
+        "furigana": "膝[ひざ]",
+        "kana": "ひざ",
+        "answer": "ひざ"
+      },
+      {
+        "japanese": "わずか",
+        "english": "few, little",
+        "furigana": "わずか",
+        "kana": "わずか",
+        "answer": "わずか"
+      },
+      {
+        "japanese": "役",
+        "english": "role, part",
+        "furigana": "役[やく]",
+        "kana": "やく",
+        "answer": "やく"
+      },
+      {
+        "japanese": "焦る",
+        "english": "feel pressured, feel hurried",
+        "furigana": "焦[あせ]る",
+        "kana": "あせる",
+        "answer": "あせる"
+      },
+      {
+        "japanese": "川",
+        "english": "river, stream",
+        "furigana": "川[かわ]",
+        "kana": "かわ",
+        "answer": "かわ"
+      },
+      {
+        "japanese": "悪魔",
+        "english": "demon, devil",
+        "furigana": "悪[あく] 魔[ま]",
+        "kana": "あくま",
+        "answer": "あくま"
+      },
+      {
+        "japanese": "唯一",
+        "english": "(the) only, unique",
+        "furigana": "唯[ゆい] 一[いつ]",
+        "kana": "ゆいいつ",
+        "answer": "ゆいいつ"
+      },
+      {
+        "japanese": "もうすぐ",
+        "english": "soon, before long",
+        "furigana": "もうすぐ",
+        "kana": "もうすぐ",
+        "answer": "もうすぐ"
+      },
+      {
+        "japanese": "中央",
+        "english": "center",
+        "furigana": "中[ちゅう] 央[おう]",
+        "kana": "ちゅうおう",
+        "answer": "ちゅうおう"
+      },
+      {
+        "japanese": "突っ込む",
+        "english": "thrust in, dash into",
+        "furigana": "突[つ]っ 込[こ]む",
+        "kana": "つっこむ",
+        "answer": "つっこむ"
+      },
+      {
+        "japanese": "技術",
+        "english": "technology",
+        "furigana": "技[ぎ] 術[じゅつ]",
+        "kana": "ぎじゅつ",
+        "answer": "ぎじゅつ"
+      },
+      {
+        "japanese": "素晴らしい",
+        "english": "splendid, excellent",
+        "furigana": "素[す] 晴[ば]らしい",
+        "kana": "すばらしい",
+        "answer": "すばらしい"
+      },
+      {
+        "japanese": "単純",
+        "english": "simple, uncomplicated",
+        "furigana": "単[たん] 純[じゅん]",
+        "kana": "たんじゅん",
+        "answer": "たんじゅん"
+      },
+      {
+        "japanese": "穏やか",
+        "english": "calm, mild",
+        "furigana": "穏[おだ]やか",
+        "kana": "おだやか",
+        "answer": "おだやか"
+      },
+      {
+        "japanese": "撃つ",
+        "english": "fire, shoot",
+        "furigana": "撃[う]つ",
+        "kana": "うつ",
+        "answer": "うつ"
+      },
+      {
+        "japanese": "拾う",
+        "english": "pick up, find",
+        "furigana": "拾[ひろ]う",
+        "kana": "ひろう",
+        "answer": "ひろう"
+      },
+      {
+        "japanese": "完成",
+        "english": "completion, finish",
+        "furigana": "完[かん] 成[せい]",
+        "kana": "かんせい",
+        "answer": "かんせい"
+      },
+      {
+        "japanese": "毒",
+        "english": "poison, harm",
+        "furigana": "毒[どく]",
+        "kana": "どく",
+        "answer": "どく"
+      },
+      {
+        "japanese": "馬",
+        "english": "horse",
+        "furigana": "馬[うま]",
+        "kana": "うま",
+        "answer": "うま"
+      },
+      {
+        "japanese": "覆う",
+        "english": "cover, hide",
+        "furigana": "覆[おお]う",
+        "kana": "おおう",
+        "answer": "おおう"
+      },
+      {
+        "japanese": "趣味",
+        "english": "hobby",
+        "furigana": "趣[しゅ] 味[み]",
+        "kana": "しゅみ",
+        "answer": "しゅみ"
+      },
+      {
+        "japanese": "どうにか",
+        "english": "somehow",
+        "furigana": "どうにか",
+        "kana": "どうにか",
+        "answer": "どうにか"
+      },
+      {
+        "japanese": "何となく",
+        "english": "for some reason",
+        "furigana": "何[なん]となく",
+        "kana": "なんとなく",
+        "answer": "なんとなく"
+      },
+      {
+        "japanese": "価値",
+        "english": "value, merit",
+        "furigana": "価[か] 値[ち]",
+        "kana": "かち",
+        "answer": "かち"
+      },
+      {
+        "japanese": "見守る",
+        "english": "watch, keep watch over",
+        "furigana": "見[み] 守[まも]る",
+        "kana": "みまもる",
+        "answer": "みまもる"
+      },
+      {
+        "japanese": "安全",
+        "english": "safety, security",
+        "furigana": "安[あん] 全[ぜん]",
+        "kana": "あんぜん",
+        "answer": "あんぜん"
+      },
+      {
+        "japanese": "連れてくる",
+        "english": "bring over",
+        "furigana": "連[つ]れてくる",
+        "kana": "つれてくる",
+        "answer": "つれてくる"
+      },
+      {
+        "japanese": "そば",
+        "english": "side, vicinity",
+        "furigana": "そば",
+        "kana": "そば",
+        "answer": "そば"
+      },
+      {
+        "japanese": "万",
+        "english": "ten thousand",
+        "furigana": "万[まん]",
+        "kana": "まん",
+        "answer": "まん"
+      },
+      {
+        "japanese": "額",
+        "english": "picture frame",
+        "furigana": "額[がく]",
+        "kana": "がく",
+        "answer": "がく"
+      },
+      {
+        "japanese": "受け止める",
+        "english": "catch, receive",
+        "furigana": "受[う]け 止[と]める",
+        "kana": "うけとめる",
+        "answer": "うけとめる"
+      },
+      {
+        "japanese": "素敵",
+        "english": "lovely, superb",
+        "furigana": "素[す] 敵[てき]",
+        "kana": "すてき",
+        "answer": "すてき"
+      },
+      {
+        "japanese": "正体",
+        "english": "true character, true form",
+        "furigana": "正[しょう] 体[たい]",
+        "kana": "しょうたい",
+        "answer": "しょうたい"
+      },
+      {
+        "japanese": "あっさり",
+        "english": "lightly, easily, simply",
+        "furigana": "あっさり",
+        "kana": "あっさり",
+        "answer": "あっさり"
+      },
+      {
+        "japanese": "吸う",
+        "english": "smoke",
+        "furigana": "吸[す]う",
+        "kana": "すう",
+        "answer": "すう"
+      },
+      {
+        "japanese": "鳴る",
+        "english": "ring, beep",
+        "furigana": "鳴[な]る",
+        "kana": "なる",
+        "answer": "なる"
+      },
+      {
+        "japanese": "研究",
+        "english": "research",
+        "furigana": "研[けん] 究[きゅう]",
+        "kana": "けんきゅう",
+        "answer": "けんきゅう"
+      },
+      {
+        "japanese": "まとめる",
+        "english": "gather together, put in order",
+        "furigana": "まとめる",
+        "kana": "まとめる",
+        "answer": "まとめる"
+      },
+      {
+        "japanese": "別れる",
+        "english": "separate, part from",
+        "furigana": "別[わか]れる",
+        "kana": "わかれる",
+        "answer": "わかれる"
+      },
+      {
+        "japanese": "ふざける",
+        "english": "mess around, fool around",
+        "furigana": "ふざける",
+        "kana": "ふざける",
+        "answer": "ふざける"
+      },
+      {
+        "japanese": "着替える",
+        "english": "change clothes",
+        "furigana": "着[き] 替[が]える",
+        "kana": "きがえる",
+        "answer": "きがえる"
+      },
+      {
+        "japanese": "箱",
+        "english": "box, case",
+        "furigana": "箱[はこ]",
+        "kana": "はこ",
+        "answer": "はこ"
+      },
+      {
+        "japanese": "無言",
+        "english": "silence, muteness",
+        "furigana": "無[む] 言[ごん]",
+        "kana": "むごん",
+        "answer": "むごん"
+      },
+      {
+        "japanese": "何で",
+        "english": "why, what for",
+        "furigana": "何[なん]で",
+        "kana": "なんで",
+        "answer": "なんで"
+      },
+      {
+        "japanese": "裏切る",
+        "english": "betray",
+        "furigana": "裏[うら] 切[ぎ]る",
+        "kana": "うらぎる",
+        "answer": "うらぎる"
+      },
+      {
+        "japanese": "焼く",
+        "english": "burn, bake",
+        "furigana": "焼[や]く",
+        "kana": "やく",
+        "answer": "やく"
+      },
+      {
+        "japanese": "怪我",
+        "english": "injury",
+        "furigana": "怪[け] 我[が]",
+        "kana": "けが",
+        "answer": "けが"
+      },
+      {
+        "japanese": "門",
+        "english": "gate, entrance",
+        "furigana": "門[もん]",
+        "kana": "もん",
+        "answer": "もん"
+      },
+      {
+        "japanese": "不可能",
+        "english": "impossible",
+        "furigana": "不[ふ] 可[か] 能[のう]",
+        "kana": "ふかのう",
+        "answer": "ふかのう"
+      },
+      {
+        "japanese": "妻",
+        "english": "wife",
+        "furigana": "妻[つま]",
+        "kana": "つま",
+        "answer": "つま"
+      },
+      {
+        "japanese": "時には",
+        "english": "occasionally, at times",
+        "furigana": "時[とき]には",
+        "kana": "ときには",
+        "answer": "ときには"
+      },
+      {
+        "japanese": "発言",
+        "english": "speech",
+        "furigana": "発[はつ] 言[げん]",
+        "kana": "はつげん",
+        "answer": "はつげん"
+      },
+      {
+        "japanese": "正確",
+        "english": "accurate, precise",
+        "furigana": "正[せい] 確[かく]",
+        "kana": "せいかく",
+        "answer": "せいかく"
+      },
+      {
+        "japanese": "認識",
+        "english": "recognition, acknowledgment",
+        "furigana": "認[にん] 識[しき]",
+        "kana": "にんしき",
+        "answer": "にんしき"
+      },
+      {
+        "japanese": "速度",
+        "english": "velocity, speed",
+        "furigana": "速[そく] 度[ど]",
+        "kana": "そくど",
+        "answer": "そくど"
+      },
+      {
+        "japanese": "謎",
+        "english": "mystery, puzzle",
+        "furigana": "謎[なぞ]",
+        "kana": "なぞ",
+        "answer": "なぞ"
+      },
+      {
+        "japanese": "文字",
+        "english": "character, letter",
+        "furigana": "文[も] 字[じ]",
+        "kana": "もじ",
+        "answer": "もじ"
+      },
+      {
+        "japanese": "吐く",
+        "english": "spew, vomit, holler",
+        "furigana": "吐[は]く",
+        "kana": "はく",
+        "answer": "はく"
+      },
+      {
+        "japanese": "鬼",
+        "english": "demon, ogre",
+        "furigana": "鬼[おに]",
+        "kana": "おに",
+        "answer": "おに"
+      },
+      {
+        "japanese": "刺激",
+        "english": "stimulus, stimulation",
+        "furigana": "刺[し] 激[げき]",
+        "kana": "しげき",
+        "answer": "しげき"
+      },
+      {
+        "japanese": "最も",
+        "english": "the most",
+        "furigana": "最[もっと]も",
+        "kana": "もっとも",
+        "answer": "もっとも"
+      },
+      {
+        "japanese": "制服",
+        "english": "uniform",
+        "furigana": "制[せい] 服[ふく]",
+        "kana": "せいふく",
+        "answer": "せいふく"
+      },
+      {
+        "japanese": "爆発",
+        "english": "blast, explosion",
+        "furigana": "爆[ばく] 発[はつ]",
+        "kana": "ばくはつ",
+        "answer": "ばくはつ"
+      },
+      {
+        "japanese": "訓練",
+        "english": "training, drill",
+        "furigana": "訓[くん] 練[れん]",
+        "kana": "くんれん",
+        "answer": "くんれん"
+      },
+      {
+        "japanese": "振り向く",
+        "english": "turn around, look back",
+        "furigana": "振[ふ]り 向[む]く",
+        "kana": "ふりむく",
+        "answer": "ふりむく"
+      },
+      {
+        "japanese": "脱ぐ",
+        "english": "remove clothes, take off",
+        "furigana": "脱[ぬ]ぐ",
+        "kana": "ぬぐ",
+        "answer": "ぬぐ"
+      },
+      {
+        "japanese": "信頼",
+        "english": "trust, faith",
+        "furigana": "信[しん] 頼[らい]",
+        "kana": "しんらい",
+        "answer": "しんらい"
+      },
+      {
+        "japanese": "寄る",
+        "english": "stop by, drop by",
+        "furigana": "寄[よ]る",
+        "kana": "よる",
+        "answer": "よる"
+      },
+      {
+        "japanese": "飛ばす",
+        "english": "fly, shoot",
+        "furigana": "飛[と]ばす",
+        "kana": "とばす",
+        "answer": "とばす"
+      },
+      {
+        "japanese": "貸す",
+        "english": "lend, lease",
+        "furigana": "貸[か]す",
+        "kana": "かす",
+        "answer": "かす"
+      },
+      {
+        "japanese": "パン",
+        "english": "bread",
+        "furigana": "パン",
+        "kana": "ぱん",
+        "answer": "ぱん"
+      },
+      {
+        "japanese": "ありがたい",
+        "english": "welcome, grateful",
+        "furigana": "ありがたい",
+        "kana": "ありがたい",
+        "answer": "ありがたい"
+      },
+      {
+        "japanese": "赤",
+        "english": "red",
+        "furigana": "赤[あか]",
+        "kana": "あか",
+        "answer": "あか"
+      },
+      {
+        "japanese": "大体",
+        "english": "mostly",
+        "furigana": "大[だい] 体[たい]",
+        "kana": "だいたい",
+        "answer": "だいたい"
+      },
+      {
+        "japanese": "きちんと",
+        "english": "neatly, accurately",
+        "furigana": "きちんと",
+        "kana": "きちんと",
+        "answer": "きちんと"
+      },
+      {
+        "japanese": "喉",
+        "english": "throat",
+        "furigana": "喉[のど]",
+        "kana": "のど",
+        "answer": "のど"
+      },
+      {
+        "japanese": "少々",
+        "english": "a little, a few",
+        "furigana": "少[しょう] 々[しょう]",
+        "kana": "しょうしょう",
+        "answer": "しょうしょう"
+      },
+      {
+        "japanese": "有名",
+        "english": "famous",
+        "furigana": "有[ゆう] 名[めい]",
+        "kana": "ゆうめい",
+        "answer": "ゆうめい"
+      },
+      {
+        "japanese": "船",
+        "english": "ship, boat",
+        "furigana": "船[ふね]",
+        "kana": "ふね",
+        "answer": "ふね"
+      },
+      {
+        "japanese": "転がる",
+        "english": "roll over, tumble",
+        "furigana": "転[ころ]がる",
+        "kana": "ころがる",
+        "answer": "ころがる"
+      },
+      {
+        "japanese": "切れる",
+        "english": "able to cut, run out, expire",
+        "furigana": "切[き]れる",
+        "kana": "きれる",
+        "answer": "きれる"
+      },
+      {
+        "japanese": "たった",
+        "english": "only, merely",
+        "furigana": "たった",
+        "kana": "たった",
+        "answer": "たった"
+      },
+      {
+        "japanese": "話題",
+        "english": "topic of conversation",
+        "furigana": "話[わ] 題[だい]",
+        "kana": "わだい",
+        "answer": "わだい"
+      },
+      {
+        "japanese": "濡れる",
+        "english": "get wet",
+        "furigana": "濡[ぬ]れる",
+        "kana": "ぬれる",
+        "answer": "ぬれる"
+      },
+      {
+        "japanese": "ついでに",
+        "english": "on the way, while one's at it",
+        "furigana": "ついでに",
+        "kana": "ついでに",
+        "answer": "ついでに"
+      },
+      {
+        "japanese": "呼び出す",
+        "english": "to call someone to",
+        "furigana": "呼[よ]び 出[だ]す",
+        "kana": "よびだす",
+        "answer": "よびだす"
+      },
+      {
+        "japanese": "確信",
+        "english": "firm belief, conviction",
+        "furigana": "確[かく] 信[しん]",
+        "kana": "かくしん",
+        "answer": "かくしん"
+      },
+      {
+        "japanese": "込める",
+        "english": "put in, concentrate on",
+        "furigana": "込[こ]める",
+        "kana": "こめる",
+        "answer": "こめる"
+      },
+      {
+        "japanese": "自覚",
+        "english": "awareness",
+        "furigana": "自[じ] 覚[かく]",
+        "kana": "じかく",
+        "answer": "じかく"
+      },
+      {
+        "japanese": "空く",
+        "english": "become available or vacant",
+        "furigana": "空[あ]く",
+        "kana": "あく",
+        "answer": "あく"
+      },
+      {
+        "japanese": "空く",
+        "english": "be empty, become less crowded",
+        "furigana": "空[す]く",
+        "kana": "すく",
+        "answer": "すく"
+      },
+      {
+        "japanese": "警察",
+        "english": "police",
+        "furigana": "警[けい] 察[さつ]",
+        "kana": "けいさつ",
+        "answer": "けいさつ"
+      },
+      {
+        "japanese": "悲鳴",
+        "english": "shriek, scream",
+        "furigana": "悲[ひ] 鳴[めい]",
+        "kana": "ひめい",
+        "answer": "ひめい"
+      },
+      {
+        "japanese": "捕まえる",
+        "english": "arrest, capture",
+        "furigana": "捕[つか]まえる",
+        "kana": "つかまえる",
+        "answer": "つかまえる"
+      },
+      {
+        "japanese": "早速",
+        "english": "immediately",
+        "furigana": "早[さっ] 速[そく]",
+        "kana": "さっそく",
+        "answer": "さっそく"
+      },
+      {
+        "japanese": "お腹",
+        "english": "stomach, belly",
+        "furigana": "お 腹[なか]",
+        "kana": "おなか",
+        "answer": "おなか"
+      },
+      {
+        "japanese": "掃除",
+        "english": "clean",
+        "furigana": "掃[そう] 除[じ]",
+        "kana": "そうじ",
+        "answer": "そうじ"
+      },
+      {
+        "japanese": "硬い",
+        "english": "hard, stiff",
+        "furigana": "硬[かた]い",
+        "kana": "かたい",
+        "answer": "かたい"
+      },
+      {
+        "japanese": "際",
+        "english": "occasion, time",
+        "furigana": "際[さい]",
+        "kana": "さい",
+        "answer": "さい"
+      },
+      {
+        "japanese": "漏らす",
+        "english": "give away, let leak",
+        "furigana": "漏[も]らす",
+        "kana": "もらす",
+        "answer": "もらす"
+      },
+      {
+        "japanese": "面",
+        "english": "surface, aspect",
+        "furigana": "面[めん]",
+        "kana": "めん",
+        "answer": "めん"
+      },
+      {
+        "japanese": "不満",
+        "english": "dissatisfaction, discontent",
+        "furigana": "不[ふ] 満[まん]",
+        "kana": "ふまん",
+        "answer": "ふまん"
+      },
+      {
+        "japanese": "驚き",
+        "english": "surprise, amazement",
+        "furigana": "驚[おどろ]き",
+        "kana": "おどろき",
+        "answer": "おどろき"
+      },
+      {
+        "japanese": "旅",
+        "english": "journey, travel",
+        "furigana": "旅[たび]",
+        "kana": "たび",
+        "answer": "たび"
+      },
+      {
+        "japanese": "絵",
+        "english": "picture, drawing",
+        "furigana": "絵[え]",
+        "kana": "え",
+        "answer": "え"
+      },
+      {
+        "japanese": "組む",
+        "english": "pair up, partner with",
+        "furigana": "組[く]む",
+        "kana": "くむ",
+        "answer": "くむ"
+      },
+      {
+        "japanese": "沈黙",
+        "english": "reticence, silence",
+        "furigana": "沈[ちん] 黙[もく]",
+        "kana": "ちんもく",
+        "answer": "ちんもく"
+      },
+      {
+        "japanese": "張る",
+        "english": "strain, be stretched",
+        "furigana": "張[は]る",
+        "kana": "はる",
+        "answer": "はる"
+      },
+      {
+        "japanese": "告白",
+        "english": "confession, admission",
+        "furigana": "告[こく] 白[はく]",
+        "kana": "こくはく",
+        "answer": "こくはく"
+      },
+      {
+        "japanese": "舐める",
+        "english": "lick",
+        "furigana": "舐[な]める",
+        "kana": "なめる",
+        "answer": "なめる"
+      },
+      {
+        "japanese": "潰す",
+        "english": "crush, smash",
+        "furigana": "潰[つぶ]す",
+        "kana": "つぶす",
+        "answer": "つぶす"
+      },
+      {
+        "japanese": "含める",
+        "english": "include",
+        "furigana": "含[ふく]める",
+        "kana": "ふくめる",
+        "answer": "ふくめる"
+      },
+      {
+        "japanese": "時期",
+        "english": "time, season, period",
+        "furigana": "時[じ] 期[き]",
+        "kana": "じき",
+        "answer": "じき"
+      },
+      {
+        "japanese": "活動",
+        "english": "activity",
+        "furigana": "活[かつ] 動[どう]",
+        "kana": "かつどう",
+        "answer": "かつどう"
+      },
+      {
+        "japanese": "育てる",
+        "english": "bring up, breed",
+        "furigana": "育[そだ]てる",
+        "kana": "そだてる",
+        "answer": "そだてる"
+      },
+      {
+        "japanese": "優秀",
+        "english": "excellent, exceptional",
+        "furigana": "優[ゆう] 秀[しゅう]",
+        "kana": "ゆうしゅう",
+        "answer": "ゆうしゅう"
+      },
+      {
+        "japanese": "予感",
+        "english": "hunch, premonition",
+        "furigana": "予[よ] 感[かん]",
+        "kana": "よかん",
+        "answer": "よかん"
+      },
+      {
+        "japanese": "解く",
+        "english": "solve",
+        "furigana": "解[と]く",
+        "kana": "とく",
+        "answer": "とく"
+      },
+      {
+        "japanese": "元々",
+        "english": "originally, by nature",
+        "furigana": "元[もと] 々[もと]",
+        "kana": "もともと",
+        "answer": "もともと"
+      },
+      {
+        "japanese": "溢れる",
+        "english": "overflow, flood",
+        "furigana": "溢[あふ]れる",
+        "kana": "あふれる",
+        "answer": "あふれる"
+      },
+      {
+        "japanese": "発生",
+        "english": "occurrence, happening",
+        "furigana": "発[はっ] 生[せい]",
+        "kana": "はっせい",
+        "answer": "はっせい"
+      },
+      {
+        "japanese": "微妙",
+        "english": "subtle, delicate, sensitive, iffy",
+        "furigana": "微[び] 妙[みょう]",
+        "kana": "びみょう",
+        "answer": "びみょう"
+      },
+      {
+        "japanese": "違い",
+        "english": "difference, mistake",
+        "furigana": "違[ちが]い",
+        "kana": "ちがい",
+        "answer": "ちがい"
+      },
+      {
+        "japanese": "直後",
+        "english": "immediately after",
+        "furigana": "直[ちょく] 後[ご]",
+        "kana": "ちょくご",
+        "answer": "ちょくご"
+      },
+      {
+        "japanese": "地下",
+        "english": "underground",
+        "furigana": "地[ち] 下[か]",
+        "kana": "ちか",
+        "answer": "ちか"
+      },
+      {
+        "japanese": "香り",
+        "english": "perfume, fragrance",
+        "furigana": "香[かお]り",
+        "kana": "かおり",
+        "answer": "かおり"
+      },
+      {
+        "japanese": "効く",
+        "english": "be effective",
+        "furigana": "効[き]く",
+        "kana": "きく",
+        "answer": "きく"
+      },
+      {
+        "japanese": "使用",
+        "english": "usage",
+        "furigana": "使[し] 用[よう]",
+        "kana": "しよう",
+        "answer": "しよう"
+      },
+      {
+        "japanese": "道具",
+        "english": "tool",
+        "furigana": "道[どう] 具[ぐ]",
+        "kana": "どうぐ",
+        "answer": "どうぐ"
+      },
+      {
+        "japanese": "願い",
+        "english": "wish, request",
+        "furigana": "願[ねが]い",
+        "kana": "ねがい",
+        "answer": "ねがい"
+      },
+      {
+        "japanese": "洗う",
+        "english": "wash",
+        "furigana": "洗[あら]う",
+        "kana": "あらう",
+        "answer": "あらう"
+      },
+      {
+        "japanese": "手段",
+        "english": "means, way",
+        "furigana": "手[しゅ] 段[だん]",
+        "kana": "しゅだん",
+        "answer": "しゅだん"
+      },
+      {
+        "japanese": "誤解",
+        "english": "misunderstanding",
+        "furigana": "誤[ご] 解[かい]",
+        "kana": "ごかい",
+        "answer": "ごかい"
+      },
+      {
+        "japanese": "応援",
+        "english": "cheering",
+        "furigana": "応[おう] 援[えん]",
+        "kana": "おうえん",
+        "answer": "おうえん"
+      },
+      {
+        "japanese": "含む",
+        "english": "contain, include",
+        "furigana": "含[ふく]む",
+        "kana": "ふくむ",
+        "answer": "ふくむ"
+      },
+      {
+        "japanese": "当時",
+        "english": "at that time, at the present time",
+        "furigana": "当[とう] 時[じ]",
+        "kana": "とうじ",
+        "answer": "とうじ"
+      },
+      {
+        "japanese": "勝利",
+        "english": "triumph, victory",
+        "furigana": "勝[しょう] 利[り]",
+        "kana": "しょうり",
+        "answer": "しょうり"
+      },
+      {
+        "japanese": "降る",
+        "english": "fall (e.g. rain)",
+        "furigana": "降[ふ]る",
+        "kana": "ふる",
+        "answer": "ふる"
+      },
+      {
+        "japanese": "雪",
+        "english": "snow, snowfall",
+        "furigana": "雪[ゆき]",
+        "kana": "ゆき",
+        "answer": "ゆき"
+      },
+      {
+        "japanese": "入り口",
+        "english": "entrance",
+        "furigana": "入[い]り 口[ぐち]",
+        "kana": "いりぐち",
+        "answer": "いりぐち"
+      },
+      {
+        "japanese": "一方",
+        "english": "one way",
+        "furigana": "一[いっ] 方[ぽう]",
+        "kana": "いっぽう",
+        "answer": "いっぽう"
+      },
+      {
+        "japanese": "古い",
+        "english": "old",
+        "furigana": "古[ふる]い",
+        "kana": "ふるい",
+        "answer": "ふるい"
+      },
+      {
+        "japanese": "役に立つ",
+        "english": "be useful, be helpful",
+        "furigana": "役[やく]に 立[た]つ",
+        "kana": "やくにたつ",
+        "answer": "やくにたつ"
+      },
+      {
+        "japanese": "懐かしい",
+        "english": "longed-for, nostalgic",
+        "furigana": "懐[なつ]かしい",
+        "kana": "なつかしい",
+        "answer": "なつかしい"
+      },
+      {
+        "japanese": "もしも",
+        "english": "if, if ever",
+        "furigana": "もしも",
+        "kana": "もしも",
+        "answer": "もしも"
+      },
+      {
+        "japanese": "才能",
+        "english": "talent, ability",
+        "furigana": "才[さい] 能[のう]",
+        "kana": "さいのう",
+        "answer": "さいのう"
+      },
+      {
+        "japanese": "逃げ出す",
+        "english": "make a break for, run off",
+        "furigana": "逃[に]げ 出[だ]す",
+        "kana": "にげだす",
+        "answer": "にげだす"
+      },
+      {
+        "japanese": "様々",
+        "english": "various, diverse",
+        "furigana": "様[さま] 々[ざま]",
+        "kana": "さまざま",
+        "answer": "さまざま"
+      },
+      {
+        "japanese": "病院",
+        "english": "hospital",
+        "furigana": "病[びょう] 院[いん]",
+        "kana": "びょういん",
+        "answer": "びょういん"
+      },
+      {
+        "japanese": "比べる",
+        "english": "compare, contrast",
+        "furigana": "比[くら]べる",
+        "kana": "くらべる",
+        "answer": "くらべる"
+      },
+      {
+        "japanese": "氷",
+        "english": "ice",
+        "furigana": "氷[こおり]",
+        "kana": "こおり",
+        "answer": "こおり"
+      },
+      {
+        "japanese": "狭い",
+        "english": "narrow, cramped",
+        "furigana": "狭[せま]い",
+        "kana": "せまい",
+        "answer": "せまい"
+      },
+      {
+        "japanese": "神様",
+        "english": "God, the divine",
+        "furigana": "神[かみ] 様[さま]",
+        "kana": "かみさま",
+        "answer": "かみさま"
+      },
+      {
+        "japanese": "動揺",
+        "english": "shaking, turbulence",
+        "furigana": "動[どう] 揺[よう]",
+        "kana": "どうよう",
+        "answer": "どうよう"
+      },
+      {
+        "japanese": "長",
+        "english": "chief, head",
+        "furigana": "長[ちょう]",
+        "kana": "ちょう",
+        "answer": "ちょう"
+      },
+      {
+        "japanese": "なお",
+        "english": "still, in addition",
+        "furigana": "なお",
+        "kana": "なお",
+        "answer": "なお"
+      },
+      {
+        "japanese": "物語",
+        "english": "story, tale",
+        "furigana": "物[もの] 語[がたり]",
+        "kana": "ものがたり",
+        "answer": "ものがたり"
+      },
+      {
+        "japanese": "文句",
+        "english": "complaint",
+        "furigana": "文[もん] 句[く]",
+        "kana": "もんく",
+        "answer": "もんく"
+      },
+      {
+        "japanese": "至る",
+        "english": "come to, reach",
+        "furigana": "至[いた]る",
+        "kana": "いたる",
+        "answer": "いたる"
+      },
+      {
+        "japanese": "魚",
+        "english": "fish",
+        "furigana": "魚[さかな]",
+        "kana": "さかな",
+        "answer": "さかな"
+      },
+      {
+        "japanese": "鳥",
+        "english": "bird",
+        "furigana": "鳥[とり]",
+        "kana": "とり",
+        "answer": "とり"
+      },
+      {
+        "japanese": "映る",
+        "english": "be reflected, appear",
+        "furigana": "映[うつ]る",
+        "kana": "うつる",
+        "answer": "うつる"
+      },
+      {
+        "japanese": "一生",
+        "english": "a lifetime",
+        "furigana": "一[いっ] 生[しょう]",
+        "kana": "いっしょう",
+        "answer": "いっしょう"
+      },
+      {
+        "japanese": "紙",
+        "english": "paper",
+        "furigana": "紙[かみ]",
+        "kana": "かみ",
+        "answer": "かみ"
+      },
+      {
+        "japanese": "申す",
+        "english": "to be called..., speak (humble form)",
+        "furigana": "申[もう]す",
+        "kana": "もうす",
+        "answer": "もうす"
+      },
+      {
+        "japanese": "複雑",
+        "english": "complicated, intricate",
+        "furigana": "複[ふく] 雑[ざつ]",
+        "kana": "ふくざつ",
+        "answer": "ふくざつ"
+      },
+      {
+        "japanese": "投げる",
+        "english": "throw, abandon",
+        "furigana": "投[な]げる",
+        "kana": "なげる",
+        "answer": "なげる"
+      },
+      {
+        "japanese": "出来事",
+        "english": "occurrence, incident",
+        "furigana": "出[で] 来[き] 事[ごと]",
+        "kana": "できごと",
+        "answer": "できごと"
+      },
+      {
+        "japanese": "部下",
+        "english": "subordinate",
+        "furigana": "部[ぶ] 下[か]",
+        "kana": "ぶか",
+        "answer": "ぶか"
+      },
+      {
+        "japanese": "たっぷり",
+        "english": "fully, amply",
+        "furigana": "たっぷり",
+        "kana": "たっぷり",
+        "answer": "たっぷり"
+      },
+      {
+        "japanese": "実力",
+        "english": "real ability, capability",
+        "furigana": "実[じつ] 力[りょく]",
+        "kana": "じつりょく",
+        "answer": "じつりょく"
+      },
+      {
+        "japanese": "左右",
+        "english": "right and left",
+        "furigana": "左[さ] 右[ゆう]",
+        "kana": "さゆう",
+        "answer": "さゆう"
+      },
+      {
+        "japanese": "選択",
+        "english": "choice, selection",
+        "furigana": "選[せん] 択[たく]",
+        "kana": "せんたく",
+        "answer": "せんたく"
+      },
+      {
+        "japanese": "調査",
+        "english": "investigation, inquiry",
+        "furigana": "調[ちょう] 査[さ]",
+        "kana": "ちょうさ",
+        "answer": "ちょうさ"
+      },
+      {
+        "japanese": "例えば",
+        "english": "for example",
+        "furigana": "例[たと]えば",
+        "kana": "たとえば",
+        "answer": "たとえば"
+      },
+      {
+        "japanese": "見送る",
+        "english": "see (someone) off",
+        "furigana": "見[み] 送[おく]る",
+        "kana": "みおくる",
+        "answer": "みおくる"
+      },
+      {
+        "japanese": "もっとも",
+        "english": "quite right, reasonable",
+        "furigana": "もっとも",
+        "kana": "もっとも",
+        "answer": "もっとも"
+      },
+      {
+        "japanese": "従う",
+        "english": "follow, obey",
+        "furigana": "従[したが]う",
+        "kana": "したがう",
+        "answer": "したがう"
+      },
+      {
+        "japanese": "通す",
+        "english": "let pass, run through",
+        "furigana": "通[とお]す",
+        "kana": "とおす",
+        "answer": "とおす"
+      },
+      {
+        "japanese": "間違える",
+        "english": "mistake, confuse",
+        "furigana": "間[ま] 違[ちが]える",
+        "kana": "まちがえる",
+        "answer": "まちがえる"
+      },
+      {
+        "japanese": "体力",
+        "english": "stamina, endurance",
+        "furigana": "体[たい] 力[りょく]",
+        "kana": "たいりょく",
+        "answer": "たいりょく"
+      },
+      {
+        "japanese": "果たす",
+        "english": "accomplish, carry out, fulfill",
+        "furigana": "果[は]たす",
+        "kana": "はたす",
+        "answer": "はたす"
+      },
+      {
+        "japanese": "騒ぐ",
+        "english": "make a racket, mess around",
+        "furigana": "騒[さわ]ぐ",
+        "kana": "さわぐ",
+        "answer": "さわぐ"
+      },
+      {
+        "japanese": "飛び込む",
+        "english": "dive into",
+        "furigana": "飛[と]び 込[こ]む",
+        "kana": "とびこむ",
+        "answer": "とびこむ"
+      },
+      {
+        "japanese": "増す",
+        "english": "increase, augment, rise",
+        "furigana": "増[ま]す",
+        "kana": "ます",
+        "answer": "ます"
+      },
+      {
+        "japanese": "ぶつかる",
+        "english": "hit, bump into",
+        "furigana": "ぶつかる",
+        "kana": "ぶつかる",
+        "answer": "ぶつかる"
+      },
+      {
+        "japanese": "思い出",
+        "english": "recollections, memory",
+        "furigana": "思[おも]い 出[で]",
+        "kana": "おもいで",
+        "answer": "おもいで"
+      },
+      {
+        "japanese": "天井",
+        "english": "ceiling",
+        "furigana": "天[てん] 井[じょう]",
+        "kana": "てんじょう",
+        "answer": "てんじょう"
+      },
+      {
+        "japanese": "兵士",
+        "english": "soldier",
+        "furigana": "兵[へい] 士[し]",
+        "kana": "へいし",
+        "answer": "へいし"
+      },
+      {
+        "japanese": "満ちる",
+        "english": "fill, become full",
+        "furigana": "満[み]ちる",
+        "kana": "みちる",
+        "answer": "みちる"
+      },
+      {
+        "japanese": "たまらない",
+        "english": "can't stand, can't put up with",
+        "furigana": "たまらない",
+        "kana": "たまらない",
+        "answer": "たまらない"
+      },
+      {
+        "japanese": "味わう",
+        "english": "taste, appreciate",
+        "furigana": "味[あじ]わう",
+        "kana": "あじわう",
+        "answer": "あじわう"
+      },
+      {
+        "japanese": "出かける",
+        "english": "go out",
+        "furigana": "出[で]かける",
+        "kana": "でかける",
+        "answer": "でかける"
+      },
+      {
+        "japanese": "背負う",
+        "english": "carry on one's back; shoulder",
+        "furigana": "背[せ] 負[お]う",
+        "kana": "せおう",
+        "answer": "せおう"
+      },
+      {
+        "japanese": "揃う",
+        "english": "be (all) together",
+        "furigana": "揃[そろ]う",
+        "kana": "そろう",
+        "answer": "そろう"
+      },
+      {
+        "japanese": "呼吸",
+        "english": "breathing, respiration",
+        "furigana": "呼[こ] 吸[きゅう]",
+        "kana": "こきゅう",
+        "answer": "こきゅう"
+      },
+      {
+        "japanese": "真似",
+        "english": "imitation, mimicry",
+        "furigana": "真似[まね]",
+        "kana": "まね",
+        "answer": "まね"
+      },
+      {
+        "japanese": "人気",
+        "english": "popularity",
+        "furigana": "人[にん] 気[き]",
+        "kana": "にんき",
+        "answer": "にんき"
+      },
+      {
+        "japanese": "偉い",
+        "english": "great, famous",
+        "furigana": "偉[えら]い",
+        "kana": "えらい",
+        "answer": "えらい"
+      },
+      {
+        "japanese": "いよいよ",
+        "english": "finally, at last",
+        "furigana": "いよいよ",
+        "kana": "いよいよ",
+        "answer": "いよいよ"
+      },
+      {
+        "japanese": "対象",
+        "english": "target, object",
+        "furigana": "対[たい] 象[しょう]",
+        "kana": "たいしょう",
+        "answer": "たいしょう"
+      },
+      {
+        "japanese": "整える",
+        "english": "arrange, adjust",
+        "furigana": "整[ととの]える",
+        "kana": "ととのえる",
+        "answer": "ととのえる"
+      },
+      {
+        "japanese": "沈む",
+        "english": "sink, set",
+        "furigana": "沈[しず]む",
+        "kana": "しずむ",
+        "answer": "しずむ"
+      },
+      {
+        "japanese": "地上",
+        "english": "above ground",
+        "furigana": "地[ち] 上[じょう]",
+        "kana": "ちじょう",
+        "answer": "ちじょう"
+      },
+      {
+        "japanese": "用事",
+        "english": "things to do, errand, business",
+        "furigana": "用[よう] 事[じ]",
+        "kana": "ようじ",
+        "answer": "ようじ"
+      },
+      {
+        "japanese": "よる",
+        "english": "be caused by, be due to",
+        "furigana": "よる",
+        "kana": "よる",
+        "answer": "よる"
+      },
+      {
+        "japanese": "反対",
+        "english": "oppose, object",
+        "furigana": "反[はん] 対[たい]",
+        "kana": "はんたい",
+        "answer": "はんたい"
+      },
+      {
+        "japanese": "保つ",
+        "english": "preserve, endure",
+        "furigana": "保[たも]つ",
+        "kana": "たもつ",
+        "answer": "たもつ"
+      },
+      {
+        "japanese": "歴史",
+        "english": "history",
+        "furigana": "歴[れき] 史[し]",
+        "kana": "れきし",
+        "answer": "れきし"
+      },
+      {
+        "japanese": "島",
+        "english": "island, isle",
+        "furigana": "島[しま]",
+        "kana": "しま",
+        "answer": "しま"
+      },
+      {
+        "japanese": "それほど",
+        "english": "so much, that much",
+        "furigana": "それほど",
+        "kana": "それほど",
+        "answer": "それほど"
+      },
+      {
+        "japanese": "実に",
+        "english": "truly, surely",
+        "furigana": "実[じつ]に",
+        "kana": "じつに",
+        "answer": "じつに"
+      },
+      {
+        "japanese": "恐れる",
+        "english": "fear, apprehend",
+        "furigana": "恐[おそ]れる",
+        "kana": "おそれる",
+        "answer": "おそれる"
+      },
+      {
+        "japanese": "あくまで",
+        "english": "to the end, persistently",
+        "furigana": "あくまで",
+        "kana": "あくまで",
+        "answer": "あくまで"
+      },
+      {
+        "japanese": "鼻",
+        "english": "nose",
+        "furigana": "鼻[はな]",
+        "kana": "はな",
+        "answer": "はな"
+      },
+      {
+        "japanese": "担当",
+        "english": "person in charge",
+        "furigana": "担[たん] 当[とう]",
+        "kana": "たんとう",
+        "answer": "たんとう"
+      },
+      {
+        "japanese": "片手",
+        "english": "one hand",
+        "furigana": "片[かた] 手[て]",
+        "kana": "かたて",
+        "answer": "かたて"
+      },
+      {
+        "japanese": "幼い",
+        "english": "young, childish",
+        "furigana": "幼[おさな]い",
+        "kana": "おさない",
+        "answer": "おさない"
+      },
+      {
+        "japanese": "学ぶ",
+        "english": "learn, study",
+        "furigana": "学[まな]ぶ",
+        "kana": "まなぶ",
+        "answer": "まなぶ"
+      },
+      {
+        "japanese": "強引",
+        "english": "overbearing, pushy",
+        "furigana": "強[ごう] 引[いん]",
+        "kana": "ごういん",
+        "answer": "ごういん"
+      },
+      {
+        "japanese": "捲る",
+        "english": "turn up, roll up (e.g. sleeves)",
+        "furigana": "捲[まく]る",
+        "kana": "まくる",
+        "answer": "まくる"
+      },
+      {
+        "japanese": "漏れる",
+        "english": "leak, be disclosed",
+        "furigana": "漏[も]れる",
+        "kana": "もれる",
+        "answer": "もれる"
+      },
+      {
+        "japanese": "全体",
+        "english": "whole, total",
+        "furigana": "全[ぜん] 体[たい]",
+        "kana": "ぜんたい",
+        "answer": "ぜんたい"
+      },
+      {
+        "japanese": "度",
+        "english": "degree, extent",
+        "furigana": "度[ど]",
+        "kana": "ど",
+        "answer": "ど"
+      },
+      {
+        "japanese": "情けない",
+        "english": "pathetic, shameful",
+        "furigana": "情[なさ]けない",
+        "kana": "なさけない",
+        "answer": "なさけない"
+      },
+      {
+        "japanese": "太陽",
+        "english": "sun",
+        "furigana": "太[たい] 陽[よう]",
+        "kana": "たいよう",
+        "answer": "たいよう"
+      },
+      {
+        "japanese": "甘える",
+        "english": "depend on, take advantage of",
+        "furigana": "甘[あま]える",
+        "kana": "あまえる",
+        "answer": "あまえる"
+      },
+      {
+        "japanese": "踏む",
+        "english": "step on, tread on",
+        "furigana": "踏[ふ]む",
+        "kana": "ふむ",
+        "answer": "ふむ"
+      },
+      {
+        "japanese": "印象",
+        "english": "impression",
+        "furigana": "印[いん] 象[しょう]",
+        "kana": "いんしょう",
+        "answer": "いんしょう"
+      },
+      {
+        "japanese": "死体",
+        "english": "corpse, body",
+        "furigana": "死[し] 体[たい]",
+        "kana": "したい",
+        "answer": "したい"
+      },
+      {
+        "japanese": "支配",
+        "english": "control, management",
+        "furigana": "支[し] 配[はい]",
+        "kana": "しはい",
+        "answer": "しはい"
+      },
+      {
+        "japanese": "現場",
+        "english": "actual spot, job site",
+        "furigana": "現[げん] 場[ば]",
+        "kana": "げんば",
+        "answer": "げんば"
+      },
+      {
+        "japanese": "絶望",
+        "english": "despair, hopelessness",
+        "furigana": "絶[ぜつ] 望[ぼう]",
+        "kana": "ぜつぼう",
+        "answer": "ぜつぼう"
+      },
+      {
+        "japanese": "察する",
+        "english": "sense, guess",
+        "furigana": "察[さっ]する",
+        "kana": "さっする",
+        "answer": "さっする"
+      },
+      {
+        "japanese": "以来",
+        "english": "since",
+        "furigana": "以[い] 来[らい]",
+        "kana": "いらい",
+        "answer": "いらい"
+      },
+      {
+        "japanese": "漂う",
+        "english": "drift, float",
+        "furigana": "漂[ただよ]う",
+        "kana": "ただよう",
+        "answer": "ただよう"
+      },
+      {
+        "japanese": "探る",
+        "english": "probe, search into",
+        "furigana": "探[さぐ]る",
+        "kana": "さぐる",
+        "answer": "さぐる"
+      },
+      {
+        "japanese": "最大",
+        "english": "biggest, largest",
+        "furigana": "最[さい] 大[だい]",
+        "kana": "さいだい",
+        "answer": "さいだい"
+      },
+      {
+        "japanese": "下げる",
+        "english": "lower, turn down",
+        "furigana": "下[さ]げる",
+        "kana": "さげる",
+        "answer": "さげる"
+      },
+      {
+        "japanese": "捕まる",
+        "english": "be caught, be arrested",
+        "furigana": "捕[つか]まる",
+        "kana": "つかまる",
+        "answer": "つかまる"
+      },
+      {
+        "japanese": "戸惑う",
+        "english": "be perplexed, be bewildered",
+        "furigana": "戸[と] 惑[まど]う",
+        "kana": "とまどう",
+        "answer": "とまどう"
+      },
+      {
+        "japanese": "言い訳",
+        "english": "apology, excuse",
+        "furigana": "言[い]い 訳[わけ]",
+        "kana": "いいわけ",
+        "answer": "いいわけ"
+      },
+      {
+        "japanese": "証明",
+        "english": "proof, evidence",
+        "furigana": "証[しょう] 明[めい]",
+        "kana": "しょうめい",
+        "answer": "しょうめい"
+      },
+      {
+        "japanese": "参る",
+        "english": "go, come (humble form)",
+        "furigana": "参[まい]る",
+        "kana": "まいる",
+        "answer": "まいる"
+      },
+      {
+        "japanese": "見下ろす",
+        "english": "look down, overlook",
+        "furigana": "見[み] 下[お]ろす",
+        "kana": "みおろす",
+        "answer": "みおろす"
+      },
+      {
+        "japanese": "燃える",
+        "english": "burn, get fired up",
+        "furigana": "燃[も]える",
+        "kana": "もえる",
+        "answer": "もえる"
+      },
+      {
+        "japanese": "たまる",
+        "english": "accumulate, store up",
+        "furigana": "たまる",
+        "kana": "たまる",
+        "answer": "たまる"
+      },
+      {
+        "japanese": "暴れる",
+        "english": "act violently, rage about",
+        "furigana": "暴[あば]れる",
+        "kana": "あばれる",
+        "answer": "あばれる"
+      },
+      {
+        "japanese": "越える",
+        "english": "go over, go across, go beyond",
+        "furigana": "越[こ]える",
+        "kana": "こえる",
+        "answer": "こえる"
+      },
+      {
+        "japanese": "精神",
+        "english": "mind, spirit",
+        "furigana": "精[せい] 神[しん]",
+        "kana": "せいしん",
+        "answer": "せいしん"
+      },
+      {
+        "japanese": "男子",
+        "english": "boy, young man",
+        "furigana": "男[だん] 子[し]",
+        "kana": "だんし",
+        "answer": "だんし"
+      },
+      {
+        "japanese": "宣言",
+        "english": "declaration",
+        "furigana": "宣[せん] 言[げん]",
+        "kana": "せんげん",
+        "answer": "せんげん"
+      },
+      {
+        "japanese": "挟む",
+        "english": "hold between, put between, pinch",
+        "furigana": "挟[はさ]む",
+        "kana": "はさむ",
+        "answer": "はさむ"
+      },
+      {
+        "japanese": "防ぐ",
+        "english": "prevent, defend",
+        "furigana": "防[ふせ]ぐ",
+        "kana": "ふせぐ",
+        "answer": "ふせぐ"
+      },
+      {
+        "japanese": "預ける",
+        "english": "deposit, entrust",
+        "furigana": "預[あず]ける",
+        "kana": "あずける",
+        "answer": "あずける"
+      },
+      {
+        "japanese": "限る",
+        "english": "be limited to",
+        "furigana": "限[かぎ]る",
+        "kana": "かぎる",
+        "answer": "かぎる"
+      },
+      {
+        "japanese": "責める",
+        "english": "blame",
+        "furigana": "責[せ]める",
+        "kana": "せめる",
+        "answer": "せめる"
+      },
+      {
+        "japanese": "崩れる",
+        "english": "crumble, collapse",
+        "furigana": "崩[くず]れる",
+        "kana": "くずれる",
+        "answer": "くずれる"
+      },
+      {
+        "japanese": "一度も",
+        "english": "not even once, never",
+        "furigana": "一[いち] 度[ど]も",
+        "kana": "いちども",
+        "answer": "いちども"
+      },
+      {
+        "japanese": "ぼんやり",
+        "english": "vaguely, absent-mindedly",
+        "furigana": "ぼんやり",
+        "kana": "ぼんやり",
+        "answer": "ぼんやり"
+      },
+      {
+        "japanese": "その内",
+        "english": "before long, sooner or later",
+        "furigana": "その 内[うち]",
+        "kana": "そのうち",
+        "answer": "そのうち"
+      },
+      {
+        "japanese": "鏡",
+        "english": "mirror",
+        "furigana": "鏡[かがみ]",
+        "kana": "かがみ",
+        "answer": "かがみ"
+      },
+      {
+        "japanese": "貫く",
+        "english": "go through, carry out",
+        "furigana": "貫[つらぬ]く",
+        "kana": "つらぬく",
+        "answer": "つらぬく"
+      },
+      {
+        "japanese": "固まる",
+        "english": "harden, solidify",
+        "furigana": "固[かた]まる",
+        "kana": "かたまる",
+        "answer": "かたまる"
+      },
+      {
+        "japanese": "平和",
+        "english": "peace, harmony",
+        "furigana": "平[へい] 和[わ]",
+        "kana": "へいわ",
+        "answer": "へいわ"
+      },
+      {
+        "japanese": "意志",
+        "english": "will, volition",
+        "furigana": "意[い] 志[し]",
+        "kana": "いし",
+        "answer": "いし"
+      },
+      {
+        "japanese": "下手",
+        "english": "bad at, poor",
+        "furigana": "下手[へた]",
+        "kana": "へた",
+        "answer": "へた"
+      },
+      {
+        "japanese": "続き",
+        "english": "continuation, sequel",
+        "furigana": "続[つづ]き",
+        "kana": "つづき",
+        "answer": "つづき"
+      },
+      {
+        "japanese": "祈る",
+        "english": "pray",
+        "furigana": "祈[いの]る",
+        "kana": "いのる",
+        "answer": "いのる"
+      },
+      {
+        "japanese": "午後",
+        "english": "afternoon, p.m.",
+        "furigana": "午[ご] 後[ご]",
+        "kana": "ごご",
+        "answer": "ごご"
+      },
+      {
+        "japanese": "同様",
+        "english": "similar",
+        "furigana": "同[どう] 様[よう]",
+        "kana": "どうよう",
+        "answer": "どうよう"
+      },
+      {
+        "japanese": "外れる",
+        "english": "come undone, be removed",
+        "furigana": "外[はず]れる",
+        "kana": "はずれる",
+        "answer": "はずれる"
+      },
+      {
+        "japanese": "歌う",
+        "english": "sing",
+        "furigana": "歌[うた]う",
+        "kana": "うたう",
+        "answer": "うたう"
+      },
+      {
+        "japanese": "回",
+        "english": "times",
+        "furigana": "回[かい]",
+        "kana": "かい",
+        "answer": "かい"
+      },
+      {
+        "japanese": "固い",
+        "english": "stiff, tight",
+        "furigana": "固[かた]い",
+        "kana": "かたい",
+        "answer": "かたい"
+      },
+      {
+        "japanese": "最強",
+        "english": "strongest",
+        "furigana": "最[さい] 強[きょう]",
+        "kana": "さいきょう",
+        "answer": "さいきょう"
+      },
+      {
+        "japanese": "弾く",
+        "english": "to strum (e.g. a guitar), to flick",
+        "furigana": "弾[ひ]く",
+        "kana": "ひく",
+        "answer": "ひく"
+      },
+      {
+        "japanese": "正解",
+        "english": "right answer, correct solution",
+        "furigana": "正[せい] 解[かい]",
+        "kana": "せいかい",
+        "answer": "せいかい"
+      },
+      {
+        "japanese": "きつい",
+        "english": "tight, tough",
+        "furigana": "きつい",
+        "kana": "きつい",
+        "answer": "きつい"
+      },
+      {
+        "japanese": "お陰",
+        "english": "help, thanks to",
+        "furigana": "お 陰[かげ]",
+        "kana": "おかげ",
+        "answer": "おかげ"
+      },
+      {
+        "japanese": "地獄",
+        "english": "hell",
+        "furigana": "地[じ] 獄[ごく]",
+        "kana": "じごく",
+        "answer": "じごく"
+      },
+      {
+        "japanese": "年齢",
+        "english": "age, years",
+        "furigana": "年[ねん] 齢[れい]",
+        "kana": "ねんれい",
+        "answer": "ねんれい"
+      },
+      {
+        "japanese": "病気",
+        "english": "illness",
+        "furigana": "病[びょう] 気[き]",
+        "kana": "びょうき",
+        "answer": "びょうき"
+      },
+      {
+        "japanese": "携帯",
+        "english": "cell phone",
+        "furigana": "携[けい] 帯[たい]",
+        "kana": "けいたい",
+        "answer": "けいたい"
+      },
+      {
+        "japanese": "ますます",
+        "english": "increasingly",
+        "furigana": "ますます",
+        "kana": "ますます",
+        "answer": "ますます"
+      },
+      {
+        "japanese": "並べる",
+        "english": "line up, display, set up",
+        "furigana": "並[なら]べる",
+        "kana": "ならべる",
+        "answer": "ならべる"
+      },
+      {
+        "japanese": "契約",
+        "english": "contract, agreement",
+        "furigana": "契[けい] 約[やく]",
+        "kana": "けいやく",
+        "answer": "けいやく"
+      },
+      {
+        "japanese": "永遠",
+        "english": "eternity",
+        "furigana": "永[えい] 遠[えん]",
+        "kana": "えいえん",
+        "answer": "えいえん"
+      },
+      {
+        "japanese": "不意に",
+        "english": "suddenly, unexpectedly",
+        "furigana": "不[ふ] 意[い]に",
+        "kana": "ふいに",
+        "answer": "ふいに"
+      },
+      {
+        "japanese": "呪い",
+        "english": "curse, spell",
+        "furigana": "呪[のろ]い",
+        "kana": "のろい",
+        "answer": "のろい"
+      },
+      {
+        "japanese": "組",
+        "english": "school class",
+        "furigana": "組[くみ]",
+        "kana": "くみ",
+        "answer": "くみ"
+      },
+      {
+        "japanese": "踊る",
+        "english": "dance",
+        "furigana": "踊[おど]る",
+        "kana": "おどる",
+        "answer": "おどる"
+      },
+      {
+        "japanese": "目覚める",
+        "english": "wake (up), come to one's senses",
+        "furigana": "目[め] 覚[ざ]める",
+        "kana": "めざめる",
+        "answer": "めざめる"
+      },
+      {
+        "japanese": "事故",
+        "english": "accident, incident",
+        "furigana": "事[じ] 故[こ]",
+        "kana": "じこ",
+        "answer": "じこ"
+      },
+      {
+        "japanese": "袋",
+        "english": "bag, sack",
+        "furigana": "袋[ふくろ]",
+        "kana": "ふくろ",
+        "answer": "ふくろ"
+      },
+      {
+        "japanese": "派手",
+        "english": "showy, flashy",
+        "furigana": "派[は] 手[で]",
+        "kana": "はで",
+        "answer": "はで"
+      },
+      {
+        "japanese": "今更",
+        "english": "now (when it's too late), at this stage",
+        "furigana": "今[いま] 更[さら]",
+        "kana": "いまさら",
+        "answer": "いまさら"
+      },
+      {
+        "japanese": "真っ直ぐ",
+        "english": "straight ahead, straightforward",
+        "furigana": "真[ま]っ 直[す]ぐ",
+        "kana": "まっすぐ",
+        "answer": "まっすぐ"
+      },
+      {
+        "japanese": "油断",
+        "english": "inattention, carelessness",
+        "furigana": "油[ゆ] 断[だん]",
+        "kana": "ゆだん",
+        "answer": "ゆだん"
+      },
+      {
+        "japanese": "ぶつける",
+        "english": "bump",
+        "furigana": "ぶつける",
+        "kana": "ぶつける",
+        "answer": "ぶつける"
+      },
+      {
+        "japanese": "育つ",
+        "english": "be brought up, grow",
+        "furigana": "育[そだ]つ",
+        "kana": "そだつ",
+        "answer": "そだつ"
+      },
+      {
+        "japanese": "傷つく",
+        "english": "get hurt",
+        "furigana": "傷[きず]つく",
+        "kana": "きずつく",
+        "answer": "きずつく"
+      },
+      {
+        "japanese": "発する",
+        "english": "emit, radiate",
+        "furigana": "発[はっ]する",
+        "kana": "はっする",
+        "answer": "はっする"
+      },
+      {
+        "japanese": "終了",
+        "english": "end, expiry",
+        "furigana": "終[しゅう] 了[りょう]",
+        "kana": "しゅうりょう",
+        "answer": "しゅうりょう"
+      },
+      {
+        "japanese": "足音",
+        "english": "sound of footsteps",
+        "furigana": "足[あし] 音[おと]",
+        "kana": "あしおと",
+        "answer": "あしおと"
+      },
+      {
+        "japanese": "決意",
+        "english": "decision, resolution",
+        "furigana": "決[けつ] 意[い]",
+        "kana": "けつい",
+        "answer": "けつい"
+      },
+      {
+        "japanese": "感心",
+        "english": "admiration",
+        "furigana": "感[かん] 心[しん]",
+        "kana": "かんしん",
+        "answer": "かんしん"
+      },
+      {
+        "japanese": "飲み込む",
+        "english": "swallow, grasp",
+        "furigana": "飲[の]み 込[こ]む",
+        "kana": "のみこむ",
+        "answer": "のみこむ"
+      },
+      {
+        "japanese": "仮に",
+        "english": "supposing that, even if",
+        "furigana": "仮[かり]に",
+        "kana": "かりに",
+        "answer": "かりに"
+      },
+      {
+        "japanese": "お菓子",
+        "english": "sweets, snacks",
+        "furigana": "お 菓[か] 子[し]",
+        "kana": "おかし",
+        "answer": "おかし"
+      },
+      {
+        "japanese": "染まる",
+        "english": "be dyed, be tainted",
+        "furigana": "染[そ]まる",
+        "kana": "そまる",
+        "answer": "そまる"
+      },
+      {
+        "japanese": "笑い",
+        "english": "laughter, laugh",
+        "furigana": "笑[わら]い",
+        "kana": "わらい",
+        "answer": "わらい"
+      },
+      {
+        "japanese": "買い物",
+        "english": "shopping",
+        "furigana": "買[か]い 物[もの]",
+        "kana": "かいもの",
+        "answer": "かいもの"
+      },
+      {
+        "japanese": "歌",
+        "english": "song",
+        "furigana": "歌[うた]",
+        "kana": "うた",
+        "answer": "うた"
+      },
+      {
+        "japanese": "庭",
+        "english": "garden, yard",
+        "furigana": "庭[にわ]",
+        "kana": "にわ",
+        "answer": "にわ"
+      },
+      {
+        "japanese": "生き物",
+        "english": "living creature",
+        "furigana": "生[い]き 物[もの]",
+        "kana": "いきもの",
+        "answer": "いきもの"
+      },
+      {
+        "japanese": "特殊",
+        "english": "special, unique",
+        "furigana": "特[とく] 殊[しゅ]",
+        "kana": "とくしゅ",
+        "answer": "とくしゅ"
+      },
+      {
+        "japanese": "連れて行く",
+        "english": "take (a person) along",
+        "furigana": "連[つ]れて 行[い]く",
+        "kana": "つれていく",
+        "answer": "つれていく"
+      },
+      {
+        "japanese": "現状",
+        "english": "present condition",
+        "furigana": "現[げん] 状[じょう]",
+        "kana": "げんじょう",
+        "answer": "げんじょう"
+      },
+      {
+        "japanese": "大分",
+        "english": "very, greatly",
+        "furigana": "大[だい] 分[ぶ]",
+        "kana": "だいぶ",
+        "answer": "だいぶ"
+      },
+      {
+        "japanese": "底",
+        "english": "bottom",
+        "furigana": "底[そこ]",
+        "kana": "そこ",
+        "answer": "そこ"
+      },
+      {
+        "japanese": "学生",
+        "english": "student",
+        "furigana": "学[がく] 生[せい]",
+        "kana": "がくせい",
+        "answer": "がくせい"
+      },
+      {
+        "japanese": "丁寧",
+        "english": "polite, careful",
+        "furigana": "丁[てい] 寧[ねい]",
+        "kana": "ていねい",
+        "answer": "ていねい"
+      },
+      {
+        "japanese": "範囲",
+        "english": "range, scope",
+        "furigana": "範[はん] 囲[い]",
+        "kana": "はんい",
+        "answer": "はんい"
+      },
+      {
+        "japanese": "テレビ",
+        "english": "television",
+        "furigana": "テレビ",
+        "kana": "テレビ",
+        "answer": "てれび"
+      },
+      {
+        "japanese": "美人",
+        "english": "beautiful woman",
+        "furigana": "美[び] 人[じん]",
+        "kana": "びじん",
+        "answer": "びじん"
+      },
+      {
+        "japanese": "技",
+        "english": "skill",
+        "furigana": "技[わざ]",
+        "kana": "わざ",
+        "answer": "わざ"
+      },
+      {
+        "japanese": "将来",
+        "english": "one's future, in the future",
+        "furigana": "将[しょう] 来[らい]",
+        "kana": "しょうらい",
+        "answer": "しょうらい"
+      },
+      {
+        "japanese": "記録",
+        "english": "record, documentation",
+        "furigana": "記[き] 録[ろく]",
+        "kana": "きろく",
+        "answer": "きろく"
+      },
+      {
+        "japanese": "大人しい",
+        "english": "tame, quiet, obedient, calm",
+        "furigana": "大人[おとな]しい",
+        "kana": "おとなしい",
+        "answer": "おとなしい"
+      },
+      {
+        "japanese": "骨",
+        "english": "bone",
+        "furigana": "骨[ほね]",
+        "kana": "ほね",
+        "answer": "ほね"
+      },
+      {
+        "japanese": "目標",
+        "english": "target, goal",
+        "furigana": "目[もく] 標[ひょう]",
+        "kana": "もくひょう",
+        "answer": "もくひょう"
+      },
+      {
+        "japanese": "肉体",
+        "english": "body, flesh",
+        "furigana": "肉[にく] 体[たい]",
+        "kana": "にくたい",
+        "answer": "にくたい"
+      },
+      {
+        "japanese": "届ける",
+        "english": "deliver, give notice",
+        "furigana": "届[とど]ける",
+        "kana": "とどける",
+        "answer": "とどける"
+      },
+      {
+        "japanese": "足元",
+        "english": "step, under foot",
+        "furigana": "足[あし] 元[もと]",
+        "kana": "あしもと",
+        "answer": "あしもと"
+      },
+      {
+        "japanese": "捜す",
+        "english": "look for, search for",
+        "furigana": "捜[さが]す",
+        "kana": "さがす",
+        "answer": "さがす"
+      },
+      {
+        "japanese": "わざと",
+        "english": "on purpose",
+        "furigana": "わざと",
+        "kana": "わざと",
+        "answer": "わざと"
+      },
+      {
+        "japanese": "いかが",
+        "english": "how, would you like",
+        "furigana": "いかが",
+        "kana": "いかが",
+        "answer": "いかが"
+      },
+      {
+        "japanese": "布",
+        "english": "cloth",
+        "furigana": "布[ぬの]",
+        "kana": "ぬの",
+        "answer": "ぬの"
+      },
+      {
+        "japanese": "種類",
+        "english": "kind, species",
+        "furigana": "種[しゅ] 類[るい]",
+        "kana": "しゅるい",
+        "answer": "しゅるい"
+      },
+      {
+        "japanese": "満たす",
+        "english": "fill, satisfy",
+        "furigana": "満[み]たす",
+        "kana": "みたす",
+        "answer": "みたす"
+      },
+      {
+        "japanese": "景色",
+        "english": "scenery",
+        "furigana": "景色[けしき]",
+        "kana": "けしき",
+        "answer": "けしき"
+      },
+      {
+        "japanese": "勇気",
+        "english": "courage, nerve",
+        "furigana": "勇[ゆう] 気[き]",
+        "kana": "ゆうき",
+        "answer": "ゆうき"
+      },
+      {
+        "japanese": "強化",
+        "english": "strengthening",
+        "furigana": "強[きょう] 化[か]",
+        "kana": "きょうか",
+        "answer": "きょうか"
+      },
+      {
+        "japanese": "加える",
+        "english": "add, include",
+        "furigana": "加[くわ]える",
+        "kana": "くわえる",
+        "answer": "くわえる"
+      },
+      {
+        "japanese": "言い出す",
+        "english": "begin to say, be the first to say, propose",
+        "furigana": "言[い]い 出[だ]す",
+        "kana": "いいだす",
+        "answer": "いいだす"
+      },
+      {
+        "japanese": "収まる",
+        "english": "to be settled (e.g. a dispute), to be contained within",
+        "furigana": "収[おさ]まる",
+        "kana": "おさまる",
+        "answer": "おさまる"
+      },
+      {
+        "japanese": "組織",
+        "english": "organization, structure",
+        "furigana": "組[そ] 織[しき]",
+        "kana": "そしき",
+        "answer": "そしき"
+      },
+      {
+        "japanese": "隙間",
+        "english": "crack, gap",
+        "furigana": "隙[すき] 間[ま]",
+        "kana": "すきま",
+        "answer": "すきま"
+      },
+      {
+        "japanese": "本日",
+        "english": "today",
+        "furigana": "本[ほん] 日[じつ]",
+        "kana": "ほんじつ",
+        "answer": "ほんじつ"
+      },
+      {
+        "japanese": "先日",
+        "english": "the other day, a few days ago",
+        "furigana": "先[せん] 日[じつ]",
+        "kana": "せんじつ",
+        "answer": "せんじつ"
+      },
+      {
+        "japanese": "月曜日",
+        "english": "Monday",
+        "furigana": "月[げつ] 曜[よう] 日[び]",
+        "kana": "げつようび",
+        "answer": "げつようび"
+      },
+      {
+        "japanese": "火曜日",
+        "english": "Tuesday",
+        "furigana": "火[か] 曜[よう] 日[び]",
+        "kana": "かようび",
+        "answer": "かようび"
+      },
+      {
+        "japanese": "水曜日",
+        "english": "Wednesday",
+        "furigana": "水[すい] 曜[よう] 日[び]",
+        "kana": "すいようび",
+        "answer": "すいようび"
+      },
+      {
+        "japanese": "木曜日",
+        "english": "Thursday",
+        "furigana": "木[もく] 曜[よう] 日[び]",
+        "kana": "もくようび",
+        "answer": "もくようび"
+      },
+      {
+        "japanese": "金曜日",
+        "english": "Friday",
+        "furigana": "金[きん] 曜[よう] 日[び]",
+        "kana": "きんようび",
+        "answer": "きんようび"
+      },
+      {
+        "japanese": "土曜日",
+        "english": "Saturday",
+        "furigana": "土[ど] 曜[よう] 日[び]",
+        "kana": "どようび",
+        "answer": "どようび"
+      },
+      {
+        "japanese": "日曜日",
+        "english": "Sunday",
+        "furigana": "日[にち] 曜[よう] 日[び]",
+        "kana": "にちようび",
+        "answer": "にちようび"
+      },
+      {
+        "japanese": "一つ",
+        "english": "one (thing)",
+        "furigana": "一[ひと]つ",
+        "kana": "ひとつ",
+        "answer": "ひとつ"
+      },
+      {
+        "japanese": "二つ",
+        "english": "two (things)",
+        "furigana": "二[ふた]つ",
+        "kana": "ふたつ",
+        "answer": "ふたつ"
+      },
+      {
+        "japanese": "三つ",
+        "english": "three (things)",
+        "furigana": "三[みっ]つ",
+        "kana": "みっつ",
+        "answer": "みっつ"
+      },
+      {
+        "japanese": "四つ",
+        "english": "four (things)",
+        "furigana": "四[よっ]つ",
+        "kana": "よっつ",
+        "answer": "よっつ"
+      },
+      {
+        "japanese": "五つ",
+        "english": "five (things)",
+        "furigana": "五[いつ]つ",
+        "kana": "いつつ",
+        "answer": "いつつ"
+      },
+      {
+        "japanese": "六つ",
+        "english": "six (things)",
+        "furigana": "六[むっ]つ",
+        "kana": "むっつ",
+        "answer": "むっつ"
+      },
+      {
+        "japanese": "七つ",
+        "english": "seven (things)",
+        "furigana": "七[なな]つ",
+        "kana": "ななつ",
+        "answer": "ななつ"
+      },
+      {
+        "japanese": "八つ",
+        "english": "eight (things)",
+        "furigana": "八[やっ]つ",
+        "kana": "やっつ",
+        "answer": "やっつ"
+      },
+      {
+        "japanese": "九つ",
+        "english": "nine (things)",
+        "furigana": "九[ここの]つ",
+        "kana": "ここのつ",
+        "answer": "ここのつ"
+      },
+      {
+        "japanese": "評価",
+        "english": "evaluation, appraisal, recognition",
+        "furigana": "評[ひょう] 価[か]",
+        "kana": "ひょうか",
+        "answer": "ひょうか"
       }
     ]
   }
